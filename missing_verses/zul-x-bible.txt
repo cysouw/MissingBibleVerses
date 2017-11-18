@@ -1,7 +1,8 @@
-40019026
-40019027
-40019028
-40019029
-40019030
-40020001
-42020030
+40019025	Sebezwile lokho abafundi bethuka kakhulu, bathi: “Pho, kungasindiswa bani na?”
+40019026	Kepha uJesu ebabheka wathi kubo: “Kubantu akunakwenzeka; kepha kuNkulunkulu kungenzeka konke.”
+40019027	Khona uPetru wathatha wathi kuye: “Bheka, thina sishiye konke, sakulandela. Pho, siyakutholani na?”
+40019028	Wathi kubo uJesu: “Ngiqinisile ngithi kini: Nina eningilandeleyo, ngokuphindukuzalwa lapho iNdodana yomuntu isihlezi esihlalweni senkazimulo yayo, nani niyakuhlala ezihlalweni zobukhosi eziyishumi nambili, nahlulele izizwe eziyishumi nambili zakwa-Israyeli.
+40019029	Nalowo oshiye izindlu, noma abafowabo, noma odadewabo, noma uyise, noma unina, noma abantwana, noma amazwe ngenxa yegama lami, uyakwamukeliswa okuphindwe kaningi, adle ifa lokuphila okuphakade.
+40019030	Kepha abaningi abokuqala bayakuba ngabokugcina, nabokugcina babe ngabokuqala.
+40020001	“Ngokuba umbuso wezulu ufana nomuntu ongumninindlu owaphuma ekuseni ukuqasha izisebenzi ziye esivinini sakhe.
+42020030	nowesibili
