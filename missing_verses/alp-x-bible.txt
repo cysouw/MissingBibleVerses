@@ -1,111 +1,111 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40006010
-40006011
-40006012
-40006013
-40010003
-40010004
-41003005
-41003006
-41005010
-41007007
-41012037
-42011003
-42011004
-42019038
-42020018
-43008001
-43008002
-43008003
-43008004
-43008005
-43008006
-43011042
-43012015
-43012040
-44002010
-44002017
-44002018
-44002019
-44002020
-44002021
-44002027
-44002028
-44002029
-44002030
-44002031
-44002036
-44013034
-44013035
-44013036
-44013037
-44013038
-44013039
-44013040
-44013042
-44013043
-44013048
-44017029
-44017030
-44017031
-44024026
-44028026
-44028027
-44028028
-45004007
-45004008
-45008037
-45008038
-45008039
-45009016
-45009017
-45009018
-45009026
-45009027
-45010009
-45010010
-45010011
-45010012
-45010013
-45010019
-45010020
-45010021
-45011028
-45011029
-45011030
-45011031
-45011032
-45011036
-45014012
-45015010
-45015011
-45015012
-47006001
-47006002
-47007001
-49004009
-49004010
-49004011
-49004012
-49004013
-49005032
-49005033
-58004006
-58004007
-58010031
-58013006
-66022020
+40001002	Abrahame eni nanae kena Isake, Isake eni nanae kena Yakupe, Yakupe eni nanae kena Yehuda kai kwalinisi, 
+40001003	Yehuda eni nanae kena Perese kai Sera, bei eni bina Tamare. Eleki Perese eni nanae kena Hesrone, Hesrone eni nanae kena Rame, 
+40001004	Rame eni nanae kena Aminadape, Aminadape eni nanae kena Nahasone, Nahasone eni nanae kena Salmone,
+40001005	Salmone eni nanae kena Boase bei eni bina Rahape, Boase eni nanae kena Obeta bei eni bina Ruta, Obeta eni nanae kena Isai,
+40001006	eleki Isai eni nanae kena kamale Dauta. Kamale Dauta eni nanae kena Salomo bei Uria matale eni bina,
+40001007	Salomo eni nanae kena Rehabeame, Rehabeame eni nanae kena Abia, Abia eni nanae kena Asa, 
+40001008	Asa eni nanae kena Yosapate, Yosapate eni nanae kena Yorame, Yorame eni nanae kena Usia, 
+40001009	Usia eni nanae kena Yotame, Yotame eni nanae kena Ahase, Ahase eni nanae kena Hiskia, 
+40001010	Hiskia eni nanae kena Manase, Manase eni nanae kena Amone, Amone eni nanae kena Yosia,
+40001011	Yosia eni nanae kena Yekonia kai kwalinisi, kena mere tamata Babelaru esi kerike mahake pusue tamata Yahudiaru, eleki esi kerisi me kota Babele. 
+40001012	Kena esi supu keri me kota Babele pela, eleki Yekonia eni nanae kena Sealtiele, Sealtiele eni nanae kena Serubabele, 
+40001013	Serubabele eni nanae kena Abihute, Abihute eni nanae kena Elyakime, Elyakime eni nanae kena Asore,
+40001014	Asore eni nanae kena Sadoke, Sadoke eni nanae kena Akime, Akime eni nanae kena Eliute,
+40001015	Eliute eni nanae kena Eleasare, Eleasare eni nanae kena Matane, Matane eni nanae kena Yakupe, 
+40001016	Yakupe eni nanae kena Yusupe, Maria eni mokwai, rebe eni nanae kena Yesuse rebe kotiNe Maka Hlamate.
+40006010	Ale Kamale mei nusa, ami kotie Akbasa pusue tamata mei nusa meije. Ami kotie laleMu noa ami leke ami lulu Ale lupe sie ndete surgare esi lulu Allare.
+40006011	Riluke manane ete ami panuhu kena petu meije, 
+40006012	kai ampune amiki salaru, saka ami ampune tamata rebe iono sala ete amire neka. 
+40006013	Kai kena ro tiaru esi elake eteheke amire, Asebeie ami hlaleke ktili loko Ale mo yake, po tie ami bei ro tiaru esi elake esi kbasare leke ami ono dosa yake. [Le Ale Kamale rebe Akbasa kai hita titinai eti pela. Amine.]’
+40010003	Pilipuse kai Bartolomeuse, Tomase kai Matiuse maka kotie pajake, Alfeuse eni nanae Yakobuse kai Tadeuse,
+40010004	Simone bei golongane Selote kai Yudase Iskariote rebe tatike pine iabelie Yesuse ete tamata rebe esi suka bunuIje.
+41003005	Yesuse Ilimese keholi kai Inasukesi, po kaplaleI titinai lekwe le ulu buaisu ela kuate, eleki Ibeteke loko tamata mere be, “Batake balamu lomei!” Ibatake balaije eleki balaije mise ne.
+41003006	Eleki tamata Parisiaru esi siri bei Yahudiaru esi luma ibadare kai esi lepa menai kai tamata rebe esi lulu kamale Herodese kena bunu Yesuse elia.
+41005010	Eleki ekotie susuike beiNi be, “Sui ami bei otoi meije yanoma!”
+41007007	Esi kotie loko Aure esi guna sasaisa mo; esi atetuke tamata eni aturane esi ono saka mere Auku Aturane.’ 
+41012037	Meije Dauta ruai ikotiNe Tuhane hoko Tuhane Irulu beini yelo?” Tamata bokala esi lene loko Yesuse, hoko lalesi ndina titinai.
+42011003	Riluke manane ete ami panuhu ami kane pela petu noma.
+42011004	Ampune amiki dosaru, le ami lekwe ami ampune tamata rebe esi ono dosa ete amire. Sebeie ami kena ro tiaru esi elake eteheke ami yake leke ami ono dosa yake.”
+42019038	Isike kamale elake. Aluke kena Tuhane eni nane! Meije Alla Ale rebe ndete surga kai ami tamata mei nusa meije pusuma rue mise! Amu kbasare hita lakwai esa ndete surga rebe nanu titinai!”
+42020018	Tamata rebe itetu kena batu mere isupu kera lakwai esa kai tamata rebe batu mere etetu kenai hoko esepei mutale.”
+43008001	po Yesuse Isa lolete ulate saitune aini bokalaru.
+43008002	Eleki bebeleti lakwai esa sa Ikeu me Tuhane Eni Lumare suike leneka kai tamata bokala esi luake lokoI. Eleki Yesuse Irue kena Iatetukesi.
+43008003	Kena mere kuru Torataru kai tamata Parisiaru esi keri bina sae me lokoI. Esi tetue bina mere isablia. Esi ulake bina mere ikele me tamata bokala meru esi tlaisu. 
+43008004	Esi beteke loko Yesuse be, “Kuru, ami tetue bina meije isablia.
+43008005	Kena Tuhane Eni lepate rebe Musa Ilekire ebeteke be raba bina rebe iono ele meije eti imata. Hoko Anoake elia?”
+43008006	Esi beteke ele mere kena esi teheke Yesuse, leke esi supu Yesuse Iono sala, leke esi tutukeNi kena pakala. Po Yesuse inobo kai Ileki kena balaubuije kena tapele babaije. 
+43011042	Au rekware Ara lene naKue rame. Po Au beteke meije ete tamata rebe esi kele ete meije leke esi rekwa be Amate Ale pine Aulake Au lomei nusa meije.”
+43012015	“Tamata Yerusalema, rilami yake! Imi Kamale Iluake loko imi. Iluake Isa keledai tlai.”
+43012040	Ibeteke be, “Tuhane ruaI pine Iono mataisu selu mo kai ulu buaisu ela leke esi selu yake kai esi noake yake kai leke esi leu suike lokoI yake kai yapine Iono mise suike kaisi.” 
+44002010	Bei otoi Prigia, otoi Pampilia, bei otoi Mesire, kai bei ootoi me Libia tehaike kota Kirene, kai tamata meiju leini bei kota Roma.
+44002017	‘Kena nusare koho nere Au ono Ro Misete Ikbasae pusue tamata. Saisa rebe Au betekele ete imi kwete mokwai kai kwete binaru esi betekele ete imi. Kai imi kwete belukaru esi selu saisa rebe Au aseluke eteise. Kai imi elaka inaiju esi kmanie saisa rebe Au rilukele eteise. 
+44002018	Ete Auku tamata makerikaru lekwe, mokwai pise bina Au ono Ro Misete Ikbasaesi, hoko esi lepa saisa rebe Au suka esi betekele. 
+44002019	Au ono tanda herane ndete lanite kai mei nusa, Au ono lalakwe kai auwe kai auwe kweini.
+44002020	Kena petu elake kai misete rebe Tuhane Ipleta tamatare eono mosare, lemataije mele titinai kai bulane elala saka lalakwe. 
+44002021	Kena petu mere sire rebe Ikoti ampune bei Tuhane hoko isupu ampune kai isupu hlamate.’ 
+44002027	Le Asebeie au mata eti pela mo, kai kena au rebe hlaleke loko Ale, kena au matare Aono nanakwalaku atia mo. 
+44002028	Atiluke lalane ete au kena au supu rue mise, kai laleku ndina le Arakaku.’ 
+44002029	Kwali betaya imi, meije au beteke iteki ntuane mena Dauta ete imi. Imata kai hnoukeni peneka, eni lataije eti meije ere me sa. 
+44002030	Alla Ibeteke kai Ila etei peneka be sae bei eni anubuaru tatike pine Alla Ibitikeni kena kamale. Le Dauta irekwa Alla Ibeteke mere kai ile nabi lekwe, hoko irekwa saisa rebe Alla Ionore.
+44002031	Dauta irekwa be namake Maka Hlamate rebe Alla IbetekeNi, Ikwana suike bei matale. Hoko Dauta ibeteke be: ‘Maka Hlamate, Alla Isebei Imata eti pela mo. Nana kwalaIje pulue kai atia mo.’ 
+44002036	Hoko pusue tamata Israele suke rekwa mimise be Yesuse rebe imi pakuI ahlake ai bataije, Alla IbitikeNi kena Tuhane kai Maka Hlamate.”
+44013034	Alla Iono Ikwana suike bei matale peneka, hoko meije Imata suike moneka. Le Alla Ibeteke lokoI peneka be: ‘Saisa rebe Au taluke misete ete Dauta pende. Au ono ete Ale tinai sa.’ 
+44013035	Kai buku Isike Alla pasale makete lekwe ibeteke be: ‘Asebei Au rebe Auku dosa sae mo, au mata kai pulueku mo.’
+44013036	Dauta iono lulu Alla Iulakeine peneka, kai imata peneka kai hnoukeni tehaike eni ntuane menaru. Kai pulueni peneka.
+44013037	Po Yesuse rebe Alla Iono Ikwana suike, pulueNi mo. 
+44013038	Hoko au beteke ete kwalia imi leke imi rekwa be ami beteke be Alla Iampune imi dosaru le Yesuse Imata kai kwana suike ete imi peneka. Kai sire rebe ihlaleke lokoIje, Alla Inete loko eni dosaru moneka. Kai sire pine ilulu hukume rebe Musa ilekire po ihlaleke loko Yesuse mo, hoko Alla inete loko eni dosaru rame. 
+44013039	
+44013040	Bei mere hoko imi noake mimise leke saisa rebe nabiaru esi lekiule uono kena imi yake. Le nabia menaru esi leki kai beteke be: 
+44013042	Eleki kena Pauluse kai Barnabase luasi siri bei luma ibadare, tamata me luma ibadare esi kotie bei luasi leke esi kusu kena petu plei suike kena lepa sibae lepata meru etesi.
+44013043	Eleki kena tamata meru esi siri pususi bei luma ibadare peneka, tamata Yahudi bokala kai tamata nusa maketa lekwe rebe esi hlaleke lulu tamata Yahudi pende esi keu lulu Pauluse kai Barnabase. Hoko luasi hnausi rame leke esi hlaleke loko Alla be Alla Iono misete rame.
+44013048	Eleki kena tamata nusa maketa bei tamata Yahudiaru esi lene mere, hoko lalesi ndina titinai eleki esi isike Alla le Sou Misete kena Yesuse. Kai tamata rebe Alla Iteusi kena supu bitikesi supu rue eti pela pende esi hlaleke loko Yesuse. 
+44017029	Ina kai amaya, ite meiju Alla Eni nanae. Hoko ite noake be Alla Isakesa kai yelu lakai bei mase pise perake pise batu yake. Yelu lakai meru batuke tamata sionolu lulu esi rekwaule.
+44017030	Akmenare tamata esi rekwa Alla Isuka esi onore mosa, hoko Iteu pakala kena iteki dosaru mosa. Po pamuli meije Iulake pusue ite tamata mei nusa meije leke hleke bei ono dosa. 
+44017031	Le Alla Iteu petu sae me peneka kena teu pakala ete pusue tamata mei nusa meije kena nkenale. Alla Ibitike Ile sae kena ono mere peneka. Ile mere Yesuse rebe Alla Iono Ikwana suike bei matale kai ite rekwa be namake Iteu pakala ete ite tamata lulu iteki nsalalaru.”
+44024026	Kena mere gubernure mere ihlaleke be Pauluse iriluke kepene etei leke isupu tie. Ele mere hoko iulake koti Pauluse rame leke ialena kaini. 
+44028026	‘Akeu beteke ete imi tamataru be, esi lene auku hnaunaru rame po esi nati mo, esi selu saisa rebe au onore rame po esi rekwa mo.
+44028027	Meije tatike pine eono le lalesi rekwa sasaisa moneka, esi sou tlina loisu, kai esi kobue mataisu. Sepo esi suka hnaunaru, hoko suke esi lene, esi selu kai esi nati. Eleki esi leu suike loko Au, hoko Au nete loko esi dosaru moneka.’ 
+44028028	Kwalia imi. Suke imi rekwa be, pamuli meije sou rebe ebeteke Alla Iono hlamate tamata bei dosare, lepaele ete tamata makete rebe tamata Yahudi mo. Esi lene loko rame.” 
+45004007	“Tamata rebe Alla Inete loko eni nsalalaru kai eni dosaru monde, isupu untune elake. 
+45004008	Tamata rebe Alla Ileuke sala etei loko eni dosaru monde, isupu untune elake.”
+45008037	Masike ite supu pusue meru po enabu ite mo. Po itere saka tamata rebe esi ktili lesi kena lisare, le Yesuse Kristuse Ioki ite. 
+45008038	Au hlaleke be masike ite mata, pise kena ite hidupe masike malekate pise sie rebe esi kbasa kena meije, pise petu pamuliaru lekwe, 
+45008039	yelu rebe ukbasa ndete lanite pise yelu mei nusa, pise saisa makete lekwe, pusulu lake rua Alla Ioki itere mo, lupe Iaselukele baue iteki Tuhane, Kristuse Yesuse pende.
+45009016	Hoko saisa rebe Alla Iteure, mere selue bei tamata eni sukare mo kai tamata eni makerike mo, po bei Alla Eni lale misete ete sie rebe Ililakeise.
+45009017	Nete loko akmena Alla Eni lepate ete kamale Mesire be, “Au bitike ale kena kamale, lulu Auku sukare. Leke bei ale, Au aseluke Auku kbasare kai leke pusue tamata mei nusare esi holmate Au.” 
+45009018	Hoko Alla laleije noa sae sepo Isuka ele mere, kai Iono sae ulu buaije ela sepo Isuka ele mere lekwe.
+45009026	Kai Ibeteke lekwe be: “Akmenare Auku tamata kena imi mo, po pamuli meije kotie imire Alla rebe Irue eti pelare Eni nanae.”
+45009027	Alla Ibeteke ete tamata rebe Israela more ele mere. Po Eni lepate loko tamata Israelaru baue nabi Yesaya be: “Masike tamata Israelaru esi boka saka ume ndau meite po rebe esi hlamate boka mo. 
+45010009	Le sepo imi naku be, “Yesuse mere Tuhane,” kai lalemi hlaleke be Alla Iono Ikwana suike, hoko imi supu hlamate bei hukume le imi dosaru. 
+45010010	Le tamata ihlaleke me lalei, hoko inkena me Alla oaI. Kai tamata inaku kena birui hoko isupu hlamate. 
+45010011	Kena Alla Eni lepate rebe lekire ebeteke be, “Tamata rebe ihlaleke loko Tuhane, sae iono kaplalei mo.”
+45010012	Mere eono ete pusue tamata le tamata Yahudi pise tamata Yahudi more, sae ihbeike lomai mo. Ile Alla ete pusue tamata. Iriluke miseta boka titinai ete pusue tamata rebe esi kotie tapa beiNi. 
+45010013	Kena Alla Eni lepate rebe lekire ebeteke be: “Pusue tamata rebe esi kotie loko Tuhane, esi supu hlamate bei hukumane le esi dosaru.” 
+45010019	Au tneu lekwe. Tamata Israelaru esi nati Sou Misete mosalo? Sebei Musa iralake lepate meije. Musa ibeteke be Alla Ibeteke elere: “Tamata Israela imi, kena imi selu Au oki tamata Israle more lalemi tia, kai kena imi selu Au riluke misete ete tamata rebe imi noakesi borore imi nasu.” 
+45010020	Eleki nabi Yesaya inehe lesi leneka kena ibeteke Alla Eni lepate kenaise be: “Tamata rebe esi nikwa Au more esi tetue Au peneka, kai Au aselukeKu ete sie rebe esi tneu loko Au more.”
+45010021	Po ete tamata Israelaru, Yesaya Ilepae lokosi be Alla Ibeteke elere: “Pela petu Au hnata bala lokosi leke trimasi po siere tamata nusa toini rebe ulu buaisu ela kai esi lene loko pleta mo.”
+45011028	Kwali betaya bei Yahudi mo, sepo ite lepa loko tamata Yahudiaru esi trima Sou Misete bei Allare mo, hoko esi ono musu kai Alla. Ele mere hoko eono untune elake ete imi tamata Yahudi more le bei mere pine imi supu hlamate. Po sepo ite lepa loko tamata Yahudiaru be siere Alla Ibitikesi hoko Eri okisi rame, le Eri nete rame loko saisa rebe Italukele ete esi ntua menaru.
+45011029	Le sepo Alla Ibitike sae kai Iriluke misete etei, Alla Ileuke suike saisa rebe Ionoe mere moneka.
+45011030	Akmenare imi lene loko Alla mo. Po pamuli meije Alla Iaseluke Eni lale misete ete imi, le tamata Yahudiaru esi lene lokoI more. 
+45011031	Ele mere lekwe bei imi tamata Yahudi more pine tamata Yahudiaru esi supu Alla Eni misete. Esi lene loko Alla mo hoko Iaseluke Eni lale misete ete imi tamata Yahudi more. Kai bei imi lekwe pine Alla Ioki tamata Yahudiaru. 
+45011032	Le Alla Isebeie pusue tamatare esi lene lokoI mo le dosare kbasaesi. Hoko Alla Isupu lalane kena aseluke Eni lale misete ete pusue tamata. 
+45011036	Alla pine Itolae pusue yelu meiju. Pusulu bei Alla kai ete Alla. Isike Alla eti pela! Amine.
+45014012	Imi noake mina! Tamata leini rebe esi hlaleke loko Yesuse pende esi beteke be ite kane sasaisa neka. Po leini kokouesi sa, esi rekwa saisa rebe Alla Isukare mosa hoko batuke esi kane utane loini neka.
+45015010	Kai me Alla Eni lepate rebe lekire ebeteke lekwe be: “Imi tamata Yahudi more lalemi ndina sakesa kai Alla Eni tamataru. Tamata Yahudiaru, Alla Eni tamata.”
+45015011	Kai me leki elere lekwe: “Pusue imi tamata Yahudi more, pusumi isike kai holmate Tuhane!”
+45015012	Kai nabi Yesaya ibeteke be: “Bei Isai eni anubuaru tatike pine sae Iluake kena pletae pusue bangsa rebe tamata Yahudi more. Namake esi tolae esi hidupe pusue eteI.” 
+47006001	Kwali betaya, ami kerike sakesa kai Alla, hoko ami kotie titinai bei imi leke Alla Eni misete rebe Iriluke ete imire suke esi hasile kena imi hidupe.
+47006002	Le me Alla Eni lepate rebe lekie akmenare Alla Ibeteke be: “Au tolae esi olase peneka kena au lene akotie loko Aure, leke Au ono ahlamate.” Kwali betaya, imi nete mimise. Meije petu rebe Alla Iteure. Iteue peneka kena Iono hlamate tamata. 
+47007001	Kwali betaya rebe au oki imi! Tuhane Italuke meru ete ite. Bei mere hoko mai ite hleke bei yelu rebe uono ite supu dosare. Ite ono yelu rebe dosare kena ite nanakwalamaru yake kai ite noake yelu rebe dosare yake. Mai ite rilama le Alla kai suke ite atula rame leke iteki hidupe batuke ono nkenale.
+49004009	Ete meije ebeteke be, “Isa” hoko kena Isa mosare Irulu roma otoi rebe empe lebu laleke, otoi mere nusa meije.
+49004010	Ile rebe Irulu mere, Ile lekwe pine Isa nanu titinai lesi bei lanite leke Ikbasa ndete surga kai mei nusa. Otoi rebe nanu titinai mere surgare. 
+49004011	Ile mere pine Iriluke misete ete tamata leke esi supu ktiline. Iono leini kena Yesuse Kristuse Eni maka ulake, leini kena nabi, leini kena esi lepae Sou Misete bei Alla kena Yesuse ete tamata rebe esi lenele mosare, leini kena jemate toini esi elake kai maka atetuke.
+49004012	Iono mere leke Alla Eni tamataru esi kerike tekwa Alla Eni makerike, kai leke esi akbere lomai kena hlaleke ktili lokoI.
+49004013	Bei mere hoko ite pusuma lupu kena esa le imi hlaleke loko rebe au hlaleke neka kai imi nati Alla Eni Nanare saka au natiNe neka. Kai ite noake saka tamata elake inai rebe tatakwali iteki atate mise titinai saka Kristuse.
+49005032	Bina kai mokwai esi oki lomaije, Tuhane Eni lepataru etiluke peneka bei akmena sa. Kai meije ite rekwa lekwe be lepata meru etiluke Kristuse Ioki Eni tamataru. 
+49005033	Po au lepa loko kaije ete imire elere: Mokwaiaru suke imi oki imi binaru saka imi oki nanakwalami ruale, kai binaru suke imi holmate imi mokwaiaru.
+58004006	Sie rebe esi lene Sou Misete mere akmenare esi supu kusu kena rue sakesa kai Alla mo, le esi lene loko Alla eni pletare mo. Hoko ite rekwa peneka be tamata maketa me pine esi supu kusu kena rue sakesa kai Alla. 
+58004007	Bei mere hoko Alla Italu petu makete me lekwe, rebe Ikotiele “Petu meije” leke tamata esi supu kusu kena rue kaiNi. Eleki takwali titinai mina pine Alla Ilepa lokole, rebe Dauta ilekire, lupe lepate matai sae akmenare be, “Petu meije sepo imi lene Alla Ilepare, hoko ulu buaimu ela yake.”
+58010031	Ntau titinai neka, sepo ite supu Alla rebe Irue eti pelare Eni hukumane mere. 
+58013006	Ele mere hoko ite nehe kena beteke be, “Tuhane Itapa au hoko rilaku mo. Masike tamata mei nusa meije esi ono saisa ete au neka po rilaku mo.” 
+66022020	Ile rebe Ibeteke lepata mei buku meije Iombe, “Tinai, Au suka luake reneka!” Au Yohanese, au ralake be, “Tinai! Tuhane Yesuse, Aluake noma! 
