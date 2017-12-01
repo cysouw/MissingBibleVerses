@@ -1,15 +1,15 @@
-02008032
-02013022
-04004049
-06004024
-06016002
-10021022
-11008066
-16013031
-19001006
-19059012
+02008032	O Fero, sa baci vakaukauwataka na yalona; ka sega ni via laivi ira na Isireli me ra lako.
+02013022	Sa sega ni kauta tani na duru o kei na duru bukawaqa ena bogi.
+04004049	Me vaka na i vakaro i Jiova, era sa wiliki rawa e na liga i Mosese, me vaka na nodra dui i tavi kei na cakacaka yadudua; ia, era sa wili rawa ga mai vei koya me vaka sa vakarota o Jiova vei Mosese.
+06004024	"Me ra kila kina na tamata kecega e vuravura ni sa kaukauwa sara na ligai Jiova na nomuni Kalou, mo ni rerevaka kina na Kalou me sega ni mudu."
+06016002	
+10021022	?
+11008066	Ena i matai ni siga, nai kawalu ni siga, na tui sa vakatalai ira yani na tamata, era sa vosa vakalouvinakataka na tui ka lako yani ki na nodra i tikotiko ni ra sa sinai ena reki kei na mamarau ena yalodra, ena vuku ni veika vivinaka sa cakava o Jiova vua na nona tamata o Tevita, vei ira talega na Isireli na nona tamata.
+16013031	Me ra kauta mai na ka vakacabori kei nai sevu ena kena gauna digitaki. Mo Ni nanumi au na noqu Kalou, me'u vinaka kina!
+19001006	Ni sa kila na Kalou na nodra i valavala na yalododonu, ia, na nodra i valavala na tamata ca, era na rusa vata.
+19059012	#diese Verse ist vorhanden, aber 19059011 fehlt.
 19070004
-26001003
-46012031
-66001020
-66015008
+26001003	?
+46012031	Ia oqo, mo dou dui gadreva nai solisoli e uasivi sara. Au na vakaraitaka vei kemudou e dua ena vinaka cake na kena sala.
+66001020	"Na ka vuni ni kalokalo e vitu o raica ena ligaqu i matau, kei nai tutu ni cina koula e vitu: na kalokalo e vitu sai koya na agilosi ni soqosoqo lotu e vitu, kei na tutu ni cina koula e vitu o raica, sai koya nai soqosoqo lotu e vitu.
+66015008	Ena loma ni vale ni soro sa solega tu na o kubou, ni sa vakasinaita tu na loma ni vale na kaukauwa kei na lagilagi ni Kalou, ka sa sega ni rawa ni curumi na vale ni soro, me yacova ni ratou sa vakacavara na agilosi e vitu na mate ca e vitu.
