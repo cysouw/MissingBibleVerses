@@ -1,99 +1,99 @@
-40006014
-40006015
-40011011
-40011012
-40011013
-40011014
-40011015
-40011018
-40011019
-41001004
-41001005
-41001006
-41001007
-41001008
-41007008
-41007009
-41007010
-41007011
-41007012
-41007013
-41012037
-42007033
-42007034
-42007035
-42020044
-44004012
-44004027
-44004028
-44004029
-44004030
-44013034
-44013035
-45008037
-45008038
-45008039
-45009016
-45009017
-45009018
-45009026
-45010019
-45010020
-45012021
-45014012
-45015010
-45015011
-45015012
-46001020
-46001021
-46001022
-46001023
-46001024
-46001025
-46014022
-46014023
-46014024
-46014025
-46015056
-46015057
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-58001006
-58001007
-58001008
-58001010
-58001013
-58002009
-58002013
-58005006
-58007018
-58007019
-58007022
-58010017
-58010018
-58010039
-58012007
-58012008
-58012009
-58012010
-58012011
-58012012
-58012013
-58012014
-58012015
-58012016
-58012017
-58013006
-60002007
-60005006
-60005007
-66005014
-66011016
-66011017
-66016007
-66017006
-66019003
+40006014	U kha gbekua na eni e lamhẹ shi ẹ ọ, Itẹ na iloghie ọ ya li gbekua nẹ.
+40006015	Ama ini u wa a gbekua na eni e lamhẹ shi ẹ ọ, Itẹ na iloghie ọa ya li gbekua nẹ.
+40011011	Abi o li mhi li gue ọli yẹ ẹ khi, iJọni ọ fu dọsẹ ọgbọkpa ni ọ la agbọ ona ghue, ama, ọgbọ ni ọ ga kpọkẹ nya obini Eghiele oyi Ẹshinẹgba, ọ fu dọsẹ ọli.
+40011012	Rọte ẹghẹghẹ oyi iJọni Ọni ọọ batazi ẹgbọ ya ramhi ogbe na amo, Ẹshinẹgba ọ te ẹ ri ikakabọ mhọli omhẹsẹ oyọli shi agbọ oyi ẹgbọ, ama ikakabọ ẹgbọ e ke rọ ọ lo ọ.
+40011013	Irari khi emekẹguele nya ali Ishi eyi iMosisi, e mẹ guele shi ekẹ ramhi ẹghẹghẹ oyi iJọni.
+40011014	Ini a ya lama shi ọ, iJọni ọ khi ọni Elaja ni ẹ khi ọ ya nyenẹ egbe bhale.
+40011015	A mhọli esọ, a suọ emini mhia gueyẹ ẹ, ni a rọli gbe akanya.
+40011018	Abi iJọni ọ rọ bhale, eri ọọ pfi azumhi, ọa lama da onyọ, irarighọ ẹgbọ e liẹ khi, 'Ayẹmhẹ Ọkphaghiẹ oo nasẹ ọli.'
+40011019	Ama Omi Ọgbọ ọ ke bhale, ọọ le ọọ da, ẹgbọ kpa e kẹ liẹ khi, 'Ọgbọ unu-emhi ali ọdonyọ ọ khi, ni ọ nu emionoga ali ena olamhẹ ẹ mu ọmọle.' Emini Ẹshinẹgba ọọ riẹlẹ, o ri ilẹsingme oyọli ẹ khasẹ."
+41001004	Ighọ IJọni ọ li bhale, ọọ batazi ẹgbọ obini ọdagbe ifufu, ọọ tse abọ, ọọ liẹ, "A mu pfi lase olamhẹ eyẹ ẹ le bhale deba Ẹshinẹgba ini a ri olamhẹ topfa ẹ."
+41001005	Ighọ ẹgbọ e rọte ekẹ iJudia ali ẹoli iJerusalẹmu lẹ deba IJọni. Ee zọnọ olamhẹ eyẹwẹ yẹ ọli. Ọ la okẹ iJọdani batazi ẹgbọ.
+41001006	Ode ni a ri iriria eyi alakumi do, iJọni ọ rọ fia itsua sọ. Ọ ri ẹkuẹ riẹlẹ ọgbẹnẹ mu oku. Initso ali oribo e khi eminale eyọli. 
+41001007	Abọ ni ọọ tse gueyẹ agbọ khi: "Ọmọse ni ọ ke ya bhale ẹlẹlese odẹ ukhokho oyẹmhẹ, ọ fu dọsẹ mhẹ, ọ mhọli ekpabọ dọsẹ mhẹ. Mhi aa fu ramhi ọni ọọ taghiẹ uli ni o la ekuẹ ni ọ sọ-a. 
+41001008	Amẹ mhi rọ batazi ẹ memena, ama Ayẹmhẹ-nọ-pfuasẹ ọ ke rọ ya batazi ẹ."
+41007008	A she pfi ishi eyi Ẹshinẹgba shi ekẹ, a ri osẹsẹ eyi ẹgbọ ẹ gbe akanya."
+41007009	Ọ gbolo ẹ wẹ, "A ga lẹsẹ odẹ ni a te ri ishi eyi Ẹshinẹgba shi ukhokho obọ, ini a ba mẹ asha ri osẹsẹ eyẹ ẹ gbe akanya.
+41007010	Itobọ khi iMosisi ọọ liẹ, 'Mu ekpẹ na itẹ ali inyẹ.' Ọ gbolo ẹ, 'Ọnini ọ da ku itsẹ ni itali okekhi inyọli ne, a gbe ọlia.' 
+41007011	Ama ẹẹ a sẹsẹ ẹgbọ khi ini ọgbọ ọ gueyẹ itali okekhi inyọli, khi emini lọli kha kpẹ rọ kpaghiẹ itali ali inyọli obọ khi Ikobani o ke khi, khi ọa mhuẹ abi o ngme. Khi ushi ọa mu ọli ini ọa ke ririẹ ri emhikhọghuo na itali ali inyọ li. (Emini a rọ somhi Ẹshinẹgba opfa se, áá lui Ikobani).
+41007012	
+41007013	Eri a ri osẹsẹ ona a shishi ungmemhi oyi Ẹshinẹgba ekẹ a. A gbo mhọli emhi elese eghọghọ ebubu ni a gbolo ẹ riẹlẹ."
+41012037	Ini iDefidi ọ rọte unu oyi lọlighuo lu ọli Ọnọmhuẹ, sẹ ọni Ọnọmhuẹ ọyọli ọ ke gbo liẹ khi omi ọli? Ebubu ẹgbọ e ku esọ a shi ekẹ shi emini ọ ngme, ni o ri egbe mu wẹ.
+42007033	Itobọ khi abi iJọni Ọni ọọ batazi ẹgbọ ọ rọ bhale, ọa li le emhi wẹkhi eri ọ da onyọ, eri ẹ khi, 'Ayẹmhẹ ọkphaghiẹ ọ mhuẹ.'
+42007034	Omi ọgbọ ọ bhale, ọọ le, ọọ da, a kẹ liẹ khi, 'Ọgbọ unu-emhi ali ọgbọ ọdonyọ ọ khi, ali khi ọni ọ nu emionoga ali ẹgbọ ena olamhẹ ẹ mu ọmọle ọ khi.'
+42007035	Eri ẹgbhali oyi Ẹshinẹgba o rọte obọ oyi ẹgbọ ni e miesuọ ri egbọli khasẹ." 
+42020044	Ini iDefidi ọ lu ọli, 'Ọnọmhuẹ.' Sẹ ọ ke gbo liẹ khi omi iDefidi?" 
+44004012	Imiepfuese ọa la obọ oyi ọgbọlese, irari khi eva olese ọa la ni Ẹshinẹgba ọ rọ na ọgbọkhọghuo elemhi agbọ onana ni awa ya te mhọli imiepfuese." 
+44004027	Esheshi ghọ Erọdu ali iPọtiusi iPaleti e ya nu ẹgbọ iJẹta ali ẹgbọ iZirẹni lona kugbe elemhi oni ẹoli ona. E gba kugbe, e gbe iJesu ọni ọọ ga ọyẹ-a, ọni u zẹ.
+44004028	E riẹlẹ emini u ri ekpabọ ali ọghuẹmhẹ oyẹ gba shi ekẹ khi a ya mẹ. 
+44004029	Ama memena, Ọnọmhuẹ, bino abi e liẹ dọmhi, ni u ri ekpabọ na anye eni ẹẹ ga eyẹ, ni anye gbe udu ke ngme ungmemhi oyẹ. 
+44004030	Nise obọ-a ri ẹgbọ ke ze, u gbolo ẹ gbe ọlẹlẹ ọnyaloa ali ọshabọ rọte eva oyi iJesu Ọni ọọ ga ni ọ pfuasẹ oyẹ." 
+44013034	Abi Ẹshinẹgba ọ rọte eghuli guise ọli le, ni ọa zẹ ọli ghu kẹ-a, o mu ma ungmemhi oyọli ni ọ la liẹ, " 'Mhi ya ri ikhivọsẹ no pfuasẹ, ni a ri egbe ẹ nga egbegbọ ni mhi shobọ na iDefidi nẹ.' 
+44013035	Ighọ ọ kie gbo li ngme ọli shi ashese. " 'Waa ya zẹ ni ọni ọ pfuasẹ ọyẹ ọ ghu kẹ-a.' 
+45008037	Iiye, abi a riẹ mẹ eni emhi enana nya, anye fu dọsẹ ọni ọ khọli mu ọ le, rọte obọ oyi ọni ọ nono ingme oyanye.
+45008038	Irari khi mhi mẹ ọli mẹ khi emhikhọghuo ọa la agbọ ona, eghuli wẹkhi agbọ ilala, wẹkhi igẹni wẹkhi iyẹmhẹ ọkphaghiẹ ali emini e la irarogbe ẹ mhẹsẹ shi agbọ ni awa la memena okekhi agbọ ni o ke ẹ bhale wẹkhi ekpabọ,
+45008039	wẹkhi iyagha ali ilimhi, wẹkhi emhikhọghuo ni a ma, o dobẹ ya vasẹ awa rọte inono ni Ẹshinẹgba ọ nono awa rọte iJesu ọyawa lasele.
+45009016	Itobọ ighọ, ọa khi abi o ghọle ọgbọ wẹkhi emini ọgbọ ọ riẹlẹ ama rọte ilẹlemhi oyi Ẹshinẹgba.
+45009017	Irari khi Ebe-no-pfuasẹ o ngme na shi iFero egbe, ọọ li, "Itobọ ona mhi rọ rẹ khi oghie ni mhi rọte emini mhi ya li ẹ ri ekpabọ eyẹmhẹ khasẹ, ni mhi rọ zẹ agbọ nya lẹsẹ eva oyẹmhẹ."
+45009018	Irarighọ, eri Ẹshinẹgba ọọ mhọli ilẹlemhi na ọni ọ ghọle ọli, ọ zese ọni ọ ghọle ọli udu-a. 
+45009026	Ali khi, "A ya mẹ khi, ashini a ga la liẹ wẹ, 'Aa khi ẹgbọ eyẹmhẹ,' aghọ a gbo la lu wẹ, 'Imi Ẹshinẹgba ni ọ la ọ.' " 
+45010019	Mhi gbo mhila, Eri ọa lo ẹgbọ iZirẹni esọ? Ododẹ IMosisi ọ liẹ, "Mhi ya ri ẹgbọ eyẹmhẹ ke kpe ofuma oyi ẹgbọ ni ẹa khi eyẹmhẹ ne, Mhi ya rẹ ẹ mhuẹ iyese elemhi-a deba ushishi ni ẹa lẹsẹ mhẹ ne." 
+45010020	Eri Azaya ọ ri igbeudu ngme ọli khi, "Ẹgbọ ni ẹa rọshẹka nono mhẹ e mẹ mhẹ. Mhi ri egbe mhẹ khasẹ eni ẹa mhila ogbọ mhẹ."
+45012021	Khi zẹ ni onobe o mu ẹ le, ama ri onete mu onobe ọ le.
+45014012	Itobọ ighọ, ọgbọkpa ọ ya gue khasẹ Ẹshinẹgba abi ọ li gbe. 
+45015010	O gbolo ẹ, "Ẹẹ iJẹta, ni a kuma ẹgbọ eyọli ke ghẹlẹ."
+45015011	O gbolo ẹ, "A kuẹghiẹ Ẹshinẹgba ẹẹ ẹgbọ iJẹta, a to uwolo kuẹghiẹ ọli ẹgbọ nya."
+45015012	Azaya ọ gbolo liẹ, "Omiomi iJese ọ ya fu vule, ọni ọ ya vule mhẹsẹ na ẹ iJẹta, ẹgbọ iJẹta e ya ri udu nga li." 
+46001020	Mena, ashi ọna ilẹsingme ọ migha? Ashi ọguebe ọ la? Ashi eni e guẹ khakọ ena agbọ namo e migha? Ọa khi eri Ẹshinẹgba ọ ri ẹgbhali ni e la agbọ ona mele ọọyẹghẹ-a?
+46001021	Eri Ẹshinẹgba ọ ri ilẹsingme oyi lọlighuo zẹ khi ẹgbọ ẹa rọte ilẹsẹ oyẹwẹ lẹsẹ ọli. Ochoghọ, eri o ghọle Ẹshinẹgba ni ọ rọte itsabọ oyi usomhi ni ẹgbọ ẹẹ khi ọyẹghẹ lọ, tsumhi eni e mie oni usomhi suọ.
+46001022	Ẹgbọ iJu, irọkhasẹ eyi ọnyaloa e migha khẹ, ẹgbọ iGiriki ẹẹ nono ilẹsingme, 
+46001023	ama eri anye ri iKirisiti ni a gbe-a tama apfida tse abọ usomhi ona, o ri elemhi a bi ẹgbọ iJu, o khi ọyẹghẹ shi esọ oyi ẹgbọ iJẹta, 
+46001024	ama ẹgbọ ni Ẹshinẹgba ọ lu, ghe iJu ali iGiriki e mẹ oni usomhi oyi iKirisiti shi khi ekpabọ ali ilẹsẹ ọyi Ẹshinẹgba o khi.
+46001025	Irari khi emini o li abi umhalẹsẹ oyi Ẹshinẹgba, o mhuẹ ilẹsẹ dọsẹ ẹgbhali oyi ọgbọ, emini o li abi ọlọsẹmhẹ oyi Ẹshinẹgba o mhuẹ itoto dọsẹ ekpabọ oyi ọgbọ. 
+46014022	Itobọ ighọ, ẹmuẹ ọda, ọa khi emhi ọnyaloa shi eni e miesuọ ọ sẹẹ ni eni ẹa miesuọ. Ama imekẹguele, eni miesuọ o mema gọ lu, ọa khi oyi eni ẹa miesuọ.
+46014023	Irarighọ, ini igbaa oyi eni e mie iJesu iKirisiti suọ kpa e legba ni ọgbọkpa ọ rọ ọ ngme ẹmuẹ ọdọda, eshẹbhẹ ali eni ẹa miesuọ, ẹa ya liẹ khi ujili ọọ kpha ẹ nya? 
+46014024	Ama ini ọgbọkpa ọọ mekẹguele, ni ẹgbọ ni ẹa miesuọ okekhi ọgbọ ni ọa lẹsẹ emini a riẹlẹ ọ rọ lo le. Rọte ingmemhi ni ọọ suọ, ọ rọ ya lẹsẹ khi ọna olamhẹ lọli khi, ni ọ khi ọni ọ mu pfi.
+46014025	Osheli isamhi udu eyọli e ya khueghie-a gboo. Ọ de yẹshi, ọọ ga Ẹshinẹgba, ọọ liẹ, "Ẹshinẹgba ọ la ẹ iteva egbegbọ."
+46015056	Olamhẹ o ri ekpabọ na utamhi oyi eghuli ẹ ta, ni o rọ kuali utse, olamhẹ o rọte ushi mhọli ekpabọ.
+46015057	Ama awa kphẹmhi na Ẹshinẹgba ni ọ ri imuọle na awa rọte obọ oyi iJesu iKirisiti Ọnọmhuẹ ọyawa.
+47009010	Ẹshinẹgba ni ọ ri ukpamhi ẹ na ọgbọ rọ kọ, ọ gbo ri eminale na ọgbọkpa a le. Ọ ya gbo ri ikpamhi ni a rọ ọ kọ ghi ẹ, ọ gbo rẹwẹ zẹ, ọ rẹwẹ fu ni a mẹ khiẹsẹ. Isheghọ ni onete ni u riẹlẹ na ẹgbọ o mọ umọmhi nẹ, ni u pfa le. 
+47009011	Ọ ya rẹ ẹ pfue odẹkhodẹ ni a ke li okpokhẹ ẹghẹghẹ kpa, ni ebubu ẹgbọ e ke kphẹmhi na Ẹshinẹgba ini anye tsua isomhopfa eyẹ ghi wẹ.
+47009012	Oni ugamhi ni a lina ri okpokhẹ oyẹẹ ona ga ena, ọa khi ẹgbọ eyi Ẹshinẹgba na pfa na tsẹ o kpaghiẹ obọ, ẹgbọ ebubu e ri itobọ ona a kphẹmhi na Ẹshinẹgba.
+47009013	Eri akanya ni a gbe na ẹgbọ eyi Ẹshinẹgba o ri ufumhi na Ẹshinẹgba, o rẹwẹ kuẹghiẹ Ẹshinẹgba. Ona o rọkhasẹ khi eni e mie usomhi onete oyi iKirisiti suọ a khi, ni a ri oni usomhi gbe akanya, abi a li li okpokhẹ na wẹ ali ẹgbọ elese.
+47009014	Inono ni e rọte ekelemhi udu mhọli na ẹ, e te ẹ sọ iromhi na ẹ, itobọ ikhivọsẹ ni Ẹshinẹgba ọ rẹ ẹ khivọsẹ na wẹ.
+47009015	Awa ke kphẹmhi na Ẹshinẹgba shi isomhopfa oyọli ni unu ọa dobẹ ngme pfo.
+58001006	Ama abi Ẹshinẹgba ọ rọ ya ghie Omiọli ọghuo kpe je elemhi agbọ, ọọ, "Igẹni eyi Ẹshinẹgba nya e mema nyẹsẹ ukhomhi ga li."
+58001007	Abi ọ rọ ọ ngme ingme oyi igẹni, ọọ, "Ọ ma igẹni eyọli abi akpekpeli, ọ ma eni ẹẹ ga eyọli abi ẹlẹmhi erẹ." 
+58001008	Ama abi Ẹshinẹgba ọ rọ ọ ngme ingme oyi Omiọli, ọọ, "Ẹshinẹgba u khi! Omhẹsẹ oyẹ, agbọagbọ o ya la ọ. Ipfuasẹ ali igẹsikia u rọ ya ke mhẹsẹ na ẹgbọ eyẹ. 
+58001010	Ọ gbolo liẹ, "Yẹyẹ Ọnọmhuẹ, rọte igbaekẹle, u te ma agbọ. Abọ eyẹ u rọ ma ukhuli. 
+58001013	Agẹni ọnọghuo Ẹshinẹgba ọ tigbe liẹ ọli, "Shitọ mhẹ ukiẹkiẹ obita omhẹsẹ, ramhi ni mhi rọ ya ri ebe ẹ mele ukpẹkhomi akphawẹ-nga oyẹ-a?" 
+58002009	Ama iJesu awa a mẹ, ni a kpẹ ma kpọkẹ na igẹni ukuku ọ dẹnẹ. Ọni a ri ufumhi ali ekpẹ rughu memena itobọ eghuli ni ọ ghu. Ighọ lọ, okhale oyi Ẹshinẹgba o rọli ghu-a na ẹgbọkpa.
+58002013	Ọ gbolo ẹ, "Mhi ya regbenga Ẹshinẹgba." Ọ gbolo ẹ, "Ghe mhẹmhẹ ali eniyẹ ni Ẹshinẹgba ọ rọ na mhẹ."
+58005006	Ọ gbo ngme ọli shi ashese, "Ọkpodalo-ugamhi ọyi Ẹshinẹgba u khi agbọagbọ, ẹzẹzẹ ọnabi iMẹkizẹdẹki." 
+58007018	Eri a ri obọ gbe ushi oni ẹlẹlẹ nyẹ, itobọ khi ọa mhọli ekpabọ wẹkhi eri o gbe akanya.
+58007019	Irari khi Ushi oyi iMosisi ọa dobẹ ri emhikhọghuo gba pfo. Memena irudushi oni o ti nẹ a ke rọ na awa, ni o ri awa dobẹ ti bhale mama Ẹshinẹgba. 
+58007022	Itobọ oni ẹmuẹ ni Ẹshinẹgba ọ shi, iJesu ọ rọ khili oni iregbenga ni ọ ri awa mhọli ishobọ onogbọ ni o tinẹ.
+58010017	Ọ ke gbo rọ ma ọ khi, "Mhi aa ke ya sato olamhẹ ali ikanya ebe eyẹwẹ."
+58010018	Irarighọ, a kha she da ri ena topfa se, ọgbọ ọa ke gbo mhọli emini a ri iluasobo irue-olamhẹ odẹ-a ya riẹlẹ.
+58010039	Awa aa li abi eni ẹẹ nyenẹ egbe ukhokho ni e ya pfua, ama eni e miesuọ ni a mie pfuese awa khi.
+58012007	Ri egbe mie ini a sheshẹ shi odẹ, eri Ẹshinẹgba ọọ riẹlẹ ẹ abi imi ọli. Mhiẹ ii, ọmọ ọnọghuo itali ọa ya sheshe shi odẹ? 
+58012008	Ini aa sheshe ẹ shi odẹ abi a liẹ sheshe ọmọ kpa shi odẹ, eri o rọkhasẹ khi waa khi egbegbi omiọli ama ọmọ ni aa lẹsẹ ọni ọ bia li u khi.
+58012009	Itawa ena agbọ ẹa ya sheshe awa shi odẹ, ni awa rọ kiele ẹ mu ekpẹ na wẹ? Elọ o zẹ ni awa aa ke rọ lili ẹ zẹ ni ọni ọ khi Itawa elemhi ayẹmhẹ ọ̌ li sheshe awa ni awa mhọli egbegbi agbọ?
+58012010	Ukuku ẹghẹghẹ itawa ena agbọ ẹẹ sheshe awa shi odẹ abi ọ ti wẹ ẹloe shi, ama itobọ onete oyawa Ẹshinẹgba ọ rọ sheshe awa shi odẹ, ini awa nu ọli mhọli okemhi shi ipfuasẹ oyọli.
+58012011	Isheshe shi odẹ okhọghuo ọa ya viọlọ egbe, ama eri ọọ to. O kha ke dẹnẹ, o ri ọni a lighọ sẹsẹ ingme ẹ ngeli angeli enete, ali ọ gbo mhọli opfọmhẹ.
+58012012	Irarighọ, abọ eyẹ ẹ ni o lọsẹ ali ikhomhẹgbhẹ eyẹ ẹ ni ẹẹ kpheli rẹrẹrẹ, a zese wẹ-a.
+58012013	A ke kia odẹ ni o sheshe talala, ni a ri eni e chẹghẹlẹ awẹ-a ze, ocho ni e rọ ya de. 
+58012014	A rọshẹka odẹkhodẹ ni a nu ọgbọkpa la agbọ opfọmhẹ, ni a gbo la agbọ ipfuasẹ, irari khi ọgbọkhọghuo ni ọa mhọli ipfuasẹ ọa ya mẹ Ọnọmhuẹ. 
+58012015	A rọshẹka ini ọngẹẹ ọ khi khi ọni okhale oyi Ẹshinẹgba ọa ramhi obọ ali a khi zẹ ni iyese-elemhi-a o zẹ shi ẹ iteva ni ọọ pfi ingme obe rọ pfuẹchẹ ẹgbọẹse-a. 
+58012016	Ọgbọkhọghuo ọ khi khi ọni ọọ ku itsẹbọ, wẹẹ ọngẹẹ ọkhọghuo ọ li abi iSọ ni ọa mhọli ayẹmhẹ ọyi Ẹshinẹgba, ni ọ ri itobọ eminale utoghuo kpele ri ugu ọdiọ oyọli dẹ.
+58012017	A lẹsẹ khi ẹlẹlese, abi ọ ke rọ ọ nono ni lọli mie oni ikhivọsẹ, a kie ọli. Itobọ khi ọa ke mẹ asha mu udu pfi, abi ọ tseku ke ri amẹ eviẹ nono ọli. 
+58013006	Lọli o zẹ ni awa rọ ya ri igbedu liẹ, "Ọnọmhuẹ ọ khi ọkpaghiobọ ọyẹmhẹ, mhia ya tigbe na ulishi. Elọ ọgbọ dobẹ ya li mhẹ?" 
+60002007	Irari khi ẹchẹ ona oni o mu ẹloe o khi na ẹẹ ni a mie ọli suọ. Ama eni ẹa mie ọli suọ, o khi, "Ẹchẹ ni itsọna e kie, ni o tigbe mele oni o mu ẹloe nẹ nya-a."
+60005006	Irarighọ, a ri egbe ẹ tiemhile na ekpabọ oyi Ẹshinẹgba ni e funẹ, ni ọ ti ẹ nga idane ini o ramhi oni ẹghẹghẹ.
+60005007	A zẹ ọtoemhẹ eyẹ ẹ obọ na Ẹshinẹgba, itobọ khi ọ ya rue ẹ ọ le. 
+66005014	Eni elamhakọ aane eghọ ẹ li, "Atsẹ," eni egbhali eghọ, e de yẹshi, e ga li.
+66011016	Egbhali uye ali aane ni e shitọ ukpẹkhomhi oyẹwẹ odalo Ẹshinẹgba, e de ya ta alo mu ekẹ ga Ẹshinẹgba.
+66011017	Ee liẹ, "Anye ri ikphẹmhi nẹ, Ẹshinẹgba Ọnọmhuẹ Nọfunẹ nya, Ọni ọ khi lọli, ọni ọ kpẹ khi lọli, irari khi u she rue ekpabọ eniẹmhi eyẹ, u she ẹ mhẹsẹ. 
+66016007	Mhi suọ khi atẹtẹ o tsẹsẹ, ọọ, "Guẹguẹguẹ, Ẹshinẹgba Ọnọmhuẹ Nọfunẹ nya, iguẹzọ eyẹ, eyi igẹsikia ali eni e te odẹ e khi!" 
+66017006	Mhi mẹ khi ọni ọkpotso, ọ da ọlia eyi ẹgbọ ni a pfa na, ọlia eyi eni a gbe-a irari khi e mie iJesu suọ. Abi mhi rọ mẹ ọli, mhi yila.
+66019003	Ighọ e gbo tsẹsẹ, e liẹ, "Okuekhoogo! Ewọli eyọli e she ẹ nga idane agbọagbọ."
