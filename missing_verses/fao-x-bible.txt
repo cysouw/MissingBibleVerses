@@ -1,14 +1,1 @@
-01031055	?
-09013023	?
-14015019	?
-17002023	?
-19028009
-21005020
-22006013
-23036022
-28005015
-34003016
-38004006
-38004010
-39002017
-58013025
+# The last verses from some chapters are indeed not translated. I have removed the numbers that neede to be checked.
