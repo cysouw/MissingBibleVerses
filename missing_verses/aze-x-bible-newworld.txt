@@ -1,23 +1,23 @@
-41016009
-41016010
-41016011
-41016012
-41016013
-41016014
-41016015
-41016016
-41016017
-41016018
-41016019
-41016020
-43008001
-43008002
-43008003
-43008004
-43008005
-43008006
-43008007
-43008008
-43008009
-43008010
-43008011
+41016009	? #nicht vorhanden
+41016010	? #nicht vorhanden
+41016011	? #nicht vorhanden
+41016012	? #nicht vorhanden
+41016013	? #nicht vorhanden
+41016014	? #nicht vorhanden
+41016015	? #nicht vorhanden
+41016016	? #nicht vorhanden
+41016017	? #nicht vorhanden
+41016018	? #nicht vorhanden
+41016019	? #nicht vorhanden
+41016020	? #nicht vorhanden
+43008001	? #nicht vorhanden
+43008002	? #nicht vorhanden
+43008003	? #nicht vorhanden
+43008004	? #nicht vorhanden
+43008005	? #nicht vorhanden
+43008006	? #nicht vorhanden
+43008007	? #nicht vorhanden
+43008008	? #nicht vorhanden
+43008009	? #nicht vorhanden
+43008010	? #nicht vorhanden
+43008011	? #nicht vorhanden
