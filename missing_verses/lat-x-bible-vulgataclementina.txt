@@ -1,11 +1,11 @@
-01005032
-01049033
-01050026
-02040037
-02040038
-03026046
-04011035
-06021044
+01005032	Noe vero cum quingentorum esset annorum genuit Sem et Ham et Iafeth
+01049033	? #diese Verse ist nicht vorhanden
+01050026	? #nicht vorhanden
+02040037	? #nicht vorhanden
+02040038	? #nicht vorhanden
+03026046	? #nicht vorhanden
+04011035	? #nicht vorhanden
+06021044	? #nicht vorhanden
 06021045
 07021025
 13011047
