@@ -1,24 +1,22 @@
-40001002	#Im Bibeltext wurden die Versen 40001002-40001006a zusammen übersetzt.
-Mula kay Abraham hanggang kay Haring David, ang mga ninuno ni Jesus ay sina: Abraham, Isaac, Jacob na ama ni Juda at ng kanyang mga kapatid; Juda na ama ni Fares at Zara kay Tamar; Fares, Esrom, Aram, Aminadab, Naason, Salmon, Boaz na anak ni Salmon kay Rahab; Obed na anak ni Boaz kay Ruth; at Jesse na ama ni Haring David.
-40001003	
-40001004	
-40001005	
-40001006	#die Versen 40001006b-40001011 wurden zusammen übersetzt.
-Mula naman kay Haring David hanggang sa naging bihag ang mga taga-Juda sa Babilonia, ang mga ninuno ni Jesus ay sina: David, Solomon na anak ni Haring David sa dating asawa ni Urias, Rehoboam, Abias, Asa, Jehoshafat, Joram, Ozias, Jotam, Acaz, Ezequias, Manases, Amos, Josias, Jeconias at ang mga kapatid nito.
+40001002
+40001003
+40001004
+40001005
+40001006
 40001007
 40001008
 40001009
 40001010
 40001011
-40001012	At pagkatapos na sila'y maging bihag sa Babilonia hanggang sa ipanganak si Jesus, ang mga ninuno niya ay sina: Jeconias, Salatiel, Zerubabel, Abiud, Eliakim, Azor, Sadoc, Aquim, Eliud, Eleazar, Matan, Jacob, at si Jose na asawa ni Maria. Si Maria ang ina ni Jesus—ang tinatawag na Cristo.
-40001013	
-40001014	
-40001015	
-40001016	
-40002009	Pagkarinig sa bilin ng hari, sila'y nagpatuloy na sa paghahanap; sila'y pinangunahan ng bituing nakita nila mula sa silangan. Ganoon na lamang ang kanilang kagalakan nang makita nilang tumigil ang bituin sa tapat ng kinaroroonan ng bata.
-40002010	
-40010017	Mga alagad ko, mag-ingat kayo sapagkat kayo'y darakpin at isasakdal sa mga Sanedrin, hahagupitin kayo sa kanilang mga sinagoga, at dadalhin kayo sa mga gobernador at mga hari nang dahil sa pagsunod ninyo sa akin, upang magpatotoo sa kanila at sa mga Hentil.
-40010018	
+40001012
+40001013
+40001014
+40001015
+40001016
+40002009
+40002010
+40010017
+40010018
 40012046
 40012047
 40017020
