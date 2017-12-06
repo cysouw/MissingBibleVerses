@@ -17,28 +17,36 @@
 40002010
 40010017
 40010018
-40012046
-40012047
-40017020
-40018010
-40021029
-40021030
-40022045
-40022046
-40023013
-41002025
-41002026
-41007008
-41007015
-41009043
-41009045
-41011025
-41012037
-41015027
-41015042
-41015043
-42001039
-42001040
+40012046	Habang si Jesus ay nangangaral, dumating ang kanyang ina at mga kapatid. Naghihintay sila sa labas ng sinagoga dahil nais nila siyang makausap. May nagsabi kay Jesus, “Nasa labas po ang inyong ina at mga kapatid. Ibig nila kayong makausap.”
+40012047	
+40017020	Sumagot siya, “Dahil sa maliit ang inyong pananampalataya. Tandaan ninyo: kung kayo'y may pananampalataya sa Diyos na sinlaki ng buto ng mustasa, maaari ninyong sabihin sa bundok na ito, ‘Lumipat ka roon!’ at ito'y lilipat nga. Tunay na walang bagay na hindi ninyo magagawa.”
+40017021	
+40018010	“Pakaingatan ninyong huwag hamakin ang isa sa maliliit na ito. Sinasabi ko sa inyo, ang kanilang mga anghel ay laging nasa harap ng aking Ama na nasa langit.
+40018011	Sapagkat naparito ang Anak ng Tao upang iligtas ang napahamak.
+40021029	‘Ayoko po,’ tugon nito, ngunit nagbago ito ng pasya at nagtrabaho sa ubasan. Lumapit din ang ama sa ikalawa at ganoon din ang kanyang sinabi. At tumugon ito, ‘Opo,’ ngunit hindi naman pumunta sa ubasan.
+40021030	
+40022045	Kung tinatawag nga siya ni David na Panginoon, paanong siya'y kaniyang anak?
+40022046	At wala sinomang nakasagot sa kaniya ng isang salita, ni wala sinomang nangahas buhat sa araw na yaon na tumanong pa sa kaniya ng anomang mga tanong.
+40023013	“Kahabag-habag kayo, mga tagapagturo ng Kautusan at mga Pariseo! Mga mapagkunwari! Hinahadlangan ninyo ang mga tao upang hindi sila makapasok sa kaharian ng langit. Ayaw na ninyong pumasok, hinahadlangan pa ninyo ang mga nais pumasok!
+40023014	
+41002025	Sinagot naman sila ni Jesus, “Hindi pa ba ninyo nababasa ang ginawa ni David noong panahong si Abiatar ang pinakapunong pari? Nang si David at ang kanyang mga kasama'y magutom at walang makain, pumasok siya sa bahay ng Diyos at kumain ng tinapay na handog sa Diyos. Binigyan pa niya ang kanyang mga kasamahan. Ayon sa Kautusan, ang mga pari lamang ang may karapatang kumain niyon.”
+41002026	
+41007008	Binabaliwala ninyo ang utos ng Diyos, at ang sinusunod ninyo'y mga tradisyon ng tao.”
+41007015	Walang pagkain na pumapasok sa bibig ang nagpaparumi sa tao, kundi ang lumalabas dito.”
+41007016	
+41009043	Kung ang kamay mo ang nagiging sanhi ng iyong pagkakasala, putulin mo ito! Mas mabuti pa ang magkaroon ng buhay na putol ang isang kamay, kaysa may dalawang kamay na mapunta ka sa impiyerno, sa apoy na hindi namamatay.
+41009044	
+41009045	Kung ang paa mo ang nagiging sanhi ng iyong pagkakasala, putulin mo ito! Mabuti pa ang magkaroon ng buhay na putol ang isang paa, kaysa may dalawang paa na mapunta ka sa impiyerno.
+41009046	
+41011025	Kapag kayo'y tumayo upang manalangin, patawarin muna ninyo ang nagkasala sa inyo upang ang inyong mga kasalanan ay patawarin din ng inyong Ama na nasa langit.”
+41011026	
+41012037	Si David na rin ang tumawag sa kanya ng Panginoon; paano siya magiging anak ni David?”
+41015027	May dalawang tulisang kasabay niyang ipinako sa krus, isa sa kanan at isa sa kaliwa.
+41015028	
+41015042	Nang dumidilim na, dumating si Jose na taga-Arimatea, isang iginagalang na kasapi ng Sanedrin. Siya rin ay naghihintay na maghari ang Diyos. Dahil iyon ay Araw ng Paghahanda, o bisperas ng Araw ng Pamamahinga, naglakas-loob siyang lumapit kay Pilato upang hingin ang bangkay ni Jesus.
+41015043	
+42001039	Makalipas ang ilang araw, gumayak si Maria at nagmamadaling pumunta sa isang bayang bulubundukin sa Judea, sa bahay ni Zacarias. Pagdating doon ay binati niya si Elisabet.
+42001040	
 42003023
 42003024
 42003025
