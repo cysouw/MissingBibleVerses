@@ -1,8 +1,10 @@
-01036043
-03007038
-07015020
-09007017
-11021029
-20002022
-23033023
-26023049
+01036043	? #nicht vorhanden
+03007038	? #nicht vorhanden
+07015020	? #nicht vorhanden
+09007017	? #nicht vorhanden
+11021029	? #nicht vorhanden
+20002022	? #nicht vorhanden
+23033023	#In Bibel wurde diese Verse als 23033023b gekennzeichnet.
+Tuomet net aklieji dalysis turtingą laimikį,
+net šlubiai pasiplėš grobio
+26023049	? #nicht vorhanden
