@@ -1,140 +1,170 @@
-40002006
-40004015
-40022045
-41001043
-41001044
-41002025
-41002026
-41008008
-41008009
-41009036
-41009037
-41009043
-41009045
-41012018
-41012019
-41015042
-41015043
-42001073
-42001074
-42002004
-42002005
-42002036
-42002037
-42011050
-42011051
-42013010
-42013011
-42020018
-42020027
-42020028
-43004043
-43004044
-43010014
-43010015
-44001021
-44001022
-44004012
-44004027
-44004028
-44004029
-44004030
-44013033
-44013034
-44013038
-44013039
-44013041
-44013042
-44024006
-45008037
-45008038
-45008039
-45009011
-45009012
-45009027
-45009028
-45009029
-45010019
-45010021
-45011027
-45011028
-45011029
-45011030
-45011031
-45011032
-45011035
-45011036
-45014012
-45015010
-45015011
-45015012
-45016020
-46002010
-46002011
-46002012
-46005004
-46005005
-47006003
-47006004
-47006005
-47006006
-47006007
-47006008
-47006009
-47006010
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-49002008
-49002009
-49003014
-49003015
-50002006
-50002007
-50002008
-50002009
-50002010
-50002011
-50003010
-50003011
-55002012
-55002013
-56001012
-56001013
-56002004
-56002005
-56002012
-56002013
-58006001
-58006002
-58006003
-58006004
-58006005
-58006006
-58006007
-58006008
-58006009
-58006010
-58006011
-58006012
-58006013
-58012007
-58012008
-58012009
-58012010
-58012011
-58013020
-58013021
-60002007
-60002008
-60003012
-66002026
-66002027
-66002028
-66007005
-66007006
-66007007
-66007008
+40002006	‹Yuda mung" mo nang Bedlehem we"- Yuda voogung yi tho' moo
+Nang je nge nyid zi anghoid. Nga" da" amyu" Israela ri shu" vhu" khu: wa da" zoug: gi
+nang mo thu' loo wa ga: wigi nyang: ri tid kyo" boem.›»
+40004015	«Zebulon yo' Nabthali mung" moo
+gyid nung" yam- Yodan gyid lang thei: tab cang
+Tungbau byumyu" yi nyid da"
+Galile mung.
+40022045	Hau thang David gi nyang ri ‹Aseing› ga: tid nghoid rigi Meshia gi khasu" wim wigi David da" nya: myid nya: zoo: ge nghoid wa lha"» ga: doem myid.
+41001043	Hau: thang: Yesu gi nyang ri jhug za: zoug" nhang: wigi he: khyoo: hang" ri we' ci" atid kyoo"- lhid' we'. Nhgoid loug we' Khainjung pho, jhang yhe: lho: re" gung toin" shid' we' Hougsu" wigi Meing: byu yi shid moo nang ge shang: lo" zi sagsi: bui" baja"- Moshi amyeung" byid: to" da" xoin" ri lo" ngei" byid: we' ga: tid lho: phyed za: phang: loo" nhang:.
+41001044	
+41002025	Yesu phoug tu" wigi Khainjung moo" Abiatha pyaid moo David gi nya: thang: cang mo, zooyoid ca" nyid uri Khasu" Noku yhoem khoug: moo vang yhe: lho: Khainjung moo" yi mo lid lho"- hang" we' age zoo:- Mangso shid khoin" moo teung: to" da" zooyho' ri zo: wigi nya: byu yiri we' gam zho" da:- khyoo: ri nanu" khanham we anghab yu" goo" la".- ga: nyangnu" ri tid.
+41002026	
+41008008	Yug khang" moo" tham: sho' shau" zo: ago"- cangzoo: yi gi zo: teung to" da" ajab amoin" gyoin nyhed loem: byeung" sho' yo" koid: zheung" yu ago". Zoobyo, zo: da" mung" byu yi gi myid: khyeung" koo: nghoid. Houg: lang" Yesu gi mung" byu yi ri-hau: joyoo mo phang: loo" nhang.
+41008009	
+41009036	Yesu gi zoo: shang: dayug ri shu" yu lho: nyangnu" shid' khoin" moo yab jo, nhang› Hau: zooshang: ri nya: lo, wigi gaid, zei: zoore"- nyangnu" ri zooshang: mi" mo hid: yhang: te" zooshang: dayug ri nga" myeung khyo" lhoem: kham: yu su: hang" nghoid loug we' ngoori lhoem: kham: yu zi nghoid bye:- Hougsu" ngoori lhoem: kham yu su: hang" nghoid loug we' ngoori za: lhoem: kham: yu zi anghoid- ngoori nhang: kaid su: ri we' lhoem: kham: yu bye"- ga: tid.
+41009037	
+41009043	Re" lo, wigi re" loem" jeung" khyoo: ri ze" phyo' byid: nghoid rigi hau: lo, ri phyed pyam we'. lo, eig lo, goin" yo' myi: khanham we' ashid: ashoem: lo" da" myi mi: thoem" moo gyoo" loo" wa tho moo lo, dashoid adab lo: zi kangso. dei shoid khyoo: vang loo" wa zigi re" shid re" je ge'.
+41009044	
+41009045	Re" khyid: gi re" loem" jeung" khyoo: ri ze" phyo' pyam byid: nghoid rigi hau" khyid: ri phyed pyam we' khyid: eig khyid: goin yo' Myi: khanham we ashid: ashoem: lo" da" myid mi: thoem" moo gyo" loo" wa tho' moo Khyid: dashoid adab loo: kang: so' dei khyoo: vang loo" wa zigi re" shid mo je ge nyid.
+41009046	
+41012018	Hau: thang: ri doem dei to'' lo khyoo: ajo, ga: tid go" nyid da" Saduke dayham" Yesu jhang ju" re" lho: Sara we"- byu dayug yug nya: mang: gi zoo: du ayoo" loo: za: nya: yhoem: seing: myhi' rishid: cau" too" kho' nghoid rigi hau: youg nya: nhung" gi nya: mang" cougmoo" ri loxo' lho: nya: mang: yhoemkhung: xo' zoo: du khu: byid: ca"- ga: Moshi tarha" ngoonu" ri lhid" too" byid: khare".
+41012019	
+41015042	Myenthang: moug coid lo nyid uri Armamathi voobyu Yoseb ju" re"-nyang: gi Yuda Tarha" yabdo, phung: moo boo su: nghoid ziyo' phau" myang: tho su: we' dayug nghoid. Mangso mungdain ju" ri" ri" wa ziri lang" nyid su: we' dayug nghoid. Hau: nyid" gi (Dougno: Bidnyid aju" shi" da" shid nyid) soin' jen" da" bidnyid nghoid yoomo Yoseb gi agyug avoem Pilaid jang" moo vang yhe: lho:-Yesu nghain" doem: ri yhe: mho' yu da.
+41015043	
+42001073	Ngoonu" gi Mangso da" shid' khoin" moo da" pyaid goin" deung main" gyeungshang: nyid wa shid' re"
+ngoonu" ri gyivoo yi da" lo, mo khyoid yu lho:
+Aseing: Mangso: da" moozoo" ri agyug avoem loo za: voin vu, nhang: wa ga: ngoonu" da" nya: phoo Abraham ri dang: theing" too" bye.
+42001074	
+42002004	Yoseb we nyang: loxo' wa ga: dang: myed: to" da" Mari yo" dage" Galile mung" Nazared voogung mo wigi Yuda mung" Bedlehem ga: da" David khokham" da" voogung khyoo: yhe: lo" ago". Mari gi zoo: khu: wa jen" jen" nghoid bye. Yoseb gi David khokham" da" nya: myid: nya: zoo: nghoid yoomo Bedlehem voogung khyoo: yhe: lo" zi nghoid.
+42002005	
+42002036	Hau: tho' moo gootu: Ashe byumyu"- Phanuela myiyi: zoo:- Anna: ga: da" myiyi: lapi: myhi,- dayug nyid. Nyang: gi apyaid gye sheing: bye: su: nghoid. Nge yo, mo deung khu: vang lho: yhoem: seing: phoo yo" nyhed zain date: zoem" nyid. Hau: thang: ri apyaid' shed' xe: myid: zain ju" sho' cougmoo" mo" nyid. Nyang: gi Mangsoo ri Noku akyu" mho' nyid su: nghoid. nyid" myen" anoo: ayab- Mangso moo" ri zei: pyo: zoore"- No' ku" yhoem: moo" mo athu' loo" loo.
+42002037	
+42011050	Houg: su" nghoid yoomo Abela mo he: Noku yhoem: moo" khoug: ju" sho' phoin: da" agyoo: moo said pyam lid lo" da" zakhari moo ju" sho' Mougmyid phain" da" nyid" mo he: gu: said pyam da" Lapi: yi suid" yoomo he: pyaid mo da" byu yi gi yooboo dang: kho" zi shau" wa nghoid. Hau: da" moo" dangain" shid' re" he: pyaid mo da" byu yi gi yooboo dang: kho" shen" yhen zi deung" deing shau" wa ein: ngoo tid ga: tid.
+42011051	
+42013010	Dougno: Bidnyid danyid" moo Yesu gi tarha" jung moo jhoug" byid: nyid da" tarha" jung moo yu vang ci: lho: daxe: shed zain no nyid da" myiyi: dayug re" ju" nyid. Nyang: gi dang gau" lho: nya: phyid" doem dajhi' we' ayo" dain: lo: su: nghoid.
+42013011	
+42020018	Hau: lugloem: tho' moo gyoo" loo" su: gi adu du gyau: loo" wa. Hau: lugloem: wi doem gyo" baid su: gi mhoin' mhoin' moin" loo" wa ga: tid.
+42020027	Hau: thang: ri Saduke dayham" gi Yesu jang" moo tain" re" ago". Nyangnu" gi byu shid: jang" mo ayo" doem dei loo loo:- ga: loem" mo, nghoid. Nyangnu" re" tid zigi sara" we"- Byu dayug gi zoo: du ayoo" loo: za: nya: yhoem seing: myhi ri shid: cau too" loo" lang" gi cougmoo" myhi, ri nya: nhung" lo, doem xo' yu zi nghoid. Nya: mang: da" yhoemkhung: ri nya: nhung" doem nyid xo' yhi: ca" ga: ngoonu" ri Moshe Tarha" lhid" byid: to" bye.
+42020028	
+43004043	‹‹Khasu" wim ga: ri lapi; gi nya: da: moug moo ce: myonhoo: aboo›› ga: Aseing: nyang: tid ziyo dakhyoo" ti" nghoid- eig nyid" koo: myang" lang" hau: joyoo mo, Galile mung" khyoo: yhe: lo".
+43004044	
+43010014	Ngoo gi ge da" yang zung" su: nghoid. Phoo Mangsoo gi ngoori se' yhangti"- ngoo we' phoo ri se' nyid. Houg: yo" dayhangti"- yang joem ri we' ngoo se' nyid. Yang joem we' ngoori se houg: yoomo ngoo gi yang joem shid' re" kang: ri yo" ab pyam zi nghoid.
+43010015	
+44001021	Hau: yug gi Yohan Babtisma mungdang: kho" kyo" ayo, mo shed" lho: Yesu ngoonu" da" shid khoin" mo moug: khung: khyoo: shu" do, lo" bidnyid ju" sho' Yesu gi ngoonu" yo' dage" so" yen" da" ayo, bain sho' ngoonu" da" phung moo boo su: dayug nghoid da-
+44001022	
+44004012	Khyoid yu khyoo: gi nyang: mo za: yo" kham: yu nyid ngoonu" ri yo" khyoid yu da" Mangsoo byid: khyoid khyi: yu su: gi moug: myed gyab, goin" jang" moo gootu: dayug we' aboo loo.
+44004027	Khasu" wim gari gyeing" gyeing" nyang- Herod yo' puntu pilaid' gi tungbau, byumyu" ri Israela byumyu" yi yo" we' nang xu: joid lho: khyen: nyheung to" da- Meshia re" gyeungshang: dei zoo: ri gyi koid wa shid re" He, voomoo" khoug: moo sham: go" nyid bye.
+44004028	Nyang: nu" gi re" da" yoem: vhoo" yo' nang vho: khyo" myed phyed' ci: gu nghoid da- bue" loo ca da" moozoo" ri koid wa shid mo hougsu" zeung: foem: nyid boem zi nghoid da.
+44004029	Asing: we" akhid" nyangnu" youg nhain, nyid da" khyoo: ri re" mungdang: ri yo" kho" kyoo" nhang: we'.
+44004030	Noo gi byid: wa shid re re" da" lo, ri yhoin" kaid' byid: we'. Re" da" gyeungshang: dei zoo: Yesu da" myeing khyo"-mau" pho" alhoo: again bue" thu' loo nhang: we' ga: mho' nyid ago".
+44013033	Nyang: gi khanham we' ashid: loo: wa ga: yoomo nyang: ri shid: jang" mo doem dei to' loo nhang: ziyo' sen: lho: wigi Mangsoo gi Ngoo David ri byid: wa ein: da" dang: soo" khoin" ri byid: too" bye.
+44013034	
+44013038	Hougsu" nghoid yoomo Israela mang: nhung" yi we"- hau: Yesu khyo" wigi yooboo khyoid pyam' byid: zi shau" ziyo' sen: lho: nanu" ri kho" kyo" nyid da" Yesu ri loem" jeing" bang: dangain" gi Moshe da" tarha" wigi ayo" lhoid' pyoin, kaid' da- yooboo dangain" jang" mo, yo" loid byoin lo" da" khyoo: ri we' nanu" ri ngoo si' nhang: nau, zi nghoid.
+44013039	
+44013041	Polu yo' Barnaba gi hau: tarha" jung mo thu' lo" nyid uri mung" byu yi gi nya: eig yug ri thang: Dougno: Bidnyid moo doem re" kho" kyoo" byid: wa shid mo mho' kaid ago".
+44013042	
+44024006	Nyang: gi noku yhoem: ri we' - asain' aseng" bui" nhang: wa ga- soin' nyid su: nghoid yoomo-ngoonu" gi nyang: ri myheug yu zi nghoid.
+44024007	
+45008037	Nghoidloug we' agang: alain loo" nhang: tho' moo gootu: ngoonu" gi hau khyoo: dangain" yo" thoung" shau" goo" wa jang" moo ngoonu" ri jheddab da Aseing: khyo" wigi atho' tid oung: doid loo" bye.
+45008038	Khasu" wim ga: gi ce: zi we' ngoonu" ri nya: jang" mo ayo" kang" pyam' . Shid: khyoo: nghoid loug we' - kangso' dei khyoo: nghoid loug we' -mau lagyoo: yi nghoid loug we' - moug: khung: tho' mo vhoeb khang" mo, nghoid loug we' - yoem: vho" yoem: so' nghoid loug we' - lid: loo" bye zi nghoid loug we'.
+45008039	Moug: khung: tho' mo zi nghoid loug myid thi" khoug: mo, zi nghoid loug we' - ngoonu" da" Aseing Yesu' Khristu khyo" wigi Mangsoo: toin" shid' da" jheddab jang" mo - ngoonu" ri yo" kang" pyam' zi anghoid.
+45009011	Houg: yoomo nya: eig yug akhu: loo shi" da" uri - ge da moo" - akhyeing" ashoeb' da moo" ci: akoid' shi" re nyang: -Mangsoo: gi Rebedkha: ri - re" zoo mang: moo" gi nya: nhung" ri shau" zei: zhoo" wa - ga: tid too" bye. Mangsoo: hid: su" ga: tid to" khyoo: gi - Aseing nyang myid to" zi yo" dakhyoo" ti" Mangmoo" ri akhyen: yu looza: nya: nhung" ri khyen: yu da" khyoo: toin" shid' wa shid' re" nghoid.
+45009012	
+45009027	Israela byumyu" yo" sen: lho: - Esaia gi - Israela amyu" yi gi - panglai mid' doem: myhoo: myo: loug boem nghoid loug we' - nyangnu" khoug: mo dayham" za: khyoid' yu zi shau" wa.
+45009028	Khasu" wim ga: ri Mangsoo: gi mougmyid tho' moo nyid da" byu dangain" ri anoo: atheing: loo: hain: hain: tarha" dang: phyed' byid: wa yoomo nghoid ga: kho" kyo" lid: lo.
+45009029	Hau tho' mo apyaid' atoo: mo yoem: moo" bo da Mangsoo: gi ngoonu" da" byumyu" dayham" ri khyam" sa ato' byid: nghoid rigi - ngoonu" gi Sodam yo" Gomora ti" thoung" shau" goo" wa ga: akhang: re lapi: Esaia tid kyoo" khare" zi yo" dakhyoo" ti" nyang: bue" loo bye.
+45010019	Ngoo dalheing: doem myid shi" wa Israela byumyu" yi gi - hau da" khyoo: ri ase' gyo: boem la". Mangsoo: gi Moshe khyo" wigi -
+Ngoo gi ci: anghoid da byumyu" ri ci lho: -no" zo' vo da nheigloem: kaid' byid wa.
+Agyeing" da" byumyu" khyo: wigi nga" da" byumyu" ri nheig ze" shoo" byid: wa. - ga: wigi xangshid" phoid: kyo.
+45010021	Nghoidloug we' - Israela byumyu" yi da khyoo: gi -Ngoo ri pyi: sho: gyi koid' lho: - nga" dang: ri atam" gyo: da" byumyu" ri - ngoo gi danyid" goin" lo fe: khye: nyid - ga: Mangsoo: tid da" khyoo: Esaia xo' tid to".
+45011027	Ngoo Mangsoo: gi houg: bang: da" yooboo dangain" ri khyoid' byid: uri nyanu" yo" he: thang" cab' too" wa ga: wigi tid to" zi yo" dakhyoo" ti" nghoid.
+45011028	Khasu" wim ga: ri ludang: gi ri she: pyam' yoomo Israela byumyu" gi Mangso: da gyivoo bue" loo bye. Hang" bue" loo da" khyoo: gi tungbau byumyu" yi nanu" akyu" yoo" wa shid' re" nghoid. Nghoidloug we' Mangsoo: gi nyanu" ri khyen: yu yoomo nyanu" da" phoug" phyid" yi ri byid kaid' da" dang: theing khoin" ri yu" lho: nyanu" ri jheddab ashi".
+45011029	Mangsoo: gi hang" ri nghoid loug khyen: yu lho: mainkaid jeju" byid: wa ga: bain phyed: to" thang: ri - nheigloem: ase' fain" loo: su: nghoid.
+45011030	Tungbau byumyu" ein: da" nanu" gi - daleing: ri Mangso: da" dang: ri atam" gyo: boem nghoid loug we' akhid" uri Mangso: da' nheig khyeug zi nanu" shau" kham zoo: nyid zi gi Yuda byumyu" yi gi Mangso: da" dang: atam" gyo: boem yoomo nghoid.
+45011031	Houg: yo" dakhyoo" ti" Mangso: nheig khyeug da" jeju nanu" shau" kham: zoo wa shid' re" yuda byumyu" yi gi akhid" ju" sho' Mangso: da dang: ri atam" gyo: boem. Nanu" shau" kham yu da" jeju yo" dakhyoo" ti" shau" kham yu goo" baja".
+45011032	Xangsu: byu yi dangain" mo gi - nya: mungdang: ri atam" gyo: boem yoomo Mangsoo: gi nyanu" ri thung: loung" da byu yi yhang: ti" bue" byid nhang. Mangsoo: hidsu" koid' da" khyoo: gi nyanu" ri nheig khyeug nheig leom yo" toin" shid' wa shid' re" nghoid.
+45011035	Mangsoo: gi jeju" doem yo" toug" byid: sho' kha: yug gi Mangsoo: ri jeju" yo" koid' wa lha"» ga: wigi tid to" zi yo" dakhyoo" ti" nghoid.
+45011036	mangsoo: gi - jo, moo jo, ri phain" to" lho: hau: zi joem gi Mangsoo: khyo" wigi we' Mangso: shid' re" nghoid loug we' dageing: teing" jo boem. Mangsoo: gi apyaid' atoo: myonhoo: phung" yoeb doug bang nyid baja" o" Amen.
+45014012	Houg: nghoid yoomo ngoonu" dangain" mo gi nyang: nyang: koid' da" moozoo" yo" dakhyoo" ti" Mangsoo: ri shau" tid khyo" da bidnyid ju" loo wa.
+45015010	Jhoem: mungdang: moo doem tid zi gi
+Tungbau byumyu" yi we" Aseing: da" byu phung: yi yo' dage" ngeipyo: gau yi nyid ge" ga wigi we'.
+45015011	Nghizain byumyu" bain sho' bang: we" Aseing: ri coung" nghei byid: ge'
+byumyu" bai ri sho mo we" nyang: ri coung" byid: nyid ge' ga: tid to.
+45015012	Xo' lho: Esaia tid zi gi Yesu da" nya: myid: nya: zoo: dayug gi nyid ri" wa - tungbau byumyu" ri vhoeb' khang: wa shid' re" -
+nyang: gi tungbau byumyu" ri tu: to' vhoeb' khang" nhang: lho: nyanu" gi nyang: moo- nheig shid: nheig deig da" nheig byu, nheig nhei: khyoo: yoo" wa - ga: tid to.
+45016020	Myenjham" Aseing: Mangsoo: khamyhang amyang" ri Nanu" da" khavoo: khoug: moo satan: ri nang: zeug pyam' nhang: wa ngoonu" da" Aseing: Yesu da" jeju" ri Nanu" shau" kham zoo: baja" o".
+46002010	Nghoid loug we' Mangsoo koem gi nya: da" Venyi: khyo" wigi- nya: da" nghoeb, yhoem" to" khyoo: ngoonu" ri phang shug bye. Hau: da" Venyi gi ziyoo jo, moo: jo, ri za: we' anghoid- Mangso da" no, thang khyo" myid soin: to" khyoo: joem ri- cang phoid: sho: yu" nyid.
+46002011	Byu dayug da" nheigloem: moo: bo da" khyoo: dangain" ri- hau: Venyi wigi: za: yo" si' byid: nyid. Houg: yo' dakhyoo" ti" Mangso da" Venyi wigi: za: Mangso khyoo: dangain" ri yo" se' nyid.
+46002012	Ngoonu" koem gi he: moug: myid yo' sen: da" Venyi: ri shau" kham: yu bye: zi anghoid- Mangsoo ngoonu" ri byid: to" da" jeju" dangain" ri yo" si' baja" ga- Mangso nhang: kaid da" Venyi ri ngoonu" yo" yu mo, nghoid nyid.
+46005004	Nga" da" Venyi moo: ngoo nanu" yo' shoug" go" wigi nanu" zeung: foem: nyid jang" moo- nyhang" yo' dage" nghoid nyid da" Aseing Yesu Khristu da" amyeing" akhang" yo' hau: yug ri nya: gung du: shoin, mhoin' pyam wa shid re" satan da" loo, moo: ap byid: pyam ca". Hougsu" nghoid lang"- Aseing da" bidnyid moo: nya: da" kangso Venyi: ri yo" khyoid yu wa zi nghoid nyid.
+46005005	
+47006003	Ngoonu" zei: lo da" moozoo" yo' sen: lho"- hang" nghoid loug we' yooboo foin: lho:" juang" yi zi abue" loo" nhang: noug yoomo ngoonu" gi hang" khyoo: moo we' thei, leung jang" abui" nhang: sho' yoem: kaid nyid boem.
+47006004	Kyi" kyeug jam jau khyoo:- shid: gyoin, noogyoin khyoo:- yau: khe" khyoo: joem ri gyi: sheung: nheigloem: yo' kham: zeung: wigi ngoonu" zei: lo da" klhyoo: khaid khang" moo" moo ngoonu" gi Mangso da" join' lang: jhang yi nghoid da" khyoo: ri datoin" shid boem.
+47006005	Ngoonu" gi youg baid zi-thung" lhoung zi mung" byu yi lu: fu: khyoo:- shau". Moo" zei: jang" moo dougnoo: jang: ayo oo"- yhoeb' agyi: khyoo:- zoo: noem ashug" zo: zi thoung" shau" lo boem.
+47006006	nheigloem: young" khyoo:- yeug se' koung khyoo:- kham: zeung: khyoo: yo' nheung khyeug shoo" myen: khyoo: khyo" we' gyeungshang: da" Venyi da jeju" khyoo: khyo" -afain" da" jheddab myid khyo" we'
+47006007	Ngoonu" kho" kyo" da" deungmain" mungdang: yo' Mangso da" yoem: vhoo" khyo" we' ngoonu" gi Mangso da" deizoo: lang: jhang yi nghoid da' khyoo: ri toin" shid lid loo bye. ngoonu" gi Venyi khyoo: yo" sen: da" gyipui" moo vang zain: wa ziyo' ngoonu" gungdu: ri lhoem: zung" lhug yu wa shid re" ngoonu" gi hau deungmain" da: khyoo: ri gyikhoo: koid lho: cid: lo boem bye.
+47006008	Ngoonu" gi coung" byid: nghei, byid: zi we' juang" yi pyam zi we-shau" nyid boem. Ngoonu: ri mhoug zoo: mhoug shug yen" mo, ga: we' jho: ago". Nghoid lug we' ngoonu" gi deingmain" da" dang ri da tid.
+47006009	Ngoonu" gi-hang" we' aboin: ase' mo, ti nghoid loug we' fu" nheung: too" mo, shid: mang yhang: te" mo, nghoid loug we' Akhid" nyhang" myang nyid ziyo' dakhyoo" ti"- ngoonu" dadei nyid mo, nghoid. Shid: gyoin shau" nghoid loug we' ngoonu" said pyam zi ashau" boem.
+47006010	Koug shu" zi shau" boem nghoid loug we' ngoo gi khanham we' dagau yi nyid sho" jhen" bang: yhang: ti" nghoid loug we' byu myoo" sho' ri yoo: zoo: yo" shug nhang" mo, nghoid- ci" ayoo" mo, yhang: ti" nghoid loug we' ngoonu" gi gyeung" nyang"- jo, moo jo, ri seung: ci" mo, ngoid.
+47009010	Amyoug: sain" su: ri amyoug: byid: wigi zoo: noem shug phoo" bue" loo nhang: nyid da- Mangsoo gi nanu" moo vho: nyid da" amyoug: ashi" myoo" sho' ri we' byid: nyid tho' moo gootu: hau: amyoug: ashi" ri -youg gyi: loo nhang: wigi ashi" myoo: sho' zei: loo nhang: nyid. Houg zigi nanu" jheddab e" nyid mo byid: da" alu jhung: shug: da" gug shi" mei: shi: ri tid nyid zi nghoid.
+47009011	Nanu" da" lo, mo nyangnu" shau: kham yu da- nanu" byid: kaid da" alu jhung: shug joem yoomo Byu myoo" sho' bang: gi Mangso da" jeju" ri coung" nghei byid: boem wa nghoid. Nanu" ayo, loem: khang" moo" - Alu jhung: shug agoin ayu: yo" byid: sho' Aseing: gi nanu' ri khanham we' yo" loo jo, loo nhang: wa zi nghoid.
+47009012	Khasu" wim gari hid: nanu" koid da" zei: zhoo" zei: jhoug da" moozoo" - Mangso da" byu yi ca" yo nyid jang" mooyo" pyeung byid: tho agoo" Mangso da" jeju" ri boin: so" coung" nghei da" thui: gi byeung" shoin: lo nyid bye.
+47009013	Hidsu" nanu" da" doo" zho" da" moozoo" ge da" aved alhoo: yoomo byu yi myoo" sho' gi Khristu da" ngei bu: ngeilho, da" ludang: ri nanu" loem" jeung" lhoem: yu ci: bye: yoomo we' nanu: da" jheddab emyed yo" nyangnu" ri we' gootu: byu yi ri we' agoin ayu: alu: byid: bye: yoomo we' Mangso da" myonhoo: phung" yoeb ri coung" nghei nyid boem wam: bye.
+47009014	Nanu" gi atho' tid goo ki" lid da" Mangso jeju" ri yo" kham, zo: boem bye: yoomo nyangnu" gi nanu" ri gye" jheddab da" emyid, yo' nanu" shid re" akyu' bo mho' byid: nyid boem wa nghoid.
+47009015	Aphoug" atho' phyed da" Kangso da: jeju" jhung: shug jhung: lang: joem yoomo nyang: ri coung" nghei nyid boem shang o".
+49002008	Khasu" wim gari loem" jeung" khyoo: yoomo nanu" gi Mangso da" jeju" khyo" za: khyoid khyi: yu zi shau" khyoo: nghoid. Hau: zigi nanu" yoem: kaid' yoomo yo" yu da" akyu" anghoid - hang" we' phau: khuang jang: ajo, baja"- Mangso da" jeju" jhung: shug za: danghoid.
+49002009	
+49003014	He: da" khyoo: yoomo moug: khung: moug di mougmyid yooso" tho' moo nyid da" cang: joeb bang: ri myeing khyang" byid: su- phoo Mangso shid khoin" moo ngoo poid thug thoug nyid.
+49003015	
+50002006	Nyang: gi khanham we' Mangso gung yo' joeb byeung" sho' nyid nyid zi nghoid loug we'
+Mangsoo yo' dakhyoo" ti" nghoid nyid wa shid re" mi, shi, go" khyo" amyid loo: za.
+50002007	Hougsu" koid wa gung khoo:- nyang: nya: kang: lung bu, ziyo' dakhyoo" ti"-
+Nyang: nya: yoo" moo yoo" ri tu: mhoug pyam' kho' lho:
+join, mhug ri re" zhoung" yu wigi xangsu: byu yo' du sho' bue" thu' loo bye.
+50002008	Hougsu" nya: gung ri khyo, nyhoem: pyam wigi tam" gyo: da" khyoo: moo shid: jang" moo ju" sho'-cang so" loo" bye-
+gyeing" nyang: pyang" zeing moo shid: jang" moo ju" sho' tam" gyo: nyid.
+50002009	Houg: khyo" nghoid yoomo Mangsoo gi nyang: ri myhang: thang joyoo moo ju" sho' tu: to' kaid wigi
+myeing khyang" dangain" tho' moo je, gyi: da" voolang myeing yung" khyang" ri byid: too" bye.
+50002010	Houg: yoomo moug: khung: moug di tho' mo mougmyid' gyab, yo'
+vho: pyam: mo da" poind' lug dangain" gi Yesu da" voolang myeing yung" khyang" ri
+tu: to' tu: coung" phau" myang vhu" pid' pid' zoore"- poid thug thoug nyid boem wa nghoid .
+50002011	Phoo, Mangso da" myo, nhoo" phung" yoeb shid re" Khristu gi Aseing: nghoid nyid" ga: wigi
+yhoo: dab, moo dab, gi tid fu" yhen: yu nyid boem wa nghoid.
+50003010	Ngoo gi Khristu ri yo" se' lo khyoo: Nyang: doem dei to'' lo da" yoem: vhoo" ri shau" myang kham, zo: wigi ngoo nya: gung du: nyang: shid: jang" mo doem dei to'' yu wa ziri nheig byu zoore- nya: da" shid: kham: ziyo' du goo" wa ziri za: ngoo vho: ngei nyid.
+50003011	
+55002012	Ngoonu" xo' lho: wigi kham' zeung nyid boem nghoid rigi ngoonu' nyang: yo' dage" mung" ri shau" vhoeb nyid boem wa zi nghoid.
+55002013	Ngoonu" gi nheigloem: azoung" boem nghoid loug we' nyang: gi nheigloem: zung" su: nghoid nyid.
+Khasu" wim gari nyang: gungt' du: ri nyang: mhau' lho, he: gyang pyam nyid su: anghoid.
+56001012	Nyang: nu" Kreti byu lapi: yi mo dayug deingmain" khyo" tid zigi Kreti byu yi gi khanham we' mhau' akhyeing" ashoeb, nei" ziyo' zoo: myo, shug myo, no, mo, nghoid- ga:. Houg: yoomo nang gi nyangnu" ri thain: thain: khyoo" khyoo: shed byid: ca". Houg: lang" she, nyangnu" gi deingmain" da" loem" jeung" khyoo: ri shau" yu boem wa.
+56001013	
+56002004	Mangso da" mungdang: gi juang" yi gei sang: zi ashug" baja"- nyangnu" ri we' nyang: tu: nyang: mo pyaid ngi shi" da" myhi' zeing yi gi nyang: nya: da" yhoem: seing: phoo yo' zooshang: mi" ri jheddab se' nyid wa shid re" we' nyang: nya: da" gung ri se' vhoeb khang" nyid wa shid re" we' nyang: nya: da" yhoem: seing: phoo yi vhoeb, khang" khyoo:- se' cang nyid da" yhoem: seing: myhi' zeing gi yo" bui" wa shid re" jhoug" byid: mhoo, byid: nyid we'.
+56002005	
+56002012	Ngoonu" gi ngoonu" nya: da- gyi: myhang: da" Mangsoo ein: da" khyoid yu Aseing Yesu Khristu da" myonhoo: phung yoeb, doug bang thu loo wa ngi lho, da" bidnyid ri dalang" nyid Tarha" ri aphau" cang nau da" nheigloem: yo" mougmyid ri vhoo: boo: myo, no, da" nheugloem: ri she: pyam' wa shid re" we' sam" dab, ri young" ziyo' phyoo: phyoo: nghoid nyid wa khyoo:- deingmain" wigi tarha" phau" cang da" kangso' dei khyoo: yo' he: da" mougmyid tho' moo shau" nyid wa shid re" we: hau: jeju" tarha" gi ngoonu" ri jhoug" byid: nyid.
+56002013	
+58006001	Houg: su" nghoid nyid yoomo nanu" gi Khristain yi da" loem" jeung" khyoo: apoem: ayang: lhid" cab, myhi, yi ri to" pyam' kho boem lho: loem, khau: khyoo: moo nheig bo- gyi: deung loo bye: mo, yo' young" du, joeb byeung" gyi: sheung: da" jhau" mho' khyoo: khyoo:- byi, ce" yhe: lo" boem loo: shang.
+58006002	Babtisma kham: khyoo:- lo, ke" aya: tang: byid: khyoo:- shid: jang" mo doem dei to'' lo da" khyoo: yo' apyaid' atoo: moo tarha" dang: phyed' khyoo: ri apoem: ayang: mo wigi doem poug jhau" nyid anoo" loo.
+58006003	Akhid" Mangso akhang" byid: nghoid ri gi ngoonu" he: khyoo: ri zei: lo" boem wa nghoid.
+58006004	Khasu" wim gari hau" loem" jeung" da" khyoo: mo dalheing: doem, phoug tau" loo" bye: bang: gi nheigloem: dalheing: doem thed' loo wa shid re" khasu" se' ge, bui" loo wa. Nyangnu" gi Mangso da" bidbang moo dalheing: nyid yu" bye: mo, nghoid wigi Moug: khung: mo jeju" jhung: shug ri da lheing: bain ca yu" bye: ziyo' hau: gyeungshang: da" Venyi ri dalheing: coem, kham: yu yu" bye: bang: nghoid nyid boem.
+58006005	Hau: lho: nyangnu" gi Mangso mungdang: ge zi nghoid ziri we' thang: phyang" pyaid yo' sen: da" myonhoo: phung" yoeb ei: we' yoem: vhoo: ri we' nyang: tu: nya: gung du: nyang- shau" kham: zo: lho: se' yu bye: bang: nghoid nyid boem.
+58006006	Nghoid loug we' nyangnu" gi nyang: nya: da" loem" jeung" loem, khau khyoo: ri she: pyam boem bye- nyangnu" gi Mangso da" nya: zoo: ri pyang" zeing moo dalheing: doem baid jen" lhang" lho: mung" byu yi da" shid' khoin" moo aphoug" akhyoid' sho' thu' nhang: boem yoomo nyangnu" ri nheigloem: doem thed' loo wa da" shid re" gi kha: su" we' age bui" loo.
+58006007	Myoo" sho' lheing: vo, shoin" byid: da" moug: gyid' ri kham: yu lho: phoug shoo" mo, shid' re" akyu" bo da" shivoo: shiloem, joem ri youg gyi: loo nhang: da" myid' jang: ri Mangsoo gi mainkaid jeju" byid: nyid.
+58006008	Nghoid loug we' hau" myidjang: gi zugam yo' myo, gam ri za: youg thu' loo nhang: nghoid rigi ce" akyu" we' abo tho' moo agoo"- Mangsoo da" nheing" khoin" yo' gyoug pho" khyoo: za: thoung" shau" lho: myi: moo nghe, jhoem" pyam' shau" wa nghoid. 9Jheddab, bang: we"- ngoonu" hid: su" ein: da tid nyid nghoid loug we' nanu" yo' sen: lho: ngoonu" gi gye" myid loem, nyid nanu" gi hau: khyoid yu khyoo: yo' sen: lho: je" ge, da" khyoid yu khyoo: ri yo" yu ziri ngoonu" se' nyid bye.
+58006009	Jheddab, bang: we"- ngoonu" hid: su" ein: da tid nyid nghoid loug we' nanu" yo' sen: lho: ngoonu" gi gye" myid loem, nyid nanu" gi hau: khyoid yu khyoo: yo' sen: lho: je" ge, da" khyoid yu khyoo: ri yo" yu ziri ngoonu" se' nyid bye.
+58006010	Khasu" wim gari Mangsoo gi atarha" koid nyid su: anghoid- nyang: gi nanu" zei: so' voin, vu, lid loo bye: da" moozoo" ri we' Aseing: ri jheddab khyoo: toin" shid' wa shid re" lid loo" bye: da" ayo, mo zi akhid" ju" sho' phung byu nyang: cang" pang" thoug go" da" khyoo: ri we' Mangsoo gi to" myhed' pyam byid: wa zi anghoid. 11Ngoonu" myid vho: nyid da" khyoo: zeing gi nanu" nheig byu nyid boem da" khyoo: byeung" joeb, lo da" jang" moo ju" sho' yug khang" moo" gi nyang: nyang: vho: ngei nyid da" khyoo: ri za: lo" thang moo ju" sho' geung: teung jo, nhang: wa shid re" nghoid.
+58006011	Ngoonu" myid vho: nyid da" khyoo: zeing gi nanu" nheig byu nyid boem da" khyoo: byeung" joeb, lo da" jang" moo ju" sho' yug khang" moo" gi nyang: nyang: vho: ngei nyid da" khyoo: ri za: lo" thang moo ju" sho' geung: teung jo, nhang: wa shid re" nghoid.
+58006012	Ngoonu" gi nanu" ri nei" mo, abue" loo" nhang: noug- nghoid loug we' loem" jeung" khyoo: yo' nheigloem: sheung: wigi Mangsoo dang: soo" to" da" agyid asoo: ri kham: yu bye: bang: yhang: ti" bue" nyid ge'.
+58006013	Mangsoo gi Abraham ri dang: soo" khoin" byid: to" uri Nya: dang: soo" khoin" yo' dakhyoo" ti"- nyang: koid wa da" khyoo: ri je gyi: thang da Mangsoo mying ri lang jham, tang: to.
+58012007	7Nanu" thoung" shau" nyid kyi" khyeug jam, jau khyoo: joem ri Nya: pho, jhoug" myeing" nghoid ein: khyo" wigi kham, zeung: nyid ge'- nanu" thoung" shau" nyid da" khyi" khyeig jamjau khyoo: joem gi nanu" ri Mangsoo gi nya: zoo: yi nghoid ga: soin: too" bye: ziri toin" shid' nyid. Nya: phoo ajhau" yu" da" nya: zoo: gi khayoo: nyid yu" lha".    
+58012008	Nya: zoo: nghoid mo, dangain" bang: thoung" shau" yu" yhang: te" da- khyoo: ri athoug" shau" yu" boem nghoid rigi nanu" gi zoo: gyeing" anghoid- neing: gyi yi za: danghoid boem wa.
+58012009	Nanu" ri jhau" mhoo, byid: da" xang: su: nya: pho, ri phau" myang: nyid boem nghoid rigi ngoonu" da" Venyi yo' sen: nya: pho, vhoo: moo goeb, jo, boem lho: kangso' dei nyid boem ca" anghoid goo" la".
+58012010	Xang: su: nya: pho, gi nyhang" ri dayo, daboin: za: nyangnu" gi, eung: ga: shau" myid boem ziyo' dakhyoo" ti"- jhau" mho' loo se' boem. Nghoid loug we' Mangsoo koem gi ngoonu" ge loo wa shid re" nyang: yhang: ti" young" gyeungshang: loo goo" baja" ga- ngoonu" ri jhau" mhoo, byid: nyid zi nghoid.
+58012011	Ngoonu" ri jhau" mho' zi thoung" shau" nyid uri gau yi cang ci: aboo- houg: su" jhau" mho' zi thoung" shau" nyid da" uri koug shu: ja: ti" nghoid loug we' hau: zigi thang: phyang: bidnyid ri houg: su" jhau" mho' akyu" ri shau" kham: yu yoomo tarha" cang yhe: da" byu yi bue" lo ziyo' deingmain" khyo" kang: so' dei aphoug" ein: da" ngei pyo: khyoo: ri yo" yu nhang: nyid.
+58013020	Nya: kangso' ri xoin" to' pyam' lho: shid: kham: ziyo' apyaid atoo: moo dang: theing go" to" da' dazig ri thung" bye: yoomo Yang phung: yi da" yang lhug zoug: moo" ein: da" ngoonu" da" Aseing Yesu ri Mangsoo gi shid: jang" mo doem dei to' loo nhang: bye. Nanu" gi nyang: myid vho: khyoo: ri yo" cang dei: loo" wa shid mo nanu" moo ca" nyid da" khyoo: khaid khang" moo" ri-ngei pyo: Aseing: Mangsoo gi nanu" ri joeb, byeung" loo nhang: baja"- Aseing: gi nyang: myid vho: ziyo' dakhyoo" ti"- Khristu da" gang mo nanu" ri joeb, byeung" loo nhang: loo nhang: bye. Yesu Khristu moo myonhoo: phung" yoeb, gi apyaid atoo: dajo, jo, baja" o".
+58013021	
+60002007	Loem" jeung" mo, nanu" shid re" gi hau: lug moo" boem, gi gye" phau" zi nghoid.
+Nghoid loug we' aloem" ajeung" mo, shid re" gi lug yhoem: zhug mo, khyen: lhei" to" da lug loem" gi
+yhoug: gyen: thang da" yhoem: jhoin: mo geung: teung da" lug. Loem: bue" loo bye.
+60002008	Gootu: da" jhoem: mungdang: daloem: moo gi hau: lug loem: gi byu yi ri khyid: vhu" thoung" leung nhang: da" lug loem: yo' nyangnu" ri leung loo" nhang: da" lug zeing ga: lhid" to".
+Houg: bang: gi Yesu da" lu dang: gi, ri atam" gyo: boem yoomo thoung" thue: leung lo" boem bye-
+Hau: khyoo: koem gi Mangsoo nyheung to" da" khyoo: nghoid.
+60003012	Khasu" wim ga: ri Aseing: gi deingmain" mo, riyu" coung" zung" lhug lho:
+nyangnu" da" akyu" mho' thui: ri tam" gyoo: byid: nyid. Nghoid loug we' a
+khyeing" ashoeb da" moo" zei: nyid mo, ri gi
+66002026	Ngoo vho: da" khyoo: moo lo" thang nyid" ju" sho' beung: abyid cang nyid khyo" yo" oung: loo" mo, ri nga" pho, jang" mo ngoo yo" yu da" amyeing" akhang" yo' dakhyoo" ti" ngoo byid: wa. Hau: da" amyeing" akhang" gi joto' lham: dung: yo' vhoeb, khang" lho: myid' zhoo" yam: joem ri agang gang asi" si"- mhoin' pyam yhang: ti"- nyangnu" gi byumyu" bain sho' tho' moo yo" oung: pyam' wa zi nghoid. Hau: boo" myhu: ri we' ngoo nyangnu" ri byid: shi" wa
+66002027	
+66002028	
+66007005	Damoin" eig khyeing" khyeing" dazid' thoung" tab byid: zi shau" da" amyu akung: ako'' yi gi Yuda Rubin Gaid Ashu Nabthali Manashe Simon Levi Yishakha Zebulon yo' Yoseb Benyamen nghoid nyid.
+66007006	
+66007007	
+66007008	
