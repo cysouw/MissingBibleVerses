@@ -1,89 +1,89 @@
-40005030
-40014011
-40014023
-41004011
-41005028
-42001011
-42001044
-42002011
-42006030
-42010011
-42014011
-43006011
-43016014
-43016015
-43016016
-43016017
-43016018
-43016019
-43016020
-43016021
-43016022
-43016023
-43016024
-44002023
-44009005
-44014011
-44014028
-44016023
-45001011
-45003010
-46001002
-46001003
-46014008
-47003015
-47004018
-48001002
-48001003
-49004011
-51004015
-51004016
-51004017
-51004018
-52003010
-52003013
-53003013
-53003014
-53003015
-53003016
-53003017
-53003018
-54005004
-55001002
-55002016
-58002017
-58005013
-58007001
-58010001
-58010024
-58010025
-58010026
-58010027
-58010028
-58010029
-58010030
-58010031
-58010032
-58010033
-58010034
-58010035
-58010036
-58012011
-59003008
-62003013
-62003014
-62003015
-62003016
-62003017
-62003018
-62003019
-62003020
-62003021
-62003022
-62003023
-62003024
-66002011
-66004011
-66005005
-66005011
-66010011
+40005030	? #nicht vorhanden
+40014011	? #nicht vorhanden
+40014023	? #nicht vorhanden
+41004011	? #nicht vorhanden
+41005028	? #nicht vorhanden
+42001011	? #nicht vorhanden
+42001044	? #nicht vorhanden
+42002011	? #nicht vorhanden
+42006030	? #nicht vorhanden
+42010011	? #nicht vorhanden
+42014011	? #nicht vorhanden
+43006011	? #nicht vorhanden
+43016014	? #nicht vorhanden
+43016015	? #nicht vorhanden
+43016016	? #nicht vorhanden
+43016017	? #nicht vorhanden
+43016018	? #nicht vorhanden
+43016019	? #nicht vorhanden
+43016020	? #nicht vorhanden
+43016021	? #nicht vorhanden
+43016022	? #nicht vorhanden
+43016023	? #nicht vorhanden
+43016024	? #nicht vorhanden
+44002023	? #nicht vorhanden
+44009005	? #nicht vorhanden
+44014011	? #nicht vorhanden
+44014028	? #nicht vorhanden
+44016023	? #nicht vorhanden
+45001011	? #nicht vorhanden
+45003010	? #nicht vorhanden
+46001002	? #nicht vorhanden
+46001003	? #nicht vorhanden
+46014008	? #nicht vorhanden
+47003015	? #nicht vorhanden
+47004018	? #nicht vorhanden
+48001002	? #nicht vorhanden
+48001003	? #nicht vorhanden
+49004011	? #nicht vorhanden
+51004015	? #nicht vorhanden
+51004016	? #nicht vorhanden
+51004017	? #nicht vorhanden
+51004018	? #nicht vorhanden
+52003010	? #nicht vorhanden
+52003013	? #nicht vorhanden
+53003013	? #nicht vorhanden
+53003014	? #nicht vorhanden
+53003015	? #nicht vorhanden
+53003016	? #nicht vorhanden
+53003017	? #nicht vorhanden
+53003018	? #nicht vorhanden
+54005004	? #nicht vorhanden
+55001002	? #nicht vorhanden
+55002016	? #nicht vorhanden
+58002017	Naiya koalatino baikon yana sio nateali pokakana tukon utus-utuso doi sasaibino kolangge. Tukon doiya yana moola teali Imam Babasal mo molole tukon daano kona soyang. Tukon nameleleanianoo banggapi nalalim moola inompuni. #”17“ wurde als “,7“ im Satz16 falsch geschrieben.
+58005013	? #nicht vorhanden
+58007001	Melkisedek nia kotomundo Salem tukon Mian Bisa naimam Mo Tatandak Tuuno. Tembo Abalaham abali doi napolobosian lungguiyo kotomundo-tomundo, Melkisedek lubat mololobotiyo yana maka balakaatiyo.
+58010001	Ukum agama Yahudi tongo beena gambalan mo aki natontong tentang langge-langge mo monondok naikon mo lubat, tukon bolikon mo tuuno doi langge-langgedoo. Aki nanggoola ukumoo moola kindendeke mian mo lubat sosuba doi Mian Bisa tukon makanggi sosubakon, mau kai samba kotaum sinosubakon budoo kososubakon-sosubakon mo pokakana.
+58010024	? #nicht vorhanden
+58010025	? #nicht vorhanden
+58010026	? #nicht vorhanden
+58010027	? #nicht vorhanden
+58010028	? #nicht vorhanden
+58010029	? #nicht vorhanden
+58010030	? #nicht vorhanden
+58010031	? #nicht vorhanden
+58010032	? #nicht vorhanden
+58010033	? #nicht vorhanden
+58010034	? #nicht vorhanden
+58010035	? #nicht vorhanden
+58010036	? #nicht vorhanden
+58012011	? #nicht vorhanden
+59003008	? #nicht vorhanden
+62003013	? #nicht vorhanden
+62003014	? #nicht vorhanden
+62003015	? #nicht vorhanden
+62003016	? #nicht vorhanden
+62003017	? #nicht vorhanden
+62003018	? #nicht vorhanden
+62003019	? #nicht vorhanden
+62003020	? #nicht vorhanden
+62003021	? #nicht vorhanden
+62003022	? #nicht vorhanden
+62003023	? #nicht vorhanden
+62003024	? #nicht vorhanden
+66002011	? #nicht vorhanden
+66004011	? #nicht vorhanden
+66005005	? #nicht vorhanden
+66005011	? #nicht vorhanden
+66010011	? #nicht vorhanden
