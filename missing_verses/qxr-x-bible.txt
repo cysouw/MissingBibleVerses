@@ -1,113 +1,116 @@
-40022045
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
-43008001
-43008002
-43008003
-43008004
-43010014
-43010015
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023026
-44023027
-44023028
-44023029
-44023030
-44028028
-45010020
-45015010
-45015011
-45015012
-47006017
-58001006
-58001007
-58001008
-58001010
-58001013
-58002013
-58004004
-58004005
-58004008
-58004009
-58004010
-58004011
-58005006
-58005007
-58005008
-58005009
-58005010
-58007018
-58007019
-58007022
-58008013
-58010008
-58010009
-58010010
-58010017
-58010018
-58010039
-60002008
-60005006
-60005007
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002009
-66002010
-66002011
-66002013
-66002014
-66002015
-66002016
-66002017
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002027
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
+40022045	Davidllatac “ñucata Mandac” nicpica, ¿ima shinatac Cristoca Davidpac aillupura cangayari?— nirca.
+42003024	Elica Matatpac churi, Matatca Levipac churi, Levica Melquipac churi, Melquica Janapac churi, Janaca Josepac churimi carca.
+42003025	Joseca Matatiaspac churi, Matatiasca Amospac churi, Amosca Nahumpac churi, Nahumca Eslipac churi, Eslica Nagaipac churimi carca.
+42003026	Nagaica Maatpac churi, Maatca Matatiaspac churi, Matatiasca Semeipac churi, Semeica Josepac churi, Joseca Judapac churimi carca.
+42003027	Judaca Joananpac churi, Joananca Resapac churi, Resaca Zorobabelpac churi, Zorobabelca Salatielpac churi, Salatielca Neripac churimi carca.
+42003028	Nerica Melquipac churi, Melquica Adipac churi, Adica Cosampac churi, Cosamca Elmodampac churi, Elmodamca Erpac churimi carca.
+42003029	Erca Josuepac churi, Josueca Eliezerpac churi, Eliezerca Jorimpac churi, Jorimca Matatpac churimi carca.
+42003030	Matatca Levipac churi, Levica Simeonpac churi, Simeonca Judapac churi, Judaca Josepac churi, Joseca Jonanpac churi, Jonanca Eliaquimpac churimi carca.
+42003031	Eliaquimca Meleapac churi, Meleaca Mainanpac churi, Mainanca Matatapac churi, Matataca Natanpac churimi carca.
+42003032	Natanca Davidpac churi, Davidca Isaipac churi, Isaica Obedpac churi, Obedca Boozpac churi, Boozca Salmonpac churi, Salmonca Naasonpac churimi carca.
+42003033	Naasonca Aminadabpac churi, Aminadabca Arampac churi, Aramca Esrompac churi, Esromca Farespac churi, Faresca Judapac churimi carca.
+42003034	Judaca Jacobopac churi, Jacoboca Isaacpac churi, Isaacca Abrahampac churi, Abrahamca Tarepac churi, Tareca Nacorpac churimi carca.
+42003035	Nacorca Serugpac churi, Serugca Ragaupac churi, Ragauca Pelegpac churi, Pelegca Heberpac churi, Heberca Salapac churimi carca.
+42003036	Salaca Cainanpac churi, Cainanca Arfaxadpac churi, Arfaxadca Sempac churi, Semca Noepac churi, Noeca Lamecpac churimi carca.
+42003037	Lamecca Matusalenpac churi, Matusalenca Enocpac churi, Enocca Jaredpac churi, Jaredca Mahalaleelpac churi, Mahalaleelca Cainanpac churimi carca.
+42003038	Cainanca Enospac churi, Enosca Setpac churi, Setca Adanpac churi, Adanca Diospac huahuami carca.
+43008001	Jesusca Olivos urcumanmi rirca.
+43008002	Chai cayandi punzha pacarimucucpimi, Diosta mañana huasiman cutirca. Chaiman gentecuna chayacpimi, Jesusca tiyarishpa yachachi callarirca.
+43008003	Chaimanmi mandashcacunata yachachiccunapish, fariseocunapish shuc huarmi huainayacucta japishpa, apamurca. Chai huarmita gentecunapac chaupipi
+43008004	shayachishpaca: —Yachachic, cai huarmitaca huainayacuctami japimunchic. 
+43010014	Ñucami alli michicca cani. Ima shinami ñuca Taita ñucata ricsin, shinallatacmi Taitataca ricsini. Chashnallatacmi ñuca ovejacunapish ñucata ricsin. Ñuca ovejacunamantaca huañuna cacpipish huañushallami. 
+43010015	
+44015024	Manapish ñucanchic mandacpi, ñucanchicpuramanta maijancuna cancunapacman rishpa: “Circuncisionta ruhuashpa, Moisés mandashcacunata pactachinami canguichic” nishpa, pandata yachachishcatami uyashcanchic.
+44015025	Chaimantami ñucanchic tucui mashna alli yuyarishpa, ñucanchicpurallamantatac cai huauquicunata cancunapacman cachanata yuyarircanchic. Paicunatami ñucanchic cuyashca Bernabehuan, Pablohuan cachanchic.
+44015026	Bernabepish, Pablopish huañunata mana manchashpami, Apunchic Jesucristomanta huillarca.
+44015027	Paicuna quiquin parlachunmi, Judastapish, Silastapish cancunapacman cachanchic. 
+44015028	Diospac Espiritumanpish, ñucanchicmanpish alli cacpimi, cancunata mana ashtahuan piñachishpa, cai ruhuanallata ruhuachun ninchic:
+44015029	Ruhuashcalla dioscunaman cushca ofrendatapish, yahuartapish, sipishpa huañuchishca aichatapish ama micunguichicchu, shinallatac ama huaclliringuichicchu. Caicunata cazushpaca, allitami ruhuanguichic. Allilla cashca cachun» nishpami quillcarca.
+44023026	«Ñuca Claudio Lisiasmi, can tucuipac alli nishca mandac Felixta saludani.
+44023027	Cai ñuca cachashca runataca, israelcuna japishpa huañuchigricucpimi, pai Roma llacta runa cashcata yachashpa, ñuca soldadocunahuan rishpa misarcani.
+44023028	Imamanta paita juchanchicushcata yachangapacca, tandanacushca mandaccunapacmanmi aparcani.
+44023029	Paicunapac ñaupaman apashpa paita tapucpica, israelcunapac mandashcata mana cazushcallamanta juchanchicushcatami yachac chayarcani. Ñuca yuyaipica, paitaca imamanta mana huañuchinachu, carcelpipish mana churanachu can.
+44023030	Shina cacpipish, israelcuna cai runata huañuchishun nishcata yachashpami, cambacman cachani. Paita huañuchishun niccunatapish cachanimi. Paicuna imamanta juchanchicushcatapish tapunguilla. Chaillatami mañani. Caya minchacaman» nirca.
+44028028	Caitaca alli yachaichic: Mana israelcunamanmi Diosca quishpirinamanta huillachun cachashca. Paicunami uyangacuna— nirca.
+45010020	Isaías mana manchashpa huillashpaca: «Mana mashcac gentecunami ñucataca tarirca. Ñucata mana tapuc gentecunamanmi ricurircani» ninmi.
+45015010	Cutinllatac Dios quillcachishcapica: «Tucui llactacuna, ¡Dios acllashcacunahuan cushicuichic!» ninmi.
+45015011	Cutinllatac Dios quillcachishcapica: «Tucui llactacuna Mandac Diosta alli nichic. Tucui aillucuna, Diosta jatunyachichic» ninmi.
+45015012	Cutinllatac Dios ima nishcata huillac Isaiasca: «Isaipac huahua huahuapuramantami llactacunata mandangapac jatarimunga. Chaimantami paita cushicushpa shuyacuncuna» ninmi.
+47006017	Chaimantami tucuita Mandac Diosca: «Paicunapuramanta llucshichic. Paicunamanta chicanyarichic. Imapish mapayachic-huanca ama chapurichicchu, chaipica ñucaca chasquishami.
+58001006	Shinallatac Dios paipac shuclla Churita cai pachaman cachacushpaca: “Tucui ñuca angelcuna paita alli ninguichic” ninmi.
+58001007	Angelcunamanta Dios rimashpaca: “Angelcunaca huaira shina cachun, shinallatac ñucata serviccunaca nina japiricuc shina cachun” ninmi.
+58001008	Ashtahuanpish paipac Churimantaca: “Canca huiñai huiñaita Mandac Diosmi cangui. Shinallatac cashcata ruhuashpami mandangui. 
+58001010	Shinallatac: “¡Mandac Dioslla! Canllatacmi cai allpatapish, imapish manarac tiyacpi ruhuarcangui. Canllatacmi jahua pachatapish ruhuarcangui. 
+58001013	¿Diosca maijan angelcunatatac: “Ñuca canta piñaccunata cambac chaqui sarunapi churangacaman, ñuca alli maquiman tiyacuilla” nishca?
+58002013	Shinallatac: “Paita crishpami shuyasha” ninmi. Cutinllatac: “Caipica Dios cushca huahuacunahuanmi cani” ninmi.
+58004004	Dios quillcachishcapica samarina punzhamantaca: “Diosca tucuita ruhuashca quipaca, canchis punzhapica samarircami” ninmi.
+58004005	Shinallatac: “Ñucahuan samaringapacca mana yaicungacunachu” ninmi.
+58004008	Israelcunaman samarinata Josué cushca cacpica, mana Diosca, cutin samarina punzhata cunmanchu carca.
+58004009	Chaimantami Diospac huahuacunamanca shuc samarina tiyanrac. 
+58004010	Chaica, yaicuccunaca Dios tucuita ruhuashpa samarishca shinami, Dios-huan samaringapac yaicunga. Paicuna imata ruhuashcamantapish samaringami.
+58004011	Chai ñaupa mana cazuccuna shina maijanpish ama chashna tucungapacca, mana saquirishpami chai samarinaman yaicungapac catirana canchic. 
+58005006	Shinallatac Dios quillcachishcapica: «Canca Melquisedec shinallatacmi, huiñai huiñaita cura cangui» ninmi.
+58005007	Apunchic Jesucristoca cai pachapi causacushpami, huañuimanta quishpichic Diosta caparishpa, huacashpa mañarca. Jesusca Diosta yallita cazushpami causarca. Chaimantami Diosca uyarca.
+58005008	Apunchic Jesucristoca Diospac Churi cashpapish, llaquita apashpami cazuna cashcata yachacurca.
+58005009	Chai shina tucui Dios nishcata pactachishpami, tucui paita cazuccunapac huiñaita quishpichic tucurca.
+58005010	Diosca Melquisedecta shinami, jatun mandac curata ruhuarca.
+58007018	Chaimantami ñaupa mandashcataca imapac mana alli, mana ruhuaipac saquirin.
+58007019	Moisés mandashcacunaca pactachishpaca, pita jucha illacta ruhuarca. Chaimantami Diospacman chayaringapacca shuc sumac shuyana cashcata shuyacunchic.
+58007022	Chaimantami Jesusca tucuimanta yalli alli mushuc ari ninacuita ruhuan.
+58008013	Mushuc ari ninacuimanta Dios rimashpaca, ñaupa ari nishcaca ña mauca cashcatami ricuchin. Chai maucayashcaca ña tucurimugricucmi can.
+58010008	Ñaupa quillcachishcapica: “Animalta Diosman cushpa huañuchishcatapish, ofrendacunatapish, juchacunata anchuchingapac animalta cushpa rupachishcatapish mana munanchu, paitaca mana cushichinchu” ninmi.
+58010009	Cristoca: «Can munashcata ruhuangapacmi shamuni» ninmi. Chaica, ñaupaman imata ruhuana cashcata anchuchishpami, mushucta ruhuarca. 
+58010010	Ñucanchicta jucha illacta ruhuangapacmi Jesucristoca Dios munashca shina, shuc cutinlla huiñaipac huañurca.
+58010017	Shinallatac: “Paicuna ima mana allita ruhuashpa juchallishcatapish, mana yuyarishachu” ninmi» nirca.
+58010018	Chaimanta ñucanchic juchacunata perdonashca cacpica, juchamanta ashtahuan mana ofrendata cunachu.
+58010039	Ñucanchicca mana catinata saquishpa, llaquiman riccuna shinachu canchic, ashtahuanpish quishpiringapac Jesusta criccunami canchic.
+60002008	Shinallatac: «Cai rumipimi mitcarishpa urmangacuna» ninmi. Paicunaca Dios rimashcata mana cazushcamantami mitcarincuna. Paicunaca chashna tucuchun nishcami cancuna.
+60005006	Pai jatunyachina punzha cancunata jatunyachichunca, ama jatun tucushpa, imatapish ruhuaclla Diospac maquipi causaichic.
+60005007	Ima llaquicuna japicpipish, Diospac maquipi churaichic. Paica cancunata cuidacunmi.
+66002002	Ñucaca can imata ruhuacushcata, can mana shaicushpa trabajacushcata, mana piñarishpa caticushcata, millaicunata mana ricunayachishcata, shinallatac Jesusmanta huillaccunami canchic nishpa llullashpa puriccunata taripashcatapish yachanimi.
+66002003	Ñucata caticushcamanta llaquicunata apashpapish, mana piñarishpa, mana shaicushpa caticushcatapish yachanimi.
+66002004	Shina cacpipish canpica shuctami mana allita ricuni. Punta cuyaita charishca shinaca, ña mana charinguichu. 
+66002005	Chaimanta can maimanta mana allita ruhuanata callarircangui, chaita yuyarishpa Diosman llaquirishpa cutiri. Callaripi ima shina cashca shinallatac cai. Can llaquirishpa Diosman mana cutiricpica, cambacman utca shamushpa, cambac candelerota maipi tiyacushcamanta anchuchishami.
+66002006	Ashtahuanpish Nicolaitacuna ima ruhuashcata piñashpaca, allillatami ruhuangui. Chaicunataca ñucapish piñanimi.
+66002007	Maijanpish ringrita charicca, Diospac Espíritu tandanacushca criccunaman ima nicushcata uyachun. Maijanpish millaita mishacmanca Diospac llactapi cac causaita cuc yuramantami carasha” ninmi.
+66002009	Can ima shina llaquicunata apacushcatapish, can huaccha cashcatapish yachanimi. Shina cashpapish canca chayucmi cangui. Maijan: ‘Israelcunami canchic’ niccuna, canta mana alli nishpa, rimac cashcatapish yachanimi. Chaicunaca mana israelcunatacchu, ashtahuanpish Satanaspacta ruhuangapac tandanacuccunami. 
+66002010	Cantaca llaquicuna japigricunmi. Shina cacpipish ama manchanguichu. Crishpa catincunatachu imami nishpami, maijan cancunataca diablo carcelpi churanga. Chaipica chunga punzhatami llaquita apanguichic. Shina cacpipish huañungacaman ñucata caticpica huiñai causaita ricuchic coronatami cusha.
+66002011	Maijanpish ringrita charicca, Diospac Espíritu tandanacushca criccunaman ima nicushcata uyachun. Millaita mishacca quipa huañuipica ima llaquita mana apangachu” ninmi. 
+66002013	Satanás maipi mandacucpi can causacushcata, shinallatac can imata ruhuashcatapish yachanimi. Satanás maipi mandacucpi ñucamanta allita huillac Antipasta huañuchicpipish, ñucata crinataca mana saquishcanguichu.
+66002014	Shina cacpipish asha mana allicunata ruhuacushcatami cantaca ricuni. Chaipica Balaam yachachishcacunata catishpa mana saquinata munaccunatami charingui. Paimi israelcunataca chai ruhuashcalla dioscunaman cushca micunata micuchunlla, huacllirichunlla nishpa, yachachichun Balactaca yachachishca carca.
+66002015	Shinallatac Nicolaitacunapac yachachishcata mana saquinata munaccunatami charicungui.
+66002016	Shina cashcamanta Diosman llaquirishpa cutiri. Chaita can mana ruhuacpica, utca cambacman shamushpami, ñuca shimimanta llucshicuc espadahuan chaicunahuanca macanacusha.
+66002017	Maijanpish ringrita charicca, Diospac Espíritu tandanacushca criccunaman ima nicushcata uyachun. Maijanpish millaita mishacmanca pacashca tiyacuc maná shuti tandatami carasha. Shinallatac mushuc shutita quillcashca yuranlla rumitami cusha. Chaitaca pipish mana ricsingachu, ashtahuanpish chaita chasquicllami ricsinga” ninmi. 
+66002019	Ñucaca can imata ruhuacushcata, cuyacushcata, crishpa caticushcata, servicushcata, shinallatac callaripi ruhuacushcata atishpa cunan ashtahuan allita ruhuacushcatapish yachanimi.
+66002020	Shina cacpipish shuc mana allitami canpica ricuni. Jezabel huarmi yachachichunmi saquingui. Paica ‘Diosmantami yachachicuni’ nishpami paipac yachachishcacunahuanca ruhuashcalla dioscunaman cushca micunacunata micuchun, shinallatac huacllirichun nishpa ñucapacta ruhuaccunataca pandachicun.
+66002021	Pai huacllirinata saquishpa, Diosman llaquirishpa cuti richun nishpami, tauca punzhacunata saquircani. Shina cacpipish mana cutirishpami, millaita ruhuanataca mana saquin.
+66002022	Shina cashcamantami ñuca ungüita cachacpi, ungushca camapi canga. Chai huarmihuan huainayaccunatapish, shinallatac chai huarmi ima ruhuacushcata mana saquiccunatapish Diosman llaquirishpa mana cutiricpica jatun llaquicunami japinga.
+66002023	Paipac huahuacunatapish huañuchishami. Chashna ruhuacpimi tucui tandanacushca criccunaca paicunapac yuyaitapish, shungutapish ñuca yachac cashcata yachac chayangacuna. Tucuimanmi imata ruhuacushca, shinallatac japina cashcata cusha.
+66002024	Tiatira pueblopi causac criccunamanta maijancuna pai yachachishcata mana catishcamanta, Satanaspac jatunta yachanami nishcatapish mana yachacunata munashcamantaca, ima ashtahuan ruhuanataca mana mandanichu.
+66002025	Shina cashpapish cancuna crishpa caticushcataca, ñuca shamungacaman ama saquinguichicchu.
+66002026	Maijanpish tucuringacaman ñuca nishcata cazushpa millaita mishacmanca, llactacunata mandanatami cusha.
+66002027	Ima shinami ñuca Taita ñucaman mandanata curca, shinallatacmi paicunamanpish cusha. Shina cucpica fierro varahuan mandashpami, allpa mangata shina ñutuchinga.
+66002028	Shinallatac pacaringapac llucshic lucerotapish cushami.
+66002029	Maijanpish ringrita charicca, Diospac Espíritu tandanacushca criccunaman ima nicushcata uyachun” ninmi.
+66003002	Can ima ruhuashcacunapish ñuca Diospac ñaupapica mana alli cashcatami ricuni. Chaimanta cambac allita ruhuana munai manarac tucuricpi, riccharic shina cutin jatarishpa, maipi mana alli ruhuacushcata allichi.
+66003003	Callaripi ima shina yachacushcata, uyashcata cazushpa, Diosman cutirishpa catirai. Can mana chashna ruhuacpica can mana yuyashca horasmi shuhua shina cambacman shamusha.
+66003004	Shina cashpapish Sardis pueblopi causac cancunapurapica, ashallacunami churanacunata mana mapayachishcacunaca tiyan. Paicunaca japina cashcamantami, ñucahuan yuranlla churana churashca puringacuna.
+66003005	Maijanpish millaita mishacca, yuranlla churana churashcami canga. Paipac shutitapish causaiman rina libropi quillcashcataca mana anchuchishachu, ashtahuanpish ñuca Taitapac, shinallatac paipac angelcunapac ñaupapimi paitaca ñucapacmi nisha.
+66003006	Maijanpish ringrita charicca, Diospac Espíritu tandanacushca criccunaman ima nicushcata uyachun” ninmi. 
+66003008	Ñucaca can imata ruhuacushcataca tucuimi yachani. Chaimantami cambac ñaupapica pi mana huichcaipac punguta shina ñucamanta huillachunca pascashpa churashcani. Mana tucuita ruhuaipac cashpapish, ñuca nishcata pactachishcanguimi, shinallatac ñucata mana ricsinichu ninatapish mana nishcanguihu.
+66003009	Ñucaca Satanaspac tandanacuimantami maijan manapish israelcuna cashpa, ‘israelcunami canchic’ nishpa llullaccunataca cambac ñaupapi cungurichisha. Chashna ruhuacpimi ñuca canta cuyashcataca yachangacuna.
+66003010	Mana piñaric alli shungu cai nishpa ñuca mandashcata pactachinata mana saquishcamantami shamuc punzhapi cai pachapi causaccunata ima shina cashcata ricungapac llaquicuna shamucpica, cantapish huacaichisha.
+66003011	Canman ñuca cusha nishcata ama pi quichuchun, ñucata catirangui. Ñucaca ñallami shamusha.
+66003012	Maijanpish millaita mishacmanca, ñuca Diosta mañana huasi ucupi cac pilar shina canatami cusha. Chaimantaca jaicapi mana llucshingachu, shinallatac paipica ñuca Diospac shutitapish, ñuca Diospac pueblopac shutitapish quillcashami. Chaica jahua pacha Diospacmanta shamuc mushuc Jerusalenmi canga. Shinallatac paipica ñucapac mushuc shutitapish quillcashami.
+66003013	Maijanpish ringrita charicca, Diospac Espíritu tandanacushca criccunaman ima nicushcata uyachun” ninmi. 
+66003015	Ñucaca can imata ruhuacushcataca tucuimi yachani. Canca chiripish, rupacpish mana canguichu. Cantaca chiri cachun, mana cashpaca rupac cachunmi munani.
+66003016	Shina cacpipish rupacpish, chiripish mana cashcamanta ashtahuanpish cunuclla cacpimi shungu tigrasha.
+66003017	Canca, ñucaca chayucmi cani, imapish mana illanchu, tucuipimi alli ricuni nicunguimi. Ashtahuanpish imatapish mana charic, lluchulla, ñahui mana ricuc, misa, pipish mana cuyashca cashcataca mana yachanguichu.
+66003018	Chaimantami ñucaca, ninapi rupachishca curita ñucamanta randishpa chayucyai, lluchulla pingaipi cashcata ama pi ricuchun, yuranlla churanata randishpa churari, ñahui alli ricuchunpish, jambita randishpa churari nini.
+66003019	Ñucaca tucui cuyashcacunatami rimani, shinallatac llaquichini. Chaimanta can juchayuc cashcamanta llaquirishpa Diosman cutirishpa, Diospaclla cai.
+66003020	Ñucaca huasiyuc nishpami pungupi huactashpa shayacuni. Maijanpish ñuca rimashcata uyashpa punguta pascacpica, paipacman yaicushpa paihuan micushami, paipish ñucahuan micungami.
+66003021	Ima shinami millaita ñuca mishashpa ñuca Taita mandashpa tiyarinapi paihuan mandangapac tiyarircani, chai shinallatacmi maijanpish millaita mishacmanca ñucahuan mandachun ñuca mandashpa tiyarinapi ñucahuan tiyarichun cusha.
+66003022	Maijanpish ringrita charicca, Diospac Espíritu tandanacushca criccunaman ima nicushcata uyachun” ninmi.
+
+
+# Vers 66003001, , der hier nicht als fehlend aufgelistet ist, ist unvollständig. Im Bibelkorpus steht nur ein Teil/ der Beginn des Verses. Fortsetzung: “Diospac canchis Espirituta shinallatac canchis lucerota charicucca: Ñucaca can imata ruhuacushcata, shinallatac causacunimi nicushpapish huañushca shina cashcataca yachanimi. 
