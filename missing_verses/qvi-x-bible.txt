@@ -1,171 +1,205 @@
-40001023
-40002006
-40002018
-40004015
-40004016
-40012018
-40012019
-40012020
-40012021
-40013015
-40015008
-40015009
-40021005
-40021043
-40022044
-40022045
-41001003
-41007007
-41012011
-42001047
-42001048
-42001049
-42001050
-42001051
-42001052
-42001053
-42001054
-42001055
-42001068
-42001069
-42001070
-42001071
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002014
-42002029
-42002030
-42002031
-42002032
-42003005
-42003006
-42004011
-42004018
-42004019
-42007028
-42020043
-42020044
-43012015
-43012016
-43012039
-43012040
-43012041
-43012042
-43012043
-44002017
-44002018
-44002019
-44002020
-44002021
-44002026
-44002027
-44002028
-44002035
-44004026
-44007043
-44007049
-44007050
-44008033
-44013041
-44015016
-44015017
-44015018
-44028026
-44028027
-44028028
-45003011
-45003012
-45003013
-45003014
-45003015
-45003016
-45003017
-45003018
-45004008
-45009026
-45010021
-45011010
-45011027
-45014012
-45015010
-45015011
-45015012
-47006017
-47006018
-55002012
-55002013
-58001006
-58001007
-58001008
-58001009
-58001010
-58001011
-58001012
-58001013
-58001014
-58002007
-58002008
-58002009
-58002013
-58003008
-58003009
-58003010
-58003011
-58003016
-58003017
-58003018
-58003019
-58004004
-58004005
-58004006
-58004007
-58004008
-58004009
-58004010
-58004011
-58005006
-58005007
-58005008
-58005009
-58005010
-58007018
-58007019
-58007022
-58007023
-58007024
-58007025
-58008009
-58008010
-58008011
-58008012
-58008013
-58010006
-58010007
-58010008
-58010009
-58010010
-58010016
-58010017
-58010018
-58010038
-58010039
-58012006
-58012007
-58012008
-58012009
-58012010
-58012011
-60001025
-60002008
-60003011
-60003012
-60004018
-60004019
-60005006
-60005007
+40001023	“Jarihuan nara tacarishca cuitsagumi, vijsayu tucushpa, shuj jari huahuaguta ungunga. Paipaj shutica, Emanuelmi canga” nircami. Emanuel nishpaca: “Taita Diosca ñucanchihuanmi” nijunmi.
+40002006	‘Judá llactapi tiaj Belén pueblolla. Judá llactapi mandaj puracunahuan ricujpica, na yapa uchillaguchu cangui. Canmandami, shuj jatun mandajca llujshinga. Paimi, ñuca agllashca israelcunataca, michijunga’ nijunmi— ninajurcami.
+40002018	“Ramá shuti pueblopica, ninanda caparishpa, ninanda huacashpa, aij nishpa huacajujmi uyarirca. Raquel shuti huarmiguca, paipaj huahuacunamandami ninanda huacajun. Ama yapa huacaichu nijpipash, huahuacuna huañushcamandaca huacajurcallami” nijurcami. 
+40004015	Zabulón shuti, Neftalí shuti llactacuna. Cangunaca, mama cuchaman rina ñambimi, Jordán yacu chimba ladoman tianajunguichi. Na israelcunami, Galilea llactapica causanajun. 
+40004016	Yana yana tutapishna causajcunaca, ninanda punchayachijuj michagutami ricurca. Huañui japinalla llandupishna chai llactapi causanajujtaca, michagumi punchayachirca” nijurcami.
+40012018	“Ñucata servij runaguca, caimi. Paitami agllarcani. Ñuca Juyashca cajpimi, paimandaca ninanda cushijuni. Ñucapaj Espiritutaca, paimanmi carasha. Pai aliguta ricushpa mandanatami, na israelcunaman villajunga.
+40012019	Paica, pihuambash na fiñanajushpa rimarijungachu. Paitaca, ñangunapi caparishpa rimajujtallapash na uyangachu.
+40012020	Paica, vishtuyashpa urmajuj sucustapash na faquingachu. Huañuj huañujlla rupashpa cushnijuj michatapash na huañuchingachu. Pai aliguta ricushpa mandana punllacamanmi, na chashna ruranga.
+40012021	Paipaj shutipimi, tucui na israelcuna shuyanajunga” nijurcami. 
+40013015	Cai gentecunapaj shunguca, ninanda shinlliyashcami. Rinrihuan uyashpapash, nali uyanajunllu. Ama ricungapaj, ñavitapash vichashcashnami causanajun. Rinripash ama uyachun, shungupipash yuyaita ama japingapaj, ñucapajmambash ama tigrangapaj, ñucapash ama paicunata alichijuchunmi, chashna tucushca’ nijurcami.
+40015008	‘Cai llactapi causajcunaca, shimihuanllami ninanda alicachihuan. Ashtahuangarin paicunapaj shunguca, ñucamandaca carupimi.
+40015009	Ñucataca yangallami alicachinajun. Ashtahuangarin gentecuna mandashcatallami, ñuca yachachishcatashna yachachinajun’ nishpami villarca— nijurcami. 10Shina nishpallami, chai tucui gentecunata cayashpa, Jesusca cashna nirca: —Ñuca villashcataca, aliguta uyashpa yaringuichi. 
+40021005	‘Sion pueblopi causajcunaman, cashna nishpa villapaichi: Ricuichi, cangunata jatun Mandajmi shamujun. Paica, ali shungutami charin. Shuj maltun burropi tiarishpami, cangunapajman shamujun. Paica, aparishpa purij burropaj huahua, maltun burropimi tiarishpa shamujun’ nishcami carca. 
+40021043	Shinamandami cangunataca, cashna nini: Taita Dios mandajuj llactaguman canguna yaicunatapash quichushpami, ali fucunshna paita cazuj gentecunaman cunga.
+40022044	Jatun Diosca, ñucata Mandajtami cashna nijurca: ‘Canga, ñuca ali ladoman tiajuilla. Canda na ricunayachijcunata can saruchun, cambaj chaquipi ñuca churangacaman tiajuilla’ nijurcami. 
+40022045	Paitaca Davidllata: ‘Jatun Diosmi cangui’ nijujpica, ¿imashpata Davidpaj churi cangayari?— nircami.
+41001003	Jichushca pambapi caparij runaguca, cashnami nin: ‘Jatun Diosman, ñanda alichipaichiyari. Quingu quingu chaqui ñangunatapash derechapaichiyari’ ninmi” nijushcami. 
+41007007	Ñucataca yangallami alicachinajun. Ashtahuangarin gentecuna mandashcatallami, ñuca yachachishcatashna yachachinajun’ nijurcami. 
+41012011	Chaitaca, Jatun Diosmi rurashca. Chaita ricushpaca, ninandami manllarinchi’ nijunmi” nijurcami.
+42001047	Ñuca espiritupash, ñucata Quishpichij Taita Dioshuanmi ninanda cushijun.
+42001048	Diosta servij ñuca na valigutaca, ninandami llaquihuashca. Cunanmandapachami ñucataca, tucui jipa miraicunapash alicachi tucushcami ninajuhuanga. 
+42001049	Tucui Ushaita Charij Diosmi, ñucapi tucuita cashna juyailla rurahuashca. Paipaj shutica, jucha illajmi. 
+42001050	Paita manllajcunapaca, pai llaquinaca mirai miraicunacamanmi.
+42001051	Diosca, paipaj ninan ushaihuanmi juyailla rurashca. Shungupi jatun tucushpa jariyajcunataca, maitapashmi cachashca.
+42001052	Ninan ushaita charijcunataca, paicuna mandashpa tiajujmandapash anchuchishpami, na jariyashpa causajcunatara jatumbi churashca.
+42001053	Ninanda yarjachishpa purijcunamambash, imagutapash llashajtami carashca. Ashtahuangarin ninan charijcunataca, imapash illajtami cachashca.
+42001054	Paita servij israelcunatami, paicunata llaquij cashcata yarishpa ayudarca.
+42001055	Shina llaquinatami, ñucanchi ñaupa taita Abrahamman, paipaj miraicunamambash, causaita causaicaman yarijushallami nishpa villajurca” nijurcami. 
+42001068	“Ñucanchi israelcunata Mandaj Taita Diostaca, aligumi cangui nishunchi. Paimi, pai agllashca gentecunata ricungapaj shamushpa quishpichishca.
+42001069	Ninan ushaita charij Quishpichijtaca, paita servij Davidpaj mirai puratami, ñucanchipajman cachamushca.
+42001070	Paipajlla causanajushpa, pai ima nishcata villajcunahuan ñaupamandallata imashna villachishcashnallatami cachamushca.
+42001071	Ñucanchita fiñajcunamanda ñucanchita millanayachi tucui runacunapaj maquimandapashmi quishpichishca.
+42001072	Ñucanchi ñaupa taitacunata llaquishpa, paillata ari nishcata na cungashpa pactachingapajmi quishpichishca.
+42001073	Ñucanchi ñaupa taita Abrahamman carashapachami nishpa juramentushpaca, cunambi ñucanchiman carangapajmi, cashna nishca:
+42001074	‘Ñucanchita fiñajcunapaj maquimandaca quishpichishami. Shinamandami ñucataca, na manllashpa servinguichi.
+42001075	Ñucanchi huañuna punlla chayangacamanmi, imatapash cashcatapacha rurashpa, ñucapaj ñaupajpica ñucapajlla aliguta causashpa, ñucataca servinguichi’ nishcami.
+42001076	Can huahuaguca: ‘Jahua pachapi causajuj Dios ima nishcata villajmi’ nijpimi puringui. Canmi, Jatun Dios cachamujpi shamushpa purichunga, ñanda alichishpa ñaupajungui.
+42001077	Shina ñaupashpaca: ‘Diosmi, pai agllashcacunapaj juchacunata anchuchishpa quishpichinga’ nishpami villajungui.
+42001078	Ñucanchi Taita Diosca, ninandapacha llaquishpami, indi punchapamba llujshimunshna, jahua pachamanda ñucanchita ricungapaj shamushca.
+42001079	Huañunata manllashpa, yana yanapishna causajcunata, michashna punchayachingapajmi, paica shamushca. Casilla ali causaita ñucanchi charichumbash, chai ñanda purichun ricuchingapajmi, paica shamushca” nijurcami.
+42002014	“¡Jahua pachapi Taita Diosca, punchapambagumi cangui ni tucushca cachun! ¡Alpapi causaj gentecunapash, casilla ali causaita, Diospaj ali munaita charichun!” ninajurcami. 
+42002029	“Jatun Dioslla, can nishcashnallata, cunanga canda servij ñucataca, cushijushpa huañuchun saquihuailla.
+42002030	Quishpichijuchun can cachamushcataca, ñuca ñavihuambacha ricuparcanimi.
+42002031	Paitaca, tucui gentecuna ricuchunmi cachamupashcangui.
+42002032	Na israelcunamambash michagushna punchayachijuchun, can agllashca israelcunapash juyaillagu ricurichumi cachamushcangui” nijurcami. 
+42003005	Tucui pugru pambacunapipash, alpata jundachingami. Tucui urcucunapash, lomacunapashmi urai tiachi tucunga. Quingu quingu ñangunatapash derechangami. Utujuyashca ñangunatapash alichingami.
+42003006	Tucui gentecunami, Taita Dios quishpichinata ricunajunga’ ninmi” nijunmi.
+42004011	Paicunami, rumipi can ama nitijachunga, candaca maquipi charinajunga’ nijunmi— nircami.
+42004018	“Jatun Diospaj Espiritumi, ñucapi causajun. Imagutapash na charijcunaman ali villaita villachunmi, Taita Diosca aceiteta talishpa javihuashca. Shungu faquirinshna llaquirishpa causajcunatapash, cushichijuchunmi cachamuhuashca. Prezu tiajcunamambash, ñami cachari tucugringuichi nishpa villachunmi cachamuhuashca. Ñausacunatapash alichijuchunmi cachamuhuashca. Ninanda llaquichijpi causajcunatapash, cacharichunmi cachamuhuashca.
+42004019	Jatun Dios quishpichina huata chayamushcata villachumbashmi cachamuhuashca” nijurcami.
+42007028	Cangunataca cashnami nini: Huarmimanda huacharishca purapica, Bautizaj Juanda yali, profeta ali runaguca, shujllapash na tianllu. Ashtahuangarin Taita Dios mandajuj llactagupica, tucuita yali uchillashna causaj runagumi, Juandaca ashtahuan yali” nijurcami. 
+42020043	Canda na ricunayachijcunata can saruchun, cambaj chaquipi ñuca churangacaman tiajuilla’ nijurcami.
+42020044	Quishpichij Cristotaca, Davidllatami: ‘Jatun Diosmi cangui’ nijujpica, ¿imashpata Davidpaj churi cangayari?— nircami.
+43012015	“Sion shuti pueblopi causajcuna, na manllanachu canguichi. Ricuichi, quiquingunata jatun Mandajmi shamujun. Mama burrogupaj maltun burropi tiarishcami shamujun” nijunmi.
+43012016	Jesuspaj yachajujcunaca, imapaj chashna rurajujtapash, chai punllacunapica nara yacharcachu. Ashtahuangarin Jesusta punchapamba llactaguman pushashca jipami paipaj yachajujcunaca, Jesusmanda escribishpa imata nijushcata yarinajurca. Shina yarishpami, chaica ña pactamushcata yachanajurca. 
+43012039	Paicuna imamanda na crinatapash, Isaiasllatami cashna nijurca:
+43012040	“Diosmi, paicunapaj ñavitaca ñausayachirca. Shinallata paicunapaj shungutapashmi shinlliyachirca. Paicunapaj ñavica ama ricuchun, paicunapaj shungupash ama yachai ushachunmi, chashna rurarca. Ñuca paicunata alichijpi ali tucungapajpash, ñucapajman na tigramunllu” nijurcami.
+43012041	Jesustaca, punchapamba cajta ricushca cashpami, Isaiasca chashna nishpa villachijushca.
+43012042	Chashna tucuita nishpa villachijujpimi, Jesustaca ashtacacuna mandaj puracunapash crinajurca. Tandanajuna huasimanda ama llujchishpa cachai tucungapajmi, fariseocunata manllashpa, crijmi canchi nishpaca na villachinajurca.
+43012043	Paicunaca, Taita Dios alicachinataca na yapa munashpami, gentecuna alicachinatara ashtahuan munarca.
+44002017	‘Taita Diosca, cashnami nijun: Tucuri punllacunapica, tucuicunamanmi ñuca Espiritutaca talinshna cachamusha. Shina cachamujpimi, cangunapaj churicunapash, ushicunapash ñucamandaca villanajunga. Shinallata cangunapaj chairalla viñai huambracunapash, muscuipishnami ricunajunga. Cangunapaj rucucunapash, muscuicunatami muscunga.
+44002018	Chai punllacunapica, ñucata servij jaricunamambash, huarmicunamambash, ñuca Espirituta talinshna cachamushami. Shina cachamujpimi, ñucamanda villanajunga.
+44002019	Jahua pachapica, jatun manllarinacunata rurashpami ricuchisha. Cai pachapica, ricuchinacunata rurashpami, yahuarta, ninata, cushni samaitapash ricuchisha.
+44002020	Jatun Dios agllashca juyailla, jatun punlla nara chayamujpillatami, indipash yana yana tucunga, lunapash yahuarman tigranga.
+44002021	Jatun Diospaj shutipi mañajcunaca, tucuillami quishpiringa’ nijushcami.
+44002026	Shina cajpimi ñuca shungupipash, ninanda cushijurcani. Shinallata ñuca jalluhuambash, cushijuihuanmi rimajurcani. Huañushpapash, shuyashpami ñuca cuerpoca samajunga.
+44002027	Ñuca almatapash, Hades nishcapica na saquinguichu. Shinallata cambajlla causajuj Runagupaj cuerpo ismuchumbash, na saquinguichu.
+44002028	Causaipaj ñangunatami rijsichihuarcangui. Can ñucahuan cashpami ñucataca, ninanda cushichihuangui’ nijushcami.
+44002035	Canda fiñajcunata can saruchun, cambaj chaqui ucupi ñuca churangacaman tiajuilla’ nishcami.
+44004026	Cai pachata jatun mandajcunaca, llactacunata mandajcunapash, shujllashnalla tandanajushpami, Jatun Diostapash, pai cachamushca Quishpichij Cristotapash fiñarca’ nijushcami.
+44007043	Ashtahuangarin Moloc shuti diospaj carpatarami apashpa purircanguichi. Shinallata, Renfán nishca luzerotashna rurashca diostapash apashpami purircanguichi. Chaicunatami, cangunaca ninanda alicachircanguichi. Shinamandami cangunataca, Babilonia llactata ashtahuan yalishpa causachun cachasha’ nijunmi. 
+44007049	‘Jatun Diosca, cashnami nijun: Ñucaca, jahua pachapimi mandashpa tiajuni. Cai pachaca, ñuca sarujunami. ¿Imashna huasitata ñucaman ruragringuichi? Na cashpaca, ¿maipita ñuca samana pushtu?
+44007050	Ima tiachumbash, ¿nachu ñucallata rurarcani?’ nishcami. 
+44008033	Na ricunayachishpa llaquichijujpipash, imatapash cashcatapachami rurana canchi nishpaca, pipash na nircachu. Cai pachapi huañuchi tucujpimi, paipaj miraicuna tianmi nishpaca, pipash na parlanga” nijurcami.
+44013041	‘Uyaichi, ñucata yangapi churajcuna, manllarishpa maipipash chingagrichi. Canguna causanajui punllacunapimi, shuj ruranata rurasha. Chai rurashcata maijanguna cangunaman villajpipash, na crishpallatami causanguichi’ nishcami— nijurcami.
+44015016	‘Cashna tucushca jipa ñuca tigramushpami, Davidpaj jatun carpa urmashcatapash cutin alichisha. Shina rurashpami tucuilla urmashcatapash, alichishpa shayachisha.
+44015017	Shina rurajpimi huaquin gentecunaca, Jatun Dios ñucata mascanga. Shinallata na israelcunapashmi mascanajunga. Paicunamandami, ñuca shutipi mañanajun.
+44015018	Ñaupa huatacunamandapacha tucuita villachij Jatun Diosmi, chashna nijun’ nijunmi.
+44028026	‘Cai gentecunapajman rishpa, cashna nigri: Rinrihuan uyashpapash, napacha yachai ushashpami causanguichi. Ricuitaca ricushpapash, na ricushcashnami causanguichi.
+44028027	Cai gentecunapaj shunguca, ninanda shinlliyashcami. Rinrihuan uyashpapash, nali uyanajunllu. Ama ricungapaj, ñavitapash vichashcami causanajun. Rinripash ama uyachun, shungupash yuyaita ama japingapaj ñucapajmambash ama tigraringapaj, ñucapash paicunata ama alichijuchunmi, chashna tucushca’ nijushcami.
+44028028	Caita yachachunmi, cashna nini: Taita Diosca, na israelcunata quishpichingapajmi, villachun cachamushca. Paicunarami, aliguta uyanajunga— nijurcami. 
+45003011	11Yuyaita japishpa causajca, pipash na tianllu. Taita Diosta mascajpash, pipash na tianllu.
+45003012	Diosmandaca tucuicunami anchurirca. Tucuillami nalicunapacha tucushca. Aliguta rurashpa causajpash, pipash na tianllu. Shujllapash na tianllu.
+45003013	Paicunapaj cungapash, huañushcata pambana utujuta pascashcashnami tucushca. Paicunapaj jalluhuanmi umachinajun. Paicunapaj shimi ucupica, millai culebrapaj venenoshnami tiajun.
+45003014	Paicunapaj shimipica, nalicachishpa rimashpa ninanda llaquichina jundami.
+45003015	Paicunaca, huañuchishpa yahuarta jichangapajpash, uchami rinajun.
+45003016	Paicunapaj causaipica ñutui tucushpa, llaquichi tucunallami tian.
+45003017	Casilla ali causaitapash, paicunaca na rijsircachu.
+45003018	Paicunaca, Taita Diospaj ñaupajpipash na manllashpami causanajun” nijunmi.
+45004008	‘Canga, na juchayuchu cangui’ nishpa, Jatun Dios nijpimi, pipash ninanda cushijun” nircami. 
+45009026	Maipimi paicunataca: ‘Na ñuca agllashcacunachu canguichi’ nishca pushtupillatami: ‘Causajuj Taita Diospaj huahuacunami canguichi’ ni tucunajunga” nijurcami.
+45010021	Ashtahuangarin israelcunamandaca, cashnami nin: “Ñucata na cazushpa fiñachij gentecunataca, punllandimi maquita chutashpa cayajurcani” nijunmi.
+45011010	Paicunapaj ñavipash ama ricuchun, ñausayashca cachun. Paicunapaj huashatapash, causaita causaicaman llaquichishpa saquipai” nijunmi. 
+45011027	Paicunapaj juchacunata anchuchishpami, ñuca paicunahuan ari nishcataca pactachishca” nijunmi. 
+45014012	Shinamandami ñucanchica, tucuicuna imata rurashcata quiquinllata Taita Diosman ricuchigrinata charinchi. 
+45015010	Shinallata cutimbash cashnami nijun: “Shuj llactacunapi causajcunapash, Dios agllashcacunahuan cushijunguichi” nijunmi.
+45015011	Cashnatapashmi cutin nijun: “Tucui llactapi causajcuna, Jatun Diostaca ninanda alicachinguichi. Tucuicunallata, paita jatunyachinguichi” nijunmi.
+45015012	Shinallata Isaiaspash, cutimbashmi cashna nijun: “Isaí shuti taitapaj miraimandami, tucui llactapi causajcunata mandangapaj jataringa. Tucui na israelcunami, paita yariashpa shuyanajunga” nijunmi. 
+47006017	Shinamandami Jatun Diosca, cashna nishca: “Paicunapaj chaupimanda llujshishpa anchurichi. Ima mapatapash, pactara tacaringuichiman. Shina causajpimi, cangunataca chasquisha.
+47006018	Shinallata cangunapaca, Taitami casha. Cangunaca ñuca churicuna, ñuca ushicunami canguichi” nijunmi Tucui Ushaita Charij Jatun Diosca.
+55002012	Llaquicunata apanajushpaca, paihuanmi mandagrishun. Paitaca na rijsinichu nijpica, paipash ñucanchitaca na rijsinichu ningami.
+55002013	Llaquicunata apanajushpaca, paihuanmi mandagrishun. Paitaca na rijsinichu nijpica, paipash ñucanchitaca na rijsinichu ningami. 13Pai mandashcata ñucanchi na pactachij cajpipash, paica imatapash aliguta pactachijunllami. Paica, na paimandallata na ñucachu cani nishpa llullaritaca na ushanllu. 
+58001006	Paipaj shujlla Churita, cai pachaman cachamushpaca: “Taita Diospaj tucui angelcuna, paita ninanda alicachinguichi ninimi” nishcami.
+58001007	Angelcunamanda parlashpaca, cashnatapachami nijun: “Paipaj angelcunataca, espiritucunatami rurashca. Paipajta rurajcunataca, nina rupajujtashnami rurashca” nijunmi.
+58001008	Ashtahuangarin paipaj Churimanda parlashpaca, cashnami nijun: “Taita Dioslla, can mandashpa tiarinaca, causaita causaicamanmi canga. Can mandana vara caspica, can mandajuj llactapaj ali cachun mandanami.
+58001009	Imatapash cashcatapacha ruranatami juyashcangui. Nalita ruranataca millanayachishcanguimi. Shina cajpimi Taita Diosca, candaca aceiteta talishpa javirca. Paica, cambaj Taita Diosmi. Cambaj cumbacunatapash yali cushijuchunmi, shina rurarca” nijunmi.
+58001010	Shinallata cashnatapashmi nijun: “Jatun Dioslla, canmi callaripica cai pacha tiachun rurarcangui. Jahua pachaca, cambaj maquihuan rurashcacunami.
+58001011	Chaicunaca tucuringami. Ashtahuangarin canga causajunguillami. Chai churashcacunaca, tucuillami churajunashna maucayanga.
+58001012	Chaicunataca, churajunata pillushpa saquinshnami, shuj mushujta churangui. Ashtahuangarin canga, canllatami cangui. Can causana huatacunapash, na tucuringachu” nijunmi. 
+58001013	Taita Diosca, ¿maijan angeltapash ima horallapash: “Canda na ricunayachijcunata can saruchun, cambaj chaquipi churangacaman, ñuca ali ladoman tiarilla” nishcachu?
+58001014	¿Nachu tucui angelcuna, Diospajta ruraj espiritucuna? ¿Nachu quishpirinata japishpa ringapaj shuyajcunata servinajuchun cachamushcacuna?
+58002007	Paitaca, ashamandallami na angelcunatashna rurashcangui. Paitaca, juyailla coronata churachinshnami, ninanda alicachishcangui. Paitaca, cambaj maquihuan rurashcacunata mandachunmi rurashcangui.
+58002008	Tucui imata cashpapash, paipaj chaquihuan saruchishpami cazuchishcangui” nijushcami. Tucui imatapash cazuchishpa charijushpami, imallapash paita na cazushpa tiajuchunga, na saquirca. Ashtahuangarin tucui imatapash cazuchijujtaca, nara ricui ushashpami causanchi.
+58002009	Ashtahuangarin Jesustaca, ashamandalla na angelcunatashna rurashcatami ricunchi. Ninan llaquita apashpa huañujpimi, Jesustaca juyailla coronata churachinshna ninanda alicachirca. Taita Diospaj ninan juyaimandami, tucuicunamanda huañunata munachun, chashna rurarca.
+58002013	Cashnatapashmi nijushca: “Diostallami yariashpa causasha” nijushcami. Cutimbashmi cashna nijushca: “Ricuichi, Taita Dios ñucaman carashca huahuacunandimi, caipi cani” nijushcami. 
+58003008	na shinlli shungu tucunachu canguichi. Jichushca pambapi imatapash rurana munai shamujpi, Diosta ninanda fiñachishcashnaca, na tucunachu canguichi.
+58003009	Chaipimi, cangunapaj ñaupa taitacunaca, ñuca imata rurajta ricungapaj paicuna munashcata rurachun mañashpa fiñachihuarca. Shinallata ñuca imata rurajujtapashmi, chuscu chunga huatacaman ricunajurca.
+58003010	Shinamandami chai miraicunahuanga, fiñarishpa cashna nircani: ‘Punllandimi, paicunapaj shungupica, yangacunatalla yarishpa purinajun. Ñuca munashcashna causanataca, na rijsinllu’ nircanimi.
+58003011	Shina cashcamandami, ñuca ninanda fiñarishpa: ‘Ñucahuan samangapaca, napacha yaicungachu’ nishpa juramenturcani” nijunmi. 
+58003016	Dios rimajujta uyashcata na cazushpa fiñachijcunaca, ¿picunata cashcanga? ¿Nachu Moisespaj maquihuan llujchimujpi, Egiptomanda tucui llujshimushcacuna fiñachinajushca?
+58003017	¿Picunahuanda Diosca, chuscu chunga huatacaman nali cashcanga? ¿Nachu jichushca pambapi juchata rurashpa huañujcunahuan nali cashcanga?
+58003018	¿Picunatata Diosca: “Ñucahuan samangapaca, napacha shamui ushanachu canguichi” nishpa juramentushca? ¿Nachu paita na cazujcunata, chashna nijushca? 
+58003019	Paicunaca na crishcamandami, Dioshuan samangapaca, na yaicui ushashcata ricunchi.
+58004004	Diosca, canchis punllamanda rimashpami, shuj pushtupica cashna nijun: “Taita Diosca tucuita churashpami, canchis punllapica samarca” nijunmi.
+58004005	Shinallata: “Ñucahuan samangapaca, napacha yaicungachu” nijunmi.
+58004006	Shinamandami huaquingunaca, paihuan samangapaca nara yaicun. Ali villaitaca pundata villajujta uyashpapash na cazushcamandami, samangapaca na yaicunajushca.
+58004007	Shina cajpipash, cutin shuj punllacunapimi samagrichunga, Diosca churashca. Chai punllacunaca, cunambimi pactamushca. Chai punllacunamanda villachunga, unai huata jipacunapimi Diosca, Davidman yarichishpa, cashna nishca: “Dios rimajujta cunan uyashpaca, na shinlli shungu tucunachu canguichi” nishcami.
+58004008	Israelcunata, Dioshuan samagrichun Josué pushai ushashca cajpica, jipa punllacunapi samagrina tiangami nishpaca, na villachun mandanmanllu carca.
+58004009	Shinamandami, Taita Dios agllashca gentecunapaca, samagrina tian.
+58004010	Taita Diosca, cai pachata ruraita tucuchishpaca samarcami. Shinallatami ñucanchipash paihuan samangapaj yaicushcacunaca, imata ruranajushcatapash saquishpa samanata charinchi.
+58004011	Shina samagrinata charingapaca, aligutapacha yarishpa catishunchi. Ama ñaupa taitacuna na cazushpa urmashcashna cangapajmi, chashna catina canchi. 
+58005006	Escribishcapica, shuj pushtupipash cashnami nijun: “Canga, causaita causaicamanmi Melquisedec shuti curashna curapacha cangui” nijunmi.
+58005007	Cristo cai pachapi causajushpaca, ninanda mañashpa caparishpa huacashpami, huañunamanda quishpichi ushaj Diosta mañajurca. Manllaihuan cazujushcata chashna ricuchishpa mañashcamandami, paitaca uyarca. 
+58005008	Cristoca, Diospaj Churi cashpapash, ninan llaquita apashpami, imashna cazunataca yachajurca.
+58005009	Shina aliguta pactachishpami, paita tucui cazujcunataca causaita causagrichun quishpichijun.
+58005010	Shinamandami, Melquisedec curatashna Taita Diosca, Jesustaca curacunata mandaj cachun churajpi, paica cura tucurca.
+58007018	Chaimandami, ñaupa mandashca shimicunaca, imapajpash na ushaita charishpa yanga tiajushcamandaca, anchuchi tucushca.
+58007019	Shinallata juyaillaguta japigrinata shuyanata Dios cushcamandami, anchuchi tucushca. Chai shuyanata cushcamandami, ñucanchica Taita Diospajman quimirircanchi. (Mandashca shimicunataca, imapash na aligutapachaca rurarcachu).
+58007022	Shinamandami, tucuita yali aligutapacha Dios ari nijushcataca, Jesusca pactachijpacha tucurca.
+58007023	Chaishuj curacunaca, huañujlla cashpami, na shuj curalla tiai ushashpa, taucacuna cura tucunajushca.
+58007024	Ashtahuangarin Jesusca, causaita causajujlla cashpami, paica causaita causaicaman cura canga.
+58007025	Shina cashpami Jesusca, paimandalla Taita Diospajman quimirijcunataca, causaita causaicaman quishpichi ushan. Paimi, Diosta paicunamanda mañangapaca, causaita causajun. 
+58008009	Paicunapaj ñaupa taitacunahuan ari nishcashnaca, na rurashachu. Paicunahuanga, maquimanda japishpa, Egipto llactamanda llujchimujui punllapimi ari nircani. Paicunaca, chaipi ari ninajushcataca na pactachishpa causanajurcachu. Chaimandami, ñucapash paicunata jichushpa saquircani’ ninmi Jatun Diosca.
+58008010	Shinamandami Jatun Diosca, cashna nin: ‘Chai punlla jipacunapica, israelcunahuanga cashna ruranatami ari nisha: Ñuca mandashcacunataca, paicunapaj yuyaipimi churasha. Paicunapaj shungupimi, escribinshna churasha. Shina rurashpami, paicunapaj Taita Dios casha, paicunapash ñuca agllashcacunami canga.
+58008011	Chaipica, pipash paipaj huauquita cashpa, shujcunata cashpapash: Jatun Diosta rijsinami cangui nishpaca, na yachachijungachu. Paicunaca, tucuicunami uchillamanda callarishpa, jatungunacaman rijsihuanga. 
+58008012	Paicuna imatapash cashcatapacha na rurashca cajpipash, llaquishami. Paicunapaj juchacunatapash, jatun nalita rurashcatapash, napacha ashtahuan yarishachu’ nijunmi” nijurcami.
+58008013	Shuj mushujta rurangapaj ari nishpaca, punda ari nishca ña maucayashca cajpimi, chashnaca nishca. Chai punda ari nishcapash, ña maucayashca cashpami, ña tucurigrijun.
+58010006	Animalcunata cushpa tucuillata rupachijpipash, juchacunata anchuchijuchun imata cujpipash, napacha cushijunguichu” nircami.
+58010007	Chaimandami cashna nircani: “Ricui Taita Dioslla, cambaj munaita pactachingapajmi shamuni. Canllatami, ñucamanda villashpa pillushca libropi escribichishcangui” nijurcami.
+58010008	Cristoca, caitarami punda nirca: “Animalta Diosman cushpa huañuchishcatapash, ashtahuan imata cuchumbash, animalcunata tucuillata rupachishcatapash, juchacunata anchuchijuchun, imata carachumbash na munarcanguichu. Chaicunahuanga, na cushijunguichu” nircami. (Mandashcapi nijushcamandallami, chaicunataca cunajun).
+58010009	Chai jipaca, cashnatapashmi nirca: “Ricui, Taita Dioslla, cambaj munaita pactachingapajmi shamuni” nircami. Cashna nishpaca, Diosman cuchun nishpa mandashcatami, Cristoca anchuchirca. Paica, chaita cunapaj randimi, paillata Diosman cararishpa huañurca. 
+58010010	Dios munashcata pactachishcamandami, ñucanchica Diospajlla tucushcanchi. Jesucristoca aichayu tucushpa paillata cararishpami, shuj viajella huañushca.
+58010016	“Shamui punllacunapica, caitami paicunaman rurangapaj ari nijusha: Ñuca mandashca shimicunataca, paicunapaj shungupimi churasha. Paicunapaj yuyaipipashmi, escribinshna churasha” nijunmi Jatun Diosca.
+58010017	Ashtahuan cashnatapashmi nijurca: “Paicunapaj juchacunatapash, paicuna na cazushcacunatapash, napacha ashtahuan yarishachu” nijurcami.
+58010038	Ashtahuangarin imatapash cashcatapacha rurashpa causajca, crishcamandallami causanga. Shina causashpapash huashaman tigrashpaca, na ñucata cushichingachu” nijunmi.
+58010039	Ashtahuangarin ñucanchica, na chingaita chingagringapaj, huashaman tigraj puracunachu canchi. Ashtahuangarin ñucanchi alma quishpirichun, Diosta aligutapacha crij puracunami canchi.
+58012006	Jatun Diosca, maijandapash juyashpami llaquichin. Shinallata paipaj huahua cachun, pai chasquishcacunataca tucuicunatami astin” nijurcami.
+58012007	Cangunapaj ali cachunmi Taita Diosca, paipaj huahuacuna cajpi, ima llaquitapash cachamun. Chaitaca, ali shunguhuan apanguichilla. ¿Maijan churitata, taitaca na llaquichishpa charin?
+58012008	Ashtahuangarin canguna nalita rurajpipash na astishpa saquijpica, napacha paipaj huahuacunachu canguichi. Ashtahuangarin shuj taitapaj huahuacunami canguichi.
+58012009	Ñucanchica cai pachapica, astishpa viñachij taitatami charircanchi. Astijpica, cazushpami causarcanchi. Shina cashpaca, ñucanchiman espirituta caraj Taitatacarin, ¿nachu ashtahuan aliguta cazuna canchi? Shina rurashpaca causagrishunmi.
+58012010	Ñucanchi taitacunaca, asha punllacunatallami paicunapi imashna ali canata ricushpa astin carca. Ashtahuangarin Diosca, ñucanchipaj ali cachun, paishnalla jucha illaj cachunmi, ñucanchitaca astijun.
+58012011	Na llullashpami, cashna ninchi. Ima llaqui cunambi japijpipash napacha cushijui ushanashnallachu, ashtahuangarin llaquiringapajmi. Shina cajpipash, ali causaiguta charishpa, imatapash cashcatapacha rurashpa, granota fucuchinshna causashpami, juyailla causanata japinchi.
+60001025	Ashtahuangarin Jatun Diospaj Shimica, causaita causaicaman tiajunllami” nijunmi. Cai shimicunatami, ali villaita cangunaman villanajushpaca villashca.
+60002008	Shinallata: “Chai rumillatami, nitijachij rumipash, urmachij jatun rumipash tucushca” nijunmi. Na cazujcuna cashpami, Diospaj Shimihuanllata nitijanshna pandanajun. Paicunataca, Diosllatami chashna tucuchun saquishca. 
+60003011	Nalita ruranamanda anchurishpa, alitalla ruraichi. Casilla ali causaiguta mascashpa, chaitalla catishpa causaichi.
+60003012	Jatun Diosca, imatapash cashcatapacha rurajcunatami ricuriajun. Paicuna mañanajujtapash, aligutapachami uyariajun. Ashtahuangarin nalita rurashpa causajcunataca, Taita Diosca ninandami fiñashpa ricujun” nijunmi.
+60004018	“Imatapash cashcatapacha rurajcunapash, ashamandallami quishpirinajun. Diosta na manllaj juchayu gentecunacarin, ¿imashi tucunga?” nijunmi.
+60004019	Shina cashcamanda maijan cashpapash, Taita Dios munashcashna llaquita apajushpaca, cangunata Ruraj, pactachij Diospaj maquipimi, cangunapaj almata mingashpa, aliguta rurashpa causana canguichi.
+60005006	Shinamandami, ninan ushaita charij Taita Diospaj maqui ucupi na jariyashpa causana canguichi. Shina causajpimi, pai cushichina punlla chayajpi cangunataca jatumbi churanga.
+60005007	Diosmi cangunataca cuidajun. Shina cajpimi ima llaqui japijpipash, paiman mingashpa saquina canguichi.
+
+
+#Folgende Verse sind hier nicht aufgelistet, aber fehlen/sind unvollständig in unserem Korpus:
+## Vers 40021042 fehlt im Korpus: Maijambash chai rumipi urmashpaca, faquirijtami urmanga. Shinallata maijambaj jahuapipash, chai rumi urmashpaca, ñutuitami ñutunga— nijurcami. 
+## Vers 41012010 ist unvollständig, es fehlt die direkte Rede:  ‘Huasichij runacuna na munashpa shitashca rumillatami, huasichi callaringapaj, pirca tigranapi churana rumi tucushca. 
+## 42001046 ist unvollständig, es fehlt die direkte Rede: “Ñucaca tucui almahuanmi, Jatun Diostaca ninanda jatunyachijuni. 
+## 42003004 ist unvollständig, es fehlt: “Jichushca pambapi caparij runaguca, cashnami nin: ‘Jatun Diosman ñanda alichipaichiyari. Quingu quingu chaqui ñangunatapash derechapaichiyari.
+## 42004011 ist unvollständig, es fehlt: ‘Canda aliguta cuidachunga Taita Diosca, paipaj angelcunatami cachamunga.
+# 42007027 ist unvollständig, es fehlt: ‘Ricui, ñucamanda villajtaca, canda ñaupashpa rishpa, can purina ñanda punda alichijuchunmi cachamugrini’ nijunmi. 
+## 42020042 ist unvollständig, es fehlt: ‘Canga, ñuca ali ladoman tiajuilla.
+## 43012038 ist unvollständig, es fehlt: “Jatun Dioslla, ñucanchi villachishcataca, pipash na cringapaj munanllu. Jatun Dios ninan ushaita charijtaca, pipash na ricunllu” nishcami.
+## 44004025 ist unvollständig, es fehlt: ‘Chai na israelcunaca, ¿imashpata chashna tandanajushpa nalicachinajun? Gentecunaca, ¿imashpata yangacunata yarinajun?
+## 44008032 ist unvollständig, es fehlt: “Llamagutashna huañuchingapajmi, paitaca apanajurca. Paica, rutujcunapaj ñaupajpi, maltun llama upalla sirijunshna, imata ningapajllapash na shimita pascarcachu.
+## 45003010 ist unvollständig, es fehlt: “Imatapash cashcatapacha ruraj runaca, shujllapash na tianllu. 
+## 45004007 ist unvollständig, es fehlt: “Nalita rurashcata Dios cungashpa, juchacunata quilpanshna anchuchijpica, maijan cashpapash ninandami cushijun.
+##  ist unvollständig, es fehlt: “Na ñuca agllashca gentecunatami: ‘Ñuca agllashcacunami canguichi’ nisha. Ñuca na juyashcatami: ‘Ñuca juyashcami canguichi’ nisha. 
+## 45009025 ist unvollständig, es fehlt: 
+## 45010020 ist unvollständig, es fehlt: “Ñucata na mascashpa purijcunahuanrami tuparircani. Ñucata na tapujcunamanmi ricurircani” nishcami.
+## 45011009 ist unvollständig, es fehlt: “Paicuna fiestata rurajushcapash, tugllapi huashajunshna, huascapi huatarinshna tucushpaca alichari canman. Chaipi nitijashpa, ninanda llaquichi tucushcanman.
+## 45011026 ist unvollständig, es fehlt:  “Quishpichijca, Sion pueblomandami shamunga. Paica, Jacobopaj miraicuna Diosta na cazushpa causanajushcatami anchuchinga.
+## 45014011 ist unvollständig, es fehlt: “Jatun Dios ñucami, cashna nini: ‘Ñucaca causajunipachami. Tucuicunami, ñuca ñaupajpi cungurinajunga. Tucuicunami ñucataca, Taita Dios cajta paicunapaj shimihuan villanajunga’ ninmi” nijunmi.
+## 45015009 ist unvollständig, es fehlt:“Chaimandami, na israelcunapaj chaupipi canmandaca villajusha. Cambaj shutitapash alicachishpami candajusha” nijunmi.
+## 47006016 ist unvollständig, es fehlt: “Paicunahuanga causajushami, purijushami. Ñucami, paicunapaca Taita Dios casha, paicunapash ñuca huahuacunami canga” nishcami.
+## 55002011 ist unvollständig, es fehlt: Paihuan huañushcashna cashpaca, paihuanllatami causagrishun.
+## 58001005 ist unvollständig, es fehlt: “Canga, ñuca Churimi cangui. Cunan punllami, ñuca huahua cangui” nishcachu? ¿Shinallata: “Ñucami, paipaj Taita casha. Paica, ñuca Churimi canga” nishcachu?
+## 58002006 ist unvollständig, es fehlt:“Runaca, ¿ima cajpita paitalla yariangui, na cashpaca huañuna aichayu runataca, imamandata ricuj shamungui?
+## 58003007 ist unvollständig, es fehlt: “Dios ima nijujta cunan uyashpaca,
+## 58003015 ist unvollständig, es fehlt: “Pai rimajujta cunan uyashpaca, ñaupa punllacuna fiñachinajushcashnaca, na cangunapaj shunguta shinlliyachinachu canguichi” nijunmi. 
+## 58004003 ist unvollständig, es fehlt:“Paicunahuan ninanda fiñarishpami, ñucahuan samangapaca napacha yaicungachu nishpa juramenturcani” nishcami. Diosca, cai pachata rurai callarishpa tucuchishca jipami, chashna nijushca.
+## 58005005 ist unvollständig, es fehlt:“Canga, ñuca Churimi cangui. Ñucami, causaita cunan canman curcani” nijushca Diosmi, curacunata mandaj cura tucuchun churarca.
+## 5800717 ist unvollständig, es fehlt:“Canga, causaita causaicamanmi Melquisedec curashna, curapacha cangui” nijunmi.
+## 58010005 ist unvollständig, es fehlt:“Animalta huañuchinajuchumbash, ashtahuan imata cuchumbash, na munarcanguichu. Ashtahuangarin ñucatami, aichayu tucuchun alichihuashcangui.
+## 58010018 fehlt im Korpus: Ñucanchi juchacunataca ña anchuchishca cajpimi, juchacunamanda imatapash Diosman caranataca, na ashtahuan charinchi.
+## 60001024 ist unvollständig, es fehlt: “Tucui gentecunami jihuashna. Paicuna juyaillagu cashcapash, jihua sisashnallami. Jihua chaquijpica, sisapash urmanllami.
+## 60005005 ist unvollständig, es fehlt: “Taita Diosca, jariyashpa jatun tucujcunahuanga, shinllitapachami macanajujun. Ashtahuangarin na jariyashpa causajcunataca, ninandami juyajun” nijunmi.

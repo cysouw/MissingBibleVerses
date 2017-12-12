@@ -1,118 +1,135 @@
-40011011
-40017020
-40021043
-40022045
-41007008
-41011029
-41011030
-41012037
-42007028
-42020018
-42020044
-43004007
-43004008
-43009013
-43009014
-43010014
-43010015
-43012016
-43012039
-43012041
-44001001
-44001002
-44007049
-44007050
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023026
-44023027
-44023028
-44023029
-44023030
-44028028
-45001006
-45001007
-45002015
-45002016
-45008020
-45008021
-45009011
-45009012
-45009027
-45009028
-45009029
-45010019
-45010020
-45010021
-45014012
-45015010
-45015011
-45015012
-46001001
-46001002
-46002010
-46011001
-46015051
-46015052
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-56001001
-56001002
-58001005
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002009
-58002013
-58003016
-58003017
-58003018
-58003019
-58004004
-58004005
-58004006
-58004007
-58004008
-58004009
-58004010
-58004011
-58005006
-58005007
-58005008
-58005009
-58005010
-58007018
-58007019
-58007022
-58007023
-58007024
-58007025
-58008013
-58010008
-58010009
-58010010
-58010018
-58010039
-58012007
-58012008
-58012009
-58012010
-58012011
-60002008
-60005006
-60005007
-66007011
-66007012
-66011016
-66011017
+40011011	“Sut'inta niykichis, tukuy runakunamanta niqtimpas manam maykaqpas Bawtisaq Juanmanta astawan kurajkaq karqanchu; chaywampas janaqpacha qhapaq suyupiqa, pichus astawan juch'uykaq kachkan chaykaqmi Juanmanta niqtimpas astawan kurajkaqqa.”
+40017020	Jesustaq paykunaman ajinata nirqan:
+–Imaraykuchus qankunaqa ancha pisi iyawniyuq kankichis. Sut'inta niykichis qankunachus uj mustasa muju chhikan iyawniyuq kawaqchis chhikaqa, kay urquman: ‘Chay chhikamanta kuyuriy, jinaspa wajniqman puripuy’ nispa niwaqchis chhikaqa, chay urquqa kuyurinmanmi. Imapas mana atinaqa manam kachkanmanchu.
+40021043	Chayraykum qhapaq suyuqa qankunamanta qichusqam kanqa nispa niykichis, chaytaq waj sumaq urichiq llaqtaman qusqam kapunqa. Rumikaqmantataq, mayqimpas chay rumijawaman jalqatanqa chayqa t'unam tukukunqa; jinallataq chay rumichus mayqimpatamampas jalqatanqa chhikaqa ñut'utam tukuchinqa.
+40022045	David kikinchus Apu Tata nispa nin chhikaqa ¿Imaynatataq Mesiasqa Davidpaq mirayninmanta jamuq tunu allchhin kanmanri? –Nispa.
+41007008	Imaraykuchus qankunaqa ñawpaq runakunapaq puriyninkurayku Diospaq kamachiyninta saqirpayapunkichis.
+41011029	Jesustaq paykunaman ajinata jaynirqan:
+–Nuqa qankunaman tapurillasqaykichistaqmi: ¿Pitaq Juanta bawtisanampaq kachamunri, Dioschu, manachayqa runakunachu ichä? Qankunachus kayta jayniwankichis chhikaqa, ima atiywantaq nuqa kaykunata ruwani chayta nillasqaykichistaqmi –nispa.
+41011030	
+41012037	David kikinchus Apu Tata nispa nin chhikaqa, ¿Imaynamantataq Mesiasqa Davidpaq mirayninmanta jamuq tunu allchhin kanmanri?
+Chaypi kaq achkha runakunataq, tukuy sunquwan Jesusman uyarirqanku.
+42007028	Sut'inta niykichis, tukuy runakunamanta niqtimpas manam maykaqpas Juanmanta astawan kurajkaq karqanchu; chaywampas Diospaq qhapaq suyumpiqa, pichus astawan juch'uykaq kachkan chaykaqmi Juanmanta niqtimpas astawan kurajkaqqa.”
+42020018	Mayqimpas chay rumijawaman jalqatanqa chayqa, t'unaman tukjasqam kapunqa; jinallataq chay rumichus mayqimpatamampas jalqatanqa chhikaqa ñut'utam tukuchinqa –nispa.
+42020044	David kikinchus Apu Tata nispa nin chhikaqa, ¿imaynatataq Mesiasqa Davidpaq mirayninmanta jamuq tunu allchhin kanmanri?
+43004007	Yachaqaq qatiqkunataq, llaqtaman mikhuy rantimunapaq purisqaku. Chhikankamataq, uj Samaria suyupi tiyakuq warmi unu jurqunapaq chay phujyuman chayamurqan, Jesustaq payman ajinata nirqan:
+–Uj as chhika unuykita jaywariway –nispa.
+43004008	
+43009013	Jayk'aqchus Jesusqa t'urucharispa ñawsa runaman qhawatatachichkarqan chay p'unchayqa samarana p'unchaymi karqan. Chayraykum fariseokunapaq ñawpaqinman ñawsa kachkarqan chay runata puskatarqanku.
+43009014	
+43010014	“Nuqam sumaq michiqqa kani. Imaynatachus Tatayqa nuqata riqsiwan, nuqataq Tatayman riqsini; ajinallataqmi nuqaqa uwijaykunata riqsini, paykunataq nuqata riqsiwanku. Nuqataq uwijaykunarayku kawsayniyta churani. 
+43010015	
+43012016	Kay llikapi kachkanku chay uwijaykunamanta niqtimpas waj uwijaykunapas nuqapaq kallantaqmi; chaykunamampas pusamunallaytaqmi. Paykunaqa uyariwanqaku jinaspa uj sapa llikapi kaq jinataq uj sapa michiqniyuq uwijakunallaman tukupunqaku.
+43012039	Ajinaqa manam iyaw niyta atirqankuchu, chayraykum Isaiasqa ajinata qilqallarqantaq:
+43012041	Isaiasqa, Jesuspaq sumaq k'anchaypi athunchasqa kachkaqta rikusqanraykum chaytaqa ajinata nirqan, jinataq paymantam rimarqan.
+44001001	May athunchasqa Teófilo, ñawpaqkaq qilqasqaypiqa imakunatachus Jesusqa qallariymantapacha janaqpachaman chimpapusqan p'unchaykama ruwachkarqan jinataq yachachichkarqan chaymantam qilqamurqani. Manaraq puripuchkaqtinqa Ch'uwa Ajayuniqta pikunamanchus ajllikuchkasqa chay kachasqakunaman imakunatachus ruwananku kachkarqan chaykunata saqirqan.
+44001002	
+44007049	Ajinatam Apu Tataqa nin: ‘Janaqpachaqa tiyakunay chhikam, kaypachataq chakiykunapaq sarukunan chhikallataqmi. Nuqa kikinchus tukuy kaykunata ruwani chhikaqa, ¿Ima rijch'ayniyuq wasitataq nuqapaq sayarichiwaqchisri? ¿May chhikakaqtaq samararikunaypaq kanmanri?’ –Nispa.
+44007050	
+44015024	Kay kikinmanta nuqaykupaq mana kamachisqayku wakin runakunapaq purisqanmanta yachayku, pikunachus qankunaman rimayninkunawan turiyasqasunkichis, jinaspataq pantasqata saqisqasunkichis.
+44015025	Chayrayku uj yuwayman chayaspa, nuqayku chawpimanta ancha munakusqayku Bernabé jinataq Pablo wawqiykunawan kuska wakinkunata qankunaman rikuq purinankupaq ajlliyta qhawariyku,
+44015026	pikunachus nuqanchispaq Tatanchis Jesucristorayku kawsaynin apt'akuyta mana manchaspa purjarumunku.
+44015027	Ajinaqa Judasta jinataq Silastawan kachamuykichis: paykunam tukuy kaykunamanta sut'inchanapaq qankunawan rimakipanarinqaku.
+44015028	Imaraykuchus Ch'uwa Ajayupaq jinataq nuqaykupaq rikusqaykumanjinaqa, manam waj llasa q'ipikunata qankunaman q'ipqaruchichkasqaykichischu, imakunatachus kunan nichkasqaykichis chaymanta niqtimpasqa:
+44015029	Ama waj dioskunaman jaywasqa uywakunapaq aychanta mikhuchunkuchu, ama yawartapas, sipisqa uywakunapaq aychantapas mikhuchunkuchu, jinallataq ama millay khuchi ruwaykunata ruwachunkuchu. Kaykunamantachus jithiqarinkichis chhikaqa, chiqampim puriykachankichis. Kaykunata nispa napaykurimuykichis” –nispa.
+44023026	“Claudio Lisiasmanta, may athunchasqa llaqta apaykachaq Felixman: napaykuykuna.
+44023027	Judiokunaqa kay runata jap'iykusqaku jinaspataq wañurquchipunankum karqan, chaywampas jayk'aqchus uj romano llaqtayuq runa kasqanmanta yachqatarqani chhikaqa, pallapallaykunawan purispa kacharichimurqani.
+44023028	Imakaqmanta juchanchasqankuta yachayta munaspataq, judiokunapaq Athunkaq Tantakuyninman pusarqani,
+44023029	chaypitaq paykunapaq kamachiyninkunamanta juchanchasqankuta yachqatamuni; chaywampas juchanqa manam wañuchinapaqjinachu kachkarqan, manataq wisq'ana wasiman wisq'aykunapaqjinapaschu kachkan.
+44023030	Chaywampas judiokunaqa pay wañurquchinapaq rimanthapinakusqankuta yachaspataq, chaypi qanman apachimpuyki, jinataq pikunachus juchanchachkanku chaykunamanqa qampaq ñawpaqiykipi imachus payjawapi kachkan chayta allich'akumunankupaq mañani” –nispa.
+44028028	Qankunaqa kayta yachaychis, imaraykuchus kunanmanta ñawpaqmanqa kay Diospaq qhispichiyninqa mana judío runakunaman qunapaq rikuchisqam kapunqa, paykunakaqmi uyarinqaku –nispa.
+45001006	Qankuna Roma llaqtapi tiyaqkunaqa paykuna chawpillapitaqmi kachkankichis. Diosqa anchatam munakusunkichis jinaspataq Jesucristopaq ch'uwa llaqtamanta ujkaqnin kanaykichispaq ima wajakusunkichis. Dios Tatanchis, Tata Jesucristopiwan munakuy khuyapayakuyninta jinataq sumaqpi kayninta ima qankunajawaman t'akaykumuchunku.
+45001007	Qankuna Roma llaqtapi tiyaqkunaqa paykuna chawpillapitaqmi kachkankichis. Diosqa anchatam munakusunkichis jinaspataq Jesucristopaq ch'uwa llaqtamanta ujkaqnin kanaykichispaq ima wajakusunkichis. Dios Tatanchis, Tata Jesucristopiwan munakuy khuyapayakuyninta jinataq sumaqpi kayninta ima qankunajawaman t'akaykumuchunku.
+45002015	imaraykuchus ruwayninkunawanmi paykunaqa imachus sunqunku ukhupi qilqasqa kamachiy kachkan chayta rikuchinku. Sunqun kikinmi ajinata sut'inchan, imaraykuchus imapi yuwanku chhikaqa imachus allin jinataq mana allin kachkan chaykunataqa yachapunkuñam.
+45002016	
+45008020	Imaraykuchus kaypachaqa imapaqchus tiyaykuchisqa kachkarqan chaytaqa chinkachikupunmi, manam pay kikimpaq munasqanmanjinachu, manachayqa Diosmi ajina kanampaq chayta qhawarisqa. Chaywampas apaykachachikunamanta jinataq t'unarqusqa kananmanta qhispichikunapaq suyayninqa karqallampunim, ajinamanta sumaq k'anchaypi Diospaq wawankunapaq qhispichiyninta taripanampaq.
+45008021	
+45009011	manaraq paykuna paqarichkaqtin, jayk'aqchus paykunaqa allinta jinataq mana allintapas manaraq ruwachkasqakuchu chhikapacham Diosqa Rebeca warmiman ajinata willasqa: “Kurajkaqqa sullk'akaqpaq jaywaqninmi kanqa” –nispa. 
+45009012	
+45009027	Israel llaqta runakunamankaqtaq Isaiasqa ajinatam nirqan: “Quchapi kaq ch'alla jallp'ajina achkhayuqpas Israelpaq mirayninkuna kachunku chhikaqa, paykunamanta uj jayk'ayuqkunallam qhispiyta taripanqaku,
+45009028	imaraykuchus Apu Tataqa uj p'unchaykunamantaqa tukuy kaypachapi ñaqam rimayninta junt'apunqa” –nispa.
+45009029	Imaynatachus kikin Isaiasmi ñawpaqpi ajinata nirqan:
+“Tukuy atiyniyuq Apu Tatachus mirayninchista mana saqiwanchisman karqan chhikaqa,
+kunan pachapiqa Sodoma jinataq Gomorra llaqtakunajinam kachkachuwan karqan” –nispa.
+45010019	Jinaspataq wajmanta tapurikuni: ¿Israel llaqtapi kaqkunaqa, ichapas mana riparakunku? Ñawpaqta Moisesqa ajinatam nin:
+“Nuqam qankunaman waj mana llaqta kachkan chay llaqtamanta q'inakuchkaqta saqisqaykichis;
+Mana ancha yuwayniyuq llaqtawanmi phiñanjachisqaykichis” –nispa.
+45010020	Chhikamantataq Isaiasqa kaytawan rimarqurqan:
+“Pikunachus mana maskachkarqawanku chaykunaqa tariparqawankum;
+nuqataq pikunachus nuqamanta mana tapukuchkarqanku chaykunamanmi rikhurirqani” –nispa.
+45010021	Israel llaqtapi kaq runakunamanta rimaspataq, Isaiasqa ajinatam nin: “Tutamanta ch'isikama mana uyarikuq jinataq kutkatakuq llaqtaman yanaparisaq nispa makiyta jaywqasini” –nispa.
+45014012	Ajinaqa, nuqanchismanta sapa ujmi ruwasqankunamanta pay kikin Diosman willakunan kanqa.
+45015010	Waj chhikapiqa, Qilqasqakunaqa ajinatam nin:
+“¡Llaqtakuna, Diospaq llaqtanwan kuska kusikuychis!” –Nispa.
+45015011	Waj chhikapiqa ajinatapas nillantaqmi:
+“Tukuy suyukuna jinataq llaqtakuna, ¡Diosman yupaychaychis!” –Nispa.
+45015012	Isaiaspas ajinata qilqallarqantaqmi:
+“Jesepaq saphin ch'ijch'irimunqa, pichus llaqtakunaman apaykachanapaq jatarimunqa,
+chay llaqtakunataq paypim suyay sunqunta churanqaku” –nispa.
+46001001	Nuqa Cristo Jesuspaq kachasqan Pablo, Diospaq munayninmanta wajasqa jinataq Sóstenes wawqinchiswan kuska Corinto llaqtapi kaq Diospaq iglesiampi tantakuqkunaman napaykumuykichis, pikunachus Cristo Jesuspi ch'uwachasqa kachkanku jinataq ch'uwa llaqtan tiyt'achinapaq wajasqa kachkanku, jinataq tukuy chhikakunapi Tatanchis Jesucristo pichus nuqanchispaq jinataq ch'uwa llaqtapaq Tatanchis kachkan chaypaq sutinta uqharikuspa kanku chaykunaman napaykumun.
+46001002	
+46002010	Kaykunam imakunatachus Diosqa Ajayuniqta riqsichichkawanchis chaykunaqa, imaraykuchus Ajayuqa tukuytam Diospaq ancha pakaykusqa kaqninkunantinta sumaqta qhawakipan.
+46011001	Qankunaqa nuqapaq ñanniyta qatiychis, imaynatachus nuqaqa Cristopaq ñanninta qatini ajinata.
+46015051	Chaywampas Diospaq imatachus pakallapi nuqanchispaq pakapuchkawanchis chayta yachanaykichistam munani: Manam tukuyninchischu wañusun, chaywampas tukuyninchismi uj ñawi kichariy jinataq wisq'araypi astawan sumaq rijch'ayniyuq kapusunchis. Jayk'aqchus qhipakaq pututu phukurikumuchkanqa chhika. Imaraykuchus pututu phukurikumunqa wañusqakunataq mana ujtawampas wañupunankupaq kawsarimpunqaku. Nuqanchistaq sumaq rijch'ayniyuq kapusunchis. 
+46015052	
+47009010	Diosmi ima mujutachus tarpunapaq munachkanchis chayta jinataq ima mikhunatachus munachkanchis chaytapas quwasunchisqa, qankunamanqa tukuy imachus munakuchkan chaytam tarpunaykichispaq qusunkichis, jinaspataq paymi wiñachikuchkanqa, payllataqmi qankunapaq munakuywan ruwasqaykichisqa astawan achkha kanampaq ruwanqa.
+47009011	Ajinamantam qankunaqa munakuy sunquwan qunaykichispaq imaymana qhapaq kaykunayuq kankichis. Chay apthapiykunata nuqaykuniqta apachichkankichis chaytaq, wawqipananchiskunapaq Diosman yuspärayta qunankupaqmi kallanqataq.
+47009012	Imaraykuchus kay yanapariyta wawqipananchiskunaman apaspaqa, manam imatachus pist'achikuchkanku chayllata apachkaykuchu, manachayqa paykunapaq Diosman yuspärayta qunankupaqmi kallpachariyku.
+47009013	Jinaspataq paykunaqa Diosmanmi yupaychanqaku, imaraykuchus kay yanapariyqa qankunapaq ima sumaq willaykunatachus willachkankichis chayman uyarisqaykichistam riqsichinqa. Jinallataqmi paykunaqa chay munakuy sunquwan paykunaman jinataq tukuyman yanaparisqaykichismanta Diosman athunchanqaku.
+47009014	Chaywampas qankunaraykuqa ancha munakuywanmi Diosmanta mañapusunkichis, Diospaq athun munakuyninta qankunaman rikuchisqanrayku.
+47009015	¡Diosman yuspärayta quyku, imaraykuchus chay tukuy sumaq quykunata qusqawanchisraykuqa manam ima niytapas atiykuchu!
+56001001	Nuqa Pablo, Diospaq jaywaqnin jinataq Jesucristopaq kachasqan, pichus Diospaq ajllikusqankunata iyaw niyman pusanaypaq kachasqanmi kani. Jinallataq puriyninchismanjina wiñay kawsaypi suyay sunquyuq kayman jap'iykukuspa imachus chiqan kachkan chayta riqsichinaypaq paypaq kachasqanmi kallanitaq. Pichus mana llullakuq Dios kachkan chaymi wiñaymantapacha chay kawsay qunapaq rimayninta qurqan,
+56001002	
+58001005	Imaraykuchus Diosqa manam maykaq angelmampas ajinata nirqanchu: “Qanmi Churiy kanki; nuqam kunan p'unchay kawsayta quyki” –nispa. Manallataqmi maykaq angelmantapas ajinata nirqanchu: “Nuqam paypaq uj Tatan kasaq, paytaq nuqapaq uj churiymi kanqa” –nispa.
+58001006	Chaywampas, jayk'aqchus kaypachaman Churinta kachamuchkan chhikaqa ajinatam kamachirqan: “Tukuy Diospaq angelninkuna payman yupaychachunku” –nispa.
+58001007	Angelkunakaqmantaqa, ajinatam Diosqa nin: “Angelniykunaqa wayrajina kachunku, jaywaqniykunataq lawrachkaq ninajina kachunku” –nispa.
+58001008	Chaywampas Churinkaqmantaqa ajinatam nin: “Qhapaq suyuykijawapi atiyniykiqa wiñaypaq wiñaynintimpaqmi kanqa, chay atiyniykitataq chiqan kaypaq allin kanampaqmi apaykachanki.
+58001010	Kaytawan nirqallantaqmi: “Apu Tata, qallariymantapacha qanmi kaypachata tiyaykuchirqanki; qan kikinmi janaqpachata ruwanki.
+58001013	Diosqa manam jayk'aqpas maykaq angelmampas ajinata nichkarqanchu: “Qayllaypi tiyarikuy, qanman chhiqnikuqniykikunata chakiyki pampaman churanaykama” –nispa.
+58001014	Imaraykuchus tukuy angelkunam Diosman jaywanapaq churasqa ajayukuna kanku, tukuy pi runakunatachus Dios qhispichichkanqa chaykunaman yanaparinapaqmi payqa kachan.
+58002009	Diosqa munakuwanchismi, chayraykum nuqanchisman qhispichinapaq Jesusta wañunampaq kachamurqan. Diosqa Jesusman uj juch'uy pachakunapiqa angelkunamanta niqtimpas pisi chaniyuq kanantam saqirqan, kunantaq chay wañusqanraykum payqa athunchasqa jinataq yupaychasqa kapun.
+58002013	Kaytawampas nillantaqmi: “Nuqaqa Diospaq makimpim jap'ichikusaq” –nispa. Wajmantapas ajinata nikuchkallanmi: “Mayqin wawakunatachus Dios quchkawan chaykunawanqa kaypim kachkani” –nispa.
+58003016	Diospaq rimayninta uyarirqanku chhikamantaqa ¿chay mana uyart'akuqkunaqa, pikunataq karqanri? Chaykunaqa, tukuy pikunatachus Moisés Egipto llaqtamanta jurqumuchkarqan chaykunam karqanku.
+58003017	Diosqa ¿pikunawantaq tawa chunka watapacha phiñasqa kachkarqanri? Pikunachus juchata ruwarqanku chaykunawanmi phiñasqa karqan, chaykunataq chhaqay ch'usaq qasi pampaniqpim wañurasqa kapurqanku.
+58003018	Diosqa ¿pikunamantaq samaranay jallp'aymanqa manam waykuchkankichischu nispa nirqanri? Pikunachus mana uyarikuq karqanku chaykunamanmi ajinata nirqan.
+58003019	Chaymanjinapunim, mana iyaw niq kasqankuraykuqa mana paykunaqa chayman waykuchkarqankuchu.
+58004004	imaraykuchus Qilqasqakunamanta uj chhikapiqa, ajinatam qanchiskaq p'unchaymanta nillantaq: “Tukuy llank'ayninkunamanta Diosqa qanchiskaq p'unchaymi samararikurqan” –nispa.
+58004005	Qilqasqakunapiqa wajmanta ajinata nillantaqmi: “Manam samarakunay chhikaman waykuchkanqakuchu” –nispa.
+58004006	Pikunachus Diospaq sumaq willayninkunata ñawpaqta uyarirqanku chaykunaqa manam uyart'akurqankuchu, chayraykum Diospaq samarakuyninman mana chayarqankuchu. Chaywampas ima samaraymantachus Diosqa rimayninniqta quchkarqan chayqa kakuchkallanmi.
+58004007	Chayraykum Diosqa uj p'unchayta ch'ikulliykurqan, chay p'unchaytaq uj musuq “kunan p'unchaymi.” Chaytataq imaynatachus achkha pachakuna uraqapurqan chhikamanta Qilqasqakunapi nichkan chayniqta Davidqa nirqan, chaytataq ajinata nipurqanchismi: “Imatachus kunan p'unchay Dios nichkan chaytachus uyarinkichis chhikaqa, ama rumi sunquyuq tukuychischu” –nispa.
+58004008	Josué runachus israelita runakunaman chay samarakuyta qunman karqan chhikaqa, manam Diosqa waj samarakuy p'unchaymanta rimachkanmanchu karqan.
+58004009	Chaywampas Diospaq llaqtampaqqa uj samarakuy p'unchayqa kakuchkallanmi, chaytaq qanchiskaq p'unchaymi,
+58004010	imaraykuchus chay p'unchaymi Diospaq llaqtanqa llank'asqanmanta samararikupunqa, imaynatachus Diosqa llank'ayninmanta samararikupurqan ajinata.
+58004011	Chayrayku, chay samarakuy chhikaman chayanapaqqa Diosman uyart'aspapuni puriykachakusunchis. Pikunachus sumaq willaykunata mana iyaw ninku chaykunajinaqa amapuni pipas puriykachachunchu.
+58005006	Waj chhika Qilqasqakunapiqa ajinatapas nirqallantaqmi: “Qanqa wiñaypaq wiñaynintimpaq sacerdotem kanki, imaynachus Melquisedec kachkarqan ajinata” –nispa.
+58005007	Jayk'aqchus Jesucristo kaypachapi kawsachkarqan chhikaqa, athun kunkanwan jinataq anchata waqarikuspam wañuymanta qhispichinampaq Diosmanta mañarikurqan, uyarikuq kasqanraykutaq Diosqa payman uyarirqanmi.
+58005008	Ajinaqa, Cristo churin kachkaspaqa ñak'arisqampim imachus uyarikuna kachkan chayta yachaqarqan.
+58005009	Ajinamantam tukuy ima Diospaq kamachisqan uyarisqanrayku, Cristoqa tukuy pikunachus payman uyarinku chaykunapaq wiñaq qhispichiy quqninman tukupun.
+58005010	Chayraykum Diosqa imaynachus Melquisedec sacerdote kachkarqan ajinata payman Athunkaq sacerdotemanta tiyaykuchipun.
+58007018	Ajinaqa, ñawpaq Moisespaq kamachiyninqa qasimanmi tukupun, imaraykuchus mana imapaq allinmi kapun.
+58007019	Chay kamachiyqa manam runakunata chiqanman tukuchiyta atichkarqanchu, chaypaq lantimpitaq uj astawan sumaq suyayninchismi kapuwanchis, mayqinniqtachus Diosman qayllachakunchis.
+58007022	Kayjinamantam Jesusqa ñawpaq rimthapiymanta niqtimpas Dioswan uj sumaqkaq musuq rimthapiy kapusqanta riqsichipuwanchis.
+58007023	Ñawpaq pachakunapiqa achkha sacerdotekunam nuqanchispaq karqan, imaraykuchus paykunaqa manam maykaqpas wiñaypaq kawsayta atirqankuchu.
+58007024	Chaywampas Jesusqa mana jayk'aqpas wañuq kasqanraykuqa, manam sacerdote kaynintaqa pimampas qupunan munakuchkanchu.
+58007025	Chayraykum tukuy pikunachus Diosman qayllachakunku chaykunataqa payniqta wiñaypaq qhispichiyta atin, imaraykuchus paykunarayku Diosmanta mañakunapaqqa wiñaypaqmi kawsan.
+58008013	Jayk'aqchus Diosqa uj musuq rimthapiymanta riman chhikaqa, ñawpaq rimthapiypaq mawk'a kapusqanmi; mawk'a kapuqpaq chinkawachapunantaq qayllapiñam kapun.
+58010008	Ñawpaqkaqpiqa ajinatam nin: Diosqa ima uywa wañuchisqa jaywaykunatapas, qulqi jaywaykunatapas jinataq juchakuna qichunapaq jaywana pataman uywa ruphaykuchisqakunatapas manam munachkanchu, jinataq kamachiyqa ajinata ruwanankupaq kamachichkan chhikapas sunqunmanqa manallataqmi chayachkanchu, nispam niwanchis.
+58010009	Chaymanqa kaytawanmi yaparin: “Imachus munasqaykita ruwanapaqqa kaypim kachkani” –nispa. Kaywanqa ima jaywaykunachus ñawpaqpi kachkarqan chaykunataqa Cristom qichuqapun jinaspataq chay lantimpiqa uj musuqkaqtam churaykupun.
+58010010	Diosqa nuqanchisman chiqan runakunamanmi tukuchipuwanchis, imaraykuchus Jesucristoqa Diospaq munaynintam ruwarqan jayk'aqchus pay kikimpaq aychanta uj jaywaytajina uj kutilla jinataq wiñaypaq jaywakurqan chhikaqa.
+58010018	Ajinaqa, juchakunachus pampachasqa kapun chhikaqa, chay juchakuna pampachachikunapaqqa manañam jaywaykunaqa munakupunchu.
+58010039	Nuqanchistaq manam pikunachus qhipaman kutirichkanku jinataq paykuna kikimpaq juchanchayninman purichkanku chaykunajinachu kachkanchis, manachayqa pikunachus Diospi iyaw nisqankurayku qhispichiyta taripanku chaykunajinam kanchis.
+58012007	Dios munakusunkichis chayraykum kunanqa qankuna ñak'arichkankichis, jinataq payqa wawankunatajinam rikusunkichis ¿Pi tatapas manachu wawankunaman allin kanampaq asut'iykuchkanmanri?
+58012008	Chaywampas Dioschu qankunaman mana wawankunamanjina k'amiykusunkichisman chhikaqa, manam qankunaqa pay kikimpaq wawankunachu kachkawaqchis.
+58012009	Nuqanchisqa, jayk'aqchus uña wawakuna karqanchis chhikaqa kaypachapi kaq tatanchisqa k'amiykurqawanchismi chaymantataq nuqanchisqa payman allintam rikuq karqanchis. Janaqpachapi kaq Tatanchiskaqmanqa, ¿imamantataq mana uyart'achuwanri? Kawsay jap'iqananchisraykuqa, astawanmi payman uyart'ananchisqa.
+58012010	Kaypachapi kaq tatanchisqa, kay juch'uy p'unchaykuna kawsayninchispiqa imaynamanchus paykuna allimpi kananchista rikuspaqa, ajinamanjinam k'amiykurqawanchis, chaywampas Diosqa nuqanchispaq allimpi kananchispaqmi k'amiykuwanchis, ajinamanta payjina Ch'uwa tukuchinawanchispaq.
+58012011	Chiqampiqa, maykaq asut'iypas jap'iqachkanchis chhikaqa manam sumaqchu kachkan manachayqa nanaykuchiwanchismi; chaywampas ujchus chaymanta yachaqan chhikaqa, uj sumaq kaypi jinataq chiqan kaypi kawsakuytam jap'iqan.
+60002008	Kaytawan nillantaqmi: “Kay rumim achkhayuqman wijch'uchiqqa; kay qarqapim achkhayuq mitk'akunqaku” Paykunaqa willaykunaman mana uyarisqankuraykum mitk'akunku. Chaypaq churasqam paykunaqa kanku.
+60005006	Chayrayku, Diospaq atiynimpi kachkaspaqa llamp'u sunquyuq kaychis, ajinamanta pachan chayamuqtin payqa athunchanasunkichispaq.
+60005007	Tukuy llakikuyniykichistaqa Diosman saqipuychis, imaraykuchus paymi qankunamanta llakikuchkan.
+66007011	Jinaspataq tukuy angelkunam tiyana muyuriypi, machulakuna jinataq tawantin kawsachkaqkuna muyuriypi sayarachkarqanku; tiyana ñawpaqipitaq umanku pampaman chayanankama k'umuykuspam Diosman yupaycharqanku.
+66007012	Paykunataq ajinatam nirqanku: “¡Ajina kachun! Yupaychasqa kay, athunchasqa kay, yachay, yuspärasqa kay, athumpi kay jinataq kallpapas wiñaypaq wiñaynintimpaq Diosninchisman qusqa kachun. ¡Ajina kachun!” –nispa.
+66011016	Diospaq ñawpaqimpi tiyanankunapi tiyarachkarqanku chay iskay chunka tawayuq machulakunaqa, pampaman chayanakama k'uñuykukuspam Diosman yupaycharqanku,
+66011017	ajinata nispa: “Tukuy atiyniyuq Dios Tata, yuspäraytam quykichis, qanmi kanki jinataq karqanki, imaraykuchus athun atiyniykitam jap'inki jinaspataq qhapaq suyu apaykachaytam qallarinki.
+
+
+# Vers 58002008, der hier nicht als fehlend aufgelistet ist, ist unvollständig. Im Bibelkorpus steht nur ein Teil/ der Beginn des Verses. Fortsetzung: Ajinaqa, tukuy ruwasqankunajawapichus atiyniyuqta tukuchin chhikaqa, manam imakaqtapas chay atiymanta wajniqman saqichkanchu. Chaywampas manaraqmi tukuyjawapi atiyniyuq kasqanta rikuchkanchischu.
