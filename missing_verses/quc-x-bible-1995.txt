@@ -1,179 +1,225 @@
-40002006
-40002018
-40004015
-40004016
-40006010
-40006011
-40006012
-40006013
-40012018
-40012019
-40012020
-40012021
-40013015
-40015008
-40015009
-40017020
-40018010
-40021005
-40021024
-40021025
-40022044
-40023013
-41001003
-41007007
-41007015
-41009043
-41009045
-41011010
-41011025
-41012011
-41012029
-41012030
-41015027
-42001047
-42001048
-42001049
-42001050
-42001051
-42001052
-42001053
-42001054
-42001055
-42001068
-42001069
-42001070
-42001071
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002014
-42002029
-42002030
-42002031
-42002032
-42003005
-42003006
-42004011
-42004018
-42004019
-42007018
-42007019
-42011003
-42011004
-42020018
-42020043
-42023016
-42023050
-42023051
-43005003
-43010014
-43010015
-43012015
-43012040
-44002017
-44002018
-44002019
-44002020
-44002021
-44002026
-44002027
-44002028
-44002035
-44003023
-44004026
-44007043
-44007050
-44008033
-44013038
-44013039
-44013041
-44015016
-44015017
-44015018
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44015033
-44023026
-44023027
-44024006
-44028026
-44028027
-44028028
-45003011
-45003012
-45003013
-45003014
-45003015
-45003016
-45003017
-45003018
-45004008
-45009026
-45009028
-45011003
-45011010
-45011027
-46003020
-46015055
-47006018
-50002006
-50002007
-50002008
-50002009
-50002010
-50002011
-55002012
-55002013
-58001009
-58001011
-58001012
-58002007
-58002008
-58003008
-58003009
-58003010
-58003011
-58008009
-58008010
-58008011
-58008012
-58010006
-58010007
-58010017
-58010037
-58010038
-58012006
-60001025
-60003011
-60003012
-66001007
-66004011
-66005010
-66011018
-66013009
-66013010
-66015004
-66018003
-66018004
-66018005
-66018006
-66018007
-66018008
-66018017
-66018020
-66018022
-66018023
-66019002
-66019003
-66019007
-66019008
+40002006	‘Ri at, Belen, ulew re Judey, man at ta ch'utin na chquixo'l ri quetakan puwi' ri Judey. Rumal rech chi awuc' quel wi na ulok jun c'amal be ri cäyuk'un na ri nu tinimit Israel.’ ”
+40002018	“Xtataj jun ch'abal pa Rama, ok'ej ruc' nimalaj bis. Are ri Raquel querok'ej ri ral. Man xraj ta c'ut xcu'bisax ta u c'u'x, rumal rech chi xsach qui wäch ri ral.”
+40004015	“Ulew re Zabulon, ulew re Neptali ri c'o chuchi' ri plo, ri c'o ch'käp che ri nima' Jordan, Galiley quech ri man aj judeyib taj.
+40004016	Tinimit ri cäbin pa ri k'ekumalil, xril jun nimalaj chäj, jun chäj ri cajuluwic chque ri e jekel chupam ri u mu'jal ri cämical.”
+40006010	Chpet ri ajawibal la. Chban ri rayibal la cho ri uwächulew, jacha' ri cäban chicaj.
+40006011	Ya' la ri ka wa re camic ri cajwataj chke.
+40006012	Checuyu' la ri e ketzelal jacha' xukuje' ri uj quekacuy ri etzelal ri e banom chke.
+40006013	Mujya' la chuwäch ri takchibal macaj, xane' chujto' la chujesaj la pa u k'ab ri banal etzelal.’
+40012018	“Chiwilampe' ri pataninel we ri nu cha'om, ri lok' chnuwäch, sibalaj cäquicot ri wanima' ruc'. Quinya' na ri Wuxlabal che. Cuya' na u bixic ri takal chque tak ri nimak tak tinimit.
+40012019	Ri are' man cäch'ojin ta na, man curak ta na u chi'. Man c'o ta jun cäto'w ta na chi co cach'aw xo'l tak ri ja.
+40012020	Ri are' man cuk'aj ta ri aj ri wak'arinak man cuchup ta na ri u tza'm chäj ri cabukuwic, c'ä cäch'äcan na ri suq'uilal.
+40012021	E are tak c'ut ri nimak tak tinimit quebeyem na che.”
+40013015	Are c'u ri canima' we winak ri' xcowiric, man cäcaj taj quetan cuc' ri qui xiquin, xequitz'apij ri qui bak'wäch, rech man queca'y taj cuc' ri qui bak'wäch, rech man cäquita' taj cuc' ri qui xiquin, rech man cäquich'ob taj pa ri canima', man cäquitzolk'omij ta quib, man quebencunaj ta c'ut.’
+40015008	‘We winak ri' xak chi qui chi' cäquinimarisaj nu k'ij. Are c'u ri canima' naj c'o wi chwe.
+40015009	Man c'o ta cupatanij chi caquiya' k'ijilanic chwe; ri e qui tijonic xak e qui takanic winak.’ ”
+40017020	Xubij ri Jesus chque: “Rumal rech chi xa' jubik' ri i cojonic. Kastzij quinbij chiwe, chi we ta c'o i cojonic je jas ri u nimal ri rija' ri moxtansa, quibij na ri' che we juyub ri': ‘Chatel bic waral, chatk'ax chila'’, cäk'ax c'u na. Ma ta c'o jun jasach ri' ri ma ta quixcuin che u banic.”
+40018010	“Chiwila' c'o jun chque we ch'utik ri' miwetzelaj u wäch. Quinbij c'u chiwe, chi e c'o ri q'ui tako'nib pa ri caj ri amak'el cäquil u wäch ri nu Tat ri c'o pa ri caj.
+40021005	“Chibij che ri u mia'l ri Sion: ‘Chawilampe', ri awajawinel cäpe awuc', mach'alic, quiejeninak chrij jun bur, chrij jun alaj bur, ral jun awaj ajeka'n.’ ”
+40021024	Ri Jesus xutzelej u wäch qui tzij: “Xukuje' ri in quinban jun c'otoj chi'aj chiwe, we quibij chwe: ¿Jachin xtakow ulok ri Xuan che u banic ri bautism, ri Dios o ri winak? We ri ix quitzelej u wäch ri nu tzij, ri in quinbij na chiwe ruc' jachique takanic quinban wa'.”
+Xquichaplej chomanic chquixo'l: “We cäkatzelej u bixic che chi are' ri Dios, cubij na chke: ‘¿Jas c'u che man xixcojon che?’
+40021025	
+40022044	‘Xubij ri Ajawaxel che ri Wajaw: Chatt'uyul pa ri nu wiquiak'ab, c'ä quebenya' na ri e a c'ulel chquixe' ri awakan.’
+40023013	¡C'ax iwech, ajtijab re ri pixab xukuje' pariseyib! ¡Xa' quieb i wäch! Quitz'apij chquiwäch ri winak ri u chi' ri rajawibal ri Dios. Ri ix c'ut man quixoc taj, mawi quiya' chi queboc ri winak ri cäcaj queboquic.
+41001003	C'o jun ch'abal ri curak u chi' pa ri chaki'j uwo sak, cubij: ‘Chisuc'umaj ri u be ri Ajawaxel, chisuc'umaj ri alaj tak u be.’ ”
+41007007	Xak lok' quinquik'ijilaj. Ri e qui tijonic xa' e qui takanic winak.
+41007015	Man c'o ta jun jasach ri cätijic ri cutz'iloj ta ri winak. Xane' e are ri itzel tak jastak ri quebel ulok pa chi'aj, are ri' catz'ilon ri winak.”
+41009043	We ri a k'ab cattzakow pa mac, chawesaj apanok. Are utz na chi xa jun ri a k'ab catoc pa ri c'aslemal, chuwäch ri c'o quieb a k'ab catbe pa ri xibalba, pa ri k'ak' ri man cächuptaj taj.
+41009045	We ri awakan cattzakow pa mac, chawesaj apanok. Are utz na chi xa jun awakan catoc pa ri c'aslemal, chuwäch ri c'o quieb awakan catq'uiak pa ri xibalba.
+41011010	¡Tewichi'm ri rajawinic ri ka mam David ri petinak! ¡Sibalaj nim u k'ij ri Dios aj chicaj!”
+41011025	Aretak ix c'o pa ch'awem ruc' Dios, we c'o jas quina' chrij jun winak chic, chi sacha' u mac, rech ri i Tat ri c'o chila' chicaj xukuje' cusach na ri i mac ix.”
+41012011	Rumal ri Ajawaxel xban wa', mayibal c'u wa chquiwäch ri ka bak'wäch’.”
+41012029	Ri Jesus xubij che: “Ri nabe takanic are wa' ronojel:
+‘Chatatabej, Israel, ri Ajawaxel ri ka Dios, are wa' xa jun chi Ajawaxel. Chalok'ok'ej ba ri Ajawaxel a Dios ruc' ronojel awanima', ruc' ronojel a c'aslibal, ruc' ronojel a chomanic xukuje' ruc' ronojel a chuk'ab.’
+41012030	
+41015027	Xukuje' xerip quieb eläk'omab ruc', jun pa ri u wiquiak'ab, jun chic pa u mox k'ab.
+42001047	C'o nimalaj quicotemal pa ri wanima' che ri Dios nu Colonel.
+42001048	Rumal rech chi xel u c'u'x che ri u pataninel ri man nim ta quil wi. Chilampe' la, kas camic conojel ri winak cäquibij na chi utz we.
+42001049	Rumal rech chi ri Dios ri c'o u cuinem u banom nimak tak jastak chwe, nim u k'ij c'u ri u bi'.
+42001050	Ri are' quel u c'u'x chbe k'ij sak chque conojel ri winak ri cäquixe'j quib chuwäch.
+42001051	Xuban nimak tak jastak ruc' ri u chuk'ab ri u k'ab. Xebujabuj ri winak ri cäquiban nimal pa ri qui chomanic.
+42001052	Xebukasaj ri ajawinelab ri c'o qui cuinem paquiwi' ri e qui tem ajawinelab, xebuwalijisaj c'u ri winak ri man nim ta qui k'ij.
+42001053	Q'ui ri utzil xuban chque ri winak ri quenumic, xeresaj c'u bic ri k'inomab, man c'o ta xuya' bic chque.
+42001054	Xuto' ri pataninel re, are c'u wa' ri Israel, xnataj che chi quel u c'u'x chque,
+42001055	jas ri u bim ulok chque ri e ka mam chi cuban na, ri u bim ulok che ri Abraham xukuje' chque ri e rija'l re amak'el chbe k'ij sak.”
+42001068	“Chnimarisax u k'ij ri Ajawaxel ri qui Dios ri aj Israel, rumal rech chi xebulusolij ri u winak, xebucolo.
+42001069	Xuya' jun Colol kech ri sibalaj c'o u cuinem, are' rija'l ri David, ri pataninel rech ri Dios.
+42001070	Are je u bim ulok ojer cumal ri tastalic k'axal tak u tzij
+42001071	Jeri' cujuto' chquiwäch ri ka c'ulel, cujuto' pa qui k'ab conojel ri winak ri cäquetzelaj ka wäch.
+42001072	Quel ta c'u na u c'u'x chque ri e ka mam, man casach ta c'u na pa u jolom ri tastalic u c'ulwächinic.
+42001073	Are wa' ri chi'nic ri kas cäban na ri kas xubij u bixic che ri Abraham ri ka mam,
+42001074	chi cujresaj na pa qui k'ab ri ka c'ulel, rech cujpatanin che, man ruc' ta xe'n ib,
+42001075	cujc'oji' c'u chuwäch pa suq'uilal pa tastaliquil,
+42001076	Are c'u ri at alaj nu c'ojol, k'axal u tzij ri Dios aj chicaj catuchix na. Rumal rech chi catnabej na chuwäch ri Ajawaxel, che qui suc'umaxic ri u be.
+42001077	Quebatijoj na ri winak rech cäquetamaj chi quecolotaj na, chi quecuyutaj na ri qui mac.
+42001078	Je cuban ri ka Dios rumal rech chi sibalaj quel u c'u'x chke, rumal wa' cäpe na Jun chicaj je jas ri k'ij ri quel ulok nim a k'ab.
+42001079	Ri are' cuc'ut na rib chquiwäch ri winak ri e c'o pa k'eku'm, pa ri u mu'jal ri cämical, cuc'am ka be rech cäc'oji' utzil chkaxo'l.”
+42002014	“¡Juluwem che ri Dios ri c'o sibalaj sibalaj chicaj! ¡Jamaril cho ri uwächulew chquixo'l ri winak ri e rech ri utzalaj u rayibal!”
+42002029	“Wajaw, camic jacha' la bic we pataninel ech la pa jamaril, xtz'akat c'ut ri chi'm la ulok.
+42002030	Wilom c'u cuc' ri nu bak'wäch ri Colonel.
+42002031	Are ri yo'm la chquiwäch conojel ri e winak.
+42002032	Are je jas jun chäj che u k'alajisaxic ri tzij la chquiwäch ri man aj judeyib taj. Rumal c'u ri are' cänimarisax na qui k'ij ri winak aj israelib.”
+42003005	Quenojisax na conojel ri siwan, quelilobisax na conojel ri juyub, ri nimak xukuje' ri ch'utik. Ri be ri e cotocak quejicomisax na, ri be ri sibalaj e julujak quecolomisax na.
+42003006	Ronojel winak caril na ri colobal ib ri cuya' ri Dios.’ ”
+42004011	Catcuc'aj c'u na bic pa qui k'ab, rech man cachak'ij taj ri awakan cho abaj.’ ”
+42004018	“Ri Ruxlabal ri Ajawaxel c'o panuwi'. Rumal rech chi in u tasom che qui tzijoxic ri utzalaj tak tzij chque ri mebayib; che qui tzijoxic chque ri winak ri e tz'apim pa che'; che qui jakic ri qui bak'wäch ri moyab che quitzokopixic, ri qui rikom c'ax pa qui k'ab ri qui c'ulel.
+42004019	In takom ulok che u tzijoxic ri utzalaj tak k'ij re ri Ajawaxel.”
+42007018	Ri u tijoxelab ri Xuan xquitzijoj conojel we jastak ri' che. Are c'u ri Xuan xebusiq'uij quieb chque ri u tijoxelab. Xebutak bic ruc' ri Ajawaxel che u bixic che: “¿La lal ri' ri bim chi cäpe na, o cäkeyej chi na jun?”
+42007019	
+42011003	Ya' la ri ka wa.
+42011004	Cuyu' la ri ka mac. Xukuje' c'u ri uj cakacuy ri qui mac ri qui banom c'ax chke. Mujya' la pa takchibal mac.’ ”
+42020018	Conojel ri quetzak puwi' ri abaj ri', quek'aj na. Apachin puwi' cätzak wi ri abaj ri', cäc'äjix na rumal.’ ”
+42020043	c'ä quebenya' na ri a c'ulel chquixe' ri awakan.’
+42023016	Quinc'äjisaj ba' u wäch, quintzokopij bic.”
+42023050	C'o jun achi Jose u bi', aj Arimatey re Judey, are jun chque ri qui nimakil ri winak. Are utzalaj achi, suc'. Ri are' man utz taj xril wi ri qui chomanic xukuje' ri qui banom ri niq'uiaj winak che ri Jesus. Ri are' reyem ri rajawibal ri Dios.
+42023051	
+43005003	Pa tak ri rakan ja e k'oyok'oj wi e q'ui yawabib, moyab, ch'ocojib xukuje' chaki'jab qui cuerp.
+43010014	In ri' ri utzalaj ajyuk'. Quinch'ob c'u qui wäch ri nu chij, ri e wech cäquich'ob nu wäch, jacha' ri nu Tat cuch'ob nu wäch in, xukuje' jacha' ri in quinch'ob u wäch ri Tataxel. Quinya' c'u ri nu c'aslemal rumal quech ri chij.
+43010015	
+43012015	“Maxe'j awib, u mia'l ri Sion; Chawilampe', ri Awajawinel petinak, quiejeninak chrij jun alaj bur.”
+43012040	“Ri Dios xumoyirisaj ri qui bak'wäch, xuban co che ri canima' rech man cäquil ta ruc' ri qui bak'wäch, rech man cäquich'ob ta pa ri canima', mawi quetzelej ta wuc', mebencunaj c'ut.”
+44002017	‘Cac'ulmataj na chi pa ri q'uisbal tak k'ij, cächa ri Dios, quinjamij na ri Wuxlabal paquiwi' conojel ri winak. Ri e i c'ojol xukuje' ri e i mia'l quequik'axej na ri nu tzij chque ri winak, ri c'a e ac'alab quequil na c'utwächinic, ri e ri'jab quebichic' tak na.
+44002018	Xukuje' quinjamij na ri Wuxlabal paquiwi' ri e pataninel tak wech chi achijab chi ixokib, pa tak ri k'ij ri', quequik'axej na ri nu tzij.
+44002019	Quebenc'ut na mayibal ajsic pa ri caj, xukuje' quebenc'ut na etal iquim cho ri uwächulew, quic' ruc' k'ak' xukuje' sutz' re sib.
+44002020	Ri k'ij cäk'ekumar na, ri ic' cux na quic'. C'ä maja' c'ut cäpe ri u k'ij ri Ajawaxel, nimalaj k'ij ri cajuluwic.
+44002021	Conojel c'ut ri cäquinataj ri u bi' ri Ajawaxel, quecolotaj na.’
+44002026	Rumal wa' ri wanima' xquicotic, sibalaj xquicot ri wak', xukuje' ri nu cuerp c'o na cu'lbal u c'u'x.
+44002027	Man quinya' ta c'u can chupam ri mukbal, man cäya' ta la c'olbal chi cäk'ay ri u cuerp ri suc'alaj pataninel ech la.
+44002028	Xintijoj la che ri be re c'aslemal, quinnojisaj na la che quicotemal, rumal ri c'olem la wuc'.’
+44002035	c'ä quinban na chi ri qui banom qui c'ulel chawe quebux e u tac'alibal ri e awakan.’
+44003023	Ronojel c'ut ri man cäniman ta che we k'axal tzij ri', quesax na chquixo'l ri winak.’
+44004026	Ri ajawinelab xukuje' ri k'atal tak tzij re ri uwächulew junam xquiwalijisaj quib chrij ri Ajawaxel xukuje' chrij ri Crist, ri u cha'om. 
+44007043	Man xiya' taj, xane' are xiwekaj ri cak'ijilax wi ri dios Moloc, xukuje' ri u ch'imil ri dios Repan, qui wächbal tak diosib ri kas ix xebibano che qui k'ijilaxic. Rumal ri' quixin q'uiak na bic pa jun ulew chic naj che ri Babilon.’
+44007050	¿La ma ta nu k'ab e banowinak conojel we jastak ri'?’ ”
+44008033	Xmach'irisaxic, man xban ta suq'uilal che; ¿jachin ta lo ri cacuinic cutzijoj ri rija'lil? Xesax c'u ri u c'aslemal cho ri uwächulew.”
+44013038	Chetamaj ba' alak, wachalal tak achijab, chi rumal ri Jesus xtzijox ri sachbal mac chech alak, xukuje' xsachtaj ronojel ri man xcuin ta wi alak chuk'alajisaxic chi alak suc' rumal ri u pixab ri Moises; rumal ri Jesus conojel ri quecojonic, quek'alajisaxic chi e suc' chic.
+44013039	
+44013041	Chixul ba' pa sak, ri ix xutunelab; chixmayinok, chsach i wäch. Quinban c'u na jun nu chac pa tak we i k'ij ri', chac ri man quicoj ta ri', we ta c'o jachin cätzijon chiwe.”
+44015016	‘Oc'owinak chi wa' quintzelej na ulok quinban c'u na u banic ri tzakinakalaj rachoch ri David; quinban na u banic ri u tzakinaquil quinyac china',
+44015017	rech ri niq'uiaj chic cäquitzucuj na ri Ajawaxel junam cuc' conojel ri nimak tak tinimit ri e tastal che ri nu bi'.
+44015018	Ri Ajawaxel, ri xebuya' ulok quetamaxic we jastak ri' kas xc'ori', u yo'm ulok ri u tzij.’
+44015024	Ka tom c'ut chi jujun ri e elinak bic chkaxo'l ri man c'o ta takanic ka yo'm bic chque ri e qui yo'm latz' chiwe cumal tak ri e qui tzij, xqueblaj c'ut i c'u'x cumal.
+44015025	Xa jun ka chomanic, utz xkil wi xekacha' achijab che qui takic bic iwuc', quecachilaj bic ri Bernabe xukuje' ri Pawl, ri e lok' chkawäch.
+44015026	E are' achijab wa' ri qui jachom ri qui c'aslemal pa cämic rumal rech ri u bi' ri Kajaw Jesucrist.
+44015027	Je c'u ri', xekatak bic ri Juds xukuje' ri Silas. E are' c'u wa' quixquich'abej na, xa junam u bixic caquiya' na chiwe.
+44015028	Utz c'u xril wi ri Ruxlabal ri Dios, xukuje' ri uj, chi man q'ui taj ri eka'n cäkaya' chiwij. Xane' xuwi we jastak ri' ri e rajawaxic:
+44015029	Mebitij qui ti'jal awaj ri e chi'm che tabal tok'ob chque ri e diosib, mebitij quic'. Mebitij quiti'jal awaj ri quejitz'itajic. Miban macunic cuc' achijab ixokib.
+We c'u kas quichajij iwib chi man quebiban ta wa', utz ri quibano.
+Chixuchajij ba' ri Dios.”
+44015033	E sachalinak chi c'u quieb oxib k'ij chila', xejach bic pa jamaril cumal ri kachalal, rech quetzelej cuc' ri xetakow ulok.
+44023026	“In Clawd Lis quintz'ibaj jun wuj che ri k'atal tzij Pelics ri sibalaj nim u k'ij. Quinya' rutzil wäch la.
+44023027	We achi ri' xchap cumal ri aj judeyib, raj cäquicämisaj. Are c'u ri in xinbe chquij cuc' ajch'ojab, xinwesaj chquiwäch, aretak xinwetamaj chi are aj rom.
+44024006	Xukuje' xutzucuj u tz'iloxic ri rachoch Dios, rumal wa' xkachapo.
+44028026	‘Jät jabij c'u che we tinimit ri': Pune' sibalaj quixtatabenic, man quixch'oban ta na; pune' sibalaj quixca'yic, man quiwil ta na.
+44028027	Pimarinak c'ut ri u chomabal we tinimit ri', e tz'apital ri qui xiquin ri e qui bak'wäch e yupuyoj, rech man quecuin taj queilonic mawi quetanic, mawi quech'obonic; rech man quetzelej ta wuc' quebencunaj ta c'ut.’
+44028028	Chetamaj alak we colobal ib ri' ri cuya' ri Dios takom bic chque ri man aj judeyib taj, ri e are' c'ut quetataben na'.”
+45003011	Man c'o ta jun cäch'obonic, mawi c'o jachin cätzucun ri Dios.
+45003012	Conojel xquitas quib chrij ri Dios. Conojel xquiban chquibil quib
+chi man c'o ta chi qui patan. ¡Man c'o ta jachin cäbanow ri utzil! ¡Xa' ta ne jun c'olic!
+45003013	Ri u pa qui kul je jas ri mukubal ri jaktalic. Ri cak' banal tzij ri u pa qui chi' u c'u'm u k'inob cumätz.
+45003014	Ri u pa qui chi' nojinak che c'axalaj tak tzij, che yok'onic. Ri u pa qui chi' nojinak che c'okonic xukuje' che c'ayil.
+45003015	Ri cakan aninak quebe che u tixic quic'.
+45003016	Apawije' ri quebe wi, cäquiban can c'ax che ronojel, c'ax c'o pa ri qui be.
+45003017	Are c'u ri be re jamaril man cäquich'ob taj.
+45003018	Man cäquixe'j ta jubik' quib chuwäch ri Dios.”
+45004008	¡Utz re ri winak ri man quenatax taj ri u mac chrij rumal ri Ajawaxel!”
+45009026	Pa ri c'olbal jawije' ri xbix wi chque: ‘Ri ix man ix nu tinimit taj’, chila' cäbix wi na chque chi e ralc'ual ri c'aslic Dios.”
+45009028	ri Ajawaxel c'ut cuban na jas ri xubij, cuban na ri u k'atoj tzij. Cuban na ronojel chanim.”
+45011003	“Ajawaxel, e qui cämisam ri e k'axal tak tzij la, e qui yojim tak ri porobal ri queya' wi tabal tok'ob chwäch la. Xa' nu tuquiel chic in canajinak canok. Cäquitzucuj c'u nu cämisaxic.”
+45011010	Chban chque chi je ta ne quek'ekumar ri qui bak'wäch rech man queca'y ta chic. Chban chque chi je ta ne c'o jun alalaj eka'n chquij amak'el.”
+45011027	Are nu c'ulwächinic wa' cuc' aretak chinwesaj ri qui mac.”
+46003020	Xukuje' cubij: “Ri Ajawaxel reta'm ri qui chomanic ri c'o qui no'j, chi man c'o ta u patan.”
+46015055	Cämical, ¿jawije' c'o wi ri a cuinem che u banic c'ax chke? Cämical, ¿jawije' c'o wi ri a ch'äcanic?” 
+47006018	quinux c'u na i Tat, ri ix quixux na nu c'ojol xukuje' nu mia'l, cächa' ri Ajawaxel ri c'o ronojel u cuinem.”
+50002006	Ri pune' junam u wächbal ruc' ri Dios man xuna' ta rib chi junam ta ruc' ri Dios ri xucoj ta pa u tzij. 
+50002007	Xuya' c'u can ri u c'olbal ri nim u k'ij ruc' ri Dios, are' xuc'am ri u wächbal jun lok'om pataninel, xalaxic jacha' winak. 
+50002008	Aretak xuna' rib chi je u banic jas jun winak, xumach' rib, xniman c'ä pa ri cämical, jun cämic c'ut re ripibal. 
+50002009	Rumal c'u ri' ri Dios sibalaj xunimarisaj na u k'ij chquiwäch conojel, xuya' jun u bi' ri c'o na paquiwi' conojel ri bi'aj, 
+50002010	rech pa u bi' ri Jesus caquimej wi na ri qui ch'ec ri e c'o pa ri caj ri e c'o cho ri uwächulew xukuje' ri e c'o chuxe' uwächulew. 
+50002011	Rech conojel cäquich'obo xukuje' cäquibij chi ri Jesucrist are Ajawaxel, jeri' cänimarisax u k'ij ri Dios Tataxel.
+55002012	We cäkach'ij ri c'ax, cäya' na takanic pa ka k'ab ruc' ri are'. We man cäkak'alajisaj taj chi uj cojoninak che, xukuje' ri are' man cujuk'alajisaj taj chi uj cojonelab.
+55002013	We ri uj cätukar ri ka cojonic, ri Are' kas jic wi. Man cäcuin ta c'ut chi ma ta cuk'alajisaj rib chi are Dios.
+58001009	Alok'ok'em ri suq'uil, awetzelam c'u u wäch ri etzelal. Rumal wa' ri Dios, ri a Dios, sibalaj xuya' na quicotemal chawe at chquiwäch ri awachil, je ta ne xuya' aseit pawi'.”
+58001011	E are wa' cäsach na qui wäch, ri at c'ut cätc'oji' na. Conojel quek'elob na je jas jun atz'iak.
+58001012	Quebabot na je ta ne jun c'ul, quejal na je jas jun atz'iak. Ri at c'ut xak at je wi, ri a junab man e q'uisel taj.”
+58002007	Xa' jubik' xban la che chi ch'utin na u k'ij chquiwäch ri tako'nib aj caj. Xban c'u la che chi nim u k'ij, xukuje' nim quilic, je ta ne jun corona ri xcoj la che.
+58002008	Ronojel xcoj la chquixe' ri rakan.” Aretak c'ut xuya' ronojel ri jastak pa takic che, man c'o ta xuya' canok ri ma ta c'o chuxe' ri u takanic, c'ä maja' c'u cäkilo chi conojel ri jastak e c'o chuxe' ri u takanic.
+58003008	micowirisaj ri iwanima', jas ri xquiban ri winak aretak xetzak pa takchibal mac pa ri chaki'j uwo sak, xquiyac c'u woyowal.
+58003009	Are chi' ri e i mam xquiban jastak chnuwäch xa' che rilic jas quinbano, pune' xquilo cawinak junab jas ri xinban cuc'.
+58003010	Rumal c'u ri' xpe woyowal chque ri winak ri', xinbij c'ut: ‘Amak'el e sachinak pa canima', man e qui ch'obom ta c'u ri nu be.’
+58003011	Xinbij c'u pa ri chi'nic ri kas cäban na pa ri woyowal jas ri quinban na, xinbij: ‘Man queboc ta na pa ri wuxlanem.’ ”
+58008009	We c'ulwächinic' man je taj jas ri xinban cuc' ri e qui mam pa ri k'ij aretak xebenc'am che ri qui k'ab che quesaxic ulok pa Ejipt; rumal c'u rech chi ri e are' man xquitz'akatisaj taj ri nu c'ulwächinic, ri in xebenya' canok,’ cächa' ri Ajawaxel.
+58008010	‘Oc'owinak chic ri k'ij ri', are' wa' ri c'ulwächinic ri quinban na cuc' ri e aj Israel,’ cächa' ri Ajawaxel: ‘Quebenya' na ri nu pixab pa ri qui chomanic, pa ri canima' quintz'ibaj wi na. In quinux qui Dios are c'u ri e are' quebux na nu tinimit.
+58008011	Man quequitijola' ta chi na chquijujunal ri cachalal rech cäquich'ob u wäch ri Ajawaxel. Rumal rech chi conojel cäquich'ob na nu wäch, chi e ch'utik chi e nimak.
+58008012	Ri in c'ut man quinc'äjisaj ta na qui wäch rumal rech ri etzelal ri qui banom, man quenataj ta chic ri qui mac xukuje' ri quetzelal chwe.’ ”
+58010006	Man quekaj ta chwäch la ri quichajirisaxic tak ri awaj xukuje' ri quicämisaxic tak ri awaj che tabal tok'ob che resaxic ri macaj.
+58010007	Te c'u ri' xinbij: ‘Chilampe la, quinpe che u banic ri rayibal la, oh Dios, jas ri tz'ibatal chwij pa ri wuj.’ ”
+58010017	Man quenataj ta chi na ri qui mac mawi ri quetzelal.’ ”
+58010037	“Xa' jubik' cäraj na, ri cäpe na cäpetic, man cäbeytaj taj.
+58010038	Ri suc'alaj winak cäc'asi rumal ri cojonic. We c'u cätzelej chrij, man cäkaj ta chuwäch ri wanima'.”
+58012006	Ri Ajawaxel cuc'äjisaj u wäch apachin ri culok'ok'ej, ronojel ri cuc'am che ralc'ual, curapuj.”
+60001025	Are c'u ri u tzij ri Ajawaxel cäc'oji' amak'el chbe k'ij sak.” We tzij ri', are ri utzalaj tak tzij ri tzijom chiwe.
+60003011	Chutasa' ba' rib chrij ri etzelal, chubana' ri utzil, chutzucuj ri jamaril chutakej c'ut.
+60003012	Are c'u ri Ajawaxel quebuchajij ri e suc', cuta' ri qui ch'awem. Man utz ta c'ut queril wi ri winak ri cäquiban etzelal.”
+66001007	Chiwilampe', cäpe ri Crist pa ri sutz'. Conojel cäquil na, xukuje' ne ri xejulupenic, conojel c'u tak ri amak aj uwächulew cäcok'ej c'u na u wäch. Je ta ba', je chbanok. 
+66004011	“Kajaw xukuje' ka Dios, ya'tal che la ri u c'amic ri juluwem, ri nim ilic xukuje' ri cuinem. Lal xebanow la conojel ri jastak, rumal ri rayibal la e c'olic, xebantajic.”
+66005010	Banom c'u la chque chi quebux ajawinelab xukuje' e cojol tabal tok'ob chuwäch ri ka Dios, quebajawin c'u na paquiwi' ri uwächulew.”
+66011018	E ch'ujarinak c'u ri nimak tak tinimit, petinak c'u ri oyowal la, xukuje' ri k'ij aretak cäk'at la tzij paquiwi' ri cäminakib, xukuje' aretak cäya' la ri tojbal que ri pataninelab ech la ri e k'axal tzij, que ri tastalic tak winak, xukuje' que ri nim cäquil wi ri bi' la, chi ch'utik chi nimak. Xopan ri k'ij aretak cäsach la qui wäch ri quesachow u wäch ri uwächulew.”
+66013009	“Apachin ri e c'o u xiquin, chutatabej.
+66013010	We c'o jun cäc'am bic pa chapbal, pa chapbal cäbe wi na. We c'o jun cäcämisan che ch'ich' re ch'o'j, rajawaxic chi cäcämisax na che ch'ich' re ch'o'j.”
+66015004	¿Jachin ta lo ri ma ta cuxe'j rib chwäch la, Ajawaxel? ¿Jachin ta lo ri ma ta cunimarisaj u k'ij ri bi' la? Xuwi c'u ri lal tastalic man queban ta la etzelal. Quepe na conojel ri nimak tak tinimit, quek'ijilan na chwäch la. K'alajininak c'ut chi suc' ri k'atoj tzij ri cäban na la.”
+66018003	Rumal ri u wa'l u uva conojel ri nimak tak tinimit xek'abar ruc' ri u rayixic ri u macunic. Ri ajawinelab aj uwächulew qui banom macunic ruc'. Ri ajc'ayib re ri uwächulew e k'inomarinak rumal ri u chuk'ab ri u k'inomal.”
+66018004	Xinta' jun ch'abal chic chicaj, ri xubij: “Chixel bic pa ri Babilon, ix ri ix nu tinimit rech man quebikajbej taj ri e u mac mawi quebirik tak iwech ri c'ax ri queburiko.
+66018005	Ri e u mac e opaninak c'ä cho ri caj. Ri retzelal xnataj che ri Dios.
+66018006	Chiya' che jas ri u yo'm are' chque niq'uiaj chic, chicamulij ri rajil u q'uexel chiya' che. Chiyuju' jun uq'uia' che ri camul k'obisam chuwäch ri xuyuj chque niq'uiaj chic;
+66018007	jacha' ri nimal ri xc'amowic, sibalaj xoc'ow u wi' ri u k'inomal, xa junam chibana' ba c'ax che, chiya' pa bis, rumal rech chi cubij pa ranima': ‘In t'uyul che chuchu' ajawinel, man in malca'n taj, man quinwil ta na bis.’
+66018008	Rumal ri', xa' pa jun k'ij quepe na ri u rikoj c'ax: quepe na cämical, bis, wi'jal, xukuje' cäporox na pa k'ak'. C'o u chuk'ab ri Ajaw Dios ri cuk'attzij puwi'.”
+66018017	Xa c'u pa jun jok'otaj xsach u wäch ri nimalaj k'inomal.”
+Conojel ri e c'amal qui be ri nimak tak jucub, conojel ri quebe pa nimak tak jucub puwi' ri plo, ri quechacun pa ri nimak tak jucub, xukuje' conojel ri quechacun pa ri plo, xetaq'ui' chi naj.
+66018020	Caj, chatquicot puwi' ri tinimit, ix tastalic tak winak aj Dios, ix takomxenlab, xukuje' ix k'axal tak tzij, u banom c'ut ri Dios ri suq'uilal chiwe rumal ri u c'äjisaxic u wäch.”
+66018022	Man quetataj ta chic ri cok'ebal ri arp xukuje' ri ajk'ojomab, ri cok'ebal ri su' xukuje' tak ri trompet. Man c'o ta chi winak awuc' ri quena'w ta che tak chac. Xukuje' ri u juc'uq'uic ri ca' man cätataj ta chic awuc'.
+66018023	Ri u sakil jun chäj man cäjuluw ta chic awuc'. Man cätataj ta chi awuc' ri u ch'abal ri ach'ajilaxel mawi ri lok'om pataninel. Ri e ajc'ayib ri xebel bic iwuc' nabe canok e are' ri nimak na qui k'ij cho ri uwächulew, xebasub conojel ri nimak tak tinimit cumal tak ri e awitzinic.”
+66019002	rumal rech chi kastzij xukuje' suc' ri k'atoj tzij ri cubano. Xuc'äjisaj u wäch ri ajmacalaj ixok quech nim ch'utin, ri nim u banic, ri u tz'ilom ri uwächulew rumal ri u macunic. Ri Dios xutoj u q'uexel ri qui quiq'uel ri e pataninel tak rech ri e cämisam rumal ri ixok.”
+66019003	Chucamul chic xquibij: “¡Chanimarisax u k'ij ri Ajawaxel! Cäpaki' ri u sibal ri ixok amak'el chbe k'ij sak.”
+66019007	Chujquicotok, sibalaj chujquicotok, chakaya' juluwem che, rumal rech chi xopan ri k'ij re ri u c'ulanem ri Alaj Chij. Ri rixokil u suc'umam rib,
+66019008	xya' che chi cucoj jun ch'ajch'oj atz'iak re ch'uch'ujalaj lino ri cäjuluwic. Ri ch'uch'ujalaj lino are cubij ri suc'alaj tak chac ri qui banom ri tastalic tak winak aj Dios.”
+
+
+# Folgende Verse, die in dieser Datei nicht als fehlend aufgelistet sind, sind im Bibelkorpus unvollständig vorhanden. Der hintere Teil des Verses (nach dem Doppelpunkt, wenn die direkte Rede beginnt) fehlt immer.
+# In 40006009 fehlt: ‘Ka Tat ri c'o la pa ri caj, chtastaj ri bi' la.
+# In 40013014 fehlt: ‘Quita' na ruc' ri i xiquin, man quich'ob ta c'ut. Quixca'y na ruc' ri i bak'wäch, man quiwil ta c'ut.
+# In 41001002: fehlt: “Chawilampe', quintak bic ri nu tako'n chawäch, ri cusuc'umaj na ri a be.
+# In 41007006 fehlt: We winak ri' xak ruc' ri qui chi' cäquinimarisaj nu k'ij, are c'u ri canima' naj c'o wi chwe.
+# In 41011009 fehlt: ¡Nim u k'ij! ¡Tewichi'm ri Jun ri petinak pa ri u bi' ri Ajawaxel!
+# In 41012010 fehlt: ‘Ri abaj ri xq'uiak can cumal ri yacal tak ja, are abaj wa' ri xux na ri nim u patan.
+# In 42001046 fehlt: Ri wanima' cunimarisaj u k'ij ri Ajawaxel.
+# In 42003004 fehlt: “Jun chabebal curak u chi' pa ri chaki'j uwo sak, cubij: ‘Chisuc'umaj ri u be ri Ajawaxel, chibana' colom che ri alaj tak u be.
+# In 42004010 fehlt: ‘Cuya' na takanic chque ri e u tako'nib aj caj chawij, che a chajixic.
+# In 42011002 fehlt: ‘Tat, chtas ri bi' la che nim u k'ij. Chpet ri ajawibal la.
+# In 42020017 fehlt: ‘Ri abaj ri xquiq'uiak can ri banal tak ja, are' uxinak ri abaj ri nim na u banic.
+# In 44002025 fehlt: ‘In quinwil amak'el ri Ajawaxel c'o chnuwäch. C'o pa ri nu wiquiak'ab,
+rech man c'o ta jas quinslabenic.
+# In 44003022 fehlt: ‘Ri Ajawaxel, ri i Dios cuwalijisaj na jun k'axal u tzij chquixo'l ri e iwachalal, jacha' ri in. Chinimaj ronojel ri cubij na chiwe.
+# In 44007042 fehlt: ‘Aj israelib, ¿la xebicämisaj lo awaj che tabal tok'ob chnuwäch, a xebiya' lo sipanic chnuwäch pa ri cawinak (40) junab aretak ix c'o pa tak ri chaki'j uwo sak?
+# In 44007049 fehlt: ri ulew are qui tac'alibal ri wakan. ¿Jas u wäch chi ja quiyac ta na chwe? cächa ri Ajawaxel. ¿O jas u wäch c'olbal quinuxlan ta wi?
+# In 44008032 fehlt: “Xc'am bic jacha' jun chij pa ri pilibal, jacha' jun alaj chij ri man cäch'aw taj chquiwäch ri e socal tak rij, jewa' mawi xujak ta ri u chi'.
+# In 44015023 fehlt: “Uj ri uj takomxenlab, xukuje' tak ri tatayib ri e iwachalal c'o takanic kuc', cäkaya' rutzil qui wäch ri kachalal ri man aj judeyib taj, ri e jekel pa Antioquiy xukuje' pa Siriy xukuje' pa Silisiy.
+# In 45003010 fehlt: “¡Man c'o ta jun suc'! ¡Mawi jun!
+# In 45009025 fehlt: “Ri winak ri man e nu tinimit taj, quinbij na nu tinimit chque. Ri winak ri man e lok'ok'em taj, quebenlok'ok'ej na. 
+# In 46003019 fehlt: “Ri winak ri sibalaj quena'w che ri qui chomanic, ri Dios cuban chque chi quetzak rumal ri qui no'j.” 
+# In 47006017 fehlt: “Chixel chquixo'l, chitasa' iwib chquij, minak jun jasach tz'il. Ri in c'ut quixinc'am na,
+# In 55002011 fehlt: We cujcäm ruc' are', xukuje' cujc'asi' na ruc'.
+# In 58001008 fehlt:  “Ri a tem re ajawibal, oh Dios, amak'el chbe k'ij sak man q'uisel taj. Bara' re suq'uil ri u bara' ri awajawinic. 
+# In 58001010 fehlt: “Ri at, Wajaw pa ri u tiquiritajic xaban ri uwächulew, xukuje' ri caj are u chac ri a k'ab. 11E are wa' cäsach na qui wäch, ri at c'ut cätc'oji' na. Conojel quek'elob na je jas jun atz'iak. 12Quebabot na je ta ne jun c'ul, quejal na je jas jun atz'iak. Ri at c'ut xak at je wi, ri a junab man e q'uisel taj.”
+# In 58008008 fehlt: “Cächa' ri Ajawaxel: ‘Chiwilampe', quepe na ri k'ij, aretak quinban na jun c'ac' c'ulwächinic ruc' ri Israel xukuje' ruc' ri Juda.
+# In 58010005 fehlt: “Man caj ta la tabal tok'ob, mawi sipanic, xane' xsuc'umaj la jun cuerp chwe.
+# In 58010016 fehlt: ‘Oc'owinak chic ri k'ij ri', are wa' ri nu c'ulwächinic ri quinban na cuc' ri winak, quebenya' na ri nu pixab pa ri canima', pa ri qui chomanic quintz'ibaj wi na.
+# In 58012005 fehlt: “Walc'ual, nim cawil wi ri c'äjisabal a wäch rumal ri Ajawaxel, matk'itajic aretak cäk'alajisax ri a mac rumal.
+# In 60003010 fehlt: “Apachin ri cäraj culok'ok'ej ri c'aslemal xukuje' cäril utzalaj tak k'ij, mubij ba' etzelal ruc' ri rak', mutzijoj subunic ruc' ri u chi'. 
+# In 66005009 fehlt: “Ya'tal che la chi cäc'am la ri wuj, chi quejak la ri e u t'ikbal, rumal rech chi xcämisax la, ruc' ri quiq'uel la xelok' la winak rech quebux rech ri Dios re conojel qui wäch winak, ch'abal, amak', nimak tak tinimit. 
+# In 66011017 fehlt: “Cäkamaltioxij che la, Ajawaxel, Dios ri c'o ronojel cuinem uc' la, ri c'o la, ri c'o la ulok ojer, xukuje' cäpe na la, rumal rech chi c'amom la ri nimalaj chuk'ab la lal c'u ajawininak.
+#In 66015003 fehlt: “E nimak xukuje' sibalaj e mayibal tak ri e chac la, Ajawaxel, Dios ri c'o ronojel u cuinem e suc' xukuje' kas e be tak ri e be la, Ajawinel quech tak ri nimak tak tinimit. 
+# In 66018002 fehlt: “Xtzakic, xtzak ri nimalaj Babilon. Xban che chi itzel tak uxlabal e jekel chila'. Xban che chi are c'olbal re ronojel tz'ilalaj uxlabal, re ronojel tz'ilalaj chicop ri c'o u xic ri quetzelax u wäch.
+# In 66018019 fehlt: “¡Tok'ob u wäch, tok'ob u wäch ri nimalaj tinimit! Conojel ri c'o nimak tak qui jucub pa ri plo e k'inomarinak rumal ri q'uialaj u k'inomal. ¡Xa c'u pa jun jok'otaj xsach u wäch ronojel!
+# In 66019001 fehlt: “¡Chnimarisax u k'ij ri Ajawaxel! Ri colobal ib, ri juluwem, xukuje' ri cuinem e rech ri ka Dios,
+# In 66019006 fehlt: “¡Chnimarisax u k'ij ri Ajawaxel!, rumal rech chi ri Ajawaxel ri ka Dios ri c'o ronojel cuinem ruc', cätakan puwi' ronojel.
