@@ -1,8 +1,7 @@
-40014036	Un tā novada ļaudis, Viņu pazinuši, izziņoja visā apgabalā; un tie atnesa pie Viņa visus savus slimniekus un lūdza Viņu, lai atļauj pieskarties kaut Viņa drēbju vīlei. Un visi, kas pieskārās, kļuva veseli.
-40017027	? #nicht vorhanden
-41004041	? #nicht vorhanden
-43011057	? #nicht vorhanden
-44007059	? #nicht vorhanden
-44014028	? #nicht vorhanden
-47001024	? #nicht vorhanden
-66012017	Un viņš nostājās jūras krastā.
+40014036	
+40017027	
+41004041	
+43011057	
+44007059	
+44014028	
+47001024	
