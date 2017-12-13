@@ -1,178 +1,178 @@
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001013
-40001014
-40001015
-40001016
-40002007
-40002008
-40004007
-40004011
-40004017
-40005011
-40005012
-40022045
-40026032
-41003017
-41003018
-41003019
-41013026
-41013027
-42001056
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
-42004011
-42006014
-42006015
-42006016
-42006032
-42006033
-42006034
-42006035
-42006036
-42007033
-42007034
-42007035
-42019039
-42019040
-42020044
-43008001
-43012039
-43012041
-43012042
-43012043
-44002036
-44004027
-44004028
-44004029
-44004030
-44004031
-44008001
-44013042
-44013043
-44015019
-44015020
-44015021
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44017019
-44017020
-44017021
-44023026
-44023027
-44023028
-44023029
-44023030
-44028028
-44028030
-44028031
-45003005
-45003006
-45010020
-45010021
-45011009
-45011036
-45014012
-45015010
-45015011
-45015012
-45015013
-46001020
-46001021
-46001022
-46001023
-46001024
-46001025
-46002010
-46002011
-46002012
-46002013
-46002014
-46002015
-46002016
-46011001
-46014022
-46014023
-46014024
-46014025
-46015056
-46015057
-47006017
-49004009
-49004010
-49004011
-49004012
-49004013
-49004014
-49004015
-49004016
-58001006
-58001007
-58001008
-58001010
-58001013
-58002009
-58002010
-58002011
-58002012
-58002013
-58004004
-58004005
-58005006
-58007022
-58008013
-58010008
-58010009
-58010010
-58010011
-58010012
-58010013
-58010014
-58010015
-58010018
-58010039
-58012007
-58012008
-58012009
-58012010
-58012011
-66004009
-66004010
-66005013
-66005014
-66007013
-66007014
-66007015
-66007017
-66011016
-66011017
-66011019
-66019003
-66019004
-66019006
-66021020
-66021021
+40001003	ó o Zudaa zàwa na ó o yú là a Tamaare lé o Farɛɛsi là a Zeraa, ó o Farɛɛsi za lé o Hɛsiron, ó o Hɛsiron za lé o Araamu,
+40001004	ó o Araamu za lé o Aminadaabu, ó o Aminadaabu za lé o Naasɔ̃n, ó o Naasɔ̃n za lé o Salamɔn,
+40001005	ó o Salamɔn za lé o Buaze na ó o yú là a Arahaabu, ó o Buaze za lé o Obɛɛde na ó o yú là a Uruute, ó o Obɛɛde za lé o Zesee,
+40001006	ó o Zesee za lé o bɛ́ɛ Daviide. Ó o bɛ́ɛ Daviide za lé o *Salomɔn na ó o yú là a Uuri ɓàn hã́a,
+40001007	ó o Salomɔn za lé o Orobuamu, ó o Orobuamu za lé o Abia, ó o Abia za lé o Azaafe,
+40001008	ó o Azaafe za lé o Zozafaa, ó o Zozafaa za lé o Zoraamu, ó o Zoraamu za lé o Oziasi,
+40001009	ó o Oziasi za lé o Zuataamu, ó o Zuataamu za lé o Akazaa, ó o Akazaa za lé o Ezekiasi,
+40001010	ó o Ezekiasi za lé o Manasee, ó o Manasee za lé o Amɔɔsi, ó o Amɔɔsi za lé o Zoziasi,
+40001011	ó o Zoziasi za lé o Zekonia lè mín zàwa. Bṹn wó ká a *Isirayɛɛle nìpomu á ho *Babiloonasa kĩ̀kã́a yi á ɓa vaá wee kàyá ɓa kɔ̃hṹ yi.
+40001013	ó o Zorobabɛɛle za lé o Abiyuude, ó o Abiyuude za lé o Eliakiimu, ó o Eliakiimu za lé o Azoore,
+40001014	ó o Azoore za lé o Sadooki, ó o Sadooki za lé o Akiimu, ó o Akiimu za lé o Eliyuude,
+40001015	ó o Eliyuude za lé o Eliazaare, ó o Eliazaare za lé o Matan, ó o Matan za lé o Zakoobu,
+40001016	ó o *Zakoobu za lé o Zozɛɛfu, o Mari ɓàn báa. O Mari mu lé wón ton o Yeesu na ɓa le *Krista.
+40002007	Ó o *Heroode wã́a sànkaa von ɓa bè-zũńlowà mu, ò o tùara ɓa yi á zũńnanáa ho pã̀ahṹ binbirì na ɓa mɔn le mànàayiire yi.
+40002008	Bṹn mɔ́n ó o le ɓa lɛ́n va ho Betelehɛɛmu, ò o bía nɔn ɓa yi: «Mi va a tùaka o háyónza mu bìo sese. Ká mi yú a mɔn, à mi bĩní ɓuee bío mu na miì, á ĩnɛ́n mún vaá ɓùaaní a.»
+40004007	Ó o Yeesu bía nɔn wo yi. «Mu mún túara le Dónbeenì bíonì vũahṹ yi kà: ‹Yí vĩ́ vĩ́ yí khũaa ũ Ɲúhṹso Dónbeenì ɲii yi hàrí lòn wizoǹ-kéní.›»
+40004011	Ó o Satãni wã́a wà ò o día a Yeesu. Á le Dónbeenì wáayi tonkarowà ɓuara a cɔ̃́n, á ɓueé wó bìo ó o màkóo wi yi nɔn wo yi.
+40004017	Lé bṹn ɲii wán ó o Yeesu wã́a ɓúakáa wee bue le Dónbeenì bíonì. Bìo kà lé bìo ó o hĩ́a wee bío: «Mi khí mu bè-kora wéró yi à bè le Dónbeenì yi. Lé le *Dónbeenì bɛ́ɛnì ɓueé ɓó.»
+40005011	Ká ɓa nùpua wee là mia, á wee beé mi lò, á wee fũ̀aa hã sabíoní lè mi sìíwà mi dã́ní yi ĩnɛ́n bìo yi, se mi ɲúná sĩ.
+40005012	Mi zã̀maka, mi le mi sĩa wa làa sòobɛ́ɛ, lé bìo le Dónbeenì bũ̀iá beenì pan mia ho wáayi mu bìo yi. Mu bon, lé kà síi á ɓa beéraráa le *Dónbeenì ɲi-cúa fɛɛrowà na dú mi yahó lò.
+40022045	Ká a Daviide wã́a wee ve o Yìa le Dónbeenì mɔn léra le mí Ɲúhṹso, ó o wé o Ɲúhṹso ká a mún pá à bĩní ì wé o mɔ̀nmàníi kaka?»
+40026032	Ɛ̀ɛ ká ĩ vèeró mɔ́n, á ĩ ì dí mí yahó vaá pa mia ho Kalilee kɔ̃hṹ yi.»
+41003017	O Zaaki lè mín za Zãn na lé o Zebedee zàwa. O Yeesu có ɓa yèni làa Buanɛzɛɛsi, bṹn kúará le «nùpua na ka lòn viohó na wee nàmaka.»
+41003018	O Ãndere, o Filiipu là a Baatelemii, o Matiye là a Toma, o Zaaki na lé o Alifee za, o Tade, o Simɔn na lé ɓa Zelootewa kuure nùpua nì-kéní.
+41003019	O Zudaa Isikariote na khíi dé o Yeesu mí zúkúsa níi yi.
+41013026	Hón pã̀ahṹ so yi á ɓa à mi a Nùpue Za ɓuenló hã dùndúio wán lè mí dàńló lè mí cùkú beenì. 
+41013027	O khíi tonka le Dónbeenì wáayi tonkarowà ho tá kónɓúaa bìo náa yi lè ho dĩ́míɲá ɓúenɓúen yi á ɓa a ve bìa le Dónbeenì hueekaa á à kúee mín wán.
+42001056	Ó o Mari wã́a kará là a Elizabɛɛti á yú hã pĩina tĩn síi, bṹn mɔ́n ó o bĩnía wà ɓon.
+42003024	ó o Helii ɓàn maá lé o Mataate, ó o Mataate ɓàn maá lé o Levii, ó o Levii ɓàn maá lé o Mɛliki, ó o Mɛliki ɓàn maá lé o Zanayii, ó o Zanayii ɓàn maá lé o Zozɛɛfu,
+42003025	ó o Zozɛɛfu ɓàn maá lé o Matatiasi, ó o Matatiasi ɓàn maá lé o Amɔɔsi, ó o Amɔɔsi ɓàn maá lé o Nahuumu, ó o Nahuumu ɓàn maá lé o Hɛsilii, ó o Hɛsilii ɓàn maá lé o Nakayii,
+42003026	ó o Nakayii ɓàn maá lé o Maate, ó o Maate ɓàn maá lé o Matatiasi, ó o Matatiasi ɓàn maá lé o Semɛɲɛɛ, ó o Semɛɲɛɛ ɓàn maá lé o Zozɛɛki, ó o Zozɛɛki ɓàn maá lé o Zodaa,
+42003027	ó o Zodaa ɓàn maá lé o Yuanan, ó o Yuanan ɓàn maá lé o Erezaa, ó o Erezaa ɓàn maá lé o Zorobabɛɛle, ó o Zorobabɛɛle ɓàn maá lé o Salasiɛle, ó o Salasiɛle ɓàn maá lé o Nɛrii,
+42003028	ó o Nɛrii ɓàn maá lé o Mɛliki, ó o Mɛliki ɓàn maá lé o Adii, ó o Adii ɓàn maá lé o Kosaamu, ó o Kosaamu ɓàn maá lé o Ɛlemadamu, ó o Ɛlemadamu ɓàn maá lé o Ɛɛre,
+42003029	ó o Ɛɛre ɓàn maá lé o Zozue, ó o Zozue ɓàn maá lé o Eliyezɛɛre, ó o Eliyezɛɛre ɓàn maá lé o Zoriimu, ó o Zoriimu ɓàn maá lé o Mataate, ó o Mataate ɓàn maá lé o Levii,
+42003030	ó o Levii ɓàn maá lé o Simiɔn, ó o Simiɔn ɓàn maá lé o Zudaa, ó o Zudaa ɓàn maá lé o Zozɛɛfu, ó o Zozɛɛfu ɓàn maá lé o Zonaamu, ó o Zonaamu ɓàn maá lé o Eliakiimu,
+42003031	ó o Eliakiimu ɓàn maá lé o Mɛleyaa, ó o Mɛleyaa ɓàn maá lé o Mɛnaa, ó o Mɛnaa ɓàn maá lé o Matataa, ó o Matataa ɓàn maá lé o Natãn, ó o Natãn ɓàn maá lé o *Daviide,
+42003032	ó o *Daviide ɓàn maá lé o Zesee, ó o Zesee ɓàn maá lé o Obɛɛde, ó o Obɛɛde ɓàn maá lé o Buaze, ó o Buaze ɓàn maá lé o Sala, ó o Sala ɓàn maá lé o Naasɔ̃n,
+42003033	ó o Naasɔ̃n ɓàn maá lé o Aminadaabu, ó o Aminadaabu ɓàn maá lé o Ademɛn, ó o Ademɛn ɓàn maá lé o Aanii, ó o Aanii ɓàn maá lé o Hɛsiron, ó o Hɛsiron ɓàn maá lé o Farɛɛsi, ó o Farɛɛsi ɓàn maá lé o *Zudaa,
+42003034	ó o Zudaa ɓàn maá lé o *Zakoobu, ó o Zakoobu ɓàn maá lé o *Izaaki, ó o Izaaki ɓàn maá lé o *Abarahaamu, ó o Abarahaamu ɓàn maá lé o Teraa, ó o Teraa ɓàn maá lé o Nahoore,
+42003035	ó o Nahoore ɓàn maá lé o Seruuki, ó o Seruuki ɓàn maá lé o Arakoo, ó o Arakoo ɓàn maá lé o Falɛki, ó o Falɛki ɓàn maá lé o Ebɛɛre, ó o Ebɛɛre ɓàn maá lé o Sala,
+42003036	ó o Sala ɓàn maá lé o Kayinaamu, ó o Kayinaamu ɓàn maá lé o Aafakisaade, ó o Aafakisaade ɓàn maá lé o Sɛɛmu, ó o Sɛɛmu ɓàn maá lé o Nɔwee, ó o Nɔwee ɓàn maá lé o Lamɛɛki,
+42003037	ó o Lamɛɛki ɓàn maá lé o Matuzala, ó o Matuzala ɓàn maá lé o Enɔɔki, ó o Enɔɔki ɓàn maá lé o Yarɛɛde, ó o Yarɛɛde ɓàn maá lé o Maleleyɛɛle, ó o Maleleyɛɛle ɓàn maá lé o Kayinaamu,
+42003038	ó o Kayinaamu ɓàn maá lé o Enɔɔsi, ó o Enɔɔsi ɓàn maá lé o Sɛɛte, ó o Sɛɛte ɓàn maá lé o Adãma, ó o Adãma ɓàn maá lé le Dónbeenì.
+42004011	Á mu mún bĩnía túara: ‹Ɓa à cɔ̃n fo á lií wíoka à bàrá, bèra a na ũ zeǹ yí tṹii làa huee ɓúi.›»
+42006014	O Simɔn na ó o có yèni làa Piɛre, o Ãndere na lé o Simɔn mu ɓàn za, o Zaaki là a Zãn, o Filiipu là a Baatelemii,
+42006015	o Matiye là a Toma, o Alifee za Zaaki, o Simɔn na lé ɓa Zelootewa kuure nùpua nì-kéní,
+42006016	o Zaaki za Zudaa, là a Zudaa Isikariote na khíi dé o Yeesu o zúkúsa níi yi.
+42006032	Ká bìa wa mia lé bán mí dòn á mi wa, á mi wee leéka le mi so pá à bĩní ì yí bìo mu mɔ́n le? Hàrí ɓa bè-kora wérowà mún wa bìa wa ɓa. 
+42006033	Ká bìa wee wé mu bè-tentewà na mia lé bán mí dòn mi wee wé mu ɓàn síi na yi, á mi wee leéka le mi so pá à bĩní ì yí bìo mu mɔ́n le? Hàrí ɓa bè-kora wérowà mún wee wé bṹn.
+42006034	Ká bìa khíi dàń mu á à wĩ́ mia, lé bán mí dòn á mi wee ke lè mí bìo, á mi wee leéka le mi so pá à bĩní ì yí bìo mu mɔ́n le? Hàrí ɓa bè-kora wérowà mún wee ke mín bìowa làa mín làa bṹn síi à paráa mu khíi wĩ́ló. 
+42006035	Ɛ̀ɛ ká minɛ́n yí wé bṹn. Mi wań mi zúkúsa, mi wé wé mu bè-tente na ɓa yi. Ká nùpue kon ũ bìo, ũ yí dé ũ sĩi mu khíi bĩní wĩ́ló yi. Lé bṹn ǹ na ká mi ì wé le Dónbeenì na wi mu bìo ɓúenɓúen ɲúhṹ wán zàwa, lé bìo á ɓa bè-yízũńlowà lè ɓa nì-sũmáa á le wee wé mu bè-tentewà na yi.
+42006036	Mi zũń le hii wéró làa bìo á mìn Maá Dónbeenì zũnáa le hii wéró bìo síi.
+42007033	Bìo ó o Zãn Batiisi ɓuara á yí máa dí dĩ́n-poni, á mún yí máa ɲu *dìvɛ̃́n, á mi le o cĩ́ná wi o yi. 
+42007034	Á bìo ó o *Nùpue Za ɓɛ̀n ɓuara wee dí, á mún wee ɲu ho dìvɛ̃́n á mi mún yí tà bṹn, à mi wee bío bìo kà: ‹Mi loń! O nìi na kà yí máa wé bìo ɓúi ká mu yínɔń dĩ́nló díró làa ɲa-ɲunló. O lé ɓa *lànpó féwá lè ɓa bè-kora wérowà ɓàn bɔ̃́nlo.›
+42007035	Ɛ̀ɛ ká bìa ɓúenɓúen na mu bè-zũńminì wi yi bìo bon, bán wé è wé mu bè-zũńminì mu ɓàn wárá.»
+42019039	Á ɓa *Farizĩɛwa ɓúi na wi ɓa zã̀amáa tĩ́ahṹ bía nɔn o Yeesu yi: «Nì-kàránlo, bío le ũ nì-kenínia wé tɛ́tɛ́.»
+42019040	Ó o Yeesu bía: «Ká ɓa wó tɛ́tɛ́, á hã huaa pá à wãamaka.»
+42020044	Bìo ó o Daviide wee ve o Krista lè mí Ɲúhṹso, o ò wé o ɲúhṹso ká a mún pá à wé o mɔ̀nmàníi kaka?»
+43008001	ò o Yeesu wón wà yòora le ɓúee na ɓa le Oliivewa ɓúee wán.
+43012039	Bìo nɔn ɓa yí dà máa tàráa mu yi, lé bìo ó o Ezayii mu pá bĩnía bía:
+43012041	O Ezayii bía hɔ̃́n bíoní so lé bìo ó o mɔn ho cùkú na le Dónbeenì á à dé o Yeesu yi, ó o bía a bìo yi.
+43012042	Ɛ̀ɛ ká ɓa *zúifùwa ya-díwá mí bɛɛre tĩ́ahṹ, á ɓa cɛ̀rɛ̀ɛ ɲɔǹ pá dó mí sĩa o Yeesu yi. Ká ɓa màhã́ yí máa tà bío mu wéréwéré, lé ɓa *Farizĩɛwa bìo yi, à bán yí hè ɓa lè ɓa zúifùwa kàránló zĩi zoró.
+43012043	Ɓa wa le yèni càró ɓa nùpua cɔ̃́n á po le yèni càró le Dónbeenì cɔ̃́n.
+44002036	«Minɛ́n Isirayɛɛle nìpomu ɓúenɓúen ko à mi zũń mu kɛ̃́nkɛ̃́n le o Yeesu mu na mi ɓúaa ho kùrùwá wán lé wón le Dónbeenì wó là a Ɲúhṹso là a Krista.»
+44004027	À mu ɓɛ̀n bon ò o *Heroode là a *Pɔ̃nsi Pilaate wó le ɲii dà-kéní ho lóhó yi hen, ɓarɛ́n là a *Isirayɛɛle nìpomu, lè hã sìí-viò nùpua à ɓa hĩ́nɔn ũ ton-sá Yeesu na bìo sĩ foǹ wán, yìa fo mɔn léra. 
+44004028	Bìo fo hĩ́a fèra bía le fo ò wé á à kã́ɲa lè ũ pànká lè ũ sĩi bìo yi, bṹn ɓúenɓúen lé bìo ɓa wó kà à tiíra ɲii.
+44004029	Ɲúhṹso, wã́a loń ɓa hɛɛrè na ɓa wee là. Na le sĩ-heɓúee warɛ́n na lé ũ ton-sáwá yi à wa wé bue lè ũ bíonì. 
+44004030	Dé ũ níi, à ɓa vánvárowà waró lè mu yéréké bìowa na wa wee wé ũ ton-sá Yeesu na bìo sĩ foǹ yèni pànká yi, à zéení ká ũ bìo bon.»
+44004031	Bìo ɓa fìora vó, á ho lahó na ɓa wi yi á zà kìkìkì, á ɓa ɓúenɓúen sú lè le Dónbeenì Hácírí, á ɓa hĩ́nɔn wee bue le Dónbeenì bíonì lè le sĩ-heɓúee.
+44008001	O Etiɛna ɓúeró ó o Soole tà.
+44013042	Bìo ó o bía bṹn vó, ó orɛ́n là a Baanabaasi ló ɓa *zúifùwa kàránló zĩi yi. Á bìa wi bĩ́n fìora ɓa le ɓa bĩní ɓuen ho *Sabaa wizonle na sã̀ yi, à wíoka ɓuee bío mu bìo dà-kéní mu dã́ní yi.
+44013043	Ho kúeemínwánló mɔ́ndɛ́n á ɓa zúifùwa cɛ̀rɛ̀ɛ, lè ɓa nì-vio na yèrèmáa zon ɓa yi, á tà bò a Poole là a Baanabaasi yi. Á bán wee bío làa ba ká ɓa à hení ɓa sĩa à ɓa ca tĩn le Dónbeenì sãamu yi.
+44015019	O Zaaki pá bĩnía bía: «Lé bṹn nɔn á ĩ le mu sṹaaní à bìa yínɔń ɓa zúifùwa na yèrèmáa bò le Dónbeenì yi à ɓa yí sɛɛ́. 
+44015020	Ká mi màhã́ wa túa ɓa yi, à bío na ɓa yi le ɓa wé yí là le muinì taa, lé bìo hã tun. À pa míten ho hã́-fénló lè ho bá-fénló lè mí sìíwà yi. À yí là bùaa na yí fũ̀aana taa. À yí dí cãni.
+44015021	Hàánì bĩ́n ká ɓa nùpua wee kàrán o Mɔyiize làndá làa mín hã lórá lè mí dà-kéní kéní yi, à kàrán ho ɓa zúifùwa kàránló zĩní yi hã *Sabaawa ɓúenɓúen zoǹ.»
+44015024	Wa ɲá à ɓa nùpua ɓúi ló wa cɔ̃́n, ká warɛ́n ɲɔǹ yí tonkaa ɓa, á ɓueé lùnkaa mi yilera lè mí bíoní, á mi yí zũ bìo mi ì wé.
+44015025	Lé bṹn nɔn á wa wã̀anía tò à wa le wa à hueeka ɓa ɓúi á à tonka mi cɔ̃́n. Ɓa à bè là a Baanabaasi là a Poole na lé wàn bɔ̃́nlowà na wa wa làa sòobɛ́ɛ, 
+44015026	bán na zàanía mí mukãní wa Ɲúhṹso Yeesu *Krista tonló bìo yi. 
+44015027	Ó o Zude là a Silaasi lé bìa wa wã́a tonkaa mi cɔ̃́n, à bán míten ɓuee wíoka fɛɛ bìo túara ho vũahṹ yi à na mia. 
+44015028	Warɛ́n á tò mu wán á le Dónbeenì Hácírí mún tà mu le wa máa ɲì sèró mi wán máa dà máa khĩí. Hã làndáwá na bìo henía nɔn mia na mi ko mi bè yi lé hĩ̀a kà: 
+44015029	Mi wé yí là le muinì taa. Mi yí dí cãni. Mi yí là bùaa na yí fũ̀aana taa. Mi pa miten ho hã́-fénló lè ho bá-fénló lè mí sìíwà yi. Ká mi wee dàń pa miten bìo bṹn ɓúenɓúen yi, se mu se.Ká mi foó.»
+44017019	Á ɓa ɓuan wo vannáa ho lóhó tũ̀iá fɛɛrowà cɔ̃́n, à ɓa bía nɔn wo yi: «Mu bè-fĩnle na á ũ wee kàrán lè ɓa nùpua á fo dà a zéení yahó làa wɛn le? 
+44017020	Bìo wa wee ɲí kà lée bè-fĩa wa cɔ̃́n, á wa wi à wa zũń mu kúará.»
+44017021	À bìo ho Atɛɛnasa ɓúenɓúen lè mí kàyáwá ɓɛ̀n wa lè mí sòobɛ́ɛ lé mu bè-fĩa na wee wé ɓàn ɲíló lè mu láakáwá tàró.
+44023026	«Ĩnɛ́n Koloode Liziasi á wee tɛ̀ɛní ũnɛ́n Felikisi na lé o kuvɛɛnɛɛre yi.
+44023027	Ɓa *zúifùwa lá wìira a nìi na kà, á lá wi ɓa ɓúe o. Ká ĩ zũna mu le o bìo sã̀ ho *Oroomu yi, á ĩnɛ́n dásíwá á kã̀nía wo.
+44023028	Ĩ wi à ĩ zũń bìo nɔn ɓa zúifùwa wee koonínáa wo yi, lé bṹn á ĩ ɓuan wo vannáa ɓarɛ́n làndá tũ̀iá fɛɛrowà cɔ̃́n. 
+44023029	Á ĩ zũna le lé ɓarɛ́n kùrú làndá bìo á nɔn ɓa wee koonínáa wo yi, ká nùpue màhã́ yí dà máa bío le o wó khon ó o ko ò o ɓúe, tàá ò o dé ho kàsó yi. 
+44023030	Bṹn mɔ́n, á ɓa ɲà ĩ zeǹ wán le ɓa zúifùwa wee lè o wán, lé bṹn nɔn á ĩ dɛ̀ɛnía le ɓa ɓua a varáa ũ cɔ̃́n, à ĩ mún le bìa wee kooní a yi à ve o ũ cɔ̃́n.»
+44028028	Àwa, á mi wã́a zũń mu. Le Dónbeenì wó á ho fenló bíonì mu á à bue á à na bìa yínɔń zúifùwa yi. Ɓàn ǹ tà á à ɲí le.» 
+44028030	Zĩi ɓúi na ó o Poole wee da yi ká a sàání, lé dén ó o kará yi lúlúio bìo ɲun. Bìa wi ɓa mi a wán ɓúenɓúen wee ɓuee yí o bĩ́n.
+44028031	O wee bue le Dónbeenì bɛ́ɛnì bìo, á wee kàrán o Yeesu Krista bìo lè ɓa nùpua ká a ponì sɛ́ra, á bìo ɓúi yí máa hè.
+45003005	Ká bìo warɛ́n wee wé à mu yí térénna lé bṹn wó á le Dónbeenì térénló bìo wíokaa zũnanáa, se ĩ wã́a dà à bío bìo kà á à héha lè ɓa nùpua leékaró: Hen ká le Dónbeenì wee beé wa lò bìo ɓúi dã́ní yi, bṹn so wee zéení le le yí térénna le? 
+45003006	Ɓùeé dɛ́! Bṹn lé ɓa nùpua leékaró. Lé bìo ká le Dónbeenì yí térénna, á le è cítí ho dĩ́míɲá nùpua kaka?
+45010020	Le *Dónbeenì ɲi-cúa fɛɛro Ezayii yàá henía mí sĩi ò o bía bìo kà: «Bìa lá yí máa cà mi á yú mi. Bìa lá yí máa fìo dɛ̀ɛ ĩ cɔ̃́n á ĩ zéenía lè ĩten.»
+45010021	Ká a Isirayɛɛle nìpomu dã́ní yi, á le Dónbeenì ɲi-cúa fɛɛro Ezayii pá bĩnía le le Dónbeenì bía bìo kà: «Làa wizooní ɓúenɓúen ká ĩ wee dá ĩ níi ve o Isirayɛɛle nìpomu na yí máa bè ĩ bíonì yi, à ɓa kã́a.»
+45011009	O *Daviide mún bía bìo kà: «Le ɓa bè-dínii wé lòn dádá, lòn kɔ̃hṹ na ɓa à tè yi, à bìo ko làa ba à sá ɓa yi.
+45011036	Lé bìo mu bìo ɓúenɓúen wee lé o cɔ̃́n. Lé orɛ́n pànká yi á mu ɓúenɓúen wiráa, á bìo sã̀ a yi. Le ho cùkú bìo sĩ̀ a yi fɛ́ɛɛ. *Amiina!
+45014012	Làa bṹn síi, á bìo wa nì-kéní kéní wó á wa ko wa zéení na le Dónbeenì yi.
+45015010	Mu mún túara: «Sìíwà nùpua, mi páaní zã̀maka lè le Dónbeenì nìpomu.»
+45015011	Mu mún bĩnía túara: «Dĩ́míɲá kãna ɓúenɓúen nùpua, mi khòoní a Ɲúhṹso, sìíwà ɓúenɓúen nùpua, mi zéení a beemu.»
+45015012	Le *Dónbeenì ɲi-cúa fɛɛro *Ezayii mún bía bìo kà: «Nùpue ɓúi á à lé o Zesee zĩ-ɲúhṹ nùpua tĩ́ahṹ á à dí hã sìíwà nìpomu yahó, á mu nìpomu mu mún ǹ dé mí sĩi wo yi.»
+45015013	Le le Dónbeenì na wee wé à mi dé mí sĩa lòoní bìo le dó mí ɲii le mí ì wé, à wé à mi kɛń ho hɛ́ɛrà lè hã zã̀makaa na ɲii mía yi mi sĩadéró le yi bìo yi. Lé bṹn ǹ na ká le Dónbeenì mu Hácírí pànká yi, á mi ì dàń ǹ dé mí sĩa làa sòobɛ́ɛ á à lòoní bìo le dó mí ɲii le mí ì wé.
+46001020	Ká mu wó kà síi, á lée webio á mu bè-zũńminì ɓànsowà, làa bìa zũ hã làndáwá, lè ho dĩ́míɲá na kà bín-zũńlowà wã́a dà a bío? Le Dónbeenì zéenía mu le ho dĩ́míɲá bè-zũńminì lée bɔ̃́nbúmu. 
+46001021	Ho dĩ́míɲá nùpua lè mí bè-zũńminì hácírí á yí dàńna yí zũna le Dónbeenì le bè-zũńminì wárá na á le wee wé yi. Lé bṹn nɔn á warɛ́n bíoní na wa zéenía na ka lòn bɔ̃́nbúmu bìo, á le Dónbeenì dĩ̀n wán á kã̀níanáa bìa tà le yi. 
+46001022	Ɓa *zúifùwa wi à ɓa mi mu yéréké bìowa na wee zéení le Dónbeenì pànká. À bìa yínɔń ɓa zúifùwa bán ɓɛ̀n lé mu bè-zũńminì á ɓa wee cà.
+46001023	Ɛ̀ɛ ká warɛ́n bán lé o Krista na ɓa ɓúaa ho kùrùwá wán bìo á wa wee bue. Bṹn lé bìo wee ɓóoní ɓa zúifùwa yi, á bìa ɓɛ̀n yínɔń ɓa zúifùwa cɔ̃́n, á mu lé mu bɔ̃́nbúmu.
+46001024	Ɛ̀ɛ ká bán na le Dónbeenì hueekaa cɔ̃́n, à ɓa wé zúifùwa tàá ɓa yí wé zúifùwa, bán zũ le o Krista wee zéení le Dónbeenì pànká lè le bè-zũńminì. 
+46001025	Mu bon. Le Dónbeenì bìo na ɓa nùpua le mu lé mu bɔ̃́nbúmu, bṹn dà ɓarɛ́n bè-zũńminì wán. Á bìo ɓa nùpua le mu lé mu yídàmu le Dónbeenì cɔ̃́n, bṹn dà ɓa nùpua pànká wán.
+46002010	Bṹn bìo so á le Dónbeenì zéenía lè warɛ́n lè mí Hácírí. Mu bon. Le Dónbeenì Hácírí wee mi mu bìo ɓúenɓúen sese á zũń, hàrí le Dónbeenì mí bɛɛre bìo na khĩína zoo sà yi.
+46002011	O nùpue hácírí mí dòn lé dìo zũ hã yilera na wi o yi. Lé làa bṹn síi á le Dónbeenì Hácírí mí dòn lé dìo ɓɛ̀n mún zũ le Dónbeenì yilera na wi le yi.
+46002012	Le hácírí na warɛ́n yú á yínɔń ho dĩ́míɲá na kà hácírí, ká dìo wa yú lé le Dónbeenì Hácírí. Le Dónbeenì dó mí Hácírí mu wɛn, à wa dàń zũńnáa mu sãamu na le wó làa wɛn.
+46002013	Warɛ́n yí máa bío mu sãamu mu bìo yi lè ho dĩ́míɲá bè-zũńminì kàránló na wa yú. Ɓùeé. Wa wee bío mu sãamu mu bìo yi lè le Dónbeenì Hácírí bíoní na le wee zéení làa wɛn. Lé kà síi á wa wee zéenínáa le Dónbeenì bìo yara lè le Dónbeenì Hácírí mu bíoní. 
+46002014	O nùpue na bò mí kùrú hácírí mɔ́n, wón nùpue so yí dà máa tà bìo wee lé le Dónbeenì Hácírí cɔ̃́n. Mu ka lòn bɔ̃́nbúmu ɓànso cɔ̃́n. O yí dà máa zũń mu kúará. Lé bìo le Dónbeenì Hácírí mí dòn lé dìo wee na ò o nùpue dàń cikon mu bìo. 
+46002015	Ká a nùpue na le Dónbeenì Hácírí wi yi, wón wee dàń cikon mu bìo ɓúenɓúen, ká nì-veere yí dà máa cikon bìo wi orɛ́n yi.
+46002016	Làa bìo mu túararáa le Dónbeenì bíonì vũahṹ yi kà: «Lée wée dà à zũń o Ɲúhṹso yilera? Lée wée dà le zéeníi á à na a yi?» Ɛ̀ɛ ká warɛ́n na le Dónbeenì Hácírí wi yi, bán yilera là a *Krista yilera lée dà-kéní.
+46011001	Bìo á ĩ wee wé á mi wé bè yi, làa bìo á ĩnɛ́n wee bèráa bìo ó o Krista wó yi.
+46014022	Lé bṹn á hã bíoní na á nùpue yí zũ hɔ̃́n bíoró wee zéení làa bìa yínɔń ɓa kèrètĩ́ɛwa le ɓa níi mía ɓa kèrètĩ́ɛwa bìo yi. Bṹn bè-zéenínii so yahó yí sã́ ɓa kèrètĩ́ɛwa. Ká le Dónbeenì ɲi-cúa hɔ̃́n fɛɛró ɓɛ̀n wee zéení lè ɓa kèrètĩ́ɛwa le le Dónbeenì wi làa ba. Bṹn yahó yí sã́ bìa yínɔń ɓa kèrètĩ́ɛwa. 
+46014023	Mi loń. Ká ɓa kèrètĩ́ɛwa kuure nùpua ɓúenɓúen lá kúaa mín wán síi, á ɓa ɓúenɓúen wee bío hã bíoní na á nùpue yí zũ, ó o ɓúi na dĩǹ yí zũ ɓa kèrètĩ́ɛwa bìo yara, tàá o ɓúi na yínɔń o kèrètĩ́ɛ ɓueé dɔ̃n, á ɓa so máa bío le mi wee khée le? 
+46014024	Ɛ̀ɛ ká ɓa ɓúenɓúen wee fɛɛ le Dónbeenì ɲi-cúa, ó o ɓúi na yínɔń o kèrètĩ́ɛ, tàá o ɓúi na dĩǹ yí zũ ɓa kèrètĩ́ɛwa bìo yara ɓueé dɔ̃n, á ɓa so máa le mí yiwa, á máa zũń le mí wó khon bìo ɓa wee ɲí bìo yi le?
+46014025	Bìo wi ɓa yiwa na á nùpue yí zũ, á bìo ò zũń. Hón pã̀ahṹ so yi, ká ɓa màhã́ lií ɓúrá á à ɓùaaní le Dónbeenì ká ɓa à bío: «Tũ̀iá poni, le Dónbeenì ɓɛ̀ntĩ́n wi làa mia.»
+46015056	Mu húmú hĩnì na mu wee táaráa lé mu bè-kohó. Á bìo ɓɛ̀n wee na à mu bè-kohó yíráa ho pànká wa wán lé o *Mɔyiize làndá. 
+46015057	Ɛ̀ɛ ká wa wee dé le Dónbeenì bárákà, lerɛ́n na wó á wa dàńnáa mu húmú wa Ɲúhṹso Yeesu Krista pànká yi.
+47006017	Lé bṹn bìo yi ó o Ɲúhṹso bíaráa bìo kà: «Mi lé ɓa tĩ́ahṹ, mi yí páaní làa ba. Mi yí dã bìo na tun hùúu, á ĩnɛ́n á à tà mi bìo.
+49004009	Bìo ɓa wee bío le «o yòora», bṹn kúará lée webio? Bṹn wee zéení le sã́ni ò o yòo, ó o lion ho tá wán vó. 
+49004010	Ó orɛ́n mu na lion làa bṹn bìo, lé orɛ́n nì-kéní mu lé yìa pá bĩnía yòora ho wáayi ɲún-tĩ́ahṹ á tiíraráa mu bìo ɓúenɓúen ɲii. 
+49004011	Lé orɛ́n hɔ̃n ɓa nùpua lè mu bìowa wéró pànká: Ɓa ɓúi ó o wó lè mí tonkarowà, ɓa ɓúi ó o wó á ɓa wee fɛɛ le Dónbeenì ɲi-cúa, ɓa ɓúi ó o wó á ɓa wee bue le Dónbeenì bín-tente. Ɓa ɓúi ó o wó á ɓa wee pa le Dónbeenì nìpomu bìo à kàrán ɓa. 
+49004012	O nɔn bṹn bìowa so wéró pànká à bán nùpua so wé dàń séení bìa bìo sã̀ le Dónbeenì yi à ɓa dàń sá nanáa le yi, bèra a na à ɓa kèrètĩ́ɛwa ɓúenɓúen kuure na lé o *Krista sãnía à pànká wé dé wán. 
+49004013	Lé bṹn ǹ na á wa sĩadéró le Dónbeenì Za yi là a zũńló á à wé wɛn lè le dà-kéní, à wé ɓa kèrètĩ́ɛwa na dɔ̃n vó, là a Krista na á bìo ɓúi yí fòora yi bìo síi. 
+49004014	Ká mu wó kà, á wa wã́a máa bĩní máa kɛń lòn háyónzàwa na khàró yí do, lòn woohṹ na ho pinpiró lè mu ɲumu yànbónló wee hɛ́ɛ yèrèmáka. Nì-khàwa máa bĩní máa vĩ́iní wɛn máa yí lè mí kàránló.
+49004015	Ká wa wee mì ho tũ̀iá na mín yi bìo wa wa mín bìo yi, á wa kɛńló là a Krista bìo síi wé è dé wán ká mu wà, wón na lé ho ɲúhṹ.
+49004016	Lé orɛ́n wee wé ò o nìpomu wé le dà-kéní, làa bìo ó o nùpue sãnía bìo cɛɛ́kaaráa mín yi wó a nùpue bìo síi. Ká a nùpue sãnía bìowa lè mí dà-kéní kéní wee sá mí tonló làa bìo mu koráa, à hã dã wé se. Lé kà síi ɓa kèrètĩ́ɛwa ɓúenɓúen kuure bìo karáa. Ká ɓa lè mí nì-kéní kéní wa mín, á wee sá mí tonni làa bìo mu koráa, à le kuure mu dã wé se.
+58001006	Ká pã̀ahṹ na le Dónbeenì tonkaa mí Za kĩ́nleso ho dĩ́míɲá yi, á le bía bìo kà: «Ho wáayi tonkarowà ɓúenɓúen ko ɓa wé ɓùaaní a.»
+58001007	À le ɓɛ̀n bía ho wáayi tonkarowà dã́ní yi le: «Le Dónbeenì wee wé à le tonkarowà kɛń lòn pinpiró, le wee wé à le ton-sáwá mu kɛń lòn dɔ̃hṹ dɛnní.»
+58001008	Ká le màhã́ bía bìo kà mí Za dã́ní yi: «Ũnɛ́n Dónbeenì, ũ bɛ́ɛnì díró ɲii máa fĩ̀ máa mi. Fo ò pa ũ nìpomu bìo lè ho térénló.
+58001010	Le pá bĩnía bía bìo kà mí Za mu dã́ní yi: «Mu ɲúhṹ ɓúakáníi ká bìo ɓúi dĩǹ yí léra, á ũnɛ́n Ɲúhṹso lé fo léra ho tá, á lé fo mún léra ho wáayi.
+58001013	Le Dónbeenì dĩǹ yí bía làa wáayi tonkaro ɓúi le:«Ɓuee kɛɛní ĩ nín-tĩánì, fúaa ká ĩ ɓúrá ũ zúkúsa ũ tá á ũ bò ũ zení wán.»
+58002009	Ɛ̀ɛ ká bìo kà lé bìo wa zũ: Le Dónbeenì wó á ho wáayi tonkarowà bìo ɲúhṹ wi á po a Yeesu ho pɔ̃̀n-za dɛ̀ɛ yi. Á hã laà na kà wán á le bĩnía wó ó o yú ho cùkú lè le yèni le lònbee na ó o lá á húrunnáa bìo yi. Le wó mu kà síi bèra a na à le sãamu pànká yi, ò o húmú bìo séení ɓa nùpua ɓúenɓúen. 
+58002010	Mu bon, mu se à le Dónbeenì na léra mu bìo ɓúenɓúen, dìo ɓuan mu ɓúenɓúen dĩ̀nía à wé ò o Yeesu kã́a le lònbee yi bèra a na ò o bìo ɲii sí làa bìo mu lá ko mu wéráa. Le wó kà síi bèra a na à ɓa nùpua cɛ̀rɛ̀ɛ páaní le cùkú yi làa de. Lé o Yeesu wó á ɓa nùpua cɛ̀rɛ̀ɛ wé è yíráa ho kã̀níló. 
+58002011	O Yeesu lé yìa wee wé à ɓa nùpua ce le Dónbeenì yahó. Á bìa ó o wee wé à ɓa ce bán ɓúenɓúen làa wo wã́a lée Maá nì-kéní zàwa. Lé bṹn te bìo ó o Yeesu wee veráa ɓa lè mín zàwa lè mín hĩ́nni ká mu nìyio mía wo yi. 
+58002012	Bìo kà lé bìo ó o bía: «Dónbeenì, ĩ ì zéení ũ bìo lè wàn zàwa lè wàn hĩ́nni. Ĩ ì khòoní fo ũ nìpomu ɓúenɓúen tĩ́ahṹ.»
+58002013	O mún bía le: «Ĩnɛ́n á à dé ĩ sĩi le Dónbeenì yi.» O pá bĩnía bía le: «Lé wɛn na páanía wi, ĩnɛ́n lè ɓa zàwa na fo nɔn miì.»
+58004004	Le Dónbeenì bíonì vũahṹ ɓúi yi á bìo kà lé bìo bía hã wizooní bìo hèɲun níi dã́ní yi: «Bìo le Dónbeenì sá mí tonló ɓúenɓúen vó, á le vũńna hã wizooní bìo hèɲun níi zoǹ.»
+58004005	Á bìo kà pá bĩnía bía: «Ho lahó na á ĩ wíokaa à ɓa vũń yi á ɓa wã́a máa yí hùúu.»
+58005006	Le Dónbeenì pá bĩnía bía bìo kà: «Fo lé o yankaro fɛ́ɛɛ là a Mɛlɛkisedɛɛki bìo síi.»
+58007022	Lé bṹn nɔn á le páaníi na ó o Yeesu wó á le wi warɛ́n lè le Dónbeenì pã̀ahṹ á sṹaaní dìo lè ho yahó.
+58008013	Bìo le Dónbeenì wee bío le páaníi fĩnle bìo, bṹn wee zéení le le càtío le páaníi na bò lè ho yahó làa dà-kĩ́nle. À bìo lée bìo ɓɛ̀n hĩ́a kĩ́na, se mu ká ho vĩ́ló.
+58010008	Bìo kà lé bìo ó o Krista bía lè ho yahó: «Fo yí tà hã muiní lè mu bè-hãnii bìo. Fo mún yí tà ɓa bùaa na ɓa wee fũ̀aa à cĩ̀í le muinì yɛɛníi dɛ̀ɛ wán, lè le muinì na ɓa wee ya mu bè-kora sɛ́ndíaró bìo yi bìo. Bṹn ɓúenɓúen yí máa wa ũ sĩi.» À hã muiní mu ɲɔǹ wee ya à héha làa bìo ho *làndá bòráa mu. 
+58010009	O Krista tĩ́n bĩnía bía: «Lé mi na wà à ɓuen ɓueé wé ũ sĩi bìo.» O Krista ɓó ho hàánì muiní ɲúhṹ ò orɛ́n mí bɛɛre wó míten là a muinì yìa dó hã lahó yi. 
+58010010	O Yeesu Krista wó le Dónbeenì sĩi bìo. Bìo ó o Krista nɔn míten á húrun le cúekúee á mu vóráa, lé bṹn wó á wa bìo sã̀ le Dónbeenì yi. 
+58010011	Ɓa yankarowà ɓúenɓúen wee dĩ̀n ya hã muiní dà-kéní kéní mu làa wizooní, à hã ɲɔǹ yí dà máa sɛ́n bè-kora máa día hùúu.
+58010012	Ɛ̀ɛ ká a Krista yan mu bè-kora sɛ́ndíaró muinì le cúekúee, ò o yòó kará le Dónbeenì nín-tĩánì fɛ́ɛɛ, 
+58010013	á pan bìo le Dónbeenì á à dé o zúkúsa o tá ó ò bè mí zení wán. 
+58010014	Le muinì dà-kéní mí dòn na ó o Yeesu mu yan lé dén wó á bìa bìo sã̀ le Dónbeenì yi térénna le yahó. 
+58010015	Lé bṹn le Dónbeenì Hácírí mún bía. Le bía bìo kà lè ho yahó:
+58010018	Hen ká mu bè-kora hĩ́a sɛ́ra día, se muinì yaró wã́a mía bṹn bè-kora so sɛ́ndíaró bìo yi.
+58010039	Ɛ̀ɛ ká bán na wee lé lè mí mɔ́n à vĩ́ lɛ́n á warɛ́n mía tĩ́ahṹ. Warɛ́n bán dó wa sĩa le Dónbeenì yi, á wi ho kã̀níló wɔ̃hṹ wán.
+58012007	Á lé mi béró bìo yi nɔn mi lò wee beráa. Le Dónbeenì ɓuan mia lè mí kùrú zàwa bìo síi. Lé o za yɛ́n á ɓàn maá máa wé bé?
+58012008	Ká le Dónbeenì yí máa bé mia lè mí zàwa na ká ɓúenɓúen bìo, se mi lé le zĩi zàwa, ká mi yínɔń le zàwa binbirí. 
+58012009	Wa maáwà fù wee bé wɛn á wa mún fù wee kɔ̃̀nbi ɓa. Á mu so yí sṹaaní à wa wé kɔ̃̀nbi o Maá Dónbeenì poń bṹn bèra a na wa yí le mukãnì le?
+58012010	Wa maáwà wee bé wɛn ho pɔ̃̀n-za yi héha lè ɓa kùrú yilera. Ká le Dónbeenì dén wee bé wɛn bèra a na wa bìo wé se. Le wi à wa ce làa bìo lerɛ́n wee ceráa. 
+58012011	Wa béró pã̀ahṹ á mu máa wé wé sĩ wɛn, mu wee wé beé wa lò. Ɛ̀ɛ ká mu véeníi á bìa bó bán lé bìa wee wé ɓa nùpua na térénna, bán wee wé kɛń ho hɛ́ɛrà yi mu bìo yi.
+66004009	Hen ká ɓa bùaa mu sansan wee bío yìa kará mu bá-zàmu kanmúiní wán beemu bìo á wee khòoní a, á wee dé o bárákà, wón na wi fɛ́ɛɛ hã lúlúio na ɲii mía yi, 
+66004010	à ɓa nì-kĩ́a ɓóní làa nùwã náa lii ɓúrá yìa kará mu bá-zàmu kanmúiní wán na wi fɛ́ɛɛ hã lúlúio na ɲii mía yahó à ɓùaaní a. Ɓa wee wé hɛ́n mí sã́nú khɔ̃̀nlúaa lii kúia mu bá-zàmu kanmúiní yahó ká ɓa à bío bìo kà:
+66005013	Á mu bè-lénnia ɓúenɓúen, bìo wi ho wáayi làa bìo wi ho tá yi, bìo wi ho tá fĩ̀kɔ̃hṹ, làa bìo wi mu ɲumu yi, mu ɓúenɓúen na wi hã kùaráa ɓúenɓúen yi, á ĩ ɲá sã à mu wee bío bìo kà: «Le khòoníi, lè le kɔ̃̀nbii, lè ho cùkú, lè ho pànká á bìo sã̀ yìa kará mu bá-zàmu kanmúiní wán, là a Pioza yi fɛ́ɛɛ hã lúlúio na ɲii mía yi.»
+66005014	Á ɓa bùaa bùaa náa le: Amiina! À ɓa nì-kĩ́a ɓóní làa nùwã náa ɓɛ̀n lií ɓúrá à ɓa ɓùaanía ɓa.
+66007013	Á ɓa nì-kĩ́a nì-kéní wã́a tùara miì: «Ɓa sĩ̀-poa ɓànsowà mu á fo zũ le? Ɓa wee lé wen?»
+66007014	Á ĩ bía nɔn wo yi: «Wàn maá, ũnɛ́n lé fo zũ ɓa.» Ó o nì-kĩ́nle mu bĩnía bía: «Bìa kà lé bìa kã́a le lònbe-be-beenì yi. Ɓa sɛɛra mí sĩ̀-zĩ́nia o Pioza cãni yi á hã wee ce pṹiapṹia. 
+66007015	Lé bṹn te bìo ɓa dĩ̀nnáa le Dónbeenì bá-zàmu kanmúiní yahó. Ɓa wee sá na le Dónbeenì yi le wisoni lè mí tĩ́nàahṹ fɛ́ɛɛ le zĩ-beenì na bìo sã̀ le yi yi. Á le Dónbeenì, dìo kará mu bá-zàmu kanmúiní wán á à kɛń làa ba, á à pa ɓa bìo.
+66007017	Lé bìo ó o Pioza na wi mu bá-zàmu kanmúiní sĩi yi á à pa ɓa bìo làa bìo ó o pi-pa wee wé paráa mí pia bìo. O wé è dí ɓa yahó á à varáa le ɲun-dã́ní yi, dìo wee na le mukãnì binbirì, á le Dónbeenì á à sùuka ɓa yèn-caa ɓúenɓúen.»
+66011016	Á ɓa nì-kĩ́a ɓóní làa nùwã náa na kará mí bá-zàmu kanmúiní wán le Dónbeenì yahó á lií ɓúrá à ɓa wee ɓùaaní le Dónbeenì
+66011017	ká ɓa à bío: «Ɲúhṹso Dónbeenì, ũnɛ́n na dà mu bìo ɓúenɓúen, na wi fɛ́ɛɛ á wi ká bìo ɓúi dĩǹ yí léra, wa wee dé ũ bárákà, lé bìo á ũ pànká na ɲii mía lé hón fo lá lè ũ bɛ́ɛnì.
+66011019	Bìo ɓa bía vó, á le *Dónbeenì zĩ-beenì na wi ho wáayi ɲii hɛ́ra. Á le páaníi ɓonkonì día wee mi. Á ho viohó ɲuiíkaa á nàmakaa. Ho tá dèkío lè mí pànká á ho viohó mànàayio tò cɛ̀rɛ̀ɛ.
+66019003	Mu tãmu pá bĩnía bía: «Mi khòoní le Dónbeenì!Ho ló-beenì mu cĩ̀ló dɔ̃hṹ máa hí máa mi.Ho yiìní á à lé fɛ́ɛɛ hã lúlúio na ɲii mía yi!»
+66019004	Á ɓa nì-kĩ́a ɓóní làa nùwã náa, lè ɓa bùaa bùaa náa á lií ɓúrá le Dónbeenì na kará mí bá-zàmu kanmúiní wán yahó, à ɓa wee bío: «*Amiina! Mi khòoní le Dónbeenì!»
+66019006	Á ĩ bĩnía ɲá tãmu ɓúi sã ho wáayi lòn zã̀amá-kúii tãmu. Mu sã ɲá lòn ɲun-beenì vã̀náló, mu sã ɲá lòn viohó na nà lè mí pànká bìo síi, á bía bìo kà: «Mi khòoní le Dónbeenì lé bìo á wa Ɲúhṹso Dónbeenì na dà mu bìo ɓúenɓúen á wi mí bɛ́ɛnì yi.
+66021020	Le hònú níi donkhueéra làa dìo ɓa le saaduana. Le hèzĩ̀n níi donkhueéra làa dìo ɓa le koronaliina. Le hèɲun níi donkhueéra làa dìo ɓa le korisoliite. Le hètĩn níi donkhueéra làa dìo ɓa le beeriile. Le dènú níi donkhueéra làa dìo ɓa le topaaze. Le pírú níi donkhueéra làa dìo ɓa le korizoparaze. Le pírú dòn níi donkhueéra làa dìo ɓa le turikuaaze. Le pírú ɲun níi donkhueéra làa dìo ɓa le amitisiite.
+66021021	Hã zũaɲiní pírú ɲun na lénkaa ho lóhó mu dándá yi wonna lè mí dà-kéní kéní á wó lè hã hue-poa ɓúi sìí bè-sení dà-kéní kéní na yàwá here. Ho lóhó mu wã-beenì hón wó lè ho sã́nú, á wee ce wéréwéré lòn mákã́ dṹuhṹ.
