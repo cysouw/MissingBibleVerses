@@ -1,4 +1,4 @@
-40013005	#Die Buchstaben dieser Sprache können nicht dargestellt werden.
+40013005
 40013006
 40014003
 40014004

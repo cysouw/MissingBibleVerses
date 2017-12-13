@@ -8,9 +8,9 @@
 01010011	Keko beli, Nimolot e Babilonya aneng fian koleweko, Asilia aneng fian kalo unesomi, teleko, ka kel e iti abiw mutuk fian mak duku tem duku tem gese kale. Abiw mutuk fian biim wiin e “Ninibe, Elebototil, Kala,
 01010012	Elesen.”, yangse kale. Ninibe abiw mutuk fian koleweko, Kala abiw mutuk fian tele tele biim mutuk dim e e Elesen abiw mutuk fian be gese kale.
 01010013	Isiw em muluwel im wiin e “Ilidia, Anam, Elekaw, Nawtu, 
-01010014	 Fatulus, Kasulu, Kilit.”, yangse kale. Kilit e Filistia kunum waneng biim kunum mongom kese kale.
+01010014	Fatulus, Kasulu, Kilit.”, yangse kale. Kilit e Filistia kunum waneng biim kunum mongom kese kale.
 01010015	Kenan em muluwel i wiin e kanekote: Emisik min em wiin e Saidon te. Emteben min em wiin e Kit te.
-01010016	 Muluwel makso im wiin e Yebus so, Amol so, Gilgas so, 
+01010016	Muluwel makso im wiin e Yebus so, Amol so, Gilgas so, 
 01010017	Kibi so, Alka so, Sini so,
 01010018	Albat so, Semal so, Kamat so kesiliw kale. Yangmeli bi kawtiw banso biim kunum mongom kesomi, aneng aneng bayemeleko, ka tein ka tein kesiliw kale.
 01010019	Keko beli, Kenan em muluwel dow im abiw mutuk fian duku tem duku tem kesiliw kasike, im aneng fian beem awet e kanekote: Saidon abiw mutuk fian koleweko, falal falal uneko, Galal abiw mutuk fian uneko, Gasa abiw mutuk teleko, Sodom so, Gomola so, abiw mutuk fian alew koleweko, iti falal falal uneko, Adama so, Seboim so abiw mutuk fian alew beelo uneko, Elesa abiw mutuk fian teleko, ka kel ayet kese kale.
@@ -24,21 +24,21 @@
 01010029	Ofil, Kabila, Yobaw te. Aul muluwel banban bi Yoktan em muluwel ite.
 01010030	Ikalem aneng fian e Mesa abiw mutuk fian kalote uneko, Sefal abiw mutuk fian teleko, ataan tele dulum beem amgu mit mewso kese kale.
 01010031	Keko beli, Sem em muluwel dow ikalem angin amen, ikalem weng amen, ikalem abiw aneng amen amen keko, kesiliw kale.
-01046015	 Muliel bi Sekow em sun waneng Elea um Mesofotemia aneng fian ka kel bomi, dukusu em muluwel ite kale. Elea u iti aul mak dukuko, buum wiin e “Daina” wangsu kale. Kunum yenggdel biim dow e 33 kel kesiliw kale.
+01046015	Muliel bi Sekow em sun waneng Elea um Mesofotemia aneng fian ka kel bomi, dukusu em muluwel ite kale. Elea u iti aul mak dukuko, buum wiin e “Daina” wangsu kale. Kunum yenggdel biim dow e 33 kel kesiliw kale.
 01046018	Muliel bi Sekow em afam waneng Silfa um muluwel ite kale. Sua e, fik Alaban e weng afak waneng bu akalem neng Elea ulo duumse kale. Muluwel biim dow e mali em kalun kel kesiliw kale.
 01046022	Muliel bi Sekow em kalel Elesel um muluwel dow ite kale. Kunum yengdel biim dow e mutum kel kesiliw kale.
 01046025	Muliel bi Sekow em afam waneng Bilka um dukusu aul ite kale. Kunum yengdel biim dow e ben kel kesiliw kale.
 08004019	Keselon e Alam em alew te. Alam e Aminadaw em alew te.
-08004020	 Aminadaw e Nakson em alew te. Nakson e Salmon em alew te.
+08004020	Aminadaw e Nakson em alew te. Nakson e Salmon em alew te.
 08004021	Salmon e Boas em alew te. Boas e Obet em alew te.
-08004022	 Obet e Yesi em alew te. Yesi e Debit em alew kese kale.
-42006023	 Nimtew angom? Sua kel akate, ikalem aliwol fasel kumel ikati Sunbin-Got em bontem dim bakamin kunum ilo yulo kaneyemkabiliw kukuw emdiw keyemaliw kasike. Feinka! Abiil tikin katiw kel, yu yan fian mak kulukoliw kasike, kakateko, wimoliwka!
+08004022	Obet e Yesi em alew te. Yesi e Debit em alew kese kale.
+42006023	Nimtew angom? Sua kel akate, ikalem aliwol fasel kumel ikati Sunbin-Got em bontem dim bakamin kunum ilo yulo kaneyemkabiliw kukuw emdiw keyemaliw kasike. Feinka! Abiil tikin katiw kel, yu yan fian mak kulukoliw kasike, kakateko, wimoliwka!
 43016009	Ibolow sili sili nam kukuw beem mongom e kanekote: Kawtiw i nelo ‘Fein!’, nanginba kekabiliw kasike.
-43016010	 Kiol kuw kukuw beem mongom e kanekote: Ne fein Aatim em fukun unii, yu nelo iti nam netemiw kasike.
+43016010	Kiol kuw kukuw beem mongom e kanekote: Ne fein Aatim em fukun unii, yu nelo iti nam netemiw kasike.
 43016011	Geeyemin kukuw beem mongom e kanekote: Sunbin-Got e kawin kaleem kamokim Seten-Ataanim elo diweko, geelewse kasike.
-44015029	Mak e, kawtiw i samal mak kuluko, dasuw-got im aik ayem weing dako, fuko, ilo duyemiw tewe, i kanelom wanokoliw te!Mak e, i kanelom osow kemin kukuw kemokoliw te!Mak e, sok giko, aliw samal beem kaim e buselinba kele kasike, i kanelom wanokoliw te!Fefe e, i kanelom samal im kaim be wanokoliw te!Kaneko, sen banim so kukuw be gelewemiw tewe, yu Sunbin-Got em kiin dim e fein sen banim so kawtiw kebokoliw te. Bete kuw.Yukalo!
+44015029	Mak e, kawtiw i samal mak kuluko, dasuw-got im aik ayem weing dako, fuko, ilo duyemiw tewe, i kanelom wanokoliw te! Mak e, i kanelom osow kemin kukuw kemokoliw te! Mak e, sok giko, aliw samal beem kaim e buselinba kele kasike, i kanelom wanokoliw te! Fefe e, i kanelom samal im kaim be wanokoliw te! Kaneko, sen banim so kukuw be gelewemiw tewe, yu Sunbin-Got em kiin dim e fein sen banim so kawtiw kebokoliw te. Bete kuw. Yukalo!
 44019007	
 45012020	Angeko, iti bokolomele:“Yulo maka keyemkabiliw kawtiw i yom am teleko, wanin tew so, ok tew so keliw tewe,yu ibolow folok keyemeko, yemen so, ok so, yemen kemoliwka!Yemeniwi, i ikalem yulo kaneyemsiliw kukuw be ibolow fukuneko, inkal fian kulokoliw kasike.”,angse kale.
-47005006	Feinka! Num kawin dim kale buluw ding dim bakate, nu kaneloke eisneng ateminba kebuluw kate, nu Sunbin-Got elo “Fein!”, dangeko, kakabuluw te. Kasike kame, nu diwkuw diwkuw melmel senko, kal keluwete: Kawin dim kaleem kun so kal so buluw ding dim bakate, nu Kamok Fian eso bin e singam kebuluw kate, nu ibolow kakil danong kebomi, kal anggil kale koleweko, kikis kal kuluko, diwkuw diwkuw Kamok Fian mewso bomi, ibolow nanbow bokoluw dim kel bokoluw te.#Satz6-8 sind in einem Satz verbunden.
+47005006	
 52005022	Kate, wa kele tewe, yu kanelom beem mit mewso unemokoliw te!
 66002027	Keyemii, i ibolow kaisuw nam kawtiw kebomi, wiin so duyemkabe ain kaung be kuluko, mali wa kebiliw kawtiw ilo ok sen kawtol tabol tabol dukulin tew keyemokoliw te.
