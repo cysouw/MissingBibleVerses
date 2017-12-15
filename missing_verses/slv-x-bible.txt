@@ -1,156 +1,156 @@
-40001024
-40001025
-40003004
-40003005
-40003006
-40003007
-40003008
-40003009
-40003010
-40003011
-40003012
-40004005
-40004006
-40004007
-40004008
-40004009
-40004010
-40004011
-40010037
-40010038
-40010039
-40011024
-40013016
-40013017
-40015010
-40015011
-40015012
-40015013
-40015014
-40015015
-40015016
-40015017
-40015018
-40015019
-40015020
-40021006
-40021007
-40021008
-40021009
-40021010
-40021011
-40021043
-40022045
-40022046
-40024030
-40024031
-40026032
-40026033
-40026034
-40026035
-40026065
-40026066
-40026067
-40026068
-41007008
-41007009
-41007010
-41007011
-41007012
-41007013
-41011011
-41011018
-41011019
-41012012
-41012037
-41014028
-41014029
-41014030
-41014031
-41014063
-41014064
-41014065
-42002033
-42002034
-42002035
-42003007
-42003008
-42003009
-42003010
-42003011
-42003012
-42003013
-42003014
-42004011
-42004012
-42004013
-42004020
-42004021
-42004022
-42004023
-42004024
-42004025
-42004026
-42004027
-42004028
-42004029
-42004030
-42006022
-42006023
-42006026
-42007028
-42007029
-42007030
-42007033
-42007034
-42007035
-42020018
-42020019
-42020044
-42023031
-43001024
-43001025
-43001026
-43001027
-43001028
-43001031
-43001032
-43001033
-43001034
-43003004
-43003005
-43003009
-43003010
-43003028
-43004011
-43004012
-43004013
-43004015
-43004025
-43004026
-43006064
-43006065
-43007019
-43007020
-43007021
-43007022
-43007023
-43007024
-43007030
-43007031
-43007039
-43008013
-43008014
-43008019
-43008020
-43008022
-43008023
-43008025
-43008027
-43008028
-43008030
-43008033
-43008034
+40001024	Ko se je Jožef zbudil, je storil, kakor mu je naročil Gospodov angel. Vzel je svojo ženo k sebi.
+40001025	Čeprav se ji ni približal, je rodila sina; in dal mu je ime Jezus.
+40003004	Janez je nosil obleko iz kamelje dlake in usnjen pas okoli ledij. Hranil se je s kobilicami in z medom divjih čebel.
+40003005	Tedaj so prihajali k njemu ljudje iz Jeruzalema in vse Judeje in iz vse jórdanske doline.
+40003006	Dajali so se mu krstiti v reki Jórdan in se spovedovali svojih grehov.
+40003007	Ko je videl, da prihaja k njegovemu krstu precéj farizejev in saducejev, jim je rekel: »Gadja zalega! Kdo vam je zagotovil, da ubežite prihodnji sodbi?
+40003008	Obrodite vendar vreden sad spreobrnjenja.
+40003009	Ne govorite si: ‘Abrahama imamo za očeta,’ kajti povem vam, da more Bog iz teh kamnov Abrahamu obuditi otroke.
+40003010	Sekira je že nastavljena drevesom na korenino. Vsako drevo, ki ne rodi dobrega sadu, posekajo in vržejo v ogenj.
+40003011	Jaz vas krščujem z vodo, da bi se spreobrnili; toda on, ki pride za menoj, je močnejši od mene in jaz nisem vreden, da bi mu nosil sandale. On vas bo krstil v Svetem Duhu in ognju.
+40003012	Velnico ima v roki in počistil bo svoj skedenj. Svoje žito bo spravil v kaščo, pleve pa sežgal v ognju, ki nikoli ne ugasne.«
+40004005	Nato ga hudič vzame s seboj v sveto mesto in ga postavi vrh templja
+40004006	ter mu reče: »Če si Božji Sin, vrzi se dol, kajti pisano je: ‘Svojim angelom bo zate zapovedal in na rokah te bodo nosili, da z nogo ne zadeneš ob kamen.’«
+40004007	Jezus mu je odgovoril: »Pisano je tudi: ‘Ne skušaj Gospoda, svojega Boga!’«
+40004008	Zopet ga hudič vzame s seboj na zelo visoko goro. Pokaže mu vsa kraljestva sveta in njihovo slavo
+40004009	ter mu reče: »Vse to ti bom dal, če predme padeš in me počastiš.«
+40004010	Tedaj mu Jezus reče: »Poberi se, satan, kajti pisano je: ‘Gospoda, svojega Boga, môli in samo njemu služi!’«
+40004011	Tedaj ga je hudič pustil in angeli so pristopili in mu stregli.
+40010037	Kdor ima očeta ali mater rajši kakor mene, ni mene vreden.
+40010038	Kdor ne sprejme svojega križa in ne hodi za menoj, ni mene vreden.
+40010039	Kdor najde svoje življenje, ga bo izgubil, in kdor izgubi svoje življenje zaradi mene, ga bo našel.«
+40011024	Toda povem vam: sódomski deželi bo na sodni dan laže kakor tebi.«
+40013016	Srečne pa vaše oči, ker vidijo, in vaša ušesa, ker slišijo!
+40013017	Zakaj resnično vam povem: veliko prerokov in pravičnih je želelo videti, kar gledate vi, pa niso videli; in slišati, kar poslušate vi, pa niso slišali.«
+40015010	Takrat je poklical k sebi množico in rekel: »Poslušajte in umejte!
+40015011	Človeka ne omadežuje to, kar gre v usta, ampak kar prihaja iz ust, to ga omadežuje.«
+40015012	Tedaj so prišli učenci in mu rekli: »Ali veš, da so se farizeji spotikali nad tvojimi besedami?«
+40015013	Odgovoril je: »Vsaka sadika, ki je ni vsadil moj nebeški Oče, bo izkoreninjena.
+40015014	Pustite jih! Slepi so in slepe vodijo. Če pa slepi vodi slepega, oba padeta v jamo.«
+40015015	K temu se je oglasil Peter in mu rekel: »Razlôži nam to priliko.«
+40015016	Rekel je: »Kaj tudi vi še vedno ne umevate?
+40015017	Ali ne razumete, da gre vse, kar prihaja v usta, v želodec in se izloča v blato?
+40015018	Kar pa prihaja iz ust, pride iz srca, in to omadežuje človeka.
+40015019	Iz srca namreč prihajajo hudobne misli, uboji, prešuštva, nečistovanja, tatvine, kriva pričevanja, kletvine.
+40015020	Iz srca namreč prihajajo hudobne misli, uboji, prešuštva, nečistovanja, tatvine, kriva pričevanja, kletvine.
+40021006	Učenca sta šla in storila, kakor jima je bil Jezus naročil.
+40021007	Pripeljala sta oslico in njenega mladiča, pogrnila nanju svoji suknji in Jezus je sédel gor.
+40021008	Zelo veliko ljudi je pogrinjalo svoje plašče na pot, drugi pa so lomili veje z dreves in jih stlali po poti.
+40021009	Množice, ki so šle pred njim in za njim, pa so vzklikale: » Hozána Davidovemu sinu! Blagoslovljen, ki prihaja v Gospodovem imenu! Hozána na višavah!«
+40021010	Ko je prišel v Jeruzalem, se je vse mesto zganilo in spraševalo: »Kdo je to?«
+40021011	Množice pa so odgovarjale: »To je prerok, Jezus iz Nazareta v Galileji.«
+40021043	Zato vam pravim: vzelo se vam bo božje kraljestvo in dalo ljudstvu, ki bo dajalo njegove sadove.«
+40022045	Če ga torej David imenuje Gospod, kako more biti njegov sin?«
+40022046	In nobeden mu ni mogel odgovoriti besede, tudi se ga ni upal od tistega dne kdo še kaj vprašati.
+40024030	Tedaj se bo prikazalo na nebu znamenje Sina človekovega in tolkli se bodo po prsih vsi rodovi na zemlji. Videli bodo Sina človekovega, kako prihaja na oblakih neba z veliko močjo in slavo.
+40024031	Poslal bo svoje angele ob mogočnem donenju trobente in zbrali bodo njegove izvoljene od štirih vetrov, od enega konca neba do drugega.«
+40026032	Ko bom pa vstal, pojdem pred vami v Galilejo.«
+40026033	Peter je posegel v besedo in mu rekel: »Če se bodo vsi pohujšali nad teboj, se jaz nikdar ne bom.«
+40026034	Jezus mu je rekel: »Resnično ti povem: preden bo to noč petelin zapel, me boš trikrat zatajil.«
+40026035	Peter mu reče: »Tudi če bi bilo treba umreti s teboj, ne, ne bom te zatajil.« Tako so rekli tudi vsi drugi učenci.
+40026065	Tedaj je véliki duhovnik pretrgal svojo obleko in rekel: »Bogokletje je izrekel! Kaj potrebujemo še prič? Glejte, zdaj ste slišali bogokletje.
+40026066	Kaj se vam zdi?« Oni pa so odvrnili: »Smrt zasluži!«
+40026067	Nato so mu pljuvali v obraz in ga bíli s pestmi. Drugi so ga klofutali
+40026068	in govorili: »Prerokuj nam, Kristus, kdo te je udaril.«
+41007008	Božjo zapoved zametujete in se držite človeškega izročila.«
+41007009	In še jim je rekel: »Spretno izigravate božjo zapoved, da se držite svojega izročila!
+41007010	Mojzes je namreč rekel: ‘Spoštuj očeta in mater’ in ‘Kdor preklinja očeta ali mater, naj ga zadene smrtna kazen.’
+41007011	Vi pa pravite: ‘Če kdo reče očetu ali materi: Vse, kar dolgujem tebi, je korbán,’ to se pravi dar templju;
+41007012	s tem mu niti ne dovolite, da bi še kaj storil za očeta ali mater.
+41007013	S svojim izročilom, ki ga širite, razveljavljate božjo besedo. In še veliko temu podobnega počenjate.«
+41011011	In prišel je v Jeruzalem, v tempelj. Skrbno si je vse ogledal, in ker je bilo že pozno, se je z dvanajsterimi napotil v Betánijo.
+41011018	Ko so to slišali véliki duhovniki in pismouki, so iskali priložnost, da bi ga pogubili. Bali pa so se ga, ker se je vse ljudstvo čudilo njegovemu nauku.
+41011019	Ko se je zvečerilo, so odšli iz mesta.
+41012012	Tedaj so iskali priložnost, da bi ga prijeli, pa so se zbali ljudi. Spoznali so namreč, da je s priliko meril nanje. Pustili so ga in odšli.
+41012037	David sam ga torej imenuje Gospoda. Kako more biti potem njegov sin?« In velika množica ga je rada poslušala.
+41014028	Toda po svojem vstajenju pojdem pred vami v Galilejo.«
+41014029	Peter pa mu je rekel: »Tudi če se vsi pohujšajo, jaz se ne bom.«
+41014030	Jezus mu odvrne: »Resnično ti povem: preden bo petelin nocoj, to noč, dvakrat zapel, me boš trikrat zatajil.«
+41014031	On pa je še kar naprej govoril: »Tudi če bi bilo treba umreti s teboj, ne, ne bom te zatajil.« Podobno so govorili tudi vsi drugi.
+41014063	Tedaj je véliki duhovnik pretrgal svojo obleko in rekel: »Kaj potrebujemo še prič?
+41014064	Bogokletje ste slišali. Kaj se vam zdi?« Vsi so ga obsodili, da zasluži smrt.
+41014065	Tedaj so začeli nekateri pljuvati vanj, mu zakrivali obraz in ga tolkli s pestmi ter govorili: »Prerokuj!« Tudi služabniki so ga bíli po obrazu.
+42002033	Njegov oče in mati sta se čudila temu, kar se je govorilo o njem.
+42002034	Símeon ju je blagoslovil in rekel Mariji, njegovi materi: »Ta je postavljen v padec in vstajenje mnogih v Izraelu in v znamenje, kateremu bodo nasprotovali, da se razodenejo misli mnogih src.
+42002035	Tvojo dušo pa bo presunil meč.«
+42003007	Množicam, ki so prihajale k njemu, da bi jih krstil, je torej govoril: »Gadja zalega! Kdo vam je zagotovil, da ubežite prihodnji sodbi?
+42003008	Obrodite vendar vreden sad spreobrnjenja! Niti na misel naj vam ne pride, da bi si govorili: ‘Abrahama imamo za očeta,’ kajti povem vam, da more Bog iz teh kamnov Abrahamu obuditi otroke.
+42003009	Sekira je že nastavljena drevesom na korenino. Drevo, ki ne rodi dobrega sadu, posekajo in vržejo v ogenj.«	
+42003010	Množice pa so ga spraševale: »Kaj naj torej storimo?«
+42003011	Odgovarjal jim je: »Kdor ima dve suknji, naj ju deli s tistim, ki je nima, in kdor ima živež, naj stori enako.«
+42003012	Tudi cestninarji so prišli, da bi jih krstil, in so ga vprašali: »Učitelj, kaj naj storimo?«
+42003013	»Ne terjajte več, kakor vam je določeno,« jim je odvrnil.
+42003014	Spraševali so ga tudi vojaki: »In mi, kaj naj storimo?« Rekel jim je: »Nikogar ne izsiljujte in ne varajte, ampak bodite zadovoljni s svojo plačo.«
+42004011	
+42004012	Jezus pa mu je dejal: »Rečeno je: ‘Ne skušaj Gospoda, svojega Boga.’«
+42004013	Ko je hudič poskusil z vsemu skušnjavami, se je za nekaj časa umaknil od njega.
+42004020	Nato je zvitek zvil, ga vrnil služabniku in sédel. Oči vseh v shodnici so bile uprte vanj.
+42004021	Začel jim je govoriti: »Danes se je izpolnila beseda Svetega pisma, ki ste jo slišali.«
+42004022	Vsi so mu pritrjevali in strmeli nad radostnimi besedami, ki jih je povedal, in so govorili: »Ali ni to Jožefov sin?«
+42004023	On pa jim je rekel: »Seveda me boste zavrnili s pregovorom: ‘Zdravnik, sebe ozdravi.’ Kar smo slišali, da si storil v Kafarnáumu, stôri tudi tukaj v domačem kraju.«
+42004024	In dodal je: »Resnično vam povem: noben prerok ne velja veliko v domačem kraju.
+42004025	Resnico vam govorim: veliko vdov je bilo v Izraelu v Elíjevi dobi, ko se je nebo zaprlo za tri leta in šest mesecev in je bila huda lakota v vsej deželi,
+42004026	toda Elíja ni bil poslan k nobeni izmed njih razen k vdovi v Sarépto na Sídonskem.
+42004027	Tudi veliko gobavih je bilo v Izraelu v času preroka Elizéja, pa ni bil očiščen nobeden izmed njih razen Naamána, ki je bil Sirec.« Ko so to slišali, je vse
+42004028	v shodnici zgrabila jeza.
+42004029	Vstali so in ga odvedli iz mesta na previs hriba, na katerem je bilo njihovo mesto sezidano, da bi ga pahnili v prepad,
+42004030	on pa je šel kar sredi množice in se napotil dalje.
+42006022	Blagor vam, kadar vas bodo ljudje sovražili, vas metali iz svoje skupnosti, sramotili in vaše ime zavrgli kot hudodelsko zaradi Sina človekovega!
+42006023	Razveselite se tisti dan in zavriskajte, kajti veliko je vaše plačilo v nebesih. Prav tako so namreč njihovi očetje ravnali s preroki.	
+42006026	Gorje vam, kadar bodo vsi ljudje lepo govorili o vas, kajti prav tako so delali njihovi očetje z lažnimi preroki!«
+42007028	Povem vam: med rojenimi od žena ni večjega, kakor je Janez Krstnik, vendar je najmanjši v božjem kraljestvu večji od njega.«
+42007029	Vse ljudstvo, ki ga je slišalo, s cestninarji vred, je priznalo božjo pravičnost, s tem da je prejelo Janezov krst.
+42007030	Farizeji in učitelji postave pa so se uprli namenu, ki ga je imel Bog z njim, s tem da se mu niso dali krstiti.
+42007033	Prišel je namreč Janez Krstnik, ki ne jé kruha in ne pije vina, pa pravite: ‘Hudega duha ima.’
+42007034	Prišel je Sin človekov, ki jé in pije, pa pravite: ‘Požrešnež je in pijanec, prijatelj cestninarjev in grešnikov.’
+42007035	In vendar so modrosti dali práv vsi, ki so jo sprejeli.«
+42020018	Vsak, ki pade na ta kamen, se bo razbil, in na kogar on pade, ga bo zmečkal.«
+42020019	Pismouki in véliki duhovniki bi ga bili najraje pri priči prijeli, pa so se zbali ljudstva. Spoznali so kajpak, da je s to priliko meril nanje.
+42020044	David ga torej imenuje ‘Gospod’, kako more biti potem njegov sin?«
+42023031	Zakaj, če delajo takó z zelenim lesom, kaj se bo zgodilo šele s suhim?«
+43001024	Med odposlanci so bili tudi farizeji.
+43001025	Segli so v besedo in ga vprašali: »Kaj torej krščuješ, če nisi ne Kristus ne Elija ne prerok?«
+43001026	Janez jim je odgovoril: »Jaz krščujem z vodo, med vami pa stoji on, ki ga ne poznate,
+43001027	tisti, ki pride za menoj in jaz nisem vreden, da bi mu odvezal jermen na sandali.«
+43001028	To se je zgodilo v Betániji, onkraj Jórdana, kjer je Janez krščeval.
+43001031	In jaz ga nisem poznal, vendar sem zato prišel in krščujem z vodo, da se on razodene Izraelu.«
+43001032	Takrat je Janez pričeval: »Videl sem Duha, ki se je spuščal z neba kakor golob in ostal nad njim.
+43001033	In jaz ga nisem poznal; toda tisti, ki me je poslal krščevat z vodo, mi je rekel: ‘Na kogar boš videl prihajati Duha in ostati nad njim, tisti krščuje v Svetem Duhu.’
+43001034	Videl sem in pričujem, da je to Božji Sin.«
+43003004	Nikodém ga vpraša: »Kako se more človek roditi, če je star? Mar more vdrugič v telo svoje matere in se roditi?«
+43003005	Jezus mu odgovori: »Resnično resnično ti povem: če se kdo ne rodi iz vode in Duha, ne more priti v božje kraljestvo.
+43003009	Nikodém mu je segel v besedo in ga vprašal: »Kako se more to zgoditi?«
+43003010	Jezus mu je odgovoril: »Ti si učitelj v Izraelu in tega ne veš?
+43003028	Vi sami ste priče, da sem rekel: ‘Jaz nisem Kristus, temveč sem poslan pred njim.’
+43004011	Žena mu reče: »Gospod, nimaš s čim zajeti in vodnjak je globok. Odkod imaš torej živo vodo?
+43004012	Si mar ti večji kakor naš oče Jakob, ki nam je dal ta vodnjak in je iz njega pil sam, njegovi sinovi in njegova živina?«
+43004013	Jezus ji odvrne: »Vsak, ki pije to vodo, bo spet žejen.
+43004015	Žena mu reče: »Gospod, daj mi te vode, da ne bom žejna in mi ne bo treba hoditi semkaj zajemat.«
+43004025	Žena mu odvrne: »Vem, da pride Mesija, ki se imenuje Kristus. Ko pride, nam bo vse oznanil.«
+43004026	Jezus ji odgovori: »Jaz sem; jaz, ki govorim s teboj.«
+43006064	Toda med vami jih je nekaj, ki ne verujejo.« Jezus je namreč od začetka vedel, kateri ne verujejo in kdo ga bo izdal,
+43006065	zato je dodal: »Zaradi tega sem vam rekel: nihče ne more priti k meni, če mu ni dano od Očeta.«
+43007019	Ali vam ni Mojzes dal postave? Vendar je nobeden med vami ne spolnjuje. Zakaj me hočete umoriti?«
+43007020	Množica je odgovorila: »Hudega duha imaš. Kdo te hoče umoriti?«
+43007021	Jezus jim je odgovoril: »Eno delo sem storil med vami in vsi se temu čudite.
+43007022	Mojzes vam je dal obrezo – ne kakor da bi bila od njega, ampak je od očakov – in vi obrezujete v soboto.
+43007023	Če torej človek lahko v soboto prejme obrezo in s tem ne krši Mojzesove postave, zakaj se jezite nad menoj, ker sem v soboto ozdravil celega človeka?
+43007024	Ne sodíte po videzu, ampak po pravici.«
+43007030	Tedaj so ga hoteli prijeti, toda nobeden ni stegnil roke po njem, ker njegova ura še ni prišla.
+43007031	Med množico pa jih je precéj začelo verovati vanj in so govorili: »Bo mar Kristus, kadar pride, storil več znamenj, kakor jih je storil ta?«
+43007039	To pa je rekel o Duhu, ki naj bi ga prejeli tisti, ki verujejo vanj. Duh namreč še ni prišel, ker Jezus še ni bil poveličan.
+43008013	Farizeji so mu tedaj rekli: »Ti pričuješ sam o sebi. Tvoje pričevanje ni veljavno.«
+43008014	Jezus jim je odgovoril: »Tudi če pričujem sam o sebi, je moje pričevanje veljavno, ker vem, odkod sem prišel in kam grem. Vi pa ne veste, odkod prihajam in kam grem.
+43008019	Tedaj so ga vprašali: »Kje je tvoj Oče?« Jezus jim je odgovoril: »Ne poznate ne mene ne mojega Očeta. Če bi poznali mene, bi poznali tudi mojega Očeta.«
+43008020	Te besede je izrekel, ko je učil v templju pri zakladnici. Toda nihče ga ni prijel, ker njegova ura še ni prišla.
+43008022	Judje so se tedaj spraševali: »Si bo mar vzel življenje, ker pravi: ‘Kamor odhajam, vi ne morete priti.’?«
+43008023	Jezus jim je odgovoril: »Vi ste od tu spodaj, jaz pa sem od zgoraj. Vi ste od tega sveta, jaz pa nisem od tega sveta.
+43008025	
+43008027	Vendar niso spoznali, da jim je govoril o Očetu.
+43008028	Jezus jim je tedaj rekel: »Ko boste povzdignili Sina človekovega, boste spoznali, da sem jaz, in da ničesar ne delam sam od sebe, ampak govorim to, kar me je naučil Oče.
+43008030	Ko jim je to govoril, jih je veliko začelo verovati vanj.
+43008033	Odgovorili so mu: »Abrahamovi potomci smo in nikoli nismo bili nikomur sužnji. Kaj misliš s tem, ko praviš: ‘Postali boste svobodni.’?«
+43008034	Jezus jim je odgovoril: »Resnično resnično vam povem: vsak, kdor greši, je suženj greha.
 43008042
 43008052
 43008053
@@ -384,3 +384,18 @@
 66019003
 66019004
 66019006
+
+
+# Text in 40004004 scheint eine stark komprimierte Übersetzung von Mat 4,4-10 zu sein (viele Auslassungen). 
+
+# 40011023, 43001023 Teilverse fehlen
+
+# es fehlen ganz: 40021044, 40021046
+
+# 43004010 u. 43004013 wurden zusammen übersetzt (ohne Vv. 11+12)
+# 43008012 u. 43008014 wurden zusammen übersetzt (ohne V. 13)
+# 43008021 u. 43008023 wurden zusammen übersetzt (ohne V. 22)
+# 43008026 u. 43008028 wurden zusammen übersetzt (ohne V. 27)
+# 43008032 u. 43008034 wurden zusammen übersetzt (ohne V. 33)
+# 43008051 u. 43008053 wurden zusammen übersetzt (ohne V. 52)
+# 43008056 u. 43008058 wurden zusammen übersetzt (ohne V. 57)
