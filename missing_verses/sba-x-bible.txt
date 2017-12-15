@@ -1,62 +1,70 @@
-19003001
-19004001
-19005001
-19006001
-19007001
-19008001
-19009001
-19012001
-19013001
-19018001
-19019001
-19020001
-19021001
-19022001
-19030001
-19031001
-19034001
-19036001
-19038001
-19039001
-19040001
-19041001
-19042001
-19044001
-19045001
-19046001
-19047001
-19048001
-19049001
-19051001
-19052001
-19053001
-19054001
-19055001
-19056001
-19057001
-19058001
-19059001
-19060001
-19061001
-19062001
-19063001
-19064001
-19065001
-19067001
-19068001
-19069001
-19070001
-19075001
-19076001
-19077001
-19080001
-19081001
-19083001
-19084001
-19085001
-19088001
-19089001
-19102001
-19108001
-19140001
-19142001
+19003001	Pa lə Dabid loo gə́ yeḛ aḭ ne no̰ ŋgonee Absalɔm’g.
+19004001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə kṵdu-ko̰déje ya.
+19005001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə tébéje.
+19006001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə kṵdu-kag gə́ kulá jinaijoo.
+19007001	Pa no̰ ndòo lə Dabid gə́ yeḛ ɔs ar Njesigənea̰ wɔji ne dɔ Kus, dəw gə́ ginkoji’g lə Bḛjami.
+19008001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə kṵdu-ko̰déje gə́ ɓaree gitit.
+19009001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. Taree wɔji dɔ Kwəi mbata lə ŋgon gə́ diŋgam.
+19012001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə kṵdu-kag gə́ kulaje jinaijoo.
+19013001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé.
+19018001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. Dabid, ŋgonjelookisi lə Njesigənea̰ ɔs pa neelé pidee ne loo gə́ yeḛ ɔree ji njéba̰je’g ləa lai ləm, gə ji Sawul’g ləm tɔ.
+19019001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé
+19020001	Pa lə Dabid gə́ ar bao-pa karee ɔs sə dee.
+19021001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé.
+19022001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə ndu gwɔsee gə́ ria lə Duje-kai-mán-lə-daje.
+19030001	akɔs lə Dabid mee ndəa gə́ d’unda ne kəi-Ala gə́ boo gə kəmee lé
+19031001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé
+19034001	Pa lə Dabid loo gə́ yeḛ ra ne rəa gə́ m bə no̰ Abimelek’g aree tubá ne lé.
+19036001	Pa lə Dabid gə́ to kura lə Njesigənea̰ gə́ ar bao-pa mba karee ɔs sə dee lé.
+19038001	Pa lə Dabid gə́ ɔs mba kar mee Ala olé ne dəa’g
+19039001	Pa lə Dabid gə́ ar bao-pa gə́ ria lə Jedutun karee ɔs sə dee lé
+19040001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé
+19041001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé
+19042001	Pakɔs lə Koréje gə́ d’ar bao-pa mba karee ɔs sə dee lé
+19044001	Pa lə Koréje gə́ d’ar bao-pa mba karee ɔs sə dee lé
+19045001	Pa lə Koréje gə́ d’ar bao-pa mba karee ɔs sə dee lé. To pa gə́ d’ɔs d’wɔji ne dɔ kunda na̰ dan kəm na̰’d.
+19046001	Pa lə Koréje gə́ d’ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə tébé
+19047001	Pa lə Koréje gə́ d’ar bao-pa karee ɔs sə dee lé
+19048001	Pakɔs lə Koréje
+19049001	Pa lə Koréje gə́ ar bao-pa mba karee ɔs sə dee lé
+19051001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé.
+19052001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé.
+19053001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. Deḛ d’ɔs gə tébé.
+19054001	Pakɔs gə́ d’ar bao-pa mba karee ɔs sə dee lé. Deḛ d’ɔs gə nékim gə́ gə kulaje.
+19055001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’a kɔs gə nékim gə́ gə kuláje.
+19056001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə ndu gwɔs pa gə́ wɔji dɔ dərnda gə́ si dɔ kagje gə́ əw. Loo gə́ Pilistije d’uba Dabid d’wá mee ɓee gə́ Gat’g lé.
+19057001	Pakɔs lə Dabid gə́ bao-pa ɔs sə dee lé. D’ɔs gə ndu gwɔs gə́ pana: Ya̰ aree tuji el. Ndəa gə́ Dabid iya ne rəa mee bolè mbal’g loo gə́ Sawul tuba ne gée lé.
+19058001	Pakɔs gə́ Dabid ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə ndu pa gə́ pana: Ya̰ areeje tuji el.
+19059001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə ndu pa gə́ pana: Ya̰ aree tuji el. Ndəa neelé Sawul ula dee ar dee d’aḭ dɔ kəi lə Dabid sub gə mba tɔlee.
+19060001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé gə mba ndoo dee ne né. D’ɔs gə ndu pa gə́ pana: Pudu ndujaje.
+19061001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə nékim gə́ gə kuláje.
+19062001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee gə goo ta lə Jedutun lé.
+19063001	Pakɔs lə Dabid. Taree wɔji dɔ loo gə́ yeḛ si ne dɔdilaloo gə́ Juda lé.
+19064001	Pa lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé.
+19065001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé.
+19067001	Pakɔs gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə nékimje gə́ gə kuláje.
+19068001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé.
+19069001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee. D’ɔs gə ndu gwɔs pa gə́ pana: Pudu ndujaje.
+19070001	Pakɔs lə Dabid gə́ ar bao-pa mba karee ɔs sə dee lé mba kar mee Ala olé ne dəa’g.
+19075001	Pakɔs lə Asap gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə ndu gwɔs pa gə́ pana: Tuji né el ɓòo.
+19076001	Pakɔs lə Asap gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə nékimje gə́ gə kuláje.
+19077001	Pakɔs lə Asap gə́ ar bao-pa mba karee ɔs sə dee gə goo ka̰ Jedutun lé.
+19080001	Pakɔs lə Asap gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə ndu gwɔs pa gə́ pana: Pudu ndujaje.
+19081001	Pakɔs lə Asap gə́ ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə nékim gə́ deḛ ɓaree gitit.
+19083001	Pakɔs lə Asap.
+19084001	Pakɔs lə Koréje gə́ d’ar bao-pa mba karee ɔs sə dee lé. D’ɔs gə nékim gə́ ɓaree gitit.
+19085001	Pakɔs lə Koréje gə́ d’ar bao-pa mba karee ɔs sə dee lé.
+19088001	Pakɔs lə Koréje gə́ bao-pa ɔs sə dee lé. Deḛ d’ɔs gə tébé-ro̰gje. To pakɔs lə Heman gə́ to ŋgoka Ejrak.
+19089001	Pakɔs lə Etan gə́ to ŋgoka Ejrak.
+19102001	Tamaji ra lə njenékəmndoo kára bèe gə́ yeḛ ra loo gə́ némeeko̰ al dəa sula.
+19108001	Pakɔs lə Dabid.
+19140001	Pakɔs lə Dabid gə́ bao-pa ɔs sə dee lé
+19142001	Pakɔs lə Dabid gə́ ɔs loo gə́ yeḛ to ne mee bolè mbal’g. Yee ɓa gə́ tamaji ləa.
+
+
+# Vers von 19013002 steht in 19013003, Vers von 19013003 steht in 19013004 usw. (vertauscht bis einschl. 19013007)
+# Bible ID vorhanden, aber kein Text dahinter:
+19051002	Loo gə́ Natan njetegginta lé ree rəa’g gə goo kaw gə́ Dabid aw ne rɔ Bat-Seba’g lé.
+19052002	Mee ndəa gə́ Doɛg, dəw gə́ Edɔm, ree rɔ Sawul’g ulá pana: Dabid aw mee kəi’g lə Asimelek lé.
+19054002	Loo gə́ Jibje ree d’ula Sawul pana: Dabid lé see iya rəa mbuna neḛje’g el wa.
+19060002	To ndɔ gə́ yeḛ rɔ gə Aramje gə́ wɔji dɔ Mesɔpotami ləm, gə Aramje gə́ wɔji dɔ Soba ləm tɔ. Ndəa neelé Joab tel ree dum Edɔmje tɔl-dɔg-loo dɔg-giree-joo (12.000) kəm wəl-loo gə́ ria lə Kad lé tɔ.
