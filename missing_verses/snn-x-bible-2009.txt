@@ -1,411 +1,411 @@
-40006017
-40006018
-40008005
-40008006
-40011011
-40022037
-40022038
-40022045
-40023027
-40023028
-41002006
-41002007
-41002010
-41002011
-41003009
-41003010
-41004002
-41004003
-41005027
-41005028
-41006049
-41006050
-41007003
-41007004
-41007018
-41007019
-41007022
-41007023
-41007025
-41007026
-41010029
-41010030
-41012037
-42001003
-42001004
-42001014
-42001015
-42001047
-42001048
-42001073
-42001074
-42001075
-42001078
-42001079
-42002030
-42002031
-42004006
-42004007
-42004009
-42004010
-42006014
-42006015
-42008041
-42008042
-42010010
-42010011
-42011005
-42011006
-42011050
-42011051
-42011053
-42011054
-42012011
-42012012
-42012029
-42012030
-42012043
-42012044
-42012058
-42012059
-42013028
-42013029
-42014008
-42014009
-42016027
-42016028
-42017007
-42017008
-42018029
-42018030
-42018032
-42018033
-42018040
-42018041
-42019029
-42019030
-42021014
-42021015
-42022017
-42022018
-42023028
-42023029
-42023044
-42023045
-42024006
-42024007
-43001024
-43001025
-43003014
-43003015
-43004028
-43004029
-43005002
-43005003
-43006008
-43006009
-43012010
-43012011
-43012039
-43012040
-43012041
-43017007
-43017008
-43017020
-43017021
-43017022
-43017023
-44001024
-44001025
-44002010
-44002011
-44013032
-44013033
-44017030
-44017031
-44018014
-44018015
-44019013
-44019014
-44020026
-44020027
-44023012
-44023013
-44025014
-44025015
-44026017
-44026018
-44026022
-44026023
-44027009
-44027010
-45001009
-45001010
-45003022
-45003023
-45003029
-45003030
-45004014
-45004015
-45004023
-45004024
-45008001
-45008002
-45008013
-45008014
-45008037
-45008038
-45008039
-45009011
-45009012
-45009013
-45009027
-45009028
-45009029
-45009032
-45009033
-45010006
-45010007
-45010019
-45010020
-45010021
-45011020
-45011021
-45013003
-45013004
-45014012
-45015005
-45015006
-45015008
-45015009
-45015010
-45015011
-45015012
-45015015
-45015016
-45015018
-45015019
-45015023
-45015024
-45016017
-45016018
-46001004
-46001005
-46001014
-46001015
-46001016
-46001017
-46001028
-46001029
-46002002
-46002003
-46002010
-46003008
-46003009
-46003012
-46003013
-46003018
-46003019
-46003021
-46003022
-46004003
-46004004
-46005004
-46005005
-46005012
-46005013
-46006019
-46006020
-46009009
-46009010
-46009026
-46009027
-46010025
-46010026
-46010028
-46010029
-46011018
-46011019
-46012024
-46012025
-46014032
-46014033
-46015008
-46015009
-46015052
-46015053
-46016008
-46016009
-46016015
-46016016
-47001013
-47001014
-47002010
-47002011
-47004013
-47004014
-47005006
-47005007
-47006017
-47008013
-47008014
-47009010
-47009011
-48001015
-48001016
-48003026
-48003027
-48004004
-48004005
-49001005
-49001006
-49001011
-49001012
-49001015
-49001016
-49001019
-49001020
-49002011
-49002012
-49003008
-49003009
-49003010
-49003011
-49003014
-49003015
-49003016
-49003017
-49003020
-49003021
-49004023
-49004024
-49004026
-49004027
-49005011
-49005012
-49005013
-49005014
-49005025
-49005026
-49006007
-49006008
-50002010
-50002011
-50002014
-50002015
-50002029
-50002030
-52001002
-52001003
-52003002
-52003003
-52004011
-52004012
-52005016
-52005017
-53002011
-53002012
-53002016
-53002017
-54002003
-54002004
-54003014
-54003015
-54004004
-54004005
-54006003
-54006004
-55002025
-55002026
-55004009
-55004010
-56001013
-56001014
-57001001
-57001002
-57001015
-57001016
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002002
-58002003
-58002013
-58002014
-58002015
-58003016
-58003017
-58003018
-58003019
-58004004
-58004005
-58004008
-58004009
-58004010
-58004011
-58005006
-58007001
-58007002
-58007003
-58007009
-58007010
-58007018
-58007019
-58008013
-58009027
-58009028
-58010008
-58010009
-58010010
-58010013
-58010014
-58010017
-58010018
-58010026
-58010027
-58010039
-58011017
-58011018
-58011039
-58011040
-58012028
-58012029
-58013020
-58013021
-59001007
-59001008
-59001019
-59001020
-59002015
-59002016
-60001015
-60001016
-60001018
-60001019
-60002002
-60002003
-60002007
-60002008
-61001013
-61001014
-61003001
-61003002
-63001010
-63001011
-64001005
-64001006
-65001024
-65001025
-66002024
-66002025
-66009013
-66009014
-66010005
-66010006
-66014009
-66014010
-66018011
-66018012
+40006017	Ayaa nu tyajaꞌamueꞌixaateꞌe tzaahuatiꞌiraꞌa cɨmeꞌe. Muꞌuri maɨjna cɨmeꞌen raamueꞌitɨ nain ɨ tɨ tihuaꞌacɨꞌɨti. Ma pajta muaa, patɨꞌɨj áꞌitziꞌivaꞌa, pataꞌaj acáɨstaꞌamityeꞌen, pajta tyaꞌavaꞌahuaateꞌen áꞌamuutzeꞌe aseiiti cɨmeꞌe, mej mi cai raamuaꞌaree ɨ tyaɨte yee péꞌitziꞌiveꞌe. Aɨ puꞌu aꞌayaꞌupua ɨ paj cai rasiseꞌij, aɨ pu ramuaꞌaree. Ajta aɨjna ɨ aꞌayaꞌupua tɨ́ rasiseꞌij ɨ tɨ ruꞌavaa, aɨ pu muaataꞌasin ɨ paj raamueꞌitɨ.
+40006018	
+40008005	Aj pu i Jesús aꞌutyajrupi aujna Capernaum. Tɨꞌɨj aun aꞌutyajrupi, seij pu u aꞌuveꞌeme tɨ iꞌi xantaaruꞌu. Ai pu aɨn pueen tɨ anxɨte tiꞌijta. Eecan pu rájhuaviiriꞌi aɨjna ɨ aꞌatɨ. Ayan tɨcɨn: ―Nyavastaraꞌa, eecan pu tiꞌicuiꞌi aɨjna tɨ nyavaɨreꞌe. An pu aꞌujcáꞌa ɨ utaatzi japua. Cɨyaaxaraꞌa. Nainjapua pu racuiꞌi huapɨꞌɨ.
+40008006	
+40011011	Ayaa nu tyajaꞌamueꞌixaateꞌe tzaahuatiꞌiraꞌa cɨmeꞌe huaꞌa tzajtaꞌa naijmiꞌi ɨ tyaɨte ɨ maj huanyej iiyan chaanaca japua, capu aꞌatɨ aꞌanaj tyeꞌentyajrupi tiꞌitɨj cɨmeꞌe tɨ eitzeꞌe veꞌe cai ɨ tɨ cɨn tiꞌityejvee aɨjna ɨ Juan. Ma ajta, aɨn tɨ eitzeꞌe cɨleꞌen cɨn tiꞌityejvee ɨ Dioj jemi, eitzeꞌe pu veꞌe aɨjna ɨ aꞌatɨ cai aɨjna ɨ Juan.
+40022037	Aj pu i Jesús ayan tiraataꞌixaa tɨcɨn: ―Ai pu aɨn pueen ɨ nyuucarijraꞌa ɨ taꞌanajca, tɨ eitzeꞌe ruxeꞌeveꞌe cai maa seij nyuucarijraꞌa, tɨ ayan tɨcɨn: “Pataꞌaj peyan rɨꞌɨ tyaꞌutaꞌamuaꞌati ɨ aꞌa tzajtaꞌa ɨ Dioj jemi, nain ɨ paj cɨn rɨꞌɨ tyaꞌutaꞌamuaꞌati, aꞌachu paj caj tyaꞌacaꞌanye ɨ aꞌaxaijnyuꞌuca jetze, pajta nain cɨn aꞌaxeꞌeviꞌiraꞌa cɨmeꞌe, ajta aꞌamuaꞌatziiraꞌa cɨmeꞌe.”
+40022038	
+40022045	Aɨj pu cɨn, tɨ puaꞌa David ayan raatamuáꞌa tɨcɨn nyavastaraꞌa, ¿aꞌini tiꞌirɨꞌɨri tɨ aɨn Cɨriistuꞌu ayan aɨn pueenyaꞌa aꞌaraꞌani ɨ yaujraꞌan? Capu aꞌij tiꞌirɨꞌɨri xaa nyaꞌu, aꞌini Cɨriistuꞌu pu eitzeꞌe vaꞌacan cɨn tiꞌityejvee cai David tyaacan ayan tiꞌityavaacaꞌa.
+40023027	’Sataꞌaj huataujxaamɨjteꞌen muan, mɨ sej tyuꞌujmuaꞌate ɨ yuꞌuxari jetze. Caxu seyan tiꞌijrɨꞌɨre tzaahuatiꞌiraꞌa cɨmeꞌe. Muan xu seyan naa seijreꞌe me eijreꞌe. Sajta muan, aꞌij xu puaꞌa tiꞌityetyaɨte ɨ rutzajtaꞌa. Ayaa xu eꞌen tɨj huáꞌachiꞌi ɨ maj tzajtaꞌan huajaꞌanaamɨca ɨ mej meri huacuii. Aꞌini ayaa mu racácueinareꞌen me eꞌijreꞌe, aɨj pu cɨn naa seijreꞌe aɨjna ɨ huaꞌachiꞌi. Ma ajta, u tzajtaꞌan, eihua pu tyaꞌuraꞌa ɨ tihuaꞌacari, ajta ɨ tihuaꞌahueꞌiraꞌa tɨ ari tíꞌipeti. Ayaa xu cheꞌeta sanaꞌa aꞌij puaꞌa eꞌen ɨ rutzajtaꞌa aɨjna cɨmeꞌe ɨ saj cai seyan tiꞌijrɨꞌɨre tzaahuatiꞌiraꞌa cɨmeꞌe, sajta aꞌij puaꞌa rɨcɨ.
+40023028	
+41002006	Meenti a vejliꞌi seica maun eꞌiráuu ɨ mej teꞌeyuꞌuxaca ɨ ruyeꞌira cɨmeꞌe. Matɨꞌɨj maɨjna huanamuajriꞌi aꞌij tɨ tyuꞌutaxajtacaꞌa ɨ Jesús, matɨꞌɨj mi meyan tyuꞌumuáꞌa ɨ rutzajtaꞌa tɨcɨn: “¿Aꞌiqui een cɨn ayan tiꞌixa amɨjna mɨ tevi? Aꞌij pu puaꞌa xaa nyaꞌu tiꞌixa. Capu aɨjna cɨn antyujmuaꞌaree amɨjna tɨ seij tyuꞌutauuniꞌi ɨ tɨ cɨn autyajturaa ɨ Dioj jemi. Aɨ puꞌu ɨ Dioj antyujmuaꞌaree tɨ ayan seij tyuꞌutauuniꞌi. Yaa mu tyaꞌumuaꞌatzɨjcaꞌa aɨme ɨ mej teꞌeyuꞌuxaca ɨ ruyeꞌira cɨmeꞌe.”
+41002007	
+41002010	Ayaa nu xaa nyaꞌu rɨni sataꞌaj raamuaꞌaree, i nyej nyajta tyaataꞌa jetze aꞌiráanye, nyajta nu nyaɨjna cɨn antinmuaꞌaree iiyan chaanaca japua nyej ni tihuaꞌatauuniꞌi ɨ maj cɨn ataꞌɨtzaꞌara ɨ Dioj jemi. ―Yaa pu tihuaꞌutaꞌixaa ɨ Jesús. Aj puꞌi ayan tiraataꞌixaa ɨ tɨ cɨyaaxaraꞌa tɨcɨn: ―Ayaa nu tiꞌimueꞌixaateꞌe. Ajchesi, pajta raꞌanchueni mɨ utaatzi. Aricu aꞌu paj eꞌeche.
+41002011	
+41003009	Aꞌini puꞌuri tihuáꞌuhuaꞌatyaꞌacaꞌa eihua ɨ mej tíꞌicucuiꞌicaa, eihua mu ɨ mej tiꞌicucuiꞌijmee ajtyáxɨɨracaꞌa aꞌu tɨ aꞌutyavaacaꞌa ɨ Jesús. Mueꞌitavatzɨjxɨ ajna vejliꞌi jemin. Eihua mu raaraꞌamɨjhuaꞌa aɨjna ɨ Jesús. Aɨj pu cɨn aɨn huaꞌutaij maj jamuan áꞌujhuaꞌanyaꞌa maj baarcu raahuaviitzeꞌen tɨ jetzen ateeyeijxɨꞌɨn mej mi cai ratziinajyeꞌican ɨ tyaɨte. 
+41003010	
+41004002	Eihua pu tihueꞌixaatyaꞌacaꞌa aɨjna cɨmeꞌe ɨ nyuucari. Ayaa pu tihueꞌixaa seij cɨmeꞌe ɨ nyuucari. Ayan tɨcɨn: ―Xaanamuajriꞌi muan. Aꞌatɨ tɨ nuꞌu tiꞌihuastyahuaꞌa, u pu áꞌumej tɨ tyajaꞌahuasteꞌen, 
+41004003	
+41005027	 Tɨꞌɨqui tyuꞌunamuajriꞌi aꞌij tɨ tiꞌitɨj huáruu ɨ Jesús. Ayan tɨcɨn: “Aij nu cɨn neyan rɨni nyej raꞌajtamuaren cɨɨxuraꞌaraꞌan jetze, aj nu rujni.” Yaa pu tyuꞌutaurixajtyaꞌacaꞌa aɨjna tɨ tiꞌicuiꞌicaꞌa. Aɨj pu cɨn a aurupi tyaɨte tzajtaꞌa aɨjna ɨ jɨitaꞌa. Tɨꞌɨj i a eꞌireꞌenye huaritaꞌan ɨ Jesús. Aj puꞌi raꞌajtamuárej cɨɨxuraꞌaraꞌan jetze.
+41005028	
+41006049	 Majta maɨn, matɨꞌɨj raaseij, metyuꞌutatzɨn. Muaajijhuacaꞌa naijmiꞌi aꞌini naijmiꞌi mu raaseij tɨ huamaꞌacaa ɨ jaj japua. Ayaa mu tyuꞌumuáꞌa tɨcɨn: “Nyájcan pu pueen.” Aj puꞌi ayan tihuaꞌutaꞌixaa aɨjna ɨ Jesús tɨcɨn: ―Xaatyaujcaꞌanye ɨ rutzajtaꞌa. Caxu tiꞌitzɨɨnyaꞌa. Nyaa nu nyaɨn pɨrɨcɨ ɨ Jesús.
+41006050	
+41007003	Majta aɨme ɨ mej Israel jetze ajtyamaꞌacan, ɨ maj majta meyan antyaꞌaruu tɨcɨn fariseo, aɨ mu raꞌatzaahuateꞌe ɨ ruvaujsimuaꞌa tyaaca tiꞌiyeꞌira. Ayaa mu cheꞌeta manaꞌa rɨjca naijmiꞌi ɨ mej Israel jetze ajtyamaꞌacan.
+41007004	
+41007018	Aj puꞌi ayan tihuaꞌutaꞌixaa tɨcɨn: ―¿Ni tzaa sacai sajta yauꞌeitaa xaꞌaraa? ¿Ni tzaa sacai yauꞌeite saɨjna? Tɨ puaꞌa aꞌatɨ tiꞌitɨj huacuaꞌani tɨ tiꞌicueꞌiriꞌi, aɨjna tɨ raacuaꞌani, ma puaꞌaque pu eꞌemaꞌacan. Aj pu i ucaruti ɨ ucaaraꞌan jetze. Ajta eꞌeyan huiraame ɨ chuitɨraaraꞌan jetze. Aɨj pu cɨn cai raxanaꞌaveꞌe aꞌini capu rájrupi ɨ tzajtaꞌan, ɨ xaijnyuꞌucaraꞌaraꞌan jetze. ―Yaa pu tyuꞌutaxajtacaꞌa aɨjna ɨ Jesús. Ajta ayan tihuaꞌutaꞌixaa tɨ iꞌi reꞌen naijmiꞌi tɨj naꞌa tɨ tiꞌicueꞌiriꞌi.
+41007019	
+41007022	’Ajta au pu huiraayeꞌi ɨ tzajtaꞌan eijna tɨ caꞌanijraꞌa rataꞌaca tɨ aꞌatɨ ayan tiꞌitɨ tiꞌijmueiraꞌa ɨ tɨ tíꞌijchaꞌɨ ɨ saɨj naꞌari tɨ aꞌatɨ aꞌij puaꞌa rɨjca, nusu tɨ seij huácuanamua. Ayaa pu cheꞌeta naꞌa een tɨ puaꞌa aꞌatɨ ayan aꞌij puaꞌa tyuꞌujepeꞌe, naꞌari tɨ puaꞌa aꞌatɨ seij anchueereꞌen, nusu tɨ puaꞌa aꞌatɨ aꞌij puaꞌa tiꞌitejeeva, naꞌari aꞌujtzaahuatyahuaꞌa, caꞌɨn aɨn ayan rɨcɨ ɨ tɨ cai xaꞌapɨꞌɨn. Naijmiꞌi tɨj naꞌa tɨ ayan een, au pu huiraayeꞌi ɨ tzajtaꞌan ɨ tevi. Ayaa nu tyajaꞌamueꞌixaateꞌe, aɨ pu xaa aɨn pueen ɨ tɨ ruꞌuráchuaamuaraꞌaca ɨ tevi ɨ tzajtaꞌan. ―Ayaa pu tihuaꞌutaꞌixaa aɨjna ɨ Jesús.
+41007023	
+41007025	Capu xaa nyaꞌu, aꞌini saɨj pu caꞌanacan raamuaꞌareeriꞌi. Jɨitaꞌa pu pueenyaꞌa aɨjna tɨ seij chuejraꞌa japua eꞌemaꞌacan. Saɨj pu tevijraꞌa pueenyaꞌa. Ayaa mu huaꞌatamuaꞌamua tɨcɨn sirofenicia, ɨ mej nuꞌu chiicate pueen.
+41007026	
+41010029	Aj pu i Jesús ayan tihuaꞌutaꞌixaa tɨcɨn: ―Ayej xaa nyaꞌu tiꞌayajna. Ayaa nu tyajaꞌamueꞌixaateꞌe, tɨ puaꞌa aꞌatɨ tiꞌitɨ aꞌuraini inyeetzi jemi, naꞌari jemin ɨ nyuucari tɨ cɨn huaujjajcuareꞌen ɨ Dioj jemi, tiꞌitɨ tɨ naꞌa tɨ yaꞌuraini, aɨ pu mijmu eitzeꞌe ancuraꞌan tɨꞌɨj auj ruuri iiyan chaanaca japua. Tɨ puaꞌa saɨj naꞌa ɨ tɨ yaꞌurai, ayaa pu cheꞌeta naꞌa raꞌancuraꞌasin aꞌachu cumu anxɨte tiꞌitɨ tɨ aꞌij, tɨ puaꞌa chiꞌi, naꞌari aꞌatzimuá naꞌari cuꞌutzimuá naꞌari juutzimuaꞌameꞌen. Ajta ayan huaꞌancureꞌeviꞌitɨ rutyaɨtestyamuaꞌa, aɨme rutaata naꞌari runaana nusu ruꞌɨj, naꞌari ruyaujmuaꞌa. Ajta pu raꞌancuraꞌasin ɨ chuej maj japuan vaujse ɨ tyaɨte. Nain pu tyaꞌancuraꞌasin. Ajta rajpueitzi aꞌame. Aru capu amɨn aꞌij. Tɨꞌɨj aɨn aꞌutyarute aujna Dioj tɨ eꞌeseijreꞌe, Dioj pu raataꞌasin tɨ ruuri aꞌaraꞌani jemin tɨj naꞌa rusen cɨmeꞌe.
+41010030	
+41012037	Aijna ɨ mej meyan ratamuaꞌamua tɨcɨn Cɨriistuꞌu, ai pu aɨn pueen tɨ aváꞌujyaꞌupuatyaꞌacaꞌa ɨ David tyaacan ayan tɨcɨn: “Nyavastaraꞌa”. Huaꞌapua pu cɨn raatámuaꞌatzi David tyaacan aɨjna ɨ Cɨriistuꞌu. Aɨj nu cɨn neyan tyajaꞌamueꞌihuaꞌu, ¿aꞌiqui tɨ ayan huaꞌapuaca cɨn raatamuáꞌa aɨjna ɨ David tyaacan? ¿Aꞌiqui huataujmuaꞌa tɨ aɨn Cɨriistuꞌu tɨ jetzen aꞌiráanye aɨjna ɨ David tyaacan, ayaa pu ajta tijiꞌivastaraꞌaraꞌan? Majta maɨn tyaɨte ɨ maj raanamuajriꞌi, eihua mu aꞌutyáuucaꞌa. Huaꞌaranajchacaꞌa eihua aꞌij tɨ yeꞌi tyuꞌutaxajtacaꞌa.
+42001003	 Aɨ mu majta raatyajtuaa itejmi jemi maɨjna ɨ nyuucari. Me nyajta inyaa, aꞌini nuꞌuri aꞌatyee nyej neyan tiꞌinmuaꞌate tyamuaꞌa naa nyaɨjna cɨmeꞌen, ayaa pu tinaꞌamitejtyaꞌacaa ineetzi tɨ iꞌixaꞌapɨꞌɨn nyej timuaataitiꞌi yuꞌuxari jetze naijmiꞌi tɨj naꞌa tiꞌitɨ tɨ aꞌij huarɨj pej pi raamuaꞌaree, muaa Teófilo, mɨ pej vaꞌacan cɨn tiꞌityejvee, pej pi peyan tiraamuaꞌaree tɨ ayan tiꞌayajna aꞌij mej meri timuaataꞌixaa.
+42001004	
+42001014	 ’Eecan pu rɨꞌɨ timuaataꞌasin, pajta huataꞌatyamuaꞌaveꞌesin paɨjna cɨmeꞌe ɨ paꞌarɨꞌɨ. Majta ɨ tyaɨte, eihua mu huataujtyamuaꞌaveꞌesin maɨjna cɨmeꞌe tɨꞌɨj huanuꞌeihuan ɨ paꞌarɨꞌɨ, aꞌini vaꞌacan pu cɨn tityaváa aꞌame ɨ tavastaraꞌa jemi. Cheꞌe nuꞌu cai nahuaj yeꞌe nusu tejuin. Tɨꞌɨj hui huanuꞌeihuan tɨ yu aucaꞌitɨ aꞌame, aɨn xaijnyuꞌucaraꞌaraꞌan ɨ Dioj, aɨ pu jetzen ruꞌutyaꞌa. 16 Ayaa pu rɨꞌɨ huaꞌaruuren muiꞌicaca aɨme ɨ mej Israel jetze ajtyamaꞌacan mej mi majtahuaꞌa raataxeꞌeveꞌen ɨ ruvastaraꞌa ɨ Dioj ɨ mej mejmiꞌi ma ruurai.
+42001015	
+42001047	Ajta nyaxaijnyuꞌuca pu rutyamuaꞌaveꞌe ɨ Dioj jemi tɨ nuꞌirajtuaa aꞌini aɨ pu ramuaꞌareeracaꞌa ɨ nyaj cai aꞌij tiꞌijviicueꞌi, inyaa i nyej ravaɨreꞌe. Ijii tɨ yu aucaꞌitɨ aꞌame, naijmiꞌi ɨ mej tyaamua, ayaa mu tyuꞌutaxajta neetzi cɨmeꞌe yee Dioj pu rɨꞌɨ tinaataꞌa.
+42001048	
+42001073	Ayaa pu tyaꞌataujratziiriꞌi tzaahuatiꞌiraꞌa cɨmeꞌe aɨjna jemi ɨ tayaꞌupuacɨꞌɨ, aɨjna ɨ Abraham tyaacan, tɨ ij tuꞌirajtuaani aɨme jemi ɨ maj tajchaɨreꞌe, mej mi cai taꞌantipuaꞌariteꞌen, tej tij raatyavaɨreꞌen tyaj cai tiꞌitzɨɨnyaꞌa, tej ti teyan uraréꞌenyaꞌa taꞌaraꞌani ɨ tatzajtaꞌa, tyataꞌaj teyan xaꞌapɨꞌɨn rɨjcaa ɨ Dioj jemi nain xɨcaj tzajtaꞌa, aꞌachu tyaj puaꞌa aꞌateeri.
+42001074	
+42001075	
+42001078	Ayaa paj rɨni aꞌini eecan pu taꞌacuꞌuve ɨ taDioj. Amɨ pu ya vaꞌacányejsin iiyan chaanaca japua tɨꞌij taamuaare itejmi. Au pu hui nain xɨcaj tzajtaꞌa tatzavaꞌa aꞌaraꞌani tɨ ij huanyeeriꞌicɨ aꞌaraꞌani tyamuaꞌa naa aɨme jemi ɨ maj huachaatɨme tɨcaꞌamisteꞌe, aɨme jemi ɨ mej tiꞌitzɨɨneꞌe ajna xɨcajraꞌa mej jetzen cuiꞌini, mej yee cumu tɨcaꞌamisteꞌe mu seijreꞌe. Aɨ pu ajta taataꞌitiira tyej ti rɨꞌɨ tíꞌityechajca. ―Ayaa pu tyuꞌutaxajtacaꞌa aɨjna ɨ Zacarías.
+42001079	
+42002030	Aꞌini nyajɨꞌɨ nu cɨn raaseij eijna ɨ paj cɨn tuꞌirajtuaasin, aijna ɨ paj yan raatyajtua metiꞌiseiraca naijmiꞌi ɨ tyaɨte aꞌachu maj puaꞌamua yan huachaatɨme iiyan chaanaca japua.
+42002031	
+42004006	Aj pu i ayan tiraataꞌixaa tɨcɨn: ―Tɨ puaꞌa peyan huarɨni pej titunuta inyeetzi jemi, pajta naatyaanajche, nain nu muaatapueijveꞌesin paj muaa tihuaꞌutaijteꞌen, tɨ ij timuaacɨꞌɨti naijmiꞌi tɨj naꞌa tɨ naa seijreꞌe tɨ huaꞌa jetze seijreꞌe. Ayaa nu hui rɨni aꞌini aɨj nu cɨn antinmuaꞌaree, nyaj neyan raatapueijveꞌen aꞌatɨ nyaj aꞌapueijveꞌe.
+42004007	
+42004009	Tɨꞌɨqui ajtahuaꞌa aɨn tiyaaruꞌu yaꞌuviꞌitɨ aꞌahuaꞌa yee, ajna Jerusalén. An pu raꞌantivíꞌitɨ japuan u teyujtaꞌa, japuan ɨ tɨ eitzeꞌe antipiti. Ayaa pu tiraataꞌixaa tɨcɨn: ―Tɨ puaꞌa hui pej yaujraꞌan pueenyeꞌen ɨ Dioj, ancájvetzi muucɨ, aꞌini ayaa pu teꞌeyuꞌusiꞌi ɨ yuꞌuxari jetze tɨcɨn: Dioj pu huajaꞌutaiti ɨ mej jemin tiꞌivaɨreꞌe mej mi muáachaɨn.
+42004010	
+42006014	Ai mu aɨn pueen ɨ tɨ huaꞌavaꞌajajpuaxɨ. Anacaican, aɨj pu huatajee aɨjna ɨ Simón, ɨ maj majta meyan raatamuáꞌa tɨcɨn Pedro. Aj pu ijtaꞌij aɨjna huatajee ɨ Andrés. Juutzajraꞌan pu pueen aɨjna ɨ Simón. Seica pu ajta huatajee. Aɨme mu aɨn pueen aɨjna ɨ Jacobo, ajta aɨjna ɨ Juan, ajta aɨjna ɨ Felipe. Aɨj pu ajta huatajee aɨjna ɨ Bartolomé, ajta aɨjna ɨ Mateo, ajta aɨjna ɨ Tomás. Ajta aɨjna ɨ Jacobo, aɨ pu yaujraꞌan pueen ɨ Alfeo. Jesús pu ajta aɨjna huatajee ɨ Simón. Aɨme pu jetze ajtyamaꞌacan aɨme ɨ mej meyan huaꞌatamuaꞌamua tɨcɨn ɨ maj raayɨꞌɨtɨ maj huanyáꞌuseꞌen.
+42006015	
+42008041	Cɨmeꞌen puꞌu Jesús aun aꞌaráꞌa, aj pu i saɨj ɨ aꞌatɨ áꞌajtunutacaꞌa a vejliꞌi jemin ɨ Jesús. Ayaa pu antyahuaa tɨcɨn Jairo. Aɨ pu tieꞌijta u teyujtaꞌa. Tɨꞌɨqui aɨn raatahuaviiriꞌi tɨ Jesús aꞌuréꞌenyen jemin chajnan aꞌini puꞌuri nuꞌu aꞌameꞌere ɨ yaujraꞌan. Ajta aɨ puꞌu caj pɨtiꞌijyauj jɨitacan. Ajta aɨjna ɨ yaujraꞌan, ayaa pu rajchaꞌɨ aꞌachu cumu tamuaamuataꞌa japuan huaꞌapua ninyeꞌiraꞌa. Tɨꞌɨqui Jesús áꞌuraa jamuan. Majta ɨ tyaɨte, eihua mu ajtyáxɨɨracaꞌa jemin. Tyamuaꞌa mu tityáꞌacatacaꞌa.
+42008042	
+42010010	’Naꞌari, tɨ puaꞌa macai amuaꞌancureꞌeviꞌitɨn satɨꞌɨj araꞌasti seij jetze ɨ chajtaꞌana, ayaa xu caaye jetze áꞌujhuaꞌanyeꞌen. Ayaa xu hui tihuaꞌutaꞌixaateꞌen yee: “Aɨjna ɨ chuej, tɨ muiiní tɨ ajtaviꞌitaxɨ ɨ tacaꞌacai jetze, iiya tɨ chajtaꞌa maꞌacan, aɨj tu huatyacaꞌatzɨjxɨꞌɨsin sej si raamuaꞌaree saj vaꞌacan cɨn autyajturaa ɨ Dioj jemi. Capu amɨn aꞌij sej seri tyuꞌuruu. Aucheꞌe pu yaraiixa aꞌanaj tɨ tyajaꞌureꞌenyejsin tɨ Dioj tyuꞌutaijta nainjapua iiyan chaanaca japua.” Ayaa xu hui tihuaꞌutaꞌixaateꞌen.
+42010011	
+42011005	Aj pu i ayan tihuaꞌutaꞌixaa tɨcɨn: ―Ticheꞌe teyan raataxaj yee saɨj xu muan tiꞌamiincu. Ajta eꞌeyan aɨjna ɨ aꞌatɨ, tɨꞌɨj ari eꞌitaꞌa tɨcaꞌa pɨtiꞌirɨcɨ, au pu hui aꞌumej aꞌu tɨ eꞌecheꞌe ɨ amiincuraꞌan. Aj pu i ayan tiraataꞌixaateꞌesin tɨcɨn: “Nyaꞌamiincu, hueicaca naatanyaɨjteꞌe ɨ pan, aꞌini auchan pu yeehui uveꞌenye seij ɨ nyaꞌamiincu tɨ muꞌu aꞌatamaꞌacaa. Me nyajta inyaa, canu tiꞌitɨj tichaꞌɨ ɨ nyaj raamiin.”
+42011006	
+42011050	’Aɨj pu cɨn, ayaa pu hui tiraꞌamitejteꞌe ɨ Dioj jemi, aɨ mu púꞌeenyaꞌa aɨme ijii maj huátyaamua maɨjna cɨmeꞌe matɨj manaꞌa puaꞌamua huacuii aɨme ɨ maj Dioj jetze maꞌacan tiꞌixaxaꞌataꞌa, naijmiꞌi matɨj puaꞌamua huacuii tɨj naꞌa tyuꞌuséijre ɨ chaanaca, naijmiꞌi tɨj naꞌa Abel tɨ huamɨꞌɨ asta aɨjna ɨ Zacarías, aɨjna maj raꞌupuaꞌari eꞌitaꞌa aꞌu tɨ aꞌutyejvee aɨjna ɨ maj japuan tiꞌimuaɨꞌɨvajtaca, aꞌu tɨ teyuu aꞌijnee. Jee xaa nyaꞌu, ayaa nu tyajaꞌamueꞌixaateꞌe xaa nyaꞌu. Ayaa pu hui tiraꞌamitejteꞌe ɨ Dioj jemi, aɨ mu púꞌeenyaꞌa nain cɨmeꞌe aɨme ijii maj huátyaamua.
+42011051	
+42011053	Tɨꞌɨj Jesús aun huiirajraa, aɨme ɨ fariseos, majta aɨme ɨ mej tiꞌimuaꞌata ɨ yuꞌuxari jetze Moisés tɨ raꞌuyuꞌuxacaꞌa, aɨ mu autyajhuii mej aꞌij puaꞌa tirájeeve caꞌanin cɨmeꞌe. Eecan mu eihua tiraihuaꞌuriꞌi mej mi raatyauni ɨ maj cɨn jetzen tyaꞌujpuáꞌajteꞌen maɨjna cɨmeꞌe aꞌij tɨ aɨn tyuꞌutaxajtacaꞌa.
+42011054	
+42012011	’Sajta muan, matɨꞌɨj u amuaꞌaraviꞌitɨn aɨme jemi maj teyujtaꞌa tieꞌijta, nusu aɨme jemi ɨ maj tiꞌitɨj cɨn antyujmuaꞌaree, ayaa xu huarɨni. Caxu hui aꞌij tyáꞌujmuajca aꞌij sej yeꞌi tityeetyaujnan naꞌari aꞌij sej yeꞌi tyuꞌutaxaj, aꞌini ajna xɨcajraꞌan jetze, aɨn xaijnyuꞌucaraꞌaraꞌan ɨ Dioj, aɨ pu tyajáꞌamuamuaꞌaten aꞌij sej yeꞌi tyuꞌutaxaj. ―Ayaa pu tihuaꞌutaꞌixaa aɨjna ɨ Jesús.
+42012012	
+42012029	’Caxu aꞌij tiꞌixajta yee aꞌiqui yeꞌi tyetiꞌicuaꞌani nusu aꞌiqui yeꞌi tyetíꞌityeyeꞌen. Ayaa xuꞌu, caxu tiꞌimuajcaa saɨjna cɨmeꞌe, aꞌini naimiꞌi matɨj manaꞌa puaꞌamua yan maj huachaatɨme iiyan chaanaca japua, ayaa mu maɨjna cɨn rahuauhuau. Ma ajta aɨn aꞌamuayaꞌupua, tajapua tɨ eꞌeseijreꞌe, aɨ pu hui ari ruꞌumuaꞌaree tiꞌitɨ tɨ amuaꞌaturaateꞌe.
+42012030	
+42012043	’Tɨ puaꞌa ayan rɨjcaa tɨꞌɨj uvéꞌenyen aɨjna tɨ tiꞌiraijteꞌe, rɨꞌɨ pu tiraatyavaɨreꞌesin aɨjna tɨ tiꞌivaɨreꞌe aꞌini nain pu tiraataijcateꞌesin aꞌachu tɨj tiꞌitɨj tichaꞌɨ aɨjna tɨ tiꞌiraijteꞌe. Ayaa pu teꞌeme. Ayaa nu tyajaꞌamueꞌixaateꞌe tzaahuatiꞌiraꞌa cɨmeꞌe.
+42012044	
+42012058	Patɨꞌɨj pauj huameꞌen juye jetze jamuan aɨjna tɨ muájchaɨreꞌe saj raaxaꞌapɨꞌɨntareꞌen aɨjna jemi ɨ juees, pataꞌaj raatahuavii tyamuaꞌa naa saj sauj juye jetze raaxaꞌapɨꞌɨntareꞌen. Naꞌari tɨ puaꞌa pacai peyan huarɨni, aɨ pu hui muaꞌaviꞌitɨn ɨ jueesi jemi. Tɨꞌɨqui aɨn juees, aɨ pu tyuꞌutatuireꞌesin mueetzi aɨjna jemi ɨ polisiiya. Ajta aɨn polisiiya, aɨ pu mueꞌityanajsin. Ayaa nu tiꞌimueꞌixaateꞌe tzaahuatiꞌiraꞌa cɨmeꞌe, camu hui iiyaꞌata mueꞌiratuaasin asta panaꞌa cai tyuꞌunajchi nain cɨmeꞌe aꞌachu maj muajijveꞌen. ―Ayaa pu tihuaꞌutaꞌixaa.
+42012059	
+42013028	’Ayaa pu teꞌeme ajna xɨcajraꞌan jetze. Muan xu huaꞌaseijran aɨme ɨ maj maun aꞌuráatyáꞌa muaꞌajuꞌun aujna Dioj tɨ eꞌeseijreꞌe. Aɨme xu hui seijran saɨme ɨ mej mejmiꞌi eꞌechajcaꞌa, saɨjna ɨ Abraham, sajta saɨjna ɨ Isaac, sajta saɨjna ɨ Jacobo. Majta seica mu a aꞌireꞌenyejsin mej mi aꞌujraꞌase aꞌutɨ meesa aꞌutyejvee mej mi tyuꞌucuaꞌani aujna Dioj tɨ eꞌeseijreꞌe. Sajta muan, aa xu puaꞌaque aꞌutyáuu xaꞌajuꞌun. Eihua xu ruyeinya xaꞌajuꞌun, sajta ancuraꞌujcɨꞌɨme yeꞌicaa xaꞌajuꞌun mɨ rutamej cɨmeꞌe saɨjna cɨmeꞌe sej seri rajpueiitzi xaꞌajuꞌun.
+42013029	
+42014008	―Tɨ puaꞌa hui aꞌatɨ mueꞌinen pej tyuꞌucuaꞌani huaꞌa jamuan ɨ mej tiꞌiyeꞌeste aɨjna cɨmeꞌe tɨ saɨj huatyenyaɨchacaꞌa, capaj panna aꞌujyeꞌixɨꞌɨn ajna vejliꞌi jemin ɨ tɨ muaataꞌinee pej tyuꞌucuaꞌani, silu aꞌatzu pa aꞌɨmɨ aꞌutayeijxɨꞌɨn. Naꞌari cai, tɨ puaꞌa saɨj uveꞌenye tɨ eitzeꞌe ruxeꞌeveꞌe pacai muaa tɨ ajta raataꞌinee, aj pu i aɨn muaataꞌixaateꞌesin yee ájchesi, taꞌaj amanna aꞌujyeijxɨꞌɨn eijna i aꞌatɨ. Aj pej pi tyuꞌutatéviꞌiraꞌata, anna paj aꞌujyeijxɨꞌɨn paɨjna japua ɨ tɨ eitzeꞌe cai ruxeꞌeveꞌe.
+42014009	
+42016027	’Tɨꞌɨj i ayan tyuꞌutanyúu tɨcɨn: “Tɨ puaꞌa ayan tiꞌeenyeꞌen, niyaꞌupua, ayaa nu yeehui muahuavii, paj amɨjna Lázaro huataite tɨ aun aꞌatanen nitaata tɨ eꞌeche, aꞌini anxɨvica nu tiꞌihuaamuaꞌa. Cheꞌe yeehui amɨn rɨꞌɨ tihuajaꞌutaꞌixaateꞌen mej mi cai meyun pujmeꞌen aꞌuvaꞌacɨꞌɨcaꞌan mej mi cai tirajpueitzi muaꞌaraꞌani meyajna.”
+42016028	
+42017007	 ’Ticheꞌe teyan tiraataxaj. Tɨ puaꞌa aꞌatɨ tiꞌimuareꞌe muejmi jemi aɨjna cɨmeꞌe tɨ tasaahua naꞌari canyaꞌaxɨ chaꞌɨ, ¿Aꞌini yeꞌi setiraatajeevi tɨꞌɨj aɨn uvéꞌenyen aꞌu tɨ tyajaꞌamuareꞌe? ¿Ni qui hui seyan tiraatájeevi yee: “Mu aꞌutaꞌiyiꞌi, aꞌujyeijxɨꞌɨ pataꞌaj tyuꞌucuaꞌani”? Caxu xaa nyaꞌu seyan tiraatájeevi silu ayaa xuꞌu tiraatájeevi tɨcɨn: “Pataꞌaj yee rɨꞌɨ tyuꞌuruuren ɨ tyej tiꞌicuaꞌani. Pajta, pataꞌaj rɨꞌɨ huaꞌaruuren pej pi titaamin, aj pu yee xaa huatarɨꞌɨristari pej tyuꞌucuaꞌani, pajta paj huayeꞌen.”
+42017008	
+42018029	Jesús pu ayan tihuaꞌutaꞌixaa tɨcɨn: ―Ayaa nu tyajaꞌamueꞌixaateꞌe tzaahuatiꞌiraꞌa cɨmeꞌe, ayaa pu hui tihuaꞌacɨꞌɨti aꞌatɨ tɨ naꞌa tɨ ari eitzeꞌe rɨꞌɨ tinajchaꞌɨ ineetzi cai maa aꞌatɨ aɨjna cɨmeꞌe tɨ nyaa jamuan aꞌuchaꞌacan. Tɨ puaꞌa hui aꞌatɨ ayan eitzeꞌe tiꞌijxeꞌevaꞌa tɨ nyaa jamuan áꞌuchaꞌacanyeꞌen cai ayan tiꞌijxeꞌevaꞌa tɨ aun huatyaturan ɨ ruchiꞌita, nusu tɨ puaꞌa eitzeꞌe rɨꞌɨ tinajchaꞌɨ ineetzi cai ɨ ruꞌɨj nusu ɨ rujaꞌatzimuá nusu ɨ rucuꞌutzimuá nusu ɨ rujuutzimuaꞌa nusu ɨ ruvaujsimuaꞌa, eihua pu eitzeꞌe raꞌancuraꞌasin ijii tɨ yu auume aijna jetze i chaanaca, ajta, aɨ pu hui ruuri aꞌame para rusen cɨmeꞌe tɨꞌɨj majcaꞌi huayee tɨ ye eꞌeveꞌeme. ―Ayaa pu tihuaꞌutaꞌixaa aɨjna ɨ Jesús.
+42018030	
+42018032	’Aɨ mu tyuꞌutatuireꞌesin ineetzi aɨme jemi ɨ mej seij chuejraꞌa japua eꞌemaꞌacan. Majta aɨme, aɨ mu naꞌaxaahuariꞌira muaꞌajuꞌun, majta aꞌij puaꞌa tiꞌinyaxajtan. Aɨ mu hui majta naatyétziꞌitzicaꞌimuaxɨꞌɨsin, majta naatyávajxɨꞌɨsin. Matɨꞌɨj mi nyejeꞌicatan. Tɨꞌɨj hui ari hueica xɨcaj jetze tyajaumeꞌén, aj nu ni aitáraꞌani huaꞌa tzajtaꞌa ɨ mɨꞌɨchite. ―Ayaa pu tihuaꞌutaꞌixaa.
+42018033	
+42018040	Ajta aɨn ɨ Jesús, aa pu aꞌutyeechaxɨ. Ajta huaꞌutaij mej yeꞌeveꞌeviꞌitɨn jemin. Tɨꞌɨj a vejliꞌi aveꞌemaꞌacaa, Jesús pu ayan tiraataihuaꞌuriꞌi tɨcɨn: ―¿Aꞌini tiꞌitɨ petiꞌixeꞌeveꞌe nyej neyan muaruuren mueetzi? Aj pu i aɨn taꞌaracun, ayan tyuꞌutanyúu tɨcɨn: ―Nyavastaraꞌa, ayaa nu hui tiꞌijxeꞌeveꞌe nyaj nyajta atanyeere.
+42018041	
+42019029	Tɨꞌɨj ji aun vejliꞌi aꞌuréꞌenye aujna aꞌahuaꞌa Betfagé, ajta aujna aꞌahuaꞌa Betania, chajtaꞌa tɨ aun aꞌutacáꞌa ajcaꞌi jɨri jetze tɨ ayan tyajaꞌarajtyahuaa tɨcɨn Aceituunajremi. Au pu huaꞌapuaca huataityacaꞌa ɨ maj jamuan áꞌujhuaꞌanyaꞌa. Ayaa pu tihuaꞌutaꞌixaa tɨcɨn: ―Sataꞌaj saun aꞌutyarute ajna chajtaꞌa, aɨn tɨ eꞌeseijreꞌe ɨ juye jetze. Ajna vejliꞌi aꞌu sej aꞌutyaruti, aa xu puuruꞌu eꞌetyauuni tɨ aꞌijtápiꞌi, tɨ cai xɨ aꞌana aꞌatɨ japuan aveꞌeyeijxɨ. Sataꞌaj ráꞌijxɨjta. Sajta yaꞌaráajan.
+42019030	
+42021014	’Sajta muan, sataꞌaj seyan huarɨni. Caxu anacaican saɨjna cɨn tyuꞌumuaꞌati aꞌij sej titeetyaujnan, aꞌini nyaa nu amuaataꞌasin aꞌij sej tyuꞌutaxaj, sajta sej raayɨꞌɨtɨhuaꞌan, sej si huaꞌutyamueꞌitɨn aɨme. Camu aꞌij tirájtyauváa muaꞌajuꞌun aꞌij mej tyajámuaatíte, ni camu hueꞌitzi cɨn amuaatyamueꞌitɨn.
+42021015	
+42022017	Aj pu i rajtɨɨ ɨ taasa. Tɨꞌɨj i rɨꞌɨ tiraataꞌa ɨ Dioj jemi, aj pu i huaꞌutajajni. Ayaa pu tihuaꞌutaꞌixaa tɨcɨn: ―Yaꞌacui, sataꞌaj huaraꞌujaanten, aꞌini ayaa nu tyajaꞌamueꞌixaateꞌe nyaj cai cheꞌe aꞌanaj raꞌantiꞌisin ɨ aꞌaráꞌa tɨ uuva jetze airamɨꞌɨyacaꞌa, asta cai yan huataseijreꞌen aꞌanaj tɨ Dioj tyuꞌutaijta iiyan chaanaca japua.
+42022018	
+42023028	Aj pu i Jesús pɨ aꞌureꞌeve. Ayaa pu tihuaꞌixaa tɨcɨn: ―Muan juuca, mɨ sej huaꞌayaujmuaꞌa pueen aɨme ɨ maj Jerusalén huachaatɨme, caxu neetzi cɨn ruyeinya, silu rujɨɨmuaꞌa sahuaujyeinixɨꞌɨ muejmi cɨmeꞌe, sajta saɨme cɨmeꞌe ɨ ruyaujmuaꞌa aꞌini aj pu hui tyajaꞌureꞌenyejsin aɨjna ɨ xɨcajraꞌa sej jetzen seyan tyuꞌutaxajta yee: “Dioj pu rɨꞌɨ tihuaꞌutaꞌa aɨme ɨ maj cai aꞌanaj tiyauumuaꞌa muaꞌaraa, majta aɨme ɨ maj cai aꞌanaj tɨꞌɨrii huaꞌa jetze huataseijre, majta aɨme ɨ maj cai aꞌanaj huaꞌutzii ɨ huaꞌayaujmuaꞌa.”
+42023029	
+42023044	Tɨꞌɨj ari tyauumaꞌaca aꞌatzaj tacuarixpua, aj pu i nainjapua huatyatɨcaꞌaracaꞌa ɨ chuej japua. Ayaa pu aꞌatee aꞌachu cumu hueica oora tɨ ayan eenyaꞌa, aꞌini aɨjna xɨcaj aumɨꞌɨ. Capu i cheꞌe huanyeeriꞌicɨcaa. Ajta aɨn ɨ cɨɨxuri tɨ itzijhua tɨ ajta aun aꞌutavivɨjmaꞌacaa u teyujtaꞌa, aɨ pu eꞌitaꞌa acasujtzaꞌanixɨ.
+42023045	
+42024006	Capu hui yaꞌa aꞌahuaꞌa aꞌini puꞌuri ajtahuaꞌa huatarú. ¿Ni hui sacai ramuaꞌaree aꞌij tɨ tyajamuaataꞌixaa tɨꞌɨj auj aꞌutyavaacaꞌa muejmi jemi aujna u Galileeya yee tɨ ayan tyuꞌujxeꞌeveꞌe maj tyuꞌutatuiireꞌen aɨjna tɨ huaꞌa jetze airaanye ɨ tyaɨte huaꞌa jemi ɨ mej aꞌij puaꞌa titetyújchaꞌɨ mej mi ráꞌutatan? Ajta yee hueica xɨcaj tzajtaꞌa pu ajtahuaꞌa nuꞌu huatarujsin. ―Aɨ mu tyetyaca meyan tihuaꞌutaꞌixaa.
+42024007	
+43001024	Majta seica ɨ fariseos, ɨ maj tyuꞌutaijtiꞌire, ayaa mu tiraataihuaꞌuriꞌi tɨcɨn: ―Tɨ puaꞌa peyan muaa cai aɨn pueen aɨjna ɨ Cɨriistuꞌu, pajta cai muaa aɨn pueen ɨ Elías, pajta cai muaa aɨn pueen aɨjna ɨ tyaj rachuꞌeveꞌe tɨ Dioj jetze maꞌacan titaataꞌixaateꞌesin, ¿aꞌini een cɨn peyan huaꞌamuaɨꞌɨhua ɨ tyaɨte?
+43001025	
+43003014	Ajta, tɨj aɨn Moisés ajmiꞌi raꞌajpi aɨjna ɨ cuꞌucuꞌu aujna aꞌahuaꞌa tɨ cai eꞌe tiꞌitɨɨtacaꞌa, ayaa pu cheꞌeta naꞌa ruxeꞌeveꞌe tɨ Dioj ayan naꞌajjan inyeetzi i nyaj nyajta tyaataꞌa jetze airaanye, tɨ ij ayan tihuaꞌucɨꞌɨti aꞌachu maj puaꞌamua naꞌantzaahuateꞌesin mej mi meyan ruuri huatyaturan tɨj naꞌa rusen cɨmeꞌe.
+43003015	
+43004028	Ajta aɨn jɨitaꞌa, a pu yaꞌutara aɨjna ɨ ruxaꞌari. Tɨꞌɨqui u áꞌumej u chajtaꞌa. Aj puꞌi ayan tihuaꞌutaꞌixaa ɨ tyaɨte. Ayan tɨcɨn: ―Mu saꞌutauriyiꞌi sej si yaꞌuseij aꞌatɨ tɨ ayan tinaataꞌixaa nain cɨmeꞌe aꞌij nyej tiꞌitinchaꞌɨ. ¿Ni qui cai aɨn pueen ɨ Cɨriistuꞌu? ―Ayaa pu tihuaꞌutaꞌixaa.
+43004029	
+43005002	Aun pu jajmuaa ajna vejliꞌi taꞌaj pueerta aꞌu mej jetzen aꞌutyaruꞌipi ɨ canyaꞌaxɨ. Ayaa pu tyajaꞌarajtyahuaa tɨcɨn Betesda. Anxɨvi pu aꞌaportaalijmaꞌacaa aꞌu mej eꞌetyujsaꞌɨrihuaꞌa eihua tyaɨte ɨ mej tíꞌicucuiꞌicaa. Seica mu meyan aracúcuꞌunijmaꞌacaa, majta seica, aꞌij puaꞌa mu huatzúnaꞌichaꞌa, majta seica cɨyaaxaviꞌicaa ɨ huáɨɨca.
+43005003	
+43006008	Aj puꞌi seij tɨ jamuan áꞌuchaꞌacanyaꞌa, aɨjna ɨ Andrés tɨ juutzajraꞌan pueen ɨ Simón, aɨ pu ayan tyuꞌutaxajtacaꞌa tɨcɨn: ―Yaa pu paꞌarɨꞌɨ huatyejvee. Anxɨvica pu hui pan tichaꞌɨ, ajta huaꞌapuaca ɨ hueꞌité. Ma ajta, capu aꞌatzu cɨꞌɨpe mej mi naimiꞌi tyuꞌucuaꞌani.
+43006009	
+43012010	Aɨj mu cɨn meyan tiraaxaꞌapɨꞌɨntare aɨme ɨ mej maun tiꞌijta teyujtaꞌa mej mi majta raajeꞌica maɨjna ɨ Lázaro, aꞌini muꞌitɨ mu meyan ráꞌajaahuatyaꞌacaa ɨ Jesús maɨjna cɨmeꞌe tɨ ayan Lázaro huarujte. Majta aɨme ɨ mej Israel jetze ajtyamaꞌacantacaa, aɨ mu meyan huataujtuiraꞌacaa ɨ Jesús jemi.
+43012011	
+43012039	Aɨj mu cɨn cai ráꞌantzaahua aɨjna cɨmeꞌe, aꞌij tɨ puaꞌamuaque ayan raataxajtacaꞌa aɨjna ɨ Isaías tyaacan tɨcɨn: Aɨ pu nuꞌu yeehui ayan huaꞌuruu mej meyan aracucuꞌunijmeꞌeni mej mi cai atanyéjnyeꞌeri. Aɨ pu yeehui ayan huaꞌuruu mej mi antaujnaamɨn ɨ rutzajtaꞌa mej mi cai yauꞌeitaa muaꞌaraꞌani. Naꞌari tɨ puaꞌa pɨ manaꞌa, aɨ mu saɨque tyuꞌumuaꞌatíicheꞌen, nyaj nuꞌu neyan huaꞌurújteꞌencheꞌe.
+43012040	
+43012041	Ayaa pu tyuꞌutaxajtacaꞌa aɨjna ɨ Isaías tyaacan aɨjna tɨ ayan raaseij ɨ tɨ Dioj cɨn rɨꞌɨ tiraatáꞌanicheꞌen. Aɨ pu ajta ayan tiraataxajtacaꞌa aɨjna cɨmeꞌen ɨ Jesús.
+43017007	’Muꞌuri ramuaꞌaree tɨ mueetzi jetze aꞌiraanye nain tɨj panaꞌa paj peyan paɨjna cɨn tinyeijca, aꞌini neyan cheꞌeta nyanaꞌa tihuaꞌutaꞌixaa aꞌij pej peri tinaataꞌixaa inyeetzi. Majta aɨme, ayaa mu raꞌancuraꞌa ɨ nyaj huaꞌutaꞌixaa. Ayaa mu tzaahuatiꞌiraꞌa cɨn ramuaꞌareeracaꞌa nyaj mueetzi jemi aꞌuveꞌeme, majta meyan ráꞌantzaahua pej peyan yan nyajaꞌutaityacaꞌa.
+43017008	
+43017020	’Canu nyaɨme nyanaꞌa cɨmeꞌen muahuavii, silu nyajta neyan tiꞌimuahuavii nyaɨme cɨmeꞌen ɨ mej meyan tyaꞌantzaahuateꞌesin maɨjna cɨmeꞌe aꞌij mej tihuaꞌutaꞌixaateꞌesin, mej mi naimiꞌi meyan saɨj manaꞌa pueenyaꞌa muaꞌaraꞌani, patɨj peyan nyeetzi jemi seijreꞌe, mɨ pej niꞌiyaꞌupua, nyatɨj nyajta inyaa mueetzi jemi seijreꞌe. Micheꞌe hui majta meyan tyejmi jemi seiraꞌa muaꞌaraꞌani mej mi aɨme ɨ maj yan huachaatɨme iiyan chaanaca japua, meyan tyaꞌantzaahuateꞌen pej peyan yan nyajaꞌutaityacaꞌa.
+43017021	
+43017022	’Aɨjna tɨ huapɨꞌɨ naa seijreꞌe ɨ paj cɨn rɨꞌɨ tinaataꞌa, ayaa nu cheꞌeta nyanaꞌa nyaɨjna cɨn rɨꞌɨ tihuaꞌutaꞌa mej mi meyan saɨj manaꞌa pueenyaꞌa muaꞌaraꞌani tyatɨj ityan, nyatɨj nyajta huaꞌa jemi seijreꞌe, patɨj pajta muaa nyeetzi jemi seijreꞌe. Nyajta nu nyaɨjna cɨn rɨꞌɨ tihuaꞌutaꞌa mej mi nain cɨn saɨj manaꞌa pueenyaꞌa muaꞌaraꞌani, mej mi aɨme ɨ maj yan huachaatɨme iiyan chaanaca japua, meyan raamuaꞌaree pej peyan yan nyajaꞌutaityacaꞌa, pajta peyan cheꞌeta panaꞌa huaꞌutaxeꞌeve patɨj pajta tinaataxeꞌeve inyeetzi.
+43017023	
+44001024	Aj mu mi raatahuaviiriꞌi ɨ Dioj. Aj mu mi meyan tɨcɨn: ―Tavastaraꞌa, muaa paj ruꞌumuaꞌaree aꞌij tɨ yeꞌi tiꞌimuaꞌatze ɨ rutzajtaꞌa saɨj ajta ɨ saɨj. Taataseijrateꞌe aijna ɨ maj huaꞌapuaꞌa muaa pa seij aveꞌeviꞌitɨn tɨꞌij aɨn teꞌentyarute aɨjna cɨmeꞌe ɨ tɨ cɨn tiꞌityavaacaꞌa aɨjna ɨ Judás tyaacan. Aɨ pu hui airajraa tɨꞌij aꞌuraꞌani aꞌu tɨ ayan tiyaꞌuvijteꞌe.
+44001025	
+44002010	’Seica tu tyajta tyaun eꞌemaꞌacan aujna aꞌahuaꞌa Frigia, tyajta seica aujna Panfilia. Tyajta seica aujna aꞌahuaꞌa Egipto, tyajta puaꞌamuaque aujna u Africa, tyajta naijmiꞌiqueꞌe aun maj ɨmɨ tyaꞌaranamua u Cirene, tyajta aujna u Creta, tyajta aujna Arabia. Seica mu Roma eꞌemaꞌacan; aɨ mu majta ya tamuaare, aɨme ɨ maj Israel jetze ajtyamaꞌacan, majta ɨ maj huataujjuriiyutacaꞌa. Tyan tu huaꞌanamua aꞌij mej tiꞌixa i tanyuuca cɨmeꞌe. Aɨj mu cɨn tiꞌixa tɨ naa namuajreꞌe aꞌij tɨ yeꞌi rɨj aꞌayeꞌi ɨ Dioj. ―Ayaa mu tihuaurixaa.
+44002011	
+44013032	’Tyajta ityan, ayaa tu tyajaꞌamueꞌixaateꞌe tyeijna i nyuucari ɨ tɨ amuaatatyamuaꞌavisteꞌesin aijna ɨ tɨ cɨn Dioj tyaꞌataujratziiriꞌi aɨme jemi ɨ tavaujsimuaꞌacɨꞌɨ. Aɨ pu hui arauraste ityejmi jemi, ityan i tyaj huaꞌayaujmuaꞌa. Aɨj pu cɨn arauraste tɨ aɨn raataꞌa tɨ huatarun ɨ mɨꞌɨchite tzajtaꞌa aɨjna ɨ Jesús. Ayaa pu teꞌeyuꞌusiꞌihuacaꞌa ɨ Chuiicari jetze ɨ tɨ huaꞌapua tɨcɨn: “Muaa paj niꞌiyauj. Ijii nu xaa neri inyaa mueꞌiyaꞌupua naꞌame.”
+44013033	
+44017030	’Aꞌanajɨmɨ, camu ramuaꞌareeracaꞌa ɨ tyaɨte aꞌij tɨ tiꞌijxeꞌeveꞌe ɨ Dioj tɨj naꞌa tɨ yu eꞌireꞌenye. Ajta aɨn ɨ Dioj, capu aꞌanaj huaꞌuxɨjte ajnaꞌɨmɨ. Ma ajta, ijii pu xaa, aɨ pu tiꞌihueꞌijteꞌe naijmiꞌiqueꞌe maj nuꞌu saɨque tyuꞌumuaꞌati ɨ tyaɨte, aɨjna cɨmeꞌe, tɨ Dioj ari ayan tiraaxaꞌapɨꞌɨntarej seij xɨcajraꞌa jetze tɨ jetzen huaꞌuxɨjteꞌen naijmiꞌica ɨ maj yan huachaatɨme iiyan i chaanaca japua. Aɨ pu hui huaꞌaxɨjteꞌen aɨjna ɨ aꞌatɨ tɨ Dioj raꞌantihuau. Dioj pu ari huaꞌutaseijra naijmiꞌica ɨ tyaɨte tɨ ayan tiꞌayajna aɨjna cɨmeꞌe tɨ raꞌajjáj huaꞌa tzajtaꞌa ɨ mɨꞌɨchite aɨjna ɨ aꞌatɨ.―Ayaa pu tihuaꞌutaꞌixaa aɨjna ɨ Pablo.
+44017031	
+44018014	Puꞌuri tɨn tyuꞌutaxáatacheꞌe aɨjna ɨ Pablo, tɨꞌɨj aɨn Galión, ayan tihuaꞌutaꞌixaa aɨme ɨ mej Israel jetze ajtyamaꞌacan tɨcɨn: ―Casiꞌi muan, mɨ sej Israel jetze ajtyamaꞌacan, tɨ puaꞌa hui amɨn tiꞌitɨ aꞌij puaꞌa huáruu tɨ cai xaꞌapɨꞌɨn, naꞌari tiꞌitɨ huajeꞌica tɨ huapɨꞌɨ ruxeꞌeveꞌe, aj nu xaa neyan tyájaꞌamuanamuáaracheꞌen. Aru aꞌini ai puꞌu cɨn tiꞌixa aꞌamuayeꞌira, ¿aꞌiqui huataujmuaꞌa aɨjna? ¿Ni cai nyuucari pueen aɨjna? Ayaa pu hui tiraavijteꞌe rujɨɨmuaꞌa saj muan seyan raꞌantipuaꞌariteꞌen, aꞌini canu nyaa raxeꞌeveꞌe nyaj raaxaꞌapɨꞌɨntareꞌen nyeijna i nyuucari.―Ayaa pu tihuaꞌutaꞌixaa.
+44018015	
+44019013	Majta seica ɨ mej Israel jetze ajtyamaꞌacantacaa ɨ mej áꞌujhuaꞌanyaꞌa aꞌu tɨ naꞌa maj aꞌuchaatɨmaꞌacaa, aɨ mu huaꞌamuarityaꞌacaa ɨ tiyaaruꞌuse ɨ maj huaꞌa tzajtaꞌa seijraꞌacaa ɨ tyaɨte. Mejxeꞌevaꞌacaa mej meyan huarɨni nyuucaraꞌaraꞌan cɨmeꞌe ɨ Jesús. Ayaa mu cheꞌeta manaꞌa tiꞌijxeꞌevaꞌacaa aꞌatɨ tiꞌiyaujmuaꞌa tɨ Israel jetze ajtyamaꞌacantacaa mej raatamuariteꞌen ɨ tiyaaruꞌu tɨ tevi tzajtaꞌa seijraꞌacaa. Ayaa mu aráꞌaxcaa araahuaꞌapua aɨme ɨ yaujmuaꞌameꞌen aɨjna ɨ aꞌatɨ tɨ tihueꞌijteꞌe ɨ mej tiꞌivaɨreꞌe u teyujtaꞌa. Ayaa pu antyahuaacaꞌa aɨjna ɨ aꞌatɨ tɨcɨn Esceva. Matɨꞌɨj mi maɨn yaujmuaꞌameꞌen meyan tiraatajee ɨ tiyaaruꞌu tɨcɨn: ―Ayaa nu hui tyajaꞌamueꞌijteꞌe nyaɨjna jetze maꞌacan aɨjna ɨ Jesús ɨ tɨ jetzen maꞌacan tiꞌixa ɨ Pablo.
+44019014	
+44020026	Aɨj nu cɨn neyan tyajaꞌamueꞌixaateꞌe ijii, tɨ puaꞌa aꞌatɨ yaꞌuraini ɨ ruxaijnyuꞌuca ɨ Dioj jemi, capu Dioj nye jetze rapuaꞌariteꞌe, aꞌini canu aꞌanaj raatapuaꞌajtacaꞌa nyej tyajamueꞌixaa ɨ nyuucari, silu nain nu tyajamueꞌixaa aꞌij tɨ tiꞌijxeꞌeveꞌe ɨ Dioj.
+44020027	
+44023012	Yaa ruijmuaꞌateꞌe yee, seica ɨ mej Israel jetze ajtyamaꞌacan, aɨ mu tyaꞌataujratziiriꞌi maj raajeꞌica maɨjna ɨ Pablo, Huaꞌapuate japuan cɨj caj mu aráꞌaxcaa ɨ tyetyaca. Ayaa mu tyuꞌutaxajtacaꞌa tɨcɨn: “Camu nuꞌu tiꞌicuaꞌani, ni camu majta yeꞌen asta manaꞌa cai raajeꞌica.”
+44023013	
+44025014	Aꞌini eihua mu u eꞌeteeri maujna, Festo pu raataꞌixaa aɨjna ɨ rey aɨjna cɨmeꞌen ɨ Pablo. Ayaa pu tiraataꞌixaa tɨcɨn: ―Ajna tɨꞌɨj hui Félix airajraa ɨ tɨ cɨn tiꞌityavaacaꞌa, nyatɨꞌɨj nyauna aꞌucatii u Jerusalén, aɨme ɨ mej tieꞌijta huaꞌa teyujtaꞌa, majta huaꞌavaujsi ɨ mej Israel jetze ajtyamaꞌacan, aɨ mu tiꞌitɨj cɨn jetzen tyaꞌujpuáꞌajte maɨjna ɨ Pablo. Majta eꞌeyan nyajhuaviiriꞌi nyaj pueijtzi raataꞌan.
+44025015	
+44026017	’Nyaa nu nuꞌu a japua nyuuni huaꞌa jemi ɨ mej Israel jetze ajtyamaꞌacan, nyajta huaꞌa jemi ɨ mej seij chuejraꞌa japua eꞌemaꞌacan. Ijii nu muaataiti paj aꞌuraꞌani aɨme jemi mej mi yauꞌeitaa muaꞌaraꞌani, majta raamuaꞌaree aꞌij tɨ tiꞌijxeꞌeveꞌe ɨ Dioj, tɨ i cai cheꞌe aɨn tihueꞌijtyaꞌa ɨ Satanás silu Dioj puꞌu tihuaꞌutaijteꞌesin. Aj pu nuꞌu xaa Dioj tihuaꞌutauuniꞌira. Ajta huaꞌutaꞌasin maj maun aꞌutyáꞌa muaꞌaraꞌani aɨme jamuan ɨ tɨ Dioj rɨꞌɨ a tihuajaꞌutyahuii aɨjna cɨmeꞌe ɨ maj naꞌantzaahua.” Ayaa pu hui tinaataꞌixaa aɨjna ɨ Jesús.
+44026018	
+44026022	’Ma majta, Dioj pu naatavaɨ eihua. Aɨj nu cɨn cai xɨ huamɨꞌɨ silu nyaucheꞌe nu hui tihueꞌixaateꞌe naijmiꞌica ɨ tyaɨte, ɨ maj tɨꞌɨrii, nyajta ɨ maj vaujsi. Ai nuꞌu huaꞌutaꞌixaa aꞌij mej tyuꞌutaxajtacaꞌa aɨme ɨ mej tiꞌixaxaꞌataꞌa ɨ Dioj jetze maꞌacan, ajta aɨjna ɨ Moisés tyaacan. Ayaa mu tyuꞌutaxajtacaꞌa tɨ ayan eenyeꞌen rɨniicheꞌe tɨ nuꞌu ayan rajpueiitzi aꞌaraꞌani aɨn tɨ Dioj an yáꞌujra ɨ ɨpuari jetze. Ajta nuꞌu tɨꞌɨj huamɨꞌɨn, aɨ pu aɨn pueenyeꞌe aꞌame ɨ tɨ anacai huatarujsin ɨ mɨꞌɨchite tzajtaꞌa. Ajta eꞌeyan aɨn nuꞌu tihueꞌixaateꞌen tɨ ari eꞌeseijreꞌe ɨ tɨ cɨn Dioj huaꞌutavaɨ ɨ tyaɨte ɨ mej Israel jetze ajtyamaꞌacan, ajta ɨ mej seij chuejraꞌa japua eꞌemaꞌacan.
+44026023	
+44027009	Tuꞌuri aꞌateeviꞌi tyaj huajuꞌun. Puꞌuri tyuꞌutzɨɨniꞌiraꞌacaa aujna aꞌu tyaj aꞌujuꞌucaa, aꞌini puꞌuri vejliꞌi pɨ tiꞌirɨjcaa ɨ tɨ jetzen tɨ huaseeviꞌi aꞌayeꞌi. Aɨj pu cɨn ayan tihuaꞌutaꞌixaa aɨjna ɨ Pablo, tɨcɨn: ―Muan tyetyaca, ayaa pu hui tinaꞌamitejteꞌe inyeetzi tɨ eecan tyuꞌutzɨɨniꞌiraꞌa aꞌame, tɨ puaꞌa taajuꞌun. Teyáꞌujɨsin i baarcu, tyajta ɨ ijca, ajta ayan tyuꞌutarɨꞌɨristari tyaj hui aꞌuveti ityan.
+44027010	
+45001009	Ajta aɨn ɨ Dioj, ɨ nyaj ravaɨreꞌe nain cɨn aꞌachu nyaj aꞌancaꞌanyaacan cɨn neyan tihuaꞌutaꞌixaateꞌen ɨ nyuucari tɨ cɨmeꞌen raxaj aɨjna tɨ yaujraꞌan pueen ɨ Dioj, aɨ pu ruꞌumuaꞌaree nyaj aꞌanaj tɨ naꞌa neyan amuaꞌatámuaꞌareeri nyatɨꞌɨjta rahuavíiraj naꞌayeꞌi. Ayaa nu tiꞌijhuavii tɨ ayan nataꞌacareꞌen ɨ Dioj nyaj nyaun aꞌamuamuaara naꞌaraꞌani tɨ puaꞌa ayan Dioj tiráꞌacaꞌane.
+45001010	
+45003022	Ayaa pu cheꞌeta naꞌa tihuaꞌacɨꞌɨti naijmiꞌica mej mi meyan urareꞌenyaꞌacan cɨn huatyaturan ɨ Dioj jemi maɨjna cɨmeꞌe mej meyan raꞌaraꞌasten maɨjna ɨ Jesús tɨ ajta iꞌi Cɨriistuꞌu. Ayaa pu cheꞌeta naꞌa tihuaꞌacɨꞌɨti aɨme ɨ maj Israel jetze ajtyamaꞌacan, majta aɨme ɨ mej seij chuejraꞌa japua eꞌemaꞌacan, aꞌini naimiꞌi mu ruxaꞌa eꞌen ɨ Dioj jemi. Naimiꞌi mu majta autyajturaa ɨ jemin. Ajta capu aꞌatɨ ayan raayɨꞌɨtɨ tɨꞌij ayan nain cɨn rɨꞌɨ tiraataꞌan ɨ Dioj.
+45003023	
+45003029	Ajta aɨn ɨ Dioj, ¿ni qui ayaa naꞌa pueen huaꞌa Dioj, ɨ maj Israel jetze ajtyamaꞌacan nusu ajta huaꞌa Dioj pueen aɨme ɨ maj seij chuejraꞌa japua eꞌemaꞌacan? Ee xaa nyaꞌu, aɨ pu ajta huaꞌa Dioj pueen aꞌini saɨj puꞌu aɨn pueen ɨ Dioj. Aɨ pu huaꞌaxɨjteꞌen aɨme ɨ mej Israel jetze ajtyamaꞌacan mej mi urareꞌenyaꞌacan cɨn huatyaturan ɨ jemin maɨjna cɨmeꞌe ɨ mej tyaꞌatzaahuateꞌe. Aɨ pu ajta ayan cheꞌeta naꞌa huaꞌaxɨjteꞌen aɨme ɨ mej seij chuejraꞌa japua eꞌemaꞌacan mej mi meyan cheꞌeta manaꞌa urareꞌenyaꞌacan cɨn huatyaturan ɨ jemin aꞌini ayaa mu cheꞌeta manaꞌa tyaꞌatzaahuateꞌe.
+45003030	
+45004014	Ayaa puꞌu naꞌa, aꞌini tɨ puaꞌa ayan tihuaꞌucɨꞌɨti aɨme ɨ maj raꞌastijreꞌe maɨjna ɨ nyuucari ɨ maj cɨn tiꞌijta, capu cheꞌe ayan ruxeꞌeveꞌe tɨ aꞌatɨ ayan tyaꞌantzaahuateꞌen, ajta capu cheꞌe tiꞌitɨj vaɨreꞌe ɨ tɨ cɨn Dioj tyaꞌataujratziiriꞌi. Pueijtzi pu huaꞌataꞌaca aɨjna cɨmeꞌe tɨ cai rɨꞌɨri tɨ aꞌatɨ nain cɨn raꞌaraꞌastijreꞌen aɨjna ɨ nyuucari. Ma ajta, camu tiꞌitɨj cɨn autyaturan tɨ puaꞌa cai seijreꞌe aɨjna ɨ nyuucari ɨ maj cɨn tiꞌijta.
+45004015	
+45004023	Ajta aɨjna ɨ nyuucari tɨ cɨmeꞌen ayan Dioj tiraaxaꞌapɨꞌɨntariꞌiriꞌi, capu ayan teꞌeyuꞌusiꞌihuacaꞌa tɨ ij ayaa naꞌa tiraacɨꞌɨti aɨjna silu ayaa pu ajta tiꞌitacɨꞌɨti ityejmi. Dioj pu ayan cheꞌeta naꞌa titaaxaꞌapɨꞌɨntariꞌira ityejmi tej ti tyajta urareꞌenyaꞌacan cɨn huatyaturan ɨ jemin. Ayaa pu ajta tiꞌitacɨꞌɨti ityejmi, i tyej raꞌatzaahuateꞌe aɨjna tɨ raꞌajjáj huaꞌa tzajtaꞌa ɨ mɨꞌɨchite aɨjna ɨ Jesús tɨ ajta aɨn pueen ɨ tavastaraꞌa.
+45004024	
+45008001	Rumuareꞌeriꞌiraꞌaraꞌan pu cɨn amueꞌirajtuaa aɨjna ɨ xaijnyuꞌucaraꞌaraꞌan ɨ Dioj sej si seyan ruuri huatyaturan ɨ jemin aɨjna ɨ Cɨriistuꞌu, tɨ ajta iꞌi Jesús. Capu cheꞌe aꞌanaj tyajaꞌamueityaꞌa aꞌame aɨjna ɨ muáreꞌeriꞌiraꞌaraꞌan aɨjna tɨ aꞌij puaꞌa een tɨ ajta jamuataꞌaca saj huacuiꞌini. Aɨj pu cɨn, capu cheꞌe Dioj tiꞌitɨj cɨn muejmi jetze tyaꞌupuáꞌajteꞌesin.
+45008002	
+45008013	Ayaa puꞌu naꞌa, aꞌini tɨ puaꞌa seyan raꞌaraꞌastijreꞌen saɨjna tɨ aꞌij puaꞌa een tɨ huiiraninyei ɨ aꞌamua tzajtaꞌa, ayaa pu tyajamuaacɨꞌɨti saj huacuiꞌini. Ma sajta muan, tɨ puaꞌa seyan tiraꞌantipuaꞌariteꞌen saɨjna tɨ aꞌij puaꞌa een tɨ ayan huiiraninyei ɨ aꞌamua tzajtaꞌa, tɨ puaꞌa sajta seyan huarɨni saɨjna cɨmeꞌe saj jetzen araujcaꞌanye ɨ xaijnyuꞌucaraꞌaraꞌan ɨ Dioj, ayaa pu tyajamuáacɨꞌɨti sej seyan ruuri huatyaturan ɨ Dioj jemi, aꞌini aɨme ɨ mej meyan jetzen araujcaꞌanye ɨ xaijnyuꞌucaraꞌaraꞌan ɨ Dioj, aɨ mu yaujmuaꞌameꞌen pueen ɨ Dioj.
+45008014	
+45008037	Capu xaa nyaꞌu ayan aꞌatɨ teꞌentyuꞌuuna. Tɨj naꞌa tɨ ayan tiꞌitaruure, nain tu cɨn teyan tyuꞌutyamueꞌitɨ aɨjna cɨmeꞌe tɨ Cɨriistuꞌu ayan taataxeꞌeve tɨ ij ayan huamɨꞌɨni ta jetze maꞌacan.
+45008038	Ayej xaa nyaꞌu tiꞌayajna. Ayaa pu tinaꞌamitejteꞌe inyeetzi tɨ ayan tiꞌayajna tɨ cai tiꞌitɨ ayan teꞌentyuꞌuuna tɨ ij cai cheꞌe ayan titáacɨꞌɨti aɨjna tɨ cɨn Dioj taataxeꞌeve. Capu amɨn aꞌij tɨ puaꞌa teyan ruuri huatyaturan naꞌari tɨ puaꞌa teyan huacuiꞌini. Camu majta meyan teꞌentyuꞌuuna aɨme ɨ mej tajapua tiꞌivaɨreꞌe ɨ Dioj jemi, naꞌari aɨme ɨ mej meyan tiꞌivaɨreꞌe ɨ tiyaaruꞌu jemi. Tiꞌitɨ tɨ naꞌa tɨ aꞌij seijreꞌe, tɨ puaꞌa auj tyajaꞌureꞌenyejsin naꞌari tɨ puaꞌa ari ayan teꞌirajraa nusu muáreꞌeriꞌiraꞌaraꞌan pueen ɨ aꞌatɨ, capu ajta ayan teꞌentyuꞌuuna. Capu amɨn aꞌij tɨ puaꞌa aɨn puéenyeꞌen tɨ tajapua eꞌeseijreꞌe naꞌari u tajete, tiꞌitɨ tɨ naꞌa tɨ ayan seijreꞌe, capu aꞌatzu aꞌij tiꞌirɨꞌɨri tɨ ayan teꞌentyuꞌuuna ɨ Cɨriistuꞌu jemi, aɨjna ɨ Jesús tɨ ajta tavastaraꞌa pueen.
+45008039	
+45009011	Ajta matɨꞌɨj cai xɨ huanunuꞌeihuacaꞌa ɨ maj huaꞌapua, matɨꞌɨj cai xɨ tiꞌitɨ aꞌij huaruurajcaꞌa, tɨ puaꞌa tɨ xaꞌapɨꞌɨn een naꞌari tɨ aꞌij puaꞌa een, ayaa pu Dioj tiraataꞌixaa ɨ huaꞌanaana tɨcɨn: “Aɨjna tɨ vastaꞌa, aɨ pu raatyavaɨreꞌesin aɨjna tɨ paꞌarɨꞌɨ.” Ajta ayan tɨcɨn: “Nyaa nu raataxeꞌeve nyaɨjna ɨ Jacobo. Nyajta rájchaɨraꞌacaa nyaɨjna ɨ Esaú.” Ayaa pu een cɨn tiraataꞌixaa tɨ ij ayan raamuaꞌaree aꞌij tɨ rɨcɨ ɨ Dioj tɨ aɨn seij avaꞌahuau. Capu ayan aɨjna cɨn raꞌavaꞌahuau aɨjna cɨmeꞌe tɨ aɨn aꞌatɨ tiꞌitɨj cɨn raꞌaraꞌastijre, silu aɨ pu ayan een cɨn raꞌavaꞌahuau tɨ aɨn Dioj rusaɨj raatajée.
+45009012	
+45009013	
+45009027	Ajta aɨn ɨ Isaías tyaacan, ayaa pu caꞌanin cɨn tyuꞌutaxajtacaꞌa aɨme cɨmeꞌen ɨ maj Israel jetze ajtyamaꞌacan tɨcɨn: “Capu amɨn aꞌij tɨ puaꞌa meyan muiꞌicá aɨme ɨ huaꞌayaujmuaꞌa aɨme ɨ mej Israel jetze ajtyamaꞌacan. Tɨ puaꞌa maj meyan aꞌachu araxca tɨj naꞌa tɨ seijreꞌe ɨ sej tɨ aun aꞌajca aꞌu tɨ aꞌavastɨme ɨ jaj, capu naijmiꞌica huiiratuaasin ɨ Dioj, silu aɨme puꞌu huiiratuaasin ɨ maj cɨn meyan huatyajturaa.
+45009028	Ayaa pu teꞌeme, aꞌinicaꞌanacan pu Dioj ayan nain cɨn raꞌantipuaꞌariteꞌesin tɨ pueijtzi huaꞌutaꞌasin aɨme ɨ maj yan huachaatɨme ɨ chaanaca japua.”
+45009029	Ayaa pu cheꞌeta anacai tiraꞌuteyuꞌuxacaꞌa aɨjna ɨ Isaías tɨcɨn: Ayaa tu eenyaꞌa taꞌajuꞌuncheꞌe matɨj aɨme ɨ maj maun aꞌuchaatɨmaꞌacaa u Sodoma, matɨj majta aɨme ɨ maj aun eꞌechajcaꞌa u Gomorra, ɨ maj cai cheꞌe eꞌeseijreꞌe maujna. Ma ajta aɨn Dioj, ɨ tɨ tihueꞌijteꞌe naijmiꞌica ɨ maj aun eꞌeseijreꞌe u tajapua, aɨ pu ayan raatyajtuaa ityejmi jemi mej mi meyan huatyaturan aɨme ɨ maj ta jetze airaujneijte.
+45009032	¿Aꞌini een cɨn macai meyan raꞌancuraꞌa? Ayej xaa nyaꞌu, ayaa mu een cɨn huamueꞌitɨche maɨjna cɨmeꞌe maj rahuaucaꞌa mej mi meyan huarɨni maj tiꞌitɨj cɨn tyaꞌaraꞌastijreꞌen. Camu meyan rahuaucaꞌa maɨjna cɨmeꞌe maj tyaꞌantzaahua. Aɨ mu meyan huamueꞌitɨche maɨjna cɨmeꞌe maj ratite maɨjna tɨ cɨmeꞌen ayan teꞌeyuꞌusiꞌi tɨcɨn: Casiꞌi, ayaa nu ratyatuaasin nyaɨjna ɨ aꞌatɨ nyaujna u Sión. Ayaa pu tinaatyavaꞌɨri tɨj ɨ tetej ɨ mej jetzen aꞌijcáꞌacatá ɨ tyetyaca, ɨ maj majta jetzen aꞌitavitze. Ma ajta capu raatatyeviꞌirasteꞌesin aɨjna ɨ aꞌatɨ tɨ ayan ráꞌatzaahuateꞌen.
+45009033	
+45010006	Ajta aɨjna ɨ aꞌatɨ tɨ ari urareꞌenyaꞌacan cɨn huatyajturaa ɨ Dioj jemi, ayaa pu tiꞌimuaꞌatze tɨcɨn: “Capej peyan tyaꞌumuaꞌatzɨ ɨ aꞌatzajtaꞌa tɨ ayan ruxeꞌeveꞌe paj aꞌujnyén u tajapua pej yáravaꞌacájneijteꞌen paɨjna ɨ Cɨriistuꞌu.” Ajta ayan tɨ aɨjna cɨmeꞌen: “Capej peyan paj tyetyaꞌɨmɨ aꞌucaanyen ɨ tajete paj raꞌitatuaani ɨ Cɨriistuꞌu huaꞌa tzajtaꞌa ɨ mej meri huacuii.”
+45010007	
+45010019	 Nyajtahuaꞌa nu neyan tyajaꞌamueꞌihuau tɨ puaꞌa macai yauꞌeitaa muaꞌaraa aɨme ɨ maj Israel jetze ajtyamaꞌacan. Ajmiꞌi pu ayan tyuꞌutanyúu aɨjna ɨ Moisés tyaacan. Ayan tɨcɨn: Ayaa nu caꞌanyejri cɨn amuaataꞌasin saj ahuaujchueereꞌen nyaɨjna cɨmeꞌe nyaj rɨꞌɨ tihuaꞌutaꞌasin aɨme ɨ maj cai Israel jetze ajtyamaꞌacan. Nyajta nu amuaatanyúꞌucasteꞌesin nyaɨjna cɨmeꞌe nyej ni rɨꞌɨ tihuaꞌutaꞌasin aɨme ɨ tyaɨte ɨ maj cai rɨꞌɨ me tityaꞌumuámuaꞌaree.
+45010020	Ajta aɨn Isaías, ayaa pu huatauraꞌa tɨ ayan a jeijreꞌe tyuꞌutaxaj tɨcɨn: Ayaa mu naꞌantinajchacaꞌa aɨme ɨ maj cai nyaꞌuuhuausimaꞌa. Nyajta nu huatanseijratacaꞌa aɨme jemi ɨ maj cai nyahuaucaꞌa.
+45010021	Ma ajta aɨn, ayaa pu tyuꞌutaxajtacaꞌa aɨme cɨmeꞌen ɨ mej Israel jetze ajtyamaꞌacantacaꞌa tɨcɨn: “Tɨꞌɨj pɨ naꞌa nain xɨcaj tzajtaꞌa, ayaa nu huaꞌahuavii mej mi saɨque tyuꞌumuaꞌati inyeetzi jemi. Ma ajta, camu aꞌatzu naꞌastijreꞌe. Tyamuaꞌa mu antaujnaamɨ inyeetzi jemi.”
+45011020	Ee xaa nyaꞌu, ayaa pu tiꞌayajna. Capu amɨn aꞌij. Ayaa pu een cɨn huaꞌuruu aɨjna cɨmeꞌe maj cai ráꞌantzaahua. Ma sajta muan, ayaa xuꞌu sanaꞌa saɨjna jetze ajtyamaꞌacan saɨjna cɨmeꞌe sej seyan tyaꞌatzaahuateꞌe. Caxu seyan aꞌujtzaahuatyaꞌa, silu sataꞌaj seyan tiꞌitzɨɨnyaꞌa, aꞌini Dioj capu ayan tiraatauuniꞌiriꞌi aɨjna ɨ piꞌista tɨ ajtanyajxɨ ɨ cɨye jetze tɨ reꞌen. Capu ajta tyajamuaatauuniꞌira muejmi.
+45011021	
+45013003	Tɨ puaꞌa aꞌatɨ ayan rɨꞌɨ tiꞌityujchaꞌɨ, capu ruxeꞌeveꞌe tɨ aɨn aꞌatɨ ayan huaꞌatzɨɨnyaꞌa aɨme ɨ mej tiꞌitɨj cɨn antyujmuaꞌaree. Ma ajta aɨjna tɨ aꞌij puaꞌa tiꞌityujchaꞌɨ, ayaa pu xaa nyaꞌu tiraavijteꞌe tɨ aɨn ayan huaꞌatzɨɨnyaꞌa aɨme ɨ mej tiꞌijta. Tɨ puaꞌa peyan tiꞌijxeꞌeveꞌe paj cai tiꞌitɨj cɨn ratzɨɨnyaꞌa paɨjna tɨ tiꞌijta, pataꞌaj peyan huarɨni tiꞌitɨj cɨmeꞌe tɨ iꞌi xaꞌapɨꞌɨn. Tɨ puaꞌa peyan huarɨni, ayaa pu rɨꞌɨ timuaataꞌasin aɨjna tɨ tiꞌijta, aꞌini Dioj pu aɨjna cɨn raꞌantihuau tɨ ij aɨn tiꞌityavaꞌɨrihuaꞌan jemin. Ma ajta, tɨ puaꞌa peyan aꞌij puaꞌa títiáꞌachaꞌɨ, aj paj xaa ratzɨɨnyaꞌa puaꞌame, aꞌini aɨ pu aɨjna cɨn antyujmuaꞌaree tɨ pueijtzi muaataꞌan. Aɨ pu xaa nyaꞌu tiꞌivaɨreꞌe ɨ Dioj jemi tɨ ij Dioj jetze maꞌacan ayan pueijtzi huaꞌutaꞌan aɨme ɨ maj aꞌij puaꞌa titetyújchaꞌɨ.
+45013004	
+45014012	Aɨj pu cɨn, aꞌachu tyaj puaꞌamua tyaj yan seijreꞌe, naijmiꞌi tu teyan tyuꞌutaxajta mé jeijreꞌe ɨ Dioj jemi aꞌij tyaj tiꞌitɨj cɨn huarɨj.
+45015005	Ajta aɨn Dioj tɨ ayan caꞌanijraꞌa amuaataꞌaca sej si seyan huatyaujcaꞌanyen, ajta sej si tyaꞌutaviicueꞌi, cheꞌe aɨn ajta amuaataꞌacareꞌen sej rɨꞌɨ titetyújchaɨ rujɨɨmuaꞌa sej si seyan ruꞌihuaamuaꞌa xaꞌaraꞌani tyamuaꞌa naa aꞌachu saj puaꞌamua. Cheꞌe Dioj rɨꞌɨ tyajamuaataꞌacareꞌen aɨjna cɨmeꞌe saj sauj seyan raꞌastijreꞌe ɨ Cɨriistuꞌu tɨ ajta iꞌi Jesús, sej si naijmiꞌi seyan rɨꞌɨ tiraataꞌan saɨjna ɨ Dioj tɨ yaꞌupuaaraꞌan pueen ɨ tavastaraꞌa, aɨjna ɨ Jesús tɨ ajta iꞌi Cɨriistuꞌu. Sataꞌaj seyan rɨꞌɨ tiraataꞌacareꞌen aꞌachu saj ruꞌumuaꞌaree ɨ aꞌamuatzajtaꞌa.
+45015006	
+45015008	Ayaa nu tyajaꞌamueꞌixaateꞌe tɨ aɨn Cɨriistuꞌu ayan aɨjna cɨn teꞌentyajrupi tɨ ij huaꞌutyavaɨreꞌen aɨme ɨ maj runavij antisiꞌiche aɨjna cɨmeꞌe mej meyan raamuaꞌaree tɨ Dioj tzaahuatiꞌiraꞌa cɨn arauraste aꞌij tɨ ari tyaꞌataujratziiriꞌi. Cɨriistuꞌu pu nain cɨn tyaꞌataujratziiriꞌi huaꞌa jemi ɨ huaꞌahuaacɨxaꞌastyamuaꞌacɨꞌɨ mej mi aɨme ɨ mej seij chuejraꞌa japua eꞌemaꞌacantacaa majta meyan rɨꞌɨ tiraataꞌasin ɨ Dioj maɨjna cɨmeꞌe tɨ aɨn huaꞌancuꞌuvajxɨ. Ayaa pu teꞌeyuꞌusiꞌi tɨcɨn: Aɨj nu cɨn rɨꞌɨ timuaataꞌasin huaꞌa tzajtaꞌa aɨme ɨ mej seij chuejraꞌa japua eꞌemaꞌacan. Ayaa nu tiꞌichuiica naꞌame nyej ni nyaɨjna cɨn rɨꞌɨ timuaataꞌan.
+45015009	
+45015010	Ajtahuaꞌa ayan tɨcɨn: Sataꞌaj huataujtyamuaꞌaveꞌen huaꞌa jamuan ɨ tyaɨtestyamuaꞌameꞌen pueen ɨ Israel tyaacan, muaan mɨ sej seij chuejraꞌa japua eꞌemaꞌacan.
+45015011	Ajtahuaꞌa seij ayan tɨcɨn: Sataꞌaj rɨꞌɨ tiraataꞌan ɨ tavastaraꞌa, naijmiꞌi muan, aꞌachu saj puaꞌamua, mɨ sej seij chuejraꞌa japua eꞌemaꞌacan. Sataꞌaj sajta seyan tyuꞌutachuiica ɨ jemin sej si saɨjna cɨn rɨꞌɨ tiraataꞌan, naijmiꞌi muan, mɨ tyaɨte sej yan huachaatɨme chaanaca japua.
+45015012	Ajtahuaꞌa, ayan tyuꞌutaxajtacaꞌa aɨjna ɨ Isaías tyaacan tɨcɨn: Seij pu airaujneijteꞌesin aɨjna jetze ɨ Isaí. Aɨ pu ayan huataseijreꞌesin tɨ ij ayan tihuaꞌutaijteꞌen naijmiꞌica aɨme ɨ mej seij chuejraꞌa japua eꞌemaꞌacan. Majta aɨme, ayaa mu rajchuꞌeveꞌesin tɨꞌi aɨn hueꞌirajtuaani.
+45015015	Ayaa nu eihua ahuanyacaꞌanyaa nyej ni neyan tyajamuaatayuꞌuseꞌen tiꞌitɨ cɨmeꞌe. Capu tiꞌiseicaj naꞌa, canu nyajta tiꞌitzɨɨnyaꞌacaa nyej neyan huarɨj, silu ayaa nu nyajtahuaꞌa tiꞌitɨ cɨn amuaꞌutamuaꞌareeriꞌi nyaɨjna cɨmeꞌe, aꞌini Dioj pu ayan tinyeijca. Ayaa nu nyaɨjna cɨn teꞌentyajrupi nyej ni tyuꞌutyavaɨreꞌen ɨ Dioj jemi. Nyajta nu nyaɨjna cɨn antinmuaꞌaree nyej neyan ratyavaɨreꞌen ɨ Cɨriistuꞌu, tɨ ajta iꞌi Jesús, nyej ni neyan tihuaꞌutaꞌixaateꞌen aɨme ɨ mej seij chuejraꞌa japua eꞌemaꞌacan aꞌij tɨ ari huarɨj ɨ Dioj. Ayaa mu eenyaꞌa muaꞌajuꞌun tɨj muaɨꞌɨvejri tɨ seij raatyajtuaa ɨ Dioj jemi tɨ ij ayan rɨꞌɨ tiraataꞌan. Ee xaa nyaꞌu, aɨn ɨ xaijnyuꞌucaraꞌaraꞌan ɨ Dioj, aɨ pu ayan huaꞌaruuren mej mi meyan urareꞌenyaꞌacan cɨn huatyaturan ɨ Dioj jemi.
+45015016	
+45015018	Aɨj nuꞌu cɨn neyan aꞌancaꞌanye nyej tyajaꞌamueꞌixaateꞌen nyaɨjna cɨmeꞌe tɨ Cɨriistuꞌu ari ayan tyuꞌuruu aɨjna cɨmeꞌe nyaj ravaɨreꞌe mej mi maɨn ɨ mej seij chuejraꞌa japua eꞌemaꞌacan meyan raꞌaraꞌastijreꞌen maɨjna ɨ Dioj. Ayaa mu een cɨn raꞌastijreꞌe maɨjna cɨmeꞌe mej meyan raanamuajriꞌi aꞌij nyej tyuꞌutaxajtacaꞌa, majta meyan naaseij inyeetzi aꞌij nyej tiꞌitɨj cɨn huarɨj, nyej neyan huarɨj tɨ huapɨꞌɨ ruxeꞌeveꞌe, ɨ maj cɨn aꞌij tyaꞌutaseij, aꞌini Dioj pu raatyajtuaa ɨ rumuareꞌeriꞌiraꞌa inyeetzi jemi aɨjna cɨmeꞌe nyaj nyaɨjna jetze arancaꞌanyajcaꞌa ɨ xaijnyuꞌucaraꞌaraꞌan ɨ Dioj. Aɨj nu cɨn nain japua neri tihuaꞌutaꞌixaa nyaɨjna ɨ nyuucari tɨ cɨmeꞌen raxa ɨ Cɨriistuꞌu. Nainjapua tɨj naꞌa aun maj huachaatɨme u Jerusalén, nyajta meyee aꞌu maj eꞌereꞌetyaꞌacaa asta nyanaꞌa cai nyaun ɨmɨ aꞌatanye nyaujna aꞌu maj aꞌuchaatɨme tɨj naꞌa tɨ aun huatacáꞌa u Ilírico, nain nu cɨn tihuaꞌutaꞌixaa ɨ Cɨriistuꞌu jetze maꞌacan.
+45015019	
+45015023	Aru ijii, aꞌini capu cheꞌe maꞌa aꞌarɨꞌɨri nyej nyaun tyajaꞌumuareꞌen tɨj naꞌa ayun tɨ huacaꞌa, ajta aꞌini puꞌuri tyajaume aꞌachu puaꞌan ninyeꞌiraꞌa nyej neyan tiꞌijxeꞌeveꞌe nyej amuajaꞌuvaꞌamuaare, ayaa nu tiꞌimuaꞌatze nyej neyan huarɨni nyatɨꞌɨj nyaun aꞌuméꞌen u España. Ayaa nu tiꞌijxeꞌeveꞌe inyaa nyej nyaun amuajaꞌutéseijra nyatɨꞌɨj nyaun aꞌuméꞌen, tyej ti aꞌatzu huatatyamuaꞌaveꞌen tajɨɨmuaꞌa, sej si sajta naatavaɨreꞌen nyej ni nyajtahuaꞌa u aꞌuméꞌen aꞌu nyaj aꞌuméj.
+45015024	
+45016017	Ayaa nu tyajaꞌamueꞌixaateꞌe tzaahuatiꞌiraꞌa cɨmeꞌe, muan, nyeꞌihuaamuaꞌa. Rɨꞌɨ xuꞌu muan aɨme jemi ɨ maj caꞌanijraꞌa amuaataꞌaca sej si eꞌitaꞌa aꞌutácɨɨnye, majta meyan aꞌamuamuáreꞌeristeꞌe sej seyan autaꞌɨtzen ɨ Dioj jemi. Aɨ mu meri ajtacɨ́j aɨjna jetze aꞌij sej seri tiraarɨꞌɨre. Caxu huaꞌa jamuan áꞌujhuaꞌanyeꞌen, aꞌini matɨj manaꞌa mej meyan eꞌen, camu aꞌatzu ravaɨreꞌe ɨ tavastaraꞌa, aɨjna ɨ Cɨriistuꞌu. Rujɨɨmuaꞌa muꞌu ravaɨreꞌe. Ayaa mu maɨjna cɨn huaꞌacuanamua ɨ tyaɨte ɨ maj cai tiꞌitɨj cɨn aꞌaturaj. Ayaa mu maɨjna cɨn tihueꞌixaateꞌe nyuucari cɨmeꞌe tɨ ayaa naꞌa naa namuajreꞌe, nusu tiꞌitɨ maj cɨn ahuaujtzaahuateꞌen aɨme ɨ mej meyan ranamua.
+45016018	
+46001004	Aꞌanaj tɨ naꞌa nu neyan rɨꞌɨ tirataꞌaca ɨ Dioj nyaj ranajche muejmi cɨmeꞌen, aꞌini eihua pu rɨꞌɨ tyajamuaataꞌa ɨ Dioj aɨjna cɨmeꞌe sej seri jemin seijreꞌe ɨ Cɨriistuꞌu, tɨ ajta Jesús pueen, aꞌini aɨjna jemi muan xu seri nain tyaꞌancuraꞌa tɨ tyajamuatyavaꞌɨri ɨ saj cɨn tihuaꞌutaꞌixaateꞌen ɨ tyaɨte, ajta ɨ saj cɨn yauꞌeitaa xaꞌaraꞌani aꞌij tɨ een ɨ Dioj jemi.
+46001005	
+46001014	 Eecan nu rɨꞌɨ tirataꞌaca ɨ Dioj nyaj cai aꞌatɨ huamuaɨꞌɨhuacaꞌa silu aɨme nuꞌu nyaɨjna ɨ Crispo, nyajta nyaɨjna ɨ Gayo. Ayaa nuꞌu huarɨj sej si cai saɨjna cɨn aꞌujtzaahuatyaꞌa saɨjna cɨmeꞌe saj huamuaɨꞌɨvijhuacaꞌa nyenyuucajtzeꞌe.
+46001015	
+46001016	Nyajta nu huaꞌumuaɨꞌɨhuacaꞌa aɨme ɨ tyaɨtestyamuaꞌameꞌen aɨjna ɨ Estéfanas. Ayaa puꞌu xaa nyaꞌu, canu cuiꞌi ramuaꞌaree tɨ puaꞌa nyajtahuaꞌa seij huamuaɨꞌɨhuacaꞌa nusu nyacai.
+46001017	
+46001028	 Ee xaa, Dioj pu ayan huaꞌantihuau aɨme ɨ maj cai huaꞌa jetze tiꞌicaꞌanyajcaꞌa, ajta aɨme ɨ maj huaꞌaxaahuatacaꞌa. Ayaa pu xaa nyaꞌu tiꞌayajna, Dioj pu ayan aɨjna cɨn huaꞌantihuau aɨme ɨ maj cai seijreꞌe aɨme jemi ɨ tyetyaca tɨ ij ayan huaꞌantipuaꞌariteꞌen aɨme ɨ maj títyatatí iiyan chaanaca japua, tɨ ij cai aꞌatɨ ayan aꞌujtzaahuatyaꞌa ɨ Dioj jemi.
+46001029	
+46002002	ayaa nu tiraaxaꞌapɨꞌɨntare nyaj aɨ naꞌa yauꞌeitaa naꞌaraꞌani muejmi jemi nyaɨjna ɨ Jesús tɨ ajta Cɨriistuꞌu pueen, ɨ maj ráꞌutatai ɨ curuu jetze. Nyajta, nyatɨꞌɨj nyaun aꞌutyavaacaꞌa muejmi jemi, ayaa nu amuaꞌaseijratyaꞌacaa tɨ nuꞌu cai nuꞌucaꞌanistiꞌi. Cu xuee nyaj tiꞌitzɨɨnyaꞌacaa. Ee xaa, eihua nu nyevivajcaꞌa.
+46002003	
+46002010	Ma ajta aɨn, Dioj pu taataseijrate aɨjna cɨmeꞌe tɨ tejmi jemi raatyajtuaa aɨjna ɨ ruxaijnyuꞌuca tɨ ij aɨn ayan titaataꞌitii. Ajta aɨn xaijnyuꞌucaraꞌaraꞌan, nain pu cɨn ayan tiraꞌamitejteꞌe, ajta nain pu ruꞌumuaꞌaree aꞌij tɨ tiraꞌamitejteꞌe ɨ Dioj.
+46003008	Naijmiꞌi mu tiꞌivaɨreꞌe aɨjna tɨ tiꞌihuiiteꞌe, ajta aɨjna tɨ tiꞌipua aꞌayeꞌi. Ruxaꞌa muꞌu tiꞌivaɨreꞌe, ajta Dioj pu ayan huaꞌutaꞌasin aꞌij tɨ tiraavijteꞌe aɨjna cɨmeꞌe ɨ tɨ racɨꞌɨcɨpua ɨ tɨ cɨn tyuꞌumuarej, aꞌini tyan tu jamuan tiꞌimuareꞌe ɨ Dioj. Sajta muan, ayaa xu tiꞌitɨj cɨn tiꞌivaɨreꞌe tɨj aꞌu maj tyajaꞌatasaahua, ajta tɨj chiꞌi tɨ Dioj raꞌajtaahua.
+46003009	
+46003012	Ajta, ayaa pu seiraꞌa aꞌame tɨj tiꞌitɨj tɨ cɨn japuan ájtaavijhuacaꞌa tɨ puaꞌa aɨjna cɨmeꞌe ɨ ooro nusu plaata cɨmeꞌe naꞌari tetej cɨmeꞌe tɨ huapɨꞌɨ tiꞌijnajchi. Ajta ayan cheꞌeta naꞌa seiraꞌa aꞌame tɨ puaꞌa ayan ájtaavijhuacaꞌa aɨjna cɨmeꞌe ɨ cɨye naꞌari ɨxaj cɨmeꞌe caꞌɨn huaacɨxaꞌa cɨmeꞌe. Ee xaa nyaꞌu, ayaa pu seiraꞌa aꞌame ɨ tiꞌitɨ ɨ maj cɨn tyuꞌumuarej ɨ tyaɨte, seij ajta seij, matɨj manaꞌa puaꞌamua mej iiyan seijreꞌe ɨ chaanaca japua. Ajna xɨcajraꞌa jetze, ayaa pu Dioj raaxaꞌapɨꞌɨntareꞌen aꞌij tɨ een aꞌini ayaa pu tyajaꞌureꞌenyejsin tɨj taij tɨ cɨn huaꞌutaseijrateꞌesin. Ajta aɨjna ɨ taij, aɨ pu raatyamuaꞌatzi tɨ puaꞌa xaꞌapɨꞌɨn metyuꞌumuarej seij ajta seij nusu macai.
+46003013	
+46003018	Caxu rucuanamua rujɨɨmuaꞌa. Tɨ puaꞌa ayan tiraꞌamitejtyaꞌa seij ɨ aꞌatɨ tɨ ayan rɨꞌɨ tiruꞌumuaꞌaree aɨjna cɨmeꞌe ɨ huaꞌamuaꞌatziiraꞌa aɨme ɨ mej ijii huatyaɨte, cheꞌe aɨn cai cheꞌe ayan aꞌujtzaahuatyaꞌa aɨjna cɨmeꞌe ɨ huaꞌamuaꞌatziiraꞌa. Cheꞌe aɨn ayan raꞌancuraꞌan ɨ muaꞌatziiraꞌa tɨ tavastaraꞌa jetze eꞌemaꞌacan, aꞌini aɨjna ɨ huaꞌamuaꞌatziiraꞌa aɨme ɨ mej ijii huatyaɨte, capu tiꞌitɨ aꞌij huataujmuaꞌa ɨ Dioj jemi. Ayaa pu xaa tyaꞌasɨɨmueꞌi tɨcɨn: “Dioj pu huaꞌaviviꞌiraꞌan aɨme ɨ maj meyan áꞌujtzaahuateꞌe maɨjna cɨmeꞌe mej tiꞌihueꞌitaca ɨ rumuaꞌatziiraꞌa cɨmeꞌe.”
+46003019	
+46003021	Aɨj xu cɨn, caxu cheꞌe seyan aꞌujtzaahuatyaꞌa saɨjna cɨmeꞌe saj nuꞌu seij jetze ajtyamaꞌacan ɨ tyaataꞌa. Naimiꞌi pu ayan tyajaꞌamuacɨꞌɨti, tɨ puaꞌa neyan tyajaꞌamuavaɨraꞌa inyaa, i nyaj iꞌi Pablo naꞌari aɨn Apolos ayan tyajaꞌamuavaɨraꞌa nusu aɨjna ɨ Pedro. Tɨ puaꞌa ayan aɨjna cɨn rɨꞌɨ tyajamuaataꞌan ɨ Dioj aɨjna cɨmeꞌe tɨj naꞌa tɨ iiyan seijreꞌe chaanaca japua nusu sej seyan ruuri huatyaturan naꞌari sej seyan huacuiꞌini, tiꞌitɨ tɨ aꞌij tɨ ayan ijii tiꞌiseijreꞌe caꞌɨn tiꞌitɨ tɨ ayan tyajaꞌureꞌenyejsin, naimiꞌi pu ayan tyajaꞌamuavaɨreꞌe.
+46003022	
+46004003	Me nyajta inyaa, capu nyejetze ruxeꞌeveꞌe tɨ puaꞌa muan seyan naꞌuxɨjteꞌen, naꞌari meyan naꞌuxɨjteꞌen aɨme ɨ mej ijii huatyaɨte maɨjna cɨmeꞌe aꞌij tɨ tihuaꞌamityejteꞌe. Ee xaa nyaꞌu, canu nyasaɨj áꞌanxɨjteꞌen, aꞌini canu nyaa nyasaɨj ramuaꞌaree tij tiꞌitɨj cɨn nyaꞌutyajturaa ɨ Dioj jemi. Capu amɨn aꞌij, capu ayan huataujmuaꞌa nyej neri xaꞌapɨꞌɨn een ɨ Dioj jemi. Tavastaraꞌa pu aɨn pueen ɨ tɨ naꞌaxɨjteꞌen.
+46004004	
+46005004	Ayaa xu huarɨni satɨꞌɨj eꞌetyujsaɨreꞌen nyuucajtzeꞌen ɨ tavastaraꞌa, aɨjna ɨ Jesús, ajta nyatɨꞌɨj nyaun muejmi jemi eꞌeseijraꞌa nyamuaꞌatziiraꞌa cɨmeꞌe. Sataꞌaj seyan saɨjna jetze araujcaꞌanyen ɨ muáreꞌeriꞌiraꞌaraꞌan ɨ tavastaraꞌa ɨ Jesús sej si raatatuireꞌen saɨjna ɨ aꞌatɨ ɨ Satanás jemi tɨ ij aɨn tiyaaruꞌu raꞌupuaꞌariteꞌen ɨ tevijraꞌan, tɨ ij ajta Dioj ruꞌirajtuaani ɨ xaijnyuꞌucaraꞌaraꞌan ɨ aꞌatɨ ajna xɨcajraꞌa tɨ jetzen tyuꞌutaijta ɨ tavastaraꞌa.
+46005005	
+46005012	Canu nyaɨjna cɨn antinmuaꞌaree nyej neyan huaꞌuxɨjteꞌen aɨme ɨ maj cai tyejmi jetze ajtyamaꞌacan silu aɨ pu Dioj huaꞌaxɨjteꞌen. Ma sajta muan, muan xu xaa saɨjna cɨn antyujmuaꞌaree sej seyan huaꞌuxɨjteꞌen aɨme ɨ mej jaꞌamua jetze ajtyamaꞌacan. Sataꞌaj raatamuariteꞌen saɨjna ɨ aꞌatɨ tɨ aꞌij puaꞌa tiꞌityujchaꞌɨ.
+46005013	
+46006019	Casiꞌi, ayaa pu tiꞌivaɨreꞌe ɨ aꞌamuatevi tɨj teyuu tɨ tzajtaꞌan huirajca ɨ xaijnyuꞌucaraꞌaraꞌan ɨ Dioj. Aɨ pu aꞌamua tzajtaꞌa seijreꞌe. Ajta, muan xu raꞌancureꞌeviꞌitɨ ɨ Dioj. Muan xu cai saɨjna cɨn antyujmuaꞌaree ɨ rutevi aꞌini aɨ pu tyuꞌutanajchitacaꞌa muejmi jetze maꞌacan. Aɨj pu cɨn ayan ruxeꞌeveꞌe sej seyan ranaꞌamicheꞌen ɨ rutevi cɨmeꞌe.
+46006020	
+46009009	Ayaa pu tyaꞌasɨɨmueꞌi ɨ yuꞌuxari jetze, tɨ Moisés tyaacan raꞌuyuꞌuxacaꞌa tɨcɨn: “Capej raꞌancánaamɨn ɨ puuye tɨꞌɨj aɨn atáyeꞌicaa rayuu ɨ triigu.” ¿Ni qui jetzen ruxeꞌeveꞌe ɨ Dioj aɨjna ɨ puuye, naꞌari tyejmi naꞌa cɨmeꞌen ayan tiꞌixa? Ee xaa nyaꞌu. Nain pu cɨn tyejmi cɨn ayan tyuꞌutaxajtacaꞌa. Ayaa pu een cɨn tyejmi cɨmeꞌen ayan teꞌeyuꞌusiꞌihuacaꞌa aꞌini ayaa pu tiraavijteꞌe tɨ aɨn aꞌatɨ tɨ tasaꞌahuaca ayan rachuꞌeveꞌe tɨ tiꞌitɨj raacɨꞌɨti aɨjna cɨmeꞌe tɨ tyuꞌutasaahuacaꞌa. Ajta, aɨn tɨ tiꞌitzaꞌanaca, ayaa pu ajta ayan tiraavijteꞌe tɨ ayan rachuꞌeveꞌe tɨ tiꞌitɨ raacɨꞌɨti aɨjna tɨ huacɨɨracaꞌa.
+46009010	
+46009026	Aɨj nu cɨn, canu chaꞌa nyanaꞌa taꞌichaca. Canu nyajta chaꞌa nyanaꞌa tyaꞌancuráꞌatuꞌaxa ɨ aaca tzajtaꞌa, silu ayaa nu tyeꞌejtyantuꞌaxa ɨ nyejetze, nyajta inyaa raatyamueꞌitɨ naꞌayeꞌi caꞌanyejri cɨmeꞌe tɨꞌij naꞌaraꞌastijreꞌen ɨ nyaj ratyáhueꞌiraꞌa. Ayaa nu een cɨn rɨcɨ tɨ ij cai Dioj naaraꞌite nyatɨꞌɨj neri neyan tihuaꞌutaꞌixaa ɨ seica.
+46009027	
+46010025	Sataꞌaj seyan raacuaꞌani tiꞌitɨ tɨ naꞌa ɨ maj ratua ajna mej eꞌeseijreꞌe ɨ mej tiꞌituꞌaraca. Caxu sajta seyan tyuꞌurihuaꞌura tɨ puaꞌa ayan aꞌij puaꞌa amuaaruuren ɨ aꞌamuaxaijnyuꞌuca jetze nusu cai, aꞌini tavastaraꞌa pu raꞌa ɨ chuej i tyaj japuan huachaatɨme. Aɨ pu ajta raꞌa tɨj naꞌa tɨ iiyan tiꞌiseijreꞌe.
+46010026	
+46010028	Ma ajta, tɨ puaꞌa aꞌatɨ ayan timuaataꞌixaateꞌen yee tɨ nuꞌu huatamuaɨꞌɨvijtiꞌihuacaꞌa, ayaa paj huarɨni paj cai racuaꞌaca paɨjna cɨmeꞌe paj raxeꞌeveꞌe paj raatavaɨreꞌen paɨjna ɨ aꞌatɨ tɨ ayan timuaataꞌixaa, pajta paɨjna tɨ cai aꞌij puaꞌa raruuren ɨ xaijnyuꞌucaraꞌaraꞌan aɨjna ɨ aꞌatɨ. Ee xaa nyaꞌu, capu aꞌij raruuren ɨ aꞌaxaijnyuꞌuca. ¿Aꞌini een cɨmeꞌe ayan tyuꞌutaꞌijmɨ nyeetzi jemi nyej ni cai neyan huarɨni aꞌij tɨ tinataꞌaca nyej ni cai aꞌij puaꞌa raruuren ɨ xaijnyuꞌucaraꞌaraꞌan ɨ nyaxaꞌaj tevi?
+46010029	
+46011018	Anacaican, ayaa nu ya raamuaꞌareeriꞌi sej eꞌitaꞌa aꞌutacɨ́ꞌɨca satɨꞌɨj saun eꞌetyujsaɨreꞌen. Me nyajta inyaa, tɨmuaꞌa nu tɨn tyaꞌatzaahuateꞌe aꞌini ayaa pu ruxeꞌeveꞌe mej seica airaajuꞌun muejmi jemi ɨ mej saɨque tiꞌimuaꞌatze sej si seyan huaꞌutamuaꞌati aɨme ɨ mej muejmi jemi seijreꞌe, ɨ maj majta tzaahuatiꞌiraꞌa cɨn meyan rɨcɨ.
+46011019	
+46012024	Ajta, ɨ seica tɨ jetzen seijreꞌe, tɨ ajta cai ayan tyuꞌutyeviꞌirasteꞌe, catu teyan rɨꞌɨ tiratecheꞌete. Ma ajta Dioj, ayaa pu eenyeꞌen huatyajtuaa ɨ tevijraꞌan tɨꞌij ayan eitzeꞌe rɨꞌɨ tirataꞌacareꞌen aɨjna tɨ tiraꞌaturaateꞌe mej mi cai eꞌitaꞌa aꞌutácɨɨnye ɨ mej tevijraꞌan jetze ajtyamaꞌacan silu mej mi meyan cheꞌeta manaꞌa ahuaujcuꞌuven seij majta seij. 
+46012025	
+46014032	Majta aɨme ɨ maj Dioj jetze maꞌacan tiꞌixaxaꞌa, ayaa pu ruxeꞌeveꞌe maj majta raayɨꞌɨtɨhuaꞌan maj tiraijteꞌen ɨ ruxaijnyuꞌuca huaꞌa jemi ɨ mej eꞌetyujsaꞌɨri. Ayaa pu ruxeꞌeveꞌe aꞌini capu Dioj chaꞌanaꞌa huaꞌaruuren mej mi cai xaꞌapɨꞌɨn ruruure silu aɨ pu huaꞌutyapuaꞌariteꞌesin. Sataꞌaj seyan cheꞌeta sanaꞌa huarɨni aꞌij mej meri tiꞌijrɨꞌɨre naijmiꞌi ɨ seica ɨ mej eꞌetyujsaꞌɨri ɨ Dioj jemi.
+46014033	
+46015008	Ajta, nyeetzi jemi puꞌuqui teꞌentipuaꞌari tɨ ayan huataseijre. Tij ayaa nu huanuꞌeihuacaꞌa matɨꞌɨj cai xɨ nyechuꞌevaꞌacaꞌa, aꞌini nyaa nu nyaɨn pueen ɨ tɨ eitzeꞌe cɨleꞌenyeꞌen cɨn tiꞌityejvee huaꞌa jemi tɨ Dioj huaꞌantihuau. Ee xaa nyaꞌu, capu ayan tiraavijteꞌe nyej neyan raataxaj yee nyaa nu huaꞌa jetze ajtyamaꞌacan aɨme ɨ tɨ Dioj huaꞌantihuau, aꞌini nyaa nu huapɨꞌɨ aꞌij puaꞌa huaꞌuruu aɨme ɨ mej eꞌetyujsaꞌɨrihuaꞌa mej mi raatyanajche ɨ Dioj.
+46015009	
+46015052	Ayaa pu teꞌeme ajna xɨcajraꞌa tɨ jetzen huatánamuajreꞌen ɨ trompeeta tɨ cɨmeꞌen nain teꞌentipuaꞌariteꞌesin. Tɨꞌɨj aɨn tɨ tajapua tiꞌivaɨreꞌe ucaajijhua ɨ trompeeta jetze, aj puꞌi ayan seiiraꞌa aꞌame tɨꞌɨj maj huatyamaxcavaꞌaxɨꞌɨn iyeꞌitzi cɨmeꞌe. Aj puꞌi Dioj huáꞌajjajpuaxɨꞌɨsin aɨme ɨ mej meri huacuii mej mi cai cheꞌe aꞌanaj aupuaꞌare. Tyajta ityan, saɨque tu huatyátaruurejsin, aꞌini ayaa pu ruxeꞌeveꞌe tɨ aɨn tɨ áꞌapuaꞌaren ayan saɨque huaujruuren tɨ ij cai cheꞌe aupuaꞌare. Ajta ayan ruxeꞌeveꞌe tɨ aɨn tɨ mɨꞌɨni, ajta ayan saɨque huaujruuren tɨ ij cai cheꞌe huamɨꞌɨni.
+46015053	
+46016008	Me nyajta inyaa, au nu aꞌutyaváa naꞌame nyaujna u Efeso asta naꞌa cai tyajaꞌureꞌenyen ajna matɨꞌɨj tiꞌiyeste maɨjna cɨmeꞌe taꞌaraahuaꞌapua tɨ araꞌase i iteeri. Ee xaa, ayaa nu huarɨni aꞌini naa pu tinaavaɨ aɨjna cɨmeꞌe ɨ nyej tiꞌimuareꞌe nyej ni eihua huapɨꞌɨ raatyavaɨreꞌen ɨ tavastaraꞌa. Capu amɨn aꞌij mej eihua nyejchaɨreꞌe.
+46016009	
+46016015	Xuꞌuri ramuaꞌaree ai mu aɨn pueen ɨ maj anacai huataujtuꞌiriꞌi ɨ tavastaraꞌa jemi ayujna Acaya aɨme ɨ tyaɨtestyamuaꞌameꞌen aɨjna ɨ Estéfanas. Aɨ mu majta meri maɨjna cɨn autyajhuii maj huaꞌutyavaɨreꞌen aɨme ɨ mej Dioj jetze ajtyamaꞌacan. Ayaa nu caꞌanijraꞌa amuaataꞌaca, nyeꞌihuaamuaꞌa, sej si huaꞌatzaahuatyaꞌa aɨme, sajta naijmiꞌica ɨ tyaɨte ɨ mej meyan cheꞌeta manaꞌa tiꞌimuareꞌe tyatɨj ityan, ɨ maj majta tzaahuatiꞌiraꞌa cɨn tiꞌivaɨreꞌe tavastaraꞌa jetze maꞌacan.
+46016016	
+47001013	Ajta, ɨ nyaj tyajaꞌamuayuꞌuseꞌe, ayaa puꞌu naꞌa aɨn pueen aꞌij saj sanaꞌa tiraayɨꞌɨtɨ saj raꞌujijveꞌen, aꞌij saj sanaꞌa sajta tiyauꞌeite. Ayaa nu nyajta tiꞌijxeꞌeveꞌe saj raamuaꞌaree nain cɨmeꞌe tyaj tyaɨn pueen ɨ saj cɨn rɨꞌɨ tiraataꞌasin ɨ Dioj. Ee xaa, xuꞌuri seyan raamuaꞌareeriꞌi. Sajta muan, muan xu saɨn pueen ɨ tyaj cɨn rɨꞌɨ tiraataꞌasin ajna xɨcajraꞌan tɨ jetzen ajtahuaꞌa huataseijreꞌesin aɨjna ɨ tavastaraꞌa, aɨjna ɨ Jesús.
+47001014	
+47002010	Aꞌatɨ tɨ naꞌa saj tiraatauuniꞌi, nyaa nu nyajta neyan cheꞌeta nyanaꞌa tiraatauuniꞌira. Tɨ puaꞌa neyan tiꞌitɨ cɨn tiraatauuniꞌiriꞌi, tiꞌitɨ tɨ naꞌa, ayaa nu een cɨn tiraatauuniꞌiriꞌi nyej ni aꞌamua japua huanyuuni ɨ Cɨriistuꞌu jemi tɨ ij cai aɨn Satanás tiꞌitɨ cɨn taꞌantimueꞌitɨn, aꞌini tyan tu xaa ramuaꞌaree aꞌij tɨ aɨn eenyeꞌequeꞌe tiꞌimuareꞌe.
+47002011	
+47004013	 Ayaa pu teꞌeyuꞌusiꞌi tɨcɨn: “Nyaa nu tyaꞌantzaahua. Aɨj nu hui cɨn neyan tyuꞌutaxajtacaꞌa.” Ayaa pu cheꞌeta naꞌa een itejmi jemi. Tyan tu tyajta tyaꞌatzaahuateꞌe, tyajta teyan tiꞌixaxaꞌa tyaɨjna cɨmeꞌe tej teri ramuaꞌaree tɨ aɨjna ɨ tɨ raꞌajjáj ɨ tavastaraꞌa, aɨjna ɨ Jesús, huaꞌa tzajtaꞌa ɨ mɨꞌɨchite, aɨ pu ajta taꞌajjájpuaxɨꞌɨsin jamuan ɨ Jesús. Aɨ pu ajta taataseijrata muejmi jamuan tej ti naimiꞌi huatyaturan ɨ jemin.
+47004014	
+47005006	Aɨj tu cɨn, aꞌanaj tɨ naꞌa, aɨ pu caꞌanijraꞌa tataꞌaca aꞌini ayaa tu ramuaꞌaree tyatɨꞌɨj tyauj teyan ruuri seijraꞌa tyeijna jetze ɨ tej ratyáhueꞌiraꞌa, tyan tu cai xɨ tyaun aꞌutí ɨ tavastaraꞌa jemi. Ayaa puꞌu xaa nyaꞌu tiꞌen, aꞌini ayaa tu een cɨn ya áꞌujhuaꞌan tyaɨjna cɨmeꞌe tyaj raꞌatzaahuateꞌe. Catu tyaɨjna cɨmeꞌe tyanaꞌa ya áꞌujhuaꞌan tej ti tyaɨjna jetze aratacaꞌanyen aɨjna tej tiꞌisiseꞌi teyajna.
+47005007	
+47006017	Ayaa pu tiꞌixa ɨ tavastaraꞌa tɨcɨn: Aɨj xu cɨn ajtacɨɨnye huaꞌa jemi sej si rujɨmeꞌen áꞌujhuaꞌanyeꞌen. Caxu tiꞌitɨ muaraꞌa tɨ xanaꞌaviꞌireꞌe. Nyajta nu neyan rɨꞌɨ amuaꞌancureꞌeviꞌitɨ.
+47008013	Canu nyaɨjna cɨn neyan tyajaꞌamueꞌixaateꞌe tɨ ij cai huaꞌutamuareꞌeristeꞌen ɨ seica. Canu nyajta nyaɨjna cɨn amueijcateꞌe tɨ huapɨꞌɨ muareꞌeri een muejmi jemi. Ayaa nuꞌu ni neyan tiꞌijxeꞌeveꞌe sej si ruxaꞌa sanaꞌa tyaꞌutaviicueꞌi. Aɨj pu cɨn, ayan tiꞌivaɨreꞌe ɨ sej eihua tíꞌijchaꞌɨ ijii sej si saɨjna cɨn huaꞌutyavaɨreꞌen ɨ tɨ tihuaꞌaturaateꞌe. Ajta, majcaꞌihua yee, aɨ mu meyan cheꞌeta manaꞌa amuaatyavaɨreꞌesin maɨjna cɨmeꞌe ɨ mej eihua tíꞌijchaꞌɨ tɨ ij cai tiꞌitɨ tyajamuáꞌaturaatyaꞌa muejmi.
+47008014	
+47009010	Ajta aɨn tɨ tiꞌitáꞌaca ɨ imueꞌeri tɨ cɨn aꞌatɨ ayan tyuꞌuhuasteꞌen, aɨ pu ajta ayan tyuꞌutaꞌasin, ajta raatamuiꞌiren ɨ saj cɨn huataujvaɨreꞌen sej si eitzeꞌe seyan tyuꞌumuareꞌen aɨjna cɨmeꞌe tɨ xaꞌapɨꞌɨn een.
+47009011	Ajta aɨn tɨ tiꞌitáꞌaca ɨ imueꞌeri tɨ cɨn aꞌatɨ ayan tyuꞌuhuasteꞌen, aɨ pu ajta ayan tyuꞌutaꞌasin, ajta raatamuiꞌiren ɨ saj cɨn huataujvaɨreꞌen sej si eitzeꞌe seyan tyuꞌumuareꞌen aɨjna cɨmeꞌe tɨ xaꞌapɨꞌɨn een.
+48001015	Ma ajta Dioj, aɨ pu naꞌantihuau nyatɨꞌɨj cai xɨ huanuꞌeihuaj. Aɨ pu ajta naatajée aɨjna cɨmeꞌe tɨ náꞌancuꞌuvajxɨ ruxéꞌeviꞌiraꞌa cɨmeꞌe. Tɨꞌɨj i raꞌaranajchacaꞌa nyej raamuaꞌati aɨjna tɨ iꞌi yaujraꞌan nyej ni neyan tihuaꞌutaꞌixaateꞌen huaꞌa tzajtaꞌa aɨme ɨ maj cai Israel jetze ajtyamaꞌacan. Tɨꞌɨj Dioj ayan naaruu, canu aꞌatɨ jemi aꞌatanye tɨ ij aɨn tinaamuaꞌaten aꞌij nyej tiꞌitɨ cɨn neyan huarɨni.
+48001016	
+48003026	Naimiꞌi xu yaujmuaꞌameꞌen pueen ɨ Dioj saɨjna cɨmeꞌe saj raꞌastijreꞌe saɨjna ɨ Cɨriistuꞌu tɨ ajta iꞌi Jesús, aꞌini Cɨriistuꞌu pu aꞌamuanyeereꞌe sej siꞌi seyan eenyaꞌa xaꞌaraꞌani tɨj aɨjna, satɨj sanaꞌa puaꞌamua huamuaɨꞌɨvijhuacaꞌa ɨ jemin.
+48003027	
+48004004	Ma ajta Dioj, tɨꞌɨj ari tyajaꞌureꞌenyen ajna xɨcajraꞌa tɨ jetzen ayan tiraaxaꞌapɨꞌɨntare, aɨ pu ruyauj aꞌutaityacaꞌa tɨ yavaꞌacáanyen. Ajta aɨn yaujraꞌan, aɨ pu huanuꞌeihuacaꞌa ɨ jɨitaꞌa jetze, ajta ayan tiraacɨ́ꞌɨ tɨ ayan raꞌaraꞌastijreꞌen ɨ nyuucari ɨ maj cɨn tieꞌijta, tɨ ij aɨn hueꞌirajtuaani aɨme ɨ maj caꞌanyejri cɨn raꞌastijraꞌacaa maɨjna ɨ nyuucari ɨ maj cɨn tiꞌijta, tej ti teyan raꞌancuraꞌan nain aꞌij tɨ tiraavijteꞌe tɨ titáacɨꞌɨti aɨjna cɨmeꞌe tɨ Dioj ayan taateyaꞌupuatacaꞌa.
+48004005	
+49001005	Aꞌini eihua pu huapɨꞌɨ taxeꞌevaꞌacaa, ayaa pu titaaxaꞌapɨꞌɨntariꞌiriꞌi tɨ aɨn rusaɨj tayaꞌupua aꞌaraꞌani aɨjna cɨmeꞌe tɨ Cɨriistuꞌu ayan huarɨni tɨ tajetze maꞌacan huamɨꞌɨni. Dioj pu ayan titaaxaꞌapɨꞌɨntariꞌiriꞌi ɨ ruxéꞌeviꞌiraꞌa cɨmeꞌe. Ayaa eenyaꞌa aꞌaraꞌani, tej ti teyan rɨꞌɨ tiraataꞌan aɨjna cɨmeꞌe tɨ eihua huapɨꞌɨ naa seijreꞌe tɨ aɨn Dioj ayan rɨꞌɨ titáachaɨn. Ajta ruxéꞌeviꞌiraꞌa cɨn ayan rɨꞌɨ tiꞌitaachaɨn jamuan aɨjna ɨ tɨ raxeꞌeveꞌe, aɨjna ɨ Cɨriistuꞌu.
+49001006	
+49001011	 Tyajta ityan, i tyaj anacai ráꞌantzaahua tyaɨjna ɨ Cɨriistuꞌu, Dioj pu ajta taꞌantihuau tɨ ij tiꞌitɨ taacɨꞌɨti jamuan ɨ Cɨriistuꞌu. Aɨ pu jajcua ɨmɨ taaxaꞌapɨꞌɨntariꞌiriꞌi aꞌij tɨ ayan tiraꞌaranajchacaꞌa. Ai pu aɨn pueen ɨ tɨ Dioj nain cɨn rɨꞌɨ tyuꞌuruuren aꞌij tɨ ari tiꞌihuaujxaꞌapɨꞌɨntariꞌiriꞌi tej ti teyan rɨꞌɨ tiraataꞌan tyaɨjna cɨmeꞌe tɨ eihua huapɨꞌɨ naa tiꞌiseijreꞌe ɨ jemin.
+49001012	
+49001015	Aɨj nu cɨn, tɨj naꞌa nyaj anacai raanamuajriꞌi sej seyan rɨꞌɨ raꞌastijreꞌe ɨ tavastaraꞌa, aɨjna ɨ Jesús, sajta seyan rɨꞌɨ tihuaꞌajchaɨ naijmiꞌica aɨme ɨ tyaɨtestyamuaꞌameꞌen ɨ Dioj, tɨj naꞌa tɨ yu eꞌireꞌenye, canu aꞌanaj raatapuaꞌajtacaꞌa nyej neyan tíꞌijtaujtziꞌireꞌe ɨ Dioj muejmi cɨmeꞌe, nyajta nu rahuavii muejmi cɨmeꞌen.
+49001016	
+49001019	Nyajta nu neyan rahuavii sej si seyan raamuaꞌaree tɨ cai amiteereꞌe, tɨ huapɨꞌɨ eihua raayɨꞌɨtɨ ɨ Dioj tɨ tiꞌitɨj cɨn ayan huáruuren i tyejmi tzajtaꞌa aɨjna ɨ rumuareꞌeriꞌiraꞌa cɨmeꞌe. Tyan tu teyan raꞌatzaahuateꞌe aɨjna cɨmeꞌe tɨ ari eihua huapɨꞌɨ rɨꞌɨ tyuꞌuruu ɨ rumuareꞌeriꞌiraꞌa cɨmeꞌe aɨjna cɨmeꞌe aꞌij tɨ huarɨj ɨ Cɨriistuꞌu cɨmeꞌen tɨꞌɨj ayan raatarujte huaꞌa tzajtaꞌa ɨ mɨꞌɨchite, ajta yaꞌuviꞌitɨ u tajapua. Tɨꞌɨj i an yáꞌujra ɨ ɨpuari japua ɨrɨɨtaꞌan pujmeꞌen.
+49001020	
+49002011	Aɨj pu cɨn caxu seyan yáꞌuhuaꞌanan tɨ ajnaꞌɨmɨ ayaa xu eꞌenyaꞌa saj cai Cɨriistuꞌu jemi huatyáuuca. Ajta muan xu cai huaꞌa jetze ajtyamaꞌacantacaꞌa aɨme ɨ mej Israel jetze ajtyamaꞌacan. Ayej xaa nyaꞌu tiꞌayajna, aɨme ɨ mej meyan huataujmuaꞌa tɨcɨn: “I tyaj raꞌantisiꞌiche ɨ tanavi”, ayaa mu amuaatamuaꞌa muejmi tɨcɨn: “Mɨ saj cai seyan raꞌantisiꞌiche ɨ runavij.” Ayaa mu tyajaꞌamuaxa maɨjna cɨmeꞌe sej seij chuejraꞌa japua eꞌemaꞌacan. Caxu sajta yáꞌuhuaꞌanan tɨ ajnaꞌɨmɨ, ayaa xu cai ajtyamaꞌacantacaꞌa aɨme jetze ɨ tɨ Dioj huaꞌa jemi raatyajtuaa ɨ nyuucari ɨ tɨ cɨn tyaꞌataujratziiriꞌi tɨ ayan rɨꞌɨ tihuaꞌutaꞌan. Capu ajta maꞌahuaꞌacaa ɨ saj cɨn rachuꞌeveꞌen. Ajta, capu huataseijre muejmi jemi ɨ Dioj iiyan chaanaca japua.
+49002012	
+49003008	Ayaa pu een, nyaa nu nyaɨn pueen ɨ tɨ eitzeꞌe cai ruxeꞌeveꞌe macai ɨ seica ɨ maj cɨleꞌen cɨn tiꞌitátyatyáꞌupuꞌu ɨ Dioj jemi. Capu amɨn aꞌij, aucheꞌe pu Dioj ayan rɨꞌɨ tinajchaꞌɨ tɨ aɨjna cɨn tinyeijca nyej ni tihuaꞌutaꞌixaateꞌen nyaɨme ɨ maj cai Israel jetze ajtyamaꞌacan mej mi raamuaꞌaree aꞌij tɨ een Cɨriistuꞌu jemi tɨ tiꞌiseijreꞌe, tɨ cai amiteereꞌe naijmiꞌi tɨj naꞌa tiꞌipuaꞌamua tɨ titáacɨꞌɨti aɨjna jemi para rusen cɨmeꞌe, nyej ni tihuaꞌutaꞌixaateꞌen naijmiꞌica tyamuaꞌa naa aꞌij tɨ Dioj tiraaxaꞌapɨꞌɨntare aꞌij tɨ teꞌeme aɨjna cɨmeꞌen ɨ tɨ ruꞌavaa. Jajcua ɨmɨ tɨj naꞌa tɨ yu eꞌireꞌenye, aɨ pu ruꞌavaatacaꞌa ɨ Dioj jemi, ɨ tɨ nain tyuꞌutaahuacaꞌa tɨj naꞌa tiꞌipuaꞌamua tɨ tiꞌiseijreꞌe.
+49003009	
+49003010	Ayaa pu tiraaxaꞌapɨꞌɨntarej mej mi meyan raꞌanticuuna aɨjna ɨ tɨ ruꞌavaatacaꞌa aɨme jemi ɨ maj eꞌetyujsaꞌɨri u teyujtaꞌa mej mi aɨme huaꞌuseij ɨ maj tieꞌijta u tajapua, majta aɨme ɨ maj tiꞌitɨj cɨn antyujmuaꞌaree aun tɨ Dioj eꞌeseijreꞌe, mej mi meyan raamuaꞌaree tɨ cai tiꞌiseicaj naꞌa ɨ tɨ cɨn Dioj ayan huarɨj ɨ rumuaꞌatziiraꞌa cɨmeꞌe, aɨjna tɨ jajcua ɨmɨ ayan tiraaxaꞌapɨꞌɨntare para rusen cɨmeꞌe. Aɨ pu ari raꞌanticɨꞌɨ aɨjna cɨmeꞌe tɨ aɨn Cɨriistuꞌu, aɨjna ɨ Jesús tɨ ajta iꞌi tavastaraꞌa pueen, aɨ pu tajapua huanyúu.
+49003011	
+49003014	Aɨj nu cɨn neyan titunuta jemin ɨ tyaj rajyaꞌupua ɨ tyaj jetzen raꞌancuraꞌa aꞌij tɨ huataujmuaꞌa seij ajta seij ɨ tyaɨtestyamuaꞌameꞌen, ɨ mej u uteꞌe eꞌeseijreꞌe, majta ɨ mej yan chaanaca japua huachaatɨme, matɨj manaꞌa puaꞌamua ɨ tyaɨtestyamuaꞌameꞌen ɨ Dioj.
+49003015	
+49003016	Ayaa nu tiꞌijhuavii tɨ aɨn Dioj caꞌanijraꞌa amuaataꞌan ɨ aꞌamua tzajtaꞌa sej si seyan saɨjna jetze araujcaꞌanyen ɨ xaijnyuꞌucaraꞌaraꞌan ɨ Dioj. Cheꞌe aɨn Dioj ajta ayan rɨꞌɨ tyajamuájchaɨ aɨjna cɨmeꞌe tɨ aɨn amuaareꞌepijte aɨjna tɨ naa eꞌicaj tiꞌiseijreꞌe ɨ jemin, tɨ ij aɨn Cɨriistuꞌu aun aꞌutyaturan muejmi jemi, aɨjna cɨmeꞌe sej seyan raꞌastijreꞌe.
+49003017	
+49003020	Ajta aɨn ɨ tɨ eihua huapɨꞌɨ raayɨꞌɨtɨ tɨ ayan huarɨni aɨjna cɨmeꞌe ɨ tyaj cai raayɨꞌɨtɨ tyaj rahuavii nusu tɨ cai ayan titaꞌamitejteꞌe aɨjna cɨmeꞌe tɨ aɨn tiꞌimuareꞌe ɨ ta tzajtaꞌa ɨ rumuareꞌeriꞌiraꞌa cɨmeꞌe, ticheꞌe teyan rɨꞌɨ tiraataꞌan aꞌu tyaj eꞌetitasaꞌɨri ɨ jemin. Jamuan aɨjna ɨ Cɨriistuꞌu tɨ ajta iꞌi Jesús, ticheꞌe teyan cheꞌeta tyanaꞌa rɨꞌɨ tiraataꞌan tɨj naꞌa tɨ yu aucaꞌitɨ aꞌame para rusen cɨmeꞌe. Yaa puꞌicu. Cheꞌe ayan tyajaꞌureꞌenyen.
+49003021	
+49004023	Ajta, sej si seyan huaujjajcuareꞌen saɨjna cɨmeꞌe aꞌij sej me tityaumuámuaꞌaree sej si seyan rɨꞌɨ titetyujchaɨ aꞌij tɨ tyajamuaaxaꞌapɨꞌɨntariꞌiriꞌi sej si seyan eꞌenyaꞌa xaꞌaraꞌani tɨj ɨ Dioj tɨ nain cɨn ayan rɨcɨ tzaahuatiꞌiraꞌa cɨmeꞌe aꞌij tɨ tiraavijteꞌe, ajta aɨ pu uraréꞌen.
+49004024	
+49004026	Tɨ puaꞌa seyan tiꞌitɨj cɨn huatanínyuꞌucacu, caxu saɨjna cɨn tiꞌitɨj cɨn autyaturaaveꞌen ɨ Dioj jemi. Caxu sajta seyan aꞌatyeeviꞌin sej seri nínyuꞌucacu tiꞌitɨj cɨmeꞌe. Ayaa nu tyajamuéijcateꞌe saj cai raataꞌasin tɨ aɨn tiyaaruꞌu ayan aviitzi cɨn huataseijreꞌen muejmi tzajtaꞌa.
+49004027	
+49005011	Caxu aꞌatzu huaꞌajtyanaxcan huaꞌa jemi ɨ mej meyan aꞌij puaꞌa titetyujchaɨ ɨ maj tɨcaꞌamisteꞌe áꞌujhuaꞌan, silu ayaa xu huaꞌutaseijrateꞌen tɨ cai tiꞌitɨj vaɨreꞌe aꞌij mej rɨcɨ, aꞌini ayaa pu tyuꞌuteviꞌirasteꞌe tɨ aꞌatɨ ayan tiꞌixajta aꞌij maj aviitzi cɨn rɨcɨ aɨme ɨ maj cai aꞌatɨ aꞌastijreꞌe.
+49005012	
+49005013	Ma ajta, naijmiꞌi pu huataseijreꞌesin aꞌij tɨ een tɨ puaꞌa aꞌatɨ raatyatátzaviꞌi, aꞌini aɨjna ɨ tatzari, nain pu cɨn tiꞌiseijrata aꞌij tɨ een. Aɨ pu cɨn, ayan teꞌeyuꞌusiꞌi tɨcɨn: Huatajɨsi mɨ pej iꞌi cutzu, ajta ajchesi amajna huaꞌa tzajtaꞌa ɨ mɨꞌɨchite. Ajta aɨn Cɨriistuꞌu pu muatyatátzaviꞌira.
+49005014	
+49005025	Sajta muan, mɨ saj huaꞌacɨnastyamuaꞌa pueen, sataꞌaj seyan cheꞌeta sanaꞌa huaꞌaxeꞌevaꞌa ɨ ruꞌɨstyaꞌamuaꞌaca tɨj ajta aɨn Cɨriistuꞌu tíhuaꞌutaxéꞌeve aɨme ɨ mej eꞌetyujsaꞌɨri ɨ jemin. Aɨ pu ajta huatauraꞌa tɨ huamɨꞌɨni huaꞌa jetze maꞌacan tɨ ij ajta rujɨmeꞌe huaꞌutyahuii ɨ rutyaɨtestyamuaꞌa. Aɨ pu huaꞌujajcuare aɨjna cɨmeꞌe tɨ huaꞌariꞌiriꞌi ɨ maj cɨn autyajturaa ɨ jemin. Aɨ pu ajta rɨꞌɨ huaꞌuruu ɨ huaꞌa tzajtaꞌa aɨjna cɨmeꞌe maj ráꞌantzaahua maɨjna ɨ nyuucari tɨ aɨn raatyajtuaa huaꞌa jemi.
+49005026	
+49006007	Sataꞌaj seyan cheꞌeta sanaꞌa ruxéꞌeviꞌiraꞌa cɨmeꞌe tihuaꞌutyavaɨreꞌen yaa cumu tavastaraꞌa jemi xu tiꞌivaɨreꞌe. Ee xaa nyaꞌu, caxu tetyaca sanaꞌa jemin tiꞌivaɨreꞌe aꞌini ayaa xu ramuaꞌaree tɨ aɨn tavastaraꞌa ayan tiraatapueijveꞌesin naijmiꞌica aꞌij tɨ tiꞌitɨ huáruu tɨ iꞌi xaꞌapɨꞌɨn. Capu amɨn aꞌij tɨ puaꞌa aꞌatɨ caꞌanyejri cɨn tiꞌimuareꞌe nusu ayan ruxéꞌeviꞌiraꞌa cɨn tiꞌivaɨreꞌe.
+49006008	
+50002010	Aɨj pu cɨn, ajna xɨcaajraꞌan jetze tɨꞌɨj tyeꞌentipuaꞌariteꞌen nain, matɨꞌɨj raamuaꞌaree tɨcɨn: “Puꞌuri tieꞌijta ɨ Jesús” aj mu xaa, titunutaxɨꞌɨn naimiꞌi ɨ mej eꞌeseijreꞌe u tajapua, majta ɨ mej yan seijreꞌe iiyan chaanaca japua, majta ɨ mej eꞌeseijreꞌe u tajete, mataꞌaj naimiꞌi meyan raataxaj yee, “Ai pu tavastaraꞌa pueen aɨjna ɨ Jesús tɨ iꞌi Cɨriistuꞌu.” Ayaa mu maɨjna cɨn huarɨn, aj mu mi rɨꞌɨ tiraataꞌasin ɨ Dioj ɨ tyaj rajyaꞌupua.
+50002011	
+50002014	Naijmiꞌi tɨ naꞌa tɨ ayan ruxeꞌeveꞌe sej seyan huarɨni, sataꞌaj cai cɨmeꞌen runyuustyaꞌa, naꞌari saj cai cɨmeꞌen aꞌij puaꞌa tyuꞌurixaatyaꞌa tɨꞌij cai aꞌatɨ tiꞌitɨ cɨn muejmi jetze tyaꞌupuáꞌajteꞌen, sej si seyan tiꞌityeréꞌenyeꞌen ɨ aꞌamua tzajtaꞌa, sej si seyan tyaɨtestyamuaꞌameꞌen éenyaꞌa xaꞌajuꞌun ɨ Dioj, sej si cai tiꞌitɨj cɨn autyaturan ɨ Dioj jemi, iiyan chaanaca japua saj huapuasaaruveꞌen huaꞌa tzajtaꞌa ɨ maj aꞌij puaꞌa tiꞌityetyaɨte, ɨ maj cai xaꞌapɨꞌɨn metityaumuámuaꞌaree. Sajta huaꞌa tzajtaꞌa áꞌucɨɨnye sej tihuaꞌutaꞌixaateꞌen ɨ nyuucari tɨ cɨn Dioj taajajcuareꞌe ityejmi. Ayaa xu saɨjna cɨn huarɨn, muan xu huaseijreꞌen a eijreꞌe huaꞌa jemi ɨ tyaɨte. Xuee saj cu muan huaꞌatatzaviꞌira aɨme.
+50002015	
+50002029	 Sataꞌaj raꞌancureꞌeviꞌitɨn ɨ tavastaraꞌa jetze maꞌacan. Sataꞌaj huaujtyamuaꞌaveꞌen aɨjna jemi ɨ Epafrodito. Sajta rɨꞌɨ tihuáꞌajchaɨca ɨ tyetyaca tɨj amɨjna, saɨjna cɨmeꞌe tɨ tɨn huamɨꞌɨ tɨ tiꞌimuaraꞌacaꞌa ɨ Cɨriistuꞌu jetze maꞌacan. Aɨ pu ayan huataujtuaa tɨ huamɨꞌɨni tɨꞌij tinaavaɨreꞌen inyeetzi. Capu ayan tyajamuaacɨ́ꞌɨ muejmi sej si seyan huarɨni aꞌini saj cai ya aꞌahuaꞌacaꞌa.
+50002030	
+52001002	Aꞌanaj tɨ naꞌa tu rɨꞌɨ tirataꞌaca ɨ Dioj jemi muejmi cɨmeꞌe. Aꞌanaj tɨ naꞌa tyaj huavii ɨ Dioj, tyajta tu raꞌixaateꞌe muejmi cɨmeꞌen, aꞌini muan xu eihua tiꞌimuareꞌe saɨjna cɨmeꞌe saj raꞌastijreꞌe saɨjna ɨ tavastaraꞌa. Sajta seyan cheꞌeta sanaꞌa eihua tiꞌimuareꞌe saɨjna cɨmeꞌe saj raxeꞌeveꞌe saj huaꞌutyavaɨreꞌen ɨ seica ɨ maj eꞌeseijreꞌe ɨ Dioj jemi. Sajta muan, caxu aꞌanaj raatyaxaahuatacaꞌa ɨ saj rachuꞌeveꞌe ɨ tavastaraꞌa aɨjna ɨ Jesús tɨ ajta iꞌi Cɨriistuꞌu tɨꞌij aɨn amueꞌirajtuaani, aꞌu saj yáꞌajpueijtzicaꞌa.
+52001003	
+52003002	Aɨj tu cɨn, tyaɨn Timuteeyu tyuꞌutaitiꞌiriꞌi tɨ u aꞌatanyén muejmi jemi. Aɨjna ɨ Timuteeyu, ai pu aɨn pueen ɨ taꞌihuaaraꞌa, ajta Dioj pu raꞌavaꞌahuau tɨ ij tajamuan áꞌuchaꞌacanyeꞌen tej tihuaꞌutaꞌixaateꞌen ɨ nyuucari tɨ cɨmeꞌen raxa aꞌij tɨ huarɨj ɨ Cɨriistuꞌu. Ayaa tu een cɨn tiraataitiꞌiriꞌi tɨ ij aɨn Timuteeyu caꞌanijraꞌa amuaataꞌan sej si huatyaujcaꞌanyen ɨ rutzajtaꞌa, tɨ ij cai seij raataxaahuata aɨjna cɨmeꞌe tɨ eihua tirajpueiitzi ijii. Xuꞌuri tyamuaꞌa ramuaꞌaree tɨ ari tiraaxaꞌapɨꞌɨntariꞌiriꞌi tej teyan tirajpueiitzi taꞌaraꞌani.
+52003003	
+52004011	Tyan tu tyajta teyan tyajaꞌamueijcateꞌe sej si rɨꞌɨ titetyujchaꞌɨ tɨ ij cai tiꞌitɨ áꞌamuajaaxaijteꞌe, sej si antyujmuaꞌaréera saɨjna cɨmeꞌe aꞌij tɨ tiraacɨ́ꞌɨ seij ajta seij. Ajta iꞌi, cheꞌe aꞌatɨ tyuꞌumuareꞌen ɨ rumuareꞌeriꞌiraꞌa cɨmeꞌe seij ajta seij aꞌij tɨ tiruꞌumuaꞌaree. Ayaa tu anacaican tyajamueijca mej mi rɨꞌɨ tyajamuaaseij aɨme ɨ maj tyaꞌastijreꞌe ɨ tavastaraꞌa jemi, ajta tɨ ij cai tiꞌitɨ tyajamuáꞌaturaatyaꞌa.
+52004012	
+52005016	Sataꞌaj rutyamuaꞌaveꞌe aꞌanaj tɨ naꞌa. Caxu aꞌanaj ratápuaapuaꞌajtaꞌan saj huatejnyuuni ɨ Dioj jemi.
+52005017	
+53002011	Aɨj pu cɨn Dioj tyuꞌutaijta tɨ aun aꞌutyaturan huaꞌa jemi aɨjna tɨ huaꞌacuanamua mej mi caꞌanyejri cɨn ráꞌantzaahuateꞌen ɨ tɨ hueꞌitzi naꞌa, tɨ ij Dioj huaꞌuxaꞌapɨꞌɨntariꞌireꞌen ayan tihuaꞌaxɨjteꞌen mej meyan aꞌij puaꞌa huarɨj aɨjna cɨmeꞌe maj raꞌatzaahuateꞌe ɨ tɨ cai ayan tiꞌayajna, silu ayaa pu huaꞌaranajchacaꞌa mej meyan huarɨni ɨ tɨ aꞌij puaꞌa een ɨ Dioj jemi.
+53002012	
+53002016	Yaa puꞌicu, taꞌihuaamuaꞌa, cheꞌe ayen tyaꞌaraꞌani, mej meyan amuaatyápuaꞌariteꞌen ɨ aꞌamua tzajtaꞌa, majta caꞌanijraꞌa amuaataꞌan sej si seyan tyuꞌumuareꞌen saɨjna cɨmeꞌe nain cɨmeꞌe tiꞌimuariꞌiraꞌa tɨ iꞌi xaꞌapɨꞌɨn, sej si sajta seyan tihuaꞌutaꞌixaateꞌen. Cheꞌe ayan rɨꞌɨ amuaaruuren aɨjna ɨ tavastaraꞌa, aɨjna rusaɨj ɨ Jesús tɨ ajta iꞌi Cɨriistuꞌu, ajta ɨ Dioj ɨ tyaj rajyaꞌupua, ɨ tɨ taxeꞌeveꞌe para rusen cɨmeꞌe, ajta ayan taataꞌa aꞌij tej tiraachuꞌeveꞌen aɨjna cɨmeꞌe tɨ rɨꞌɨ titáachaɨn.
+53002017	
+54002003	Ayaa pu tiraavijteꞌe sej si seyan huarɨni. Ayaa pu tiraꞌaraanajchi aꞌame ɨ Dioj tɨ tuꞌirajtuaa, aꞌini aɨ pu ayan tiꞌijxeꞌeveꞌe tɨ naijmiꞌica huirajtuaani, mej mi raamuaꞌaree nain tɨj naꞌa tɨ ayan tiꞌayajna aɨjná jemi.
+54002004	
+54003014	Ijii, nyej tiꞌimuayuꞌuseꞌe, ayaa nu tiꞌijxeꞌeveꞌe nyej caꞌanacan nyaun aꞌutyaváa naꞌaraꞌani mueetzi jemi. Aru tɨ puaꞌa naꞌateeviꞌin neyajna, ayaa nu tiꞌijxeꞌeveꞌe pej raamuaꞌaree aꞌij mej tiꞌitɨj cɨn huarɨni aɨme ɨ tyaɨtestyamuaꞌameꞌen ɨ Dioj, aɨme ɨ mej eꞌetyujsaꞌɨri u teyujtaꞌa mej mi tiraatataujtziꞌireꞌen maɨjna ɨ Dioj tɨ iꞌiruuri. Ai mu aɨn pueen ɨ maj tihueꞌixaateꞌe ɨ nyuucari tɨ ayan tiꞌayajna ɨ Dioj jemi. Majta aɨme, camu tauraꞌaca maj saɨque tihuaꞌutyamueꞌitɨn.
+54003015	
+54004004	Aꞌini tyamuaꞌa pu tiꞌireꞌen naijmiꞌi tɨj naꞌa tɨ Dioj tyuꞌutaahuacaꞌa, capu ayan tiraavijteꞌe tɨ aꞌatɨ tiꞌitɨ ma uraini silu cheꞌe aɨn raꞌancuraꞌan. Cheꞌe ajta aɨjna cɨn tiraatataujtziꞌireꞌen ɨ Dioj jemi, aꞌini puꞌuri aun aꞌaviitziꞌireꞌen ɨ Dioj jemi aɨjna cɨmeꞌe tɨ aɨn Dioj ari ayan tyuꞌutatuireꞌesin tɨꞌɨj huatyejnyuuni ɨ Dioj jemi.
+54004005	
+54006003	Seica mu meyan tiꞌimuaꞌataca maɨjna cɨmeꞌe tɨ cai ayan tiꞌayajna, tɨ saɨque een aɨjna cɨmeꞌe ɨ nyuucari tɨ rɨꞌɨ taaruuren tɨ cɨmeꞌen taamuáꞌate ɨ tavastaraꞌa ɨ Jesús tɨ ajta iꞌi Cɨriistuꞌu. Majta meyan tiꞌimuaꞌataca aɨjna cɨmeꞌe tɨ saɨque een aɨjna cɨmeꞌen ɨ nyuucari tɨ tzaahuatiꞌiraꞌa cɨn tiꞌixa ɨ Dioj jemi. Tɨ puaꞌa aꞌatɨ ayan eenyeꞌen, capu tiꞌitɨ uꞌumuaꞌaree silu áꞌujtzaahuateꞌe puꞌu. Eihua pu tyuꞌurihuauveꞌe nain cɨmeꞌe, ajta nyaꞌusaꞌamɨꞌɨ aɨjna cɨmeꞌe aꞌij tɨ huataujmuaꞌa seij ɨ nyuucari. Ai pu aɨn pueen ɨ tɨ teꞌiraayeꞌi tɨ ayan rɨcɨ. Maujcheere rujɨɨmuaꞌa naꞌari maujtyesaꞌa. Majta aꞌij puaꞌa tyuꞌujxajtaveꞌe caꞌɨn sei pu ayan tíꞌijxajtziꞌi ɨ ruxaꞌaj tevi tɨ ij aꞌij puaꞌa raaruuren.
+54006004	
+55002025	Ajta aɨn tɨ ravaɨreꞌe ɨ tavastaraꞌa, ayaa pu ruxeꞌeveꞌe tɨ ruxaahua rɨꞌɨ huaꞌuruuren aɨme ɨ maj rajchaɨreꞌe aꞌij tɨ aɨn tiꞌimuaꞌataca. Ruxeꞌeveꞌe tɨ aɨn raꞌutamuaꞌaree yee rɨꞌɨri tɨ Dioj huaꞌutaꞌan mej mi saɨque tyuꞌumuaꞌati mej mi raamuaꞌati ɨ nyuucari tɨ ayan tiꞌayajna, mej mi majtahuaꞌa rɨꞌɨ me títyaꞌumuámuaꞌaraa muaꞌaraꞌani. Matɨꞌɨj meyan huarɨni, rɨꞌɨriista pu aꞌame maj huiracɨɨnye aꞌu tɨ tiyaaruꞌu huájeꞌityáana aꞌu tɨ ayan huaꞌuruu aꞌij tɨ aɨn tiꞌijxeꞌevaꞌacaa maj raꞌaraꞌastijreꞌen.
+55002026	
+55004009	Pataꞌaj huataꞌacaꞌanyen tɨj naꞌa tɨ tiꞌirɨꞌɨri paj yatanyen nyeetzi jemi, aꞌini Demas pu ma nuurai aɨjna cɨmeꞌe tɨ eitzeꞌe raꞌaranajchacaꞌa ɨ tɨ ayan tiꞌiseijreꞌe iiyan chaanaca japua. Crescente pu aun áꞌumej aujna aꞌahuaꞌa tɨ huatacáꞌa u Galacia.
+55004010	
+56001013	Ee xaa, ayaa pu tiꞌayajna aꞌij tɨ tiraataxajtacaꞌa. Aɨj pu cɨn, ayaa pu ruxeꞌeveꞌe pej peyan huarɨni. Pataꞌaj caꞌanin cɨn huaꞌajtyaꞌaxɨꞌɨn mej mi tyaꞌantzaahuateꞌen huataujnyáatacan cɨmeꞌe aꞌij tɨ tiraavijteꞌe, mej mi cai cheꞌe ranamuajra ɨ nyuucari tɨ cai tiꞌitɨj vaɨreꞌe tɨ ajta aɨme jetze huanyej aɨme ɨ maj Israel jetze ajtyamaꞌacan, mej mi cai cheꞌe ranamuajra aꞌij mej tihueꞌijteꞌe aɨme ɨ tyetyaca ɨ maj cai raataxeꞌeve ɨ tɨ ayan tiꞌayajna ɨ Dioj jemi.
+56001014	
+57001001	Inyaa, i nyaj iꞌi Pablo, ayaa nu een cɨn aityanamiꞌi aɨjna cɨmeꞌe nyaj raꞌastijreꞌe ɨ Cɨriistuꞌu tɨ ajta Jesús pueen. Jamuan ɨ nyeꞌihuaaraꞌa aɨjna ɨ Timuteeyu, ayaa tu tyajaꞌamuayuꞌuseꞌe mɨ pej iꞌi Filemón, mɨ pej tajamuan tiꞌimɨjhuaca, mɨ tyej muaxeꞌeveꞌe eihua, ajta aɨjna tɨ iꞌi Apia, aɨjna ɨ jɨitaꞌa tɨ tajuu pueen tɨ ajta tyaꞌatzaahuateꞌe, ajta mɨ Arquipo, ɨ tɨ ayan cheꞌeta naꞌa teꞌeviicueꞌi tyatɨj ityan. Tyan tu tihuaꞌayuꞌuseꞌe naijmiꞌica ɨ mej aun eꞌetyujsaꞌɨri aꞌu pe eꞌeche.
+57001002	
+57001015	Tij cai ayan een cɨn aꞌatzu aꞌatee tɨ mu eꞌij huarupi tɨ ij ajtahuaꞌa mueetzi jemi huatyaturan para rusen cɨmeꞌe, tɨ ij aɨn huatyaturan mueetzi jemi tɨj mueꞌihuaaraꞌa pej eihua raxeꞌeveꞌe. Capu cheꞌe caꞌanyejri cɨn muatyavaɨreꞌesin silu aꞌihuaraꞌa pu aꞌame. Eecan pu ruxeꞌeveꞌe inyeetzi jemi aɨjna ɨ aꞌatɨ. Aru eitzeꞌe pu ruxeꞌeveꞌe mueetzi jemi aꞌini tevi pu pueen, ajta aꞌihuaraꞌa pueen ɨ tavastaraꞌa jemi.
+57001016	
+58001006	Ajta, tɨꞌɨj ayan yaꞌaraaviꞌitɨ iiyan chaanaca japua aɨjna tɨ jajcua ɨmɨ seijraꞌacaa, ayaa pu tyuꞌutaxajtacaꞌa tɨcɨn: Micheꞌe maɨn raatyaanajche matɨj manaꞌa puaꞌamua ɨ mej tiꞌivaɨreꞌe ɨ Dioj jemi.
+58001007	Ajta, ayaa pu huaꞌa cɨmeꞌen tiꞌixa aɨme ɨ maj tajapua tiꞌivaɨreꞌe tɨcɨn: Ayaa pu huaꞌaruure aɨme ɨ mej tiꞌivaɨreꞌe u tajapua mej mi meyan seijraꞌa tɨj aaca, majta mej mi meyan seijraꞌa tɨj taij tɨ aꞌataa aɨme ɨ tɨ tihueꞌijteꞌe.
+58001008	Ma ajta, cɨmeꞌen ɨ ruyauj, ayaa pu tiꞌixa tɨcɨn: Muaa, mɨ paj Dioj pueen, muaa paj antiꞌamuaꞌareera puaꞌame tɨj naꞌa rusen cɨmeꞌe. Papuꞌuri icu ruꞌiteechui ɨ ’itzɨj ɨ maj cɨn raamuaꞌaree paj uraréꞌen cɨn seijreꞌe, paj pajta xaꞌapɨꞌɨn tiꞌijta aꞌij tɨ tiraavijteꞌe.
+58001010	Ajta ayan tɨcɨn: Muaa, nyavastaraꞌa, jajcua ɨmɨ paj raatyataahuacaꞌa ɨ chaanaca. Ajta, tɨj naꞌa tɨ iiyan seijreꞌe u tajapua, amuajcaꞌa paj cɨn raatyataahuacaꞌa.
+58001013	Dioj capu aꞌanaj ayan tiraataꞌixaa seij tɨ tajapua tiꞌivaɨreꞌe silu ruyauj pu xaa ayan tyuꞌutaꞌixaa tɨcɨn: Pataꞌaj ye aꞌujyéijxɨꞌɨn nyaꞌɨrɨɨtaꞌa. Pataꞌaj peyan huacati asta nyanaꞌa cai huaꞌantimueꞌitɨn aɨme ɨ maj muájchaɨreꞌe mej mi meyan timuaꞌaraꞌastijreꞌen mueetzi.
+58001014	Capu xaa nyaꞌu ayan tihuaꞌutaꞌixaa aɨme ɨ mej tajapua tiꞌivaɨreꞌe aꞌini aɨ mu aɨn pueen ɨ xaijnyuꞌucari tɨ Dioj ayan tihueꞌijteꞌe mej mi meyan tiꞌivaɨraꞌa maꞌujhuaꞌanyeꞌen, mej mi huaꞌutyavaɨreꞌen aɨme ɨ tɨ huaꞌacɨꞌɨti tɨ Dioj hueꞌirajtuaani.
+58002002	Ee xaa nyaꞌu, aɨjna ɨ nyuucari ɨ mej mejmiꞌi raataxajtacaꞌa aɨme ɨ maj tajapua tiꞌivaɨreꞌe, aɨ pu xaa tiꞌivaɨraꞌacaa. Ajta aꞌatɨ tɨ naꞌa tɨ cai tiꞌitɨj cɨn raꞌaraꞌastijre, ayaa pu pueijtzi ancuraꞌa aꞌij tɨ tiraavijtyaꞌacaa. Tɨ puaꞌa ajmiꞌi ayan tihuaꞌuruu, ¿aꞌini auj tiꞌirɨꞌɨri tɨ cai pueijtzi taataꞌan tɨ puaꞌa teyan raatyaxaahua tyaɨjna ɨ nyuucari tɨ cɨn Dioj tuꞌirajtuaasin, tɨ ajta eihua huapɨꞌɨ ruxeꞌeveꞌe? Anacaican, tavastaraꞌa pu ayan raataxajtacaꞌa. Ajta eꞌeyan, seica mu taataꞌixaa aɨme ɨ maj raanamuajriꞌi.
+58002003	
+58002013	Ajtahuaꞌa ayan tɨcɨn: Nyaa nu aꞌancaꞌanye ɨ jemin. Ajtahuaꞌa rujajcuatzeꞌen, ayan tɨcɨn: Yaa nu huatejvee huaꞌa jamuan ɨ yaujmuaꞌameꞌen tɨ Dioj naatáviꞌitɨste.
+58002014	Majta aɨme ɨ yaujmuaꞌameꞌen aꞌini meyan cheꞌeta manaꞌa eenyeꞌen tyahueꞌiraꞌa, majta meyan eenyeꞌen tyáxuureꞌe, aɨj pu cɨn Jesús ayan huaujruu tɨꞌi ayan cheꞌeta naꞌa eenyeꞌen tyáhueꞌiraꞌacaa, ajta ayan eenyeꞌen tyáxuuraꞌacaa matɨj aɨme. Ayaa pu een cɨn huarɨj tɨꞌij ayan raꞌantipuaꞌariteꞌen aɨjna tɨ aɨjna cɨn antyujmuaꞌaree ɨ maj cɨn huacuiꞌini ɨ tyaɨte. Ai pu aɨn pueen ɨ tiyaaruꞌu.
+58002015	
+58003016	Majta aɨme, ɨ maj raanamuajriꞌi, majta raꞌutaxaahuariꞌiriꞌi, ai mu aɨn pueen ɨ tɨ Moisés tyaacan hueꞌiraaviꞌitɨ aujna u Egipto.
+58003017	Ajta aɨme, ɨ tɨ Dioj ayan aꞌatee huaꞌapuate ninyeꞌiraꞌa tɨ huaꞌajaaxaijviꞌi aɨme, ai mu aɨn pueen ɨ maj autyajturaa ɨ Dioj jemi, majta áꞌupuaꞌaracaꞌa maujna aꞌahuaꞌa aꞌu tɨ cai eꞌetiꞌitɨjcaa.
+58003018	Aɨ mu majta aɨn pueen ɨ tɨ huaꞌa cɨmeꞌen Dioj ayan tyaꞌataujratziiriꞌi maj nuꞌu cai aꞌanaj maun aꞌutyaruti aꞌu maj ahuaujsaꞌupeꞌen aɨjna cɨmeꞌe maj cai raꞌaraꞌastijre.
+58003019	Ee xaa nyaꞌu ayaa pu tiꞌayajna tɨ ayan titaꞌamitejteꞌe tɨ cai ayan huaꞌucɨ́ꞌɨ maj maun aꞌutyarute aꞌu maj ahuaujsaꞌupeꞌen aɨjna cɨmeꞌe maj cai tyaꞌantzaahua.
+58004004	Ee xaa nyaꞌu, aꞌini ma aꞌahuaꞌa pu ayan tyuꞌutaxajtacaꞌa aɨjna cɨmeꞌen ɨ xɨcajraꞌa taꞌarahuaꞌapua. Ayan tɨcɨn: Ajta ajna xɨcajraꞌa jetze ɨ taꞌarahuaꞌapua, Dioj ayan raatapuaꞌajtacaꞌa ɨ tɨ cɨn tyuꞌumuarej. Tɨꞌɨqui huaujsaꞌupe.
+58004005	Ajta, tyauucheꞌe tu tyaɨjna cɨmeꞌen tiꞌixa ɨ nyuucari tɨ cɨmeꞌen tiraataxajtacaꞌa ɨ Dioj tɨcɨn: Camu nuꞌu aꞌanaj maun aꞌutyaruti mej mi nyeetzi jamuan aꞌahuaujsaꞌupeꞌen.
+58004008	Ajta, tɨ puaꞌa aɨn Josué tyaacan ayan huaꞌutaꞌanicheꞌen maj huaujsaꞌupeꞌencheꞌe, capu ayan raataxájtancheꞌe ɨ Dioj aɨjna cɨmeꞌe ɨ seij jetze ɨ xɨcaj.
+58004009	 Aɨj pu cɨn, aucheꞌe pu tura huaꞌa jemi ɨ tyaɨtestyamuaꞌameꞌen pueen ɨ Dioj mej mi jamuan huaujsaꞌupeꞌen, aꞌini aꞌatɨ tɨ naꞌa tɨ ayan aun aꞌutyarute tɨ ij aꞌahuáujsaꞌupeꞌen ɨ Dioj jamuan, aɨ pu ayan cheꞌeta naꞌa raatapuaꞌajta ɨ tɨ cɨn tiꞌimuareꞌe tɨj ajta Dioj tiraatapuaꞌajtacaꞌa ɨ tɨ cɨn tyuꞌumuarej.
+58004010	
+58004011	Aɨj pu cɨn ticheꞌe teyan ahuatacaꞌanyen nain cɨmeꞌe tacaꞌanijraꞌa tej ti tyaun aꞌutyarute, tɨ ij cai aꞌatɨ ayan cheꞌeta naꞌa huarɨni aꞌij mej mejmiꞌi huarɨj aɨme, ɨ maj cai tyaꞌaraꞌaste maɨjna cɨmeꞌe maj cai tyaꞌantzaahua.
+58005006	Ajta puaꞌamuaque pu ayan tiꞌixa tɨcɨn: Muaa paj peyan paɨjna cɨn tiꞌivaɨreꞌe ɨ Dioj jemi tɨj ajta vaꞌacan cɨn tiꞌivaɨreꞌe aɨjna ɨ Melquisedequi tɨj naꞌa rusen cɨmeꞌe.
+58007001	 Aɨj pu cɨn, ticheꞌe teyan ma rúuhuaꞌaxɨn tyaɨjna ɨ maj cɨn anacai titaꞌitiiriꞌi cɨmeꞌen ɨ Cɨriistuꞌu tej ti teyan eitzeꞌe huavaujseꞌen ɨ Dioj jemi. Ticheꞌe cai cheꞌe tyaɨjna jetze ucaajuꞌun, aɨjna ɨ nyuucari tɨ cɨmeꞌen raxaj tyaj saɨque tyuꞌumuaꞌati tyaɨjna cɨmeꞌe ɨ yeꞌira tɨ cai cheꞌe tiꞌitɨj vaɨreꞌe ɨ Dioj jemi, nusu tɨ cɨmeꞌen raxaj tyaj ráꞌatzaahuateꞌen ɨ Dioj.
+58007002	Ajta seica tɨ ayan tiꞌitaijteꞌe tyaj nuꞌu huáꞌatamuaɨꞌɨvijhua naꞌari tyaj nuꞌu huaꞌaváꞌamuareꞌen caꞌɨn tɨ cɨmeꞌen raxaj ajna xɨcajraꞌa ɨ mej jetzen aꞌitajuꞌun aɨme ɨ maj meri huacuii. Ajta, aɨjna ɨ nyuucari tɨ cɨmeꞌen raxaj tɨ Dioj ayan huaꞌaxɨjteꞌen seij ajta seij aꞌij tɨ tiraacɨꞌɨti tɨj naꞌa rusen cɨmeꞌe. Naijmi tɨj naꞌa ɨ tyaj tyauchan tiraataxajtacaꞌa, ayaa puꞌu een ɨ maj cɨn anacai titaꞌitiiriꞌi. Puꞌuri ruxeꞌeveꞌe tyej eitzeꞌe huavaujseꞌen ɨ Dioj jemi.
+58007003	Ayaa tu tyaɨjna cɨn rɨni tɨ puaꞌa Dioj ayan titaataꞌacareꞌen.
+58007009	Aɨj pu cɨn, rɨꞌɨri tej teyan raataxaj yee aɨ pu Leví ajta ayan tyuꞌunajchitacaꞌa aꞌachu cumu tamuaamuataꞌa puaꞌamua aɨjna cɨmeꞌe tɨ aucheꞌe huataseijreꞌesin aɨjna jetze ɨ ruyaaxu, aɨjna ɨ Abraham tyaacan. Leví pu xaa tyuꞌunajchitacaꞌa ajna tɨꞌɨj Melquisedequi ayan raꞌantinajchacaꞌa aɨjna ɨ Abraham tyaacan.
+58007010	
+58007018	Ayaa pu teꞌeme, aꞌini Dioj pu ari ayan raꞌuraúu aɨjna ɨ nyuucari tɨ anacai raatyajtuaa aɨme jemi ɨ mej Israel jetze ajtyamaꞌacantacaꞌa. Ayaa pu aɨjna cɨn huarɨj aꞌini camu téꞌeviicueꞌiracaa aɨme ɨ maj vaꞌacan cɨn títyatatyáꞌacaa, ajta capu tiꞌitɨ tyuꞌutyavaɨ aɨjna ɨ nyuucari.
+58007019	Ee xaa, capu tiꞌitɨ huanaijmiꞌire aɨjna ɨ nyuucari ɨ maj cɨn tiꞌijtacaꞌa, silu aɨ pu xaa tɨꞌɨj Dioj ayan raatyajtuaa itejmi jemi aɨjna tɨ eitzeꞌe reꞌen ɨ tyaj rachuꞌeveꞌe, ɨ tyaj tyajta cɨn vejliꞌi ajtyaxɨꞌɨren jemin ɨ Dioj.
+58008013	Ayaa puꞌu naꞌa, aꞌini tavastaraꞌa pu ayan cɨmeꞌen tiꞌixaj yee jajcuacan nu cɨn nyuucari huatyatuaasin, ayaa pu een cɨn ajta ayan tiraaxaꞌapɨꞌɨntare tɨ ari miꞌimaꞌacan aɨjna ɨ nyuucari tɨ anacai huaꞌa jemi raatyajtuaa. Ajta aɨn tɨ ari miꞌimaꞌacanta aꞌaraa, ajta cai cheꞌe tiꞌitɨj vaɨreꞌe, puꞌuri tɨn antipuaꞌari nain cɨmeꞌe.
+58009027	Ajta, ayaa pu tiꞌihuaujxaꞌapɨꞌɨntariꞌiriꞌi aɨme jemi ɨ tyaɨte tɨ seij naꞌa ayan tiraacɨꞌɨti ɨ tyaataꞌa tɨ huamɨꞌɨni, ajta eꞌeyan Dioj raꞌaxɨjteꞌen. Ayaa pu cheꞌeta naꞌa een tɨ aɨn Cɨriistuꞌu seij naꞌa huataujmuaɨꞌɨvajtacaꞌa huaꞌa jetze maꞌacan ɨ tyaɨte tɨ ij huáꞌariꞌi ɨ maj cɨn muiꞌitɨ autyajturaa ɨ Dioj jemi. Ajta, aɨ pu ajtahuaꞌa huataseijreꞌesin huaꞌa jemi ɨ maj aꞌujcaꞌanyaacan cɨn rachuꞌeveꞌe. Capu cheꞌe pueijtzi huaꞌutaꞌasin aɨjna cɨmeꞌe ɨ maj cɨn aꞌatura ɨ tyaɨte silu aɨ puꞌicu hueꞌiratuaasin.
+58009028	
+58010008	Anacai pu ayan tyuꞌutaxajtacaꞌa yee tɨ Dioj cai raꞌaranajchacaꞌa mej meyan tyuꞌutamuaɨꞌɨvajta naꞌari maj tiꞌitɨ tyuꞌutatuiireꞌen ɨ jemin. Ajta yee tɨ cai raataxeꞌeve mej meyan tyuꞌutamuaɨꞌɨvajtacaꞌa ɨ maj huaꞌutyaatai nusu maj maɨjna cɨn tyuꞌutamuaɨꞌɨvajtacaꞌa maɨjna cɨmeꞌe ɨ maj cɨn autyajturaa ɨ Dioj jemi. Naimiꞌi tɨj naꞌa maj meyan tiꞌimuaɨꞌɨvajta, ayaa pu tihuaꞌutaij mej meyan huarɨni aɨjna ɨ nyuucari ɨ maj cɨn tiꞌijta.
+58010009	
+58010010	Ajta, aꞌini ayan ruxéꞌeviꞌiraꞌa cɨn mu aꞌuveꞌeme, aɨ pu ajta ayan tuꞌiraaviꞌitɨ tɨj naꞌa rusen cɨmeꞌe aɨjna cɨmeꞌe tɨ ayan huataujmuaɨꞌɨvajtacaꞌa ɨ rutevi cɨmeꞌe aɨjna ɨ Jesús tɨ ajta Cɨriistuꞌu pueen.
+58010013	Aj puꞌi autejchee tɨ raachuꞌeveꞌen asta naꞌa cai tyamuaꞌa naa tihuaꞌutyamueꞌitɨn naijmiꞌica ɨ maj rajchaɨreꞌe, aꞌini seij pu cɨn ɨ muaɨꞌɨvejri, ayan huaꞌunáijmiꞌire tɨj naꞌa rusen cɨmeꞌe aɨme ɨ tɨ hueꞌiraaviꞌitɨ.
+58010014	
+58010017	Ajta ayan tiꞌixa tɨcɨn: Canu cheꞌe raꞌutamuaꞌareera ɨ maj cɨn nyeetzi jemi autyajturaa naꞌari ɨ maj cɨn aꞌij puaꞌa tiꞌityújchaɨcaꞌa.
+58010018	Aɨj pu cɨn, camu cheꞌe meyan tiꞌimuaɨꞌɨvajtaca maɨjna cɨmeꞌe ɨ maj cɨn autyajturaa ɨ Dioj jemi, aꞌini Dioj pu ari tihuaꞌutauuniꞌiriꞌi.
+58010026	Ma ajta, tɨ puaꞌa teyan taxeꞌeviꞌiraꞌa cɨn tyauj teyan aꞌij puaꞌa tiꞌititachaꞌɨ tyatɨꞌɨj teri raamuaꞌareeriꞌi aꞌij tɨ tiraꞌaxaj aɨjna jetze ɨ yuꞌuxari tɨ tzaahuatiꞌiraꞌa cɨn tyaꞌaxa, capu cheꞌe titáacɨꞌɨti saɨj ɨ muaɨꞌɨvejri tɨ cɨn Dioj titaatauuniꞌi, silu aɨ puꞌu xaa ayan titáacɨꞌɨti aɨjna tɨ tzɨɨniꞌireꞌe, tɨ aɨn Dioj pueijtzi cɨn taataꞌasin. Huapɨꞌɨ pu pueijtzi cɨn huaꞌutaꞌasin aɨme ɨ maj rajchaɨreꞌe. Ayaa pu aɨjna cɨn huaꞌaruuren tɨj taij tɨ nain cɨn tiꞌitaꞌiraca aɨjna cɨmeꞌe tɨ huapɨꞌɨ nyuꞌucamɨꞌɨ.
+58010027	
+58010039	Me tyajta ityan, catu huaꞌa jetze ajtyamaꞌacan ɨ mej meyan caujxaahuataca, aɨme ɨ tɨ Dioj huaꞌantipuaꞌariteꞌesin. Catu xaa nyaꞌu, silu tyan tu huaꞌa jetze ajtyamaꞌacan ɨ mej tyaꞌatzaahuateꞌe, aɨme ɨ tɨ Dioj hueꞌiratuaasin tɨj naꞌa rusen cɨmeꞌe.
+58011017	Me tyajta ityan, catu huaꞌa jetze ajtyamaꞌacan ɨ mej meyan caujxaahuataca, aɨme ɨ tɨ Dioj huaꞌantipuaꞌariteꞌesin. Catu xaa nyaꞌu, silu tyan tu huaꞌa jetze ajtyamaꞌacan ɨ mej tyaꞌatzaahuateꞌe, aɨme ɨ tɨ Dioj hueꞌiratuaasin tɨj naꞌa rusen cɨmeꞌe.
+58011018	
+58011039	Dioj pu ayan rɨꞌɨ tihuaꞌutyajtuaa naijmiꞌica aɨjna cɨmeꞌe mej tyaꞌantzaahua. Ma majta aɨme, camu xɨ raꞌancuraꞌa aɨjna tɨ cɨn Dioj tyaꞌataujratziiriꞌi aɨjna cɨmeꞌe tɨ Dioj ari titaaxaꞌapɨꞌɨntariꞌiriꞌi itejmi jemi aɨjna tɨ eitzeꞌe reꞌen tɨ aɨn ayan tejmi jamuan huaꞌunaijmiꞌireꞌen aɨme.
+58011040	
+58012028	Aɨj pu cɨn, ticheꞌe tyaɨjna cɨn huatatatyamuaꞌaveꞌen tyaɨjna cɨmeꞌe tɨ ayan titáacɨꞌɨti tej tyaun aꞌutyaturan seij chuejraꞌa japua tɨ cai aꞌatɨ raayɨꞌɨtɨ tɨ raataruurajxɨꞌɨn. Aɨj pu cɨn, ticheꞌe tyajta teyan ranaꞌamicheꞌen tyaɨjna ɨ Dioj aꞌij tɨ tiraꞌaraanajchi. Ticheꞌe teyan ratzɨɨnyaꞌa raꞌaraꞌastijreꞌen, aꞌini aɨjna ɨ Dioj ɨ tyaj ranaꞌamiche, ayaa pu een tɨj taij tɨ nain tiꞌitaꞌiraca.
+58012029	
+58013020	Ticheꞌe teyan rɨꞌɨ tiraataꞌacareꞌen tyaɨjna ɨ Dioj tɨ aꞌij huatyapuaꞌariteꞌen, tɨ ajta raꞌajjáj huaꞌa tzajtaꞌa ɨ mɨꞌɨchite aɨjna ɨ tavastaraꞌa aɨjna tɨ Jesús pueen. Ai pu aɨn pueen tɨ ayan vaꞌacan cɨn antyujmuaꞌaree aɨjna cɨmeꞌe tɨ huaꞌachaɨ aꞌaraꞌani ɨ rutyaɨtestyamuaꞌa tɨj saɨj tɨ huaꞌa cujtaꞌa huaméꞌen ɨ canyaꞌaxɨ. Ayaa pu éenyeꞌequeꞌe seijreꞌe aɨjna cɨmeꞌe tɨ raꞌiraaxɨre ɨ ruxuureꞌe tɨ ij ayan raaxaꞌapɨꞌɨntareꞌen aɨjna ɨ nyuucari tɨ cɨn Dioj tyaꞌataujratziiriꞌi tɨj naꞌa rusen cɨmeꞌe. Cheꞌe aɨn Dioj ayan amuaanáijmiꞌireꞌen nain cɨmeꞌe tɨ xaꞌapɨꞌɨn een sej si seyan huarɨni aꞌij tɨ aɨn tiꞌijxeꞌeveꞌe. Cheꞌe aɨn ayan amuaaruuren sej si seyan eꞌenyeꞌen seijraꞌa aꞌij tɨ tiraꞌaraanajchi aɨjna cɨmeꞌe tɨ aɨn Jesús tɨ ajta Cɨriistuꞌu pueen ayan aꞌamua japua huanyúu. Aɨj pu cɨn, ticheꞌe teyan rɨꞌɨ tirataꞌacareꞌen tɨj naꞌa rusen cɨmeꞌe.
+58013021	
+59001007	Capu aꞌatzu xaꞌapɨꞌɨn metyáumuaꞌaree aɨjna ɨ aꞌatɨ aɨjna cɨmeꞌe tɨ huaꞌapuaca cɨn áꞌujcaꞌanye tɨ ij ayan huarɨni. Capu aꞌatzu ayan tiraꞌamitejteꞌe aꞌij tɨ huarɨni tiꞌitɨj cɨmeꞌe. Ajta aꞌatɨ tɨ ayan een, capu aꞌatzu raꞌancuraꞌasin ɨ tavastaraꞌa jemi.
+59001008	
+59001019	Aɨj pu cɨn, sataꞌaj seyan raamuaꞌaree aꞌij sej yeꞌi huarɨni, neꞌihuaamuaꞌa, mɨ nyaj jaꞌamuaxeꞌeveꞌe. Rɨꞌɨ xuꞌu sej si raanamua tyamuaꞌa naa. Ma sajta, caxu caꞌanacan tihuaꞌutaꞌixaateꞌesin ɨ tyaɨte. Caxu sajta caꞌanacan huatanínyuꞌucacu, aꞌini capu rɨꞌɨri tɨ aꞌatɨ ayan raaruuren aɨjna tɨ xaꞌapɨꞌɨn een ɨ Dioj jemi tɨ puaꞌa ayan nyuꞌucamɨꞌɨ cɨn tiꞌityujchaꞌɨ.
+59001020	
+59002015	Ticheꞌe teyan tiraataxaj yee tɨ aꞌatɨ ayan huarɨni tɨ aꞌamua jetze ajtyamaꞌacan. Capu amɨn aꞌij, tɨ puaꞌa tyaataꞌa pɨrɨcɨ naꞌari jɨitaꞌa. Aɨ pu ayan cai tiꞌitéechan, ajta cai tiꞌitɨ tichaꞌɨ tɨ raacuaꞌani tɨj naꞌa sei xɨcaj jetze. Ajta aɨn aꞌatɨ ayan aꞌiréꞌenyen seij jemi tɨ ajta muejmi jetze ajtyamaꞌacan. Aj pu i ayan tiraataꞌixaateꞌen aɨjna tɨ tiraꞌaturaateꞌe. Ajta aɨjna ɨ aꞌatɨ, ayaa naꞌa tiraataꞌixaateꞌen yee “Aricu, cheꞌe rɨꞌɨ muꞌu timuajáꞌavaɨraꞌa.” Ajta cai tiꞌitɨ raataꞌan tɨ cɨn huataujvaɨreꞌen. ¿Aꞌini naꞌaqui teꞌeme aɨjna jemi tɨ cai tiꞌitɨ tihuaꞌutaꞌa, aɨjna ɨ aꞌatɨ tɨ ayaa naꞌa tyaꞌatzaahuateꞌe? ¿Ni qui tyamuaꞌa naa? Capu aꞌatzu xaa nyaꞌu.
+59002016	
+60001015	Ee xaa nyaꞌu, sataꞌaj cai aꞌij puaꞌa rɨjca, silu sataꞌaj seyan nain cɨn urareꞌenyaꞌacan cɨn tiꞌiteseijraꞌa tɨj ajta urareꞌenyaꞌacan cɨn tiꞌiseijreꞌe aɨjna tɨ amuaatajée. Sataꞌaj seyan nain cɨn huarɨni aꞌij sej tiꞌityujchaꞌɨ aꞌini ayaa pu teꞌeyuꞌusiꞌi tɨcɨn: “Sataꞌaj seyan urareꞌenyaꞌacan cɨn tiꞌiteseijraꞌa aꞌini nyaa nu nyajta urareꞌenyaꞌacan cɨn seijreꞌe.”
+60001016	
+60001018	Ayaa pu tiraavijteꞌe sej seyan rɨꞌɨ tiꞌityujchaꞌɨ aꞌini xuꞌuri ramuaꞌaree tiꞌitɨ tɨ pɨrɨcɨ tɨ cɨmeꞌen Cɨriistuꞌu ayan tyuꞌutanajchitacaꞌa aɨjna ɨ saj cɨn téꞌechaɨcaꞌa ɨ Dioj jemi sej si cai cheꞌe seyan tiꞌijrɨꞌɨraa aꞌij sej sejmiꞌi tiꞌijrɨꞌɨrajcaa saɨjna cɨmeꞌe ɨ yeꞌira tɨ cai tiꞌitɨ vaɨraꞌacaa, ɨ maj amuaataꞌitiiriꞌi ɨ aꞌamuavaujsicɨꞌɨ. Capu Cɨriistuꞌu aɨjna cɨn tyuꞌutanajchitacaꞌa aɨjna cɨmeꞌe ɨ ooro, naꞌari aɨjna cɨmeꞌe ɨ plaata, tɨ ayan aꞌapuaꞌare, silu aɨ pu aɨjna cɨn tyuꞌutanajchitacaꞌa aɨjna cɨmeꞌe ɨ ruxuureꞌe tɨ huapɨꞌɨ tiꞌivaɨreꞌe. Ayaa pu Cɨriistuꞌu huataujmuaɨꞌɨvajtacaꞌa tɨj canyaꞌa, tɨ cai aꞌatzu cápitaꞌina, tɨ cai tiꞌitɨ cɨn aꞌatura.
+60001019	
+60002002	Sataꞌaj seyan éꞌenyeꞌen matɨj ɨ tɨꞌɨri ɨ maj eihua huapɨꞌɨ tzaꞌacuj mej mi maɨjna cɨn huavaujseꞌen maɨjna cɨmeꞌe ɨ huaꞌa tziꞌime ɨ huaꞌanaana. Sataꞌaj seyan cheꞌeta sanaꞌa raxeꞌevaꞌa tɨ ij aɨn xaijnyuꞌucaraꞌaraꞌan ɨ Dioj ayan aɨjna cɨn tyajamuaataitiꞌi aɨjna cɨmeꞌe ɨ nyuucari tɨ reꞌenyaꞌacan cɨn seijreꞌe tɨ ij aɨjna cɨn rɨꞌɨ amuaaruuren tɨ ij ayan tyajamuaacɨꞌɨti tɨ aɨn Dioj ayan amueꞌirajtuaani, aꞌini xuꞌuri raamuaꞌareeriꞌi tɨ aɨn tavastaraꞌa ayan rɨꞌɨ tyajaꞌamuachaɨ aꞌayeꞌi.
+60002003	
+60002007	Ajta, muejmi jemi ɨ sej tyaꞌatzaahuateꞌe, eecan pu naa tyajamuaꞌaseijrateꞌe aɨjna ɨ tetej. Ma majta aɨme jemi ɨ maj cai áꞌujcaꞌanye mej tyaꞌantzaahuateꞌen, ayaa pu teꞌeme aꞌij tɨ teꞌeyuꞌusiꞌi tɨcɨn: Aɨjna ɨ tetej ɨ maj ma ruuhuaꞌaxɨ aɨme ɨ maj raꞌajtaahua ɨ chiꞌi, Dioj pu ayan raꞌavaꞌahuau tɨ ayan tyuꞌutyavaɨreꞌen tɨ japuan raꞌajtaahua ɨ chiꞌi.
+60002008	Ajta, ayan tɨcɨn: Aɨj pɨrɨcɨ ɨ tetej ɨ maj jetzen áꞌijcaacata ɨ tyaɨte, ajta ɨ mej jetzen aꞌitávitzej. Ayaa mu een cɨn jetzen áꞌijcaacata maɨjna cɨmeꞌe maj cai raꞌastijreꞌe maɨjna ɨ nyuucari ɨ maj raanamuajriꞌi. Ayaa pu een cɨn ayan tihuaꞌuxaꞌapɨꞌɨntariꞌiriꞌi tɨꞌi Dioj ayan huaꞌuruuren.
+61001013	Ayaa pu tinaꞌamitejteꞌe tɨ ayan tiraavijteꞌe nyej neyan huarɨni tɨj naꞌa nyaj nyauj yan seijreꞌe, nyej ni caꞌanijraꞌa amuaataꞌacareꞌen sej si seyan tiraꞌutamuaꞌaree aꞌij sej huarɨni, aꞌini nuꞌuri neyan ramuaꞌaree tɨ ari vejliꞌi pɨtiꞌirɨcɨ ajna xɨcajraꞌan jetze nyej jetzen huamɨꞌɨni. Ayaa nu nyaɨjna cɨn ramuaꞌaree aꞌini aɨ pu tavastaraꞌa, aɨjna ɨ Jesús, tɨ ajta Cɨriistuꞌu pueen, ayaa pu tinaataꞌixaa.
+61001014	
+61003001	Muan, nyaj aꞌamuaxeꞌeveꞌe, aɨ pu aɨn pueen ɨ nyaj huaꞌapuacajretze cɨn tyajaꞌamuayuꞌuseꞌe. Ayaa nu cheꞌeta nyanaꞌa nyaɨjna cɨmeꞌe ɨ tɨ huaꞌapua, caꞌanijraꞌa nu cɨn amuataꞌaca sej si seyan tzaahuatiꞌiraꞌa cɨn tyuꞌumuaꞌati saɨjna jetze ɨ nyaj cɨn neyan amuataꞌaca saj raꞌutamuaꞌaree aꞌij mej tyuꞌutaxajtacaꞌa aɨme ɨ maj Dioj jetze maꞌacan tiꞌixaxaꞌataꞌa, sataꞌaj seyan cheꞌeta sanaꞌa raꞌutamuaꞌaree ɨ nyuucari ɨ tɨ cɨn tyajamuaataij aɨjna ɨ tavastaraꞌa tɨ ajta aɨn pueen aɨjna tɨ amueꞌiratuaasin. Ai pu aɨn pueen ɨ nyuucari tɨ aɨn ayan tiraatyajtuaa itejmi jemi tyej ti teyan tyajamuaataꞌixaateꞌen muejmi.
+61003002	
+63001010	Tɨ puaꞌa aꞌatɨ muejmi jemi mu aꞌuveꞌemeꞌen tɨ cai ayan tiraꞌastijreꞌe aɨjna ɨ nyuucari tɨ tejmi jemi raatyajtuaa, caxu raatataujtyaꞌa, caxu sajta raꞌancureꞌeviꞌitɨjcɨjcareꞌen aꞌu saj eꞌeche, aꞌini aꞌatɨ tɨ naꞌa tɨ ayan raꞌancureꞌeviꞌitɨn, aɨ pu jamuan ajta ayan rɨcɨ tɨ aꞌij puaꞌa een.
+63001011	
+64001005	Mɨ nyaj muaxeꞌeveꞌe, xaꞌapɨꞌɨn paj rɨcɨ tɨj naꞌa paj peyan tiꞌitɨj cɨn tihuaꞌatyavaꞌɨri ɨ taꞌihuaamuaꞌa. Ajta eitzeꞌe pu xaꞌapɨꞌɨn cɨn seijreꞌe ɨ Dioj jemi tɨ puaꞌa peyan huaꞌutyavaɨreꞌen paɨme ɨ paj cai huaꞌamuajte aꞌini aɨ mu meyan raatyaxajtacaꞌa huaꞌa jemi ɨ maj ya tyujsaꞌɨri mueetzi cɨmeꞌen paj nuꞌu peyan huaꞌaxeꞌeveꞌe ɨ aꞌaxaꞌaj tyaɨte. Ayaa nu tiꞌimuahuavii pataꞌaj peyan tihuaꞌutyavaɨreꞌen tyamuaꞌa naa tɨ ij cai tiꞌitɨj huaꞌaturaatyaꞌa matɨꞌɨj aꞌucɨɨne aꞌini ayaa pu tiraavijteꞌe aɨjna cɨmeꞌe mej meyan tiꞌivaɨreꞌe ɨ Dioj jemi.
+64001006	
+65001024	Ajta aɨn ɨ Dioj tɨ saɨj naꞌa pueen, ai pu aɨn pueen tɨ tuꞌirajtuaani. Aɨ pu raayɨꞌɨtɨ tɨ caꞌanijraꞌa amuaataꞌan sej si cai tiꞌitɨ cɨn atyaꞌɨtzaꞌaraꞌan ɨ jemin. Aɨ pu ajta amuaatyahuiiteꞌesin ɨ jemin aꞌu tɨ rɨꞌɨ huapɨꞌɨ naa tiꞌiseijreꞌe. Muan xu cai tiꞌitɨ aꞌaturaacan cɨn saun huateꞌen, sajta huapɨꞌɨ xu huataujtyamuaꞌaveꞌesin.
+65001025	
+66002024	“Saj sajta muan, mɨ seica, mɨ saj saun Tiatira eꞌeche, mɨ saj sajta cai seyan tiraꞌastijreꞌe saɨjna ɨ nyuucari, caxu saɨjna huarɨꞌɨre ɨ mej ee eihua huapɨꞌɨ ruxeꞌeveꞌe ɨ Satanás jemi. Aɨj nu cɨn, canu maa aꞌij tiꞌitɨj cɨn tyajaꞌamueijcateꞌen, silu sataꞌaj seyan huarɨni saj sauj raꞌastijraꞌa aꞌij sej seri tiraarɨꞌɨre. Sataꞌaj seyan huarɨni, asta nyanaꞌa cai nyajtahuaꞌa ya uvéꞌenyen.
+66002025	
+66009013	Aj puꞌi aɨn tɨ arájsevi, aɨ pu ajta ucájijhuacaꞌa ɨ trompeeta jetze. Cɨmeꞌen puꞌu ayan ucájijhuacaꞌa, nyatɨꞌɨj ni aꞌatɨ huanamuajriꞌi tɨ aun tíꞌixajtacaa aꞌu tɨ aꞌutejvee aɨjna ɨ maj japuan tiꞌimuaꞌɨvajtaca. Ayaa pu tiraataꞌixaa aɨjna tɨ ucájijhuacaꞌa tɨcɨn: ―Pataꞌaj hueꞌixɨ́jtaxɨꞌɨn aɨme ɨ maj muaacua ɨ maj majta aityanamiꞌi aujna vejliꞌi atyaꞌana jetze tɨ veꞌe tɨ ayan tyajaꞌarajtyahuaa tɨcɨn Eufrates.
+66009014	
+66010005	Ajta aɨn ɨ tɨ tajapua tiꞌivaɨreꞌe ɨ nyaj raaseij tɨ jaj japua aꞌaraɨ́ɨcatacaꞌa, ajta chuej japua ajta aꞌaraɨ́ɨcatacaꞌa, aɨ pu ajméijcaꞌatacaꞌa, ajta ayan tyaꞌataujratziiriꞌi tɨ nuꞌu ari tyajaꞌureꞌenyejsin ajna xɨcajraꞌan tɨ jetzen nain teꞌentipuaꞌari. Aɨj pu jetze tyaꞌataujratziiriꞌi ɨ nyuucajtzeꞌen aɨjna tɨ rusen cɨn ruuri. Ai pu aɨn pueen ɨ Dioj tɨ tajapua huatyataahuacaꞌa, ajta naijmiꞌica tɨ aun eꞌeseijreꞌe. Aɨ pu ajta raatyataahuacaꞌa ɨ chaanaca ɨ tyaj japuan yen seijreꞌe, aɨ pu ajta raatyataahuacaꞌa tɨj naꞌa tɨ japuan tiꞌiseijreꞌe, ajta ɨ jaj tɨ veꞌe, ajta tɨj naꞌa tɨ aun eꞌeseijreꞌe.
+66010006	
+66014009	Aj puꞌi saɨj tɨ tajapua tiꞌivaɨreꞌe, aɨjna ɨ tɨ hueica, aɨ pu ajta cujtaꞌan tyuꞌuxájtajmaꞌa caꞌanin cɨmeꞌe tɨcɨn: ―Tɨ puaꞌa hui aꞌatɨ ranaꞌamicheꞌen aɨjna ɨ tevi tɨ huapɨꞌɨ áꞌatyesiꞌireꞌe, ajta aɨjna ɨ tevi, ajta ayan tiraꞌutyacaꞌanyen maj raꞌusɨɨmuaꞌan ɨ cuaatzajraꞌan jetze nusu muajcaꞌaraꞌaraꞌan jetze aꞌij tɨ antyahuaa aɨjna ɨ tiꞌitɨ ɨ tɨ huapɨꞌɨ áꞌatyesiꞌireꞌe, Dioj pu ajta raatyatɨmueꞌirasteꞌesin aɨjna cɨmeꞌe tɨ huapɨꞌɨ nyuꞌucamɨꞌɨ. Ajta aɨn ɨ aꞌatɨ, tiꞌitɨ pu hui antiꞌisin tɨ ayan raaruuren tɨ aɨjna ɨ huaꞌaveꞌeri tɨ cai tiꞌitɨ ranaxca, ɨ maj cɨn huaꞌacuiꞌica. Aɨ pu ajta rajpueiitzi aꞌame ɨ taij cɨmeꞌe, ajta aɨjna cɨmeꞌe tɨ ayan tyaꞌaaca tɨj tyapuustiꞌi. Ayaa pu hui tirajpueiitzi aꞌame huaꞌa jemi ɨ maj tajapua tiꞌivaɨreꞌe, ajta aɨjna jemi ɨ Canyaꞌa.
+66014010	
+66018011	Majta aɨme ɨ mej tiꞌituꞌaraca iiyan chaanaca japua, aɨ mu majta ruyeinixɨꞌɨn, majta ruxaamɨstyaꞌa muaꞌajuꞌun maɨjna cɨmeꞌe ɨ chajtaꞌana aꞌini capu cheꞌe maꞌa aꞌatɨ tɨ tihuaꞌunanai ɨ mej tiꞌituaꞌaraca tiꞌitɨ tɨ naꞌa mej tiꞌitɨcɨ, tɨ puaꞌa ooro, nusu plaata, naꞌari tetej tɨ tyamuaꞌa tiꞌijnajchi, tiꞌitɨ peerla. Majta seica cɨɨxuri tiꞌituaꞌaraca. Capu cheꞌe aꞌatɨ tihuaꞌananairan ɨ tɨ tiꞌimestí, ɨ tɨ nacamua, tɨ taꞌati, tɨ paꞌu. Camu majta cheꞌe huaꞌananaira muaꞌajuꞌun ɨ cɨye maj tuꞌaraca tɨ eihua tiꞌijnajchi naꞌari tiꞌitɨ coobre nusu tyapuustiꞌi nusu aɨjna ɨ tetej ɨ maj racaamete, ɨ maj cɨn tyaꞌantamɨɨmɨteꞌen ɨ tyapueij naꞌari ɨ chun.
+66018012	

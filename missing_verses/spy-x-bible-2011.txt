@@ -1,250 +1,250 @@
-40002009
-40002010
-40004015
-40004016
-40008008
-40008009
-40011002
-40011003
-40014003
-40014004
-40022038
-40022039
-40022040
-40022045
-40022046
-40024015
-40024016
-41001012
-41001013
-41003031
-41003032
-41005002
-41005003
-41005007
-41005008
-41005015
-41005016
-41005027
-41005028
-41006005
-41006006
-41006008
-41006009
-41006017
-41006018
-41006022
-41006023
-41007025
-41007026
-41007036
-41007037
-41008008
-41008009
-41009012
-41009013
-41009030
-41009031
-41010029
-41010030
-41012031
-41013026
-41013027
-41014004
-41014005
-41014035
-41014036
-41015042
-41015043
-41016003
-41016004
-41016010
-41016011
-42001039
-42001040
-42001054
-42001055
-42001072
-42001073
-42002022
-42002023
-42002024
-42002029
-42002030
-42002031
-42002050
-42002051
-42004006
-42004007
-42004025
-42004026
-42006022
-42006023
-42007020
-42007021
-42007045
-42007046
-42008041
-42008042
-42009030
-42009031
-42010007
-42010008
-42011005
-42011006
-42012043
-42012044
-42013024
-42013025
-42020009
-42020010
-42020018
-42023044
-42023045
-42023050
-42023051
-42024047
-42024048
-43002001
-43002002
-43007012
-43007013
-43010012
-43010013
-43010014
-43010015
-43010017
-43010018
-43010028
-43010029
-43011001
-43011002
-43011029
-43011030
-43014013
-43014014
-43021007
-43021008
-44004021
-44004022
-44004027
-44004028
-44004029
-44004030
-44010045
-44010046
-44013032
-44013033
-44013034
-44013035
-44013038
-44013039
-44013048
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023026
-44023027
-44023028
-44023029
-44023030
-44025002
-44025003
-44025026
-44025027
-45001003
-45001004
-45002014
-45002015
-45003025
-45003026
-45003027
-45003028
-45007024
-45007025
-45009001
-45009002
-45009003
-45009011
-45009012
-46002010
-46002011
-46002012
-46002013
-46002014
-46002015
-46002016
-46005012
-46005013
-46007010
-46007011
-46016006
-46016007
-47001013
-47001014
-47001015
-47001016
-47012002
-47012003
-47013012
-47013013
-47013014
-48001015
-48001016
-49001008
-49001009
-49003003
-49003004
-49006021
-49006022
-51004007
-51004008
-52005001
-52005002
-53002016
-53002017
-54001012
-54001013
-54004009
-54004010
-55002017
-55002018
-56002003
-56002004
-58001008
-58001010
-58001014
-58002009
-58002013
-58004004
-58004005
-58004006
-58004007
-58005006
-58006004
-58006005
-58006006
-58007018
-58007019
-58007022
-58010008
-58010009
-58010010
-58010017
-58010018
-58013020
-58013021
-60001018
-60001019
-60002008
-60002009
-60002010
-61001017
-61001018
-62003019
-62003020
-66004009
-66004010
+40002009	Yu keewaany ꞉Bāytooyiintēēt kung'āloolchi bichoo, kuba. Nto yu kakas ꞉icheek kookeelyaanaa kung'ērēkiis nyēbo kwōng'uut. Kiirēētoot ꞉kookeelyaanaa bo koong'asiis ākoy wokuteemanee barakuutaab ꞉lakwanaa.
+40002010	
+40004015	“Kookukas ꞉bichoo minyē mēēnān lēbkēēyyēēt nyēē wōō ām rōōrōōkēētaab Sābulōōn āk nyēbo Naftaali wōloo lēēkitēē ꞉Tōōliilēētaab Kalilaaya āk āynēētaab Yoortaan, yēēmēētaab Kalilaaya wōloo miitē ꞉biich chēē sobooy. Kōōkuchōōnchi ꞉lēbkēēyyēēt bichoo minyē kōōr nyēē kitub ꞉mēēnānēētaab meet.”
+40004016	
+40008008	Kuwālchi ꞉kāāntōōyiintoonoo Yēēsu kule, “Mokoryoontēēt, ānkētē anii kule māyēmāktōōs iwut ꞉inyiing' kōōng'waanii. Āmiitē ꞉anii ng'wēnyuutaab kāāmuukēywēēk ānkāābāytooy biikaab lukēēt. Yoo kāāmwoochi chii nyēē mii ng'wēnyuunyuu kule, ‘Wē’ kuwēētii, nto yoo kāāmwoochi ake kule, ‘Chōō’ kuchōōnii. Yoo kāāmwoochi motwooriintēēnyuu kule, ‘Yey kiy’ kuyēyē. Kunyoo, imwaay baateey ng'ālyoo, yooto mākusob ꞉motwooriintēēng'waanii.”
+40008009	
+40011002	Yu kakas ꞉Bātisāniintēēt Yoowaana nyēē kirataat ng'aleek chēē kimii kuyēyē *꞉Kāārārookiintēēt, kumwoochi rubiikyii āyēēng' kule, “Obe wōlēē mii ꞉Yēēsu ankooteebee yoo inee man ꞉Kāārārookiintēēt nyoo /kōkēēbērē mākuchō, nto tākumii ꞉ake nyēē kēēkānyoonu.”
+40011003	
+40014003	Kimiitē yēē kichoomnyo ꞉Ērōōtē āk Erootyaa koorkēētaab ng'eetaabkaamet nyēē /kikēēkuurēē Filibō. Kimwoochinē ꞉Yoowaana Ērōōtē kule, “Makaraam 'intii ng'eetaabkoomēt kusobē.” Yooto kōōwuruur ꞉Erootyaa Ērōōtē kukerta Yoowaana kōōtaab kibratiisyek.
+40014004	
+40022038	Kiruutyēēt ꞉nyiitēnyi nyēbo koomānuut ānku wōō ām tukul. 
+40022039	Nto nyēbo āyēēng' kōōrōōbērē nyiin kumwooyē kule, ‘Icham laatyeeng'uung' kuu wōloo ichāmtooy keey.’†
+40022040	Iyumē ꞉kiruutēchuutēchu āyēēnku kiruutēkaab Muusa tukul ākoo siruutēkaab *wōōrkooyik.”
+40022045	Kunyi, yoo kuurē ꞉Tāwuti Kāārārookiintēēt kule ‘Mokoryoontēēnyuu’ kōōmuuchāktōōs kule nee kuchōōnēē ꞉Kāārārookiintēēt kōōtaab Tāwuti?”
+40022046	Mānāākēt ꞉chii ake tukul ng'ālyoo amanaatakukany ꞉bichoo kuteebee Yēēsu tēēbuut ake tukul kung'eetee yooto kuwo taay.
+40024015	Kimwooy ꞉Yēēsu subak kule, “Yoo kookas ‘kiyoo ‑mēēriiku ꞉Yēyiin’† nyoo king'āloolēē ꞉wōōrkooyoontēēt Tānnyēēl kukēēyyoonyēē Kōōtaab Yēyiin, māchāktōōs kumwēchi ꞉biiko choo miitē Yuuteeya lekem. (Kuyeb yiit ꞉chii nyoo sumānē ng'aleechu.)
+40024016	
+41001012	/Kēēmwoochinē chiichooto kichunkutoot kuu nyooto, kung'ēētē ānkunāmē tiirbeenyii ānkuwēēchinē keey, kukāsē ꞉biiko tukul. Kiilat ꞉biiko ankookaasta Yēyiin, kuuyu ki ng'al ꞉choo chēē kimānāāyēyākiis bēsyēēt ake.
+41001013	Nto mii bēsyēēt ake, kuwo ꞉Yēēsu subak sakaramteetaab Tōōliilēētaab Kalilaaya. Kirub ꞉biiko chēē chaang' ankooneet ꞉inee ng'ālyoontēētaab Yēyiin.
+41003031	Kimii ꞉biiko chēē chaang' kēēruruukyi keey Yēēsu. Yooto, kuyit ꞉kaamet ākoo mbo ng'eetaabkaamet ānkōōyookto /kēēkuurchi Yēēsu kuchō saang', kuuyu kimāmii ꞉bārooyinto wōlēē kiimuuchē kukasee inee. /Kēēmwoochi Yēēsu kule, “Mii kukuuriing' ꞉koomēt ākoo mbo ng'eetaabkoomēt ām saang'.”
+41003032	
+41005002	Yu kāloong'unēē ꞉Yēēsu mwēēng', kuchuwunee ꞉chiito ake nyēē kiboonto *tāmirmirook chēē miyootēch kochonkoosyek wōlēē /kikēēmuchinē biiko. Kimāmii ꞉chii nyēē kitākōōmuuchē chiichoo ānkoo /kakeeratee nyōrōōrōōnik.
+41005003	
+41005007	Kumwoochi ꞉Yēēsu tāmirmiryoonoo miyaat nyi kiiyiimē chiichoo kule, “Chuwu!” Kubōloobōl ꞉chiichoo kumwooyē kule, “Imāchēēnoo nee ōō, Yēēsu Lakwataab Yēyiin, nyoo Iyweyaat. Āsooyiing' ām kaayneetaab Yēyiin kule ‑'meenyaliilaa.”
+41005008	
+41005015	Māyēyē chii ꞉tukuuk choo iwutē moo kumātililiit, nteenee yēyē ꞉choo kwoonēē moo.”
+41005016	
+41005027	Kikiikukas /kyoomtooy Yēēsu. Yooto kumwoochi keey kule, “Yoo kāātiiny mbo sireenyii baateey, kāāsob.” Yu keesoot kuu nyooto, kuchō ām lēt ānkutiiny sireetaab Yēēsu.
+41005028	
+41006005	Kiilat ꞉Yēēsu, kuuyu kitay ꞉bichoo kōōyēnchi ng'aleekyii. Manaayey ng'al chēē tyaa chēbo kwōng'uut. Kitiinyēē biiko chēē ng'ēri chēē kimnyoontōōs āwunnyēk ānkōōsoob. Yooto, kuwo soong'wēk alak wokōōnēētiis.
+41006006	
+41006008	Kumwoochi subak kule, “Kunam ꞉chii kirōknyii. ‑Moonam āmnyoo, lool, beesyaa, sira nto mbo kwēyōōn.
+41006009	
+41006017	Kimwooy ꞉Ērōōtē kuu nyooto, kuuyu ki inee ꞉nyi kibākāchē Yoowaana. Nto wōlēē kichōōnto ꞉meetaab Yoowaana kimii kule: Kiboonto ꞉Ērōōtē ng'eetaabkaamet nyēē /kikēēkuurēē Filibō. Kitinyē ꞉Filibō koorkēēt nyēē /kikēēkuurēē Erootyaa. Kung'eet ꞉Ērōōtē koomut koorkoonoo kutākusobē ꞉Filibō. Yu kakas ꞉Yoowaana kiyēē kiyey ꞉Ērōōtē, kutuukyi kule, “Makaraam kōōnti ꞉chii koorkēētaab ng'eetaabkaamet, yoo tākusobē ꞉nyiin.” Yu kāmwooy ꞉Yoowaana kuu nyooto, kunam ꞉Ērōōtē ankukerta kō.
+41006018	
+41006022	Kichō ꞉chēēbtaab Erootyaa ānkutuumēē yooto koong'ereech Ērōōtē āk tāyēēkyii. Kōōwoolchi keey ꞉Ērōōtē kule, “Ātuwēnēēniing' kiy ake tukul nyēē imāchē kubo ng'erekweekyuu ām wōlēē kēētuumtē! Ānkoo yoo imāchē kereeryaanteetaab tukuuk tukul chēē āboontē, ākōōniing'!”
+41006023	
+41007025	Kimii ꞉cheebyoosyeet ake nyēē kibo kōōroonooto bo Fōyinikē nyēē kimā Cheebyuutayaa. Kiboonto ꞉cheebyoosyaani chēēbnyii nyēē kiiyiimē *꞉tāmirmiryēēt nyēē miyaat. Yu kēēnkēt ꞉cheebyoosyaanaa kule kāākuchō ꞉Yēēsu, kuwo ānkukutunyēē taayeenyii ānkusoom wokōōbēbēēto tāmirmiryēēt nyēē miyaat kung'eetee chēēbnyii.
+41007026	
+41007036	Ānkoo kiikiimchi ꞉Yēēsu biiko kule mamwaaytaat ng'aleechaa, kiilat ꞉bichoo miisin ankwaamtaat kiyēē kikas. Kimwooyē kule, “Nto yu kaakuyey ꞉Yēēsu kiy ake tukul kukaramiit. Yēyē biiko choo miinkyootiin kukas ng'aleek ākoo choo bālyootēch kung'alaal nyēē karaam.”
+41007037	
+41008008	Kyoomiis ꞉biiko chēē kiyitē wōloo bo kisyēērōōk ang'wan kut kubiyoong'iis. Yu /kāākyoomiis kubēk, kōōruruuch ꞉rubiik kaatuukanik koonyiit kērēboonik tisab. Lētuunoo, kumwoochi ꞉Yēēsu biiko kubēēchi keey
+41008009	
+41009012	Kukētyi ꞉Yēēsu kule, “Man, sinee intōōwu ꞉Eliiya sukukaramiit ꞉kiy ake tukul. Kāāmwoowook, kisimkuchō ꞉Eliiya /ānkiikēēyēchi kiy ake tukul nyēē kimāchē ꞉biich kuu wōloo mwooytooy ꞉siruutēk. Yoo ākoo kiikukaramiit ꞉kiy ake tukul, ām nee /sikeesir ām kitaabuutaab Yēyiin kule makunyalilee ꞉Wēritaab Chii tukuuk chēē chaang' ānku +/mākiintosuur?”
+41009013	
+41009030	King'eetee ꞉Yēēsu yooto ākoo rubiikyii ānkubēēchi keey. Kibeesyetaatee Yēēmēētaab Kalilaaya nto kuuyu kimii kōōnēētootē rubiikyii, manaamach kule kōōnkēt ꞉chii ake tukul wōlēē kimii ꞉icheek. Kimwoochi rubiichoo kule, “+/Mākiiyokoochi *Wēritaab Chii biiko. +/Makeebakach, nto mii bēsyēētaab sōmōk, +/makiing'eetee meet.”
+41009031	
+41010029	Kukētyi ꞉Yēēsu kule, “!Kāāmwoowook, chii ake tukul nyēē kaakubakaakta tukuukyii tukul sukuruba kwoomtootē ng'aleekaab Yēyiin, +/mākēēkētyi tukuuchoo ām bēsyōōsyēchu kusiir choo kiboonto. Yoo ki mbareet nto kooriik chēē kibakaakta, mākunyōōr. Nto yoo ki tuubchōōsyēk chēē kibakaakta, mākunyōōr. Yoo ki kwaan nto kaamet nto lēēkōōk chēē kibakaakta, mākunyōōr nkicheek. Nto subak, +/mākēēwus ām kōōrooni nteenee mākunyōōr *soboontaab kibchuulyo ām kōōrēēt nyoo chōōnii.
+41010030	
+41012031	Nto ake kumwooyē kule: ‘Icham laatyeeng'uung' kuu wōloo ichāmtooy keey.’† Māmii subak ꞉kiruutēk alake chēē siirē chu.”
+41013026	+/Makeekasa anii, *Wēritaab Chii, āchōōnēē boolik ām kāāmuukēywēēk āk lēbkēēyyēētaab Yēyiin.
+41013027	+Māāyooktē malayikaanikyuu kōōruruukoot biiko choo kwēyootiin kung'eetee kōōrēēt komosta ake ākoy ake.”
+41014004	Yu kakas ꞉biiko alake chēē kimii yooto kiyēē kayey ꞉koorkoonoo, kumwooy nyēē kāng'woonchi kule, “Nto yu sukunyarta ꞉koorkooni mwaay nyēē ālē beesaan chēē chaang' miisin kuu nyi! Nto yu /kātākyooltooy /ānkiikoochi bānoonik beesaanik.” Kinyēērchi ꞉bichoo koorkoonoo miisin.
+41014005	
+41014035	Yooto koonaata ꞉inee kisich kukutuny ānkuyim kutiiny ꞉tokochta ng'wēny ankusaay kule, “Baaba! Imuuchāktōōs ꞉tukuuk tukul ām wōlēē imiitē. Inēmtoowoo nyalili. Nteenee kuyeyakay kuu wōloo imāktooy ꞉inyiing' mēēbērē kuu wōloo āmāktooy ꞉anii.”
+41014036	
+41015042	Ki bēsyēēt ꞉nyooto nyēē kichōbēē keey ꞉Yuutayeek kukānyoonu bēsyēētaab *Sabaato. Kimii ꞉boontēēt ake nyēē /kikēēkuurēē Yōōsēēf nyēbo *kiriinkēētaab Arimataaya nyēē ki kiirwookiin nyēē kitookunoot ām *kōōkwēētaab Yuutayeek. Kikiikōōyēnchi ꞉boontoonoo kule kichōōnēē ꞉Yēēsu Kaab Yēyiin chokuyēk Bāytooyiintēēt nyoo /kikēēmii /kēēkānyē. Yu kakas ꞉boontoonoo kule kaakuriik ꞉āsiiswēk chēē toowu ꞉bēsyēētaab *Sabaato ānkutākumii ꞉Yēēsu murtooywoontēēt, kukāng' ānkuwo kaab *Bilaato wokusoom /kēēchāmchi kōōnēm muustaab Yēēsu sukumuy, kumanaarataarat ꞉kōōrēēt.
+41015043	
+41016003	Kumii kēēlto, kutēēbootēē keey kule, “Ng'oo ꞉nyēē wokuwunuktoowēēch rwaantaanaa tēē nyoo ēē?” Yu kayit, kukasta, nto bērē kulē, /kiikēēwunukto rwaanteet kuyaatakay ꞉kochonkeet.
+41016004	
+41016010	Kuwo ꞉Maaryaa nyi bo Maktaala ākoy wōlēē kimii kuriiryēē ꞉rubiikaab Yēēsu ānkumwoochi kule, “!Kaakas Yēēsu! Soboot!” Kuchweesta ꞉rubiichoo ng'aleekyii.
+41016011	
+42001039	Yooto bakeenke, kuruutoochi ꞉Maaryaa Ēliisābēēt āk boontēēnyii Sekaryaa chēē kiminyē *kiriinkēēt ake ām mosoobēytaab yēēmēētaab Yuuteeya. Kuyitē kayaata
+42001040	
+42001054	Kiikuyēētyēēchēēch acheek biikaab *Isrāyēēl choo motwoorikyii. Lēyyē! Kaakoosoot ra ꞉Yēyiin kiyēē kimwooyē kule makuriiree kōyoo bo *Abraam kēnyiis āk kēnyiis. Ng'aleechuutēchu ꞉choo kimwoochinē biikyoo choo kibo taay.”
+42001055	
+42001072	Kaakuriiree ꞉Yēyiin man mbo kuuko kootyiich *kiirootyeet nyoo kimwoochinē *Abraam.
+42001073	
+42002022	/Kikeesir ām kiruutēkaab Yēyiin choo kikōōnu *꞉Muusa kule ibuurē ꞉koorko nyēē kāsich wēēro bēsyōōsyēk artam nto /kēēlābchinē. Nto yoo /sikēēlābchi, kimāchāktōōs kuwēētooy chēēbtuukēēnik āyēēng' chēē wōōyēch nto āyēēng' chēē minkēēch /bokēēyēchinēē ntāsimuutēk. /Kikeesir mbo subak kule, leekwa ake tukul nyēē /kākēēsich nyēē kibooreetyeet ānku wēēro, /kiitāboonē nyoo kubo yiisyēētaab Yēyiin. Kunyoo, yu kikiikukeeyta ꞉bēsyōōsyēchoo bo tōmōnoontiit, kuwēēto keey ꞉Maaryaa Yōōsēēf kuboontootē leekweet Yēēsu. Kiba ākoy *Kōōtaab Yēyiin nyēē kimii Yēērusālēēm. Kimāchē /bokēēyēchi ntāsimuutēk ām wōlooto kuu wōloo mwooytooy ꞉kiruutēk ānkubokōōkooyto Yēēsu kubo yiisyēētaab Yēyiin.
+42002023	
+42002024	
+42002029	“Bāytooyiintēēnyuu Yēyiin, yoo kaameey ra, māmii ng'ālyoo, kuuyu kaakas leekweet kuu yoo 'kwēēmwoowu. Kaakas *Kāārārookiintēētaab kōōrēēt nyoo 'kiikuurtoowēēch kukāsē ꞉biiko tukul. 32Mākuyēk lēbkēēyyēētaab bōrōryōōsyēk tukul ankuyey /kēēkoonyit biikaab *Isrāyēēl tukul.”
+42002030	
+42002031	
+42002050	Mānēēnkēt ꞉sikiik kiyēē kiibooru ꞉ng'aleechaa kimwooyē ꞉Yēēsu, nteenee kinamtaat ꞉Maaryaa mēt. Kicham ꞉Yēēsu kuwēēto keey kwaan āk kaamet. Kiwokukoonyit sikiikyii.
+42002051	
+42004006	Kumwoochi Yēēsu kule, “Yoo 'kēēkutung'woo, +māākōōniing' kāāmuukēywēēk ibayte kiriinkōōsyēchuut tukul kāroorānēch kut kōōtēnytēēnyē, kuuyu anii ꞉nyēē āboontē kāāmuukēywēēk ākoochi chii ake tukul nyoo kaacham.”
+42004007	
+42004025	Kumwoochi ꞉Yēēsu subak kule, “Osoot yoo kiyēyē ꞉Yēyiin kuwo ꞉roobta kēnyiisyēk sōmōk āk ārook lo. Kichō ꞉kēmēwuut kōōrēēt /ānkiiyookto wōōrkooyoontēētaab Yēyiin *Eliiya kuwo ākoy *kiriinkēēt ake nyēē /kikēēkuurēē Sarefaat ām kōōrēētaab Sitōōn wōlēē kimii ꞉koorko nyēē ki musuk nyēē mēēbērē ki Cheebyuutayaa. Ntēē kimii naas, ꞉kooruuk alake chēē chaang' chēē ki Cheebyuutayiis āmēēbērē /kikiiyookto Eliiya kuwēēchi icheek?
+42004026	
+42006022	Ōbēruurootiin ꞉akweek sōō kule nee yoo keenkwelaak ꞉biiko alake ankutayaak ānkuchubook ānkung'ōōmook, kuuyu ōyēnchinē *Wēritaab Chii.
+42006023	Yoo kāyēwook kuu nyooto, ōtyēēn ankooraan kubo ng'erekweek, kuuyu mii ꞉kiito nyēē wōō nyēē mākutuwēnēēnook ꞉Yēyiin ām kibkōōnkōy. Ōmuytoochi kuuyu /kikiikēēyēchinoon nkicheek *wōōrkooyikaab Yēyiin choo kibo taay kuu nyooto.
+42007020	Kuyitē ꞉rubiichooto wōlooto, kimii ꞉Yēēsu kōōsoobē biiko chēē kiboonto bōōrwoonik chēē kimakerkeey ānkōōbēbēētooy tāmirmirook chēē miyootēch kung'ēētyēē biiko ānkōōsoobē cheebkoraatiisyek. Yooto, kumwoochi Yēēsu kule, “Kēēyookwēēch ꞉Bātisāniintēēt Yoowaana bokeeteebeeniing' yoo inyiing' man ku Kāārārookiintēēt nyoo /kōkēēbērē mākuchō, nto mii ꞉ake nyēē tākēēkānyoonu.”
+42007021	
+42007045	Maneemuuch ꞉inyiing' itoroochaa kuu wōloo /kēētōrōōktooy tāyēēk, nto iyiil mētinyuu. Nteenee kāākukoonyitoo ꞉koorkooni kut koomuuch kooyiil kērēēnkōōkyuu.
+42007046	
+42008041	Kimii ꞉chiito ake yooto nyēē /kikēēkuurēē Chāyirō nyēē ki kāāntōōyiintēētaab *kōōtaab saayeet. Kiboonto ꞉boontoonoo chēēbnyii nyēbo kēnyiisyēk taman āk āyēēng'. Ki lakwanyii ꞉nyooto baateey. Kimnyaanaat ꞉lakwanaa nyēē kikiikukasakay miisin. Kikutunyēē ꞉boontoonoo taayeetaab Yēēsu ānkuriirchi kuwēēto keey kanyii. Kucham ꞉Yēēsu. Kikiikiichaat ꞉biiko Yēēsu miisin yooto kubēētii.
+42008042	
+42009030	Kutook *Muusa ākoo *Eliiya ām lēbkēēyyēētaab Yēyiin ankung'alaal ꞉tukwaay āk Yēēsu. King'āloolēē ruutooynyii nyēē kimii wokuyityiintōōs ām Yēērusālēēm.
+42009031	
+42010007	Nto yoo kōōwut saang'ta ake /ankeetoroochaak ām kayta ake, ‑mōōlumootēē koorin chēē chaang'. Ō-āmē ānkōōyyēē kiyēē kākōōnook ꞉biikaab kayaata kuuyu yēmē ꞉chii nyoo kāākubirto nkuruukyii /kiikoochi kiy.
+42010008	
+42011005	Kutas taay ꞉Yēēsu takooneet rubiikyii kurubta keey ākoo saayeet kule, “Yoo kāchōōnchiing' ꞉toontēēt kwēēmooy, imuuchē wēēng'ēētiisyē kule, ‘Laatya, kāānyōōru toontēēt ēē, wē, āmāmii āmnyoo nyēē kaam. Kōōnoo, baa, mukaatiinek sōmōk.’
+42011006	
+42012043	!Kāāmwoowook, yoo karub ꞉motwooriintoonoo kuu wōlēē māktooy ꞉mokoryoontēēnyii, kōōbēruuroot. +/Makiilaang'tee kōōyyoonkyi tukuuk tukul chēbo kayta.
+42012044	
+42013024	“Mariich ꞉kurkeetaab Kaab Yēyiin. Kunyoo, kōōkiil keey ꞉chii sukōōwut kutakuyaataat ꞉kurkeet, kuuyu yoo kāākutēmēl ꞉chiitaab kōōto makusyeem ꞉biiko chēē chaang' kule kōōwut, nteenee mēēmuukāksē. Nto choo /kaakeekerta saang' ānkōōkōnykōōny kurkeet /kēēyootyi, kumwoochinē choo ꞉Mokoryoontēēt kule, ‘‑Māānkētook.’
+42013025	
+42020009	Kutas taay ꞉Yēēsu kumwoochi biiko kule, “King'eet ꞉chiito ake kuchaan *musābiibuunēk mbareenyii. Yu kaakuchaan, kukāsyiin āk biiko alak kule kuyēytoochi inee mbaraanaa sukubchēchiin āmiik kōōyyiin yoo kāruryo. Nto mii yoo, kuruuto kuyēk kēny. Yu kāwokururyo ꞉āmiik, kōōyookto ꞉chiichoo kibo mbareet motwooriintēēnyii akeenke wokuyibchi kereeryaanteet nyēē ki nyeenyii. Yu kayit ꞉motwooriintoonoo wōlooto kibo mbareen, kubir ꞉bichoo /kikiikoochinē kuyeyta mbaraanaa ankukwet āmā kiy.
+42020010	
+42020018	Chii ake tukul nyēē karyaach rwaantaanaa, +/makeetirtir. Nto nyoo kāluulchi ꞉rwaantaanaata, kuruurumē.”
+42023044	Ku āsiiswēk lo, kuker ꞉kiito ake asiista kutuuyiit ꞉kōōrēēt. Kiichuulyo ꞉mēēnānoonoo ākoy āsiiswēk sokool. Kukērēērunēē keey ꞉ankeet āyēēng' nyēē kirikimim nyēē /kikiiyēēlēē Kitōōkiitaab *Kōōtaab Yēyiin.
+42023045	
+42023050	Kimii ꞉chiito ake nyēē /kikēēkuurēē Yōōsēēf nyēē kiminyē *kiriinkēētaab Arimataaya ām yēēmēētaab Yuuteeya. Kikiikunam ng'ālyoontēētaab Yēyiin miisin ānkimii kukānyoonu Bāytooyiisyēētaab Yēyiin. Ki inee ꞉akeenke ām kōōkwēēt nyēē wōō nyēbo Yuutayeek nteenee kimachamaat ng'aleekaab chuut ām kōōkwoonoo.
+42023051	
+42024047	+/Makyaamtaat ām kōōrootunwēēk tukul kubuntēē kaayneenyii kule kuweek ꞉biiko ām miyootyēēt nyoo kiikuyey /sikēēnyōōchi kaat. Kookas ꞉akweek kuyēyāktōōs ng'aleechu. Kunyoo, o-amtaate lōkōōywēchu ōtoowunēē Yēērusālēēm.
+42024048	
+43002001	Ām bēsyēētaab sōmōk kuchakee yooto, kimii ꞉saakweetaab kooyēēy nyēē /kikeeyeyee saang'taab Kaana ām Kalilaaya. Kimii ꞉Yēēsu saakwaanaata āk kaamet kuboonto keey rubiikyii.
+43002002	
+43007012	Kichoomootē ꞉biiko wōlēē wōō kung'āloolēē Yēēsu kuuyu kiiywēyē kāāntōōyikaab Yuutayeek. Kimwooyē ꞉bichoo alake kule, “Karaam ꞉chiichoo.” Kumwooyē ꞉alake kule, “Buryo, ibērbēērootē biich.”
+43007013	
+43010012	Nteenee nyoomēēchinē ꞉chiito nyoo /kikeesir kēēchiirēchoo kuuyu ma cheechii. Yoo kāchō ꞉suuyoontēēt kumwēyē. Yooto, makusankatan ꞉suuyoontoonoo kēēchiirēk alak ankoosereet chuut.
+43010013	
+43010014	Anii ꞉ākiintēēt nyēē karaam ānkyāānēmu keey āmēēchi kēēchiirēkyuu. Inkētoo ꞉Baaba ānkāānkētē nkinee. Ānkētē kēēchiirēkyuu ānkōōnkētoo ꞉nkicheek.
+43010015	
+43010017	Māmii ꞉chii nyēē mākōōnēmunēēnoo soboonnyuu, nteenee āchāmtooy nkit ameey. Chāmoo ꞉Baaba kuuyu kyāānēmu keey ameey, nto yityo ānyōōru subak soboonnyuu. Āboontē kāāmuukēywēēk ākooytē soboonnyuu ānkāāboontē kāāmuukēywēēk ākētu. Kiyiitēnyi ꞉nyēē kimwoowoo ꞉Baaba kule māchāktōōs ayey.”
+43010018	
+43010028	Ākoochinē *soboontaab kibchuulyo āmābootōōs. Māmii ꞉chii nyēē mākōōnēmunēēnoo āmāmii ꞉chii nyēē imuuchē kōōnēmunēē Baaba kēēchiirēchu. Wōō ꞉Baaba nyoo kikōōnoo kēēchiirēchoo kusiir chii ake tukul.
+43010029	
+43011001	Kimii ꞉chiito nyēē /kikēēkuurēē Lasaaro nyēē kiminyē *kiriinkēētaab Beetannyaa āk mbo cheebkaamet āyēēng', Maaryaa āk Maariita. Ki Maaryaa nyiitēnyi ꞉nyoo kiroonkyinē kērēēnkōōkaab Yēēsu mwaayta nyēē kiboong'u nyēē anyiny ankumasee buutēēkyii. Kimii ꞉yēē kichokumnyaan ꞉Lasaaro.
+43011002	
+43011029	Kutākumii ꞉Yēēsu wōloo kinyōōrtooy ꞉Maariita, kung'ēētē ꞉Maaryaa areet akeenke wokutuuyēē.
+43011030	
+43014013	Kiy ake tukul nyēē kooteeb ām kaayneenyuu, +maayey, sukutōrōriit ꞉Baaba kubununēē Lakwanyii.”
+43014014	
+43021007	Yooto, kumwoochi ꞉rubiintoonoo kichāmē ꞉Yēēsu Bētērō kule, “Mokoryoontēēt ꞉nyooto!” Kusirinyē ꞉Bētērō sireenyii bakeenke ankumootee keey kābuutiit ānkōōroonchinē tōōliil sukuriiboot nēētiit. Kimā lōō ꞉yooto ām sakaramteet nteenee kimāchē kuyitē miitaanik bokol akeenke. /Kikiirēētoot mwēēnkēēt ākoy sakaramteet kōōchuutootē nēētiit nyēē kikinyiy ꞉burburiinēk.
+43021008	
+44004021	Kimāmii ꞉kiyēē kiimuuchē ꞉bichoo kuyeyee mbo Bētērō kuuyu kiikoostooy ꞉biiko tukul Yēyiin kubo chiichoo kiboonto kēnyiisyēk chēē kikēēytēē artam, nyoo /kikiisoobē ām kēēloo bo kwōng'uut. Nto subak, kiimuuchē ꞉bichooto koong'eet wōōrōōryēēt. Kunyoo, kibōlchi subak ankubakaakta kubēēchi keey.
+44004022	
+44004027	Kubooyiit man, kituuyo yu bo kiriinkooni *꞉Ērōōtē āk Bōōntyō *Bilaato ākoo biiko choo mābo kōōrēētaab Isrāyēēl āk choo bo Isrāyēēl. Kiyēchi ruurumuut motwooriintēēng'uung' Yēēsu, nyoo 'kiing'aab kuyēk Kāārārookiintēēt.
+44004028	Kiyey kiyēē kikiisimitiil kēny ām kāāmuukēywēēkuuk kule makuyeyakay.
+44004029	Kunyi ii, Mokoryoontēēt, ikas wōlēē kāākōōmuuytēēch ānkiikōōnēēch acheek motwoorikuuk nyikanateet kyaamte ng'ālyoontēēng'uung' nyēē māmii ꞉muyāt.
+44004030	Ikōōnu kāāmuukēywēēkuuk kōōsoobiis ankiiyey tukuuk chēē /kiilātē āk chēē ‑/mākyoomu ām kaayneetaab motwooriintēēng'uung' Yēēsu nyoo itabaanaat kubo yiisyēēng'uung'.”
+44010045	Kutoow ꞉bichoo kung'alaal kuutuweek chēē kimēēnkētē kōōkoostooy Yēyiin. Yu kakas ꞉Yuutayeek choo kikwoontooy keey Bētērō chēē kikiikōōyēnchi Yēyiin kule /kikēēng'oobchi Tāmirmiryēētaab Yēyiin mbo biiko chēē mā Yuutayeek, koolat. Yooto, kumwoochi ꞉Bētērō kule,
+44010046	
+44013032	Kiyēē kēēmiitē kyoomwook ku lōkōōywēk chēē kāroomēch kule kaakootyiich ꞉Yēyiin ām wōlēē kēēmiitē ꞉acheek keseniisyek, kiyēē kikiikukuurtoochi mbo kuuko kule mākōōyook wōōrkooyoontēēt nyēē wuu Muusa. Nto nyooto ku Yēēsu. /Kēēng'āloolēē mbo yuutēyu ām kitaabuutaab Tyēēnwookik kurkeetaab āyēēng' yoo mwooyē kule, ‘Inyiing' lakwanyuu. Kāāyēku ꞉anii kōōn ra.’
+44013033	
+44013034	Nto kurubta keey āk ng'eeteetaab meet bo Yēēsu nyēē mākoy kunun ꞉bōōrnyii, mwooyē ꞉Yēyiin kule, ‘+Maayey kuyityiin ꞉ng'aleechaa /kiikoosēē keey choo kyāākuurtoochinē *Tāwuti.’
+44013035	Mwooyē mbo ꞉siruutēk ām yēēt ake subak kule, ‘‑Mēē-āsyinē chiing'uung' nyoo churtaat kunun.’
+44013038	Kunyoo ii, mbo ng'eetaabiya, āmāchē āboorwook kule /kēēnyōōwook kaat ām choolwookātēēng'woong' kubununēē Yēēsu. Yoo kēēyēnchi ꞉chii ake tukul Yēēsu, kuchurtooy ām taayeetaab Yēyiin, ng'ālyoo nyēē mēēmuuchāktōōs /keeyey kubununēē kiruutēkaab Muusa.
+44013039	
+44013048	Nto bērē kukas ꞉biiko choo kimā Yuutayeek ng'aleechaa kibo Bāwulō, kung'ērēkiis miisin. Kikoonyit ng'ālyoontēētaab Yēyiin ankookaasee keey Yēēsu ꞉tukul choo /kikiikeetool kunyōōr soboontaab kibchuulyo.
+44015024	Kookeekas kule kookukwa wōloo ōmiitē ꞉biiko alake chēē mānāākēēchāmchi ꞉acheek ankubokooyiimaak mētēwoy ām ng'al chēē kyoomwook ꞉acheek.
+44015025	Kunyoo, kookiisoot ꞉acheek tukul kule keekwey biiko ānkiiyooku kukwa wōloo ōmiitē. Makukwaanta keey Barnaaba ākoo Bāwulō, choo chamanikyoo,
+44015026	choo kookuchamta soboonwēkwaa kubo kaayneetaab Mokoryoontēēnyoo, Yēēsu Kiriistō.
+44015027	Kunyi, kākiiyooku Yuuta ākoo Siila kutāsyi nyikiisinto ꞉ng'aleechu sirootiin.
+44015028	Kookootiil ꞉Tāmirmiryēētaab Yēyiin ankiitiil ꞉nkacheek kule ‑/makiing'ireenaak kiruut chēē chaang'. Nteenee
+44015029	osaanee keey āmit choo /kākēēsooytoochi āynātōōs ankootayee keey bany bo tyoong'in chēē /kēēkulē, kiisēēn āk martaayeet. Karaam yoo kooyey kuu nyooto. Chameetaab keey.
+44023026	Kuyityiing' ꞉barwaani inyiing' boontēēt nyēē koonyitoot, Fēēliikis. Āsubooyiing'.
+44023027	Āmāchē ābooruung' kule kinam ꞉Yuutayeek chiichoo, nto yu kikiikuriik kubakach, waararaach ꞉anii āk biikyuu kuuyu kyaakas kule ki chii nyēbo kōōrēētaab Rooma.
+44023028	Nto kuuyu kyāāmāchē ānkēt kule ām nee sukōōtēēyiis ꞉bichoo miisin kurubta keey āk chiichoo, ākwēryootē ākoy kōōkwēētaab booyikwaa.
+44023029	Yooto ānkēt kule ākoo kirubtooy keey ꞉riirikwaa āk ng'ālyoo nyēē nāmē keey āk kiruutēkwaa, nteenee kimāmii mbo ꞉lēēlis nyēē kiyemaat /kiitiilchi kume nto mbo /keerat.
+44023030	Yu /kābokēēmwoowoo kule /kēēmiitē /kēēyēchinē ruurumuut kule /keebakach, atiil kule āyokoowu kuchō wōlooto imiitē. +Māāmwoochi biiko choo ing'unyng'uung'tōōs kubo inee kule kuyibuung' riirikwaa. Anii nyoo Kilaawutiyo Lusiiya.
+44025002	Nto yu kayit, kukwoonchi ꞉mbo kibkōrōs chēē wōōyēch āk kāāntōōyikaab Yuutayeek ānkumwoochi riirikwaa kurubta keey āk Bāwulō. Kisoom mbo kule kōōwu Bāwulō kuwo Yēērusālēēm sukuriibchi kēēlto ankubakach.
+44025003	
+44025026	Nto ābērē ālē, kumāmii mbo ꞉kiy nyēē āmuuchē asir kurubta keey āk chiichi nyēē +/mākēēyibchi nyēē wōō. Ākāsē kule mā karaam /kēēkwēryoot chii nyēē rataat /āmākiiboor lēēluutyēēt nyēē boonto. Kunyoo ii, boontēēt, kāākwēru kuchō taayeeng'woong' akweek tukul nto miisin kuchō taayeeng'uung' inyiing' Akiriiba, sukung'eet yoo kātook ꞉kiy ām wōlēē +/makeekuuyta, +māānyōōru kiyēē +maasir.”
+44025027	
+45001003	Rubtooy keey ꞉lōkōōywēchu āk lakwanyii Yēēsu Kiriistō Mokoryoontēēnyoo nyoo /kikēēsich kuu chii kuchōōnēē kōōtaab bāytooyiintēēt *Tāwuti. Nteenee /kikiiboor ām kāāmuukēywēēkaab Tāmirmiryēētaab Yēyiin kule Lakwataab Yēyiin ꞉inee yoo /kiikiing'ēētēē meet.
+45001004	
+45002014	Mēēnkētē biiko choo mā Yuutayeek kiruutēkaab Yēyiin. Ānkoo wuu nyooto, yoo yēyē tukuuk chēē miitē kiruutēchoo, kōōbooru kule inkētēē mētēwookwaa kiyēē mākyinē ꞉Yēyiin kule kuyey. Inkētē kule karaam ꞉nyi ku miyaat ꞉nyoo.
+45002015	
+45003025	Kikōōn ꞉Yēyiin Yēēsu /keeyeyee kōrōsēēk sukung'eet kōōchoomnyo inee āk biiko yoo kēēyēnchi ꞉chii kule kiwasta ꞉Yēēsu korotiikyii kubo inee. Kumanaame ꞉Yēēsu, mānēēng'woonchi ꞉Yēyiin kōōrēēt kubo ng'ōōkiswookik choo /kikiikeeyey kuuyu kitinyē kiisayta. Nto raat, /kiitiilchinē chiito kule churtaat yoo kēēyēnchi Yēēsu. Kunyoo, tinyē ꞉Yēyiin manta kuyey kuu nyooto kuuyu kiikooyto ꞉Yēēsu soboonnyii kubo biiko tukul.
+45003026	
+45003027	Ara, kēēng'āsyinē keey nee naas? Māmii ꞉kiy mbo kisich kuuyu chāmtēēch ꞉Yēyiin kule kēēchurtootiin kubo kule kiiyēnchinē inee ānkiikoosēē keey Yēēsu āmēēbērē kuuyu kēērubē kiruutēk.
+45003028	
+45007024	Kunyoo, yoo kaarub kāāsōōtēywēēkyuu, kubāwoo ꞉kiruutēkaab Yēyiin, nto yoo kaarub ātēbuutēchu miyootēch chu āyēyē, kubāwoo ꞉ng'ōōkisto. Ābotoot sōō nyēē tyaa! Ng'oo ꞉nyēē sukusārunēēnoo taankooyi? Nteenee, ābirchinē Yēyiin kōōnkōy kubo Yēēsu Kiriistō Mokoryoontēēnyoo.
+45007025	
+45009001	Ng'ētē ꞉mooyēēnyuu ānkōōyiimoo mēt nyēē wuu nyēē mābēku ꞉ng'wooninoo, akas kule /manaakiiraraach mbo ng'eetaabiya, biikyuu bo Isrāyēēl. Ābērē nto kiimuuchāktōōs, nto /kabokiiruustaa āng'ētitēē wōlēē mii ꞉Kiriistō sukuyēētyēēchi icheek. Man ām kāāmuukēywēēkaab Kiriistō kule ‑māāng'wiiynānē ānkōōnkētē mbo ꞉Tāmirmiryēētaab Yēyiin.
+45009002	
+45009003	
+45009011	Kimwoochi ꞉Yēyiin Rebeeka kutoombo kusich lōkōkyii ānkitoombo kuyey kiy nyēē karaam nto ku nyēē miyaat kule, “Makubayta ꞉nyēē mining' nyēē wōō.”
+45009012	
+46002010	Nteenee, kōōkōōboorwēēch acheek ꞉Yēyiin ām Tāmirmiryēēnyii ng'aleechaata kiiyēēlootiin. Inkētē ꞉Tāmirmiryēēt kiy ake tukul ānkoo ku tukuuk chēbo Yēyiin chēē iyēēlootiin nyēē tyaa.
+46002011	Māmii ꞉chii ake tukul nyēē inkētē wōlēē wuu ꞉kāāsōōtēywēēkaab ake nteenee nyēē inkētē ku tāmirmiryēētaab chiichooto nkit. Ām kēēlto nyēē wuu nyooto, māmii ꞉chii ake tukul nyēē inkētē wōlēē wuu ꞉Yēyiin nteenee Tāmirmiryēēnyii nkit nyēē inkētē.
+46002012	Mēēbērē tāmirmiryēētaab kōōrooni ꞉nyēē kōkēēnyōōru, nteenee nyēē kōōkēēnyōōru, ku nyēē chōōnēē wōlēē miitē ꞉Yēyiin sukung'eet kiinkēt kiyēē kiikukōōnēēch ꞉inee ām chamateenyii.
+46002013	Ng'aleechuutēchu kēēmwooyē mēēbērē chēē inēētēēch ꞉biiko alake ām ng'oomnātēēng'waa. Nteenee ng'al chēē rubtooy keey āk soboontaab tāmirmiryēēt, chēē inēētēēch ꞉Tāmirmiryēēt kiiboorchi choo boonto Tāmirmiryēēt.
+46002014	Chiito nyoo mātinyē Tāmirmiryēēt kumāchāmchiintōōs āk tukuuk choo kwoonēē wōlēē mii ꞉Tāmirmiryēētaab Yēyiin. Kāsē ng'aleechaa wuu nyēē bēērbēēryo āmēēnkētē kiyēē mwooyē, kuuyu Tāmirmiryēēt ꞉nyēē yēyē /sikiinkēt.
+46002015	Imuuchē ꞉chiito nyoo boonto Tāmirmiryēētaab Yēyiin kōōrōōtoot ānkōōnkēt wōlēē wuu ꞉kiy ake tukul. Nteenee, ‑mēēmuuchē ꞉chii nyēē mātinyē Tāmirmiryēēt kōōrōōtoot ānkōōnkēt wōlēē wuu ꞉chiichooto,
+46002016	kuu yoo mwooyē ꞉siruutēkaab Yēyiin kule, “Ng'oo ꞉nyēē inkētē wōlēē wuu ꞉kāāsōōtēywēēkaab Yēyiin? Ng'oo ꞉nyēē imuuchē kōōrwookyi inee?” Nteenee, kēēsōōchiintōōsii ꞉acheek āk Kiriistō.
+46005012	Mābootoo āburyoong'tē biiko choo mēēbērē kookunam ng'ālyoontēētaab Yēyiin. Yēyiin nkit ꞉nyēē itiilchinē choo ng'al. Nteenee māchāktōōs akweek ōburyoong'tē biiko choo mwooyē kule bo kanisa, kuu yoo mwooyē ꞉siruutēk kule, “Ōnēmtē chiito nyoo tinyē rōkōsto.”
+46005013	
+46007010	Nto kurubta keey āk biikaab Kiriistō choo kēēsyootiin, āmwoowook (āmēēbērē sōō, kule anii ꞉nyēē āmwooyē, nteenee Mokoryoontēēt) kule māmāchāktōōs ꞉koorko kubakaakta keey āk saanteenyii nto kukwet ꞉saanteet koorkēēnyii. Nto yoo kabakaakta keey, kumāmākyiintōōs /bokiimut koorkoonoo subak. Nto yoo māwuu nyoo, /kiichoomnyo āk saanteenyii kōōyēēchiin kuu kēny.
+46007011	
+46016006	‑Māāmāchē kule akasaak baateey ankaakeeyte. Ābērē nto ābuurtē keey akweek, yoo kacham ꞉Mokoryoontēēt. +Mākēētēbtē keey kisich nto ākoy mbo kubēk ꞉yiiwootēēt sukung'eet ō-āmiisoo ānkōōkōōnoo toorētēēt ake tukul ām baannyuu.
+46016007	
+47001013	Kēēsirwook ng'aleek chēē rōōtootiin ānkukāsāktōōs yoo koosuman. Kunyi, āboontēē mooyēēt kule ānkoo ‑mōōmuuchē raat ōnkēt kiyēē kābur nteenee +mōōnkēt kuchurta ām bēsyōōsyēk choo kwoonii. +Moong'erecheeneech acheek kuu yoo +makeeng'erecheenaak ꞉nkacheek bēsyoonoo itiilēē ꞉Mokoryoontēēt Yēēsu ng'aleek.
+47001014	
+47001015	Nto kuuyu kwāātinyēē man ng'ālyoontooni, kōkwāāchōb kule āruutoochook akweek yoo āwēētii Maketoonnya nto yoo āyēēwu, atyikaanwaak subak sukuyēētyēēchook ꞉ruutooynyuu kunyil āyēēng' nto yityo, ō-āmiisoo yoo āwēētii Yuuteeya.
+47001016	
+47012002	Ānkētē chiitaab Kiriistō nyēē ām kēnyiisyēk taman āk ang'wan choo kiikukeeyta, /kikeesar ām bārooyinto nyēē kisich kuwo barak ānkurēk. Yoo kitākumii bōōrnyii nto kimāmii kumāānkētē, nteenee inkētē ꞉Yēyiin. 
+47012003	
+47013012	Ōtōrōōchē keey nyēē ōng'ērēkyinē keey. Lēyyē, ōnyōōru ꞉akweek tukul bērurtaab Mokoryoontēēt Yēēsu Kiriistō, chamateetaab Yēyiin āk sinēntaab Tāmirmiryēēnyii. Isubooyook ꞉biikaab Kiriistō tukul ām wōli. Chameetaab keey.
+47013013	
+47013014	
+48001015	Nteenee king'oong'woo ꞉Yēyiin ām chamateenyii ānkēt wōlēē wuu ꞉lakwanyii. Kubooyiit man, kisimkutoola ām chamateenyii nkit /kumānāākēēsicho, ā-āmchinootē biiko choo mā Yuutayeek lōkōōywēk chēē kāroomēch kurubta keey āk Yēēsu Kiriistō. Mānāāsoom chii kule kooneetaa.
+48001016	
+49001008	Ām chamataani wōō, kiiboorwēēch chōbēēnyii nyēē kiiyeelaat. Kirōōbwēēch kiirnātēēnyii ankuyeyeech kiinkēt kiyēē kimāchē kuyey kubununēē Kiriistō. Kiitiil kuyey kuu nyooto kuuyu kikas ꞉inee nkityōōniin kule ki karaam.
+49001009	
+49003003	King'oong'woo lōkōōywēchoo kiiyēēlootiin. Yoo koosuman ng'aleechu kāāsirwook ām nwookinto, +mōōnkēt tukuuk choo kiiyēēlootiin choo ānkētē ꞉anii kurubta keey āk Kāārārookiintēēt.
+49003004	
+49006021	Āmiitē āyooku Tukiikō kuchō wōloo ōmiitē. Ng'eetaabiya ꞉inee nyēē chamaat ānku nyēē /kiikoosēē keey kubo yiisyēētaab Mokoryoontēēt. Mākumwoowook lōkōōywēk tukul chēē rubtooy keey āk anii sōōnkēt ꞉nkakweek wōlēē āwuuyē ꞉anii āk kiyēē āyēyē ānkumwoowook wōlēē kēēwuuyē ꞉acheek tukul ānkōōtitiirook.
+49006022	
+51004007	Ng'eetaabiya ꞉Tukiikō nyēē chamaat. Yēyē ꞉inee yiisyēēnyii ām mooyēēt akeenke ānkēēyēchiintōōs ꞉tukwaay yiisyēēt ām Kiriistō. Āmiitē āyooku chokōōboorwook wōlēē wuu ꞉ng'aleek ām wōlēē kēēmiitē ꞉acheek ānkōōkiimook. Māchokwoomwook ng'ālyoo ake tukul kurubta keey āk anii.
+51004008	
+52005001	Mbo ng'eetaabiya, māmāchāktōōs kēēsirwook kurubta keey bēsyēēt nyēē chōōnēē ꞉Mokoryoontēēt, kuuyu ōnkētē ꞉nkakweek kule mākumuung' kuu chōōriin nyoo chōōnii kwēēmooy.
+52005002	
+53002016	Kichameech ꞉Baaba Yēyiin ankuyeyeech kēēbāybāyiitu ākookoy kiikēnēē keey kiyēē karaam. Kōōtitiirook ꞉Mokoryoontēēnyoo Yēēsu Kiriistō nkityōōniin āk Baaba Yēyiin ānkōōkiimook ōyēyē ānkōōmwooyē kiyēē karaam.
+53002017	
+54001012	Ābirchinē Mokoryoontēēnyoo Yēēsu Kiriistō kōōnkōy nyoo kikōōno kāāmuukēywēēk, kuuyu kikasa kule /kiikoosēēnoo keey. Kyāāyēyootē ng'al chēē kimāānkētē kumānāāyēnchinē inee nteenee kuriireenaa. Ānkoo kyāāng'āloolēē inee nyēē miyaat ānkāāwusootē biikyii ānkāākāwōōtēnootē, kutoola āyēchi yiisyēēnyii.
+54001013	
+54004009	Kiikoosēē keey Yēyiin. Inee ꞉Kāārārookiintēēt nteenee chēē irāroochē, ku biiko choo iyēnchinē inee. Māchāktōōs /kēētiiyēē mēt ng'aleechaa ānkuyēmāktōōs /kēēchāmē kutukul. Kiyooto ꞉nyēē kēēmiitē kēēng'ētiichinē keey.
+54004010	
+55002017	Makwaamaat ꞉kāānēētiisyēētaab bichoo biiko kuu yoo āmootē ꞉kisēērkēēchēēt kereenkaab chii. Biiko alak chēē kichuunnyēē ng'ālyoontēētaab manta ku Umenaayo ākoo Filēētō. Mwooyē ꞉bichuutēchu kule kiyeyakay kēny ꞉ng'eeteetaab meet kunyēērootēē kāāyēnchinooyēētaab biiko alak.
+55002018	
+56002003	Inēētē nkicheek chēēbyōōsōōk choo yōōsēch kōōbuurē kuu wōloo wuunto ꞉choo kiikōōyēnchi Kiriistō. Kutayee keey seemseemnyeet āk bōōkitēēt. Māchāktōōs kōōnēētē kooruuk choo tāku minkēēch kuchāmē saanikwaa āk lōkōkwaa,
+56002004	
+58001008	Nto kurubta keey āk Lakwataab Yēyiin /kēēmwooyē kule, “Wēētii ꞉bāytooyiisyēēng'uung' ākookoy ōō, Yēyiin! Ibāytēē ꞉inyiing' biikuuk manta.
+58001010	/Kikēēmwooy subak kule, “Ām taayta, 'kiiyey ꞉inyiing' Mokoryoontēēt kōōrēēt wōlēēb ng'wēny ankiiyey nkinee wōliin bo barak.
+58001014	Ng'oo ꞉malayikaanik nanyuun? Icheek ku tāmirmirook choo iyooktooy ꞉Yēyiin ānkuyēētyēēchinē biiko choo mii /bokiirāroochē.
+58002009	nteenee kēēkāsē Yēēsu nyoo /kikeeyey kumining'iit bēsyōōs chēē ng'ēri ām wōlēē mii ꞉malayikaanik, /kukāākiikoochi wōōyinto āk koonyit, kuuyu kime kubo biiko tukul ām chamateetaab Yēyiin.
+58002013	Mwooyē subak kule, “+Māākoosēē keey inee.” Tāsē taay kumwooyē kule, “Āboontē keey lēēkōōk chēē kōōkukōōno ꞉Yēyiin.”
+58004004	Mii ꞉yēē mwooyē ām siruutēk kurubta keey ākoo bēsyēētaab tisab kule, “Kiimuuny ꞉Yēyiin ām bēsyēētaab tisab kukaakoowaany yiisyēēnyii.”
+58004005	Ānkoo kichōboot ꞉wōlēē /bokiimuunyēē, kimwooy ꞉Yēyiin kule, “Mākoy kuba wōloo bokōōmuunyēē.”
+58004006	Mānāābokōōmuuny ꞉biiko choo kibo taay choo kikas lōkōōywēk kuuyu mānāākōōyēnchi ꞉icheek lōkōōywēchooto. Nteenee biiko choo kiikoosēē keey inee ꞉chēē /kēēchāmchinē bokōōmuuny āk Yēyiin. 
+58004007	Kiikusātyi ꞉Yēyiin bichu bēsyēēt bokōōmuuny āk inee nto bēsyoonooto ku raat. King'āloolē ꞉Yēyiin kubununēē *꞉Tāwuti kukaakukeeyta ꞉kēnyiisyēk chēē chaang' kuchakee katay ꞉bichoo bokōōmuunyēē wōloo kichōbchinē Yēyiin. Kimwooy ng'aleechu /kātākēēmwoowook kule, “Ābērē nto ōyēbchi yiit ra kiyi mwoowook: ‑Mooyaam mētēwoy.”
+58005006	Kimwooy subak ām yēēt ake kule, “+Mēēyēku kibkōrōs ākookoy, kuu Mēlkisētēk.”
+58006004	Yoo kiikōōnkēt ꞉chiitaab Kiriistō lēbkēēyyēētaab Yēyiin ankiikuchamcham rōōbēywoontēētaab kibkōōnkōy ānkiikunyōōr Tāmirmiryēētaab Yēyiin, ankuchamcham kāroomnyēētaab ng'ālyoontēētaab Yēyiin, ankiikukas wōlēē wuu ꞉kāāmuukēywēēkaab kōōrēēt nyēē lēēl, nto yityo kutay Kiriistō, kumēētākōōmuuchāktōōs /kēēyisunēē wōlēē mii ꞉miyootyēēt! Yoo kaakutay, kukerkeey nyēē kaakuketita Lakwataab Yēyiin /bokēēkwērtoochi murtooywoontēēt /ānkiinchuruur.
+58006005	
+58006006	
+58007018	Kimēēmuuchē ꞉kiruutēkaab Muusa kuyey chii kuchurta. Kunyi, /kikēēsātyi kiruutēchoo komos, kuuyu kikuskusēch ānki buch. Nto raat kiikēnēē keey kiy nyēē karaam kusiir nyiin ake. Tākyēēch ꞉kiyiitēnyi wōlēē mii ꞉Yēyiin.
+58007019	
+58007022	Kunyi, iyyoong'unēē ꞉kiirootyeet nyēē lēēl Yēēsu ānkusiirē nyoo bo kēny.
+58010008	Kinyooyee kumwooy kule, “Kimēēng'ērēkyinē tukuuk chēē /kēēkōōniing' āk tyoong'in choo /kēēbēēlēē kutukul nto kōrōs choo /kiibuuktēē ng'ōōkisto.” Kimwooy kuu nyooto ānkoo /kikēēyēyē kōrōsēēchu kurubta keey āk wōlēē wuu ꞉kiruutēk.
+58010009	Nto mii yoo, kumwooy kule, “Āchōboot ōō, Yēyiin, ayey kiy ake tukul nyoo imākwoo ayey.” Kunyoo, kiinēmto ꞉Yēyiin kiirootyeet nyoo kibo kēny ankookeeree kiirootyeet nyēē lēēl.
+58010010	/Kikiitiliilēēch kuuyu kiyey ꞉Yēēsu Kiriistō kuu wōloo kimāktooy ꞉Yēyiin ānkōōkooyto soboonnyii kunyil akeenke baateey.
+58010017	Nto yityo, kumwooy kule, “+Māāmētoochi ng'ōōkiswookikwaa āk choolwookātēēng'waa.”
+58010018	Yoo /kāākēēnyōōwēēch kaat nanyuun, mēēbērē tākumāchāktōōs /kēēbēēlē kōrōs.
+58013020	Kukōōnook ꞉Yēyiintēētaab tāloosyēēt kiy ake tukul nyēē karaam sooyey kiyēē māchē ꞉inee. Yēyiin nyoo kiing'ēētēē meet Mokoryoontēēnyoo Yēēsu, nyoo ākiintēēt nyēē wōō nyēbo kēēchiirēk. /Kikeeyey kiirootyaanaa wēētii kibchuulyo kubununēē korotiikaab Yēēsu. Kuyey ꞉Yēyiin yiisyēēnyii ām wōlēē kēēmiitē kubununēē Yēēsu Kiriistō sikiing'ereech inee. Kutōrōriit ꞉inee ākookoy! Kuwuuyiit nyooto.
+58013021	
+60001018	Ōnkētē kule /kimākēēwālunēēnook tukuuk chēē wuu *feetaan nto *ta-aabuun choo bootōōs, nteenee kiwālunēēnook ꞉Kāārārookiintēēt korotiikyii chēē māmii ꞉kiyēē /kiiwuuytēē sōōng'ēētyēē ātēbuutēchoo kimābo laat choo kibo mbo kuukoong'. Yoo kiwāstooy ꞉inee korotiikyii, kikerkeey mēēnkich nyēē tiliil ānku *lubkoob.
+60001019	
+60002008	/Kikeesir subak kule, “Inee ku rwaa nyēē kāānākuut ānkōōnāchē biich.” Ibooru ꞉siruutēchu kule ibutōōs ꞉biiko, yoo tāyē kookaasee keey ng'ālyoontēētaab Yēyiin. Wuu nyooto ꞉wōlēē kiikuchōbto ꞉Yēyiin.
+60002009	Nteenee, ōkwēyootiin ꞉akweek, mbo kibkōrōs chēbo Bāytooyiintēēt, biiko chēē tiliilēch chēē kisat ꞉Yēyiin ōyēku cheechii soomwaayte kāroomnyēētaab nyoo kikuurook okwaanee wōlēē mii ꞉mēēnānēēt ōbēēchi lēbkēēyyēēnyii nyoo bo kwōng'uut.
+60002010	Kimōōbooyē Yēyiin, nteenee ōbooyē ra. Kimāriirēēnook ꞉Yēyiin, nteenee riirēēnook ra.
+61001017	Kikeekas ꞉acheek kuutiit nyēē kichōōnēē barak yoo kikēēmiitē āk inee lekemaanaa kitookunēē ꞉Yēyiin. Kiitōrōōr ꞉Yēyiin inee ānkōōkoochi wōōyinto kumwooyē kule, “Inyiing' lakwanyuu nyēē āchāmē ānkāāng'ērēkyinē.”
+61001018	
+62003019	Yoo kēēyēyē kuu nyooto, kiinkētēē yooto kule kēēbooyē manta. Yoo kāmwooy ꞉kāāsōōtēywēēkyoo kule ‑mākēēboontē manta, okany kēēyisu kāāsōōtēywēēchoo yoo mēēmiitē taayeetaab Yēyiin. Māchāktōōs kēēmwooyē kule wōō ꞉Yēyiin kusiir kāāsōōtēywēēkyoo ānkōōnkētē ꞉inee kiy ake tukul nyēē kēēyēyē.
+62003020	
+66004009	Yoo tyēēnē ꞉tukuuchoo kōōkoostooy, kukoonyitē ānkubirchinē kōōnkōy chiichoo bāytooyiisyē ānku soboot ākookoy,
+66004010	kōōryookyinē keey ꞉booyichoo tibtēmu āk ang'wan taayeetaab chiichoo kēēbuurēē ng'echereetaab bāytooyiisyēēt kukutunkyinē nyooto soboot ākookoy. Ikoochinē ꞉booyichoo kuutwōōsyēkwaa taayeetaab ng'echeraanaa ānkumwooyē kule,
