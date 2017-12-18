@@ -1,9 +1,7 @@
-40014036	? #nicht vorhanden
-40017027	? #nicht vorhanden
-41004041	? #nicht vorhanden
-43011057	? #nicht vorhanden
-44007059	? #nicht vorhanden
-44014028	? #nicht vorhanden
-47001024	? #nicht vorhanden
-66012017	? #nicht vorhanden
-66012018	Un viņš nostājās jūras krastā.
+40014036	
+40017027	
+41004041	
+43011057	
+44007059	
+44014028	
+47001024	
