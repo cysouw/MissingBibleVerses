@@ -8,11 +8,11 @@
 41013002	Yesu nodwoko ni, "Ineno ute madongo malichgi? Onge kidi kata achiel mabiro dong' ewi wadgi; gibiro redhore piny tee".
 41013011	# mit Verse 41013010 zusammen übersetzt.
 41015011	# mit Verse 41015010 zusammen übersetzt.
-41016011
-42002011
-42003037
-42014011
-42020011
+41016011	# mit Verse 41016010 zusammen übersetzt.
+42002011	# mit Verse 42002010 zusammen übersetzt.
+42003037	wuod Methusela, wuod Enoka, wuod Jared, wuod Mahalalel, wuod Kenan,
+42014011	# mit Verse 42014010 zusammen übersetzt.
+42020011	# mit Verse 42020010 zusammen übersetzt.
 42021011
 42022011
 42024011
