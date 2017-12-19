@@ -60,11 +60,3 @@
 19108001	Pakɔs lə Dabid.
 19140001	Pakɔs lə Dabid gə́ bao-pa ɔs sə dee lé
 19142001	Pakɔs lə Dabid gə́ ɔs loo gə́ yeḛ to ne mee bolè mbal’g. Yee ɓa gə́ tamaji ləa.
-
-
-# Vers von 19013002 steht in 19013003, Vers von 19013003 steht in 19013004 usw. (vertauscht bis einschl. 19013007)
-# Bible ID vorhanden, aber kein Text dahinter:
-19051002	Loo gə́ Natan njetegginta lé ree rəa’g gə goo kaw gə́ Dabid aw ne rɔ Bat-Seba’g lé.
-19052002	Mee ndəa gə́ Doɛg, dəw gə́ Edɔm, ree rɔ Sawul’g ulá pana: Dabid aw mee kəi’g lə Asimelek lé.
-19054002	Loo gə́ Jibje ree d’ula Sawul pana: Dabid lé see iya rəa mbuna neḛje’g el wa.
-19060002	To ndɔ gə́ yeḛ rɔ gə Aramje gə́ wɔji dɔ Mesɔpotami ləm, gə Aramje gə́ wɔji dɔ Soba ləm tɔ. Ndəa neelé Joab tel ree dum Edɔmje tɔl-dɔg-loo dɔg-giree-joo (12.000) kəm wəl-loo gə́ ria lə Kad lé tɔ.

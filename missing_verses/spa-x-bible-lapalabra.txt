@@ -1,6 +1,4 @@
-23007008	Damasco* es la capital de Siria, y Rasín el capitoste de Damasco; Samaría es la capital de Efraín, y el hijo de Remalías el capitoste de Samaría. Dentro de sesenta y cinco años, Efraín será aniquilado, dejará de ser nación. Si no creéis, no duraréis.
+23007008	Damasco* es la capital de Siria, y Rasín el capitoste de Damasco; Samaría es la capital de Efraín, y el hijo de Remalías el capitoste de Samaría. Dentro de sesenta y cinco años, Efraín será aniquilado, dejará de ser nación. Si no creen, no durarán.
 23007009	
-26040042	Las cuatro mesas destinadas a las víctimas de los holocaustos estaban construidas con sillares; medían tres cuartos de metro de largo y de ancho, por medio metro de alto. Las repisas que estaban empotradas en las murallas medían un palmo de ancho; ben ellas se colocaban los instrumentos utilizados para degollar las víctimas de los holocaustos y de las ofrendas sacrificiales. La carne de las ofrendas debía ser colocada sobre las mesas.
+26040042	Las cuatro mesas destinadas a las víctimas de los holocaustos estaban construidas con piedras labradas; medían tres cuartos de metro de largo y de ancho, por medio metro de alto. Las repisas que estaban empotradas en las murallas medían un palmo de ancho; en ellas se colocaban los instrumentos utilizados para degollar las víctimas de los holocaustos y de las ofrendas sacrificiales. La carne de las ofrendas debía ser colocada sobre las mesas. 
 26040043	
-
-# 23007007 Teilvers fehlt
