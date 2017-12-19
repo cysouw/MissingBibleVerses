@@ -1,347 +1,346 @@
-40004012
-40004013
-40006003
-40006004
-40006031
-40006032
-40007009
-40007010
-40008005
-40008006
-40011029
-40011030
-40012043
-40012044
-40012045
-40012046
-40012047
-40013002
-40013003
-40015005
-40015006
-40016002
-40016003
-40020011
-40020012
-40025002
-40025003
-40025004
-40026008
-40026009
-40026057
-40026058
-40026060
-40026061
-41001012
-41001013
-41002010
-41002011
-41002025
-41002026
-41003007
-41003008
-41003031
-41003032
-41004031
-41004032
-41005015
-41005016
-41006008
-41006009
-41006035
-41006036
-41006039
-41006040
-41007008
-41007009
-41007011
-41007012
-41012021
-41012022
-41013003
-41013004
-41014063
-41014064
-41014066
-41014067
-41015003
-41015004
-41015018
-41015019
-42001001
-42001002
-42001008
-42001009
-42001011
-42001012
-42001039
-42001040
-42001072
-42001073
-42001078
-42001079
-42002030
-42002031
-42002036
-42002037
-42002046
-42002047
-42003023
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
-42005018
-42005019
-42005025
-42005026
-42007020
-42007021
-42007022
-42008022
-42008023
-42008035
-42008036
-42011005
-42011006
-42011011
-42011012
-42011037
-42011038
-42013020
-42013021
-42016005
-42016006
-42018004
-42018005
-42018035
-42018036
-42020034
-42020035
-42021034
-42021035
-42021037
-42021038
-42022028
-42022029
-42022063
-42022064
-42023023
-42023024
-42023032
-42023033
-42023040
-42023041
-42024045
-42024046
-43001019
-43001020
-43002007
-43002008
-43002024
-43002025
-43004017
-43004018
-43004021
-43004022
-43004023
-43004024
-43005041
-43005042
-43007021
-43007022
-43007023
-43009022
-43009023
-43011012
-43011013
-43014002
-43014003
-43016017
-43016018
-43018004
-43018005
-43020003
-43020004
-44001002
-44001003
-44001021
-44001022
-44004036
-44004037
-44013032
-44013033
-44014005
-44014006
-44015028
-44015029
-44019008
-44019009
-44019018
-44019019
-44020016
-44020017
-44021010
-44021011
-44021026
-44021027
-44021035
-44021036
-44023012
-44023013
-44027014
-44027015
-45001003
-45001004
-45003025
-45003026
-45008020
-45008021
-45008038
-45008039
-45009011
-45009012
-45009013
-45010015
-45010016
-45015015
-45015016
-45016025
-45016026
-45016027
-46002007
-46002008
-46003008
-46003009
-46003021
-46003022
-46003023
-46005012
-46005013
-46006007
-46006008
-46006009
-46006010
-46007029
-46007030
-46007031
-46009008
-46009009
-46010019
-46010020
-46011001
-46011002
-46011014
-46011015
-46014021
-46014022
-46014030
-46014031
-46014033
-46014034
-46015017
-46015018
-46015036
-46015037
-46015053
-46015054
-47001013
-47001014
-47001015
-47001016
-47002014
-47002015
-47002016
-47003007
-47003008
-47008010
-47008011
-47012003
-47012004
-48003019
-48003020
-48003021
-48003022
-49002004
-49002005
-49002011
-49002012
-49002015
-49002016
-49005029
-49005030
-50001024
-50001025
-50002015
-50002016
-52001005
-52001006
-52002011
-52002012
-52005020
-52005021
-53001005
-53001006
-54003014
-54003015
-56003004
-56003005
-57001008
-57001009
-58005012
-58005013
-58006004
-58006005
-58006006
-58007020
-58007021
-58009016
-58009017
-58013015
-58013016
-58013020
-58013021
-58013024
-58013025
-59001010
-59001011
-59003011
-59003012
-59005019
-59005020
-60002002
-60002003
-60002013
-60002014
-61001017
-61001018
-61002007
-61002008
-61003015
-61003016
-65001003
-65001004
-65001024
-65001025
-66007004
-66007005
-66007006
-66007007
-66007008
-66008003
-66008004
-66008008
-66008009
-66015005
-66015006
+40004012	 När Jesus hörde att Johannes hade blivit fängslad, lämnade han Judeen och återvände till Galileen. Men han slog sig inte ner i sin hemstad Nasaret, utan flyttade till Kafarnaum vid Galileiska sjön, nära det område där de båda stammarna Sebulon och Naftali levde.
+40004013	
+40006003	Nej, om du hjälper någon, så gör det i hemlighet. Din vänstra hand ska inte veta vad den högra gör. Då kommer din Far, som ser allt, att belöna dig.
+40006004	
+40006031	Oroa er alltså inte för vad ni ska äta och dricka, eller för vad ni ska ta på er. Gör inte som de människor som inte känner Gud. De jagar efter allt detta och oroar sig hela tiden. Men er Far i himlen vet redan vad ni behöver. 
+40006032	
+40007009	Du som är förälder, inte ger du väl ditt barn en sten när det ber om bröd, eller en orm när det ber om en fisk? Naturligtvis inte! 
+40007010	
+40008005	När Jesus gått in i Kafarnaum, kom en romersk officer fram till honom och bad om hjälp. ”Herre, min tjänare ligger förlamad därhemma och har svåra plågor”, förklarade han. 
+40008006	
+40011029	Gå in under mina villkor och låt mig undervisa er! Jag är mild och ödmjuk. Hos mig finner ni ro för era själar. Jag lägger inga tunga bördor på er.”
+40011030	
+40012043	Detta onda släkte kommer att drabbas av samma öde som många besatta gör: När en ond ande drivs ut ur en människa, irrar den oroligt omkring i öknen och letar efter ett nytt offer. Hittar den då ingen säger den: 'Jag vänder tillbaka till den människa jag kom ifrån.' Och när den gör det och finner hennes hjärta tomt, rent och iordningställt, letar den reda på sju andar till, ännu värre än den själv. Tillsammans tar de sedan kontrollen över människan, och hon får det långt värre än hon hade det förut."
+40012044	
+40012045	
+40012046	Medan Jesus fortfarande talade till folket kom hans mamma och bröder dit och ville prata med honom, men de stannade utanför huset. Någon sa till honom: "Din mamma och dina bröder står här utanför och vill träffa dig."
+40012047	
+40013002	"En lantbrukare gick ut på sin åker för att så. 
+40013003	
+40015005	Men ni påstår att man inte alls behöver respektera sina föräldrar eller ta hand om dem när de blir gamla, om man bara ger pengarna som en gåva till templet istället. Så ogiltigförklarar ni Guds direkta befallning genom att följa era egna regler.
+40015006	
+40016002	Men han svarade: "Ni har lätt för att avläsa de tecken ni ser på himlen: Om himlen är röd på kvällen, vet ni att det blir vackert på morgonen, och om himlen är röd och mulen på morgonen, vet ni att det snart blir oväder. Nu vill ni att himlens Gud ska visa er tecken, men det är för att ni inte förstår de händelser som utspelas mitt framför era egna ögon.
+40016003	
+40020011	Då började de protestera: 'De här karlarna har bara hållit på en timma och ändå betalar du lika mycket till dem som till oss, trots att vi har arbetat hela dagen i den brännande hettan.'
+40020012	
+40025002	Fem av dem var kloka och tog med sig krukor med extra olja till sina lampor. De andra fem var oförståndiga och glömde att ta med sig olja.
+40025003	
+40025004	
+40026008	Jesus efterföljare blev upprörda och sa: "Vilket slöseri med pengar. Oljan är ju värd en förmögenhet. Hon kunde ha sålt den och gett pengarna till de fattiga istället!"
+40026009	
+40026057	De som hade arresterat Jesus ledde honom nu till översteprästen Kajafas palats, där laglärarna och folkets ledare hade samlats. Petrus följde efter på avstånd och lyckades ta sig ända in på gården. Där slog han sig sedan ner tillsammans med tjänarna för att se vad som skulle hända med Jesus.
+40026058	
+40026060	Men trots att det fanns många som var villiga att vittna falskt, kunde man inte hitta något att anklaga honom för. Till slut förklarade i alla fall två män: "Vi har hört den här mannen säga: 'Jag kan riva ner Guds tempel och bygga upp det igen på tre dagar.' "
+40026061	
+41001012	Genast efter detta förde Guds Ande ut Jesus i ödemarken, och där stannade han under 40 dagar och blev frestad av Satan. Han levde bland de vilda djuren, och änglarna betjänade honom.
+41001013	
+41002010	Sedan vände han sig till den förlamade och sa: "För att bevisa att jag, Människosonen, har makt att förlåta synder här på jorden, säger jag till dig: 'Res dig upp, ta din sovmatta och gå hem!' "
+41002011	
+41002025	Men Jesus svarade dem: "Har ni aldrig läst vad kung David och hans män gjorde en gång då Evjatar var överstepräst, och de blev hungriga och inte hade något att äta? David gick in i Guds hus och åt av det speciella bröd som bara prästerna får äta, och han lät även sina män äta av det. Det var också ett brott mot lagen."
+41002026	
+41003007	Jesus och hans efterföljare drog sig nu tillbaka till stranden av Galileiska sjön, och massor av människor från Galileen, men också från Judeen, Jerusalem och Idumeen, från andra sidan Jordan och ända bortifrån Tyros och Sidon, följde honom. Ryktet om alla hans under hade spritt sig vida omkring, och folk strömmade nu till för att se vad som försiggick.
+41003008	
+41003031	De som satt runt Jesus sa då till honom: "Din mamma och dina bröder står här utanför och vill träffa dig."
+41003032	
+41004031	Jo, där Gud regerar blir det som när man sår ett senapsfrö. Trots att senapsfröet är det minsta av alla frön, växer det upp och blir större än alla andra kryddväxter och får så stora grenar att fåglarna kan bygga bo där och få skydd."
+41004032	
+41005015	När de kom fram till Jesus fick de se mannen som haft de onda andarna i sig sitta där, påklädd och fullständigt normal. Skräckslagna hörde de sedan ögonvittnena berätta hur den besatta mannen hade blivit befriad och vad som hade hänt med svinen.
+41005016	
+41006008	Han sa åt dem att inte ta med sig något annat på vägen än en vandringsstav. De fick inte ta med någon mat, ingen väska, inga pengar, och inte några extra skor eller kläder.
+41006009	
+41006035	Fram emot kvällen kom hans efterföljare till honom och sa: "Det är redan sent, och det finns inget att äta här i ödemarken. Skicka iväg folket, så att de kan gå till byarna och gårdarna här i närheten och köpa mat."
+41006036	
+41006039	Jesus bad dem då att säga till människorna att sätta sig ner i grupper på 50 eller 100 personer, där det fanns grönt gräs.
+41006040	
+41007008	Ja, ni struntar fullständigt i Guds bud och ersätter dem med era egna mänskliga regler. Det är just ett snyggt sätt att följa Guds bud!
+41007009	
+41007011	Men ni påstår att man inte alls behöver respektera sina föräldrar eller ta hand om dem när de blir gamla, om man bara ger pengarna som en gåva till templet istället.
+41007012	
+41012021	Därför gifte sig bror nummer två med änkan, men snart dog också han utan att lämna några barn efter sig. Med den tredje gick det likadant, och så fortsatte det ända tills hon hade varit gift med alla sju utan att ha fått några barn. Till sist dog också kvinnan.
+41012022	
+41013003	När han senare satt på Olivbergets sluttning, mitt emot templet, och Petrus, Jakob, Johannes och Andreas var ensamma med honom frågade de: "När ska detta hända? Berätta för oss. Vad blir tecknet som visar att den tid har kommit som Gud har bestämt för allt det du talar om?"
+41013004	
+41014063	Då slet översteprästen sönder sina kläder och ropade: "Det behövs inga fler vittnen. Ni har själva hört honom häda Gud. Vad ska han få för dom?" Då röstade alla för att han skulle dömas till döden.
+41014064	
+41014066	Under tiden väntade Petrus nere på gårdsplanen. En av översteprästens tjänsteflickor kom då dit och fick syn på Petrus som satt och värmde sig vid elden. Hon stirrade ett tag på honom och sa sedan: "Du var väl också tillsammans med den där Jesus från Nasaret?"
+41014067	
+41015003	Sedan anklagade översteprästerna honom för en rad olika brott, och Pilatus frågade honom: "Varför säger du ingenting? Du hör ju vad de anklagar dig för!"
+41015004	
+41015018	Sedan slog de honom i huvudet med en käpp och spottade på honom och föll på knä och låtsades hylla honom. "Leve judarnas kung", ropade de.
+41015019	
+42001001	Käre Theofilos! Många har redan skrivit om Jesus liv och allt det som har hänt ibland oss. Deras berättelser bygger på det vi har hört från de ögonvittnen som var med från början och som sedan spred budskapet om Jesus.
+42001002	
+42001008	Men en dag, när Sakarias avdelning tjänade som präster i templet, och man som vanligt kastat lott om vem som skulle få gå in i templet och tända rökelse inför Herren Gud, blev Sakarias utvald.
+42001009	
+42001011	Då plötsligt, medan Sakarias var därinne, fick han se en ängel från Herren stå till höger om altaret, och han blev fruktansvärt rädd.
+42001012	
+42001039	Några dagar senare skyndade sig Maria iväg till Elisabet. Hon gick upp till den stad bland Judeens berg där Sakarias bodde, och gick in i hans hus och hälsade.
+42001040	
+42001072	Gud har varit god mot våra förfäder, och han håller sitt heliga löfte till Abraham:
+42001073	
+42001078	För på grund av Guds kärlek och omsorg om oss, ska ett ljus komma ner till oss från höjden och lysa över alla som lever i mörker och dödsfruktan. Och detta ljus ska leda oss på fridens väg."
+42001079	
+42002030	För nu har jag med egna ögon sett honom som du har bestämt ska rädda världen.
+42002031	
+42002036	En gammal kvinna, som hette Hanna och som Gud hade gett förmågan att framföra budskap från honom, var också i templet. Hon var dotter till Fanuel från Ashers stam. Hon hade varit gift i sju år när hon var ung, men hennes man hade dött, och hon var nu 84 år. Hon lämnade aldrig templet utan var där dag och natt och tjänade Gud genom bön och fasta.
+42002037	
+42002046	Efter tre dagars letande hittade de honom till sist i templet, där han satt mitt bland de religiösa lärarna och diskuterade svåra frågor. Och alla som hörde honom förvånades över hans intelligens och kloka svar.
+42002047	
+42003023	Jesus var runt 30 år när han började undervisa folket och göra under bland dem. Han ansågs vara son till Josef. Och Josefs far och förfäder var: Eli, Mattat, Levi, Melki, Jannaj, Josef, Mattatias, Amos, Nahum, Hesli, Naggaj, Machat, Mattatias, Shimi, Josek, Joda, Jochanan, Resa, Serubbabel, Shealtiel, Ner, Melki, Addi, Kosam, Elmadam, Er, Josua, Elieser, Jorim, Mattat, Levi, Symeon, Juda, Josef, Jonam, Eljakim, Melea, Menna, Mattatta, Natan, David, Jishaj, Oved, Boas, Salma, Nachshon, Amminadav, Admin, Arni, Hesron, Peres, Juda, Jakob, Isak, Abraham, Terach, Nachor, Serug, Regu, Peleg, Ever, Shelach, Kenan, Arpakshad, Sem, Noa, Lemek, Metushelach, Henok, Jered, Mahalalel, Kenan, Enosh, Set. Set var son till Adam, som skapades av Gud.
+42003024	
+42003025	
+42003026	
+42003027	
+42003028	
+42003029	
+42003030	
+42003031	
+42003032	
+42003033	
+42003034	
+42003035	
+42003036	
+42003037	
+42003038	
+42005018	Då kom några män bärande på en bår med en förlamad man. De försökte tränga sig igenom folkmassan för att komma nära Jesus, men lyckades inte ta sig fram. De gick därför upp på taket och tog bort några takplattor och firade sedan ner den förlamade på båren mitt framför Jesus.
+42005019	
+42005025	Och genast reste sig mannen upp, mitt framför ögonen på de förbluffade människorna. Sedan tog han sin bår och gick hem, och hela tiden hyllade han Gud. Alla som såg det blev helt förskräckta, och de hyllade Gud och sa gång på gång: "Det vi har sett idag är helt otroligt!"
+42005026	
+42007020	När Johannes båda efterföljare hittade Jesus höll han just på att bota människor från sjukdomar och lidanden och från onda andar. Han gjorde också så att flera blinda kunde se igen. När Johannes efterföljare då ställde de frågor som Johannes ville ha svar på, sa Jesus: "Gå tillbaka till Johannes och berätta för honom vad ni har sett och hört: att blinda börjar se, förlamade går, spetälska blir friska, döva hör, döda får liv igen, och de fattiga får höra ett glatt budskap.
+42007021	
+42007022	
+42008022	Men plötsligt svepte en våldsam storm ner över sjön, och båten började fyllas så att de var verkligt illa ute.
+42008023	
+42008035	Folket gick då ut för att ta reda på vad som hade hänt, och när de kom till Jesus fick de se mannen som hade varit besatt sitta helt lugn vid Jesus fötter, påklädd och fullständigt normal. Skräckslagna hörde de sedan ögonvittnena berätta hur den besatta mannen hade blivit befriad.
+42008036	
+42011005	Sedan fortsatte Jesus att undervisa om bön genom att berätta olika bilder. Han sa: "Tänk dig att du går till en vän mitt i natten och knackar på hos honom och säger: 'Kan du låna mig tre brödkakor. En av mina vänner har just kommit på besök, och jag har inget att bjuda honom på.'
+42011006	
+42011011	Du som är pappa, inte ger du väl ditt barn en orm när det ber om en fisk, eller en skorpion när det ber om ett ägg? Naturligtvis inte!
+42011012	
+42011037	Medan Jesus höll på att tala till folket, passade en av fariseerna på att bjuda hem honom på mat, och Jesus följde med. Men när han kom in slog han sig ner vid bordet utan att först ha tvättat sig, som den judiska seden kräver. Detta förvånade farisén mycket.
+42011038	
+42013020	Där Gud regerar blir det också som när en kvinna blandar in jäst i degen då hon bakar. Hon tar lite jäst och blandar in den i en stor mängd mjöl och arbetar ihop degen. Sedan påverkar jästen hela degen."
+42013021	
+42016005	Sedan bjöd han in alla dem som var skyldiga hans arbetsgivare pengar, och började diskutera med dem en efter en. Han frågade den förste: 'Hur mycket är du skyldig?' '100 krus olivolja', svarade mannen. Då sa förvaltaren: 'Här är skuldebrevet du skrev under. Riv sönder det och skriv ett nytt på 50 krus istället.'
+42016006	
+42018004	Under lång tid struntade han i henne, men till slut började hon gå honom på nerverna. Då sa han till sig själv: 'Visserligen brukar jag inte visa respekt för vare sig Gud eller människor, men den här kvinnan gör mig galen. Det är bäst jag ser till att hon får det hon har rätt till. Jag är trött på hennes ständiga tjat!' "
+42018005	
+42018035	På sin väg mot Jerusalem närmade sig Jesus staden Jeriko, tillsammans med en stor folkmassa. Och då satt där en blind man vid vägkanten och tiggde. Mannen hörde folket komma på vägen och frågade nyfiket vad som stod på.
+42018036	
+42020034	Jesus svarade saddukeerna: "Det är bara här på jorden som män och kvinnor gifter sig. De som är värdiga att få vara med i den kommande världen sedan de har uppstått från de döda, de ska inte gifta sig.
+42020035	
+42021034	Var på er vakt, så att ni inte förslöas av festande och supande, eller är upptagna med vardagslivets bekymmer. Annars kommer jag tillbaka och överraskar er, och ni ska fångas som i en snara. 36Håll er ständigt beredda. Be att ni ska få kraft att fly undan de svårigheter som väntar, så att ni kan möta mig, Människosonen, utan rädsla."
+42021035	
+42021037	På dagarna gick Jesus till tempelplatsen för att undervisa, och folkmassorna samlades redan tidigt på morgonen för att höra honom. Men varje kväll lämnade han staden och gick ut till Olivberget och övernattade där.
+42021038	
+42022028	Men en dag ska ni som har varit trogna mot mig under dessa svåra dagar, få samma kungliga makt av mig som jag har fått av min Far i himlen.
+42022029	
+42022063	De män som bevakade Jesus började nu håna honom. De band för hans ögon och slog honom och sa: "Visa att du är profet! Avslöja med Guds hjälp vem som slog dig."
+42022064	
+42023023	Men folket skrek utan uppehåll att Jesus skulle spikas fast på ett kors, och till slut fick deras vilda rop Pilatus att ge med sig.
+42023024	
+42023032	Två brottslingar fördes också ut för att avrättas tillsammans med Jesus. Och när man kom till den plats som kallas "Skallen" spikades alla tre fast på varsitt kors. Jesus hängde i mitten med en brottsling på var sida.
+42023033	
+42023040	Men den andra brottslingen tillrättavisade honom och sa: "Har du inte respekt för Gud ens när du ska dö? Vi får det vi förtjänar, vi har dömts för våra brott, men den här mannen har inte gjort något ont."
+42023041	
+42024045	Sedan hjälpte han dem att förstå Skriften. Han sa: "Detta är vad Gud har förutsagt: 'Messias, den utlovade kungen, ska lida och dö och sedan bli levande igen på den tredje dagen.
+42024046	
+43001019	De judiska ledarna sände präster och tempeltjänare från Jerusalem, för att fråga Johannes döparen om han var Messias, den utlovade kungen. Men Johannes förklarade öppet: "Nej, jag är inte Messias."
+43001020	
+43002007	Jesus sa nu till tjänarna: "Fyll krukorna med vatten", och när alla krukorna var helt fulla, sa han: "Häll upp lite och ge det till bröllopsvärden." Och tjänarna gjorde som han sa.
+43002008	
+43002024	Men Jesus litade inte på någon, för han kände deras innersta tankar. Ingen behövde tala om för honom hur opålitliga människor kan vara.
+43002025	
+43004017	"Jag har ingen man", svarade kvinnan. "Du har rätt", sa Jesus. "Du har levt ihop med fem män, och den du lever med nu är inte din man. Där höll du dig till sanningen." 
+43004018	
+43004021	Jesus förklarade: "Tro mig, det kommer en dag då ingen längre behöver diskutera om det är på det här berget eller i Jerusalem som man ska tillbe vår Far i himlen. Det är inte var man tillber som är det viktiga, utan hur man tillber. Verklig tillbedjan är äkta och inspirerad av Guds Ande. Det är så Gud vill att vi ska tillbe honom, eftersom Gud är Ande. Och det kommer en dag, ja, den är redan här, då människor ska tillbe Gud på det sättet. Men ni samarier vet så lite om honom som ni tillber. Vi judar däremot känner honom väl, för räddningen kommer från judarna."
+43004022	
+43004023	
+43004024	
+43005041	Jag strävar inte efter att bli ärad av er, för jag vet att ni inte älskar Gud.
+43005042	
+43007021	Jesus svarade: "Jag gjorde något som förvånade er mycket, och det var att jag botade en man på vilodagen.  Men arbetar ni inte själva varje gång ni lyder Moses lag om omskärelsen och omskär era söner på en vilodag. Mose, eller rättare sagt era förfäder, bestämde att omskärelsen ska göras på den åttonde dagen efter födseln, även om den åttonde dagen råkar vara en vilodag. Så om det nu är tillåtet att omskära någon på vilodagen, varför ska jag då dömas för att jag botade någon på vilodagen?
+43007022	
+43007023	
+43009022	Detta sa de för att de var rädda för de judiska ledarna, som redan då hade bestämt att den som erkände Jesus som Messias, den utlovade kungen, skulle uteslutas ur den judiska församlingen.
+43009023	
+43011012	Hans efterföljare trodde då att Jesus talade om vanlig sömn, så de sa: "Vad bra! Om han sover så blir han snart frisk." Men Jesus menade att Lasaros hade dött.
+43011013	
+43014002	I min Fars hus finns det många rum, och jag går nu i förväg för att göra i ordning en plats åt er. Lita på att det är så, eftersom jag säger det till er. När allt är färdigt ska jag komma tillbaka och hämta er, så att också ni kan vara där jag är. 
+43014003	
+43016017	Några av Jesus efterföljare frågade då varandra: "Vad menar han egentligen när han säger att vi snart inte kan se honom längre, men att vi lika snart ska få se honom igen? Och vad kan det betyda när han säger att han går till sin Far? Och hur snart ska det ske? Vi fattar ingenting av vad han säger."
+43016018	
+43018004	Också Judas, han som förrådde honom, stod där tillsammans med dem.
+43018005	
+43020003	Petrus och den andre efterföljaren sprang då iväg båda två till graven för att se efter. Men den andre efterföljaren sprang fortare än Petrus och kom dit först.
+43020004	
+44001002	ända fram till den dag då han togs upp till himlen. Efter att han lidit och dött och sedan uppstått från de döda, visade han sig för de män som han utsett till sina speciella sändebud och bevisade på många sätt för dem att han levde.Under 40 dagar visade han sig för dem och berättade om Guds plan att rädda människor och göra dem till sitt eget folk, och med Guds heliga Andes hjälp gav han dem sina befallningar.
+44001003	
+44001021	Därför måste vi nu välja någon annan som kan ta Judas plats, någon som tillsammans med oss kan berätta om att Herren Jesus har uppstått från de döda. Låt oss välja en person som har varit med oss under hela den tid då vi var tillsammans med Herren, från den gången då han döptes av Johannes döparen, till den dag då han togs upp till himlen."
+44001022	
+44004036	En man som hette Josef, sålde också en åker som han ägde och gav pengarna till sändebuden. Han tillhörde Levi stam och kom från Cypern, och sändebuden kallade honom Barnabas, som betyder "den som uppmuntrar".
+44004037	
+44013032	Och nu har turen kommit till er. Vi är här för att berätta de glada nyheterna om att Gud, just i våra dagar, har infriat sitt löfte till förfäderna, genom att uppväcka Jesus från de döda. Det är honom den andra psalmen i Psaltaren handlar om, när den säger: 'Du är min son. Idag har jag blivit din Far.'
+44013033	
+44014005	Efter ett tag fick Paulus och Barnabas reda på att judarna tillsammans med sina ledare, och även icke-judar, hade kommit överens om att misshandla och stena dem. De flydde därför till städerna Lystra och Derbe i provinsen Lykaonien. Där vandrade de sedan omkring i hela området
+44014006	
+44015028	Guds heliga Ande och vi har beslutat att inte kräva något annat av er än att ni låter bli att äta sådant som offrats till avgudar, att ni inte äter kött från kvävda djur eller något annat som har blodet kvar i sig, och att ni avhåller er från sexuell lössläppthet. Om ni noga följer detta handlar ni rätt. Vi önskar er allt gott!"
+44015029	
+44019008	Under tre månaders tid undervisade sedan Paulus regelbundet i synagogan. Han talade öppet och med stort mod och försökte övertyga alla om att Gud ville rädda dem och göra dem till sitt eget folk. Men några avvisade hans budskap. De ville inte tro, utan hånade Jesus väg inför alla i synagogan. Därför slutade Paulus att gå till synagogan, och han höll de troende borta därifrån. De samlades istället i Tyrannos föreläsningssal, där Paulus undervisade varje dag.
+44019009	
+44019018	Många av de troende, som tidigare hade praktiserat trolldom, bekände vad de hade gjort och plockade fram sina besvärjelseböcker och brände dem offentligt. Någon räknade ut att böckerna var värda ungefär 50 000 dagslöner.
+44019019	
+44020016	Paulus hade bestämt sig för att inte resa till Efesos den här gången, trots att staden låg i närheten. Han ville inte bli uppehållen i provinsen Asien, eftersom han ville hinna till Jerusalem och fira pingsthögtiden där. Men när vi kom fram till Miletos skickade han i alla fall ett meddelande till församlingsledarna i Efesos och bad dem att komma ner till fartyget för att träffa honom.
+44020017	
+44021010	Under besöket där, som varade i flera dagar, kom en man från Judeen för att träffa oss. Han hette Agabos, och även han hade fått förmågan av Gud att framföra budskap från honom. Han tog Paulus bälte, band sina egna fötter och händer med det och sa: "Guds heliga Ande säger: 'På det här sättet ska ägaren till detta bälte bindas av judarna i Jerusalem och överlämnas till romarna.' "
+44021011	
+44021026	Men precis innan de sju dagarna var slut, fick några judar från provinsen Asien syn på Paulus i templet och hetsade upp folket mot honom. De grep tag i honom och 
+44021027	
+44021035	Folket följde med hela vägen och ropade: "Döda honom, döda honom!" och när de kom fram till trappan, blev folkmassan så våldsam att soldaterna måste lyfta upp Paulus på axlarna för att skydda honom.
+44021036	
+44023012	Nästa morgon samlades mer än 40 judiska män och svor att de varken skulle äta eller dricka förrän de hade dödat Paulus.
+44023013	
+44027014	Men det dröjde inte länge förrän vädret plötsligt slog om. En våldsam storm, den så kallade Nordostorkanen svepte ner från ön och drev fartyget med sig ut på öppna havet. Besättningen försökte vända tillbaka mot land, men lyckades inte utan var tvungna att låta fartyget driva för vinden.
+44027015	
+45001003	Det är det glada budskapet om hans Son, Jesus Kristus, vår Herre, som kom till världen som människa och föddes in i kung Davids släkt. Men Jesus Kristus var inte bara människa. Han var samtidigt Guds Son, vilket Gud på ett mäktigt sätt bevisade genom att låta sin heliga Ande uppväcka honom från de döda.
+45001004	
+45003025	Gud lät Jesus offra sitt blod och ta straffet för våra synder, för att alla som tror ska få förlåtelse. Gud ville genom detta visa hur fullständigt god och rättvis han är. I sitt stora tålamod lät han straffet vänta för de synder som människor begick för länge sedan. Och nu i vår egen tid lät han Jesus dö och ta vårt straff. Ja, Gud visade sin godhet genom att låta oss bli skuldfria inför honom om vi tror på Jesus.
+45003026	
+45008020	Allt skapat har ju kommit vid sidan av Guds plan, inte för att de själva ville det, utan därför att Gud dömde skapelsen till att dö. Men han gav oss ett hopp om att skapelsen en dag ska befrias från sitt kretslopp av ständigt nedbrytande. Ja, en dag ska allt skapat få del av den härliga frihet som Guds barn får njuta av.
+45008021	
+45008038	Det spelar ingen roll om vi lever eller dör. Jag är helt övertygad om att inget kan skilja oss från den kärlek Gud visade oss genom Jesus Kristus, vår Herre. Inga änglar eller demoner, inget som finns nu eller kommer att finnas i framtiden, inga krafter i himlen eller i djupet eller något annat i skapelsen kan hindra hans kärlek från att nå oss.
+45008039	
+45009011	Redan innan de föddes, ja, innan de hade gjort vare sig gott eller ont, sa Gud till Rebecka: ”Den äldre pojken ska tjäna den yngre.”6 Gud säger också i Skriften: ”Jag älskade Jakob men förkastade Esau.” Detta visar att Gud har sin egen plan för att välja ut människor. Han väljer inte ut människor på grund av deras goda gärningar, utan genom att inbjuda dem att få tillhöra honom. 
+45009012	
+45009013	
+45010015	Och den som sprider budskapet, måste vara sänd av någon. Det är detta Gud talar om genom profeten Jesaja, när han säger: ”Vad underbart det är när någon kommer med goda nyheter!” Men alla israeliter trodde inte på de goda nyheterna, för Jesaja säger också: ”Herre, vem trodde på vårt budskap?”
+45010016	
+45015015	Men jag ville ändå skriva till er för att påminna om allt detta, och ibland har jag varit mycket rakt på sak. Det beror på att Gud gav mig förmånen att få tjäna honom. Han gjorde mig till präst åt Jesus Kristus, för att jag skulle sprida Guds glada budskap till icke-judiska folk och sedan överlämna dessa folk som ett offer till Gud. Och han tar emot dem med glädje, eftersom hans heliga Ande har gjort dem värdiga att tillhöra honom.
+45015016	
+45016025	Hylla Gud, för han är den som kan göra er tro stark! Det är vad jag sa när jag berättade det glada budskapet om Jesus Kristus för er. Detta budskap om Kristus var Guds hemliga plan, som har legat gömd sedan tidens början. Men precis som Gud, han som är evig, hade bestämt, har han nu avslöjat sin plan. Han har visat det som han hela tiden hade förutsagt genom profeterna i Skriften, för att alla folk ska kunna tro på Kristus och lyda honom.
+45016026	
+45016027	
+46002007	Nej, vår undervisning är fylld av Guds egen vishet. Den handlar om Guds hemliga plan, som har legat gömd sedan tidens början. Och enligt den planen hade Gud bestämt att Herren Jesus skulle dö för att rädda oss, så att vi får dela Guds härlighet. Den här världens onda makthavare, förstod inte Guds plan, och därför lät de avrätta Jesus på ett kors, honom som delar Guds makt och härlighet.
+46002008	
+46003008	Församlingen kan också liknas vid ett hus som Gud håller på att bygga,
+46003009	
+46003021	Skryt därför inte över att ni är efterföljare till någon viss människa. Ni tillhör ju Kristus, och Kristus tillhör Gud. Därför äger ni allt som tillhör Gud - Paulus, Apollos, Petrus och hela världen. Det spelar ingen roll om ni lever eller dör. Nutiden och framtiden är er. Ja, allt är ert, eftersom ni tillhör Kristus.
+46003022	
+46003023	
+46005012	De som inte tillhör församlingen är det inte vår sak att döma. Dem ska Gud straffa på domens dag. Däremot är det er uppgift att döma dem som tillhör er församling. Om en medlem gör det som är ont, så uteslut honom ur gemenskapen.
+46005013	
+46006007	Ja, att ni överhuvudtaget drar varandra inför rätta är ett stort nederlag för er som troende. Varför tvistar ni med era troende syskon om materiella saker? Varför vill ni ta ifrån andra det som är deras? Borde ni inte istället acceptera att själva bli illa behandlade, och att man tar ifrån er det som är ert?
+46006008	
+46006009	Har ni alldeles glömt att den som inte följer Guds vilja inte får tillhöra hans folk? Bedra inte er själva. Ingen som lever i sexuell lössläppthet, som tillber avgudar, som är otrogen i sitt äktenskap eller som ägnar sig åt homosexualitet får tillhöra Gud. Inte heller tjuvar, själviska människor, de som super sig fulla, de som talar illa om sina medmänniskor eller de som lurar andra på pengar får tillhöra Gud.
+46006010	
+46007029	Låt mig säga en sak, kära syskon. Den nuvarande världen kommer snart att gå under. Det är inte lång tid kvar. Därför måste den man som är gift inte bara leva för sitt äktenskap, den som är ledsen eller glad får inte vara upptagen med sina känslor, den som köper något får inte vara upptagen med det materiella, och den som håller på med världsliga saker får inte bli så upptagen med dem att de betyder allt för honom.
+46007030	
+46007031	
+46009008	Nu kanske ni anser att det här bara är ett mänskligt sätt att försvara sig, men då glömmer ni att dessa regler faktiskt kommer från Gud. I den lag han gav till Mose står det ju: "Du ska inte binda ihop munnen på den oxe som tröskar."Se Femte Moseboken 25:4. Men ni tror väl inte att det bara var oxarna som Gud tänkte på? 10Nej, han tänkte naturligtvis på oss som arbetar för honom. Reglerna om att den som plöjer och den som tröskar ska få del av skörden står där för att visa att vi som arbetar på Guds åker ska få lön för det vi gör.
+46009009	
+46010019	Vad vill jag nu säga med detta? Att de som offrar till avgudar får gemenskap med avgudarna? Nej, absolut inte! En avgud är bara en död avgudabild, och kött som är offrat till avgudar är bara vanligt kött. Men när dessa människor offrar, offrar de till onda andar och får gemenskap med dem. Och jag vill att ni ska hålla er till Gud, och inte ha gemenskap med onda andar.
+46010020	
+46011001	Följ därför mitt exempel, precis som jag följer Kristus exempel. Jag måste ändå berömma er, kära syskon, för att ni följer mitt exempel och håller fast vid den undervisning jag gav vidare till er.
+46011014	Nej, jag tror ni tycker det är ganska naturligt för kvinnan att täcka sitt huvud när ni samlas. Ni anser ju redan att det är en ära för en kvinna att ha långt hår, och att hon har fått håret som en slags slöja. Men om en man uppträder i långt hår, då tycker ni att han skämmer ut sig.
+46011015	
+46014021	Ni måste inse att förmågan att framföra budskap från Gud är viktigare än att kunna tala okända språk. Att tala på ett okänt språk är nämligen inte ett tecken från Gud som får människor att tro. Det står ju i Skriften: " 'Jag ska tala till detta folk på okända språk och med hjälp av främlingars läppar. Men ändå ska de vägra att lyssna på mig', säger Herren." Om man däremot framför ett budskap från Gud är det ett tecken som stärker människors tro.
+46014022	
+46014030	Men ni måste tala en i taget. Om Gud visar något för en annan i samlingen, ska den förste sluta tala. På så sätt kan flera få tillfälle att framföra det budskap de har fått från Gud, och hela församlingen kan lära sig något och bli uppmuntrad.
+46014031	
+46014033	Gud tycker inte om när det är oordning, för han är den som ger frid. Därför ska kvinnorna inte heller sitta och diskutera högt vid era samlingar. Den regeln följer alla de troendes församlingar. Kvinnorna ska göra som det står i Skriften, och låta männen leda samlingarna.
+46014034	
+46015017	Men om Kristus aldrig uppstod från de döda, då är er tro meningslös. Det betyder ju att ni inte har fått förlåtelse för era synder och att det inte finns något evigt liv att se fram emot. Och då måste också de som trodde på Kristus när de dog ha gått evigt förlorade.
+46015018	
+46015036	Försök nu att tänka efter lite! Förstår du inte att det är som när man sår ett frö? Fröet måste dö först om livet ska kunna spira. Och den planta som växer upp är inte alls lik det frö man la ner i jorden, om det nu var ett vetekorn eller något annat. 
+46015037	
+46015053	Våra jordiska kroppar måste förvandlas till himmelska kroppar, så att vi som en gång var dödliga kan leva i evighet.Och när vi har fått dessa odödliga kroppar, då har det som Gud förutsa i Skriften gått i uppfyllelse: "Döden är besegrad och finns inte mer.
+46015054	
+47001013	Mina brev har varit öppna och rakt på sak. Det finns inga dolda budskap, utan allt är skrivet så att ni enkelt ska kunna förstå. Jag hoppas också att ni snart helt och fullt ska förstå det som ni redan delvis har förstått, att när vår Herre Jesus kommer tillbaka, då kan ni vara lika stolta över mig som jag är över er. 
+47001014	
+47001015	Och eftersom jag var säker på att ni verkligen har förtroende för mig, hade jag tänkt glädja er, med inte bara ett, utan två besök. Jag hade tänkt besöka er först på min väg till Makedonien, och sedan på vägen hem igen. Då skulle ni ha fått hjälpa mig med det jag behöver för min resa till Judeen. 
+47001016	
+47002014	Jag tackar Gud, som har vunnit seger genom det som Kristus gjorde, och som har gjort mig till sin slav. Jag får nu gå med i hans triumftåg över världen, för att sprida det glada budskapet om Kristus till alla människor. Mitt arbete är som en välluktande rökelsedoft som offras till Gud. Till hans ära sprider jag doften om Kristus till alla människor. Och för de människor som tror på budskapet och blir räddade, är det en doft som ger liv. Men för dem som inte tror på budskapet och därför går evigt förlorade, är det en doft som påminner om att Gud ska straffa dem med döden. Men vem är då värdig att utföra ett sådant arbete?
+47002015	
+47002016	
+47003007	Det gamla förbundet, mellan Gud och Israels folk, byggde på en lag som var inhuggen i stentavlor, och det förbundet ledde till döden. Ändå strålade Moses ansikte så av Guds härlighet, när han kom ner från berget med stentavlorna, att folket inte vågade se på honom. Fast efter ett tag bleknade strålglansen. Men om redan det gamla förbundet var så fyllt av Guds härlighet, hur mycket mer av Guds härlighet ska då inte finnas i det nya förbundet, där Guds Ande ger evigt liv? 
+47003008	
+47008010	Jag föreslår därför att ni avslutar den insamling som ni själva var med och tog initiativet till för ett år sedan. Ni var de första som började samla in pengar, men se nu till att ni är lika ivriga att ge på slutet som ni var i början. Ge så mycket som ni har råd med. 
+47008011	
+47012003	Om det var med eller utan kroppen det vet jag inte, men Gud vet det. Jag vet i alla fall att han, där uppe i paradiset, fick höra ord som ingen människa kan eller får uttala.
+47012004	
+48003019	 har Gud bestämt att arvet till Abraham skulle vara en fri gåva, som man får på grund av Guds löfte. 19-20 Vad var det då för nytta med Moses lag? Jo, den var ett tillägg som skulle visa människorna att de inte följer Guds vilja. Och lagen skulle gälla tills Kristus kom, han som var ”avkomman” och hade fått Guds löfte. Det fanns också en annan skillnad mellan lagen och löftet. Moses lag var ett förbund som ingicks mellan Gud och hela Israels folk, och därför behövdes det en förmedlare. Moses fick ta emot lagen från änglar och gav den sedan till folket. Men när Gud gav sitt löfte till Abraham, gjorde han det ensam.
+48003020	
+48003021	Finns det då en konflikt mellan Guds lag och Guds löften? Nej, naturligtvis inte! Om vi hade kunnat få evigt liv genom att följa Moses lag, då hade den verkligen varit vägen till att bli skuldfri inför Gud. Men Gud har förklarat i Skriften att vi allihop är fångar under synden. Därför finns det bara ett sätt att få del av det arv som Gud har lovat oss, och det är genom att tro på Jesus Kristus.
+48003022	
+49002004	Men vår kärleksfulla Gud visade sitt stora medlidande med oss. Trots att vi var andligt döda på grund av vår olydnad, älskade han oss så mycket, att han gjorde oss levande tillsammans med Kristus. Ja, det är endast på grund av att Gud visade oss nåd som vi är räddade.
+49002005	
+49002011	Kom därför ihåg vilken hopplös situation ni befann er i, innan ni lärde känna Kristus. Eftersom ni tillhörde icke-judiska folk, kallade judarna er för ”de som inte är omskurna”. Judarna var stolta över sin ceremoni med att omskära alla pojkar, även om denna ceremoni aldrig kunde förvandla någons hjärta. På den tiden tillhörde ni inte Guds eget folk. Det förbund Gud hade ingått med Israels folk gällde inte er, och ni hade ingen del i de löften han hade gett dem. Nej, ni hade inget hopp om räddning, och ni levde utan Gud här i världen. 
+49002012	
+49002015	 Ja, han dog för oss på korset och tog vårt straff, och genom detta blev Moses lag3 med alla sina bud och föreskrifter inte längre vägen till räddning. Hans mål var att stifta fred mellan judar och icke-judar genom att förena dem med sig själv och skapa en ny människa, en ny kropp, som är hans församling. Och när vi nu är delar i samma kropp, har fiendskapen mellan oss försvunnit, eftersom vi alla är försonade med Gud och är hans vänner. 
+49002016	
+49005029	Ingen hatar ju sin egen kropp, utan tar hand om den och ger den vad den behöver. På samma sätt tar Kristus hand om sin kropp, som är församlingen. Och i den kroppen är vi alla olika delar.
+49005030	
+50001024	Andra stunden inser jag att det är bättre för er om jag lever kvar här på jorden. Därför vet jag också att jag ska få leva och stanna kvar hos er, så att er tro kan växa och ge er ännu mer glädje.
+50001025	
+50002015	så att ni inte kan anklagas för något, utan lyder Gud som hans barn, fria från skuld. När ni erbjuder andra det budskap som ger liv, då lyser ni som himlens stjärnor bland världens människor, som lever i ondska och andligt mörker. Och när Kristus kommer tillbaka, kan jag då med stolthet visa att mitt arbete och mitt slit bland er inte har varit bortkastat.
+50002016	
+52001005	När vi kom till er med det glada budskapet om Jesus tog ni ju emot det. Vi kom till er inte bara med ord, utan Guds heliga Ande gav oss kraft att göra under, så att ni såg att vi verkligen trodde på budskapet själva. Ni vet ju vad vi gjorde bland er för att hjälpa er. Och allt detta övertygade er, så att ni tog emot budskapet om Jesus med den glädje som Guds heliga Ande ger, trots de förföljelser ni blev utsatta för. Ni följde vårt exempel, och därmed också Herren Jesus exempel, genom att ni var villiga att lida.
+52001006	
+52002011	Ni vet också att vi förmanade och uppmuntrade var och en av er personligen, som en far som talar till sina barn. Vi vädjade till er att leva på ett sådant sätt att era liv ärar Gud, han som har inbjudit er att få tillhöra hans folk och dela hans härlighet.
+52002012	
+52005020	Ignorera inga budskap som framförs, utan pröva om de kommer från Gud eller ej. Ta sedan emot det som är gott och äkta,
+52005021	
+53001005	Men Gud kommer att använda dessa lidanden för att visa sin rättvisa dom. De som plågar er ska få sitt straff, medan ni som lider på grund av er tro ska få tillhöra Guds eget folk för evigt.
+53001006	
+54003014	Jag hoppas att snart kunna resa till dig, Timotheos, men om jag dröjer, har jag nu gett dig några riktlinjer för hur allt ska vara ordnat i Guds hushåll, församlingen, som tillhör den Gud som lever. Församlingen är ju den pelare och stadiga grund som bär upp sanningen om Jesus.
+54003015	
+56003004	Det var inte för att vi handlade rätt och följde hans vilja som han räddade oss, utan därför att han hade medlidande med oss. Genom sin heliga Andes kraft lät han oss födas en gång till, han tvättade bort våra synder och gav oss en ny start i livet.
+56003005	
+57001008	Tack vare vår långa vänskap, vill jag nu vädja till dig om en sak, jag Paulus, en gammal man som nu också är en fånge för Jesus Kristus skull. Jag skulle kunna kräva det av dig, i kraft av mitt uppdrag från Kristus, men det vill jag inte.
+57001009	
+58005012	Ni har varit troende ganska länge nu och borde kunna undervisa andra, men istället behöver ni än en gång bli undervisade om de grundläggande sanningarna i Guds budskap. Ni är som nyfödda barn, som bara kan dricka mjölk och inte klarar fast föda. Den som fortfarande lever på mjölk kan ju inte förstå en undervisning om att följa Guds vilja.
+58005013	
+58006004	De människor som har övergett sin tro på Jesus Kristus, kan man inte få att vända tillbaka igen. Nej, om de en gång har tagit emot det sanna budskapet och fått del av Guds gåva och hans Ande; om de har fattat hur gott Guds budskap är och upplevt den kommande världens krafter, men ändå överger Kristus, då kan man inte få dem att vända tillbaka. Genom sitt handlande spikar de ju fast Guds Son på korset igen och förlöjligar honom.
+58006005	
+58006006	
+58007020	Dessutom har Gud svurit en ed på att Jesus för alltid ska vara vår präst. Något sådant har han aldrig gjort med de andra prästerna. Det är bara Jesus som har fått höra Gud säga: "Herren har svurit en ed som han inte ska bryta: 'Du är präst för evigt.' "
+58007021	
+58009016	Ett förbund fungerar nämligen som ett testamenteGrekiskan har samma ord för förbund och testamente.. Ingen får ärva något förrän det är bevisat att personen som skrev testamentet är död. Då först träder det i kraft.
+58009017	
+58013015	Låt oss därför ständigt hylla Gud för det som Jesus har gjort för oss. Låt oss tacka Gud och öppet bekänna vår tro på Jesus. Glöm inte heller att göra gott mot andra och dela med er av det ni har, för allt detta gläder Gud och är de enda offer han vill ha av oss.
+58013016	
+58013020	Själv ber jag att Gud, han som ger frid, på allt sätt ska stötta och hjälpa er så att ni alltid kan göra hans vilja. Ja, jag ber att han genom kraften från Jesus Kristus ska hjälpa er att alltid göra det som gläder honom. Gud uppväckte vår Herre Jesus från de döda, sedan Jesus hade offrat sitt blod och instiftat ett evigt förbund mellan Gud och människor, och genom detta blev Jesus Kristus den store herden för alla sina får. Hans är äran i all evighet. Ja, det är sant!
+58013021	
+58013024	Hälsa alla era ledare och alla de troende. De troende som är från Italien hälsar till er.
+58013025	
+59001010	Men den troende som är rik och har inflytande här i världen, ska vara stolt över att Gud har visat honom hur lite detta är värt. Den rike vissnar ju bort som en blomma på ängen. När solen går upp bränner den gräset, och blommorna vissnar och förlorar sin skönhet. På samma sätt ska den rike dö mitt i all sin strävan.
+59001011	
+59003011	Samma källa kan väl inte ge både sötvatten och saltvatten? Det är ju lika omöjligt som att oliver skulle växa på fikonträd eller fikon på vinrankor.
+59003012	
+59005019	Kära syskon, om någon av er har kommit bort från det sanna budskapet om Jesus, så försök att hjälpa den personen tillbaka igen. Ni ska veta att den som lyckas föra någon tillbaka till Jesus, han räddar den personen från en evig död, och gör så att alla hans synder blir förlåtna.
+59005020	
+60002002	"Ni har ju fått smaka Herrens godhet." Var därför som nyfödda barn, och längta efter att få suga i er mer av den andliga mjölken. Ja, sug i er av Guds budskap, så ska ni växa upp och förstå mer av den räddning han har gett er.
+60002003	
+60002013	Eftersom ni tillhör Herren Jesus, ska ni underordna er den regering och de myndigheter som finns i landet. Regeringen har ju utsett ordningsmakten till att straffa dem som gör det onda och belöna dem som gör det goda.
+60002014	
+61001017	Vi var med honom uppe på det heliga berget och fick se hur han strålade av den härlighet han fick från Gud, sin Far. Vi hörde själva hur Gud talade från himlen och ärade honom och sa: "Detta är min älskade Son, han är min glädje."
+61001018	
+61002007	Men han räddade en person som bodde i Sodom, och det var Lot. Lot levde nämligen efter Guds vilja, och han plågades svårt av att dag efter dag tvingas se och höra talas om dessa onda människors vilda och omoraliska liv.
+61002008	
+61003015	Att vår Herre inte kommer tillbaka genast, det ska ni se som något positivt, eftersom det betyder att fler kan bli räddade. Det har ju också vår käre bror Paulus skrivit till er om, med den vishet han har fått ifrån Gud. Ja, varje gång han skriver i något av sina brev om att Herren Jesus ska komma tillbaka, nämner han just detta. En del av Paulus undervisning är svår att förstå, och det finns okunniga människor med en osäker tro som förvränger det han skriver, precis som de förvränger det andra som står i Skriften. Men genom detta ska de gå evigt förlorade.
+61003016	
+65001003	Kära vänner, jag har länge tänkt skriva till er om hur Gud räddade oss alla, men nu känner jag att mitt brev istället måste handla om något annat. Jag har nämligen hört att några onda människor har trängt sig in bland er för att sprida falska läror. Därför måste jag nu uppmana er att stå emot dessa falska läror och hålla fast vid den tro på Jesus som Gud en gång för alla har gett till oss som tillhör honom. De här människorna påstår att eftersom Gud i sin godhet har förlåtit oss, kan vi leva ett vilt och omoraliskt liv, och de förnekar vår enda härskare och Herre, Jesus Kristus. Men Gud har för länge sedan bestämt att människor som de ska drabbas av hans dom.
+65001004	
+65001024	Hylla Gud, för han är den som kan bevara er så att ni håller fast vid er tro. Han kan hjälpa er så att ni en dag kan stå jublande och utan skuld inför honom i hans härlighet. Han, som ensam är Gud, räddade oss genom det som vår Herre Jesus Kristus gjorde. Ja, hylla Gud, för han är mäktig och stark och regerar överallt, från tidernas början, nu och i all evighet. Ja, det är sant!
+65001025	
+66007004	Och jag fick höra hur många som hade blivit märkta med Guds sigill. Det var 144 000, och de kom från alla Israels stammar: 12 000 från Judas stam var märkta med sigill, 12 000 från Rubens stam, 12 000 från Gads stam, 12 000 från Ashers stam, 12 000 från Naftalis stam, 12 000 från Manasses stam, 12 000 från Simons stam, 12 000 från Levis stam, 12 000 från Isaskars stam, 12 000 från Sebulons stam, 12 000 från Josefs stam och 12 000 från Benjamins stam.
+66007005	
+66007006	
+66007007	
+66007008	
+66008003	Och en annan ängel kom och ställde sig vid altaret med en rökelseskål av guld, och han fick mycket rökelse. Den skulle han offra på altaret av guld framför tronen, tillsammans med de böner och den tillbedjan som sänts upp från de människor som tillhör Gud. Och lukten av rökelsen, som offrades tillsammans med dessa människors böner och tillbedjan, steg upp till Gud från skålen i ängelns hand.
+66008004	
+66008008	Sedan blåste den andra ängeln i sin trumpet, och då kastades något som såg ut som ett stort brinnande berg ner i havet. Berget förvandlade en tredjedel av havet till blod, och det dödade allt levande och förstörde alla fartyg på den delen av havet.
+66008009	
+66015005	Sedan såg jag i min syn hur templet i himlen, det verkliga förbundstecknets tält, öppnades. Och därifrån, inifrån det allra heligaste, kom de sju änglar som var utsedda att sända de sju plågorna. De var klädda i skinande vitt linne och hade guldbälten över bröstet.
+66015006	
