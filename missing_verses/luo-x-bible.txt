@@ -1,47 +1,47 @@
-40024011	? #nicht vorhanden
-40026011	? #nicht vorhanden
-41001011	? #nicht vorhanden
-41002005	? #nicht vorhanden
-41002011	# mit Verse 41002010 zusammen übersetzt.
-41003011	# mit Verse 41003010 zusammen übersetzt.
-41012011	# mit Verse 41012010 zusammen übersetzt.
+40024011	# vielleicht mit letzter Verse zusammen übersetzt, in Bibel ist diese Verse nicht vorhanden.
+40026011	# vielleicht mit letzter Verse zusammen übersetzt.
+41001011	# vielleicht mit letzter Verse zusammen übersetzt.
+41002005	# vielleicht mit letzter Verse zusammen übersetzt.
+41002011	# im Korpus mit letzter Verse 41002010 zusammen übersetzt, aber auf http://docplayer.net/44927416-Mark-luo-english-page-1-new-international-version.html wurde getrennt übersetzt. In dieser Sprache wurden die elfte Verse in manchen Kapiteln häufig mit der zehnte zusammen übersetzt. 
+41003011	# gleicher Fall wie oben.
+41012011	# gleicher Fall wie oben.
 41013002	Yesu nodwoko ni, "Ineno ute madongo malichgi? Onge kidi kata achiel mabiro dong' ewi wadgi; gibiro redhore piny tee".
-41013011	# mit Verse 41013010 zusammen übersetzt.
-41015011	# mit Verse 41015010 zusammen übersetzt.
-41016011	# mit Verse 41016010 zusammen übersetzt.
-42002011	# mit Verse 42002010 zusammen übersetzt.
+41013011	# gleicher Fall wie oben.
+41015011	# gleicher Fall wie oben.
+41016011	# gleicher Fall wie oben.
+42002011	# vielleicht mit letzter Verse zusammen übersetzt, in Bibel ist diese Verse nicht vorhanden.
 42003037	wuod Methusela, wuod Enoka, wuod Jared, wuod Mahalalel, wuod Kenan,
-42014011	# mit Verse 42014010 zusammen übersetzt.
-42020011	# mit Verse 42020010 zusammen übersetzt.
-42021011
-42022011
-42024011
-43004022
-43005011
-43006011
-43009011
-43011011
-43020011
-44002011
-44007029
-44018011
-44020011
-44025005
-45002011
-45008022
-45012011
-45016011
-45016020
-46005005
-46007022
-46015005
-47003011
-47009011
-49006011
-50003009
-54001011
-54006005
-55004011
-56002005
-58004012
-61002005
+42014011	# vielleicht mit letzter Verse zusammen übersetzt.
+42020011	# vielleicht mit letzter Verse zusammen übersetzt.
+42021011	# vielleicht mit letzter Verse zusammen übersetzt.
+42022011	# vielleicht mit letzter Verse zusammen übersetzt.
+42024011	# vielleicht mit letzter Verse zusammen übersetzt.
+43004022	# vielleicht mit letzter Verse zusammen übersetzt.
+43005011	# vielleicht mit letzter Verse zusammen übersetzt.
+43006011	Eka Yesu nokawo makatigo mi nogwedhogi, kaeto opogone joma nobedo piny, kaka moro ka moro kuomgi ne dwaro. Kamano bende e kaka notimo gi redigo.
+43009011	# vielleicht mit letzter Verse zusammen übersetzt.
+43011011	# vielleicht mit letzter Verse zusammen übersetzt.
+43020011	# vielleicht mit letzter Verse zusammen übersetzt.
+44002011	# vielleicht mit letzter Verse zusammen übersetzt.
+44007029	# vielleicht mit letzter Verse zusammen übersetzt.
+44018011	# vielleicht mit letzter Verse zusammen übersetzt.
+44020011	# vielleicht mit letzter Verse zusammen übersetzt.
+44025005	# vielleicht mit letzter Verse zusammen übersetzt.
+45002011	# vielleicht mit letzter Verse zusammen übersetzt.
+45008022	# vielleicht mit letzter Verse zusammen übersetzt.
+45012011	# vielleicht mit letzter Verse zusammen übersetzt.
+45016011	# vielleicht mit letzter Verse zusammen übersetzt.
+45016020	# vielleicht mit letzter Verse zusammen übersetzt.
+46005005	# vielleicht mit letzter Verse zusammen übersetzt.
+46007022	# vielleicht mit letzter Verse zusammen übersetzt.
+46015005	# vielleicht mit letzter Verse zusammen übersetzt.
+47003011	# vielleicht mit letzter Verse zusammen übersetzt.
+47009011	# vielleicht mit letzter Verse zusammen übersetzt.
+49006011	# vielleicht mit letzter Verse zusammen übersetzt.
+50003009	# vielleicht mit letzter Verse zusammen übersetzt.
+54001011	# vielleicht mit letzter Verse zusammen übersetzt.
+54006005	# vielleicht mit letzter Verse zusammen übersetzt.
+55004011	# vielleicht mit letzter Verse zusammen übersetzt.
+56002005	# vielleicht mit letzter Verse zusammen übersetzt.
+58004012	# vielleicht mit letzter Verse zusammen übersetzt.
+61002005	# vielleicht mit letzter Verse zusammen übersetzt.
