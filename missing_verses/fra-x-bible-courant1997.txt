@@ -1,76 +1,78 @@
 40002007	Alors Hérode convoqua secrètement les savants et s’informa auprès d’eux du moment précis où l’étoile était apparue. 
 40002008	Puis il les envoya à Bethléem, en leur disant : « Allez chercher des renseignements précis sur l’enfant ; et quand vous l’aurez trouvé, faites-le-moi savoir, afin que j’aille, moi aussi, l’adorer. »
-40003004
-40003005
-40003006
-40004007
-40004017
-40005011
-40005012
-40021043
-41001004
-41001005
-41007008
-41012037
-41015042
-41015043
-42004020
-42004021
-42004022
-42004023
-42004024
-42004025
-42004026
-42004027
-42006026
-42020018
-42020044
-42023044
-42023045
-42023050
-42023051
-43004001
-43004002
-43004003
-43008001
-43008002
-43008003
-43008004
-43008005
-43012016
-43012039
-43012041
-44001021
-44001022
-44002032
-44002033
-44002034
-44002036
-44004012
-44004027
-44004028
-44004029
-44004030
-44004031
-44008034
-44008035
-44008036
-44008038
-44008039
-44008040
-44013034
-44013035
-44013036
-44013037
-44013038
-44013039
-44013040
-44015019
-44015020
-44015021
-44028028
-45003025
-45003026
+40003004	Le vêtement de Jean était fait de poils de chameau et il portait une ceinture de cuir autour de la taille ; il mangeait des sauterelles et du miel sauvage.
+40003005	Les habitants de Jérusalem, de toute la Judée et de toute la région voisine de la rivière, le Jourdain, allaient à lui.
+40003006	Ils confessaient publiquement leurs péchés et Jean les baptisait dans le Jourdain.
+40004007	Jésus lui répondit: "L'Écriture déclare aussi: Ne mets pas à l'épreuve le Seigneur ton Dieu.
+40004017	Dès ce moment, Jésus se mit à prêcher: Changez de comportement,disait-il, car le Royaume des cieux s’est approché!
+40005011	Heureux êtes-vous si les hommes vous insultent, vous persécutent et disent faussement toute sorte de mal contre vous parce que vous croyez en moi.
+40005012	Réjouissez-vous, soyez heureux, car une grande récompense vous attend dans les cieux. C’est ainsi, en effet, qu’on a persécuté les prophètes qui ont vécu avant vous. »
+40021043	« C’est pourquoi, ajouta Jésus, je vous le déclare : le Royaume de Dieu vous sera enlevé pour être confié à un peuple qui en produira les fruits.
+40021044	Celui qui tombera sur cette pierre s’y brisera ; et si la pierre tombe sur quelqu’un, elle le réduira en poussière. »
+41001004	Ainsi, Jean le Baptiste parut dans le désert ; il lançait cet appel : « Changez de comportement, faites-vous baptiser et Dieu pardonnera vos péchés. »
+41001005	Tous les habitants de la région de Judée et de la ville de Jérusalem allaient à lui ; ils confessaient publiquement leurs péchés et Jean les baptisait dans la rivière, le Jourdain.
+41007008	Vous laissez de côté les commandements de Dieu, dit Jésus, pour respecter les règles transmises par les hommes. »
+41012037	#Es wurde mit der vorderen Verse zusammen übersetzt, aber es fehlt ein Teil der Verse 41012037.
+41015042	Le soir était déjà là, quand arriva Joseph, qui était d’Arimathée. Joseph était un membre respecté du Conseil supérieur, et il espérait, lui aussi, la venue du Royaume de Dieu. C’était le jour de la préparation, c’est-à-dire la veille du sabbat. C’est pourquoi Joseph alla courageusement demander à Pilate le corps de Jésus.
+41015043	#nicht vorhanden
+42004020	Puis Jésus roula le livre, le rendit au serviteur et s’assit. Toutes les personnes présentes dans la synagogue fixaient les yeux sur lui.
+42004021	Alors il se mit à leur dire : « Ce passage de l’Écriture est réalisé, aujourd’hui, pour vous qui m’écoutez. »
+42004022	Tous exprimaient leur admiration à l’égard de Jésus et s’étonnaient des paroles merveilleuses qu’il prononçait. Ils disaient : « N’est-ce pas le fils de Joseph ? »
+42004023	Jésus leur déclara : « Vous allez certainement me citer ce proverbe : “Médecin, guéris-toi toi-même.” Vous me direz aussi : “Nous avons appris tout ce que tu as fait à Capernaüm, accomplis les mêmes choses ici, dans ta propre ville.” »
+42004024	Puis il ajouta : « Je vous le déclare, c’est la vérité : aucun prophète n’est bien reçu dans sa ville natale.
+42004025	De plus, je peux vous assurer qu’il y avait beaucoup de veuves en Israël à l’époque d’Élie, lorsque la pluie ne tomba pas durant trois ans et demi et qu’une grande famine sévit dans tout le pays.
+42004026	Pourtant Dieu n’envoya Élie chez aucune d’elles, mais seulement chez une veuve qui vivait à Sarepta, dans la région de Sidon.
+42004027	Il y avait aussi beaucoup de lépreux en Israël à l’époque du prophète Élisée ; pourtant aucun d’eux ne fut guéri, mais seulement Naaman le Syrien. »
+42006026	« Malheur à vous si tous les hommes disent du bien de vous, car c’est ainsi que leurs ancêtres agissaient avec les faux prophètes ! »
+42020018	Tout homme qui tombera sur cette pierre s’y brisera ; et si la pierre tombe sur quelqu’un, elle le réduira en poussière. »
+42020044	David l’appelle donc “Seigneur” : comment le Messie peut-il être aussi le descendant de David ? »
+42023044	Il était environ midi quand le soleil cessa de briller : l’obscurité se fit sur tout le pays et dura jusqu’à trois heures de l’après-midi. Le rideau suspendu dans le temple se déchira par le milieu.
+42023045	#nicht vorhanden
+42023050	Il y avait un homme appelé Joseph, qui était de la localité juive d’Arimathée. Cet homme était bon et juste, et espérait la venue du Royaume de Dieu. Il était membre du Conseil supérieur, mais n’avait pas approuvé ce que les autres conseillers avaient décidé et fait.
+42023051	#nicht vorhanden
+43004001	Les Pharisiens entendirent raconter que Jésus faisait et baptisait plus de disciples que Jean. — En réalité, Jésus lui-même ne baptisait personne, c'étaient ses disciples qui baptisaient. — Quand Jésus apprit ce que l'on racontait, il quitta la Judée et retourna en Galilée. 
+43004002	#nicht vorhanden
+43004003	#nicht vorhanden
+43008001	Mais Jésus se rendit au mont des Oliviers.
+43008002	Tôt le lendemain matin, il retourna dans le temple et tous les gens s’approchèrent de lui. Il s’assit et se mit à leur donner son enseignement.
+43008003	Les maîtres de la loi et les Pharisiens lui amenèrent alors une femme qu’on avait surprise en train de commettre un adultère. Ils la placèrent devant tout le monde
+43008004	et dirent à Jésus : « Maître, cette femme a été surprise au moment même où elle commettait un adultère.
+43008005	Moïse nous a ordonné dans la loi de tuer de telles femmes à coups de pierres. Et toi, qu’en dis-tu ? »
+43012016	Tout d'abord, ses disciples ne comprirent pas ces faits ; mais lorsque Jésus eut été élevé à la gloire, ils se rappelèrent que l'Écriture avait annoncé cela à son sujet et qu'on avait accompli pour lui ce qu'elle disait.
+43012039	Ésaïe a dit aussi pourquoi ces gens ne pouvaient pas croire :
+43012041	Ésaïe a dit cela parce qu’il avait vu la gloire de Jésus et qu’il parlait de lui.
+44001021	Il faut donc qu’un homme se joigne à nous pour témoigner de la résurrection du Seigneur Jésus. Cet homme doit être l’un de ceux qui nous ont accompagnés tout le temps que le Seigneur Jésus a parcouru le pays avec nous, à partir du moment où Jean l’a baptisé jusqu’au jour où il nous a été enlevé pour aller au ciel. »
+44001022	#nicht vorhanden
+44002032	Dieu a relevé de la mort ce Jésus dont je parle et nous en sommes tous témoins.
+44002033	Il a été élevé à la droite de Dieu y et il a reçu du Père le Saint-Esprit qui avait été promis ; il l'a répandu sur nous, et c'est ce que vous voyez et entendez maintenant.
+44002034	Car David n'est pas monté lui-même au ciel, mais il a dit : «Le Seigneur Dieu a dit à mon Seigneur : viens siéger à ma droite, 
+44002036	Tout le peuple d'Israël doit donc le savoir avec certitude : ce Jésus que vous avez cloué sur la croix, c'est lui que Dieu a fait Seigneur et Messie ! »
+44004012	Le salut ne s’obtient qu’en lui, car, nulle part dans le monde entier, Dieu n’a donné aux êtres humains quelqu’un d’autre par qui nous pourrions être sauvés. »
+44004027	Car il est bien vrai qu’Hérode et Ponce-Pilate se sont unis, dans cette ville, avec les représentants des nations étrangères et du peuple d’Israël contre ton saint serviteur Jésus, celui que tu as consacré.
+44004028	Ils ont ainsi réalisé tout ce que, avec puissance, tu avais voulu et décidé d’avance.
+44004029	Et maintenant, Seigneur, sois attentif à leurs menaces et donne à tes serviteurs d’annoncer ta parole avec une pleine assurance.
+44004030	Démontre ta puissance afin que des guérisons, des miracles et des prodiges s’accomplissent par le nom de ton saint serviteur Jésus. »
+44004031	Quand ils eurent fini de prier, l’endroit où ils étaient réunis trembla. Ils furent tous remplis du Saint-Esprit et se mirent à annoncer la parole de Dieu avec assurance.
+44008034	Le fonctionnaire demanda à Philippe : « Je t’en prie, dis-moi de qui le prophète parle-t-il ainsi ? Est-ce de lui-même ou de quelqu’un d’autre ? »
+44008035	Philippe prit alors la parole et, en partant de ce passage de l’Écriture, il lui annonça la Bonne Nouvelle de Jésus.
+44008036	Ils continuèrent leur chemin et arrivèrent à un endroit où il y avait de l’eau. Le fonctionnaire dit alors : « Voici de l’eau ; qu’est-ce qui empêche que je sois baptisé ? » [
+44008037	Philippe lui dit : « Si tu crois de tout ton cœur, tu peux être baptisé. » Et l’homme répondit : « Je crois que Jésus-Christ est le Fils de Dieu. » ]
+44008038	Puis il fit arrêter le char. Philippe descendit avec lui dans l’eau et il le baptisa.
+44008039	Quand ils furent sortis de l’eau, l’Esprit du Seigneur enleva Philippe. Le fonctionnaire ne le vit plus, mais il continua son chemin tout joyeux.
+44008040	Philippe se retrouva à Azot, puis il passa de ville en ville, en annonçant partout la Bonne Nouvelle, jusqu’au moment où il arriva à Césarée.
+44013034	
+44013035	
+44013036	David, lui, a servi en son temps le plan de Dieu ; puis il est mort, il a été enterré auprès de ses ancêtres et a connu la pourriture.
+44013037	Mais celui que Dieu a ramené à la vie n’a pas connu la pourriture.
+44013038	Frères, vous devez le savoir : c’est par Jésus que le pardon des péchés vous est annoncé ; c’est par lui que quiconque croit est libéré de tous les péchés dont la loi de Moïse ne pouvait vous délivrer.
+44013039	#nicht vorhanden
+44013040	Prenez garde, donc, qu’il ne vous arrive ce que les prophètes ont écrit :
+44015019	C’est pourquoi, ajouta Jacques, j’estime qu’on ne doit pas créer de difficultés à ceux, non juifs, qui se tournent vers Dieu.
+44015020	Mais écrivons-leur pour leur demander de ne pas manger de viandes impures provenant de sacrifices offerts aux idoles, de se garder de l’immoralité et de ne pas manger de la chair d’animaux étranglés ni de sang.
+44015021	Car, depuis les temps anciens, des hommes prêchent la loi de Moïse dans chaque ville et on la lit dans les synagogues à chaque sabbat. »
+44028028	Sachez-le donc, ajouta Paul, Dieu a envoyé le message du salut à ceux qui ne sont pas juifs : ils l’écouteront, eux ! » [
+45003025	Dieu l’a offert comme un sacrifice afin que, par sa mort, le Christ obtienne le pardon des péchés en faveur de ceux qui croient en lui. Dieu a montré ainsi qu’il est toujours juste : il l’était autrefois quand il a patienté et laissé impunis les péchés des hommes ; il l’est dans le temps présent, puisqu’il veut à la fois être juste et rendre justes tous ceux qui croient en Jésus.
+45003026	
 45008037
 45008038
 45008039
