@@ -12,9 +12,9 @@
 41001004	Ainsi, Jean le Baptiste parut dans le désert ; il lançait cet appel : « Changez de comportement, faites-vous baptiser et Dieu pardonnera vos péchés. »
 41001005	Tous les habitants de la région de Judée et de la ville de Jérusalem allaient à lui ; ils confessaient publiquement leurs péchés et Jean les baptisait dans la rivière, le Jourdain.
 41007008	Vous laissez de côté les commandements de Dieu, dit Jésus, pour respecter les règles transmises par les hommes. »
-41012037	#Es wurde mit der vorderen Verse zusammen übersetzt, aber es fehlt ein Teil der Verse 41012037.
+41012037	David lui-même l’appelle “Seigneur” : comment le Messie peut-il alors être aussi descendant de David ? » La foule, nombreuse, écoutait Jésus avec plaisir.
 41015042	Le soir était déjà là, quand arriva Joseph, qui était d’Arimathée. Joseph était un membre respecté du Conseil supérieur, et il espérait, lui aussi, la venue du Royaume de Dieu. C’était le jour de la préparation, c’est-à-dire la veille du sabbat. C’est pourquoi Joseph alla courageusement demander à Pilate le corps de Jésus.
-41015043	#nicht vorhanden
+41015043	
 42004020	Puis Jésus roula le livre, le rendit au serviteur et s’assit. Toutes les personnes présentes dans la synagogue fixaient les yeux sur lui.
 42004021	Alors il se mit à leur dire : « Ce passage de l’Écriture est réalisé, aujourd’hui, pour vous qui m’écoutez. »
 42004022	Tous exprimaient leur admiration à l’égard de Jésus et s’étonnaient des paroles merveilleuses qu’il prononçait. Ils disaient : « N’est-ce pas le fils de Joseph ? »
@@ -27,12 +27,12 @@
 42020018	Tout homme qui tombera sur cette pierre s’y brisera ; et si la pierre tombe sur quelqu’un, elle le réduira en poussière. »
 42020044	David l’appelle donc “Seigneur” : comment le Messie peut-il être aussi le descendant de David ? »
 42023044	Il était environ midi quand le soleil cessa de briller : l’obscurité se fit sur tout le pays et dura jusqu’à trois heures de l’après-midi. Le rideau suspendu dans le temple se déchira par le milieu.
-42023045	#nicht vorhanden
+42023045	
 42023050	Il y avait un homme appelé Joseph, qui était de la localité juive d’Arimathée. Cet homme était bon et juste, et espérait la venue du Royaume de Dieu. Il était membre du Conseil supérieur, mais n’avait pas approuvé ce que les autres conseillers avaient décidé et fait.
-42023051	#nicht vorhanden
+42023051	
 43004001	Les Pharisiens entendirent raconter que Jésus faisait et baptisait plus de disciples que Jean. — En réalité, Jésus lui-même ne baptisait personne, c'étaient ses disciples qui baptisaient. — Quand Jésus apprit ce que l'on racontait, il quitta la Judée et retourna en Galilée. 
-43004002	#nicht vorhanden
-43004003	#nicht vorhanden
+43004002	
+43004003	
 43008001	Mais Jésus se rendit au mont des Oliviers.
 43008002	Tôt le lendemain matin, il retourna dans le temple et tous les gens s’approchèrent de lui. Il s’assit et se mit à leur donner son enseignement.
 43008003	Les maîtres de la loi et les Pharisiens lui amenèrent alors une femme qu’on avait surprise en train de commettre un adultère. Ils la placèrent devant tout le monde
@@ -42,7 +42,7 @@
 43012039	Ésaïe a dit aussi pourquoi ces gens ne pouvaient pas croire :
 43012041	Ésaïe a dit cela parce qu’il avait vu la gloire de Jésus et qu’il parlait de lui.
 44001021	Il faut donc qu’un homme se joigne à nous pour témoigner de la résurrection du Seigneur Jésus. Cet homme doit être l’un de ceux qui nous ont accompagnés tout le temps que le Seigneur Jésus a parcouru le pays avec nous, à partir du moment où Jean l’a baptisé jusqu’au jour où il nous a été enlevé pour aller au ciel. »
-44001022	#nicht vorhanden
+44001022	
 44002032	Dieu a relevé de la mort ce Jésus dont je parle et nous en sommes tous témoins.
 44002033	Il a été élevé à la droite de Dieu y et il a reçu du Père le Saint-Esprit qui avait été promis ; il l'a répandu sur nous, et c'est ce que vous voyez et entendez maintenant.
 44002034	Car David n'est pas monté lui-même au ciel, mais il a dit : «Le Seigneur Dieu a dit à mon Seigneur : viens siéger à ma droite, 
@@ -65,7 +65,7 @@
 44013036	David, lui, a servi en son temps le plan de Dieu ; puis il est mort, il a été enterré auprès de ses ancêtres et a connu la pourriture.
 44013037	Mais celui que Dieu a ramené à la vie n’a pas connu la pourriture.
 44013038	Frères, vous devez le savoir : c’est par Jésus que le pardon des péchés vous est annoncé ; c’est par lui que quiconque croit est libéré de tous les péchés dont la loi de Moïse ne pouvait vous délivrer.
-44013039	#nicht vorhanden
+44013039	
 44013040	Prenez garde, donc, qu’il ne vous arrive ce que les prophètes ont écrit :
 44015019	C’est pourquoi, ajouta Jacques, j’estime qu’on ne doit pas créer de difficultés à ceux, non juifs, qui se tournent vers Dieu.
 44015020	Mais écrivons-leur pour leur demander de ne pas manger de viandes impures provenant de sacrifices offerts aux idoles, de se garder de l’immoralité et de ne pas manger de la chair d’animaux étranglés ni de sang.
