@@ -1,10 +1,10 @@
-40019022
-44005031
-44007004
-44007032
-45011004
-45015031
-49001007
-49005001
-49006001
-64001001
+40019022	# Im Korpus wurde als 40019021 gekennzeichnet, eigentlich fehlt 40019021	yeshu avanodu: sallgunnapoonnrn aakuvan ichchikyunu ekkill nii chenu ninakyullatu vittu daridrkyru koduky; ennall sggrttill ninakyu nikshepam undakum; pinne vanu enne anugamiky enu parranju (http://hindibible.org/Malayalam-Transliteration/40-Mattayi/Mattayi-19.html)
+44005031	# gleicher Fall wie oben, eigentlich fehlt 44005030	ningall marattill tookyikyonnyeshuvine nammude pitakynmarude daivam uyipprichau;
+44007004	# gleicher Fall wie oben, eigentlich fehlt 44007003	ninte deshatteyum ninte chachaarkyareyum vidtu njan ninakyu kannichau tarunndeshattilekyu chellukenu parranju. angane avan kaldayarude desham vidtu haranill vanu pattru
+44007032	# gleicher Fall wie oben, eigentlich fehlt 44007031	moshe adasharnam kandu ayarrppedtu, sookshichau nokyu van aduttu chelluboll:
+45011004	# gleicher Fall wie oben, eigentlich fehlt 45011003	avan yisrayelinnu virodhamayi: "kattrave, avar ninte prvachakanmare konnu ninte yagapiitthangalle idichau kallanju; njan oruttn matrm shekshichairikyunnu; avar enikyum jiivahani varuttuvan nokyunnu"
+45015031	# gleicher Fall wie oben, eigentlich fehlt 45015030	ennall sahodaranmare, yehoodayyile avishasi kallude kayaill ninnu enne rakshikyendatinnum yerooshale milekyu njan kondu pokunnsahayam vishuddhnmakyru prsadamayittiirendatinnum
+49001007	avanill namukyu avante rtattall atikrmangallude mochanamennviindeduppu undu.
+49005001	aakayall priyamakyll ennpole daivatte anukari ppin.
+49006001	makylle, ningallude ammyappnmare kattravill anusarippi n; atu nayayamalela.
+64001001	# Im Korpus wurde als #64001000 gekennzeichnet.

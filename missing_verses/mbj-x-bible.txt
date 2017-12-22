@@ -1,127 +1,151 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40010030
-40010031
-40024015
-40024016
-40027057
-40027058
-41006049
-41006050
-41007012
-41007013
-41007015
-41007025
-41007026
-41009012
-41009013
-41013018
-41013019
-41016017
-41016018
-42001039
-42001040
-42001069
-42001070
-42003001
-42003002
-42023050
-42023051
-43004007
-43004008
-43010014
-43010015
-43012010
-43012011
-43014016
-43014017
-44001001
-44001002
-44001015
-44001016
-44001021
-44001022
-44001024
-44001025
-44002026
-44002027
-44010034
-44010035
-44013032
-44013033
-44013034
-44015017
-44015018
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44017002
-44017003
-44023023
-44023024
-44024018
-44024019
-45001001
-45001002
-45001003
-45001004
-45001005
-45001006
-45001007
-45001009
-45001010
-45009003
-45009004
-45009011
-45009012
-45009026
-45010006
-45010007
-45010020
-45010021
-45011009
-45012020
-45012021
-45014012
-45015001
-45015002
-45015003
-45015004
-45015005
-45015006
-45015010
-45015011
-45015012
-45015022
-45015023
-45015024
-45015025
-45015026
-45015027
-45015028
-45015029
-46005012
-46005013
-47001013
-47001014
-47008010
-47008011
+40001002	Abaraãm t'aah, Isak. Isak t'aah, Jakóh. Jakóh taah, Judah, ta hỹỹj daheeh.
+40001003	Judah t'aah, Peres. Peres taah, Eserõm Serah daheeh. Tamar mä sa ỹỹn makũ häd. Eserõm t'aah, Rãm.
+40001004	Rãm t'aah, Aminadab. Aminadab t'aah, Nasõm. Nasõm t'aah, Saramon.
+40001005	Saramon t'aah, Buwas. Buwas ỹỹn Rahab häd näng doo. Buwas t'aah, Obed. Obed ỹỹn mä Rut häd näng doo. Obed t'aah, Jesé.
+40001006	Jesé t'aah kä, Dawi, ër wahë makũ sa wahë n'aa paah. Dawi t'aah, Saromãw. Saromãw ỹỹn Urija häd näng do ỹỹm paah.
+40001007	Saromãw t'aah, Reoboãm. Reboãm t'aah, Abijah. Abijah t'aah, Asah.
+40001008	Asah t'aah, Josapa. Josapa t'aah, Jorãw. Jorãw panaa seeh, Usijah.
+40001009	Usijah t'aah, Jotãw. Jotãw t'aah, Akas. Akas t'aah, Esekijah.
+40001010	Esekijah t'aah, Manaséh. Manaséh t'aah, Amom. Amom t'aah, Josijah.
+40001011	Josijah panaa kä, Jekonija, ta hỹỹj daheeh. Babirõn buuj, Judah buuj majĩĩ, sa häj n'aa hẽnh Judah buuj ramahũũm noo gó Jekonija rababok.
+40001012	Babirõn häj n'aa bä rabaj'eenh do jawén paa bä henäk do hahỹ Jesus wahë makũ sa häd: Jekonija t'aah, Saratijéw. Saratijéw t'aah, Sorobab.
+40001013	Sorobab t'aah, Abijuh. Abijuh t'aah, Erijakĩm. Erijakĩm t'aah, Asor.
+40001014	Asor t'aah, Sadok. Sadok t'aah, Akĩh. Akĩh t'aah, Erijud.
+40001015	Erijud t'aah, Erejasa. Erejasa t'aah, Matãn. Matãn t'aah, Jakóh.
+40001016	Jakóh t'aah, Joséh kä. Marija häd näng do patug ti Joséh. Marija t'aah kä, Jesus, ramaneëënh do Kristo, P'op Hagä Do H'yyb Däng Doo.
+40010030	Ti hyb n'aa bë eỹỹm manäh. Hajõng taw'ëëd takamahǟn do bahǟnh bë P'op Hagä Do kamahǟn. Sahõnh hẽ ji sëën sii hẽ P'op Hagä Do betsén. Baad ji tabahag'ããs ỹ hanäng péh —näng mäh.
+40010031	
+40024015	Ti hyb n'aa, nanäng tak'ëp nasaa doo, P'op Hagä Do tób n'aa rejãã doo, P'op Hagä Do tób n'aa rahyb n'aa eréd hõm hanoo doo, tsyt hẽ P'op Hagä Do wë kasëëw däk doo bä tahëë däg bä bë hapëë bä, ta ky n'aa P'op Hagä Do ky n'aa rod Daniéw häd näng do erii wät do paa bë hapëë bä, taw'ããts hẽ Judah häj n'aa bä haj'eenh do rakejën hõm da waëë banäng hẽnh. (Bë hyb n'aa matakä Daniéw erii wät do hã.)
+40024016	
+40027057	Tũũh däg bä m' papỹỹj, aj'yy tak'ëp ma näng do bahõm Pirato wë. Joséh mä ta häd. Arimatsija hẽnh naa m' tii. Jesus ma matëg see hado däk mäh. Ti m' tabahõm Pirato wë. Tetsẽẽ mä Jesus kamag n'aa tabado hyng hyb n'aa. Ti m' Pirato mejũũ rahaëëj däk ta hã tadakä jëng hyb n'aa.
+40027058	
+41006049	rabahapäh tamii pong jó hana doo. Tak'ëp mä rabeỹỹm bong. Awaaw bong mäh. Dajëp do saw'ëëng paa red'oo mäh. Ti m' nayyw hẽ m' Jesus ber'oot sa sii: —Bë eỹỹm manäh! Ỹ ti hỹỹh —näng mäh.
+41006050	
+41007012	tii bä, ta tii d' ky hadoo doo, dooh ji mejõ wäd bä ta ỹỹn, ta yb tamasa”, näk bë kyyh. Hajõng nä tii d' bë bad'oo doo —näng Jesus. —Bë wahë makũ ma metëëk do bë ky sũũt do hyb n'aa bë eréd hõm P'op Hagä Do mejũũ doo —näng mä Jesus Pariséw, Mosees ky n'aa jaw'yyk do ma mehetëk do sa hã.
+41007013	
+41007015	i noo me hajëng pé hyb n'aa nado ji nas'aa däk P'op Hagä Do hã. T'õp ji h'yyb gó naa hanyyh do ti hanoo ji nas'aa däk do P'op Hagä Do hã —näng mäh. 
+# im korpus fehlt noch 41007016, die mit 41007015 zusammen übersetzt wurde.
+41007025	Ti m' ỹỹnh, Gereg buuj, Siro-Penisija bä m' henäng doo, ky n'aa napäh Jesus. Judah buuj nadoo do m' tii. Ỹỹnh toog hã mera do badäk. Ti m' tabana Jesus wë. Ti m' ta taron nu paa me tabahyy häng Jesus wë. Ti m' tak'ëp mä tabetsẽẽ Jesus bahabëë hõm hyb n'aa karap'aar h'yyb nesaa do ta toog hã hadäk doo.
+41007026	
+41009012	Ti m' Jesus ky hadoo: —Se hub né hẽ. Eriij matëëh né da sahõnh hẽ tabenäm hyb n'aa —näng mäh. —Ti hadoo né hẽ, bë ỹ maher'oot hahỹỹh: Eriij ewäd hyng né hẽ. Tii bä rah'yy kajäk doo da né hẽ rabad'oo paa ta hã. Tii d' né hẽ takerii däk ta ky n'aa P'op Hagä Do kyy kerih do hã9.12-13 Eriij tahanäng doo, Jowãw nu gahem'uun do né hẽ tii. —näng mäh. Ti m' taky hadoo ẽnh: —Ỹỹh, Aj'yy Hadoo Do Hỹ Pong Jé Hana Do ky n'aa ẽnh? Nyy da këh ỹ n'aa kerih do P'op Hagä Do kyyh? Ỹ na-ããj da hajõng ỹ ahoop da. Ỹ rahyb n'aa wareem da na-ããj hẽ —näng mä Jesus kyyh.
+41009013	
+41013018	Ti m' taky hadoo ẽnh: —Tak'ëp né da ji bahoop ti noo gó. Badäk hahỹ P'op Hagä Do pahuuj wät noo gó naa, dooh nä paa ti hadoo pé tak'ëp rabahoop. Ti jawén kä dooh ti tahado wäd bä kä. Ti hyb n'aa da, bë ky n'aa ets'ẽẽ P'op Hagä Do hã, bë kejën hõm do tabahahëëm noo gó, tak'ëp naëng badoos noo gó, tanahadoo hyb n'aa —näng mäh.
+41013019	
+41016017	Ti m' taky hadoo ẽnh: —Panyyg këh ỹ n'aa ky dah'eeh do hã P'op Hagä Do anoo da hahỹ tak'ëp rahajaa doo: Karap'aar h'yyb nesaa do rahebë da hät ỹỹ gó. Ta wób kyyh rer'oot da. Aw'yy rameso bä da, p'yym reëg bä da, dooh da ramahỹỹj hob bä. Sa moo radatoonh da nahëë enäh do nu gad'oo bä, heso padëëk da nahëë enäh doo. Ta heen n'aa ti ta tii, te hub né hẽ këh ỹ n'aa ta wób rabahapäh hyb n'aa —näng mä Jesus kyyh sa hã.
+41016018	
+42001039	Ti m' nayyw hẽ denaa hẽ Marija bahõm kän mä panang hẽnh, Isabew hagä hẽnh, waëë habëë hẽnh, Judah häj n'aa bä. Ta tsym n'aa kaw'aat mä tabahõm. Ti m' tób gó m' tabajëë suun. Isabew mä tedëng.
+42001040	
+42001069	P'ooj ub, ta ky n'aa rod tsyt hẽ ta wë kasëëw bong do hã taky n'aa enooh doo,
+tii da P'op Hagä Do bad'oo hỹỹ kä.
+Tamejõ kän hỹỹ kä ër mahang tak'ëp ta hejój me ër hed'ëëp doo,
+ta karom Dawi makũ panaa hã.
+42001070	
+42003001	Ti m' 15 ta baab tabahado däk bä m' Tiberijo häd näng do Roma bä tabag'ããs noo gó, tabanawäng hẽnh P'op Hagä Do ban'oo kän mä ta panyyg Jowãw hã, ta wób tamaher'oot hyb n'aa. Sakarija m' Jowãw yb. Ti noo gó, Judah häj n'aa bä Pon-Sijo Pirato häd näng do sa wahë n'aa. Garirej häj n'aa bä, Eróts häd näng do sa wahë n'aa. Eróts hỹỹj mä Pirip häd näng doo, Itureej, Tarakonit häd enäh do häj n'aa bä m' sa wahë n'aa. Risããn häd näng doo, Abirẽn häj n'aa bä sa wahë n'aa.3.1-2 Roma buuj had'yyt nado Tiberijo bag'ããs. Hajõng ta wób sa häj n'aa na-ããj hẽ tabag'ããs. Pon-Sijo Pirato, Eróts, Pirip, Risããn na-ããj hẽ Tiberijo karom tii, Tiberijo kyy gó ta wób sa häj n'aa bä rabag'ããs doo. Anas, Kajapas häd enäh doo, P'op Hagä Do tób n'aa yt hã moo heb'ooh do sa wahë n'aa heh'äät do ti noo gó.
+42003002	
+42023050	Ti awät mä aj'yy ky enyym doo, P'op Hagä Do karẽn doo da hawät doo, Judah häj n'aa, panang Arimatsija häd näng doo bä naa. Joséh mä ta häd. Tagada né hẽ m' P'op Hagä Do bag'ããs do du däk. Judah buuj sa wahë n'aa see né paawä m' tii, dooh m' ta h'yyb hedo bä sa sii, Jesus hã rabad'oo do hã.
+42023051	
+43004007	Ti nuuj jé ta ma matëg rabahõm panang hẽnh, sa waa rabetsẽẽ hyb n'aa. Ti m' naëng majat bä ỹỹnh, Samarija buuj, kajaa mä naëng tabagóp hyb n'aa. Ti m' Jesus ky hadoo ta hã:
+—Na ỹ eëg naëng uuh —näng mäh.
+43004008	
+43010014	Ỹ ti hỹỹh, b'éé hagã n'aa heh'äät hadoo. Ee, P'op Hagä Doo, ỹ tamepäh, ỹ na-ããj hẽ ỹ mepäh Ee, P'op Hagä Doo. Ti hadoo né hẽ baad ỹ mepäh masãh haa. Masãh haa na-ããj né hẽ, baad né hẽ ỹ ramepäh. Daj ỹỹ hẽ ỹ kan'oo däk, ỹ dajëp hyb n'aa masãh haa sa hyb n'aa.
+43010015	
+43012010	Rasaro hyb n'aa hajõk Judah buuj rahyb n'aa eréd hõm sa wahë n'aa. Jesus hã m' rah'yy kae padäg kän. Ti hyb n'aa P'op Hagä Do tób n'aa yt hã moo heb'ooh do sa wahë n'aa Rasaro sii hẽ rakarẽn radaj'ëëp.
+43012011	
+43014016	—Ee hã ỹ etsẽẽ da, tii bä da bë hã taban'oo kän bë masa n'aa seeh, bë sii tabawäd had'yyt hyb n'aa. P'op Hagä Do Sahee, baad hadoo do ky n'aa metëëh do né tii. Badäk hahỹỹ hã habong do P'op Hagä Do hã h'yy kana'eeh do dooh rahaja bä ragado bä ta Sahee, ranahapäh do hyb n'aa, ramaa nanapäh do hyb n'aa na-ããj hẽ. Bë ti bë mepäh, bë sii tabawät do hyb n'aa, ta jawén kä bë h'yyb gó tabajëë suun kän.
+43014017	
+44001001	Teopiro, õm ti ỹ ma erih. Pooj jé ỹ erii wät doo gó, ỹ erii wät sahõnh hẽ Jesus mo haj'aa paah, tama metëëk do paa na-ããj hẽ, hỹ pong jé Jesus bas'ëëg kän P'op Hagä Do an'oo bä. Hỹ pong jé tabasëëk do pooj jé, P'op Hagä Do Sahee kyy gó, tamejũũ do sa hã, tasëëw hõm do sa hã, Jesus maher'ood hõm nyy d' rabad'oo da. Sahõnh hẽ ti ỹ erii wät, pooj jé ỹ erih do hã.
+44001002	
+44001015	Ti m', ta see pé noo gó Jesus hã h'yy ka'eeh do rakataa séd hã. (120 hyb n'aa hadoo mä ti kata pad'ëëk doo.) Ti m' Peed bas'ëëg gëët sa mahang, ti m' taky hadoo sa hã:
+—Bë maa newë këh ỹỹ, wakãn haa —näng mäh. —P'ooj ub ër wahë makũ Dawi häd näng doo, P'op Hagä Do Sahee kyy gó taher'oot Judas Ikarijot makũ ky n'aa, P'op Hagä Do kyy kerih do paa gó. Dawi erih do paah, P'op Hagä Do kyy kerih doo gó, ti d' né paa Judas ky n'aa. Jesus maso däk do metëë n'aa ti Judas Ikarijot.
+44001016	
+44001021	Ti m' Peed ky hadoo:
+—Ti hyb n'aa, taw'ããts hẽ ër esoos hapäh do seeh, Jesus Jowãw nu gahem'uun do nu gemuun noo gó, Jesus hawät noo gó ãã mahang, tabasëëk jawén paa bä hapäh doo. Ti né hẽ da ãã ky hata. Ãã sii her'oot do pan'aa, Jesus ganä wät do tadajëp jawén paa bä ky n'aa —näng mä Peed kyyh sa hã.
+44001022	
+44001024	Ti m' hahỹỹ da Jesus hã h'yy ka'eeh do raky n'aa etsẽẽ:
+—Jesus, baad mah'yyb hapäh ãã sahõnh hẽ —näk mäh. —Mametä jaa ta ti masëëw däk do Judas jawén buuj, mamejũũ do see tabadoo hyb n'aa ta jawén buuj. Dooh Judas makũũ mamejũũ do see tado wäd bä. Ahõm nesaa do tamoo wät do säm tagadoo hẽnh —näk mä sa kyyh Jesus hã.
+44001025	
+44002026	Ti hyb n'aa ỹ h'yy gadajang,
+ti hyb n'aa ỹ ma ejäm ỹ tsebé do hyb n'aa.
+Dooh kamak ỹ n'aa meréd bä ỹ radakä jëng doo hẽnh.
+Dooh man'oo bä a karom tsyt hẽ a wë moo wät do ta kamag n'aa karejã bä.
+Ti hyb n'aa, dooh ỹ eỹỹm bä ỹ dajëb né paawä.
+44002027	
+44010034	Ti m' Peed du do kän taher'oot do sa hã:
+—Baad ỹ bahapäh hỹỹ kä, sahõnh hẽ badäk hahỹ haw'ããts hẽ häj n'aa babuuj ta hã h'yy ka'eeh doo, baad hadoo do moo b'ook do P'op Hagä Do gadoo. Séd hã ji P'op Hagä Do gadoo —näng mä Peed.
+44010035	
+44013032	Hahỹ panyyg hanäm do ãã her'oot bë hã. P'op Hagä Do ky n'aa enooh do ër wahë makũũ hã, ti né hẽ hỹỹ kä tan'oo däk ër sa panaa paa hã. Ti d' né hẽ tabad'oo Jesus ganä wät tan'oo bä kä. Hahỹ hadoo ta ky n'aa kerih do Saaw-Mo 2 hã:
+“Tah ỹ õm. A yb ỹ hado däk naga hẽ.”
+44013033	
+44013034	Ta pooj jé P'op Hagä Do her'ood däk ta t'aah ganä wät do ky n'aa, ta kamag karejã mahä̃nh. Hahỹỹ da takerii däk ta ti ky n'aa:
+“Õm ỹ ky n'aa edëng, baad had'op doo me,
+ky kaneh'ỹỹt doo me, Dawi hã ỹ ky n'aa enooh do paa me.”
+44015017	Tii da ỹ wén d'oo, Judah buuj wób,
+sahõnh hẽ Judah buuj nadoo do sii hẽ,
+karapé haa pan'aa hedoo doo,
+ỹ rabesoos hyb n'aa’, näng mä Tak'ëp Hyb N'aa Jawyk Doo,
+p'ooj ub taky däng do moo wät doo.”
+44015018	
+44015024	“Ãã heen n'aa enäh babä naa t'ĩĩ hẽnh heboo nä doo. Ãã heen n'aa enäh, ajyy raher'oot doo me baad nado wäd bë h'yyb ran'oo bä. Bë h'yyb manepëë boo ran'oo bä. Dooh ãã kyy gó tado bä ta ti rama metëëk doo.
+＃ 44015023 ist unvollständig, es fehlt am Ende noch	“Ããh, 12 hedoo do Jesus mejũũ doo, Jesus hã h'yy ka'eeh do sa wahë n'aa na-ããj hẽ, bë wakããn hedoo ããh. Bëëh, Judah buuj nadoo do Jesus hã h'yy ka'eeh do Ãn-Tijoka panang bä habong doo, Sirija häj n'aa bä, Siris häj n'aa bä habok do na-ããj hẽ ãã ma erih. Ãã edëng bëëh.
+44015025	Ti hyb n'aa baad ub babä ãã kaner'oot, bë wë ãã mejũũ hyb n'aa ãã wób, Paw-Ro Béh-Nabéh ër najiis bë mejũũ do sa sii rabahõm hyb n'aa.
+44015026	P'eets ub radejëëb paawä Jesus Kristo, Tak'ëp Hyb N'aa Jawyk Do ky n'aa rabaher'ood hõm do hyb n'aa, dooh Paw-Ro Béh-Nabéh rah'yyb eỹỹm bä, dooh rah'yy gejë hõm bä.
+44015027	Ãã mejũũ Judas Siras daheeh raky masa hyb n'aa ãã erih do hã.
+44015028	Baad ub né hẽ P'op Hagä Do Sahee metëëh ãã hã, ãã ganahëën hyb n'aa bë hã tak'ëp hejoonh doo. Ãã hã na-ããj hẽ baad ub P'op Hagä Do Sahee metëëh doo. Jããm hẽ bë tayy hahỹ ãã her'oot do bë hã:
+44015029	Taw'ããts hẽ bë nawëh P'op Hagä Do hã h'yy kana'eeh do sa kabarii raweh'ëëh do tä n'aa. Taw'ããts hẽ bë nawëh bë masããh dab, har'ëëng dab bë naboh bä ta majyyw gatsëë däk doo. Bë awëë manä ta majyyw. Bë aä̃ manä bë ỹỹm nadoo do sii, bë patug nadoo do sii. Ta ti bë ky dahé bä, taw'ããts hẽ. Jããm hẽ kä ãã erih doo.”
+44017002	Ti m', t'ĩĩ hẽnh Paw-Ro rabahõm Judah buuj rakamehehãk do hã, rabahed'oo doo da. Tamawoob hẽ Saab noo gó P'op Hagä Do kyy kerih do paa hã Paw-Ro metëëh sa hã, Kristo, P'op Hagä Do H'yyb Däng Do ky n'aa. Tamaher'oot mäh, tametëëh Kristo dajëp né hẽ, ganä wät né hẽ tadajëp jawén paa bä, ta ky n'aa kerih däk doo da né hẽ. Ti m' taky hadoo:
+—Jesus, ta ky n'aa ỹ her'oot do bë hã, ti né hẽ Kristo, P'op Hagä Do H'yyb Däng Doo —näng mäh.
+44017003	
+44023023	Ti m' warahén sa wahë n'aa heh'äät ub do naëënh pawóp hẽ warahén sa wahë n'aa. Ti m' taky hadoo sa hã:
+—Bë etyn hõm da 200 warahén tsyym me hah'ũũm péh, 70 kawaaro jó hah'ũũm do ta wób, 200 jook yt hã hah'ũũm doo, kawaaro Paw-Ro jahõm pé sii hẽ da, atsëm rabahõm hyb n'aa panang Sesareja häd näng doo hẽnh —näng mä ta kyyh.
+Ti m' tamejũũ baad ub ramahũũm hyb n'aa Paw-Ro, sa wahë n'aa Peris häd näng do wë.
+44023024	
+44024018	Ti né hẽ ỹ bad'oo P'op Hagä Do tób n'aa yt hã, sahõnh hẽ ỹ bahajaa jawén paa bä ãã ky n'aa jaw'yyk do mejũũ doo da ji h'yyb banyyw däk hyb n'aa P'op Hagä Do matym gó. Dooh hajõk do tado bä si ỹ habok doo. Dooh na-ããj hẽ ỹ kamajẽ bä ta wób sa wë. Daap ramenyyh hã ỹ raky n'aa tapaa doo. P'op Hagä Do tób n'aa yt hã né hẽ ỹ bag'ëëd däk Judah buuj wób Asija häj n'aa hẽnh naa ỹ rabahapäh bä. Taw'ããts hẽ né hẽ paawä ta ti né hẽ ajyy wawẽẽ hẽ rabana, hã ỹ raky n'aa tapaa hyb n'aa tanyy bä sa wë hã ỹ raky kes'ëëm péh. Ti né hẽ P'op Hagä Do tób n'aa yt hã ỹ raky n'aa tapaa do paah.
+44024019	
+45001001	Paw-Ro, Kristo Jesus karom ỹ ti hỹỹh. Hã ỹ P'op Hagä Do h'yyb däng, Jesus mejũũ do ỹ bahadoo hyb n'aa. Tsyt hẽ ỹ P'op Hagä Do asëëw däk, ta panyyg hanäm do panäg n'aa ỹ bahadoo hyb n'aa.
+45001002	Ta T'aah, Jesus Kristo, ër Wahë N'aa ky n'aa né hẽ ta ti panyyg hanäm doo. Jesus kajaa do pooj jé P'op Hagä Do ky n'aa rod rerih do hã P'op Hagä Do ky n'aa eno däk paa ta ti ta panyyg hanäm doo. Tak'ëp hanäm do ta kyy kerih do hã rerih paa ta tii. Ji da hadoo Jesus bahado däk noo gó, Dawi panaa né paa tii. P'op Hagä Do T'aah kabaj'aa do na-ããj hẽ Jesus, P'op Hagä Do Sahee, tak'ëp hanäm do metä wät. Dejëp do mahang Jesus ganä wät do hã tametä wät tii.
+45001003	
+45001004	
+45001005	Jesus hyb n'aa P'op Hagä Do ky enyym wë ỹỹ. Ta hyb n'aa, hã ỹ taban'oo däk na-ããj hẽ Jesus mejũũ do ỹ bahadoo hyb n'aa, Judah buuj nadoo do mahang ta ky n'aa ỹ maher'oot hyb n'aa, ta hã rah'yy ka'eeh do hyb n'aa Jesus raky daheeh hyb n'aa kä.
+45001006	Ti sa wób né hẽ bëëh, P'op Hagä Do naëëj wät doo, Jesus Kristo karapee rabahadoo hyb n'aa.
+45001007	Ỹ edëng bë sahõnh hẽ, panang Roma häd näng doo bä habong doo, P'op Hagä Do kamahä̃n doo, P'op Hagä Do naëëj wät doo, tsyt hẽ ta wë bë babok hyb n'aa. Ỹ karẽn P'op Hagä Do ër Yb, Jesus Kristo Tak'ëp Hyb N'aa Jawyk Do na-ããj hẽ ky en'yym bë hã. Ỹ karẽn baad ub Kristo bë rah'yyb en'yym.
+45001009	Bë ỹ ky n'aa ets'ẽẽ had'yyt hẽ. P'op Hagä Do hapäh ỹ ky n'aa etsẽẽ bëëh. Ta wë t'õp hëp ỹỹ gó naa ỹ moo wät, ta T'aah ky n'aa ỹ maher'ood hõm. Ta hã ỹ ky n'aa etsẽẽ, takarẽn bä tabanoo hyb n'aa ta tyw n'aa, bë ỹ bahehëën hyb n'aa.
+45001010	
+45009003	wakãn haa, Isaraéw buuj sa hyb n'aa. Tahaja bä paawä, ỹ gadoo paawä ỹ ky n'aa kawas'ee däk doo, ỹ gado paawä dawëë Kristo mahä̃nh ỹ bawäd hõm doo, wakãn haa, Isaraéw buuj sa hyb n'aa, ti raky n'aa kawanas'ee bong hyb n'aa paawä, Kristo karapee rabahado padëëk hyb n'aa paawä. P'op Hagä Do asëëw hõm do tii, ta taah rabahadoo hyb n'aa paawä. Sa hã né hẽ P'op Hagä Do metä wät ta bag tak'ëp gabarëëh doo, ta kabaj'aa doo. Sa wahë n'aa sii P'op Hagä Do kaner'ood wät paa nyy da tabad'oo sa hã. Sa hã paa taban'oo däk ta ky n'aa jaw'yyk doo. Sa hã P'op Hagä Do metëëh paa nyy da takarẽn ji hyb n'aa jaw'yyk ta hã. Sa hã né hẽ hajõng baad hadoo do P'op Hagä Do ky n'aa enooh paah.
+45009004	
+45009011	Sét hẽ né paawä sa yb, ta taah kawareeh henäk do pooj jé, dooh nä baad hadoo do ramoo boo nä bä, dooh nä baad nadoo do ramoo boo nä bä na-ããj hẽ, P'op Hagä Do ky hadoo Rebéka hã: “Wah'ëëh hadoo doo, ta jawén nä karom da”,9.11-12 Genesis 25.23 näng mäh. Tii d' tawén hadoo, P'op Hagä Do h'yyb däng do kaja däk hyb n'aa. P'op Hagä Do h'yyb däng do né hẽ ti tanaëënh doo. Dooh ramoo bok do hyb n'aa tado bä sa hã P'op Hagä Do h'yyb däng doo.
+45009012	
+45009026	# Im Korpus wurde mit 45009025 zusammen übersetzt, aber es gibt Auslassung. Auf https://www.bible.com/de/bible/452/ROM.9.mbjNT wurde getrennt übersetzt.
+45010006	Ta see hadoo Mosees kyyh seeh, ji h'yy ka'eeh do hyb n'aa baad P'op Hagä Do matym gó ji bahado däk do ky n'aa. Hahỹỹ da ta kyyh: “Hahỹỹ da medoo manäh, ‘Jaa hasëëk pé hỹ pong jé? Jaa hahyng pé t'õp dejëp do rababong bä?’ ” näng mäh. Hahỹỹ d' tahanäng pé Mosees kyyh: Dooh hyb n'aa pé Kristo bahyng ji an'oo bä.10.6-7 Dooh hyb n'aa pé Kristo bahyng ji an'oo bä, Kristo ewäd hyng do hyb n'aa. Dooh hyb n'aa pé dejëp do mahang Kristo ganyyh ji an'oo bä.
+45010007	
+45010020	# Im Korpus wurden 45010019-45010021 zusammen übersetzt, aber es gibt Auslassungen. Auf https://www.bible.com/de/bible/452/ROM.10.mbjNT sind diese drei Versen getrennt.
+45010021	# sieht oben
+45011009	# Im Korpus wurde mit 45011008 zusammen übersetzt, aber es gibt Auslassungen. Auf https://www.bible.com/de/bible/452/ROM.11.mbjNT wurde getrennt übersetzt
+45012020	# Im Korpus wurde mit 45012019 zusammen übersetzt, aber es gibt Auslassungen. Auf https://www.bible.com/de/bible/452/ROM.12.mbjNT sind getrennt.
+45012021	Bë an'oo manä nesaa do j'aa ketsë bë hã. Taw'ããts hẽ bë j'aa ketsë nesaa do hã baad hadoo doo me.
+45014012	Ti hyb n'aa kä, ër sahõnh hẽ, sét ken'yyh da P'op Hagä Do hã ër da kaner'oot ër babok do paa hã.
+45015001	Taw'ããts hẽ ëër, baad P'op Hagä Do hã h'yy kasadä doo, ër gadoo, ër masa ër da hadoo do baad nado nä P'op Hagä Do hã h'yy kasadä doo. Taw'ããts hẽ dooh ër karẽn do jawén ër abooh.
+45015002	aw'ããts hẽ ër sahõnh hẽ ër h'yyb en'yym ër wakããn hedoo doo, baad tabadoo hyb n'aa sa hã, baad P'op Hagä Do hã rah'yy kasadä hyb n'aa kä.
+45015003	Kristo na-ããj hẽ, dooh ta daaj hẽ tah'yyb en'yym do jawén nado paa tabawät. Ta wób tamasa hyb n'aa paa ti tabawät, hahỹ kerih do paa metëëh doo da né hẽ: “Jó ỹỹ tabadäng õm raky n'aa rejãã doo. Ỹ né hẽ gado däk, a hã tanadäng hyb n'aa”,15.3 Saaw-Mo 69.9 hã takerii däk ti P'op Hagä Do hã kaher'oot do paah. näng kerih do paah.
+45015004	Sahõnh hẽ P'op Hagä Do kyyh p'ooj ub kerii däk doo, takerii däk ër tama metëëk hyb n'aa, h'yy ganajëng doo me, ta kyy kerih doo gó hana do ji h'yyb näm doo me ër gada hyb n'aa baad hadoo do ër hã P'op Hagä Do ky n'aa enooh doo.
+45015005	P'op Hagä Do hã, ji h'yy ganajëng do hanoo doo, ji tah'yyb en'yym doo, ỹ ky n'aa etsẽẽ, séd bë h'yyb hedo had'yyt hẽ tan'oo bä, Kristo Jesus bawäd wät doo da bë babok hyb n'aa,
+45015006	sét hadoo doo me bë h'yyb, sét hadoo doo me bë kyyh, P'op Hagä Doo, ër Wahë N'aa Jesus Kristo Yb, bë j'aa etsë hyb n'aa kä.
+45015010	# Im Korpus wurden 45015009-45015012 zusammen übersetzt, aber es gibt Auslassungen.
+45015011	# sieht oben
+45015012	# sieht oben
+45015022	Raky n'aa nanapäh nä bä ỹ maher'ood hõm do hyb n'aa Kristo ky n'aa, dooh paa tahaja bä bë wë ỹ hegãã bä.
+45015023	Hỹỹ kä, ỹ haja däk do hyb n'aa babä Kristo ky n'aa ỹ maher'oot doo, hajõõ däk hyb n'aa na-ããj hẽ ta baab ỹ karẽn do bë wë ỹ baheg'ããs,
+45015024	ỹ karẽn paawä bë panang bä ỹ nu däng dó Es-Pãj häj n'aa bä ỹ mahõm me, bë ỹ bahehëën hyb n'aa. Bë ỹ bahehëën do jawén paa bä, banadawëd né paawä, ỹ karẽn paawä ỹ bë masa Es-Pãj hẽnh ỹ bahõm doo.
+45015025	Jerusarẽnh hẽnh ỹ bahõm dó pooj jé, Jesus hã h'yy ka'eeh do t'ĩĩ hẽnh habong do sa matym n'aa ỹ tajooh hyb n'aa.
+45015026	H'yyb tsebé doo me Jesus hã h'yy ka'eeh doo, Masedonija, Akaja häd enäh do häj n'aa bä habong do rabata padëëk dajẽẽr, Jesus hã h'yy ka'eeh do Jerusarẽnh bä habong do ramasa hyb n'aa.
+45015027	Sa daaj hẽ, sa h'yyb gó naa ramasa. Taw'ããts hẽ né hẽ ti ramasa sa hã, rakũũt enäh do hadoo do hyb n'aa sa wë. Jesus hã h'yy ka'eeh do Jerusarẽnh bä habong do sa hyb n'aa né hẽ Judah buuj nadoo do ragado däk sa h'yyb gó baad hadoo do P'op Hagä Do Sahee hã hana doo. Ti hyb n'aa, taw'ããts hẽ ti ramasa hỹỹ kä Judah buuj hã sa wë hanäng doo me, ramabaanh do hadoo.
+45015028	Sa matym n'aa ỹ tajooh do jawén paa bä, baad sahõnh hẽ dajẽẽr ragado däk ỹ bahapäh bä kä, ỹ tsyym kadoo da Es-Pãj häj n'aa hẽnh ỹ bahõm doo. Ta hõõ bä ỹ nu däng dó bë panang bä, bë ỹ baheg'ããs hyb n'aa.
+45015029	Baad ỹ bahapäh hahỹỹh: Bë wë ỹ kajaa bä, tak'ëp bë da Kristo ky n'aa edëng da hëp ỹ n'aa.
+46005012	Dooh ỹ ky n'aa ety bä Jesus Kristo karapee nadoo doo. P'op Hagä Do ky n'aa etyy tii. Taw'ããts hẽ bë nemuun h'yy ka'eeh do Jesus hã nesaa do moo wät do bë ky n'aa etyy bë meduuk doo me. P'op Hagä Do kyy kerih doo gó kerih doo da bë bad'oo: “Bë ah'eed hõm nesaa do moo wät doo, bë mahang tanawät hyb n'aa.”
+46005013	
+47001013	Dooh kejën pé bë ãã ma erih do mahang. Wyt ta maab hẽ bë ỹ ma erii wät do ky n'aa, nyy d' tahanäng péh. Bë ner'oot doo, bë maa napäh do na-ããj né hẽ, ti né hẽ. Dooh kejën péh. Hỹỹ kä, bë hãd hapëë däg né paawä ãã h'yyb, ỹ gada da baad ãã h'yyb bë bahapäh nä, Jesus Tak'ëp Hyb N'aa Jawyk Do matëëh noo gó kä, ãã hyb n'aa bë h'yy kasab'ee hyb n'aa, bë hyb n'aa ãã h'yy kasab'ee doo da ti noo gó.
+47001014	
+47008010	Ta baab tabëëj hõm do hã, bë né ti jããm pooj jé dajẽẽr hat'aa do du d'oo doo. Bë né ti pooj jé kar'ẽẽn mas'aa doo. Ti hyb n'aa, hã ỹỹ taw'ããts hẽ tsebé doo gó bë du doo doo da né hẽ bë bahajaa hỹỹ kä bë du doo do paah. Taw'ããts hẽ bë hajaa do bë anoo.
+47008011	
 47012003
 47012004
 48001015
