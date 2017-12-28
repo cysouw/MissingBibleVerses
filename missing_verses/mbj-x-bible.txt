@@ -24,7 +24,7 @@
 41007012	tii bä, ta tii d' ky hadoo doo, dooh ji mejõ wäd bä ta ỹỹn, ta yb tamasa”, näk bë kyyh. Hajõng nä tii d' bë bad'oo doo —näng Jesus. —Bë wahë makũ ma metëëk do bë ky sũũt do hyb n'aa bë eréd hõm P'op Hagä Do mejũũ doo —näng mä Jesus Pariséw, Mosees ky n'aa jaw'yyk do ma mehetëk do sa hã.
 41007013	
 41007015	i noo me hajëng pé hyb n'aa nado ji nas'aa däk P'op Hagä Do hã. T'õp ji h'yyb gó naa hanyyh do ti hanoo ji nas'aa däk do P'op Hagä Do hã —näng mäh. 
-# im korpus fehlt noch 41007016, die mit 41007015 zusammen übersetzt wurde.
+41007016	
 41007025	Ti m' ỹỹnh, Gereg buuj, Siro-Penisija bä m' henäng doo, ky n'aa napäh Jesus. Judah buuj nadoo do m' tii. Ỹỹnh toog hã mera do badäk. Ti m' tabana Jesus wë. Ti m' ta taron nu paa me tabahyy häng Jesus wë. Ti m' tak'ëp mä tabetsẽẽ Jesus bahabëë hõm hyb n'aa karap'aar h'yyb nesaa do ta toog hã hadäk doo.
 41007026	
 41009012	Ti m' Jesus ky hadoo: —Se hub né hẽ. Eriij matëëh né da sahõnh hẽ tabenäm hyb n'aa —näng mäh. —Ti hadoo né hẽ, bë ỹ maher'oot hahỹỹh: Eriij ewäd hyng né hẽ. Tii bä rah'yy kajäk doo da né hẽ rabad'oo paa ta hã. Tii d' né hẽ takerii däk ta ky n'aa P'op Hagä Do kyy kerih do hã9.12-13 Eriij tahanäng doo, Jowãw nu gahem'uun do né hẽ tii. —näng mäh. Ti m' taky hadoo ẽnh: —Ỹỹh, Aj'yy Hadoo Do Hỹ Pong Jé Hana Do ky n'aa ẽnh? Nyy da këh ỹ n'aa kerih do P'op Hagä Do kyyh? Ỹ na-ããj da hajõng ỹ ahoop da. Ỹ rahyb n'aa wareem da na-ããj hẽ —näng mä Jesus kyyh.
@@ -35,17 +35,13 @@
 41016018	
 42001039	Ti m' nayyw hẽ denaa hẽ Marija bahõm kän mä panang hẽnh, Isabew hagä hẽnh, waëë habëë hẽnh, Judah häj n'aa bä. Ta tsym n'aa kaw'aat mä tabahõm. Ti m' tób gó m' tabajëë suun. Isabew mä tedëng.
 42001040	
-42001069	P'ooj ub, ta ky n'aa rod tsyt hẽ ta wë kasëëw bong do hã taky n'aa enooh doo,
-tii da P'op Hagä Do bad'oo hỹỹ kä.
-Tamejõ kän hỹỹ kä ër mahang tak'ëp ta hejój me ër hed'ëëp doo,
-ta karom Dawi makũ panaa hã.
+42001069	P'ooj ub, ta ky n'aa rod tsyt hẽ ta wë kasëëw bong do hã taky n'aa enooh doo, tii da P'op Hagä Do bad'oo hỹỹ kä. Tamejõ kän hỹỹ kä ër mahang tak'ëp ta hejój me ër hed'ëëp doo, ta karom Dawi makũ panaa hã.
 42001070	
 42003001	Ti m' 15 ta baab tabahado däk bä m' Tiberijo häd näng do Roma bä tabag'ããs noo gó, tabanawäng hẽnh P'op Hagä Do ban'oo kän mä ta panyyg Jowãw hã, ta wób tamaher'oot hyb n'aa. Sakarija m' Jowãw yb. Ti noo gó, Judah häj n'aa bä Pon-Sijo Pirato häd näng do sa wahë n'aa. Garirej häj n'aa bä, Eróts häd näng do sa wahë n'aa. Eróts hỹỹj mä Pirip häd näng doo, Itureej, Tarakonit häd enäh do häj n'aa bä m' sa wahë n'aa. Risããn häd näng doo, Abirẽn häj n'aa bä sa wahë n'aa.3.1-2 Roma buuj had'yyt nado Tiberijo bag'ããs. Hajõng ta wób sa häj n'aa na-ããj hẽ tabag'ããs. Pon-Sijo Pirato, Eróts, Pirip, Risããn na-ããj hẽ Tiberijo karom tii, Tiberijo kyy gó ta wób sa häj n'aa bä rabag'ããs doo. Anas, Kajapas häd enäh doo, P'op Hagä Do tób n'aa yt hã moo heb'ooh do sa wahë n'aa heh'äät do ti noo gó.
 42003002	
 42023050	Ti awät mä aj'yy ky enyym doo, P'op Hagä Do karẽn doo da hawät doo, Judah häj n'aa, panang Arimatsija häd näng doo bä naa. Joséh mä ta häd. Tagada né hẽ m' P'op Hagä Do bag'ããs do du däk. Judah buuj sa wahë n'aa see né paawä m' tii, dooh m' ta h'yyb hedo bä sa sii, Jesus hã rabad'oo do hã.
 42023051	
-43004007	Ti nuuj jé ta ma matëg rabahõm panang hẽnh, sa waa rabetsẽẽ hyb n'aa. Ti m' naëng majat bä ỹỹnh, Samarija buuj, kajaa mä naëng tabagóp hyb n'aa. Ti m' Jesus ky hadoo ta hã:
-—Na ỹ eëg naëng uuh —näng mäh.
+43004007	Ti nuuj jé ta ma matëg rabahõm panang hẽnh, sa waa rabetsẽẽ hyb n'aa. Ti m' naëng majat bä ỹỹnh, Samarija buuj, kajaa mä naëng tabagóp hyb n'aa. Ti m' Jesus ky hadoo ta hã: —Na ỹ eëg naëng uuh —näng mäh.
 43004008	
 43010014	Ỹ ti hỹỹh, b'éé hagã n'aa heh'äät hadoo. Ee, P'op Hagä Doo, ỹ tamepäh, ỹ na-ããj hẽ ỹ mepäh Ee, P'op Hagä Doo. Ti hadoo né hẽ baad ỹ mepäh masãh haa. Masãh haa na-ããj né hẽ, baad né hẽ ỹ ramepäh. Daj ỹỹ hẽ ỹ kan'oo däk, ỹ dajëp hyb n'aa masãh haa sa hyb n'aa.
 43010015	
@@ -55,49 +51,30 @@ ta karom Dawi makũ panaa hã.
 43014017	
 44001001	Teopiro, õm ti ỹ ma erih. Pooj jé ỹ erii wät doo gó, ỹ erii wät sahõnh hẽ Jesus mo haj'aa paah, tama metëëk do paa na-ããj hẽ, hỹ pong jé Jesus bas'ëëg kän P'op Hagä Do an'oo bä. Hỹ pong jé tabasëëk do pooj jé, P'op Hagä Do Sahee kyy gó, tamejũũ do sa hã, tasëëw hõm do sa hã, Jesus maher'ood hõm nyy d' rabad'oo da. Sahõnh hẽ ti ỹ erii wät, pooj jé ỹ erih do hã.
 44001002	
-44001015	Ti m', ta see pé noo gó Jesus hã h'yy ka'eeh do rakataa séd hã. (120 hyb n'aa hadoo mä ti kata pad'ëëk doo.) Ti m' Peed bas'ëëg gëët sa mahang, ti m' taky hadoo sa hã:
-—Bë maa newë këh ỹỹ, wakãn haa —näng mäh. —P'ooj ub ër wahë makũ Dawi häd näng doo, P'op Hagä Do Sahee kyy gó taher'oot Judas Ikarijot makũ ky n'aa, P'op Hagä Do kyy kerih do paa gó. Dawi erih do paah, P'op Hagä Do kyy kerih doo gó, ti d' né paa Judas ky n'aa. Jesus maso däk do metëë n'aa ti Judas Ikarijot.
+44001015	Ti m', ta see pé noo gó Jesus hã h'yy ka'eeh do rakataa séd hã. (120 hyb n'aa hadoo mä ti kata pad'ëëk doo.) Ti m' Peed bas'ëëg gëët sa mahang, ti m' taky hadoo sa hã: —Bë maa newë këh ỹỹ, wakãn haa —näng mäh. —P'ooj ub ër wahë makũ Dawi häd näng doo, P'op Hagä Do Sahee kyy gó taher'oot Judas Ikarijot makũ ky n'aa, P'op Hagä Do kyy kerih do paa gó. Dawi erih do paah, P'op Hagä Do kyy kerih doo gó, ti d' né paa Judas ky n'aa. Jesus maso däk do metëë n'aa ti Judas Ikarijot.
 44001016	
-44001021	Ti m' Peed ky hadoo:
-—Ti hyb n'aa, taw'ããts hẽ ër esoos hapäh do seeh, Jesus Jowãw nu gahem'uun do nu gemuun noo gó, Jesus hawät noo gó ãã mahang, tabasëëk jawén paa bä hapäh doo. Ti né hẽ da ãã ky hata. Ãã sii her'oot do pan'aa, Jesus ganä wät do tadajëp jawén paa bä ky n'aa —näng mä Peed kyyh sa hã.
+44001021	Ti m' Peed ky hadoo: —Ti hyb n'aa, taw'ããts hẽ ër esoos hapäh do seeh, Jesus Jowãw nu gahem'uun do nu gemuun noo gó, Jesus hawät noo gó ãã mahang, tabasëëk jawén paa bä hapäh doo. Ti né hẽ da ãã ky hata. Ãã sii her'oot do pan'aa, Jesus ganä wät do tadajëp jawén paa bä ky n'aa —näng mä Peed kyyh sa hã.
 44001022	
-44001024	Ti m' hahỹỹ da Jesus hã h'yy ka'eeh do raky n'aa etsẽẽ:
-—Jesus, baad mah'yyb hapäh ãã sahõnh hẽ —näk mäh. —Mametä jaa ta ti masëëw däk do Judas jawén buuj, mamejũũ do see tabadoo hyb n'aa ta jawén buuj. Dooh Judas makũũ mamejũũ do see tado wäd bä. Ahõm nesaa do tamoo wät do säm tagadoo hẽnh —näk mä sa kyyh Jesus hã.
+44001024	Ti m' hahỹỹ da Jesus hã h'yy ka'eeh do raky n'aa etsẽẽ: —Jesus, baad mah'yyb hapäh ãã sahõnh hẽ —näk mäh. —Mametä jaa ta ti masëëw däk do Judas jawén buuj, mamejũũ do see tabadoo hyb n'aa ta jawén buuj. Dooh Judas makũũ mamejũũ do see tado wäd bä. Ahõm nesaa do tamoo wät do säm tagadoo hẽnh —näk mä sa kyyh Jesus hã.
 44001025	
-44002026	Ti hyb n'aa ỹ h'yy gadajang,
-ti hyb n'aa ỹ ma ejäm ỹ tsebé do hyb n'aa.
-Dooh kamak ỹ n'aa meréd bä ỹ radakä jëng doo hẽnh.
-Dooh man'oo bä a karom tsyt hẽ a wë moo wät do ta kamag n'aa karejã bä.
-Ti hyb n'aa, dooh ỹ eỹỹm bä ỹ dajëb né paawä.
+44002026	Ti hyb n'aa ỹ h'yy gadajang, ti hyb n'aa ỹ ma ejäm ỹ tsebé do hyb n'aa. Dooh kamak ỹ n'aa meréd bä ỹ radakä jëng doo hẽnh. Dooh man'oo bä a karom tsyt hẽ a wë moo wät do ta kamag n'aa karejã bä. Ti hyb n'aa, dooh ỹ eỹỹm bä ỹ dajëb né paawä.
 44002027	
-44010034	Ti m' Peed du do kän taher'oot do sa hã:
-—Baad ỹ bahapäh hỹỹ kä, sahõnh hẽ badäk hahỹ haw'ããts hẽ häj n'aa babuuj ta hã h'yy ka'eeh doo, baad hadoo do moo b'ook do P'op Hagä Do gadoo. Séd hã ji P'op Hagä Do gadoo —näng mä Peed.
+44010034	Ti m' Peed du do kän taher'oot do sa hã: —Baad ỹ bahapäh hỹỹ kä, sahõnh hẽ badäk hahỹ haw'ããts hẽ häj n'aa babuuj ta hã h'yy ka'eeh doo, baad hadoo do moo b'ook do P'op Hagä Do gadoo. Séd hã ji P'op Hagä Do gadoo —näng mä Peed.
 44010035	
-44013032	Hahỹ panyyg hanäm do ãã her'oot bë hã. P'op Hagä Do ky n'aa enooh do ër wahë makũũ hã, ti né hẽ hỹỹ kä tan'oo däk ër sa panaa paa hã. Ti d' né hẽ tabad'oo Jesus ganä wät tan'oo bä kä. Hahỹ hadoo ta ky n'aa kerih do Saaw-Mo 2 hã:
-“Tah ỹ õm. A yb ỹ hado däk naga hẽ.”
+44013032	Hahỹ panyyg hanäm do ãã her'oot bë hã. P'op Hagä Do ky n'aa enooh do ër wahë makũũ hã, ti né hẽ hỹỹ kä tan'oo däk ër sa panaa paa hã. Ti d' né hẽ tabad'oo Jesus ganä wät tan'oo bä kä. Hahỹ hadoo ta ky n'aa kerih do Saaw-Mo 2 hã: “Tah ỹ õm. A yb ỹ hado däk naga hẽ.”
 44013033	
-44013034	Ta pooj jé P'op Hagä Do her'ood däk ta t'aah ganä wät do ky n'aa, ta kamag karejã mahä̃nh. Hahỹỹ da takerii däk ta ti ky n'aa:
-“Õm ỹ ky n'aa edëng, baad had'op doo me,
-ky kaneh'ỹỹt doo me, Dawi hã ỹ ky n'aa enooh do paa me.”
-44015017	Tii da ỹ wén d'oo, Judah buuj wób,
-sahõnh hẽ Judah buuj nadoo do sii hẽ,
-karapé haa pan'aa hedoo doo,
-ỹ rabesoos hyb n'aa’, näng mä Tak'ëp Hyb N'aa Jawyk Doo,
-p'ooj ub taky däng do moo wät doo.”
+44013034	Ta pooj jé P'op Hagä Do her'ood däk ta t'aah ganä wät do ky n'aa, ta kamag karejã mahä̃nh. Hahỹỹ da takerii däk ta ti ky n'aa: “Õm ỹ ky n'aa edëng, baad had'op doo me, ky kaneh'ỹỹt doo me, Dawi hã ỹ ky n'aa enooh do paa me.”
+44015017	Tii da ỹ wén d'oo, Judah buuj wób, sahõnh hẽ Judah buuj nadoo do sii hẽ, karapé haa pan'aa hedoo doo, ỹ rabesoos hyb n'aa’, näng mä Tak'ëp Hyb N'aa Jawyk Doo, p'ooj ub taky däng do moo wät doo.”
 44015018	
-44015024	“Ãã heen n'aa enäh babä naa t'ĩĩ hẽnh heboo nä doo. Ãã heen n'aa enäh, ajyy raher'oot doo me baad nado wäd bë h'yyb ran'oo bä. Bë h'yyb manepëë boo ran'oo bä. Dooh ãã kyy gó tado bä ta ti rama metëëk doo.
-＃ 44015023 ist unvollständig, es fehlt am Ende noch	“Ããh, 12 hedoo do Jesus mejũũ doo, Jesus hã h'yy ka'eeh do sa wahë n'aa na-ããj hẽ, bë wakããn hedoo ããh. Bëëh, Judah buuj nadoo do Jesus hã h'yy ka'eeh do Ãn-Tijoka panang bä habong doo, Sirija häj n'aa bä, Siris häj n'aa bä habok do na-ããj hẽ ãã ma erih. Ãã edëng bëëh.
+44015024	“Ãã heen n'aa enäh babä naa t'ĩĩ hẽnh heboo nä doo. Ãã heen n'aa enäh, ajyy raher'oot doo me baad nado wäd bë h'yyb ran'oo bä. Bë h'yyb manepëë boo ran'oo bä. Dooh ãã kyy gó tado bä ta ti rama metëëk doo. ＃ 44015023 ist unvollständig, es fehlt am Ende noch	“Ããh, 12 hedoo do Jesus mejũũ doo, Jesus hã h'yy ka'eeh do sa wahë n'aa na-ããj hẽ, bë wakããn hedoo ããh. Bëëh, Judah buuj nadoo do Jesus hã h'yy ka'eeh do Ãn-Tijoka panang bä habong doo, Sirija häj n'aa bä, Siris häj n'aa bä habok do na-ããj hẽ ãã ma erih. Ãã edëng bëëh.
 44015025	Ti hyb n'aa baad ub babä ãã kaner'oot, bë wë ãã mejũũ hyb n'aa ãã wób, Paw-Ro Béh-Nabéh ër najiis bë mejũũ do sa sii rabahõm hyb n'aa.
 44015026	P'eets ub radejëëb paawä Jesus Kristo, Tak'ëp Hyb N'aa Jawyk Do ky n'aa rabaher'ood hõm do hyb n'aa, dooh Paw-Ro Béh-Nabéh rah'yyb eỹỹm bä, dooh rah'yy gejë hõm bä.
 44015027	Ãã mejũũ Judas Siras daheeh raky masa hyb n'aa ãã erih do hã.
 44015028	Baad ub né hẽ P'op Hagä Do Sahee metëëh ãã hã, ãã ganahëën hyb n'aa bë hã tak'ëp hejoonh doo. Ãã hã na-ããj hẽ baad ub P'op Hagä Do Sahee metëëh doo. Jããm hẽ bë tayy hahỹ ãã her'oot do bë hã:
 44015029	Taw'ããts hẽ bë nawëh P'op Hagä Do hã h'yy kana'eeh do sa kabarii raweh'ëëh do tä n'aa. Taw'ããts hẽ bë nawëh bë masããh dab, har'ëëng dab bë naboh bä ta majyyw gatsëë däk doo. Bë awëë manä ta majyyw. Bë aä̃ manä bë ỹỹm nadoo do sii, bë patug nadoo do sii. Ta ti bë ky dahé bä, taw'ããts hẽ. Jããm hẽ kä ãã erih doo.”
-44017002	Ti m', t'ĩĩ hẽnh Paw-Ro rabahõm Judah buuj rakamehehãk do hã, rabahed'oo doo da. Tamawoob hẽ Saab noo gó P'op Hagä Do kyy kerih do paa hã Paw-Ro metëëh sa hã, Kristo, P'op Hagä Do H'yyb Däng Do ky n'aa. Tamaher'oot mäh, tametëëh Kristo dajëp né hẽ, ganä wät né hẽ tadajëp jawén paa bä, ta ky n'aa kerih däk doo da né hẽ. Ti m' taky hadoo:
-—Jesus, ta ky n'aa ỹ her'oot do bë hã, ti né hẽ Kristo, P'op Hagä Do H'yyb Däng Doo —näng mäh.
+44017002	Ti m', t'ĩĩ hẽnh Paw-Ro rabahõm Judah buuj rakamehehãk do hã, rabahed'oo doo da. Tamawoob hẽ Saab noo gó P'op Hagä Do kyy kerih do paa hã Paw-Ro metëëh sa hã, Kristo, P'op Hagä Do H'yyb Däng Do ky n'aa. Tamaher'oot mäh, tametëëh Kristo dajëp né hẽ, ganä wät né hẽ tadajëp jawén paa bä, ta ky n'aa kerih däk doo da né hẽ. Ti m' taky hadoo: —Jesus, ta ky n'aa ỹ her'oot do bë hã, ti né hẽ Kristo, P'op Hagä Do H'yyb Däng Doo —näng mäh.
 44017003	
-44023023	Ti m' warahén sa wahë n'aa heh'äät ub do naëënh pawóp hẽ warahén sa wahë n'aa. Ti m' taky hadoo sa hã:
-—Bë etyn hõm da 200 warahén tsyym me hah'ũũm péh, 70 kawaaro jó hah'ũũm do ta wób, 200 jook yt hã hah'ũũm doo, kawaaro Paw-Ro jahõm pé sii hẽ da, atsëm rabahõm hyb n'aa panang Sesareja häd näng doo hẽnh —näng mä ta kyyh.
-Ti m' tamejũũ baad ub ramahũũm hyb n'aa Paw-Ro, sa wahë n'aa Peris häd näng do wë.
+44023023	Ti m' warahén sa wahë n'aa heh'äät ub do naëënh pawóp hẽ warahén sa wahë n'aa. Ti m' taky hadoo sa hã: —Bë etyn hõm da 200 warahén tsyym me hah'ũũm péh, 70 kawaaro jó hah'ũũm do ta wób, 200 jook yt hã hah'ũũm doo, kawaaro Paw-Ro jahõm pé sii hẽ da, atsëm rabahõm hyb n'aa panang Sesareja häd näng doo hẽnh —näng mä ta kyyh. Ti m' tamejũũ baad ub ramahũũm hyb n'aa Paw-Ro, sa wahë n'aa Peris häd näng do wë.
 44023024	
 44024018	Ti né hẽ ỹ bad'oo P'op Hagä Do tób n'aa yt hã, sahõnh hẽ ỹ bahajaa jawén paa bä ãã ky n'aa jaw'yyk do mejũũ doo da ji h'yyb banyyw däk hyb n'aa P'op Hagä Do matym gó. Dooh hajõk do tado bä si ỹ habok doo. Dooh na-ããj hẽ ỹ kamajẽ bä ta wób sa wë. Daap ramenyyh hã ỹ raky n'aa tapaa doo. P'op Hagä Do tób n'aa yt hã né hẽ ỹ bag'ëëd däk Judah buuj wób Asija häj n'aa hẽnh naa ỹ rabahapäh bä. Taw'ããts hẽ né hẽ paawä ta ti né hẽ ajyy wawẽẽ hẽ rabana, hã ỹ raky n'aa tapaa hyb n'aa tanyy bä sa wë hã ỹ raky kes'ëëm péh. Ti né hẽ P'op Hagä Do tób n'aa yt hã ỹ raky n'aa tapaa do paah.
 44024019	
@@ -114,14 +91,8 @@ Ti m' tamejũũ baad ub ramahũũm hyb n'aa Paw-Ro, sa wahë n'aa Peris häd nä
 45009004	
 45009011	Sét hẽ né paawä sa yb, ta taah kawareeh henäk do pooj jé, dooh nä baad hadoo do ramoo boo nä bä, dooh nä baad nadoo do ramoo boo nä bä na-ããj hẽ, P'op Hagä Do ky hadoo Rebéka hã: “Wah'ëëh hadoo doo, ta jawén nä karom da”,9.11-12 Genesis 25.23 näng mäh. Tii d' tawén hadoo, P'op Hagä Do h'yyb däng do kaja däk hyb n'aa. P'op Hagä Do h'yyb däng do né hẽ ti tanaëënh doo. Dooh ramoo bok do hyb n'aa tado bä sa hã P'op Hagä Do h'yyb däng doo.
 45009012	
-45009026	# Im Korpus wurde mit 45009025 zusammen übersetzt, aber es gibt Auslassung. Auf https://www.bible.com/de/bible/452/ROM.9.mbjNT wurde getrennt übersetzt.
 45010006	Ta see hadoo Mosees kyyh seeh, ji h'yy ka'eeh do hyb n'aa baad P'op Hagä Do matym gó ji bahado däk do ky n'aa. Hahỹỹ da ta kyyh: “Hahỹỹ da medoo manäh, ‘Jaa hasëëk pé hỹ pong jé? Jaa hahyng pé t'õp dejëp do rababong bä?’ ” näng mäh. Hahỹỹ d' tahanäng pé Mosees kyyh: Dooh hyb n'aa pé Kristo bahyng ji an'oo bä.10.6-7 Dooh hyb n'aa pé Kristo bahyng ji an'oo bä, Kristo ewäd hyng do hyb n'aa. Dooh hyb n'aa pé dejëp do mahang Kristo ganyyh ji an'oo bä.
 45010007	
-45010020	# Im Korpus wurden 45010019-45010021 zusammen übersetzt, aber es gibt Auslassungen. Auf https://www.bible.com/de/bible/452/ROM.10.mbjNT sind diese drei Versen getrennt.
-45010021	# sieht oben
-45011009	# Im Korpus wurde mit 45011008 zusammen übersetzt, aber es gibt Auslassungen. Auf https://www.bible.com/de/bible/452/ROM.11.mbjNT wurde getrennt übersetzt
-45012020	# Im Korpus wurde mit 45012019 zusammen übersetzt, aber es gibt Auslassungen. Auf https://www.bible.com/de/bible/452/ROM.12.mbjNT sind getrennt.
-45012021	Bë an'oo manä nesaa do j'aa ketsë bë hã. Taw'ããts hẽ bë j'aa ketsë nesaa do hã baad hadoo doo me.
 45014012	Ti hyb n'aa kä, ër sahõnh hẽ, sét ken'yyh da P'op Hagä Do hã ër da kaner'oot ër babok do paa hã.
 45015001	Taw'ããts hẽ ëër, baad P'op Hagä Do hã h'yy kasadä doo, ër gadoo, ër masa ër da hadoo do baad nado nä P'op Hagä Do hã h'yy kasadä doo. Taw'ããts hẽ dooh ër karẽn do jawén ër abooh.
 45015002	aw'ããts hẽ ër sahõnh hẽ ër h'yyb en'yym ër wakããn hedoo doo, baad tabadoo hyb n'aa sa hã, baad P'op Hagä Do hã rah'yy kasadä hyb n'aa kä.
@@ -129,9 +100,6 @@ Ti m' tamejũũ baad ub ramahũũm hyb n'aa Paw-Ro, sa wahë n'aa Peris häd nä
 45015004	Sahõnh hẽ P'op Hagä Do kyyh p'ooj ub kerii däk doo, takerii däk ër tama metëëk hyb n'aa, h'yy ganajëng doo me, ta kyy kerih doo gó hana do ji h'yyb näm doo me ër gada hyb n'aa baad hadoo do ër hã P'op Hagä Do ky n'aa enooh doo.
 45015005	P'op Hagä Do hã, ji h'yy ganajëng do hanoo doo, ji tah'yyb en'yym doo, ỹ ky n'aa etsẽẽ, séd bë h'yyb hedo had'yyt hẽ tan'oo bä, Kristo Jesus bawäd wät doo da bë babok hyb n'aa,
 45015006	sét hadoo doo me bë h'yyb, sét hadoo doo me bë kyyh, P'op Hagä Doo, ër Wahë N'aa Jesus Kristo Yb, bë j'aa etsë hyb n'aa kä.
-45015010	# Im Korpus wurden 45015009-45015012 zusammen übersetzt, aber es gibt Auslassungen.
-45015011	# sieht oben
-45015012	# sieht oben
 45015022	Raky n'aa nanapäh nä bä ỹ maher'ood hõm do hyb n'aa Kristo ky n'aa, dooh paa tahaja bä bë wë ỹ hegãã bä.
 45015023	Hỹỹ kä, ỹ haja däk do hyb n'aa babä Kristo ky n'aa ỹ maher'oot doo, hajõõ däk hyb n'aa na-ããj hẽ ta baab ỹ karẽn do bë wë ỹ baheg'ããs,
 45015024	ỹ karẽn paawä bë panang bä ỹ nu däng dó Es-Pãj häj n'aa bä ỹ mahõm me, bë ỹ bahehëën hyb n'aa. Bë ỹ bahehëën do jawén paa bä, banadawëd né paawä, ỹ karẽn paawä ỹ bë masa Es-Pãj hẽnh ỹ bahõm doo.

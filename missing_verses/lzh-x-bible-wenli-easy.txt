@@ -1,2 +1,2 @@
-43013032	# Im Korpus mit 43013031 zusammen übersetzt, aber auf https://zh.wikisource.org/zh-hans/聖經_(文理和合)/約翰福音#第十三章 getrennt übersetzt.
-45015016	# Im Korpus mit 45015015 zusammen übersetzt, aber auf https://zh.wikisource.org/zh-hant/新約全書_(淺文理和合)/達羅馬人書#第十五章 getrennt übersetzt.
+43013032	
+45015016	

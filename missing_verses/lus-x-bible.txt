@@ -21,7 +21,7 @@
 40021007	sabengtung leh a no chu an rawn kai a, a chungah chuan an puante an phah a, ani chuan a chuan chhan ta a.
 40021017	Tin, anni chu a kalsan a, khawpui ata chu a chhuak a, Bethani-ah a kal a; chutah chuan a riak ta a.
 40021043	Chumi avâng chuan, ‘Pathian ram chu in hnên ata lâksak a ni ang a, a rah chhuah tûr hnam hnênah pêk a ni ang,’ tih ka hrilh a che u.
-# Im Korpus fehlt noch 40021044	Tin, chumi lung chunga tlu chu a keh sawm ang a; a delh phei chu a râwt dip ang,” a ti a.
+40021044	Tin, chumi lung chunga tlu chu a keh sawm ang a; a delh phei chu a râwt dip ang,” a ti a.
 40022031	Tin, mitthi thawhlehna thu chu, Pathianin, ‘Kei Abrahama Pathian, Isaaka Pathian, Jakoba Pathian ka ni,’ tia in hnêna a sawi kha in chhiar lo vem ni? Pathian chu mitthi Pathian a ni lo va, mi nung Pathian a ni zâwk,” a ti a, a chhâng a.
 40022032	
 40022035	Tin, an zînga mi pakhat, dân hretuin, “Zirtîrtu, dân thu-ah eng thupêk hi nge ropui ber?” tiin amah fiah nân thu a zâwt a.
@@ -281,7 +281,7 @@
 56003002	
 57001004	Lalpa Isua lamah leh mi thianghlim zawng zawng lama hmangaihna leh rinna i neih chu lo hre ṭhînin, ka ṭawngṭainaahte chuan i hming lam fovin, ka Pathian hnênah lâwm thu ka hril ṭhîn;
 57001005	
-58001006	# Im Korpus wurde mit Verse 58001005 zusammen übersetzt.
+58001006	
 58002013	Tin, “Amahah ka rinna ka nghat ang,” a ti leh a. Tin, “En teh u, kei leh Pathian mi pêk naupangte hi,” a ti leh pek a.
 58002014	Tichuan, naupangte hi tisa leh thisen changte an nih hlawm avângin, amah ngei pawhin chûng bawk chu a chang ve ta a; thihnain thihna thuneitu (chu chu Diabola a ni) a tihboral theihna tûr leh,	
 58002015	thih hlauh vânga dam chhûnga bawiha awm zawng zawngte chu a chhanchhuah theihna tûrin.
@@ -321,7 +321,7 @@
 60001011	
 60001018	In thlahtute pêk chhâwn, in awm dân eng khaw ni lawilo lak ata chu thil chhe thei, tangkarua leh rangkachaka tlan in ni lo va, berâmno hmêlhem lo leh bawlhhlawh kai lo, Krista thisen hlu chuan tlan in ni zâwk tih in hre si a;
 60001019	
-60002007	# Im Korpus wurde mit 6002006 zusammen übersetzt.
+60002007	
 60002009	Nimahsela, thim ata chhuaka, a êng mak taka lût tûra kotu che u ṭhatna chu in entîr theih nân, nangni zawng chi thlan, lal puithiamho, hnam thianghlim, Pathian mite ngei in ni si a;
 60002010	hmânlai khân mi rêng in ni lo va, tûnah erawh chuan Pathian mi in ni ta a; hmânlai khân zahngaihna in hmu lo va, tûnah erawh chuan zahngaihna in hmu ta.
 61003011	Chûng thilte chu chutianga boral vek tûr a ni tih in hriat avângin, Pathian ni lo thlen hun tûr chu beisei leh ṭhahnemngai taka duhin, awm dân thianghlim leh Pathian ngaihsak kawngah chuan mi eng ang nge in nih ang le? Chumi ni a thlen avângin vânte lo kângin a boral ang a, thil bulte pawh chu meia em tuiin a awm tawh ang.
