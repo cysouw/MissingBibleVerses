@@ -1,394 +1,395 @@
-40001022
-40001023
-40002017
-40002018
-40004014
-40004015
-40011002
-40011003
-40011011
-40011012
-40011013
-40011014
-40011015
-40012017
-40012018
-40020011
-40020012
-40021004
-40021005
-40021006
-40021007
-40021017
-40021043
-40022031
-40022032
-40022035
-40022036
-40022043
-40022044
-40022045
-40026067
-40026068
-40027009
-40027010
-40027039
-40027040
-41001004
-41001005
-41001006
-41001007
-41001008
-41001043
-41001044
-41003014
-41003015
-41007008
-41007018
-41007019
-41009047
-41009048
-41012037
-42001001
-42001002
-42001024
-42001025
-42001074
-42001075
-42002004
-42002005
-42002022
-42002023
-42002024
-42004001
-42004002
-42007028
-42011050
-42011051
-42014029
-42014030
-42019037
-42019038
-42019043
-42019044
-42020018
-42020042
-42020043
-42020044
-42022029
-42022030
-43010014
-43010015
-44001021
-44001022
-44001024
-44001025
-44007039
-44007040
-44008006
-44008007
-44008018
-44008019
-44015025
-44015026
-45001002
-45001003
-45001009
-45001010
-45002013
-45002014
-45002015
-45002016
-45002019
-45002020
-45003029
-45003030
-45004016
-45004017
-45006017
-45006018
-45008037
-45008038
-45008039
-45009022
-45009023
-45009027
-45009028
-45010019
-45010020
-45010021
-45011013
-45011014
-45015005
-45015006
-45015008
-45015009
-45015010
-45015011
-45015012
-45015015
-45015016
-45015018
-45015019
-45015030
-45015031
-45016001
-45016002
-45016003
-45016004
-45016025
-45016026
-46002004
-46002005
-46002010
-46002011
-46002012
-46002013
-46002014
-46002015
-46002016
-46007029
-46007030
-46007031
-46010032
-46010033
-46012024
-46012025
-46015051
-46015052
-47001013
-47001014
-47006017
-47008003
-47008004
-47009010
-47009011
-47013002
-47013003
-48004004
-48004005
-49001005
-49001006
-49001009
-49001010
-49001016
-49001017
-49001019
-49001020
-49001021
-49002014
-49002015
-49003008
-49003009
-49003010
-49003011
-49003014
-49003015
-49003016
-49003017
-49003018
-49003019
-49004001
-49004002
-49004003
-49004011
-49004012
-49004013
-49005008
-49005009
-49005010
-49006005
-49006006
-49006007
-49006008
-50001003
-50001004
-50001005
-50001010
-50001011
-50001027
-50001028
-50002009
-50002010
-50002011
-50002014
-50002015
-50002016
-51001003
-51001004
-51001005
-51001006
-51001007
-51001010
-51001011
-51001012
-51001019
-51001020
-51001021
-51001022
-51002002
-51002003
-51002006
-51002007
-51003023
-51003024
-52001002
-52001003
-52001009
-52001010
-52002011
-52002012
-52003009
-52003010
-52004004
-52004005
-52005012
-52005013
-53001006
-53001007
-53001008
-53001009
-53001010
-53003001
-53003002
-54001010
-54001011
-54001012
-54001013
-54004001
-54004002
-54005009
-54005010
-55001003
-55001004
-55003014
-55003015
-56001001
-56001002
-56001013
-56001014
-56002003
-56002004
-56002005
-56002007
-56002008
-56002009
-56002010
-56002012
-56002013
-56003001
-56003002
-57001004
-57001005
-58001006
-58002013
-58002014
-58002015
-58004006
-58004007
-58006001
-58006002
-58007015
-58007016
-58007018
-58007019
-58007020
-58007021
-58007022
-58008001
-58008002
-58009019
-58009020
-58010015
-58010016
-58010018
-58010019
-58010020
-58012001
-58012002
-58012007
-58012008
-58012018
-58012019
-59001002
-59001003
-59001007
-59001008
-60001001
-60001002
-60001010
-60001011
-60001018
-60001019
-60002007
-60002009
-60002010
-61003011
-61003012
-62003019
-62003020
-63001001
-63001002
-65001014
-65001015
-66001004
-66001005
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002009
-66002010
-66002011
-66002013
-66002014
-66002015
-66002016
-66002017
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002027
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
-66004010
-66004011
-66005009
-66005010
-66005014
-66007011
-66018009
-66018010
-66018015
-66018016
-66018017
-66019017
-66019018
-66021010
-66021011
+40001022	Tin, Lalpan zâwlnei kaah, “Ngai teh, nula thianghlim chu a rai ang a, apa a hring ang a. A hmingah Emmanuela an sa ang,” tia a sawi kha a lo thlen theihna tûrin chûng zawng zawng chu a lo awm a ni. (Emmanuela chu “Kan hnêna Pathian awm” tihna a ni.)
+40001023	
+40002017	Chutih lai chuan zâwlnei Jeremian, “Rama khuaah thâwm an hria, Ṭap te, mitthi ngaia chiau vawng vawng te; Rakili chuan a fate a ṭah a, An awm tawh loh avângin a thlamuan theih loh,” tia a sawi kha a lo thleng ta.
+40002018	
+40004014	Zâwlnei Isaia kâah, “Dîl kamah, Jordan râlah, Zebulon ram leh Naphtali ram, Jentailte Galili chu!
+40004015	
+40011002	Tin, Johanan Krista thiltihte chu tân inah chuan a lo hriatin, a hnênah, “Lo kal tûra chu i ni nge, mi dang kan la ngai ang?” tiin a zirtîrte a palaitîr a.
+40011003	
+40011011	Tihtakmeuhvin ka ti a che u, hmeichhe hrin zîngah Baptistu Johana aia ropui zâwk an la chhuak ngai lo; nimahsela, vânrama mi tê deuh pawh ani ai chuan an ropui zâwk si a.
+40011012	Baptistu Johana awm achin tûn thlengin vânram chuan beih vakna a tâwk ṭhîn a, a bei vakte chuan an pâwng lâk ṭhîn.
+40011013	Zâwlneite zawng zawng leh dân thu chuan, Johana a lo awm thleng khân an hril lâwk ṭhîn a ni.
+40011014	In awih duh zawngin, chu chu Elija, lo kal tûra chu a ni.
+40011015	Tu pawh hriatna tûra beng nei chuan hre rawh se.
+40012017	Zâwlnei Isaian, “En teh, ka chhiahhlawh, ka thlan, Ka duh tak, ka rilruin a lawm êm êma hi; A chungah ka thlarau ka dah ang a, Tichuan, Jentailte hnênah rorêlna thu a hril ang.
+40012018	
+40020011	Tin, an han dawn chuan, ‘Hêng hnuhnûng berte hian dârkâr khat chauh an thawk a, keini chhûn hrehawm leh thawsa tuartute tlukin i siam si,’ tiin in neitupa chungah chuan an phunnawi ta a.
+40020012	
+40021004	“ ‘En teh, i Lal chu, thuhnuairawlh takin, Sabengtung chungah - sabengtungno chung ngeia chuangin I hnênah a lo kal dâwn e,’ tiin Zion fanu chu hrilh rawh,” tia zâwlnei kâa a sawi kha a lo thlen theihna tûrin, chûng chu a lo awm ta a ni.
+40021005	
+40021006	Tichuan, zirtîrte chu an va kal a, Isuan an hnêna thu a pêk ang ngei chuan an va ti a,
+40021007	sabengtung leh a no chu an rawn kai a, a chungah chuan an puante an phah a, ani chuan a chuan chhan ta a.
+40021017	Tin, anni chu a kalsan a, khawpui ata chu a chhuak a, Bethani-ah a kal a; chutah chuan a riak ta a.
+40021043	Chumi avâng chuan, ‘Pathian ram chu in hnên ata lâksak a ni ang a, a rah chhuah tûr hnam hnênah pêk a ni ang,’ tih ka hrilh a che u.
+40021044	Tin, chumi lung chunga tlu chu a keh sawm ang a; a delh phei chu a râwt dip ang,” a ti a.
+40022031	Tin, mitthi thawhlehna thu chu, Pathianin, ‘Kei Abrahama Pathian, Isaaka Pathian, Jakoba Pathian ka ni,’ tia in hnêna a sawi kha in chhiar lo vem ni? Pathian chu mitthi Pathian a ni lo va, mi nung Pathian a ni zâwk,” a ti a, a chhâng a.
+40022032	
+40022035	Tin, an zînga mi pakhat, dân hretuin, “Zirtîrtu, dân thu-ah eng thupêk hi nge ropui ber?” tiin amah fiah nân thu a zâwt a.
+40022036	
+40022043	Ani chuan an hnênah, “Davidan, ‘Lalpa chuan, ka Lalpa hnênah, I hmêlmate i kephah hnuaia ka dah hma loh zawng Ka ding lamah ṭhu rawh, a ti,’ tiin, engtiziain nge Thlarauvin ani chu ‘Lalpa’ a tih le?
+40022044	
+40022045	Davidan ani chu ‘Lalpa’ a tih si chuan, engtin nge a fapa a nih theih?” a ti a.
+40026067	Tin, a hmaiah chil an chhâk a, an hnek a; ṭhenkhat chuan, “Nang Krista, tuin nge bêng che? Min hrilh rawh,” tiin an bêng a.
+40026068	
+40027009	Chumi lai chuan zâwlnei Jeremian, “Tin, tangka sawmthum, An chhiara man, Israel thlah, tuten emaw an chhiara man chu, An la a, Lalpan min tiam angin Bêlvawtu hmun man atân an pe a,” tia a sawi kha a lo thleng ta a ni.
+40027010	
+40027039	Tin, mi vei apiangte chuan an lu thingin, “Nang, Pathian biak in ṭhiata ni thuma sa lehtu, intidam rawh; Pathian Fapa i nih chuan kraws ata kha lo chhuk ta che,” tiin an tiel a.
+40027040	
+41001004	Johana, thlalêra baptistu kha, thil tihsual ngaihdam nân simna baptisma thu hrilin a lo chhuak a.
+41001005	in, Judai rama mi zawng zawng leh Jerusalem khuaa mi zawng zawngte an chhuak a, a hnên lamah an kal a, an sualte thupha chawiin Jordan luiah chuan a hnênah baptisma an chang ta hlawm a.
+41001006	Tin, Johana chu sanghâwngsei hmul puanin a inthuam a, a kâwng chu savun kâwnghrênin a hrêng a, a chaw chu khaukhuap leh ram khawizu a ni.
+41001007	Tin, “Ka hnungah keimah aia ropui zâwk a lo kal mêk a ni; kûna a pheikhawk hrui phelh tlâk pawh ka ni lo ve.
+41001008	Kei zawngin tuiin ka baptis ṭhîn che u a; ani erawh chuan Thlarau Thianghlimin a baptis ang che u,” tiin a hril a.
+41001043	Tin, Isua chuan, “Tu ma hnêna eng mah sawi lo tûrin fîmkhur ang che; amaherawhchu, puithiam hnênah va inentîr la, i inthen nân Mosian thil a ruatte kha hlân rawh, an hriat fiahna tûrin,” a ti tlat a, a kaltîr ta nghâl a.
+41001044	
+41003014	in, a hnêna an awm theih nân leh, thu hril tûr leh ramhuaite hnawh chhuahna thu nei tûra a tirh chhuah theih nân, sâwm leh pahnih a ruat a.
+41003015	
+41007008	Pathian thupêkte chu thlahthlamin mihring thurochhiah chu in vuan tlat a nih hi,” a ti a.
+41007018	Tin, ani chuan an hnênah, “Nangni pawh chuti êma hriatna nei lo in ni maw? Eng pawh pâwn lam ata mihring kawchhûnga lût apiang, a thinlung chhûnga lût lovin, a pum chhûnga lûta dailênnaa a chhuah zâwk avângin, amah chu a tibawlhhlawh thei lo tih in hre lâwm ni?” a ti a. (Chu chu ei tûr tinrêng ei a thiang a tihna a ni.)
+41007019	
+41009047	Tin, i mitin a tihtlûk che chuan kher chhuak mai rawh; mit khing hnih neia Gehenna, an lung thih ngai lohna leh mei mih ngai lohnaa paih ai chuan, mit khing khat neia Pathian rama luh i tân a ṭha zâwk e.
+41009048	
+41012037	Davida ngei chuan ani chu ‘Lalpa’ a ti si a, khawiah nge a fapa a nih ang?” a ti a. Tin, vântlângho chuan lâwm takin a thu an ngaithla a.
+42001001	Kha thil kan zînga lo thleng, a tîr ata a hmutute leh thu rawngbâwltuten keimahni min hrilh ang khân, mi tam takin ziak an tum ta a;
+42001002	
+42001024	Tin, chumi hnuah chuan a nupui Elizabeti chu a lo rai ta a, “Mi hnêna ka hmingchhia chhilh nân Lalpan duhsak takin heti hian mi tihsak ta,” tiin thla nga a biru a.
+42001025	
+42001074	Kan dote lakah kan hima, Kan dam chhûng zawng a mit hmuha thianghlim leh fel taka awma, Hlau lova a rawng min bâwltîr tûr thu kha.
+42001075	
+42002004	Tin, Josefa pawh, Davida chhûngte leh a thlah a nih avângin, Galili rama Nazareth khua aṭangin Mari, a nupui hual, rai ṭeuh chung nên chuan hming ziak tûrin, Judai rama Davida khua Bethlehem an tihah chuan an kal ta a.
+42002005	
+42002022	Tin, Mosia dân anga an inthen ni a lo thlen chuan, ani chu (Lalpa dân thua, “Mipa fa chhûl keu apiang chu Lalpa tâna ruat an ti ang,” tia ziak ang khân) Lalpa hnêna hlân tûr leh, Lalpa dân thua ziak angin ṭhuro tuak khat emaw, pârvano pahnih emaw talh tûrin Jerusalem khuaah an han hruai a.
+42002023	
+42002024	
+42004001	Tin, Isua chu Thlarau Thianghlimin a khat a, Jordan lui aṭangin a kîr leh a, Diabola thlêm chungin thlalêrah ni sawmli Thlarau hruaiin a awm a.
+42004002	
+42007028	Hmeichhe hrin zîngah Johana aia ropui zâwk an awm lo; nimahsela, Pathian rama mi tê deuh pawh ani ai chuan an ropui zâwk, ka ti a che u,” a ti a.
+42011050	chutichuan, Abela thisen chhuah achin Zekaria, maichâm leh biak in inkâra thia thisen chhuak thleng khân, zâwlnei zawng zawng thisen leilung pian tirh ata chhuak chu, tûnlai chhuante chungah hian phuba an la thei ang,’ a tih kha. A ni, ka hrilh a che u, tûnlai chhuante chungah hian phuba an la ang.
+42011051	
+42014029	Chuti lo chuan, lung phûm tawh zeta a sak zawh theih loh chuan, a en apiangin, ‘He mi hian in a rel ting a, a sa zo thei si lo,’ tiin an nuihsan dah ang e.
+42014030	
+42019037	Tin, an thlen dâwn hnaihin, Olive tlâng liam dâwnah chuan, zirtîr mipui zawng zawng chu a thil mak tih zawng zawng an hmuh avângin an lâwm a, aw ring takin, “Lalpa hminga Lal lo kal chu fakin awm rawh se, vânah rem thu lêng sela, chungnung berah khian ropuina awm rawh se!” tiin Pathian an fak ta a.
+42019038	
+42019043	I râlten i vêlin lei kulh an siam ang a, an hual ang chia, i vêlin chhuah theih lohvin an awm chhan ang chia, i chhûnga i fanaute, nangmah nên leiah an paih vak ang che, i chhûnga lung intiang rêng rêng an zuah lo vang; an fan lai che i hriat loh avângin chutiang nite chu i chungah a lo la thleng ang,” tiin.
+42019044	
+42020018	Tu pawh chumi lung chunga tlu apiang an keh sawm ang; a delh lek phei chu a râwt dip ang,” a ti a.
+42020042	Fakna Hla Buah Davida ngeiin, ‘Lalpa chuan ka Lalpa hnênah, “I hmêlmate i ke nghahchhana ka siam hma loh zawng Ka ding lamah ṭhu rawh,” a ti,’ a ti a.
+42020043	
+42020044	Chutichuan, Davidan ani chu ‘Lalpa’ a ti si a, engtin nge a fapa a nih theih le?” a ti a.
+42022029	tichuan, ka rama ka dawhkâna in eia in bâr theihna tûrin, ka Pain ram mi ruatsak angin ram ka ruatsak che u a ni; tichuan, Israel hnam sâwm leh hnam hnih rorêlsakin lalṭhutphahah in la ṭhu ang.
+42022030	
+43010014	Kei zawng berâm vêngtu ṭha ka ni; Pain mi hriat leh keiin Pa ka hriat ang hian ka ta ka hria a, ka ta pawhin mi hria a ni; tin, beramte tân chuan ka nun ka pe.
+43010015	
+44001021	“Chutichuan, Lal Isua, kan zînga lût ṭhîn, chhuak ṭhîna a awm chhûng zawnga, Johana baptisma achin, kan hnên ata vâna hruai chhohva a awm ni thleng khân, hêng min pâwl ṭhînte zîngah hian mi pakhat, a thawhlehna min hriatpuitu atân a awm tûr a ni,” a ti a.
+44001022	
+44001024	in, an ṭawngṭai a, “Nang, Lalpa, mihring zawng zawng rilru hretu, Juda chuan ama awmnaa kal tûrin hêng rawngbâwl leh tirhkoh hna a tlâwmsan hi, a ai awh tûrin he mite pahnih hi, a tu zâwk nge i thlan min hriattîr ang che,” an ti a.
+44001025	
+44007039	min thlahtute chuan a thu an zâwm duh lo va, an hnar a, Arona hnênah, ‘Kan hma hruai tûrin pathiante min siamsak rawh; he Mosia, Aigupta ram ata min hruai chhuaktu lah hi a chanchin kan hre ta si lo va,’ tiin an rilrute chu Aigupta ram lamah a lêt leh ta a.
+44007040	
+44008006	Tin, ramhuai bawlhhlawhte chu, mi tam tak an manate kawchhûng ata aw ring taka auva an chhuah avâng leh, zeng leh kebai tam takte pawh an lo dam tâk avângin, mipuiten a thu an hriata a thil mak tihte an hmuhin, Philipa thusawi chu rilru hmun khatin an ngaihsak a.
+44008007	
+44008018	Tin, tirhkohte kut nghah avângin Thlarau Thianghlim pêk a ni tih Simonan a hmuhin, “Hetiang thuneihna hi mi pe ve rawh u, tu chungah pawh kut ka nghahna apiangin Thlarau Thianghlim an hmuh ve nân,” tiin an hnênah tangka pêk a tum ta a.
+44008019	
+44015025	Chuvângin, thu khat vuaa kan inkhâwmin, kan duh tak Barnaba leh Paula, Lalpa Isua Krista hming avânga thih dâwn lote kal rual hian, mi thlante in hnêna rawn kaltîr ve ṭha kan ti a.
+44015026	
+45001002	(chu Chanchin Ṭha, a Fapa kan Lalpa Isua Krista thu chu, Pathianin hmânlaiin a Lehkha thianghlimah chuan a zâwlneite kain a tiam tawh a; ani chu tisa lam thu-ah chuan Davida thlaha piang a ni a,
+45001003	
+45001009	Ka ṭawngṭainaahte chuan bâng lovin in hming ka lam fo va, tûnah tal hian in hnêna ka lo kalna tûrin, Pathian thu thua zin hun remchâng ka hmuh hrâm hrâm theih nân ka dîl ṭhîn tih, a Fapa Chanchin Ṭhaa ka thlarauva a rawng ka bâwl ṭhin Pathian chu a hretu a ni si a.
+45001010	
+45002013	Dân hretu maite chu Pathian mit hmuhin mi fel an ni lo va; Pathianin ka Chanchin Ṭha sawi anga mihringte thurûk Isua Krista hmanga a ngaihtuah niah chuan, Dân anga titute chu mi fela chhiarin an awm zâwk ang. Dân nei lo Jentailten mahni thinlung pianpuia Dân thilte chu an tihin, chûng chuan dân nei lo mah sela, anmahni leh anmahni dânah an innei chawp si a, an thinlungah Dân thiltih ziak a ni tih an entîr a, chu chu an chhia leh ṭha hriatnain a hriatpui a, an rilrute chu a inhnial a, thiam loh a chantîr thûl a, thiam a chantîr thûl a.
+45002014	
+45002015	
+45002016	
+45002019	Dânah chuan finna leh thutak awm dân i neih avângin nang ngei, mitdelte hruaitu, thim zînga awmte êntu, mi fing lote tifingtu, nausênte zirtîrtu niah i inring a;
+45002020	
+45003029	Pathian chu Juda-te Pathian chauh em ni? Jentailte Pathian pawh a ni ve lo vem ni? Ni ve e. Serh tante chu an rin avânga thiam chantîrtu tûr leh, serh tan lohte chu an rin azâra thiam chantîrtu tûr chu Pathian pakhat chauh a nih si chuan, Jentailte Pathian pawh a ni ve ang chu.
+45003030	
+45004016	Chuvângin, khawngaihnain a nih theih nân rinna avângin a nih hi, thlahte zawng zawng chuan thutiam chu matheilova an hmuhna tûrin, Dân nei mite chauhvin an hmu lo vang a, Abrahama neih ang rinna neite pawhin an hmu bawk ang. Mitthite tinungtu leh, thil awm lote awm anga sawitu, a rin Pathian mit hmuhah chuan Abrahama chu kan zaa pa a ni (“Chi tam takte paah ka siam a che,” tih ziak ang khân).
+45004017	
+45006017	Amaherawhchu, sual bawihte ni mah ula, zirtîr dân a hnêna in inpêkna chu rilru takzetin in lo awih a; tin, sual lak ata chhuahin in awm a, felna bawihte in lo ni ta a; chuvângin, Pathian hnênah lâwm thu awm rawh se
+45006018	
+45008037	Ṭhen suh e, chûng zawng zawngah chuan, min hmangaihtu avâng chuan ropui taka ngamtu kan ni.
+45008038	Thihna te, nunna te, vântirhkoh te, lalna te, thil awm sa te, thil lo la awm tûr te, thiltihtheihna te, sânna te, thûkna te, thil siam dang rêng rêngte pawhin, kan Lalpa Krista Isuaa awm Pathian hmangaihna ata chu min ṭhen thei lo vang tih dik takin ka hre si a.
+45008039	
+45009022	Khawngaihna bêl, ropui tûra a lo buatsaih lâwkate chungah chuan, a khawngaihna ngahzia a entîr theih nan, thinurna bêl boral tlâkte chungah chuan Pathianin a thinur leh a thiltihtheihna lantîr duh mah sela, a dawh hrâm hrâm chuan eng nge pawi ang?
+45009023	
+45009027	saia pawhin Israel mite thu aupuiin, “Israel mite chu tuifinriata ṭiau zâtin tam mah sela, a hrem bâk chauh chu chhandamin an awm ang.
+45009028	Lalpa chuan rang taka ti zo diamin lei chungah a hrem tûr thu a hlen dâwn si a,” a tih kha.
+45010019	A nih leh, Israel miten an hre lo vem ni? “Chia sawi tham lohte chu hmangin Ka thîktîr ang che u a; Chi fing lote chu hmangin Ka tithinur ang che u,” tiin, Mosian a sawi hmasa ber.
+45010020	Tin, Isaian huai takin, “Mi zawng lote hmuhin ka awm a, Mi lam lote hnênah hriattîrin ka awm,” a ti a.
+45010021	Amaherawhchu, Israel mite thu-ah chuan, “Mi tihmawh leh hnialhrâtte tân Nilêngin ka bânte ka phar ṭhin kha,” a ti a.
+45011013	hutichuan, nangni Jentailte hnênah ka sawi a ni. Kei, Jentailte tirhkoh ka nih avângin ka chipuite ka thîktîr theih hrâmna tûr leh, an zînga ṭhenkhatte ka chhandam theihna tûrin ka rawngbâwlna hi ka chawimawi a ni.
+45011014	
+45015005	Chutichuan, kan Lalpa Isua Krista Pathian leh a Pa chu, thinlung hmun khat leh inthuruala kan chawimawi theihna tûrin, chhelna leh thlamuanna Pathian chuan, Krista Isua sawi angin rilru hmun khat pu tawnin awmtîr che u rawh se.
+45015006	
+45015008	Hei hi ka sawi chu a ni; thlahtute hnêna thutiamte kha tinghet tûr leh, a khawngaihna avânga Jentailten Pathian an chawimawi theihna tûrin, Pathian thu a dik tih hriattîr nân, Krista chu serh tante rawngbâwltuah a lo awm a. “Chuvângin, Jentailte zîngah chuan, Ka fak ang chia, I hming chawimawina tûrin Hla ka sa ang,” tih ziak ang khân.
+45015009	
+45015010	Tin, “Nangni Jentail zawng zawngte u, A mite nên lâwm rawh u,” a ti leh a.
+45015011	Tin, “Nangni Jentail zawng zawngte u, Lalpa chu fak rawh u; Mi zawng zawng pawhin Amah fak rawh se,” a ti leh a.
+45015012	Tin, Isaian, “Jesaia zungzâm chu a awm ang a, Jentailte lala awm tûrin A lo chhuak tûr chu a awm bawk ang; Ani chu Jentailte chuan an beisei chhan ang,” a ti leh bawk a.
+45015015	Nimahsela, Jentailte zînga Krista Isua rawngbâwltua ka awm theihna tûrin, Pathianin mi pêk khawngaihna avâng hian hriatpui tûr che uin, khawimaw kâr kârah huai deuhvin ka ziak a ni. Ka Jentail hlante chu Thlarau Thianghlim tihthianghlim an niha, lawm tlâk an nih theihna tûrin, Pathian Chanchin Ṭha kawngah puithiam hna ka thawk a ni.
+45015016	
+45015018	Kristan Jentailte awihtîr tûrin thusawi leh thiltihin, chhinchhiahnate leh thil makte, thiltihtheihna leh Thlarau Thianghlim thiltihtheihnaah keimah mi hmanga a thiltihte lo chu eng mah ka sawi ngam si lo va. Jerusalem khua leh a vêl ram aṭangin, Illurikon ram thlengin, Krista Chanchin Ṭha chu ram tinah ka hril kim tawh; keimah mi hmanga a thiltih chu chuti kau chu a ni.
+45015019	
+45015030	Unaute u, in mi ṭawngṭaisaknaah chuan Judai rama ringlote laka ka him theih nân leh, Jerusalem khaw tâna chhawmdâwlna ka ken hi mi thianghlimho lâwm zâwng tak a nih theih nân, mi ṭawngṭaipui hrâm tûrin Lalpa Isua Krista leh Thlarau Thianghlim hmangaihnain ka ngên chiam a che u;
+45015031	
+45016001	Kan farnu Phoibi, Kenkriai khuaa kohhranho rawngbâwltu hi, Lalpa hminga mi thianghlimte ang bawka in lo lawmna tûr leh, in puih a ngaihna apianga in puih tûrin hmêlhriattîr che u ka duh a ni. Amah ngei pawh hi mi tam tak puitu a lo ni ṭhîn a, keimah ngei pawh mi pui a ni.
+45016002	
+45016003	Priskilli leh Akuila, Krista Isuaa ka hnathawhpui, ka nun chhanhim nâna nghâwng dawhte kha chibai mi bûksak ang che u; kei chang ni lovin, Jentail kohhranho pâwl zawng zawngin anni hnênah chuan lâwm thu an sawi a ni.
+45016004	
+45016025	Ka Chanchin Ṭha leh Krista thu hrilh angin, thurûk puanna ang hian (chu thurûk chu chatuan ata a inthup ṭhîn a, tûnah erawh chuan tihlan a ni a, rinna chu an lo awihna tûrin, chatuan Pathian thupêk ang zêlin, Zâwlneite Lehkha Thuin hnam tin hnênah hriattîr a ni tawh), nangni tinghet theitu
+45016026	
+46002004	Tin, in rinna chu mihring finnaa innghat lovin, Pathian thiltihtheihnaa innghata a awm theih zâwkna tûrin, ka ṭawngka chhuak leh ka thuhrilte chu thu finga thlêmna thuin a ni lo va, Thlarau leh thiltihtheihna hriattîrin a nih zâwk kha.
+46002005	
+46002010	Keini erawh chu chûng chu Pathianin Thlarauvin min hriattîr ta a ni; Thlarau chuan engkim a chhui chhuak si ṭhîn; a ni, Pathian thu ril pawh.
+46002011	Mihring thute chu mihring rilru, a chhûnga awm vêk lo chuan, mihring zîngah tuin nge hria ang? Chutiang bawkin Pathian thute chu Pathian Thlarau vêk lo chuan tu mân an hre lo.
+46002012	Chutichuan, a thlâwna Pathianin thil min pêkte chu kan hriat theihna tûrin, keini zawngin khawvêl thlarau ni lovin, Thlarau, Pathian hnêna mi chu, kan hmu zâwk a ni.
+46002013	Mihring finna zirtîr thua sawi lovin, Thlarau zirtîr thua sawi zâwkin, Thlarau lam thute chu thlarau lam mite hnêna hrilh fiahin, chûng thil min pêk thute pawh chu kan sawi ṭhîn.
+46002014	Khawvêl mi chuan Pathian Thlarau lam thilte chu a lâwm ṭhîn lo, ani ngaih chuan âtthlâk a ni si a; Thlarauva hriat fiah a nih avângin a hre thei lo rêng rêng bawk a ni.
+46002015	Thlarau mi erawh chuan thil engkim a hre fiah ṭhîn a, ani lah chu tu mân an hre fiah si lo.
+46002016	Tuin nge Lalpa rilru hre tawha, amah chu zirtîr thei ang? Keini erawh chuan Krista rilru kan pu a ni.
+46007029	Amaherawhchu, unaute u, hei hi ka ti a ni: tûn achinah chuan nupui neite chu nei lo anga an awm theihna tûr leh, ṭapte chu ṭap lo anga an awm theihna tûr leh, lâwmte chu lâwm lo anga an awm theihna tûr leh, leitute chu nei lo anga an awm theihna tûr leh, khawvêl hmangtute chu hmang lutuk lova an awm theihna tûrin hun hi tihtawiin a awm a ni; he khawvêl awm dân hi a boral mêk a nih hi.
+46007030	
+46007031	
+46010032	Keiin mahni sâwtna zawng lovin, chhandam an nih theihna tûrin mi tam tak sâwtna zawng zâwkin, mi zawng zawng engkima ka tihlâwm ang tak hian, Juda-te tân pawh, Grik-te tân pawh, Pathian kohhranho tân pawh, an tlûk phahna tûr rêng eng mah ti suh u.
+46010033	
+46012024	kan pêng mawite erawh hi chuan chutianga tih an ngai lo. Taksaah hian inṭhenna rêng rêng awm lo va, a pêngte hian inang taka an inbuaipui tawn ṭheuh zâwkna tûrin, Pathianin mawina nei lo pêng chu chawimawi nasa zâwkin taksa hi a rem khâwm a ni zâwk.
+46012025	
+46015051	Ngai teh u, thurûk ka hrilh dâwn che u hi: kan zain kan muhîl kher lo vang a; nimahsela, kan zain tawtawrâwt hnuhnûng ber rîk hunah chuan rei lo têah, mit khap kâr lovah tihdanglamin kan awm vek tawh ang; tawtawrâwt chu a ri dâwn si a; chutichuan, mitthite chu ṭawih thei lova kaihthawhin an awm ang a, keini pawh tihdanglamin kan awm tawh ang.
+46015052	
+47001013	In chhiar ṭhina, awih pawh in awiha lo kha chu thu dang rêng rêng in hnênah kan ziak lo; kan Lalpa Isua Niah chuan nangni kan chhuan in ni dâwn ang bâwkin, keini pawh in chhuan kan ni dâwn tih in zînga ṭhenkhatin min awihsak ve tâk ang khân, a tâwp thlengin kan thu chu in awih ka beisei bawk a.
+47001014	
+47006017	Chuvângin, “ ‘An zîng ata lo chhuak ula, A hrangin awm rawh u, Thil bawlhhlawh rêng rêng pawh dek suh u.’ Lalpan a ti.” Chutichuan, “ ‘Ka lâwm ang che u a,
+47008003	Khawngaihna, mi thianghlimte rawngbâwla tel ve chu, nasa taka min dîl chiamin, an theih tâwkin, a ni, an theih tâwk aia liam pawh, anmahni duh thu ngeiin an pe tih ka hriatpui asin.
+47008004	
+47009010	Tin, thilphalna tinrêng, keimahni avânga Pathian hnêna lâwm thu sawina siamtu chu nei tûra engkima tihhausaka awmin, thehtu hnêna chi petu leh ei atâna chhang petu chuan, in theh tûr chi chu a pe che uin, a tihpunsak ang che u a, in felna rahte chu a tihhlâwksak bawk ang che u.
+47009011	
+47013002	Ka sawi lâwk tawh a; tin, Krista, keimaha thu sawi ṭhîntu chu fiahna in zawn avângin, vawi hnihnaa in hnêna ka awm laia ka sawi ang khân, tûnah in hnêna awm lovin tûn hma lama thil tisualtute hnênah leh, mi dang zawng zawng hnênah ka sawi lâwk leh dâwn, “Ka lo kal leh chuan ka zuah lo vang,” tih hi; ani chu nangmahni lamah a chak lo lo va, in zîngah thil ti thei tak a ni zâwk a ni.
+47013003	
+48004004	Nimahsela, a hun bi a lo kim khân fa nihna kan hmuh theih nân, Dân hnuaia awmte chu tlan tûrin Pathianin a Fapa, hmeichhe hrin, Dân hnuaia lo piangin a tîr chhuak ta a.
+48004005	
+49001005	a khawngaihna ropuizia fak tûrin ama lungduha lâwm zâwng angin, Isua Krista zârah ama tân faa siam tûra min lo ruat lâwk tawh avângin. Chu khawngaihna chu Duhtakaah chuan a thlâwnin min pe a;
+49001006	
+49001009	a duh zâwng thurûk kan hnêna min hriattîrin; hun bi kim khawsak hunah a lâwm zâwng (engkim - vâna thil awmte, lei chunga thil awmte pawh - Kristaa fâwk khâwm tûr chu) amahin tih a tum ang khân; amah ngeiah chuan a ni.
+49001010	
+49001016	kan Lalpa Isua Krista Pathian, ropuina Pa chuan amah hriatna kawngah finna leh hriat chiantîrna thlarau a pêk theihna tûr che uin, ka ṭawngṭainaahte chuan in hming lamin in chunga lâwm thu hrilh ka bâng lo.
+49001017	
+49001019	mitthi zîng ata a kaihthawh lai leh, lalna te, thuneihna te, thiltihtheihna te, rorêlna zawng zawng te, hemi khawvêlah chauh ni lova, khawvêl lo la awm tûr pawha hming sak tinrêngte chung daihah, vân hmunahte a ding lama a ṭhuttîr laia Kristaa a thawh, a thahrui chakna thawhzia ang zêl khân, keini ringtute lama a thiltihtheihna len nasatzia te hi eng ang nge a nih in hre thei ang.
+49001020	
+49001021	
+49002014	Amah chu kan inremna a ni si a; ani chuan intaina (thiltih tûrahte thupêk dân awm chu) a tisaa tibovin, pâwl hnihte chu pumkhatah a siam a, an kâr pindanna bang chu a tichim a; chutichuan, amahah chuan pahnihte chu mihring thar pumkhatah siamin inremna a siam thei ang a,
+49002015	
+49003008	entailte hnêna Krista hausakna chhui chhuah rual lohte chanchin hril tûr leh, thurûk, chatuan aṭanga Pathian, engkim siamtuah inthupa awm enkawlna chu eng nge ni tih mi zawng zawng entîr tûrin, kei, mi thianghlim zawng zawng zawnga tê ber aia tê zâwk hnênah hian chu khawngaihna chu pêk a ni.
+49003009	
+49003010	Chutichuan, kan Lalpa Krista Isuaa tih a tum, a chatuan remruat ang zêlin, tûnlaia vân hmunahte khian lalna leh thuneihnate hnênah chuan, Pathian finna tinrêng kohhranho avângin hriattîrin a awm thei ang;
+49003011	
+49003014	Chu vâng chuan Krista chu rinna avânga in thinlunga a chên theih nân, a ropuina ngahzia ang zêlin, a Thlarau zârah mihring chhûngnung lamah chuan thiltihtheihnaa tihchakin a awmtîr theihna tûr che uin, Pa, lei leh vâna chhûngkaw tinrêng hming chawi chhana hmaah chuan ka ṭhingṭhi ṭhîn a; chutichuan, Pathian famkimna tinrêng tluka tihkhaha in awm theih nân, nangni hmangaihnaa zung kai leh nghahchhan neia awmin, mi thianghlim zawng zawng nên chuan a zauzia te, a seizia te, a sânzia te, a thûkzia te hriat chian theihna leh, Krista hmangaihna hriat phâk loh hriat theihna in nei thei ang.
+49003015	
+49003016	
+49003017	
+49003018	
+49003019	
+49004001	Chutichuan, inngaihtlâwmna leh thuhnuairawlhna zawng zawng neia, hmangaihnaa indawh tawn chunga dawhtheihna neia, remna phuarnaah chuan Thlarau inpumkhatna chu vawng tûra beia, a kohna che u phua awm tûrin, kei, Lalpaa mi tâng hian ka ngên a che u.
+49004002	
+49004003	
+49004011	Tin, rinna leh Pathian Fapa hriatna kawngah chuan thu khat vuaa, puitlinga, Krista famkimna lenzia tluka kan zaa kan lo awm hma loh zawng, rawngbâwl hna thawk tûra mi thianghlimte tihfamkim nân, Krista taksa siam ṭha tûrin ṭhenkhat chu tirhkoh atân te, ṭhenkhat chu zâwlnei atân te, ṭhenkhat chu Chanchin Ṭha hriltu atân te, ṭhenkhat chu kohhran châwmtu leh zirtîrtu atân te a pe a.
+49004012	
+49004013	
+49005008	Hmânah khân thim in ni a, tûnah erawh chuan Lalpaah chuan êng in lo nih tâk hi; Lalpa lâwm zâwng eng nge ni tih fiahin, êng fate angin awm rawh u, êng rah chu ṭhatna leh, felna leh thutak zawng zawngah a lang si a.
+49005009	
+49005010	
+49006005	Bawihte u, Krista thu zâwm angin ṭih dêk leh khûra thinlung sakhat vuain, mihring tilâwmtute mai anga mit rawng bâwl lovin, Krista bawih anga thinlunga Pathian duh zâwng ti zâwkin, mihring rawng bâwl ang mai ni lovin, Lalpa rawng bâwl ang zâwka duh tak chunga rawng bâwlin, bawih ni sela, bawih ni suh sela, mi tinin thil ṭha an tih apiang chu Lalpa hnên ata a ngai vêk an hmu leh ang tih hriain, tisaa in hotute thu zâwm rawh u.
+49006006	
+49006007	
+49006008	
+50001003	Ni hmasa ber aṭang khân tûn thlengin Chanchin Ṭha puan darhnaa in tel ve ṭhin avângin, ka hriat chhuah apiang che uin ka Pathian hnênah lawm thu ka hril ṭhîn, nangmahni zawng zawng ka ṭawngṭaisakna che u apiangah hlim taka dîl fovin.
+50001004	
+50001005	
+50001010	chutichuan, Pathian ropuina leh fakna tûra Isua Krista zâra felna rah awm chuan lo khatin, Krista ni atân chuan a tak tak leh sawisêl bo in nih theihna tûrin, thil ṭha bîkte chu ṭha in ti thei ang.
+50001011	
+50001027	Eng pawh ni sela, in awm dân chu Krista Chanchin Ṭha nên inmawi phawt rawh se; chutichuan, nangmahni rawn kan che u mah ila, in hnênah awm lo mah ila, thlarau hmun khata ding nghetin, rilru hmun khata Chanchin Ṭha rinna thu ṭana bei tlângin, dotute eng kawngah mah hlau lovin in awm tih in chanchin ka hre thei ang; chu chu anmahni tân boral tûr an nih hriattîrna fiah tak a ni, nangni tân erawh chuan chhandam tûr in nih hriattîrna fiah tak a ni zâwk e, chu pawh chu Pathian laka mi a ni.
+50001028	
+50002009	Chumi avâng chuan Isua hmingin mi tin - vâna mite, leia mite, lei hnuaia mite nên - an ṭhingṭhit nân leh Pa Pathian tihropuina tûrin, “Isua Krista chu Lal a ni,” tiin lei tinrêngin a puan nân, Pathianin ani chu nasa takin a chawimawi ve ta thung a, hming zawng zawnga hming chungnung ber chu a pe ta a.
+50002010	
+50002011	
+50002014	Chhuan bengtlalo leh tihmawhte zînga sual nei lo leh nun tlang, Pathian fa sawisêl bote in nih theihna tûrin, phunnawina leh inhnialnate awm lovin engkim ti rawh u (chûngho zîngah chuan nunna thu hlânin khawvêlah hian tiêngtu angin in lang ṭhîn), chutichuan, a thlâwna tlân ka nih lohva, a thlâwna thawk rim ka nih hek loh avângin Krista niah chuan chhuan tûr ka nei thei ang.
+50002015	
+50002016	
+51001003	Vânah in tân beiseina an dahsak che u avângin, Krista Isua in rinzia leh mi thianghlim zawng zawngte chunga hmangaihna in neihzia kan lo hriat achin in tâna ṭawngṭai fovin, Pathian, kan Lal Isua Krista Pa hnênah chuan lâwm thu kan hril ṭhîn a. Chumi beiseina chanchin chu, hmânah Chanchin Ṭha thutak thu-ah khân in hre tawh.
+51001004	
+51001005	
+51001006	Chumi Chanchin Ṭha chu khawvêl zawng zawngah rahin a pung zêl ang bawk hian, in hnêna a thlen kha. Chutiang bawkin Epaphra, kan bawihpui duh tak laka in zir angin, tihtakzeta Pathian khawngaihna chu in ngaihthlâka in hriat ni achinah khân, nangmahniah pawh rahin a pung zêl ṭhîn a ni. Epaphra hi kan aiawhin Krista rawngbâwltu rinawm tak a ni a,
+51001007	
+51001010	Chutichuan, hnathawh tinrênga lo rahin, Pathian hriat famkimna kawnga lo sâwt deuh deuhvin, hlim taka chhelna leh dawhtheihna tinrêng nei tûra a ropuina chakzia ang zêla chakna tinrênga lo chakin, Pa, ênga mi thianghlimhote ro chu ṭâwm ve tlâka min rawn siamtu hnênah chuan lâwm thu hrilin, kawng tinrênga amah tilungawi tûrin Lalpa zui tlâkin in awm thei ang.
+51001011	
+51001012	
+51001019	Famkimna tinrêng chu amaha awm reng leh, a kraws thisen chuan remna lo siamin, amahah chuan engkim amah nêna inremtîr hi Pa lungnih zâwng tak a ni si a; amah ngeiah chuan leia thil awmte pawh, vâna thil awmte pawh amah nêna inremtîr hi.
+51001020	
+51001021	Tin, nangni hmâna in thiltih sualnaah khân ama lakah ṭhenin in lo awm a, in rilruah chuan a hmêlma in lo nih bawk kha; nimahsela, tûnah zawng, a hmaah chuan thianghlim tak leh, hmêlhem lo leh sawisêl bova a dintîrna tûr che uin, a thihnain a tisa taksaah chuan amah nên a inremtîr tawh che u a ni;
+51001022	
+51002002	chutichuan, Pathian thurûk (finna leh hriatna ro zawng zawng thuhrûkna Krista chu) an hriat theih nân, hriata rin tlatna lukhâwng zawng zawng chu dawng tûra hmangaihnaa insuih khâwmin, an thinlungte chu thlamuangin a awm thei ang.
+51002003	
+51002006	Chuvângin, Krista Isua, Lalpa chu in lâwm ang khân, amaha zung kai leh rem chhoh deuh deuhva awmin, an zirtîr che u ang khân in rinnaah chuan nghet taka awmin, lâwm thu sawi lo uarin, amahah chuan awm rawh u.
+51002007	
+51003023	A rulhna ro luah tûr chu Lalpa hnên ata in hmu dâwn tih hriain, in tih apiang chu mihring tân anga ti lovin, Lalpa tân anga ti zâwkin, châk takin ti rawh u; Lalpa Krista rawng in bâwl a nih hi.
+51003024	
+52001002	Kan Pathian leh Pa hmaah chuan rinna avânga in thiltihzia te, hmangaih avânga in thawh rimzia te, kan Lalpa Isua Krista beisei avânga in chhelzia te kha theihnghilh lova hre rengin, kan ṭawngṭainaahte chuan in hming lamin, nangmahni zawng zawng avângin Pathian hnênah lâwm thu kan hril fo ṭhîn a ni.
+52001003	
+52001009	Kan tlawh che u ṭuma min lawmzia te, Pathian nung leh dik tak rawngbâwl tûr leh a Fapa (mitthi zîng ata a kaihthawh, thinur lo thleng tûr laka min chhanchhuaktu Isua kha) vân ata lo nghâk tûrin, milem hawisana Pathian lam in hawi tâk thute kha an sawi fo ṭhîn a ni.
+52001010	
+52002011	Ama ram leh ropuinaa ko lûttu che u Pathian mi ni tlâka in awm theihna tûrin, pain ama fate chunga a tih angin, fuih leh thlamuan leh hriattîr che uin, in chung ṭheuhva kan tih zia kha in hre si a.
+52002012	
+52003009	In hmêl kan hmuh theihna tûr leh, in rinna lama in tlâkchhamna kan phuhrûksak theihna tûr che uin, a chhûn a zâna nasa taka ṭawngṭaiin, kan Pathian hmaah in chunga kan hlimna zawng zawng avâng hian, nangmahni lam thu-ah Pathian hnênah eng lâwm thu nge kan hrilh ve thung theih ang le aw?
+52003010	
+52004004	Pathian hre lo Jentailhote anga hur kawngah châk lovin, thianghlim leh chawimawiin mahni bêl vawng thiam ṭheuh ula;
+52004005	
+52005012	Nimahsela, unaute u, in zînga thawk rim leh, Lalpaa in hotua awm leh, zilhtute che u chu hre tûr leh, an hnathawh vânga hmangaiha ngaihlu êm êm tûrin kan ngên che u a ni. Inremin awm rawh u.
+52005013	
+53001006	Lalpa Isua, Pathian hre lo mi leh kan Lalpa Isua Chanchin Ṭha awih lo mite chunga phuba lain, a vântirhkoh chak takte nên, meialh zînga vân aṭanga a inlâr hunah, a tihrehawmtute che u chu hrehawma thungrulh leh, nangni hrehawm tuartute hi keimahni nêna chawlhnaa rulh thung chu, Pathian tân thil fel tak a ni si a.
+53001007	
+53001008	
+53001009	Chumi niah chuan a mi thianghlimahte chuan chawimawia awm tûr leh, ringtu zawng zawngahte chuan (kan thu hriattîr che u kha in ring si a) mak tih tûra a lo kal hunah chuan, chûng Pathian hre lo mi leh kan Lalpa Isua Chanchin Ṭha awih lo mite chuan hrem an tuar ang, Lalpa hnên ata leh a chakna ropuina aṭanga chatuana boralna chu.
+53001010	
+53003001	A tâwp berah chuan unaute u, Lalpa thu hi nangmahni zînga a awm ang khân, pungin chawimawia a awm theihna tûr leh, mi luhlul leh mi sualte laka kan him theihna tûrin min ṭawngṭaisak rawh u; mi zawng zawng chuan rinna an nei vek si lo va.
+53003002	
+54001010	inngaih hmangho tân te, mawngkawhurho tân te, mihring rûk hmangho tân te, dawtheiho tân te, chhechham derho tân te leh, fak tlâk Pathian Chanchin Ṭha ropui zirtîrna dik ka hnêna kawltîr ang ni lova, thil dang rêng awm apiangte tân pawh chuan siam a ni zâwk e.
+54001011	
+54001012	Mi tichaktu Krista Isua kan Lalpa hnênah chuan lâwm thu ka sawi a ni, hmânah sawichhetu leh tiduhdahtu leh sawisatu ni mah ila, rinawma mi ngaiha, a rawngbâwltua mi ruat tâk avâng hian; nimahsela, ring lo chunga hre lova ti ka nih avângin a ni, zahngaihna ka lo hmuh ni;
+54001013	
+54004001	Nimahsela, hun lo la awm tûrah chuan mi ṭhenkhat chuan, mi dawtheite vervêkna avângin hruai bona thlaraute leh ramhuaite zirtîrna thu ngaihsakin, rinna chu an la bânsan ang tih Thlarau chuan chiang takin a sawi a. Chûng mi dawtheite chu anmahni chhia leh ṭha hriatna ngeia thîr linga deh ang an ni a,
+54004002	
+54005009	Hmeithai chu kum sawmruk achin hnuai lam ni lo, mi pakhat nupui ni tawh, thil ṭha tih kawnga mi faka a awm chuan hmeithaia ziak theih a ni - fate lo châwm tlei tawha, mikhualte lo thleng tawha, mi thianghlimte ke lo sil tawha, mi mangangte lo chhawmdâwl tawha, thil ṭha tinrêng taima taka a lo tih tawh phawt chuan.
+54005010	
+55001003	Lâwma ka khah theih nân hmuh che ka duh êm êm a, i mittui hre rengin a chhûn a zânin bâng lovin ka ṭawngṭainaahte chuan ka hriatpui ṭhin che avângin Pathian hnênah lâwm thu ka hril a ni, min thlahtute chena chhia leh ṭha hriatna thiang tak neia a rawng ka bâwl ṭhina hnênah chuan;
+55001004	
+55003014	Nimahsela, nang zawng, tu hnêna zir nge i nih leh, Krista Isuaa rinna awm avâng chuan, chhandamna hmu khawpa tifing thei che Lehkha Thianghlimte chu i naupan têt ata hre tawh i ni tih inhriain, i thil zir leh i thil hriat chianahte chuan awm reng rawh.
+55003015	
+56001001	Paula, Pathian bawih, chatuana nunna beiseia Pathian thlante rinna kawngah leh, Pathian ngaihsak lam thutak hriatna kawnga Isua Krista tirhkoh bawk chuan (Chu chatuana nunna chu Pathian, dâwt sawi thei lova chuan khawvêl awm hmain a tiam a;
+56001002	
+56001013	Chu thu hriattîr chu a dik a ni. Chu vâng chuan Juda-ho thawnthute leh thutak hawisan ṭhînte thupêkte chu ngaihsak lovin, rinnaah chuan an dik theihna tûrin na takin zilhhau rawh.
+56001014	
+56002003	Pitarte pawhin Pathian Thu chu sawichhiatin a awm loh nân - la nula deuhte chu an pasalte hmangaih tûr te, an fate hmangaih tûr te, rilru fel taka awm tûr te, thianghlim taka awm tûr te, mahni ina thawktua awm tûr te, ngilneia awm tûr te, mahni pasalte thu thua awm tûr tea an thunun theihna tûrin, an awm dân rênga Pathian zah mite niin, hêktute leh uain heh mite ni lova, ṭha lam zirtîrtute ni tûrin fuih bawk rawh.
+56002004	
+56002005	
+56002007	Lehlama ṭangte zînga miin kan chungah thu ṭha lo rêng sawi tûr an neih loh avânga an zah theih nân, engkimah thil ṭha tih kawngah tihhmuhtuah intilang la, i zirtîrnaah chuan i takzia te, i zahawmzia te, i thusawi dikzia sawisêl rual loh te chu tilang rawh.
+56002008	
+56002009	Bawihte chu, Pathian kan Chhandamtu zirtîrna thu hi engkima an chei mawi theih nân, hnial lovin, kutkem hmang lovin, rinawmna ṭha zawng zawng tilang zâwkin, an pute thu thua awm tûr leh, engkima an lâwm zâwnga awm tûrin fuih rawh.
+56002010	
+56002012	beiseina lâwmawm - kan Pathian ropui tak, Chhandamtu Isua Krista ropuina inlârna chu - nghâkin, Pathian ngaihsak lohna leh khawvêl châknate bânsanin, tûnlai khawvêlah hian insûm leh 
+56002013	
+56003001	Lalte leh thuneitute laka intulût tûr te, thu awih tûr te, thil ṭha tinrêng tiha inpeih tûr te, tu mah sawichhe lo tûr te, kawhmawh bâwl lo tûr te, mi zawng zawng laka thuhnuairawlhna tinrêng tilanga nunnêm tûr tein anmahni hriat chhuahtîr leh rawh.
+56003002	
+57001004	Lalpa Isua lamah leh mi thianghlim zawng zawng lama hmangaihna leh rinna i neih chu lo hre ṭhînin, ka ṭawngṭainaahte chuan i hming lam fovin, ka Pathian hnênah lâwm thu ka hril ṭhîn;
+57001005	
+58001006	
+58002013	Tin, “Amahah ka rinna ka nghat ang,” a ti leh a. Tin, “En teh u, kei leh Pathian mi pêk naupangte hi,” a ti leh pek a.
+58002014	Tichuan, naupangte hi tisa leh thisen changte an nih hlawm avângin, amah ngei pawhin chûng bawk chu a chang ve ta a; thihnain thihna thuneitu (chu chu Diabola a ni) a tihboral theihna tûr leh,	
+58002015	thih hlauh vânga dam chhûnga bawiha awm zawng zawngte chu a chhanchhuah theihna tûrin.
+58004006	Chutichuan, ṭhenkhat chumi chawlhnaah chuan an la luh tûr thu a la awm avâng leh, hmâna Chanchin Ṭha hril dawngtute chu awih loh vânga an luh tâk loh avângin,
+58004007	rei tak hnu khân Davidaah chuan “vawiin hian” tiin, ni eng emaw a ruat nawn leh a ni, “Vawiin hian a aw in hriat chuan In thinlung tikhauh suh u,” tia a hmaa ka sawi ang khân.
+58006001	Chutichuan, Krista thu bul hril tawh lovin puitlin lam i pan ang u; thiltih thi simna te, Pathian lama rinna te, baptisma te leh, kut nghah leh, mitthi thawhlehna leh, chatuana rorêlna kawng lam zirtîrnate lungphûm chu phûm leh tawh lovin.
+58006002	
+58007015	Tin, Melkisedeka anga puithiam dang, tisa thupêk Dân thu anga siam mi ni lo, nun tâwp nei lo thiltihtheihna anga siam zâwk mi a lo awm dâwn chuan, kan thusawi kha nasa takin a fiah lehzual ang;
+58007016	
+58007018	A chak loh leh a sâwt lohna avângin thupêk awm hmasa chu paihin
+58007019	(Dân thu chuan eng mah a tifamkim si lo), beiseina ṭha zâwk, Pathian kan hnaih ṭhinna hi hruai luhin a lo awm ta hlauh zâwk a ni.
+58007020	Tin, chhechham loh a nih loh avângin (anni zawng chhechham lova puithiama siam an ni si a; ani erawh chu, “ ‘Nang zawng chatuana Puithiam i ni e,’ tiin, Lalpan chhia a chham a, a inlamlêt tawh lo vang,” tia a hnêna sawitu kut khân chhechhama Puithiama siam a ni zâwk),
+58007021	
+58007022	chuti bawka nasa chuan, Isua chu thuthlung ṭha zâwk tihnghehpuitu a lo ni ta.
+58008001	Tichuan, kan thusawite zîngah hian a pawimawh ber chu hei hi a ni: chutiang Puithiam Lalber, vânahte khian Ropuibera lalṭhutphah ding lama han ṭhua, Hmun Thianghlim leh biakbûk tak tak, mihring sak ni lo, Lalpa sak zâwka rawngbâwltu chu kan nei, tih hi.
+58008002	
+58009019	Dân thu ang zêlin thupêk apiang chu Mosian mi zawng zawng a hrilh hnuin, “Hei hi Pathianin in hnêna a pêk tlat thuthlung thisen a nih hi,” tiin, bâwngnote leh kêlte thisen chu, tui nên, sâpsen nên, husop nên a la a, lehkhabu ngei leh mi zawng zawng pawh chu a theh a ni.
+58009020	
+58010015	Tin, Thlarau Thianghlim pawh chuan min hriattîr bawk a: “Chûng ni hnuah chuan An hnêna thu ka thlun tûr chu hêng hi a ni,” Lalpan a ti; “An thinlungah ka thupêkte ka dah ang a, An rilruah ka ziak bawk ang,” tia a sawi hnu khân,
+58010016	
+58010018	Tichuan, chutiangte ngaihdamna apiangah chuan sual tân thilhlan a awm tawh lo a ni.
+58010019	Chutichuan, unaute u, kawng min ruatsak, kawng thar leh nungah chuan, puanzâr chu (chu chu a taksa tihna a ni) kal tlangin, Isua thisen avâng chuan Hmun Thianghlimah khân luh kan huam avâng leh,
+58010020	
+58012001	Chutichuan, chhûmpui nasa tak ang thlîrtuten min hual vêl avâng hian, min tihnawk apiang leh sual keimahnia bet tlat chu i dah ve ang u; tin, Isua, kan rinna siamtu leh tifamkimtu lam chu enin, kan hmaa intlânsiakna tûr awmah hian chhel takin i tlân zêl ang u. Ani chuan a hmaa hlimna awm avâng chuan, mualphona chu ngainêpin kraws chu a tuar a, Pathian lalṭhutphah ding lamah khian a han ṭhu ta a.
+58012002	
+58012007	In tuar hi nangmahni thunun nân a ni; fate chunga tih angin Pathianin in chungah a ti a nih hi; pa thunun loh fa tu nge awm ngai le?
+58012008	Fa zawng zawng hlawh ṭhin thununna chu hlawh lova in awm erawh chuan, fa tak ni lovin, sâwn in ni a ni ang asin.
+58012018	Nangni zawng tlâng khawih theih, meia kâng te, chhûm dum te, thim te, thlipui te, tawtawrâwt rîkna te, thusawi thâwm awmna te kha thleng in ni si lo va (chu thâwm hretute chuan thu dang rêng an hnêna sawi tawh lo tûrin an ngên a,
+58012019	
+59001002	Ka unaute u, in rinna fiahna chuan chhelna a siam tih hriain, thlêmna tinrêng in tawh hunin lâwmna hlîrah ngai rawh u.
+59001003	
+59001007	Chutiang mi, rilru bulbâl nei lo, a thiltih zawng zawnga nghet lo mi chuan Lalpa hnênah eng mah hmuh inring suh se.
+59001008	
+60001001	Petera, Isua Krista tirhkoh chuan Ponto ram te, Galatia ram te, Kappadokia ram te, Asia ram te, Bithunia ram tea Darhho awm, awih tûr leh Isua Krista thisen theh dawng tûra Thlarau tihhrana, Pa Pathian hriat lâwk anga thlante hnênah chuan: In chungah khawngaihna leh remna tihpunin awm rawh se.
+60001002	
+60001010	In chunga khawngaihna lo thleng tûr thu hril lâwktu zâwlneiten, Krista Thlarau anmahnia awm chuan Krista tuarna tûrte chu a hriat lâwktîr laite khân, eng hun nge ni, eng ang hun nge ni a hriattîr ṭhin tih chhui chhuah tumin, chu chhandamna chanchin chu an zawng a, ngun takin an chhui ṭhîn.
+60001011	
+60001018	In thlahtute pêk chhâwn, in awm dân eng khaw ni lawilo lak ata chu thil chhe thei, tangkarua leh rangkachaka tlan in ni lo va, berâmno hmêlhem lo leh bawlhhlawh kai lo, Krista thisen hlu chuan tlan in ni zâwk tih in hre si a;
+60001019	
+60002007	
+60002009	Nimahsela, thim ata chhuaka, a êng mak taka lût tûra kotu che u ṭhatna chu in entîr theih nân, nangni zawng chi thlan, lal puithiamho, hnam thianghlim, Pathian mite ngei in ni si a;
+60002010	hmânlai khân mi rêng in ni lo va, tûnah erawh chuan Pathian mi in ni ta a; hmânlai khân zahngaihna in hmu lo va, tûnah erawh chuan zahngaihna in hmu ta.
+61003011	Chûng thilte chu chutianga boral vek tûr a ni tih in hriat avângin, Pathian ni lo thlen hun tûr chu beisei leh ṭhahnemngai taka duhin, awm dân thianghlim leh Pathian ngaihsak kawngah chuan mi eng ang nge in nih ang le? Chumi ni a thlen avângin vânte lo kângin a boral ang a, thil bulte pawh chu meia em tuiin a awm tawh ang.
+61003012	
+62003019	Chumiah chuan thutaka mi kan ni tih kan inhria ang a, kan rilruin thiam loh min chantîrna kawngah chuan, ama mit hmuh ngeiah kan rilru kan thlêm dai bawk ang; Pathian chu kan rilru aiin a ropui zâwk a, engkim a hre si a.
+62003020	
+63001001	Upa chuan, Hmeichhe ṭha thlan leh a fate hnênah: Thutak, keimahnia awm reng, kumkhua pawha kan hnêna awm tûr avâng hian tihtakzetin ka hmangaih che u a ni; kei chang ka ni lo ve, thutak chu hria apiang pawhin a ni.
+63001002	
+65001014	Tin, chu mite hnênah pawh chuan Enoka, Adama aṭanga pasarihna chuan a hril lâwk a, “Ngai teh u, mi zawng zawng chunga rorêl tûr leh, Pathian ngaihsak lote zawng zawng Pathian ngaihsak lohna hna Pathian ngaihsak lo chunga an thawh zawng zawng kawngah leh, Pathian ngaihsak lo mi sualten a chungah thu khauh tak an sawi zawng zawng kawnga thiam loh chantîr tûrin, Lalpa chu a mi thianghlim sîngkhatte nên a lo kal a ni,” tiin.
+65001015	
+66001004	Johana chuan, Asia rama kohhran pasarihte hnênah chuan: Awm mêka leh, awm tawha leh, lo la awm tûra hnên aṭang te, a lalṭhutphah hmaa Thlarau pasarih awmho hnên aṭang te, Isua Krista, thuhretu rinawm tak, mitthi zîng ata piang hmasa bera leh leia lalte rorêltute hnên aṭang te chuan, khawngaihna leh remna in hnênah awm rawh se. Min hmangaiha, a thisenin kan sualte lak ata min tlan chhuaka,
+66001005	
+66002002	I thiltih te, i thawh rimzia leh i chhelzia te, mi sual i ngaihtheih lohzia te ka hria. Tirhkoh ni si lova tirhkoh intite chu i fiah bawk a, dawthei an ni tih i lo hre tawh a;
+66002003	chhelna i nei bawk a, ka hming avângin i tuar tawh a, i chau si lo va.
+66002004	Nimahsela, demna che ka nei a ni, i hmangaihna hmasa ber kha i bân tâk avângin.
+66002005	Chutichuan, i tlûksan tâk chu hre reng la, simin, a tîra i thiltihte kha ti leh rawh; chuti lo chuan, i hnênah ka lo kal ang a, i sim loh zawngin i khâwnvâr dahna kha a hmun ata ka sawn ang.
+66002006	Nimahsela, hei hi i ṭhatna chu a ni, Nikola-ho thiltihte i huat hi; chu chu kei pawhin ka haw ve a ni.
+66002007	Thlarauvin kohhranho hnêna thu a sawi hi beng nei chuan hre rawh se. A hnehtu apiang Pathian Paradis-a Nunna Thinga mi ka eitîr ang, a ti e, tiin.
+66002009	I hrehawmzia te, i pachhiatzia te (nimahsela, i hausa si a), Juda tak ni lova, Setana inkhâwmna inho ni zâwk sia, Juda intihoten an sawichhiat dân che ka hria.
+66002010	I tuar tûrte hi hlau suh; ngai teh, fiaha in awm theih nân Diabola chuan in zînga mi ṭhenkhat tân inah a khung dâwn che u a ni; tin, ni sâwm hrehawm in tuar ang. Thih thlengin rinawmin lo awm rawh; tichuan, nunna lallukhum ka pe ang che.
+66002011	Thlarauvin kohhranho hnêna thu a sawi hi beng nei chuan hre rawh se. A hnehtu apiang thih hnihna chuan eng mah a tih lo vang, a ti e, tiin.
+66002013	I awmna, Setana ṭhutphah awmna kha ka hria; tin, ka hming i vawng tlat a, ka thu hretu Antipa, Setana awmnaa in zînga an thah, ka mi rinawm tak awm lai meuh pawh khân mi rinna hi i phatsan lo bawk a.
+66002014	Nimahsela, tlêmin demna che ka nei, khata Balaama zirtîrna thu pawm tute emaw in awmpui avâng khân; ani chuan milem biakna sa an eina tûr leh an inngaihna tûrin, Balaka chu Israela thlahte hmaah tlûkna dah a zirtîr kha.
+66002015	Nang pawhin Nikola-ho zirtîrna thu chutiang bawka pawm tute emaw i awmpui bawk a ni.
+66002016	Chutichuan, sim rawh; chuti lo chuan, i hnênah ka lo kal thuai ang a, ka kâa khandaih chuan anmahni ka rawn do vang.
+66002017	Thlarauvin kohhranho hnêna thu a sawi hi beng nei chuan hre rawh se. A hnehtu apiang hnên ngeiah chuan manna thuhrûk zînga mi ka pe ang a, lung vâr pawh ka pe ang, chumi lunga hming thar ziak nên; chu hming chu a changtu chauh lo chuan tu mân an hre lo, a ti e, tiin.
+66002019	I thiltih te, i hmangaihzia te, i rinzia te, i rawngbâwlzia te, i chhelzia te ka hria, i thiltih hnuhnûng berte chu a tîra mi ai khân a nasa zâwk tih ka hre bawk.
+66002020	Nimahsela, demna che ka nei, hmeichhia Jezebeli, zâwlneinu intii kha i ngaihtheih avângin; ani chuan ka bawihte chu inngaih leh milem biakna thil ei zirtîrin a hruai bo bawk ṭhîn a ni.
+66002021	Tin, simna tûrin a hnênah hun bi ka tuk a; nimahsela, mi ngaih a chîn chu a sim duh lo.
+66002022	Ngai teh, amah chu khumah ka paih dâwn a ni; a uirêtute pawh chu, a thiltih chînte chu an simsan loh zawngin hrehawm nasa takah ka paih bawk dâwn.
+66002023	A fate chu hriin ka tihlum bawk ang a; tichuan, kei hi rilru leh thinlung entu ka ni tih kohhranho zawng zawng chuan an hria ang; tin, in thiltih ang zêlin ka pe ṭheuh vang che u.
+66002024	Nimahsela, nangni, Thuatira khuaa mi dang awm, chu zirtîrna thu pawm lova, Setana thil thûk an tihte hre lo apiang hnênah chuan, phurrit dang rêng ka bel lo vang che u, ka ti a ni.
+66002025	In neih sa erawh kha chu ka lo kal hma loh chuan vawng tlat rawh u.
+66002026	Tichuan, a hnehtu apiang leh a tâwp thlenga ka thiltihte pawmtu apiang, keiin ka Pa laka ka hmuh ang bawk hian, chu mite chu hnam tin chungah thu ka neihtîr ang; tin, anni chuan bêlvawtu bêlte keh sawm depa a awm angin, thîrtiangin an ro a rêlsak ang.
+66002027	
+66002028	Tin, vârparh arsi chu anmahni ka pe ang.
+66002029	Thlarauvin kohhranho hnêna thu a sawi hi beng nei chuan hre rawh se, a ti e, tiin.
+66003002	Invêng la, i thil la neih thi lek lekte chu tinung leh rawh; i thiltihte rêng ka Pathian mit tlung zovin ka hmu si lo.
+66003003	Chutichuan, i thu dawn leh ngaihthlâkte kha hre reng la, pawm la, sim rawh. I invên loh zawngin rûkru angin ka lo kal ang a, eng hunah nge ka rawn phâwk dâwn che i hre si lo.
+66003004	Nimahsela, Sardis khuaah khân an puante tibawlhhlawh lo hming tlêm tê i nei a ni; anni chu puan vâr sinin ka hnênah an lêng ve ṭhîn ang; chutiang ti tlâk an ni si a.
+66003005	A hnehtu apiang chutiangin puan vârte sintîr an ni ang; tin, Nunna Bu ata an hming chu ka thai bo tawp lo vang a, ka Pa hmaah leh a vântirhkohte hmaah chuan an hming ka ṭan zâwk ang.
+66003006	Thlarauvin kohhranho hnêna thu a sawi hi beng nei chuan hre rawh se, a ti e, tiin.
+66003008	I thiltihte ka hria, chakna tlêm tê chauh i nei a, chuti chung pawhin ka thu i pawm a, ka hming pawh i phat lo va; tu ma khâr theih loh kawngka hawn sa i hmaah ka dah e.
+66003009	Ngai teh, Setana inkhâwmna in ho zînga mi, Juda tak ni lova, dâwt sawia Juda intite zînga mi chu ka tîr dâwn a ni; ngai teh, i ke bulah chibai ka rawn bûktîr ang a, ka hmangaih che tih ka hriattîr bawk ang.
+66003010	Ka chhelna thu i pawm avâng khân, leia awmte fiah tûra khawvêl zawng zawng chunga fiahna hun lo thleng tûr lakah chuan kei pawhin ka humhim ang che.
+66003011	11Ka lo kal thuai dâwn e; tu mân i lallukhum chu an lâksak loh nân che, i thil neih sa kha vawng tlat rawh.
+66003012	A hnehtu apiang chu ka Pathian biak inah chuan banah ka siam ang a, chuta ṭang chuan an chhuak tawh lo vang; tin, anmahniah chuan ka Pathian hming nên, ka Pathian khua, Jerusalem Thar, ka Pathian hnêna mi vân aṭanga lo chhuk tûr hming nên, ka hming thar nên ka ziak ang.
+66003013	Thlarauvin kohhranho hnêna thu a sawi hi beng nei chuan hre rawh se, a ti e, tiin.
+66003015	I thiltihte ka hria, i vawh hek lohva, i lum hek loh hi; i vawh emaw, i lum emaw ka duh a ni.
+66003016	Chutichuan, lum si lova, vâwt si lova, i lum chang chang avângin ka ka ata ka chhâk chhuak dâwn a che.
+66003017	Ka hausa a, sum ka ngah a, eng mah ka tlachham lo ve, i tih avâng leh, nang mi rethei, khawngaihthlâk, pachhia, mitdel, saruak chu i ni tih i inhriat loh avângin;
+66003018	i lo hausak theih nân rangkachak meia tihthianghlim te, puan i sin theih nân leh i saruak zahmawh chu a lan loh nân puan vâr te, i hmuh theih nân i mita hnawihah mit na hlo te ka hnêna mi lei tûrin ka râwn a che.
+66003019	Ka hmangaih apiang ka zilhhauvin ka thunun ṭhîn; chutichuan, ṭhahnemngai la, sim rawh.
+66003020	Ngai teh, kawngkhâr bula dingin ka kik hi; tu pawhin ka aw hriaa kawng a hawn chuan, a hnênah ka lût ang a, a hnênah zanriah ka ei ang a, ani pawhin ka hnênah a ei bawk ang.
+66003021	A hnehtu apiang ka lalṭhutphahah ka hnênah ka ṭhuttîr ang, kei pawhin ka hneha, ka Pa hnênah a lalṭhutphaha ka ṭhu ang khân.
+66003022	Thlarauvin kohhranho hnêna thu a sawi hi beng nei chuan hre rawh se, a ti e, tiin,” a ti a.
+66004010	upa sawmhnih leh palite chu lalṭhutphaha ṭhua hmaah chuan an bawkkhup ang a, chatuana nung renga chu chibai an bûk ang a, “Nang, kan Lalpa leh kan Pathian, Ropuina te, chawimawina te, thiltihtheihna te chu Hmu tlâk i ni e; Nangin engkim i siam a, I duh avânga awm leh siam An ni bawk si a,” tiin, an lallukhumte chu lalṭhutphah hmaah chuan an dah ang.
+66004011	
+66005009	Tin, “Nang, lehkhabu chu laa, A chhinchhiahnate phelh tlâk i ni e; Talhin i awm tawh a, Chi tina mi te, ṭawng tina mi te, Mi tina mi te, hnam tina mi te, Pathian tân i thisenin i lei a, Kan Pathian tân khua leh tuiah leh, Puithiamahte i siam ta si a; Tin, leiah chuan ro an rêl a,” tiin hla thar an sa a.
+66005010	
+66005014	Tin, Thil nung palite chuan, “Amen,” an ti a. Upate pawh chuan bawkkhupin chibai an bûk ta a.
+66007011	Tin, vântirhkoh zawng zawng chu lalṭhutphah leh upate leh Thil nung palite vêlah chuan dingin an awm a; lalṭhutphah hmaah chuan bawkkhupin,
+66018009	“Tin, leia lal, a ngai ṭhînte leh nawmsak bâwlpui ṭhînte chuan, a kâng khu chu an thlîr hunah chuan, ‘Babulon khaw ropui, khaw nghet chu a chung a pik e, a pik e! Dârkâr khat chauhvah i chungah rorêlna chu a lo thleng ta si,’ tiin, nghaisakna a tuar chu hlauh vânga hla taka dinga, a chunga ṭapin an âwm an inchûm ang.
+66018010	
+66018015	“Chûng thila sumdâwngtu, amah avânga lo hausate chuan, ‘Khaw ropui, puan zai sîn leh puan senduk leh puan senlâr sina, rangkachak leh lung man tam leh tuikeplunga incheii chu a chung a pik e, a pik e! Dârkâr khat chauhvah sum chuti zozai chu engmahlo a lo nih tâk hi,’ tiin, ṭap leh lungngai chungin a nghaisakna hlauh vângin hla takah an ding ang. “Tin, lawng hotu apiang te, lawnga kal ṭhîn apiang te, lawng mi te, tuifinriata hnathawk apiang te chu hla taka dingin, 
+66018016	
+66018017	
+66019017	Tin, nîah khian vântirhkoh ding ka hmu a; tin, ani chuan vanlaizâwla sava thlâwk zawng zawng hnênah chuan aw ring takin, “Lal sa te, sipai hotu sa te, mi chak sa te, sakawr leh a chunga chuang sa te, mi zawng zawng - bawih leh bawih lo, a lian a tê pawh - an sa in ei theihna tûrin, Pathian ruai ropui tak ṭhehnaah chuan rawn inkhâwm rawh u,” tiin a au va.
+66019018	
+66021010	Tin, ani chuan Thlarauvin tlâng lian pui, sâng takah mi kalpui a, Jerusalem khaw thianghlim chu Pathian ropuina neiin, Pathian hnêna mi vân ata lo chhuk mi entîr a. A ênzia chu lung man tam ber ang, jaspi lung ang mai hi a ni a, krustal lung angin a tle a ni;
+66021011	

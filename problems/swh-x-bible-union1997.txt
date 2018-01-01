@@ -1,37 +1,37 @@
-40001023
-40001024
-40001025
-40002006
-40002018
-40003004
-40004007
-40004008
-40004009
-40004010
-40004011
-40004015
-40004016
-40005003
-40005004
-40005005
-40005006
-40005007
-40005008
-40005009
-40005010
-40005011
-40005012
-40006010
-40006011
-40006012
+40001023	
+40001024	Naye Yusufu alipoamka katika usingizi, alifanya kama malaika wa Bwana alivyomwagiza; akamchukua mkewe;
+40001025	a simjue kamwe hata alipomzaa mwanawe; akamwita jina lake YESU.
+40002006	
+40002018	
+40003004	Naye Yohana mwenyewe alikuwa na vazi lake la singa za ngamia, na mshipi wa ngozi kiunoni mwake; na chakula chake kilikuwa nzige na asali ya mwitu.
+40004007	Yesu akamwambia, Tena imeandikwa, Usimjaribu Bwana Mungu wako.
+40004008	Kisha Ibilisi akamchukua mpaka mlima mrefu mno, akamwonyesha milki zote za ulimwengu, na fahari yake,
+40004009	akamwambia, Haya yote nitakupa, ukianguka kunisujudia.
+40004010	Ndipo Yesu alipomwambia, Nenda zako, Shetani; kwa maana imeandikwa, Msujudie Bwana Mungu wako, umwabudu yeye peke yake.
+40004011	Kisha Ibilisi akamwacha; na tazama, wakaja malaika wakamtumikia.
+40004015	
+40004016	
+40005003	
+40005004	
+40005005	
+40005006	
+40005007	
+40005008	
+40005009	
+40005010	
+40005011	Heri ninyi watakapowashutumu na kuwaudhi na kuwanenea kila neno baya kwa uongo, kwa ajili yangu.
+40005012	Furahini, na kushangilia; kwa kuwa thawabu yenu ni kubwa mbinguni; kwa maana ndivyo walivyowaudhi manabii waliokuwa kabla yenu.
+40006010	
+40006011	
+40006012	
 40006013
-40006014
-40006015
-40011011
-40011012
-40011013
-40011014
-40011015
+40006014	Kwa maana mkiwasamehe watu makosa yao, na Baba yenu wa mbinguni atawasamehe ninyi.
+40006015	Bali msipowasamehe watu makosa yao, wala Baba yenu hatawasamehe ninyi makosa yenu.
+40011011	Amin, nawaambieni, Hajaondokea mtu katika wazao wa wanawake aliye mkuu kuliko Yohana Mbatizaji; walakini aliye mdogo katika ufalme wa mbinguni ni mkuu kuliko yeye.
+40011012	Tangu siku za Yohana Mbatizaji hata sasa ufalme wa mbinguni hupatikana kwa nguvu, nao wenye nguvu wauteka.
+40011013	Kwa maana manabii wote na torati walitabiri mpaka wakati wa Yohana.
+40011014	Na ikiwa mnataka kukubali, yeye ndiye Eliya atakayekuja.
+40011015	Mwenye masikio, na asikie.
 40012018
 40012019
 40012020
@@ -377,3 +377,12 @@
 66007006
 66007007
 66007008
+
+#40001022+40001023 zusammen übersetzt mit vielen Auslassungen
+#40002005+40002006 zusammen übersetzt mit vielen Auslassungen
+#40002017+40002018 zusammen übersetzt mit vielen Auslassungen
+#40004014 bis 40004016 zusammen übersetzt mit vielen Auslassungen
+#40005002 bis 40005010 zusammen übersetzt mit vielen Auslassungen
+#40006009 bis 40006013 zusammen übersetzt mit vielen Auslassungen
+#40011010 unvollständig
+#40012017 unvollständig

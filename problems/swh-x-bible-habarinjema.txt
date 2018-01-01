@@ -1,48 +1,26 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001023
-40001024
-40001025
-40002006
-40002018
-40004015
-40004016
-40005003
-40005004
-40005005
-40005006
-40005007
-40005008
-40005009
-40005010
-40006010
-40006011
-40006012
-40006013
-40011011
-40011012
-40011013
-40011014
-40011015
-40011017
-40011018
-40011019
-40012018
-40012019
-40012020
-40012021
+40001002	
+40001003	
+40001004	
+40001005	
+40001006	
+40001007	
+40001008	
+40001009	
+40001010	
+40001011	
+40001012	
+40001013	
+40001014	
+40001015	
+40011011	Kweli nawaambieni, miongoni mwa watoto wote wa watu, hajatokea aliye mkuu kuliko Yohane Mbatizaji. Hata hivyo, yule aliye mdogo kabisa katika ufalme wa mbinguni, ni mkubwa kuliko yeye.
+40011012	Tangu wakati wa Yohane Mbatizaji mpaka leo hii, ufalme wa mbinguni unashambuliwa vikali, na watu wakali wanajaribu kuunyakua kwa nguvu.
+40011013	Mafundisho yote ya manabii na sheria mpaka wakati wa Yohane yalibashiri juu ya nyakati hizi.
+40011014	Kama mwaweza kukubali basi, Yohane ndiye Elia ambaye angekuja.
+40011015	Mwenye masikio na asikie!
+40011017	‘Tumewapigieni ngoma lakini hamkucheza! Tumeimba nyimbo za huzuni lakini hamkuomboleza!’ 
+40011018	Kwa maana Yohane alikuja, akafunga na wala hakunywa divai, nao wakasema: ‘Amepagawa na pepo’. 
+40011019	Mwana wa Mtu akaja, anakula na kunywa, nao wakasema: ‘Mwangalieni huyu, mlafi na mlevi, rafiki yao watozaushuru na wenye dhambi!’ Hata hivyo, hekima ya Mungu inathibitishwa kuwa njema kutokana na matendo yake.”
+40012021	Kwake yeye mataifa yatakuwa na matumaini.”
 40013015
 40015008
 40015009
@@ -268,3 +246,14 @@
 66018006
 66018007
 66018008
+
+
+#40001001-40001015 wurden zusammen übersetzt. Könnte man aber auch splitten so wie in den Online-Bibeln
+#40001022 wurde zusammen mit 40001023 übersetzt, jedoch viele Auslassungen
+#40002005 wurde zusammen mit 40002006 übersetzt, jedoch viele Auslassungen
+#40002017 wurde zusammen mit 40002018 übersetzt, jedoch viele Auslassungen
+#40004014 bis 40004016 wurden zusammen übersetzt, jedoch viele Auslassungen
+#40005002 bis 40005010 wurden zusammen übersetzt, jedoch viele Auslassungen
+#40006009 bis 40006013 wurden zusammen übersetzt, jedoch viele Auslassungen
+#40011016 u. 40011017 wurden zusammen übersetzt, jedoch viele Auslassungen
+#40012017 bis 40012020 wurden zusammen übersetzt, jedoch viele Auslassungen

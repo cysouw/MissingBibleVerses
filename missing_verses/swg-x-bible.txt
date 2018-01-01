@@ -1,320 +1,320 @@
-40001022
-40001023
-40002005
-40002006
-40002015
-40002017
-40002018
-40003003
-40004004
-40004006
-40004007
-40004010
-40004014
-40004016
-40005021
-40005027
-40005031
-40005033
-40005038
-40005043
-40008017
-40009013
-40011010
-40012007
-40012017
-40012021
-40013014
-40013015
-40013035
-40015004
-40015007
-40015009
-40018010
-40019005
-40019018
-40019019
-40020016
-40021004
-40021005
-40021013
-40021016
-40021042
-40022024
-40022031
-40022032
-40022037
-40022039
-40022043
-40022044
-40023038
-40026031
-40027009
-40027010
-41005036
-41007006
-41007007
-41007010
-41007015
-41009043
-41009045
-41010019
-41011017
-41012010
-41012011
-41012019
-41012026
-41012029
-41012030
-41012031
-41012036
-41014027
-41015027
-42002023
-42002024
-42003004
-42003006
-42004004
-42004008
-42004010
-42004011
-42004012
-42004017
-42004019
-42007027
-42010027
-42013035
-42017035
-42018020
-42019046
-42020017
-42020028
-42020042
-42020043
-42022037
-42023016
-43001023
-43002017
-43006031
-43006032
-43006045
-43010034
-43012014
-43012015
-43012038
-43012039
-43012040
-43013018
-43015025
-43019024
-43019036
-43019037
-44001020
-44002016
-44002021
-44002025
-44002028
-44002034
-44002035
-44003022
-44003023
-44003025
-44004025
-44004026
-44007003
-44007006
-44007007
-44007027
-44007028
-44007031
-44007032
-44007033
-44007034
-44007035
-44007037
-44007040
-44007042
-44007043
-44007048
-44007049
-44007050
-44008032
-44008033
-44008036
-44013022
-44013033
-44013034
-44013035
-44013040
-44013041
-44013047
-44015015
-44015018
-44015033
-44023005
-44024006
-44028025
-44028027
-44028028
-45001017
-45002024
-45003004
-45003010
-45003018
-45004003
-45004006
-45004008
-45004009
-45004017
-45004018
-45004022
-45007007
-45008036
-45009007
-45009009
-45009012
-45009013
-45009015
-45009017
-45009025
-45009026
-45009027
-45009028
-45009029
-45009033
-45010005
-45010006
-45010007
-45010008
-45010011
-45010013
-45010015
-45010016
-45010018
-45010019
-45010020
-45010021
-45011002
-45011003
-45011004
-45011008
-45011009
-45011010
-45011026
-45011027
-45011030
-45011034
-45011035
-45012019
-45012020
-45013009
-45014011
-45015003
-45015009
-45015010
-45015011
-45015012
-45015021
-45016023
-46001019
-46001031
-46002009
-46002016
-46003019
-46003020
-46006016
-46009009
-46010007
-46010026
-46014021
-46015054
-46015055
-47004013
-47006002
-47006016
-47006017
-47006018
-47008015
-47009009
-47010016
-47010017
-47013001
-48003006
-48003008
-48003010
-48003011
-48003012
-48003013
-48003016
-48004027
-48004030
-48005014
-49004008
-49005030
-49005031
-49006002
-49006003
-54005018
-58001005
-58001006
-58001007
-58001008
-58001009
-58001010
-58001012
-58001013
-58002006
-58002008
-58002009
-58002012
-58002013
-58003007
-58003011
-58003013
-58003015
-58004003
-58004004
-58004005
-58004007
-58005005
-58005006
-58006014
-58007017
-58007021
-58008005
-58008008
-58008012
-58008013
-58009020
-58010005
-58010007
-58010008
-58010009
-58010015
-58010016
-58010017
-58010030
-58010037
-58010038
-58011018
-58012005
-58012006
-58012020
-58012021
-58012026
-58013005
-58013006
-59002008
-59002011
-59002023
-59004006
-60001016
-60001024
-60001025
-60002006
-60002007
-60002008
-60002010
-60003010
-60003012
-60004008
+40001022	Des isch aba alles bassiert, dmit itreffe doet, was dr Herr durch sini Prophete gsait het, der do sait
+40001023	Gib obacht, ä Jungfrau wird schwanga si un ä Bue(Suhn) uf d Welt bringe, un sie wäre nem d Name Immanuel ge", des heißt ibasetzt: Gott isch mit uns(us).
+40002005	Un sie sage nem: In Bethlehem in Judäa; denn so schtoht`s gschribe in d Prophete
+40002006	Un dü, Bethlehem im jüdische Land, bisch keinewäg di kleinschte unda d Schtädt in Juda; denn üs dir wird kumme dr First, der mi Volk Israel weide soll."
+40002015	un bliebt dert bis nohch rem Dod vum Herodes, dmit itreffe dät, was dr Herr durch d Prophete gsait het, der do sait: "Üs Ägypte ha i(ich) mi Bue(Suhn) gruefe."
+40002017	Do isch itroffe, was gsait wore isch durch d Prophet Jeremia, der do sait:
+40002018	n Rama het ma ä Gschrei ghärt, vieli Hiile un Wehklage; Rahel hiilt um ihri Kinda un willt sich nit treschte lo, denn s war üs mit tene."
+40003003	Denn der isch's, vum däm dr Prophet Jesaja gschwätzt un gsait het : "S isch ä Schtimme vu mä Prediga in dr Wüschte: Richtet däm Herrn d Wäg un macht ebe sini Wägli!"
+40004004	Na(Er) aba het gsait: S schtoht gschribe: "D Mensch läbt nit vum Brot älleinig, sundern vu nem jede Wort, des üs sem Mul (Gosch) Gottes goht."
+40004006	un het gsait zue nem: Bisch dü Gottes Bue(Suhn), so wirf di nab; denn s schtoht gschribe: "Na(Er) wird sinene Engel dinetwäge Bfehl ge; un sie den di uf Hände trage, dmit dü di Foeß nit a nä Schtei (Wackes) schtosches."
+40004007	Do het Jesus zue nem gsait: Au schtoht gschribe: "Dü sollsch d Herrn, di Gott, nit vusueche."
+40004010	Do het Jesus zue nem gsait: Wäg mit dir, Sadan! denn s schtoht gschribe: "Dü sollsch nur abäte (ahimmle) d Herr, di Gott, un nem älleinig dene."
+40004014	dmit itreffe doet, was gsait isch durch d Prophet Jesaja, der do sait:
+40004016	vum Volk, des im Dunkle hockt, het ä großes Lecht gsähne; un däne, de hocke am Platz un im Schatte vum Dod, isch ä Lecht ufgange".
+40005021	Ihr hän ghärt, daß zue d Alte gsait isch: "Dü sollsch nemets umbringe"; wer aba jemads umbringt, der soll vor rem Gricht schuldig si.
+40005027	Ihr hän ghärt, daß gsait isch: "Dü sollsch nit ehebreche." 
+40005031	S isch au gsait: "Wer sich vu sinem Wieb schiedet, der soll ihr ä Schiedebref ge."
+40005033	Ihr hän wieta ghärt, daß zue d Alte gsait isch: "Dü sollsch kei falsche Eid schwöre un sollsch däm Herrn di Eid hebed."
+40005038	Ihr hän ghärt, daß gsait isch: "Aug um Aug, Zahn um Zahn."
+40005043	Ihr hän ghärt, daß gsait isch: "Dü sollsch di Nächschte liebe" un di Fäind hasse.
+40008017	dmit itreffe doet, was gsait isch durch d Prophet Jesaja, der do sait): "Na(Er) het unsri Schwachheit uf sich gnumme, un unsri Kranket het da(er) trage(gschlept)."
+40009013	Gehn aba hi un lernt, was des heißt: "I(Ich) ha Wohlgfalle a Barmherzigkeit un nit am Opfa." I(Ich) bi kumme, d Sinda z ruefä un nit di Grechte.
+40011010	Des ischa, vum däm gschribe schtoht: "Lueg, i(ich) schick mi Laufbursch(Bote) vor da her, der di Wäg vor dir mache soll."
+40012007	Wenn ihr aba wüßtet, was des heißt: "I(Ich) ha Wohlgfalle a Barmherzigkeit un nit am Opfa", dann(dnoh) hätte ihr de Unschuldige nit vudammt. 
+40012017	dmit itreffe doet, was gsait isch durch d Prophet Jesaja, der do sait:
+40012021	un d Heide wäre uf si Name hoffe."
+40013014	Un a nene wird d Wissagig Jesajas itreffe, de do sait: "Mit d Ohre den ihr härä un den`s nit vuschtoh; un mit d Auge den ihr luege un den`s nit erkenne.
+40013015	Denn des Herz vu d Lit isch vuschtockt: ihri Ohre härä schwer, un ihri Auge sin zue, dmit sie nit etwa mit d Auge luege un mit d Ohre härä un mit däm Herz vuschtehn un sich umkähre, un i(ich) ne hilf."
+40013035	dmit itreffe doet, was gsait isch durch d Prophet, der do sait: "I(Ich) will mi Mul (Gosch) ufdoe in Glichnisse un will schwätze, was vuborge war vum Afang dr Welt a."
+40015004	Denn Gott het bpfohle: "Due sollsch Vada (Babbe) un Muetter ehre; wer aba Vada (Babbe) un Muetter fluecht, der soll schterbe."
+40015007	Ihr Heuchla, we fäin het Jesaja vu äich gwissagt (vorusgsait) un gschwätzt:
+40015009	vugeblich dene sie mir, wel sie lehre solchi Lehre, de nigs als Menschegebote sin."
+40018010	Luege zue, daß ihr nit eines vu däne Kliene vuachte. Denn i(ich) sag äich: Ihri Engel im Himmel sähn alliziit s Gsicht(d Visasch) vu minem Vada (Babbe) im Himmel. "Denn dr Menschebue isch kumme, selig zue mache, was vulore isch."
+40019005	sait: Hän ihr nit gläse: Der im Afang d Mensch gschaffe het, het sie als Ma un Frau gschaffe un het gsait: "Drum wird ä Ma Vada (Babbe) un Muetter vulo un sich a si Wieb hänge, un de zwei wäre ei Fleisch si"?
+40019018	Do het da(er) nen gfrogt: Weli? Jesus aba het gsait: "Dü sollsch nemads dotmache(umbringe); dü sollsch nit ehebreche; dü sollsch nit schtähle; dü sollsch nit falschi Ziignis ge;
+40019019	ehr Vada (Babbe) un Muetter"; un: "Dü sollsch di Nächschte liebe we dich (di) selbscht".
+40020016	So wäre di Letschte di Erschte un di Erschte di Letschte si. "Denn vieli sin bruefe, aba wenig sin üserwählt".
+40021004	Des isch bassiert aba, dmit itreffe doet, was gsait isch durch d Prophete, der do sait:
+40021005	Sagt d Dochta Zion: lueg (gib obacht), di Kenig kummt zue da(dir) sanftmetig un rietet uf nem Esel uf nem Esili, däm Junge vumä Laschttier."
+40021013	un het zue nene gsait: S schtoht gschribe: "Mi Huus soll ä Bäthuus heiße"; ihr aba mache ä Raibahehli drus.
+40021016	un sage zue nem: Hersch dü au, was de sage? Jesus git ne zantwort: Häjo! Hän ihr ne gläse: "Us däm Mul (Gosch) vu d Unmindige un Säugling hesch dü dir Lob gmacht"?
+40021042	Jesus het zue nene gsait: Hän ihr ne gläse in dr Schrift: "Dr Schtei (Wackes), den d Bäulit rüssgworfe hän, der isch zum Eckschtei wore. Vum Herrn isch des bassiert un isch ä Wunda vor unsare Auge"?
+40022024	un hän gsait: Meischta, Moses het gsait: "Wenn eina schtirbt un het keini Kinda, so soll si Brueda si Wieb hirote un sinem Brueda Nohchkumme mache."
+40022031	Hän ihr denn nit gläse vu d Uferschtehig vu d Dote, was äich gsait isch vu Gott, der do sait:
+40022032	"I(Ich) bi d Gott Abrahams un d Gott Isaaks un d Gott Jakobs"? Gott isch nit ä Gott vu d Dote, sundern dr Lebändige.
+40022037	Jesus aba git nem zantwort: "Dü sollsch d Herrn, di Gott, liebe vu ganzem Herze, vu ganza Seele un vu ganzem Gmet".
+40022039	Des andere aba isch däm glich: "Dü sollsch di Nächschte liebe we dich(di) selbscht".
+40022043	Do het da(er) sie gfrogt: We ka nen dann(dnoh) David durch d Geischt Herr nenne, wenn na(er) sait:
+40022044	Dr Herr het zue minem Herrn gsait: Hock di zue mina Rechte, bis i(ich) dini Gegna(Feinde) unda dini Feß leg"?
+40023038	Denn i(ich) sag äich: Ihr den mi vu etzed a nit säh, bis ihr sage den: Globt isch, der do kummt im Name vum Herrn!
+40026031	Do het Jesus zue nene gsait: In däre Nacht den ihr alli Ärgernis nähmä a ma(mir). Denn s schtoht gschribe: "I(Ich) wir d Schäfa (Hirte) schla, un d Schof vu d Herde wäre sich vuschtreue."
+40027009	Do isch itroffe, was gsait isch durch d Prophet Jeremia, der do sait: "Sie hän de driißig Silbalinge gnumme, d Pries fir d Vukaufte, der gschätzt isch bi d Israelite,
+40027010	un sie hän des Geld fir d Töpferacka ge, we ma(mir) dr Herr bfohle het".
+41005036	Jesus aba hets mit aghert,* was gsait wore isch, un sait zue nem Vorschteher: Fircht di nit, glaub nur!
+41007006	Na(Er) aba sait zue nene: We gnau het vu äich Lumpä Jesaja gwaissagt, we gschriebe schtoht: "Des Volk ehrt mi(mich) mit d Lippe; aba s Herz isch fern vu ma(mir).
+41007007	Vugäblich dene sie ma(mir), wel sie lehre solchi Lehre, de nigs sin als Menschegbot."
+41007010	Denn Moses het gsait: "Dü sollsch di Vada (Babbe) un dini Muetter ehre", un: "Wer Vada (Babbe) odr Muetter flöcht, sela soll schterbe." 
+41007015	git nigs, was vu uße in d Mensch inegoht, des sen dreckig mache kennt; sundern was üs sem Mensch üsekummt, des isch's, was d Mensch dreckig macht.
+41009043	Wenn dich (di) aba di Hand zum Abfall vufihrt, so schla sie ab! S isch bessa fir dich (di), daß da vukrippelt ins Läbä inegohsch, als daß da zwei Händ(Pfode) hesch un fahrsch in d Hell, ins Fir, des ne üsgoht.
+41009045	Wenn dich (di) dini Auge zum Abfall vufihre, so wirf sie wäg! S isch bessa fir dich (di), daß dü blind in s Rich Gottes gohsch, als daß dü zwei Auge hesch un wirsch in d Hell gworfe,
+41010019	Dü kennsch de Gebote: "Dü sollsch keine umbringe; dü sollsch nit ehebreche; dü sollsch nit schtähle; dü sollsch nit falsches Ziignis ge; dü sollsch nemads üsraube; ehr Vada (Babbe) un Muetter."
+41011017	Un na lehrt un sait zue nene: schtoht nit gschriebe: "Mi Huus soll ä Bäthuus heiße fir alli Velka"? Ihr aba hän ä Raibahehli drüs gmacht. 
+41012010	Hän ihr denn nit des Schriftwort gläse: "D Schtei (Wackes), den d Bäulit wäg gworfe hän, isch zum Eckschtei wore.
+41012011	Vum Herrn isch des gschäh un isch ä Wunda vor unsare Auge"?
+41012019	Meischda, Moses het uns(us) gschriebe: "Wenn jemads schtirbt un hindaloßt ä Wieb, aba keini Kinda, dann(dnoh) soll si Brueda sie als Wieb neh un sinem Brueda Nohchkumme schenke."
+41012026	Aba vu d Dote, daß sie uferschtehn, hän ihr nit glese im Buech vum Moses, bim Dornbusch, we Gott zue nem gsait het: "I(Ich) bin dr Gott Abrahams un dr Gott Isaaks un dr Gott Jakobs"?
+41012029	Jesus aba git däm zantwort: Des hechschte Gebot isch des: "Här, Israel, dr Herr, unsa Gott, isch dr Herr ällei,
+41012030	un dü sollsch d Herrn, di Gott, liebe vu ganze Herze, vu ganza Seele, vu ganzem Gmet un vu alla dinere Kraft".
+41012031	Des andre isch des: "Due sollsch di Nächschte liebe we dich (di) selbscht". S isch kei andres Gebot greßa als des.
+41012036	David selba het durch d heilige Geischt gsait: "Dr Herr sait zue minem Herr: Setz dich (di) zue minare Rechte, bis i(ich) dini Gegna unda dini Feß glegt ha."
+41014027	Un Jesus sait zue nene: Ihr den noh alli mi(mich) im schtich lo; denn s schtoht gschriebe: "I(Ich) werd d Hirte schla, un d Schof den sich vuschtreue." 
+41015027	Un sie kriizige mit nem zwei Raiber, eina zue sinere Rechte un eina zue sinere Linke.
+42002023	we gschriebe schtoht im Gesetz vum Herrn: "Alles Männliche, des zerscht d Muetterschoß durchbricht, soll däm Herrn heiligt heiße,
+42002024	un um des Opfa darzbringe, we s gsait isch im Gesetz vum Herrn: " ä Baar Turtelduebe odr zwei jungi Duebe" .
+42003004	we gschriebe schtoht im Buech vum Gsaite vum Prophete Jesaja: "S isch ä Schtimm vumä Prediga in dr Wüschte: Richtet d Wäg vum Herrn un macht sini Wägli ebe!
+42003006	Un alli Mensche wäre d Heiland Gottes säh."
+42004004	Un Jesus git nem zantwort: S schtoht gschriebe: "Dr Mensch läbt nit ällei vum Brot.".
+42004008	Jesus git nem zantwort un sait: S schtoht gschriebe: "Dü sollsch d Herrn, di Gott, abäte (ahimmle) un nem ällei däne."
+42004010	denn s schtoht gschriebe: "Na(Er) wird sinene Engel dinetwägä bfehle, daß sie dich bwahre.
+42004011	Un sie wäre di uf d Händ(Pfode) trage (schleipfe), dmit dü dini Feß nit a ä Schtei (Wackes) schtosesch."
+42004012	Jesus git zantwort un sait zue nem: S isch gsait: "Dü sollsch d Herrn, di Gott, nit vusueche."
+42004017	Do wird nem des Buech vum Prophete Jesaja ge. Un als sa des Buech ufgmacht het, findet da(er) de Schtell, wo gschriebe schtoht:
+42004019	z vukindige s Gnadejohr vum Herrn. "
+42007027	S isch, vu nem gschriebe un schtoht: "Lueg, i(ich) schick mi Laufbursch(Bote) vor da her, der di Wäg vor da mache soll."
+42010027	Na(Er) git zantwort un sait: "Dü sollsch d Herrn, di Gott, liebe vu ganzem Herze, vu ganza Seele, vu alla Kraft un vu ganzem Gmet, un di Nächschte we dich (di) selbscht".
+42013035	Luege, "äicha Huus soll äich wescht glo wäre". Aba i(ich) sag äich: Ihr den mi nime säh, bis de Ziit kummt, do na sage den: Globt isch, der do kummt in däm Name vum Herrn!
+42017035	Zwei Wieba wäre mitänanda Korn mahle; de eini wird agnumme, de andri wird priesge wäre. Zwei wäre uf fem Feld si; dr eine wird agnumme, dr andre wird priesge werden.
+42018020	Dü kennsch d Gebote: "Dü sollsch nit eebreche; dü sollsch nemet umbringe; dü sollsch nit schtähle; dü sollsch nit falschi Ziignis schwätze; dü sollsch di Vada (Babbe) un di Muetter ehre!"
+42019046	un sait zue nene: S schtoht gschriebe: "Mi Huus soll ä Bäthuus si"; ihr aba hän`s zue na Raibahehli gmacht.
+42020017	Na(Er) aba luegt sie a un sait: Was beditet dann(dnoh) des, was gschriebe schtoht: "Dr Schtei (Wackes), den d Bäulit rüssgworfe hän, der isch zum Eckschtei gworde"?
+42020028	Meischta, Moses het uns(us) vorgschriebe: "Wenn jemads schtirbt, der ä Wieb het, aba keini Kinda, so soll si Brueda sie zum Wieb nähmä un sinem Brueda Nohchkumme mache."
+42020042	Denn David selbscht sait im Psalmbuech: "Dr Herr sait zue minem Herrn: Hock di zue minere Rechte,
+42020043	bis i(ich) dini Gegna(Feinde) zum Schemel dina Feß mach."
+42022037	Denn i(ich) sag äich: S mueß des a ma(mir) gmacht wäre, was gschriebe schtoht: "Na(Er) isch zue d Ibeltäta grechnet wore." Denn was vu ma(mir) gschriebe isch, des wird gmacht. 
+42023016	Drum will i(ich) nen schla lo un losge.
+43001023	Na(Er) sait: "I(Ich) bi ä Schtimm vumä Prediga in dr Wüschte: Ebnet d Wäg vum Herrn!", we dr Prophet Jesaja gsait het.
+43002017	Sini Jinger aba denke dra, daß gschriebe schtoht: "D Eifa um di Huus wird mi frässä."
+43006031	Unseri Vädare hän in d Wüschte s Manna gässä, we gschriebe schtoht: "Na(Er) git ne Brot vum Himmel z ässä". 
+43006032	"Do sait Jesus zue nene: Gwiß, gwiß, i(ich) sag äich: Nit Moses het äich des Brot vum Himmel ge, sundern mi Vada (Babbe) git äich des wahre Brot vum Himmel. 
+43006045	S schtoht gschriebe in d Prophete: "Sie wäre alli vu Gott glehrt si." Wer s vum Vada (Babbe) härt un lernt, der kummt zue ma(mir). 
+43010034	Jesus git ne zantwort: Schtoht nit gschriebe in äirem Gsetz: "I(Ich) ha gsait: Ihr sin Götta"?
+43012014	Jesus aba findet ä junge Esel un rietet druf, we gschriebe schtoht:
+43012015	Fircht di nit, dü Dochta Zion! Lueg, di Kenig kummt un rietet uf nem Esele."
+43012038	dmit erfillt wär dr Spruch vum Prophet Jesaja, der do gsait het: "Herr, wer glaubt unsam Predige? Un wäm isch dr Arm vum Herrn zeigt(offenbart) wore ?"
+43012039	Drum kenne sie nit glaube, denn Jesaja het nomol gsait:
+43012040	"Na(Er) het ihri Auge vublendet un ihr Herz vuschtockt, dmit sie nit etwa mit d Auge sähn un mit däm Herz vuschtehn un sich umkähre, un i(ich) ne hilf."
+43013018	Des sag i(ich) nit vu äich ällei; i(ich) wiß, weli i(ich) üsgwählt ha. Aba s mueß d Schrift erfillt wäre: "Der mi Brot ißt, muckt gege mi uf."
+43015025	Aba s mueß des Wort erfillt wäre, des in ihrem Gsetz gschriebe schtoht: "Sie hasse mi ohni Grund".
+43019024	Do sage sie undaänanda: Len uns(us) des nit vudeile, sundern drum lose, wäm`s ghäre soll. So soll d Schrift erfillt wäre, de sait: "Sie hän mini Kleida unda sich deilt un hän iba mi Gwand (Häß) s Los gworfe." Des hän de Soldate gmacht.
+43019036	Denn des isch gschähe, dmit d Schrift erfillt wird: "Ihr sollt nem kei Bei breche."
+43019037	Un nomol sait de Schrift a na andere Schtell: "Sie wäre nen säh, den sie durchbohrt hän."
+44001020	Denn`s schtoht gschriebe im Psalmbuech: «Si Huus soll vuwüschtet wäre, un nemads wohne drin», un: «Si Amt gregt ä andere.» 
+44002016	sundern des isch's, was durch d Prophete Joel gsait wore isch:
+44002021	Un s soll gschähe: wer d Name vum Herrn aruefe wird, der soll grettet wäre."
+44002025	Denn David sait vu nem: "I(Ich) ha d Herrn alliziit vor Auge, denn na(er) schtoht ma(mir) zue d Rechte, dmit i(ich) nit wank. 
+44002028	Dü hesch ma(mir) kundgmacht d Wäg vum Läbä; dü wirsch mi fille mit Fräid(Freud) vor dinem Gsicht."
+44002034	Denn David isch nit gen Himmel gfahre; sundern na(er) sait selbscht: "Dr Herr sait zue minem Herrn: Hock di zue minere Rechte,
+44002035	bis i(ich) dini Gegna(Feinde) zum Schemel dina Feß mach."
+44003022	Moses het gsait: "Ei Prophet we mich wird äich dr Herr, äicha Gott, mache üs äire Breda; uf den solle na härä in allem, was sa(er) zue äich sage wird.
+44003023	Un s wird gschähe, wer dän Prophete nit härä wird, der soll vutilgt wäre üs däm Volk."
+44003025	Ihr sin de Buebä(Sühn) vu d Prophete un vum Packt(Abkumme), den Gott gschlosse het mit äire Vädere, als sa zue Abraham sait: "Durch di Gschlecht solle gsegnet wäre alli Velka uf Erde." 
+44004025	dü hesch durch d heilige Geischt, durch des Mul (Gosch) unsares Vadas (Babbe) David, vu dinem Knecht, gsait: "Wurum tobe de Heide, un de Velka nähmä sich vor, was umsunscht isch?
+44004026	De Kenig dr Erde träte zsämme, un de Firschte vusammle sich gege d Herrn un si Chrischtus."
+44007003	un sait zue nem: "Gang üs dinem Land un vu dinere Vuwandtschaft un zeh in des Land, des i(ich) dir zeigä will."
+44007006	Denn so sait Gott: "Dini Nohchkumme wäre Fremdlinge si in nem fremde Land, un ma wird sie knechte un mißhandle vierhundat Johr lang.
+44007007	Aba des Volk, däm sie als Knecht däne meße, will i(ich) richte", sait Gott, "und dnohch wäre sie üszeh un ma(mir) däne a däm Platz." 
+44007027	Der aba sinem Nächschte Unrecht doe het, schuckt nen vu sich un sait: "Wer het dich (di) zum Ufbassa un Richta iba uns(us) bschtimmt?
+44007028	Willsch dü mich au umbringe, we dü geschtern d Ägypter umbrocht hesch?" 
+44007031	Als aba Moses des sieht, vuwundret da(er) sich iba de Erschinig. Als sa(er) aba higoht, z luege, kummt de Schtimm vum Herrn zue nem:
+44007032	"I(Ich) bi dr Gott dinere Vädare, dr Gott Abrahams un Isaaks un Jakobs." Moses aba fangt a z zittere un dräut(wagt) nit hizluege.
+44007033	Aba dr Herr sait zue nem: "Zeh de Schoeh üs vu dine Feß; denn d Platz, uf däm dü schtohsch, isch heiliges Land!
+44007034	I(Ich) ha gsähne des Liede vu minem Volk, des in Ägypte isch, un ha si Süfzge ghärt un bi rabkumme, s zue errette. Un etze kumm her, i(ich) will di nohch Ägypte schicke."
+44007035	Den Moses, den sie vuliignet hän, als sie gsait hen: "Wer het di als Ufbassa un Richta igsetzt?", den schickt Gott als Afihra un Retter durch d Engel, der nem im Dornbusch erschiene war.
+44007037	Des isch der Moses, der zue d Israelite gsait het: "Ä Prophet we mich wird äich dr Herr, äicha Gott, mache üs äire Breda"
+44007040	un sage zue Aaron: "Mach uns(us) Götta, de vor uns(us) hergehn; denn ma(mir) wisse nit, was däm Moses, der uns(us) üs däm Land Ägypte gfihrt het, widafahre isch."
+44007042	Aba Gott drillt sich wäg un git sie hi, so daß sie däm Heer vum Himmel däne, we gschriebe schtoht im Buech dr Prophete: "Hän ihr vum Huus Israel de vierzig Johr in dr Wüschte ma(mir) je Opfa un Gabe darbrocht?
+44007043	Ihr hän de Hitte Molochs umä traid un d Schtern vum Gotte Räfan, de Bilda, de ihr gmacht hän, sie azbäte. Un i(ich) will äich wägfihre bis iba Babylon üsä."
+44007048	Aba dr Allahechschte wohnt nit in Tempeln, de mit Händ(Pfode) gmacht sin, we dr Prophet sait:
+44007049	Dr Himmel isch mi Thron un d Bode dr Schemel fir mini Feß; was wen ihr ma(mir) denn fir ä Huus bäue", sait dr Herr, "odr was isch d Platz vu minere Rueh?
+44007050	Het nit mi Hand des alles gmacht?"
+44008032	Do drin aba in d Schrift, de na(er) liest, war des: "We ä Schof, des zue d Schlachtig gfihrt wird, un we ä Lamm, des vor sinem Schera vuschtummt, so doet da(er) si Mul (Gosch) nit uf.
+44008033	In sinere Erniedrig wird si Urteil ufghobe. Wer ka sini Nohchkumme ufzehle? Denn si Läbä wird vu dr Erde wäggnumme."
+44008036	Un als sie uf dr Schtroß doherfahre, kumme sie a ä Wassa. Do sait dr Kämmera: Lueg, do isch Wassa; was hindert's, daß i(ich) mi daufe(taufe) loss? "Philippus aba sait: Wenn dü vu ganzem Herze glaubsch, so ka`s gschähe. Na(Er) aba git zantwort un sait: I(Ich) glaub, daß Jesus Chrischtus Gottes Bue(Suhn) isch." 
+44013022	Un als sa(er) dän vuschtoße het, erhebt da(er) David zue ihrem Kenig, vu däm ma(er) beziigt: "I(Ich) ha David gfunde, d Bue(Suhn) Isais, ä Ma nohch minem Herz, der soll mi ganze Wille doe."
+44013033	daß Gott sie uns(us), ihre Kinda, erfillt het, indäm ma(er) Jesus uferweckt het; we denn im zweite Psalm gschriebe schtoht: "Dü bisch mi Bue(Suhn), hiit ha i(ich) di ziigt (zeugt)."
+44013034	Daß sa(er) nen aba vu d Dote uferweckt het un nen nit dr Verwesig ibalosse wot, het da(er) so gsait: "I(Ich) will äich de Gnade, de David vuheiße isch, treu bwahre."
+44013035	Drum sait da(er) au a eina andere Schtell: "Dü wirsch nit zuelo, daß di Heilige de Verwesig sieht." 
+44013040	Luege etze zue, daß nit iba äich kummt, was in d Prophete gsait isch:
+44013041	"Luege, ihr Vuächta, un wundert äich un gehn zuenichte! Denn i(ich) doet ä Sach zue äire Ziit, des ihr nit glaube den, wenn`s äich jemads vuzehlt."
+44013047	Denn so het uns(us) dr Herr bpfohle: "I(Ich) ha di zum Lecht vu d Heide gmacht, dmit dü des Heil bisch bis a de Ende dr Erde."
+44015015	Un dzue schtimme de Wort vu d Prophete, we gschriebe schtoht: 
+44015018	sela doet, was vu alters her bekannt isch."
+44015033	Un als sie ä Ziitlang dert vuwielt hän, len de Breda sie mit Friede go zue däne, de sie gschickt hän. S gfallt aba Silas, dert z bliebe.
+44023005	Un Paulus sait: Lebi (Liebe) Breda, i(ich) wußt`s nit, daß sa(er) dr Hohenprieschta isch. Denn`s schtoht gschriebe: "Däm Obaschte vu dinem Volk sollsch dü nit flueche."
+44024006	Na(Er) het au vusuecht, d Tempel zue entweihe. Ihn hän ma(mir) packt.
+44028025	Na(Er) aba schlenkert des Tier ins Fiir, un s widerfahrt nem nigs Schlechtes.
+44028027	In der Gegend het dr agsähenschte Ma dr Insel, mit Name Publius, Lända der nimmt uns(us) uf un bherberge uns(us) dräi Däg lang fründlig.
+44028028	S isch bassiert aba, daß dr Vada (Babbe) vum Publius am Feba un a d Ruhr im Bett lit. Zue däm goht Paulus inä un bätet un legt d Händ(Pfode) uf nen un macht nen gsund 
+45001017	Denn drin wird zeigt (offenbart) de Grechtigkeit, de vor Gott gilt, weli kummt üs Glaube in Glaube; we gschriebe schtoht: "Dr Grechte wird üs Glaube läbä."
+45002024	Denn "äiretwägä wird Gottes Name gläschtert unda d Heide", we gschriebe schtoht.
+45003004	So isch`s nit! S isch vielme so: Gott isch wohr un alli Mensche sin Vuloge; we gschriebe schtoht: "Dmit dü recht bhaltsch in dinem Wort un siegsch, wenn ma mit dir rechtet."
+45003010	we gschriebe schtoht: "Do isch keina, der Grecht isch, au nit eina.
+45003018	S isch kei Gottesfurcht bi nene."
+45004003	Denn was sait d Schrift? "Abraham het Gott glaubt, un des isch nem als Grechtigkeit grechnet wore."
+45004006	We jo au David de Mensche selig priest, däm Gott d Grechtigkeit zuerechnet ohni Zuedoe dr Werke:
+45004008	Selig isch der Ma, däm dr Herr d Sinde nit zurechnet!"
+45004009	D Seligprie etze, gilt sie d Bschnittene odr au d Unbschnittene? Mir sage doch: "Abraham isch si Glaube als Grechtigkeit grechnet wore."
+45004017	- we gschriebe schtoht: "I(Ich) ha di bschtimmt zum Vada (Babbe) viela Velka" - vor Gott, däm ma(er) glaubt het, der di Dote lebändig macht un rueft des, was nit isch, daß ses isch.
+45004018	Na het glaubt uf Hoffnig, wo nigs z hoffe war, daß sa(er) dr Vada (Babbe) viela Velka wär, we zue nem gsait isch: "So viel solle dini Nohchkumme si." 
+45004022	Drum isch`s nem au "als Grechtigkeit grechnet worde".
+45007007	Was soll ma(mir) denn etze sage? Isch des Gsetz Sinde? So isch`s nit! Aba d Sinde erkenn i(ich) nit üßa durchs Gsetz. Denn i(ich) wüßt nigs vu d Luscht, wenn des Gsetz nit gsait hät: "Dü sollsch nit gierig si!"
+45008036	we gschriebe schtoht: "Wägä dir wäre ma(mir) umbrocht d ganze Dag; ma(mir) sin gachtet we Schlachtvieh."
+45009007	au nit alli, de Abrahams Nohchkumme sin, sin drum sini Kinda. Sundern nur "was vu Isaak schtammt, soll di Gschlecht gnennt werden",
+45009009	Denn des isch ä Wort vu d Vuheißig, wo na(er) sait: "Um de Ziit will i(ich) kumme, un Sara soll ä Bue(Suhn) ha."
+45009012	nit üs Vudenscht dr Werke, sundern durch de Gnade vum Bruefende -, zue ihr sait: "Dr Eltere soll denschtbar wäre däm Jingere",
+45009013	we gschriebe schtoht: "Jakob ha i(ich) leb ka (gliebt), aba Esau ha i(ich) ghaßt."
+45009015	Denn na(er) sait zue Moses: "Wem i(ich) gnädig bi, däm bi i(ich) gnädig; un wäm i(ich) mi erbarm, däm erbarm i(ich) mi."
+45009017	Denn d Schrift sait zum Pharao: "Ebe dzue ha i(ich) di gweckt, dmit i(ich) a dir mi Macht zeig un dmit mi Name uf dr ganze Erde vukindigt wird."
+45009025	We na denn au durch Hosea sait: "I(Ich) will des mi Volk nenne, des nit mi Volk war, un mi Gliebti, de nit mi Gliebti war."
+45009026	"Un s soll gschähe: Anschtatt daß zue nene gsait wird: ,Ihr sin nit mi Volk, solle sie Kinda vum lebändige Gott gnennt wäre." 
+45009027	Jesaja aba rueft üs iba Israel: "Wenn de Zahl vu d Israelite wär we dr Sand am Meer, so wird doch nur ä Rest grettet wäre;
+45009028	denn dr Herr wird si Wort, indäm ma macht un schiedet, üsrichte uf d Erde."
+45009029	Un we Jesaja vorusgsait het: "Wenn uns(us) nit dr Herr Zebaoth Nohchkumme ibrigglosse hät, so wäre ma(mir) we Sodom wore un we Gomorra."
+45009033	we gschriebe schtoht: "Lueg, i(ich) lege in Zion ä Schtei (Wackes) zum Draschtoße un ä Fels zum Ärganiss; un wer a nen glaubt, der soll nit zschande wäre."
+45010005	Moses nämlich schribt vu dr Grechtigkeit, de üs däm Gsetz kummt: "Dr Mensch, der des doet, wird dodurch läbä."
+45010006	Aba de Grechtigkeit üs däm Glaube sait`s ä so: "Sag nit in dinäm Herz: Wer will nuf gen Himmel fahre?" - nämlich um Chrischtus rabzhole -
+45010007	odr: "Wer will nab in de Defi fahre?" - nämlich um Chrischtus vu d Dote rufzhole -,
+45010008	sundern was sait sie? "Des Wort isch dir nooch, in dinem Mul (Gosch) un in dinem Herze." Des isch des Wort vum Glaube, des ma(mir) predige. 
+45010011	Denn de Schrift sait: "Wer a nen glaubt, wird nit zschande wäre." 
+45010013	Denn "wer d Name vum Herrn aruefe wird, soll grettet werde".
+45010015	We solle sie aba predige, wenn sie nit gschickt wäre? We denn gschriebe schtoht: "We leb sin de Feß dr Freudebote, de des Guete vukindige!"
+45010016	Aba nit alli sin däm Evangelium hörig. Denn Jesaja sait: "Herr, wer glaubt unsam Predige? "
+45010018	I(Ich) frog aba: Hän sie`s nit ghärt ? Doch, s isch jo "in alli Lända üsgange ihr Schall un ihr Wort bis a de Ende dr Welt".
+45010019	I(Ich) frog aba: Het`s Israel nit vuschtande? Als erschta sait Moses: "I(Ich) will äich eifasichtig mache uf ä Nit-Volk; un iba ä unvuschtändiges Volk will i(ich) äich zornig mache."
+45010020	Jesaja aba wagt z sage: "I(Ich) ha mi finde lo vu däne, de mi nit sueche, un erschien däne, de nit nohch ma(mir) froge."
+45010021	Zue Israel aba sait da(er): "D ganze Dag ha i(ich) mini Händ(Pfode) üsgschtreckt nohch rem Volk, des sich nigs sage losst un widaschpricht."
+45011002	Gott het si Volk nit vuschtoße, des sa(er) zvor üsgwählt het. Odr wißt ihr nit, was de Schrift sait vu Elia, we na(er) vor Gott kummt gege Israel un sait:
+45011003	"Herr, sie hän dini Prophete umbrocht un hän dini Altäre vubroche, un i(ich) bi ällei ibrigbliebe, un sie vulange ma(mir) nohch däm Läbä"?
+45011004	Aba was sait nem de göttlichi Antwort?: "I(Ich) ha ma(mir) ibrigglo siebedusig Ma, de ihri Knie nit krumm gmacht hän vor rem Baal."
+45011008	we gschriebe schtoht: "Gott het ne ä Geischt der schloft ge, Auge, daß sie nit sähn, un Ohre, daß sie nit härä, bis uf d hiitige Dag."
+45011009	Un David sait: "Loß ihr Disch zue nare Falle wäre un zue nare Schlinge un ne zum Aschtoß un zue d Vugeltig.
+45011010	Ihri Auge solle finschta wäre, daß sie nit sähn, un ihr Kriiz(Buckel) krumm mache alliziit."
+45011026	un so wird ganz Israel grettet wäre, we gschriebe schtoht: "S wird kumme üs Zion dr Erlesa, der abwimmle wird alli Gottlosigkeit vu Jakob.
+45011027	Un des isch mi Packt(Abkumme) mit ne, wenn i(ich) ihri Sinde wägnähme wir."
+45011030	Denn we ihr zvor Gott unghorsam gsi sin, etze aba Barmherzigkeit gregt hän wägä ihrem Unglaube".
+45011034	Denn "wer het d Sinn vum Herrn vuschtande, odr wer isch si Rotgeba gsi?"
+45011035	Odr "wer het nem ebis zvor ge, daß Gott s nem zruck ge meßt?"
+45012019	Räche äich nit selba, mini Liebe, sundern gen Platz däm Zorn (Wuet) Gottes; denn s schtoht gschriebe: "D Rache isch mi; i(ich) will zruck ge, sait dr Herr." 
+45012020	Vielmeh, "wenn di Fäind hunga het, gib nem z ässä; durschtig isch, gib nem z trinke. Wenn dü des doesch, so wirsch dü heißi Kohle uf si Schädel sammeln".
+45013009	Denn was do gsait isch: "Dü sollsch nit eebreche; dü sollsch nemads umbringe; dü sollsch nit schtähle; dü sollsch nit alles ha welle", un was do sunscht a Gebote isch, des wird in däm Wort zsämmegfaßt: "Dü sollsch di Nächschte liebe we dich selba."
+45014011	Denn s schtoht gschriebe: «So wohr i(ich) läb, sait dr Herr, mir solle sich alli Knie beuge, un alli Zunge solle Gott bekenne."
+45015003	Denn au Chrischtus het nit a sich selba Gfalle ka, sundern we gschriebe schtoht: «De Schmach vu däne, de dich bschimpfe, sin uf mich gflogä." 
+45015009	d Heide aba solle Gott lobe um dr Barmherzigkeit wägä, we gschriebe schtoht: «Dorum will i di lobe unda d Heide un dinem Name singe."
+45015010	Un nomol heißt´s: «Fraie äich, ihr Heide, mit sinem Volk!"
+45015011	Un nomol: «Lobet d Herrn, alli Heide, un preise nen, alli Velka!"
+45015012	Un nomol sait Jesaja: «S wird kumme dr Sproß üs dr Wurzle Isais un wird ufschtoh, um z herrsche iba de Heide; uf das de Heide hoffe wäre." 
+45015021	sundern i(ich) ha doe, we´s gschriebe schtoht: «Däne nigs vu nem vukindigt worde isch, de solle säh, un de nigs ghärt hän, solle vuschtoh."
+45016023	S` greße äich Gajus, mina un dr ganze Gmeinde si Gaschtgeba. S` greße äich Erastus, dr Schtadtkämmera, un Quartus, dr Brueda.
+46001019	Denn s schtoht gschriebe: "I(Ich) will znicht mache de Gschidheit fu d Weise, un d Vuschtand vu d Vuschtändige will i(ich) vuwerfe."
+46001031	dmit, we gschriebe schtoht: "Wer sich rehmt, der rehmt sich däm Herrn! "
+46002009	Sundern s isch kumme, we gschriebe schtoht: "Was kei Aug gsähne het un kei Ohr ghärt het un in keins Mensch Herz kumme isch, was Gott gmacht het däne, de nen leb hän."
+46002016	Denn "wer het vum Herrn Sinn (Gmeht) gwißt, odr wer will nen undawiese"? Mir aba hän Chrischti Sinn (Gmeht).
+46003019	Denn de Gschidheit dr Welt isch Dümmi bi Gott. Denn s schtoht gschriebe: "Di Wiese fangt da(er) in ihra Schläui",
+46003020	un nomol: "Dr Herr kennt s denke dr Weise, daß sie nichtig sin."
+46006016	Odr wißt ihr nit: wer sich a ä Hure hängt, der isch ei Leib (Ranze) mit ihr? Denn d Schrift sait: "De zwei wäre ei Fleisch si".
+46009009	Denn im Gsetz vum Moses schtoht gschriebe: "Dü sollsch däm Ochs, der do drischt, nit des Mul vubinde." Sorgt sich Gott etwa um de Ochse?
+46010007	Wäre au nit Götzedena, we ä baar vu nene s wore sin, we gschriebe schtoht: "S Volk het sich anekockt, um z ässä un z trinke, un schtoht uf, um z tanze."
+46010026	Denn "d Erde isch vum Herrn un was drinne isch".
+46014021	Im Gsetz schtoht gschriebe: "I(Ich) will in andere Zunge un mit andere Lippe schwätze zue däm Volk, un sie wäre mi au so nit härä, sait dr Herr."
+46015054	Wenn aba des Vuwesliche azege wird d Unvuweslichkeit un des Schterbliche azege wird d Unschterblichkeit, dann(dnoh) wird erfillt wäre des Wort, des gschriebe schtoht: "Dr Dod isch vuschlunge vum Sieg.
+46015055	Dod, wo isch di Sieg? Dod, wo isch di Schtachel? Hell, wo isch di Sieg?"
+47004013	Wel ma(mir) aba dselbe Geischt vum Glaube hän, we gschriebe schtoht: "I(Ich) glaub, drum sag i(ich)", so glaube ma(mir) au, drum schwätze ma(mir) au;
+47006002	Denn na(er) sait: "I(Ich) ha di zue d Ziit dr Gnade ghärt un ha dir am Dag vum Heil ghulfe." Lueg, etzed isch de Ziit vu d Gnade, lueg, etzed isch dr Dag vum Heil!
+47006016	Was het dr Tempel Gottes gmein mit d Götze? Mir aba sin dr Tempel vum lebändige Gott; denn Gott sait: "I(Ich) will unda ne huuse un wandle un will ihr Gott si, un sie solle mi Volk si."
+47006017	Drum "gehn üs vu nene un sundere äich ab", sait dr Herr; "un rihrt nigs Dreckiges a, so will i(ich) äich aneh
+47006018	un äira Vada (Babbe) si, un ihr solle mini Buebä(Sühn) un Techta si", sait dr Herr Gott
+47008015	we gschriebe schtoht: "Wer viel sammlet, het kei Ibafluß, un wer weng sammlet, het kei Mangel."
+47009009	we gschriebe schtoht: "Na(Er) het üsgschtreut un d Arme ge; sini Grechtigkeit bliebt in Ewigkeit."
+47010016	Denn ma(mir) wen des Evangelium au däne predige, de gegeiba vu äich huuse, un rehme uns(us) nit mit däm, was anderi nohch ihrem Maß gmacht hän. "
+47010017	Wer sich aba rehmt, der rehmt sich vum Herrn".
+47013001	Etze kumm i(ich) zum dritte Mol zue äich. "Durch zwei odr draier Ziige Mul (Gosch) soll jedi Sach bschtätigt wäre."
+48003006	So war`s mit Abraham: "Na(Er) het Gott glaubt, un s isch nem zue d Grechtigkeit grechnet worde". 
+48003008	D Schrift aba het`s vorüsgsähne, daß Gott d Heide durch d Glaube Grecht macht. Drum vukindige sie däm Abraham.
+48003010	Denn de üs d Werke vum Gsetz läbä, de sin unda däm Fluech. Denn s schtoht gschriebe: "Vufluecht isch jeda, der nit bliebt bi alldäm, was gschriebe schtoht in däm Buech vum Gsetz, daß sa`s(er's) doets!"
+48003011	Daß aba durchs Gsetz nemads Grecht wird vor Gott, isch kla(bekannt); denn "dr Grechte wird üs Glaube läbä".
+48003012	Des Gsetz aba isch nit "üs Glaube", sundern: "dr Mensch, der`s doet, wird dodurch läbä"
+48003013	Chrischtus aba het uns(us) erlest vum Fluech vum Gsetz, do na(er) zum Fluech wird fir uns(us); denn s schtoht gschriebe: "Vufluecht isch jeda, der am Holz hängt",
+48003016	Etze isch de Vuheißig Abraham zuegsait un sine Nohchkumme. S heißt nit: un d Nohchkumme, als gilt`s fir vieli, sundern s gilt nem: "un dine Nohchkumme", wela isch Chrischtus. 
+48004027	Denn s schtoht gschriebe: "Kasch frehlich si, dü Unfruchtbari, de dü nit gebierscht! Brich in Jubel üs un juchz, de dü nit schwanga bisch. Denn de Isami het viel me Kinda, als de d Ma het." 
+48004030	Doch was sait de Schrift? "Stoß de Magd üsä mit ihrem Bue(Suhn); denn dr Bue(Suhn) vu d Magd soll nit erbe mit däm Bue(Suhn) dr Fräie".
+48005014	Denn des ganze Gsetz isch in nem Wort erfillt, in däm: "Lieb (Lebi) di Nächschte we di selba!"
+49004008	Drum heißt`s: "Na(Er) isch ufgfahre zue d Hechi un het Gfangeni mit sich gfihrt un het d Mensche Gabe ge."
+49005030	Denn ma(mir) sin Glieda vu sinem Leib (Ranze). "
+49005031	Drum wird ä Ma Vada (Babbe) un Muetter vulo un sinem Wieb ahänge, un de zwei wäre ei Fleisch si". 
+49006002	"Ehre d Vada (Babbe) un d Muetter", des isch des erschte Gebot, des ä Vuheißig het:
+49006003	"uf daß dir's wohl goht un dü lang läbsch uf d Erde".
+54005018	Denn d Schrift sait : "Dü sollsch däm Ochs, der do drischt, nit des Mul vubinde"; un: "Ä Arbeita isch si Lohn wert".
+58001005	Denn zue welem Engel het Gott jemols gsait: "Dü bisch mi Bue(Suhn), hiit ha i(ich) di gschaffe"? un nomol: "I wir si Vada (Babbe) si, un na(er) wird mi Bue(Suhn) si"?
+58001006	Un wenn na(er) d Erschtgeborene wieda iführt in d Welt, sait da(er): "Un s soll nem alli Engel Gottes abäte (ahimmle)."
+58001007	Vu d Engel sait da(er) zwar: "Na(Er) macht sini Engel zue Wind un sini Diena zue Fiirflamme",
+58001008	aba vum Bue(Suhn): "Gott, di Thron isch vu Ewigkeit zue Ewigkeit, un des Zepta dr Grechtigkeit isch des Zepta vu dinem Rich.
+58001009	Dü hesch leb ka (gliebt) de Grechtigkeit un ghaßt de Ungrechtigkeit; drum het di, oh Gott, di Gott gsalbt mit Fräideel(Freudeel) we keine vu dir."
+58001010	Un: "Dü, Herr, hesch am Afang d Bode grindet, un d Himmel isch üs dinere Hand(Pfode) gschaffe.
+58001012	un we ä Mandel wirsch dü sie zsämmerolle, we ä Gwand (Häß) wäre sie gwechselt wäre. Dü aba bisch imma d gliche, un dini Johr wäre nit ufhäre."
+58001013	Zue welem Engel aba het da(er) jemols gsait: "Hock di rechts zue ma(mir), bis i(ich) dini Gegna(Feinde) zum Hocka vu dinene Feß mach"?
+58002006	S beziigt aba eina bi eina Schtell un sait: "Was isch dr Mensch, daß dü a nen denksch, un d Mensche Bue(Suhn), daß dü uf nen acht hesch?
+58002008	alles hesch dü unda sini Feß doe." Wenn na(er) nem alles unda d Feß doe het, so het da(er) nigs üsgnumme, was nem nit folgsam wär. Etze aba sähn ma(mir) noh nit, daß nem alles folgsam isch.
+58002009	Däm aba, der "ä kleini Ziit kleina gsi isch als d Engel", Jesus, sähn ma(mir) durch des Liede vum Dod "gkrönt mit Pries un Ehri"; denn durch Gottes Gnade soll la(er) fir alli d Dod schmeckä. 
+58002012	un sait: "I(Ich) will di Name vukindige mine Breda un midde in dr Gmeinde dir lobsinge."
+58002013	Un nomol: "I(Ich) will mi Vuträue uf nen setze"; un nomol: "Lueg, do bi i(ich) un de Kinda, de ma(mir) Gott ge het."
+58003007	Drum, we dr heilige Geischt sait: "Hiit, wenn ihr sini Schtimm härä den, 
+58003011	so daß i(ich) gschwore ha in minem Zorn (Wuet): Sie solle nit zue minere Rueh kumme."
+58003013	sundern ermahne äich selba alli Däg, solang´s "hiit" heißt, daß nit jemads unda äich vuschtockt wird durch d Lug vu d Sinde. 
+58003015	Wenn s heißt: "Hiit, wenn ihr sini Schtimm härä den, so vuschtocke äiri Herze nit, we`s bi dr Vubittarig gschäh isch" -
+58004003	Denn mir, de ma(mir) glaube, gehn ri in de Rueh, we na(er) gsait het: "I(Ich) ha gschwore in minem Zorn (Wuet): Sie solle nit zue minere Rueh kumme." Etze ware jo de Werke vu Afang d Welt parat;
+58004004	denn so het da(er) bi eina andere Schtell gsait vum siebte Dag: "Un Gott rueht üs am siebte Dag vu alla sinere Arbet."
+58004005	Doch bi der Schtell nomol: "Sie solle nit zue minere Rueh kumme."
+58004007	bschtimmt da(er) abamols ä Dag, ä "Hiit", un sait nohch so langa Ziit durch David, we ebe gsait: "Hiit, wenn ihr sini Schtimm härä den, so vuschtocke äiri Herze nit."
+58005005	So het au Chrischtus sich nit selba de Ehri aglegt, Hohenprieschta z wäre, sundern der, der zue nem gsait het: "Dü bisch mi Bue(Suhn), hiit ha i(ich) di ziigt (zeugt)."
+58005006	We na(er) au bi andere Schtell sait: "Dü bisch ä Prieschta in Ewigkeit nohch dr Ordnig Melchisedeks."
+58006014	un sait: "Gwiß, i(ich) will di segne un mehre."
+58007017	Denn s wird beziige: "Dü bisch ä Prieschta in Ewigkeit nohch d Ordnig Melchisedeks."
+58007021	sela(der) aba durch d Eid vu däm, sela(der) zue nem gsait het: "Dr Herr het gschwore, un s wird nen nit greue: Dü bisch ä Prieschta in Ewigkeit." 
+58008005	Sie dene aba nur däm Abbild un Schatte vum Himmlische, we`s däm Moses zeigt wore isch, als sa(er) d Schtiftshitte bäue soll: "Lueg zue", sait da(er), "daß dü alles machsch nohch rem Bild, des dir uf däm Berg zeigt worde isch
+58008008	Denn Gott tadelt sie un sait: "Gib obacht, s kumme Däg, sait dr Herr, do will i(ich) mit däm Huus Israel un mit däm Huus Juda ä näje(naie) Packt(Abkumme) schleße, 
+58008012	Denn i(ich) will gnädig si ihra Ungrechtigkeit, un an ihri Sinde will i(ich) nimi denke."
+58008013	Indäm ma(er) sait: "ä näje(naie) Packt", erklärt da(er) d erschte fir vualtet. Was aba vualtet un ibaläbt isch, des isch sinem End nooch. 
+58009020	un sait: "Des isch des Bloet vum Packt(Abkumme), des Gott äich bpfohle het." 
+58010005	Drum sait da(er), wenn na(er) in de Welt kummt:"Opfa un Gabe hesch dü nit welle; ä Leib (Ranze) aba hesch dü ma(mir) gschaffe.
+58010007	Do ha i(ich) gsait: Lueg, i(ich) kummt - im Buech schtoht vu ma(mir) gschriebe -, daß i(ich) doe, Gott, di Wille." 
+58010008	Zerscht het da(er) gsait: "Opfa un Gabe, Brandopfa un Sündopfa hesch dü nit welle, sie gfalle dir au nit", obwohl sie doch nohch rem Gsetz gopfat wäre.
+58010009	Dann(Dnoh) aba sait da(er): "Lueg, i(ich) kummt, z doe di Wille." Do hebt da(er) des erschte uf, dmit da(er) des zweite isetzt. 
+58010015	Des beziigt uns(us) aba au dr heilige Geischt. Denn nohchdäm dr Herr gsait het:
+58010016	"Des isch dr Packt(Abkumme), den i(ich) mit ne schleße will nohch däne Täg", un sait: "I will mi Gsetz in ihri Herze ge un in ihr Sinn (Gmeht) will i(ich)`s schriebe,
+58010017	un ihri Sinde un ihra Ungrechtigkeit will i(ich) nimi denke." 
+58010030	Denn ma(mir) kenne sella(den), der gsait het: "D Rache isch mi, i(ich) will vugelte", un nomol: "Dr Herr wird si Volk richte."
+58010037	Denn "nur noh ä kleini Wieli, so wird kumme, der do kumme soll, un wird nit lang üsbliebe.
+58010038	Mi Grechte aba wird üs Glaube läbä. Wenn na(er) aba zruckwiecht, het mi Seele kei Gfalle a nem(ihm)"
+58011018	un nem gsait worde war: "Was vu Isaak schtammt, soll di Gschlecht gheiße wäre."
+58012005	un hän eze d Troscht vugässä, der zue äich schwätzt we zue sinene Kinda: "Mi Bue(Suhn), acht nit gring de Zucht vum Herrn un vuzag nit, wenn dü vu nem gschtroft wirsch.
+58012006	Denn wen dr Herr leb(lieb) het, den zichtigt da(er), un na(er) schlat jede Bue(Suhn), den na(er) animmt."
+58012020	denn sie känne's nit vutrage, was do gsait wird: "Un au wenn ä Dier d Berg arihrt, soll`s gschteinigt wäre."
+58012021	Un so schrecklich war de Erschinig, daß Moses sait: I(Ich) bi erschrocke un zittre."
+58012026	Sini Schtimm het zue sellare Ziit d Bode wackle lo, etzed aba vuheißt da(er) un sait: "Noh eimol will i(ich)`s wackle lo nit ällei d Bode, sundern au d Himmel."
+58013005	Sin nit geldgierig, un len`s äich guet si a däm, was do isch. Denn dr Herr het gsait: "I will di nit vulo un nit vugässä."
+58013006	So kenne au mir getroscht sage: "Dr Herr isch mi Helfa, i(ich) will mi nit firchte; was ka ma(mir) ä Mensch scho adoe?"
+59002008	Wenn ihr des keniglichi Gsetz erfillt nohch dr Schrift: "Leb (Liebe) di Nächschte we di selbscht", so den ihr recht;
+59002011	Denn der gsait het: "Dü sollsch nit eebreche", der het au gsait: "Dü sollsch nit umbringe". Wenn dü etze nit d Ee brichsch, aba eba umbringsch, bisch dü ä Ibaträta vum Gsetz. 
+59002023	So isch d Schrift erfillt, de do sait: "Abraham het Gott glaubt, un des isch nem zue d Grechtigkeit grechnet wore", un na(er) wird "ä Fründ(Freund) Gottes" gnennt.
+59004006	un git um so me Gnade? Drum heißt s: "Gott widaschtoht d Hochmetige, aba d Demetige git da(er) Gnade."
+60001016	Denn s schtoht gschriebe: "Ihr sollt heilig si, denn i(ich) bi heilig."
+60001024	Denn "alles Fleisch isch we Gras un alli sini Herrlichkeit we`s Gras vu d Blueme. S Gras isch vudorrt un d Blueme abglalle;
+60001025	aba s Herrn Wort bliebt in Ewigkeit". Des isch aba des Wort, wel (des) unda äich vukindigt isch.
+60002006	Drum schtoht in dr Schrift: "Lueg, i(ich) leg in Zion ä üsgwählte, koschtbare Eckschtei; un wer a nen glaubt, der soll nit zschande wäre."
+60002007	Fir äich etze, de ihr glaubt, isch scha(er) koschtbar; fir de Ungläubige aba isch "der Schtei (Wackes), den de Bäulit rüssgworfe hän un der zum Eckschtei wore isch,
+60002008	ä Schtei (Wackes) zum Draschtoße un ä Fels zum Ärganiss"; sie schtoße sich a nem, wel sie nit a s Wort glaube, wozue sie au bschtimmt sin.
+60002010	de ihr dertmols "nit ä Volk" ware, etze aba "Gottes Volk" sin, un dertmols nit in d Gnade ware, etze aba in d Gnade sin.
+60003010	Denn "wer des Läbä liebt (leb het) un gueti Däg säh will, der heetet sini Zunge, daß sie nigs Beses sait, un sini Lippe, daß sie nit bschiesse. 
+60003012	Denn d Auge vum Herrn sähn uf d Grechte, un sini Ohre häre uf ihr Gebet; s Agsicht(d Visasch) vum Herrn aba isch(schtoht) gege de, de Beses den".
+60004008	Vor alle Dinge hän undaänanda bschtändige Lebi (Liebe); denn "d Lebi (Liebe) deckt au vieli Sinde zue".

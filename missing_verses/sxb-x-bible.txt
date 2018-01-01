@@ -1,260 +1,260 @@
-40002009
-40002010
-40006014
-40006015
-40011018
-40011019
-40013014
-40013016
-40013017
-40022045
-40022046
-40026032
-41001004
-41001005
-41001006
-41001007
-41001008
-41005007
-41005008
-41007008
-41007009
-41007010
-41007011
-41007012
-41007013
-41012037
-41014028
-42007028
-42007029
-42007033
-42007034
-42007035
-42020018
-42020044
-42023050
-42023051
-43005034
-43005035
-43006023
-43006024
-43012014
-43012015
-43017002
-43017003
-43017004
-43017005
-43017006
-43017007
-43017008
-43017009
-43017010
-43017011
-43017012
-43017013
-43017014
-43017015
-43017016
-43017017
-43017018
-43017019
-43017020
-43017021
-43017022
-43017023
-43017024
-43017025
-43017026
-44001021
-44001022
-44004027
-44004028
-44004029
-44004030
-44010045
-44010046
-44013038
-44013039
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44020008
-44020009
-44023026
-44023027
-44023028
-44023029
-44023030
-45004009
-45004010
-45004011
-45004012
-45008037
-45008038
-45008039
-45009011
-45009012
-45009016
-45009017
-45009018
-45009026
-45010019
-45010020
-45010021
-45011028
-45012020
-45012021
-45014012
-45015010
-45015011
-45015012
-45016003
-45016004
-45016005
-45016006
-45016007
-45016008
-45016009
-45016010
-45016011
-45016012
-45016013
-45016014
-45016015
-45016016
-46002001
-46002002
-46002003
-46002004
-46002005
-46002010
-46011001
-46014022
-46014023
-46014024
-46014025
-46015033
-46015034
-46015051
-46015052
-46015056
-46015057
-47002001
-47002002
-47002003
-47002004
-47003001
-47003002
-47003003
-47009001
-47009002
-47009003
-47009004
-47009005
-47009010
-47009011
-47012002
-47012003
-49004009
-49004010
-49004011
-49004012
-49004013
-51004001
-54001001
-54001002
-54002001
-54002002
-54006001
-54006002
-55001001
-55001002
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002009
-58002013
-58004008
-58004009
-58004010
-58004011
-58005006
-58007020
-58007021
-58010007
-58010008
-58010009
-58010010
-58010017
-58010018
-58010039
-58013006
-60002007
-60002008
-60002023
-60002024
-60002025
-60003001
-60003002
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002009
-66002010
-66002011
-66002013
-66002014
-66002015
-66002016
-66002017
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002027
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
-66004009
-66004010
-66004011
-66017006
-66017007
-66017008
-66017009
-66017010
-66017011
-66017012
-66017013
-66017014
+40002009	Olwa waamala okuwurra amangʼana aga Omwami Eroode, waafuma okugia emberi no olugendo lwawu. Kandi engʼeni-ngʼeni eya waawona ewufumanyanga eria yawafumira kandi. Olwa waagiwona, waawa no owusangaavu ino. Yawakangatra nawuno egia eidengʼa aa aiwariire ni aa omwana Yesu yawanga
+40002010	
+40006014	Aeniki ni murekeere awandi amawi gaawu, Soinyu ori ku igulu yoona aaza okuwarekera amawi giinyu.
+40006015	Ni, ni mutarekeere awandi amawi gaawu, Soinyu yoona ngaaza okuwarekera amawi giinyu.
+40011018	“Yowaana iye ngakaweerao na aria kandi na anywa. Kino kiagera ni wawoola mbwe, ‘Omuntu ono ari ne ekikeeno.’
+40011019	No *Omuzia owa Omuntu iye aria kandi anywa, kandi okwo kugera ni wawoola mbwe, ‘Omuntu ono agonziizie okuria kandi ari omunywi. Lwona ari omwiko owa awasolozi awa *omusolo na awooni.’ No owuganga wulaganwa mu enkola ziawuo.”
+40013014	Watuusia owugambi owua Isaaya owuwoola mbwe: “ ‘Muuza okuwa mala ni muwurra, na amangʼana ngagaaza okuwaingirra; muuza okuwa mala ni muwarra, no okuwona ngamuuza okuwona. 
+40013016	“Ni, inywe amiiso giinyu gasereekwe aeniki gawona kandi amatwi giinyu goona gasereekwe aeniki gawurra.
+40013017	Mbalaga kuwuene mbwe *awagambi awangi na awantu awigolovu awangi waawa na amiiga aga okuwona ewintu ewia muwona kandi okuwurra ewia muwurra nyingeeno wino, ni ngakukawaweera kutio.
+40022045	Katio ni kuri mbwe Daudi amueta ‘Omwami,’ Kristo akawa omuzia waae otie?”
+40022046	Awulao omuntu owaesanga okumuirania ingʼana namba ilala, kandi okuemera nyanga olwo awulao omuntu owamuigemako mbwe amuwuuzia ekintu.
+40026032	Ni, ni Katonda amiire okunziusia, nyiza okukangata emberi iinyu, ngie Galiili.”
+41001004	Omuntu oyo yawanga Yowaana, yafuma mu ekeewa atanika okulanzizia awantu mbwe wagaluke wareke amawi, wabatiiswe kugere Katonda awarekere owuoni wuawu.
+41001005	Awantu awangi ino awa mu ekialo ekia Yudeea no omugizi ogwa Yerusaleemu waagia ku Yowaana. Waawoola amawi gaawu owuyanga, nikwo Yowaana yawabatiisa mu oluuzi olwa Yordaani.
+41001006	Yowaana yawanga na aiwoya enguwo ezia owuvwiri owua engamia, kandi yawanga no omukanda ogwa iseero mu ensinzi yaae. Yarianga amadeede no owuuki owua mu isaka.
+41001007	Yawalanzizia otino, “Omuntu ooza enyima wange ari omukaate okunkira, owa ngʼasugre namba okuikirra okusiwula engoe ezia ewiraato wiae.
+41001008	Inze mbabatiisa na amanzi, ni iye aaza okuwabatiisa no *Omwoyo Omweru.”
+41005007	Okwo kwatuukra ni Yesu amiire okulaga ekikeeno ekio mbwe, “Fuma omuemeko, iwue ekikeeno ekiwiiwi kino!” Ekikeeno ekio kiarra wukalu ni kiwoola kitino, “Onyagalakooki Yesu Omuzia owa Katonda omunene okukira? Nkuiyembere ku eriina eria Katonda mbwe ontamala.”
+41005008	
+41007008	Murekere *ensikirra ezia Katonda kandi muisiwire ku nkola eziateewuao na awantu.”
+41007009	Yesu yagia emberi na awalaga otino, “Muri no owuganga owua okulowa ensikirra ezia Katonda kugere murinde endagirra ziinyu!
+41007010	Aeniki Muusa yawoola mbwe ‘Tia swao ni ngʼinwao’ kandi mbwe ‘Omuntu-umuntu onyegere swae nakuwa ngʼinwae paka aitwe.’
+41007011	Ni inywe muwoola mbwe omuntu olagre swae ni ngʼina mbwe ‘owuitunzi owua nkakueere miire oku-aa Katonda,’
+41007012	mumuganyiire mbwe kiwulao ekia asugaane a-ee swae ni ngʼinwae.
+41007013	Ao otio, mutoola amangʼana aga Katonda ki agawula ne emirimo kugere mute endagirra ziinyu emberi. Lwona muri ne enkola zindi enyingi ezifwana zitio ezia mulonda.”
+41012037	Daudi omwene amueta mbwe Omwami. Katio Kristo awa otie omuzia waae kandi?” Awantu awangi awaawangao wamutegerezia ni wari no owusangaavu.
+41014028	Ni, ni Katonda amiire okunziusia, nyiza okukangata emberi iinyu, ngie Galiili.”
+42007028	Mbalaga kuwuene mbwe ku awantu woona awa awakazi waiwuule, awulaoko namba omulala omiire okuwaao okira Yowaana. Kukawa kutio, omuntu omutono otuukre mu *Owuami owua Katonda amukirre.”
+42007029	Awantu woona namba awasolozi awa *omusolo awaawurra okulanzia kwae, waaganya mbwe okwo nikwo okwawanga engira eya Katonda eri kuwuene, aeniki woona waabasiitwa ni Yowaana.
+42007033	Yowaana Omubatiisi, iye ngakaweerao na aria kandi na anywa. Kino kiagera ni muwoola mbwe, ‘Omuntu ono ari ne ekikeeno!’
+42007034	No *Omuzia owa Omuntu iye aria kandi anywa, kandi okwo kugera ni muwoola mbwe, ‘Omuntu ono agonziizie okuria kandi ari omunywi. Lwona ari omwiko owa awasolozi awa omusolo na awooni.’
+42007035	No owuganga wulaganwa mu enkola.”
+42020018	Omuntu-umuntu oigunyire ku iwaale erio aaza okuvunika wutono-tono, no owa iwaale erio rigwireko riiza okumusia ki egunduusi.”
+42020044	Ni Daudi amueta mbwe Omwami waae, katio *Kristo awa otie omuzia waae kandi?”
+42023050	Yawangao omuntu wundi oetwa Yoseefu owaemanga ku omugizi ogwa Awayaudi oguetwa Arimathea mu ekitemo ekia Yudeea. Yawanga omuntu omulootu kandi omulongoole, owarindirranga okuuza okwa *Owuami owua Katonda. Yawanga omulala ku awagaaka awa oluwuga, ni iye yagawukana na awiinae ku ewintu ewia waawisia kandi ewia waakolanga wino.
+42023051	
+43005034	Yowaana yafwananga ekimuri ekiawanga ni kikangaate okulagana engira. Mwawa no okuganya ku amangʼana gaae no owusangaavu ku amiire amatoono. Ngʼamboola otio mbwe aeniki paka mboolweko amangʼana no omuntu owa ku ekialo kuno yaaya, ni mboola otio kugere inywe mutuukre owuinunuzi.
+43005035	
+43006023	Waamuagala asi ao oona, ni ngawakamutuukra iye namba awalonzi waae. Waawona amaato agaaemanga ku omugizi ogwa Tiberiasi ni gagowa a-ampi ni aa awantu waaria emikaati, no Omwami yamala okuikazia Katonda aria. Kutio waaganiina wagia Kapernaumu okugia okumuagala eyo.
+43006024	
+43012014	Yesu yatuukra entikiri ekiari embuuka aniina aikalako na agia mala kiomo endagano ewoola mbwe,
+43012015	“Mutawa no owuti inywe awantu awa Yerusaleemu. Muwoneko Omwami iinyu aaza na aniinre entikiri ekiari embuuka.”
+43017002	Wampa amaani ku awantu woona kugere nyezanie owulamu owutariwua ku awantu woona awa wanteera mu amakono.
+43017003	Owulamu owutariwua owuo wuema ku okukumanya iwue Katonda omulala engʼene ori kuwuene, ni inze Yesu *Kristo owa iwue omwene watuma.
+43017004	Emirimo egia wampa miire Soifu, kandi ku okukola otio awantu awangi ku ekialo kuno, wamiire okuwona owunene wuao.
+43017005	Soifu, nyingeeno katio mpe owunene emberi waao omwene, owunene owua nyawanga nawuo ni iwue kale ne ekialo kikiari okuwaao.
+43017006	 “Soifu, miire okugera awantu awa wampa, no owatoola agati ya awantu awa ekialo, wakumanya. Awantu wano waawanga awaao omwene, ni wawata mu amakono gange kandi wamiire okurinda ansikirra ziao.
+43017007	Nyingeeno katio wamanyire mbwe ewintu ewia miire okuwa ni nkola wiona, miire okukola na amaani agakuemako.
+43017008	Nyawa-aa amangʼana gaao aga wampa kandi waganya wagaingizia. Wamiire kumanya kuwuene mbwe nyakuemako kandi waganya mbwe ni iwue owantuma.
+43017009	Ngansawira awantu awa ku ekialo yaaya, ni nsawira awantu awa wampa wano, aeniki wari awantu waao omwene.
+43017010	Ewintu ewia ndi nawio wiona ne ewiao kandi ewia ori nawio wiona ne ewiange. Owulamu wuawu wulagana ku awantu owunene owua ndi nawuo.
+43017011	Inze amiire gange aga okuwa ku ekialo kuno gawuere, ni iwo wakiaza okuwa ku ekialo. Soifu Katonda Omweru, warinde na amaani aga eriina riao, eriina eria wampa, kugere woona wawe ekintu ekilala mala kiomo iwue ni inze turi ekintu ekilala.
+43017012	Ni nyawanga ni nkiari nawo, nyawarinda geeza na amaani agari ku eriina eria wampa. Awulao namba omulala omiire okuteeka, ni mala omulala owawaao mbwe paka ateeke okutuusia amangʼana aga *endagano yawoola kale.
+43017013	“Nyingeeno ndi ampi okukuuzako, ni mboola amangʼana gano ni nkiari ku ekialo kuno. Nkola ntino aeniki nyagala mbwe wawe no owusangaavu owungi owukirre mu emioyo giawu, kiomo noona nyizuule no owusangaavu.
+43017014	Miire okuwa-aa amangʼana gaao kandi awantu awa ekialo wawaregere. Wawarega aeniki owulamu wuawu ngawufwanana no owua awantu awa ekialo, mala kiomo noona ngawukaane nawo.
+43017015	Okusawa kwange ngakuri mbwe owatoole ku ekialo, yaaya. Ni nkusawa mbwe owarinde ku Omwoni.
+43017016	Iwo owulamu wuawu ngawufwanana no owua awantu awa ekialo, mala kiomo noona ngawukaane nawo.
+43017017	Soifu, waeruyie na amangʼana gaao agari kuwuene. Ee amangʼana gaao no owuene.
+43017018	Kiomo wantuma ku awantu awa ku ekialo, nintio noona mbatumre ku awantu awa ku ekialo.
+43017019	Nyaifumia okukukorra kugere woona waifumie wawe awaao kuwuene.
+43017020	“Katonda Soifu, okusawa kwange ngakuri ku iwo wengʼene, yaaya, ni nsawira namba awantu woona awaaza okuwa no okuganya ku inze ni kuwitra ku amangʼana aga waaza okuwalanzizia.
+43017021	Nkusawa Soifu mbwe ogere wawe ekintu ekilala, mala kiomo nkurimo ni oona ondimo. Ganya woona watuweemo kugere ekialo kiganye mbwe kuwuene ni iwue owantuma okuuza ku ekialo kuno.
+43017022	Miire okuwa-aa owunene owua iwue oona wampa, kugere wawe ekintu ekilala kiomo iwue ni inze turi ekintu ekilala:
+43017023	Inze mbaweemo, ni iwue ombeemo. Ganya owareete mu owulala wa-ambaane ti, kugere awantu awa ku ekialo wamanye mbwe ni iwue owantuma kandi mbwe owagonziizie mala kiomo ongonziizie.
+43017024	“Soifu, nyagala mbwe awantu awa omiire okumpa waaze wawe ni inze aa nyiza okuwa kandi mbwe waaze wawone owunene owua ndi nawuo. Owunene owua iwue omwene wampa aeniki wangonzia namba ne ekialo kiawanga ni kikiari okulukwa.
+43017025	“Soifu Omuigolovu, kukawa mbwe awantu awa ekialo ngawakumanyire, inze nkumanyire kandi wano woona wamiire okumanya mbwe ni iwue owantuma.
+43017026	Miire okukumanyisia ku iwo kandi nkiaza okukumanyisia ku iwo kugere wawe no olugonzi olwa ongonziizie nalwo, kandi mbwe inze omwene mbaweemo.”
+44001021	“Kutio kuri kulootu ni tulowoole omuntu omulala ooza okuwa ni ifwe mu emirimo egia okulaga awantu amangʼana aga okuziuka okwa *Omwami Yesu. Omuntu ono paka awe omulala ku awantu awamiire okuwa ni ifwe amiire goona aga Yesu yawanga agati iifu; okutanikra mu amiire aga Yowaana yabatiisangamo kutuuka olwa Yesu yatoolwa airwa ku igulu.”
+44001022	
+44004027	Kuwuene Katonda, ekio nikio ekintu ekiaikola ku omugizi guno olwa Omwami *Eroode alala no omukangasi Pontias Pilaato waaikumia alala na Awaisraeli na awatari Awayaudi okuwurizania ku amangʼana aga okulwania Yesu Kristo omukurumu waao omulowole.
+44004028	Ne ewia waakola wino wiawanga ewintu ewia wawanga no omanyire mbwe wiiza okuikola aeniki wamala okuwitaao na amaani gaao.
+44004029	Ni katio Katonda Omwami iifu, nyingeeno wonako kiomo awantu wano watusiagizia. Tukusawa mbwe ganya otu-ee amaani kugere tulanzie amangʼana gaao no owusiani.
+44004030	Golola okukono kwao okusiza tulamie awalwire kandi tukole amankono ne ewintu ewikate-kaate ewiluguulwa ku eriina erieru eria omukurumu waao Yesu Kristo.”
+44010045	Olwa Awayaudi awaawanga ni waganyire ku Yesu *Kristo awaawanga ni waazre ni Petro waawona na awantu awaategerezianga Petro ni wagamba-gamba mu eminwa egigawuke-gawuuke kandi ni watondowola Katonda, waawa no okuluguula ino aeniki Katonda ya-aa namba awatari Awayaudi Omwoyo gwae Omweru.
+44010046	
+44013038	Kutio waamwifu, mwona nyagala mumanye kuwuene mbwe ni kuwitra ku Yesu ono, reero mulanziziwua amangʼana aga okurekerwa amawi giinyu. Kandi musugaane mumanye mbwe ni kuwitra ku Yesu, omuntu-umuntu ori no okuganya ku iye awa ne empurizanio ni Katonda, ekintu ekia endagirra ezia Muusa ngazikaesanga okukola.
+44013039	
+44015024	Tumiire okuwurra kiomo awiina wiifu awandi wamiire okuuza eyo kandi wawalaga amangʼana gandi agawanyaasia emioyo. Ifwe ngatukawatuma, yaaya.
+44015025	Kutio twona tuwuine mbwe tulowole awantu wandi ku ifwe kugere tuwatume ku inywe na awiiko wiifu Paulo ni Baranabaasi,
+44015026	awamiire okuganya okufwira eriina eria Omwami Yesu Kristo.
+44015027	Kutio tutumire Yudaasi ni Siila awaaza okuwalaga ne eminwa giawu aweene ekia tuwajojeere mu ebaruwa eyo.
+44015028	Tuagala mumanye mbwe okuagala kwifu no okuagala okwa Omwoyo Omweru ogwa Katonda kuri mbwe ngatusugaane tuwanyaasie okulonda endagirra ziifu ziona, ni
+44015029	mutaria okuria okukoriirwe katonda ensaasa emisango, mutanywa amasaai namba okuria ewintu ewigogerwe wifwa. Lwona mutasooda. Ni muirindre ku ewintu ewio, muuza okugia emberi geeza. Ewarinde.”
+44020008	Yawangao omuzia wundi owaetwanga mbwe Yutikaasi. Omuzia ono yawanga na aikaale ku ediriisa kandi ewimuri wiaemanga ewingi mu enyumba omwo. Kiomo Paulo yagia emberi okugamba-gamba, nintio endoolo ziaira omuzia ono. Owutuukre omuzia ono yaaguka ku ediriisa agwa ansi na aema ku goroofa eya okusatu aa twawanga, agia atuukrwa na afwire.
+44020009	
+44023026	“Ku omwami otiirwe Feliksi. Nkukeeziizie ino.
+44023027	Awayaudi izuuzi wa-amba omuntu ono kandi waagalanga okumuita. No olwa nyawurra mbwe ari Omuruumi, nyagia na awa-iiye wange mutoola mu amakono gaawu.
+44023028	Nikuemao nyawuine mbwe muire emberi wa awagaaka waawu kugere ntuukre owueru owua amangʼana.
+44023029	No olwa nkorre otio, ntuukiire mbwe kiwulao-uwula ekintu ekia akorre ekisugre asiwirwe namba aitirwe. Ni ntuukiire mbwe olusoolo lwawu luambaane ne endagirra ziawu aweene.
+44023030	Kutio olwa ndagrwe mbwe wario Awayaudi wandi awawarra engira eya wakamuitramo, mbwine mbwe mutume ku iwue wuangu-wuangu. Lwona ndagre awantu awamuingiriire mbwe waaze emberi waao kugere wawoole owuwi wuae. Ni inze Klaudiasi Liisia, omukangasi omunene owa awa-iiye.”
+45004009	Tukawoola mbwe ensereki eno eri mala eya Awayaudi wengʼene? Yaaya, eri eya awatari Awayaudi woona. Tuwuine mbwe ku okuganya kwengʼene Katonda yawala Abraamu ki omuntu omuigolovu.
+45004010	Ni kino kiaikola ri? Ni yawanga na amiire okuirwa *enyangu kusi ni yawanga na akiari? Yaaya, ni yawanga na akiari.
+45004011	Yairwa enyangu lunyima ki ekilagano ekia okuwa kwae mu empurizanio ni Katonda okwa yatuukra mu engira eya okuganya ni yawanga na akiari okuirwa enyangu. Katonda yakola otio kugere Abraamu awe swawu awantu woona awaganyire ku Yesu *Kristo ni watairrwe enyangu. Ku okuganya, iwo woona waingiziwua mu empurizanio ni Katonda.
+45004012	Lwona ari swawu awantu awairrwe enyangu woona, awatairrwe-uirwa enyangu kwengʼene, na awalonda omufwano ogwa okuganya okwa Abraamu soifu yawanga nakwo namba ni yawanga na akiari okuirwa enyangu.
+45008037	Yaaya, kiwulao aeniki ku ewintu wino wiona, turi awakire awatakirwa, ni kuwitra ku Kristo owatugonzia.
+45008038	Inze manyire kuwuene mbwe kiwulao-uwula ekintu ekiiza kiatugawula no olugonzi olwa Katonda. Lukawa olumbe namba owulamu; wakawa *enyankoi namba awakangasi awa mu ekialo ekia mu ekierema; kukawa mbwe ne ewintu ewiikola nyingeeno namba ewiiza okuikola emberi eyo; gakawa amaani agafwana gatie, ngagaesa okutugawula no olugonzi lwae.
+45008039	Wuwulao owuliire owuniina kungulu nakuwa owuika ansi, namba ekintu-ukintu ekia Katonda yaluka, ekiesa okutugawula no olugonzi olwa Katonda amiire okutulaga ni kuwitra ku *Omwami iifu Yesu Kristo.
+45009011	Ni kukawa kutio namba na awalongo awo waawanga ni wakiari okuiwulwa nakuwa okukola ekintu ekilootu namba ekiwiiwi, Katonda iye yawanga na amiire okukola owulowozi wuae. Rebeeka yalagwa ni Katonda mbwe, “Omuzia waao omukulu, aaza okuwa owemirimo owa omuzia omutono.” Kino kiaikola kugere okuagala okwa Katonda mu owulowozi wusigale, ngʼani mu engira eya emirimo egia omuntu okakola na amaani gaae, ni mu okuagala okwa Katonda kwengʼene.
+45009012	
+45009016	Kutio owulowozi owua Katonda ngawuisigiike ku okuagala okwa omuntu nakuwa ewintu ewia akakola na amaani gaae yaaya. Ne ekineene, na amasaasra aga Katonda a-ambra omuntu-umuntu owa awuine.
+45009017	Kuri kiomo Katonda yalaga Faraao mu *endagano mbwe, “Nyakuta ku entewe eya owuami ne ekigera. Nyagalanga okukola ni iwue okulaganra awantu amaani aga ndi nago kugere eriina riange rimanyike mu ekialo kiona.”
+45009018	Kutio Katonda a-ambra awa awuine amasaasra, kandi agera awa awuine okuwa ne emitwe emikalu.
+45009026	Lwona “Kuuza okuikola mbwe mala asi aa awantu waalagwa mbwe, ‘Ngamuri awantu wange,’ nio warieterwamo mbwe, ‘Muri awantu awa Katonda omulamu.’ ”
+45010019	Kandi mbuuzia ntino: Kusi amangʼana ago ngagakaingirra Awaisraeli? Owusookere Katonda nio owawoola ni kuwitra ku Muusa otino, “Nyiza okugera iyari riwa-ambe no oluganda olutasugre okuetwa oluganda ku okukorra oluganda olwo ewintu ewilootu; kandi nyiza okugera enda ziinyu ziyie no oluganda olwa awantu awamaya awawula no okumanya.”
+45010020	Lunyima kandi, Isaaya yawa no owusiani okulonda omunwa ogwa Katonda owawoola mbwe, “Nyamanywa na awantu awataakola na amaani okunyagala wammanye; kandi nyaimanyikira awantu awataiwuuzia wamanye owa ndi.”
+45010021	Ni ku Awaisraeli, agia emberi na awoola otino, “Enyinga ziona okukono kwange miire okuwa ni ngoloriire awantu awa emitwe emikalu, awatawurra.”
+45011028	Ku okulowa okwa waalowa amangʼana amalootu aga waalanziziwua, waawa awazigu awa Katonda. Kuno kwagera inywe awatari Awayaudi mutuukra iwaga eria okuwurra amangʼana amalootu aga Katonda. Ni ku owulowozi, Katonda akiagonziizie Awayaudi ku endagano eya yakola ni waaguukwa waawu.
+45012020	Ni musugaane mukole kiomo endagano ewoola mbwe, “No omuzigu waao awurra enzala, mu-ee okuria arie. Lwona na awurra owulwo, mu-ee amanzi anywe. No omukoriire otio, aaza okufwa ne ensuuko.”
+45012021	Mutaaza mwaganya owuoni wuawakira, ni mukire owuoni ne enkola endootu.
+45014012	Kutio omuntu ki omuntu ku ifwe ari-irania Katonda ku ewintu wiona ewia yakola ne ekigera ni yawikola.
+45015010	Endagano ewoola kandi etino, “Inywe awatari Awayaudi, musangaale alala na Awayaudi, awantu awa Katonda yalowola okuwa awaae.”
+45015011	Kandi ewoola etino: “Inywe mwona awatari Awayaudi, mutondowole Katonda; awantu awaema mu enganda ziona, mumutondowole.”
+45015012	Isaaya yoona awoola otino: “Omuizukulu owa Yeese aaza okuuza; omuntu ooza okufuma okukangatra awatari Awayaudi. Kandi awatari Awayaudi woona waaza okuta emioyo giawu giona ku iye.”
+45016003	Munkeezizie wamwifu ku emirimo egia Kristo Yesu, Preskiila ni iwuae Akwila,
+45016004	awaawona okuteesia owulamu wuawu ku amangʼana gange. Ngʼani inze engʼene nio owairanizia otioo, ni namba amakaniisa goona aga awatari *Awayaudi.
+45016005	Munkeezizie namba awantu awa ekaniisa awaagaana mu enyumba yaawu. Munkeezizie omwiko wange owa ngonziizie Epenetuusi, omuntu owasooka okuwa Omukristo mu ekitemo ekia *Eesia.
+45016006	Munkeezizie Maaria owakorra emirimo wukalu ino.
+45016007	Munkeezizie awaganda wange Anderekuusi ni Yuunia awaasiwua alala ni inze. Waa-nsokera okuwa Omukristo kandi wari awantu awa *awatumwa awaeerwe owuti ino.
+45016008	Munkeezizie Ampiliatuusi, omuntu owa ngonziizie ku *Omwami iifu Yesu,
+45016009	alala ni Urbanuusi, omwina iifu ku emirimo egia Kristo, no omwiko wange owa ngonziizie Stakiisi.
+45016010	Munkeezizie Apeleesi, omuntu omiire okulagana kuwuene mu owulamu wuae mbwe atiire Kristo. Munkeezizie awa mu enyumba eya Aristubuusi.
+45016011	Munkeezizie omuganda wange Erodioni na awa mu enyumba eya Narkiiso woona awaganyire ku Omwami Yesu.
+45016012	Munkeezizie Trufeena ni Trufoosa, awakazi awakola emirimo egia Omwami na amaani ino. Lwona munkeezizie omwiko wange owa ngonziizie Pesiisi, omukazi omiire okukorra Omwami iifu Yesu na amaani ino.
+45016013	Munkeeziizie Rufuusi, omuntu owa Omwami yalowola mbwe awe omuntu waae omwene, ni ngʼinwae omiire okuwa na antunzia ki omwana waae owa yaiwula.
+45016014	Munkeezizie Asinkretuusi ni Filegoona ni Ermeesi ni Patrobaasi ni Ermeesi alala na Awakristo woona awa wari nawo.
+45016015	Lwona munkeezizie Filologuusi ni Julia, alala ni Nereusi ni wamwawu owekiala, no Olimpaasi alala na awantu awa Katonda woona awa wari nawo.
+45016016	Owutuukre mukeezanie omuntu no omwina waae na amakeezio aga awada awagonzaanie ku Kristo. Amakaniisa goona aga Kristo gawatumiire amakeezio.
+46002001	Waamwifu ku *Kristo, olwa nyawaazako okuwalanzizia amangʼana aga Katonda, ngʼankakola na amangʼana amakalu-kalu namba agalagana amaganga agari kungulu, yaaya.
+46002002	Aeniki nyawisia mu omwoyo gwange okuwagerera mala ku Yesu Kristo no *okuwambwa kwae ku omusalaaba, kwengʼene.
+46002003	Ni nyawanga agati iinyu, nyawanga omunyowu-nyoowu, omuti kandi omuadadu.
+46002004	Okugerera no okulanzia kwange, kwawulangamo amangʼana agalagana amaganga aga ekialo kandi agakulula awantu yaaya, na amaani aga *Omwoyo Omweru ogwa Katonda nigo agaalaganiwuamo.
+46002005	Nyakola otio kugere okuganya kwinyu kutaaza kwaisigika ku amaganga aga omuntu yaaya, ni kuisigike ku amaani aga Katonda.
+46002010	Ni ifwe Katonda amiire okukitusanukurra ni kuwita ku Omwoyo gwae Omweru. Omwoyo Omweru iye aagarizia ekintu-ukintu nawuno yakimanya. Ee namba ewintu ewia Katonda ewiri munsi-munsi.
+46011001	Mundonde mala kiomo noona nonda *Kristo.
+46014022	Okugamba-gamba mu eminwa emigeni egigawuke-gawuuke kane ngakuri ekilago ku awantu awari no okuganya, ni ne ekilago mala ku awawula no okuganya wengʼene. Owugambi ni wuri ekilago ku awari no okuganya wengʼene, ni ngawuri ekilago ku awatari no okuganya, yaaya.
+46014023	Katio na awantu waikumiizie mu ekaniisa kandi watanike okugamba-gamba mu eminwa emigeni egigawuke-gawuuke, mala awantu awa enze namba awantu awawula no okuganya waingire mu ekaniisa omwo, ngawaesa okuwoola mbwe ilalu riwa-ambre?
+46014024	Ni, ni wawatuukiire mwona ni muwoola amangʼana aga owugambi, amangʼana ago ngagaaza okuwafumuta emioyo nawuno owuoni owua wakola wuwawonekanre? Ee amangʼana ago gaaza okuwateera ekiina mu emioyo giawu.
+46014025	Ne ewintu ewiiwisre mu omwoyo ogwa omuntu owula no okuganya wimiire okusanukulwa, omuntu oyo aaza okuifunama emberi wa Katonda no omwoyo oguvuniike kandi aaza okusawa Katonda na awoola mbwe “Kuwuene Katonda ari agati iinyu!”
+46015033	Omuntu atawasemerezia: “Okugenda-genda na awantu awawiiwi kuona enkola endootu.”
+46015034	Muirane ku amaingirizio giinyu amalootu, kandi mureke okukola owuoni. Awandi ku inywe ngawamanyire Katonda kandi mboola otio okuwasuusia.
+46015051	Musarigire mbalageko ekingʼana ekiiwisre: Ngatuuza okufwa twona yaaya, ni turigalusiwua kalala ki olumesi namba ki imedia eria eriiso, olwa olwiga lurirra owuire owua entuuko. Aeniki no olwiga lurirra, awafu wariziusiwua ne emiwiri egitawola kandi ifwe awarituukrwa ni turi awalamu turigalusiwua.
+46015052	
+46015056	Owuoni niwuo owugera no olumbe luwa no owululu, kandi owuoni wutuukra amaani okuema ku *ensikirra ezia Muusa.
+46015057	Ni tuiranizia Katonda otioo aeniki ni iye otu-aa owukire ni kuwitra ku Yesu Kristo Omwami iifu.
+47002001	Kutio nyakenga mu omwoyo gwange mbwe ngʼanyiza okuwagenia owugeni owuwareetra owululu kandi kawiri.
+47002002	Aeniki ni mbaeere owululu, ooza okumpa owusangaavu ogawuuke ni inywe, ni naanu katio?
+47002003	Ekiagera ni mbajojera kiomo nyawajojera otio, ni kugere ni nyiza okuirana okuwawona kandi, ntaaza nyatuukra owululu okuema ku inywe awantu awasugaane wampe owusangaavu. Nyawanga no owusiani ni inywe mwona, mbwe owusangaavu wuange wuri owuinyu.
+47002004	Nyawajojera ni ndi no omwoyo omuzito oguizuule du no owululu kandi amaziga ni gayooka. Ngʼani mbwe nyagalanga muwe no owululu, yaaya; ni, nyagalanga mbwe mumanye olugonzi olwa munsi olwa mbagonziizie nalwo.
+47003001	Kusi owuo tutanika okuiyamia emberi wiinyu kandi? Nakuwa muagala mbwe ifwe twona tuwe ne ebaruwa, eziifu aweene namba eziema ku inywe, ezia okulagana awa turi kiomo awantu wandi wakola?
+47003002	Yaaya, inywe aweene ni inywe ebaruwa ziifu ezijojerwe mu emioyo giinyu,* emanyiike kandi esomwa na awantu woona.
+47003003	Mulagana kuwuene mbwe muri ebaruwa eemere ku *Kristo omwene, oluuya lwifu ku emirimo giifu emikalu. Ebaruwa eene, ngejojrwe ne einki yaaya, ne ejojerwe no *Omwoyo Omweru ogwa Katonda omulamu kandi ejojerwe ku emioyo egia awantu, ni ngʼani ku esleeti ezia amawaale.
+47009001	Kutio nambona ekigera ni nsugaane mbajojere ku amangʼana aga ewintu ewia muagala okufumizia awantu awa Katonda.
+47009002	Aeniki manyire kiomo emioyo giinyu giagala okufumia kandi miire okuwa ni nyitumburra Awakristo awa Makedoonia ni mbalaga mbwe okuemera omwaka ogwawuere, inywe Awakristo awa Akaaya mwamiire okuwa ni muikagre okufumia. Omwoyo ogwa okufumia ogwa muri nagwo guno, gumiire okugera owungi wuawu nyingeeno woona wagala okukola owufwanani.
+47009003	Ni ntuma waamwifu awo kugere okuitumbula okwa tumiire okuwa ni tuitumbula ni inywe, ku ekingʼana kino, kutaaza kwawa okwa owusa, ni muwe ni muikagre mala kiomo nyawoola mbwe muuza okuwa.
+47009004	Aeniki, omulala ku Awakristo awa Makedoonia na aizukiire aaze ni inze eyo mala atuukre ni mukiari okufumia amasendi giinyu mute alala, tukawa ne ensuuko ku okuwa kwifu awasiani ino ni inywe, kandi mwona mukawa ne ensuuko.
+47009005	Kutio, nyawuine mbwe kulootu ni ntumre waamwifu ku okuganya wano okuuza okuwawona emberi kugere mumale emipango giinyu egia okukunza amasendi giinyu no owusiza, kiomo mwaifuuwa okukola. Ni mukorre mutio, okufumia kwinyu kuuza okuwa okuri ku okugonzia kwinyu, okutari ku okunigiriziwua.
+47009010	Katonda o-aa omurimi emwo eya okukomera kandi o-aa awantu okuria, aaza okusonga ewintu wiao kuwungi kugere osonge okuwa omu-aani oesana no owusiza.
+47009011	Katonda aaza okugera muwe awanyazi mu engira ziona kugere muwe awa-aani awasiza enyinga ziona kandi awantu waaza okuiranizia Katonda otioo ku owusiza wuinyu.
+47012002	Ario omuntu oganyire ku *Kristo owa manyire owatoolwa airwa ku igulu eria okusatu emiaka ikumi ni ine egimiire okuwita. Katonda engʼene nio omanyire mbwe yagia mu omuwiri nakuwa enze eya omuwiri, inze ngʼamanyire yaaya.
+47012003	
+49004009	(Ne ewoola mbwe “Yaniina kungulu” ekia kilagana niki? Okwo kulagana lwona mbwe yasooka aika munsi mu ekialo ekia awafu.
+49004010	Omuntu owaika oyo nio wazane owaniina kungulu okukira ewintu wiona kugere aizuzie ewintu wiona.)
+49004011	Kristo oyo nio owaesana emirimo egia okuwa *awatumwa, *awagambi awa Katonda, awainjilisti, awaayi na awagerezi.
+49004012	Emirimo giawu no okuikagia awalowole awa Katonda ku emirimo egia Katonda, kugere omuwiri ogwa Kristo guombokwe
+49004013	nawuno twona tutuuke mu okuambaniwua alala mu okuganya no okuwa no okumanya okutuukre ku Omuzia owa Katonda, kandi tuwe awantu awakomere waawa awatuufu, awatuukre mu owunene owua Kristo wuona kiomo wuagana.
+51004001	Ni inywe awari na awagule, mu-ee awagule wiinyu ewintu ewisugaane kandi muwe awalootu nawo, aeniki mwona muri no omukangasi iinyu owagurre owa mukorra ori ku igulu.
+54001001	Ku Timotheeo omwana wange mu okuganya okwa turi nakwo ku *Kristo. Nkujojera ebaruwa eno, inze Paulo, *omutumwa owa Yesu Kristo nikulondokana no okuagala okwa *Omwami Katonda omununuzi iifu alala no okwa Yesu Kristo, omuntu owa tuteereko emioyo giifu giona. Nyagala mbwe Soifu Katonda no Omwami iifu Yesu wawe awasiza ni iwue, wakuambre amagongi kandi wakulage owuolu wuawu.
+54001002	
+54002001	Kutio, owusookere, nyagala mbwe muwe ni muingirizia awantu woona, ni ino-ino awaami alala na awakangasi woona. Muwaisasaamre ni muwasawira, lwona muwaiembere ni muwaikazizia Katonda. Okwo kuuza okugera tumenye mu owulamu owuolu owuwulamo erioga mu owulongoole no owuti.
+54002002	
+54006001	Awagule Awakristo woona wasugaane wa-ee awantu awawakorra emirimo owuti ino kugere awantu watagamba-gamba uwiiwi ku eriina eria Katonda alala ni igerera riifu.
+54006002	Awakorra Awakristo wataaza waareka okuwalaga owuti aeniki awawakorra wari Awakristo, ni wasugaane wawakorre emirimo namba geeza okukira, aeniki emirimo giawu egio gitunzia awada waawu ku Katonda awa wagonziizie. Gano nigo amangʼana aga iwue osugaane ogerere kandi olagirizie awantu.
+55001001	Ku Timotheeo omwana wange owa ngonziizie. Nkujojera kandi ebaruwa eno inze Paulo, *omutumwa owa Yesu *Kristo nikulondokana no okuagala okwa Katonda. Katonda yantuma, kugere ndanzizie awantu amangʼana aga owulamu owua yamala okuifuuwa okutu-aa ni kuwitra ku okuwa kwifu mu owulala ni Yesu Kristo. Katonda alala ni Kristo Yesu wawe awasiza ni iwue, wakuambre amagongi kandi waku-ee owuolu wuawu.
+55001002	
+58001006	Kandi ni Katonda areeta Omuzia waae owa oluweri ku ekialo, yawoola otino, “Reka enyankoi awa Katonda woona wamuikirre wamusawe.”
+58001007	Omwene na agamba-gamba ku enyankoi waae, awoola otino, “Agera enyankoi waae wawa ki omuyaga kandi *awatumwa waae wawa ki endimi ezia omurro.”
+58001008	Ni na agamba-gamba ku Omuzia waae awoola otino, “Entewe eya owuami wuao, iwue Katonda, eeza okuweerao amiire goona, kandi ooza okangatra awantu awa mu owuami wuao no owuigolovu.
+58001010	Lwona alaga Omuzia waae otino, “Oo Omwami, mu owutanikro, ni iwue owaomboka owulusa owua ekialo, kandi igulu riri emirimo egia amakono gaao.
+58001013	Ne enyankoi ki owa Katonda yalagako mbwe, “Ikala nyakukono kwange okusaaza nawuno ntoole awazigu waao nte ansi ku amagulu gaao otaze?”
+58001014	Kane enyankoi niki? Ngawari mala emioyo egitumrwe okukorra awantu awaaza okutuukra owuinunuzi?
+58002009	Ni tuwona ni Yesu, owaisiwua ansi awa omutono okukira enyankoi, na aeerwe owunene no owuti aeniki yafwa olumbe oluwiiwi kugere, ku owusiza owua Katonda, afwire awantu woona.
+58002013	Kandi lwona mbwe, “Nyiza okuta okuganya kwange ku Katonda.” Kandi awoola mbwe, “Mpano ndi ano, na awaana awa Katonda yampa.”
+58004008	Aeniki kuweeko mbwe Yoswa yawa-aa okuwuluuka, kangato Katonda ngakagamba-gambre kandi lunyima ku owuire wundi owua okuwuluuka.
+58004009	Kutio *Sabato eya okuwuluuka, ekiario-wuri ku awantu awa Katonda,
+58004010	aeniki omuntu-umuntu oingira mu okuwuluuka okwa Katonda, awuluuka ku emirimo giae mala kiomo Katonda oona yawuluuka ku emirimo giae.
+58004011	Kutio mutukole wukalu kiomo kuesekana, tuwone mbwe tuingiire mu okuwuluuka kwae, kugere omuntu ataaza yalonda omufwano ogwa awantu awaareka okukola okuagala okwa Katonda, mala agwe na ataingiire.
+58005006	Kandi ansi andi yoona Katonda yawoola otino, “Iwue ori omuozia amiire goona, mala kiomo Melkizedeeki.”
+58007020	Katonda omwene yaifuuwa olwa omuozia ono yalowolwanga. Ni ngakaifuuwa na awoozia wandi waalowolwanga, yaaya. Yaifuuwa na amulaga otino, “Omwami amiire okuifuuwa kandi ngaaza okugalusia amaingirizio gaae, ori omuozia amiire goona!”
+58007021	
+58010007	Nikuemao nyawoola otino, “Mpano ndi ano, miire okuuza okukola okuagala kwao, Oo *Omwami Katonda Ee, mala kiomo endagano ewoola ku inze.”
+58010008	Owusookere yawoola mbwe, “Ngokagala emisango egia amasaai aga emiandu, emere, emiandu egisambwa emiwiri giona ku *isiga eria okufumia omusango, ne egindi egia awantu wafumia ku amawi gaawu, kandi ngokasangaala nagio yaaya” (kukawa mbwe ensikirra yagalanga mbwe emisango gino gikolwe).
+58010009	Yagia emberi na awoola otino, “Mpano ndi ano, miire okuuza okukola okuagala kwao.” Kuno kulagana mbwe yaonanga *endagano enkulu kugere ateeo eindi empia.
+58010010	Ekia Katonda aagala ni mbwe, ku omusango ogwa Yesu Kristo yatufumizia kalala kandi owutuukre, tukolwe awantu aweeru awatengeekrwe Katonda.
+58010017	Agia emberi na awoola otino, “Ngʼanyiza kandi okuingirizia owuoni wuawu ne enkola ziawu embiiwi.”
+58010018	Na awantu wamiire okurekerwa owuoni wuawu, omusango ogwa okutoolao amawi katio ngaguagalana kandi.
+58010039	Ni ifwe ngaturi awalala ku awantu awairana enyima kandi waaonwa, yaaya. Ni turi awantu awawa no okuganya kandi waanunulwa.
+58013006	Kutio tuwoola no owusiani mbwe, “Katonda nio ontunzia, kutio ngʼanyiza okutia ekintu. Katio niki ekia omuntu aesa okunkorra?”
+60002007	Ku inywe awaganyire, iwaale rino riri ilootu okukira goona, ni ku awataganyire, “Iwaale eria awaomboki waalowa nirio eriaza riwa iwaale eria ekoona ilootu eriambiriire enzizi geeza okukira goona,”
+60002008	kandi, “Ni iwaale eria awantu waiguunyako kandi waagwa ansi.” Wagwa aeniki ngawakawurra amangʼana, kandi ekio nikio ekia waateerwa kale mbwe kiwaikorre.
+60002023	Olwa waamurigizra amangʼana aga amanyego, ngakairania na amawi; kandi olwa yanyaasiwua ngakairania na amangʼana agatiisia. Ni, iye yata amaingirizio gaaye ku Katonda omukengi owa ekiina mu engira eri kuwuene.
+60002024	Iye omwene yatoola amawi giifu ku omuwiri gwae *ogwawambwa ku omusalaaba kugere tutalonda okuagala okwa owuoni, ni tumenye owulamu owueru. Ku ewisonga wiae mumiire okulamiwua ku amalwire.
+60002025	Inywe mwafwananga amagondi agaateeka, ne enyinga zino mumiire okuirana ku Omwayi kandi Omurinzi owa emioyo giinyu.
+60003001	Inywe awakazi mwona muwe awaiisiizie ansi ku awasaaza wiinyu, kugere na awandi ku iwo wataganyire ku amangʼana amalootu aga Katonda, wagaluke wagaingizie mala ku okuwona enkola ziinyu endootu, kandi ni wawona kiomo owulamu wuinyu wuri owueru alala no owuti owungi owua muri nawuo. Kuno kuuza okugera wawe awalala ku awaganyire, namba ni watalagrwe.
+60003002	
+66002002	Manyire emirimo giao, kiomo omiire okulwanagana wukalu kandi kiomo omiire okusikia omwoyo. Lwona, manyire mbwe ngoesa okuvuga alala na awantu awawi. Omiire okugeezaania awantu awaieta mbwe wari *awatumwa, ni kane ngawari yaaya, kandi otuukra mbwe waweeya.
+66002003	Manyire mbwe osikiizie omwoyo gwao, kukawa mbwe owona eminyako-nyaako ku eriina riange, kandi okiari okuluya yaaya.
+66002004	Ne ekiwi ekia nkuwonako nkino: Omiire okureka olugonzi olwa wawanga nalwo kuluweri.
+66002005	Kutio, ingirizia kiomo omiire okugwa ansi no oema aa wawanga. Galuka oreke owuoni kandi oirane ku enkola endootu ezia wakolanga kuluweri. Ni, no olowere okugaluka oreke owuoni, nyiza okuuza ntoole ekintu kiao ekia edhaabu, ekiteewuako ekimuri, aa kiri.
+66002006	Ni nganya ni iwue ku ekintu ekilala kino: mbwe oregere enkola embiiwi ezia Awanikolaao mala kiomo neena nziregere.
+66002007	Omuntu ori na amatwi, ka-awurre ekia *Omwoyo Omweru ogwa Katonda alaga amakaniisa. Awantu woona awakirre amaani aga *Ekikeeno nyiza okuwaganyira okuria ensaafu ezia omuti ogureeta owulamu oguri mu omusiri ogwa Katonda Paradiiso.
+66002009	Manyire eminyako-nyaako egia ori nagio, no owutaka wuao — ni kuwuene ori omunyazi mu emioyo. Lwona manyire amangʼana aga owuweeyi aga owoolwako na awantu awaieta *Awayaudi awantu awa Katonda, ni ngawari yaaya. Iwo wari mala awantu awa mu *esinagoogi eya *Sataani.
+66002010	Otawa no owuti namba wutono ku eminyako-nyaako egia ori ampi okutuukra. Manya mbwe Ekikeeno kiri ampi okuira awandi agati iinyu mu owusiwe kugere mugeezaniwue, kandi muuza okuwona owululu ku amiire ikumi. Ni, rinda amangʼana gange namba ni kuri mbwe muitwa, ni nyiza okuku-aa ekigudu ekia owulamu owutariwua.
+66002011	Omuntu ori na amatwi, ka-awurre ekia Omwoyo Omweru ogwa Katonda alaga amakaniisa. Awantu woona awakirre amaani aga Ekikeeno, ngawaaza okufwa olumbe olwa okuwiri.
+66002013	Manyire mbwe omenyere asi aa entewe eya owuami owua Sataani eri, ni kukawa kutio, okia-ambre wukalu okuganya kwao ku inze kandi okiari okunndeka yawa. Wakola otio namba mu amiire aga Antipaasi, owalagana mu amangʼana ne enkola mbwe ari omulonzi wange kuwuene, owaitwa agati iinyu asi aa Sataani ari ao.
+66002014	Ni kukawa kutio, ndi ne ewintu ewitoono ewigera ni ntaganya ni iwue, aeniki wario awandi agati iinyu awakialonda engerera ezia Balaamu, owalaga Balaaki engira eya okuta ekigazio emberi wa Awaisraeli, kugere awasemerezie warie okuria okukoriirwe katonda ensaasa omusango, kandi kugere waingire mu owusoodani.
+66002015	Mu engira yazane eyo, mukiari na awantu wandi agati iinyu ao awalonda engerera ezia Awanikolaao.
+66002016	Kutio, galuka oreke enkola embiiwi. Ni, no otakorre otio, nyiza okuuza wuangu okulwania awantu awo no omwambe ogufuma mu omunwa gwange.
+66002017	Omuntu ori na amatwi, ka-awurre ekia Omwoyo Omweru ogwa Katonda alaga amakaniisa. Omuntu okirre amaani aga Ekikeeno, nyiza okumu-aa okuria kundi okuiwisre okuetwa mbwe *maana, kandi lwona nyiza okumu-aa iwaale erieru erijojerweko eriina iyia eriwulao omuntu wundi omanyire, ni mala omuntu orituukiire oyo engʼene.
+66002019	Manyire ewintu wiona ewia omiire okuwa no okola. Manyire olugonzi lwao, okuganya okwa ori nakwo ku inze, ne emirimo egia okorra awiina waao, ni kiomo osikiizie omwoyo, kandi mbwe emirimo egia okola nyingeeno gikira egia wakolanga kuluweri.
+66002020	Ni kukawa kutio, okiakeeyire ekintu ekilala emberi wange: Oganyire ni Jezebeeli, omukazi oieta *omugambi owa Katonda. Omukazi ono ateesia awantu wange na awatoola ku engira endamu, ne engerera eziwaingizia mu owusondo no okuria ewiokuria ewikoriirwe nawio katonda ensaasa emisango.
+66002021	Miire okumu-aa iwaga mbwe agaluke areke owuoni, na alowere okureka owusondo wuae owuo.
+66002022	Ni muwurre! Nyiza okumulekula ku iseero eria amatekere kandi awantu awasoodana nae, ni watagaluuke wareke enkola ziawu ezio, nyiza akuwareka mu eminyako-nyaako emilulu egiluguulwa.
+66002023	Nyiza okuita awantu awamulonda mbamale chwe. Nikuemao amakaniisa goona gaaza okumanya mbwe ni inze oagarizia nyamanya amaingirizio ne ewia omwoyo ogwa omuntu guagala okukola. Nyiza okuoloola omuntu ki omuntu owusugre ne enkola ziae.
+66002024	Ni inywe awa Thiatiira awasigaale, awatalonda engerera ezia Jezebeeli zino, kandi awatamanyire engerera eziema ku Sataani, ezia awandi waeta mbwe ‘engerera ezia munsi,’ inywe mbalaga mbwe ngʼanyiza okuwa-aa omusigo gundi kandi.
+66002025	Ni mbalaga mala mbwe muambe igerera ilamu eria mwamiire okuwa nario, nawuno nyirane.
+66002026	Omuntu okirre amaani aga Ekikeeno, kandi ogiire emberi okukola ewintu ewia nyawoola mbwe mukole nawuno owutuuko owua ekialo, nyiza okumu-aa amaani aga okukangatra awantu awa ewialo windi.
+66002027	Nyiza okuwa-aa amaani aga Soifu yampa kandi waaza okurinda ewialo ewio no owutinzi kandi waaza okuwikenya-kenya ewimega-mega kiomo amagio agaatiike ku entamu.
+66002028	Kandi nyiza okuwa-aa engʼeni-ngʼeni eya kunkio.
+66002029	Omuntu ori na amatwi, ka-awurre ekia Omwoyo Omweru ogwa Katonda alaga amakaniisa.
+66003002	Azamuka, okalangusie ekitono ekia okiasigaale nakio, ekiri a-ampi okufwa kiona. Nyatuukiire mbwe enkola ziao zikeeyire emberi wa Katonda.
+66003003	Ingirizia engerera eya waeewua kandi eya wawurra. Londokana nayo kandi galuka oreke owuoni. Ni, no ota-azamuuke, nyiza okuuzra owuiwisi ki omwiwi kandi ngorimanya enyinga ezio.
+66003004	Kukawa kutio, wario awatono Sadiisi ao, awakiari okuimwamia no owuoni. Iwo waaza okugenda-genda ni inze alala, ni waingiizie enguwo enzeru aeniki wari awantu aweeru.
+66003005	Awantu woona awakirre amaani aga *Ekikeeno waaza okuingiziwua ne enguwo enzeru mala kiomo awantu wano, kandi ngʼandiritoolao amiina gaawu mu ebuuki eya owulamu. Ee, ndirilagana amiina gaawu emberi wa Soifu ne emberi wa enyankoi waae.
+66003006	Omuntu ori na amatwi, ka-awurre amangʼana aga *Omwoyo Omweru ogwa Katonda alaga amakaniisa.
+66003008	Nkumanyire kandi manyire ewintu ewia okola wiona. Wurra! Miire okukwigurra ekiriango emberi waao, ekia awulao omuntu oesa okuigalao. Manyire mbwe ori na amaani amatono, ni kukawa kutio oeere amangʼana gange owuti kandi okiari okulowa amangʼana gange. 
+66003009	Wurra! Nyiza okugera awandi ku *Awayaudi awari awantu awa mu *esinagoogi eya *Sataani, awaieta awantu awa Katonda ni ngawari yaaya, wakuuzeko kandi wakukubre amasigamo ansi emberi waao. Kandi waaza okumanya mbwe nkugonziizie.
+66003010	Aeniki omiire okusikia omwoyo kiomo nyakulaga, kutio neena nyiza okukurinda otaingira mu amiire aga emidambo egiiza okuuza ku ekialo kiona, olwa awantu woona awamenyere ku ekialo waaza okugeezaniwua.
+66003011	Nyiza wuangu, kutio amba okuganya okwa ori nakwo ku inze wukalu kugere omuntu ataaza yakunyaga ekigudu ekia ooza okueewua ku emirimo giao.
+66003012	Omuntu-umuntu okirre amaani aga Ekikeeno, nyiza okumuta awe empango eya mu *ekaalu eya Katonda wange, kandi ariweera omwo amiire goona. Ndirimujojako eriina eria Katonda wange ne eriina eria Yerusaleemu omugizi omuyia ogwa Katonda, oguuza okuika ansi ni guema ku Katonda wange ku igulu. Lwona nyiza okumujojako eriina riange iyia.
+66003013	Omuntu ori na amatwi, ka-awurre amangʼana aga Omwoyo Omweru ogwa Katonda alaga amakaniisa.
+66003015	Nkumanyire kandi manyire ewintu ewia okola wiona. Mbwe ngori omuyu namba omuolu yawa. Kukaweere geeza no oweere omuyu nakuwa omuolu!
+66003016	Ni aeniki ori ki amanzi amaziziimu, agatari amayu nakuwa amaolu, nyiza okukufuuza enze. 
+66003017	Iwue oitumbula no owoola mbwe ori omunyazi, mbwe ogia geeza kandi kiwulao ekintu ekia otakaaye. Ni ngomanyire mbwe ori uwiiwi owuluguulwa. Osugre no okuambrwa amasaasra, omutaka, omuwuunu, kandi ori kikuna kikidi.
+66003018	Nkukengera amaganga mbwe onguleko edhaabu emiire okueruyiwua no omurro kugere owe omunyazi. Onguleko enguwo enzeru zerre oiwoye, ekutoorreo ensuuko ezia owukuna wuao kandi onguleko omuti ote mu amiiso, kugere owone. 
+66003019	Inze ngolola kandi nswawuka awantu awa ngonziizie. Kutio murekane ne emiwaayo kandi mugaluke mureke owuoni.
+66003020	Wurra, mpano nyimeriire ku ekiriango kandi nkongʼoota ekiriango. No omuntu awuriire omwoyo gwange, mala yanyiigurrao ekiriango, nyiza okuingira omwae ndie nae, kandi oona arie alala ni inze.
+66003021	Omuntu-umuntu okirre amaani aga Ekikeeno, nyiza okumuikazia ku entewe eya owuami alala ni inze, mala kiomo inze nyakira amaani aga Ekikeeno mala ngia nyikala ku entewe eya owuami alala ni Soifu.
+66003022	Omuntu ori na amatwi, ka-awurre amangʼana aga Omwoyo Omweru alaga amakaniisa.”
+66004009	Enyinga ezia endukwa ine endamu zino ziawanga ni zi-aa, omuntu owawanga na aikaale ku entewe eya owuami orio amiire goona oyo, owunene no owuti kandi ni zimuiranizia otioo,
+66004010	awagaaka amakumi awiri ni wane awo, waakubanga ansi amasigamo emberi wa omuntu oyo, ni wamusawa, iye orio omulamu amiire goona. Enyinga ezia waamusawanga, waavuulanga ewigudu wiawu ewia owuyaayi, wawiazia ansi emberi wa Omwami ni wawoola watino,
+66004011	“Oo Katonda kandi Omwami iifu, ni iwue osugre okueewua owunene, owuti na amaani, aeniki ni iwue owaluka ewintu wiona, ewialukwa kandi wiwaao mala ku okuagala kwao.”
+66017006	Nikuemao, nyawona no omukazi oyo anywere kandi adungʼre na amasaai aga awantu awa Katonda awaaitwa ku okuganya kwawu ku Yesu. Olwa nyamuwona, nyawa no okuluguula ino.
+66017007	Ne enyankoi yambuuzia otino, “Ekigera no oluguula ino otio niki? Nyiza okukulaga ekintu ekiiwisre ku eriina eria omukazi ono, ne ensisi eya aniinreko eri ne emitwe musamvu ne enziga ikumi eyo.
+66017008	Ensisi eya owuine yawangao, ni nyingeeno ewulao kandi eeza okufuma ne eema mu endiwo eya owuina nikwo eeza okugia okuonwa ilala. Awantu awamenyere ku ekialo awa amiina gaawu ngagakajojwa mu ebuuki eya owulamu, Katonda ni yawanga na akiari okuluka ekialo, wariluguula ino olwa wariwona ensisi eno, aeniki ensisi eno yawanga ne eri endamu, ni nyingeeno emiire okufwa ni kandi eeza okuirana ewe endamu.
+66017009	Omuntu ki omuntu paka aingirizie geeza ku ekingʼana kino. Emitwe musamvu, giimeririire ewigiri musamvu ewia omukazi ono aikaaleko.
+66017010	Lwona, giimeririire awaami musamvu. Awaami wataanu ku iwo wamiire okufwa, omulala ari omwami enyinga zino, no otuukre aaza okuwaako. Ni iye aaza okuwa ku entewe ku amiire amatoono.
+66017011	Ensisi eyawangao ni nyingeeno ewulao, ari omulala ku awaami musamvu ooza okuirana okuwa omwami owa munaane, kandi nikwo aaza okugia okuonwa ilala.
+66017012	Enziga ikumi ezia owuine ziria, ziimeriire awaami ikumi awakiari okutanika emirimo egia owuami. Ni waaza okutuukra amaani aga okuwa awaami alala ne ensisi ku enyinga endala-ndala.
+66017013	Woona wari na amaingirizio amafwanani, ago okuuza oku-aa ensisi amaani gaawu no owukire wuawu.
+66017014	Awaami ikumi alala ne ensisi, waaza okuvumbula iye ne Ekimaatwa. Ne Ekimaatwa kiiza okuwakira, aeniki iye no Omukangasi owa awakangasi kandi Omwami owa awaami. Awantu awaaza okuwa ne Ekimaatwa wari awantu awayaeta, na awalowole waae, na awamulonda ne emioyo giawu giona.”

@@ -1,571 +1,571 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40001017
-40002009
-40002010
-40006014
-40006015
-40009020
-40009021
-40011011
-40011012
-40011013
-40011014
-40011015
-40012006
-40012007
-40013016
-40013017
-40013031
-40013032
-40017020
-40018010
-40021029
-40021030
-40021043
-40022038
-40022039
-40022040
-40022045
-40023013
-40024038
-40024039
-41001032
-41001033
-41002025
-41002026
-41007008
-41009043
-41009045
-41010009
-41011025
-41012020
-41012021
-41012022
-41012023
-41012027
-41012031
-41012037
-41014028
-41015027
-42001001
-42001054
-42001055
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
-42004012
-42004013
-42006014
-42006015
-42006016
-42006023
-42008028
-42008029
-42009030
-42009031
-42017035
-42020018
-42020044
-42023016
-42023050
-42023051
-42024001
-43001043
-43001044
-43003023
-43003024
-43004007
-43004008
-43005003
-43007039
-43011001
-43011002
-43012039
-43012041
-43013015
-43013016
-43019020
-43019021
-44001001
-44001014
-44001021
-44001022
-44002032
-44002033
-44002034
-44002036
-44003023
-44004012
-44004027
-44004028
-44004029
-44004030
-44007004
-44007007
-44008036
-44013034
-44013035
-44013036
-44013037
-44015019
-44015020
-44015021
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44015033
-44017029
-44017030
-44017031
-44023026
-44023027
-44023028
-44023029
-44023030
-44024006
-44024008
-44028028
-45001001
-45002022
-45002023
-45002024
-45006010
-45006011
-45009011
-45009012
-45010008
-45010009
-45010010
-45010011
-45010012
-45010013
-45010019
-45010020
-45010021
-45011009
-45011014
-45011015
-45011034
-45011036
-45012010
-45012011
-45012012
-45012013
-45012014
-45012015
-45012016
-45012017
-45012018
-45012020
-45012021
-45014012
-45015010
-45015011
-45015012
-45015023
-45015024
-45016003
-45016004
-45016005
-45016006
-45016007
-45016008
-45016009
-45016010
-45016011
-45016012
-45016013
-45016014
-45016015
-45016022
-45016023
-45016025
-45016026
-45016027
-46001001
-46001020
-46001021
-46001022
-46001023
-46001024
-46001025
-46002010
-46002011
-46003020
-46005003
-46005004
-46005010
-46005011
-46007030
-46007031
-46011001
-46012008
-46012009
-46012010
-46012011
-46012029
-46012030
-46014001
-46014022
-46015004
-46015005
-46015006
-46015007
-46015008
-46015033
-46015034
-46015056
-46015057
-46016023
-46016024
-47001001
-47002012
-47002013
-47006017
-47008010
-47008011
-47009007
-47009008
-47009009
-47009010
-47010018
-47011030
-47011031
-47013002
-47013003
-47013004
-47013013
-47013014
-48001001
-48003011
-48003012
-48003014
-48003018
-48004002
-48004003
-48004004
-48004005
-48004006
-48004007
-48004024
-48004025
-48005003
-48005004
-48005005
-48005006
-48005017
-48005018
-48006011
-48006012
-48006013
-48006014
-48006015
-48006016
-48006017
-48006018
-49001001
-49004009
-49004010
-49004011
-49005011
-49005012
-49005019
-49005020
-49005021
-49006021
-49006022
-49006023
-49006024
-50001001
-50003005
-50003006
-50004005
-50004006
-50004007
-50004009
-50004021
-50004022
-50004023
-51001001
-51003006
-51003007
-51003008
-51003009
-51003010
-51003011
-51004018
-52001001
-52005025
-52005026
-52005027
-52005028
-53001001
-53003017
-53003018
-54001001
-54001010
-54001011
-54001016
-54001017
-54003002
-54003003
-54003004
-54003005
-54003006
-54003007
-55001001
-56001001
-56001002
-56001003
-56001006
-56001007
-56001008
-56001009
-57001001
-57001008
-57001009
-57001020
-57001025
-58001006
-58001007
-58001008
-58001010
-58001013
-58002013
-58003012
-58003013
-58003014
-58003015
-58004004
-58004005
-58005006
-58006015
-58007005
-58007006
-58007007
-58007008
-58007009
-58007010
-58007018
-58007019
-58007022
-58008002
-58008013
-58009021
-58009022
-58010008
-58010009
-58010010
-58010017
-58010018
-58010031
-58011003
-58011004
-58011005
-58011006
-58011007
-58011008
-58011009
-58011010
-58011011
-58011012
-58011013
-58011014
-58011015
-58011016
-58011017
-58011018
-58011019
-58011020
-58011021
-58011022
-58011023
-58011024
-58011025
-58011026
-58011027
-58011028
-58011029
-58011030
-58011031
-58012007
-58012008
-58012009
-58012010
-58012027
-58013001
-58013002
-58013003
-58013004
-58013005
-58013006
-58013007
-58013008
-58013009
-59001001
-59001007
-59001008
-59005019
-59005020
-60001001
-60002007
-60002008
-60004019
-60005006
-60005007
-60005013
-60005014
-61001001
-61001017
-61001018
-61001021
-61002007
-61002008
-62002001
-62002002
-62002005
-62002006
-62003019
-62003020
-62003024
-62004003
-62005008
-62005012
-62005014
-62005015
-62005018
-62005019
-62005020
-63001001
-63001006
-64001001
-65001001
-65001020
-65001021
-66001001
-66001002
-66001003
-66001004
-66001018
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002009
-66002010
-66002011
-66002013
-66002014
-66002015
-66002016
-66002017
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002027
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
-66005013
-66005014
-66007005
-66007006
-66007007
-66007008
-66009001
-66009002
-66009012
-66011014
-66012011
-66012012
-66013009
-66013010
-66014010
-66014011
-66016016
-66017006
-66018005
-66018006
-66018007
-66018008
-66018017
-66018019
-66018022
-66018023
-66018024
-66019003
-66020002
-66020003
-66020005
-66020006
-66020012
-66020013
-66021004
-66021005
-66021006
-66021007
-66021008
-66021012
-66021013
-66022010
-66022011
-66022012
-66022013
-66022014
-66022015
-66022016
-66022019
+40001002	Si Abraham ama naya ni Isaac; si Isaac ama naya ni Jacob, tan si Jacob ama raya ni Juda tan saray bubsat na.
+40001003	Si Juda ama raya ni Fares tan Zara, si Tamar a ina ra. Si Fares ama naya ni Esrom, tan si Esrom ama naya ni Aram.
+40001004	Si Aram ama naya ni Aminadab, si Aminadab ama naya ni Naason, tan si Naason ama naya ni Salmon.
+40001005	Si Salmon ama naya ni Boaz, tan si Rahab a ina na. Si Boaz ama naya ni Obed, tan si Ruth a ina na. Si Obed a ama ni Jesse.
+40001006	Si Jesse a ama na ni Adi' David. Si David, sya a ama na ni Solomon ket si ina na ni Solomon si gindat a asawa na ni Urias.
+40001007	Si Solomon ama naya ni Roboam; si Roboam ama naya ni Abias, tan si Abias ama naya ni Asa
+40001008	Si Asa ama naya ni Josafat; si Josafat ama naya ni Joram, tan si Joram ama naya ni Ozias.
+40001009	Si Ozias ama naya ni Jotam; si Jotam ama naya ni Acaz, tan si Acaz a ama na ni Ezequias.
+40001010	Si Ezequias ama naya ni Manases; si Manases ama naya ni Amos, tan si Amos ama naya ni Josias.
+40001011	Si Josias ama raya ni Jeconias tan saray bubsat na. Panaon intaw nin nikatalo ran Israelita konran taga Babilonia ket nai'ras sara sa nasyon nin Babilonia .
+40001012	Sin nai'ras sarayna sa Babilonia, wanti et a nikasunur-sunor ra; Si Jeconias ama naya ni Salatiel, tan si Salatiel ama naya ni Zorobabel.
+40001013	Si Zorobabel ama naya ni Abiud; si Abiud ama naya ni Eliaquim, tan si Eliaquim ama naya ni Azor.
+40001014	Si Azor ama naya ni Sadoc; si Sadoc ama naya ni Aquim, tan si Aquim ama naya ni Eliud. 15Si Eliud ama naya ni Eleazar; si Eleazar ama naya ni Matan; si Matan ama naya ni Jacob,
+40001015	
+40001016	tan si Jacob ama naya ni Jose nin asawa na ni Maria nin si nangiyanak kona ni Jesus a mantawagen nin Cristo.
+40001017	Nga'mi-nga'min, mangibwat kona ni Abraham angga kona ni David, labin'a'pat a nisusunor a kapamilyawan; labin'a'pat anamaet mangibwat kona ni David anggan sa nikai'ras ran Israelita sa Babilonia, tan labin'a'pat a lamang anamaet mangibwat sin nai'ras sarayna sa Babilonia angga sin naiyanak ya a Cristo.
+40002009	Sin nayadi' nasarayna nin binibilin nin Adi', nibwat saraynan mako sa Betlehem. Ket sin iti sara sa dalan na'kit rayaynaet taw si bituen nin na'kit ra intaw sin itaw sara sa baytan. Pinasyan ririket ran naka'kit anamanaet konan sitaw a bituen. Mandumaras yan iti sa temben sa u'na ra tan tinumgen ya sa temben nan peteg nin balin kami'nan nan anak a si Jesus.
+40002010	
+40006014	Bara'mo kamon tyo' a mamalaway konran sarban tutawo. Si syudad a iti sa ata'gay nin lugar ket kai ya nin maiyadi.
+40006015	Kasa anamaet nin manulsol nin tyo' mi'sa naya nin sakban, no kai edet, ikwa naya sa sayay pangngitukduan ta pigaw nin mapalawayan sara nga'min a iti sa bali.
+40009020	Sin adap rayna sa bali nan upisyal, main nin babayin kinmadanin nako sa gurot na ni Jesus. Sitin babayi ket labinrway taon anan mandumaya' ya nin kasan tegen. Ket wanan sitin babayi sa nakem na, “Makudit koya tanay aysing na umanda' akoyna.” Kanya' nin kinudit nayay saroy nan aysing na ni Jesus.
+40009021	
+40011011	Ibarita' koyti anaod komoyo: Kasa et gapon niyanak nin makakipada kona ni Juan a Mammawtismo. Abirno nin wanin bale', si sangkaayupaan nin tawon iti sa sirong nin pag'aadi' nan si mangibwat sa langit, ket mas ata'gay ya et dyan si Juan.
+40011012	Anaod, nangibwat ana sin nitarana' na ni Juan a mangipatanda' nin maipa'ka' konan si tinudo' nan adi' nin Dios angga et sa sayti nin awro, mangkapasuet nin ipadar ana a pag'aadi' nin mangibwat sa langit, tan abaw saray tutawo nin man'ipasuet ray sumrep.
+40011013	Bilang sa wanin a na'teng anan naipatanda' konran tutawo maipa'ka' konan mag'adi' a mangibwat sa langit, nangibwat et kona ni Moises tan saray prupita anggan sa tarana' nin pakatukid sin rinmate' ya si Juan.
+40011014	Ket akuen moyo pa a si Juan ket syay Elias a mantaga'nan moyon sumubli'.
+40011015	Si'kamon manrumnge', adalen moyoyti nin maong.”
+40012006	Wana nin Dios a mabasa sa Masanton Kasuratan, ‘Say mapainganga'do kamo konran kapada moyon tawo a makapaririket kongko, ambo' a say da'ton moyo.’
+40012007	
+40013016	Wana ni Jesus, “Bale' si'kamo, makarma' kamo ta main nin paka'kit tan pakarnge' moyo sa katutu'wan.
+40013017	Ibarita' koyti komoyo a abaw saray prupita tan tutawon matunong sin nu'nan panaon a masulit nin maka'kit tan makarnge' sa mangka'kit tan mangkarnge' moyo maipa'ka' sa pangingisalba nan Dios kontamo, ket kai nin nangyadi' ti sin panaon ra.”
+40013031	Nami ya anamanaet nin sayay pangingiyarig si Jesus. Wana, “Say iyalawang nin pag'aadi' nan Dios ket maiyarig sa bikoy nin mustasa a sangkadaitean sa sarba nin bikoy. Bale' no naimula yayna, tumubo' ya tan mag'in yan sangkaalakyan sa sarban pupising. Ata'gay yan bara'mon kayo ket saray manuk-manok umapon sara kona tan mipugar sara sa susanga na.”
+40013032	
+40017020	“Bana' ta kurang a pagmamatalek moyo,” ni'bat na ni Jesus. “Ibarita' koyti komoyo a no mag'in tana kumon nin bilang kaalakin bikoy nin mustasa a pagmamatalek moyo konan Dios, maibarita' moyo konan sitin talugtog a umalis ya sa kami'nan na ket umalis yan page'. Kasa gapon kai moyo nin magwa' nin mapangyadi'.
+40018010	“Ilagen moyon andi' nin kai baga-bagawen a ni saya konran saraytin ua'nak, ta ibarita' ko komoyo, saray uanghil ra ket man'iyadap ran pirmi a maipa'ka' konra konan Ama ko nin itaw sa langit.
+40021029	‘O', Tatay,’ wanan ni'bat nin anak, bale' kai yan lamang nin nako. Nako ya anamaet a ama konan ikarwa tan nibarita' naytaw nin lamang say nibarita' na konan saya. ‘Andyak,’ wanan ni'bat, bale' nainsanan nin buga', nakapanemtem ya ket nako yan lamang.
+40021030	
+40021043	Ket ibarita' ko komoyo a bana' ta wanin, ambo' anan si'kamon Judio a Pag'adian nan Dios no kai edet, saray tutawon sumunor sa karabayan na.
+40022038	Siin a sangkaimpurtantiwan tan sangkau'nawan nin matkap nin tukiden a gan-gan.
+40022039	Main et nin saya nin kapada nan lamang nin siin. Wana, ‘Aduen moy kapada mon tawo nin kapada nin pangangado' mo sa lalaman mon diri.’
+40022040	Sa saytin gugan-gan, naipatukdo' a intiron Gugan-gan a nisurat na ni Moises tan say uakay ran prupita.”
+40022045	Si Adi' David a mismo, tinawag naya nin Uunuren a Cristo nin nipangako' kona, ket pa'no edet a sya ket puri naya ey?”
+40023013	“Kado' kamoyna, si'kamon Madudunong sa Gugan-gan tan si'kamon Pariseo! Mampisantu-santos kamo ta mansalabanan moyay purta nan Pag'adian nan Dios! Kai kamo anamaet nin sumrep tan awaan moyo sara et a marabay nin sumrep!
+40024038	ta sin saytaw nin panaon a adapen nin malanip a intiron mundo, kai ra gapo nin nipa'ka' nin tutawo a main nin duka' a mangyadi'. Kanya' nin nangan saran maong, ninom sara, tan nangasawa tan nikiasawa sara angga sin mismon awron linmuob ya si Noe sa alakin baluto. Kapingmatan, linmanip yan bigra' ket naanor sara nga'min. Wanin anamaet li' a lamang no sumubli' akoyna a si'kon si Pinaitawo.
+40024039	
+41001032	Sin sinumrep yaynay awro, nadinep sara sa ugsuran nan bali a sarba ran tutawo konan sitin babali. Inawit-awit rasara nga'min kona ni Jesus a main nin masakit tan saray nasrepan nin ispiriton duka'. 34Ket abaw saray pinaanda' nan main nin nagsikabarang nin sakit, tan abaw sara anamaet a pinalakwan nan ispiriton duka'. Kai nasara nin inaburuyan ni Jesus nin mag'irgo a ispiriton duka' ta pigaw nin kai ra nin maipatanda' no si'no ya.
+41001033	
+41002025	Ket wana yapo' ni Jesus, “Nalingwanan moyoyna palayi a nabasa moyodtaw sa Masanton Kasuratan maipa'ka' sa ginwa' na ni David nin mismo sin panaon a si Abiatar a Sangkata'gayan nin Padi'? Sin saytaw, nabitilan ya tan saray kalalamo' na ta kasaynan ikabyay ra, ket sinumrep ya sa Bali nan Dios tan kinnan nay tinapay a nida'ton konan Dios. Maiyawa' anaod a mangan nin saytin tinapay ta saray aburuyan tamo' nin mangan ket saray pupadi'. Bale' naaburuyan ya si David nin nangan tan binyan nasara anamaet a lamang a kalalamo' na.”
+41002026	
+41007008	Peteg a pigagawa' moyoyti say wana ni Isaias ta man-gaw'en moyon kasan kwinta a nigan-gan nan Dios bale' mantumbuken moyoy kaugalian nin tutawo.”
+41009043	Ket no si gamet mo a puon nin pakasida' nin pagmamatalek mo, putulen ma. Maong anay pukol ka bale' magkamain kan byay a iti konan Dios dyan si rwa ran page' a gamet mo, bale' maika' ka sa impyirno, sa apoy a kai gapo nin ma'rep.
+41009045	No si ayi mo anamaet a puon nin pakasida' nin pagmamatalek mo, putulen ma. Maong anay pilay ka bale' magkamain kan byay a iti konan Dios dyan si rwa ran page' a ayi mo bale' maika' ka sa impyirno, sa apoy a kai gapo nin ma'rep.
+41010009	Edet, bana' ta wanin, saran rwa nin pinipasaya nan Dios, ambo' nin manepeg a pisyayen saran tutawo.”
+41011025	No dumasal kamo ket main wadi' nin sakit nin nakem moyo sa si'numan, pirdunawen moya yapo' ta pigaw nin pirdunawen nakamo anamaet nin Ama tamo sa langit sa kasalanan moyo.”
+41012020	Ket, main intaw nin pito ray lulalakin mibubsat. Nangasawa yay kaka bale' nati ya nin kasan anak.
+41012021	Ket si aryen na, nikasal nayay babayi. Bale' nati yayti anamaet a lamang nin kasan anak ra. Wanin anamaet a ginwa' nan ikatlo,
+41012022	tan saray sumunor et kona. Sarba ra nin pito, nikasal rayay balo, bale' nati sara nga'min nin kasan anak. Kalansuyutan, nati yaynamaet a babayi.
+41012023	Ket sawanin, no napasubli' sarayna li' nin mabyay a nunati, si'no edet li' a asawa nan babayi, ta saray pito ket nag'in nin asawa raya?”
+41012027	Nituloy na ni Jesus ket wana, “Syimpri a, si sayay nati ana, kai yayna nin makapangrayo konan sayay dios. Kanya' nin mangkabyay sara in et, saray nibarita' nan Dios a syay Dios ra. Mangkalingo kamo nin tuloy!”
+41012031	Ket siti a ikarwan sangkaimpurtantiwan: ‘Aduen moy kapada mon tawo nin kapada nin pangangado' mo sa lalaman mon diri.’
+41012037	Ket siti a ikarwan sangkaimpurtantiwan: ‘Aduen moy kapada mon tawo nin kapada nin pangangado' mo sa lalaman mon diri.’
+41014028	Bale' saytaw li' no napasubli' akoyna nin mabyay, mu'na akoyna li' tan taga'nan katamodtaw sa Galilea.”
+41015027	Main anamaet nin rwa ran kriminal a nikirngan ran nipasak sa kudos kona ni Jesus, si saya sa wanan na tan si saya sa wiri na.
+42001001	Mapagalang a Teofilo : Abaw sarayna a inasirta ran nisurat a bubagay nin tinukid nan ginwa' nin Dios iti komin mammemper kona ni Jesus.
+42001054	Tinulungan natamon si'tamon mampagsirbi kona nin puri na ni Israel. Anaod, tinukid na a pangako' na nin pangingipa'kit na kontamo nin inganga'do nan magnayon anggan-angga a sigon sa nipangako' na kona ni puon tamon si Abraham pati konran puri na.” Sain a wana ni Maria.
+42001055	
+42003024	ibat ya sa puri na ni Matat. Si Matat ibat ya sa puri na ni Levi. Si Levi ibat ya sa puri na ni Melqui. Si Melqui ibat ya sa puri na ni Jana. Si Jana ibat ya sa puri na ni Jose. Si Jose
+42003025	ibat ya sa puri na ni Matatias. Si Matatias ibat ya sa puri na ni Amos. Si Amos ibat ya sa puri na ni Nahum. Si Nahum ibat ya sa puri na ni Esli. Si Esli ibat ya sa puri na ni Nage. Si Nage 
+42003026	ibat ya sa puri na ni Maat. Si Maat ibat ya sa puri na ni Matatias. Si Matatias ibat ya sa puri na Semei. Si Semei ibat ya sa puri na ni Jose. Si Jose ibat ya sa puri na ni Juda. Si Juda
+42003027	ibat ya sa puri na ni Joanan. Si Joanan ibat ya sa puri na ni Resa. Si Resa ibat ya sa puri na ni Zorobabel. Si Zorobabel ibat ya sa puri na ni Salatiel. Si Salatiel ibat ya sa puri na ni Neri. Si Neri
+42003028	ibat ya sa puri na ni Melqui. Si Melqui ibat ya sa puri na ni Adi. Si Adi ibat ya sa puri na ni Cosam. Si Cosam ibat ya sa puri na ni Elmodam. Si Elmodam ibat ya sa puri na ni Er. Si Er
+42003029	ibat ya sa puri na ni Josue. Si Josue ibat ya sa puri na ni Eliezer. Si Eliezer ibat ya sa puri na ni Jorim. Si Jorim ibat ya sa puri na ni Matat. Si Matat ibat ya sa puri na ni Levi. Si Levi
+42003030	ibat ya sa puri na ni Simeon. Si Simeon ibat ya sa puri na ni Juda. Si Juda ibat ya sa puri na ni Jose. Si Jose ibat ya sa puri na ni Jonan. Si Jonan ibat ya sa puri na ni Eliaquim. Si Eliaquim
+42003031	ibat ya sa puri na ni Melea. Si Melea ibat ya sa puri na ni Mainan. Si Mainan ibat ya sa puri na ni Matata. Si Matata ibat ya sa puri na ni Natan. Si Natan ibat ya sa puri na ni David. Si David
+42003032	ibat ya sa puri na ni Jesse. Si Jesse ibat ya sa puri na ni Obed. Si Obed ibat ya sa puri na ni Boaz. Si Boaz ibat ya sa puri na ni Salmon. Si Salmon ibat ya sa puri na ni Naason. Si Naason
+42003033	ibat ya sa puri na ni Aminadab. Si Aminadab ibat ya sa puri na ni Admin. Si Admin ibat ya sa puri na ni Arni. Si Arni ibat ya sa puri na ni Esrom. Si Esrom ibat ya sa puri na ni Fares. Si Fares ibat ya sa puri na ni Juda. Si Juda
+42003034	ibat ya sa puri na ni Jacob. Si Jacob ibat ya sa puri na ni Isaac. Si Isaac ibat ya sa puri na ni Abraham. Si Abraham ibat ya sa puri na ni Tare. Si Tare ibat ya sa puri na ni Nacor. Si Nacor
+42003035	ibat ya sa puri na ni Serug. Si Serug ibat ya sa puri na ni Ragau. Si Ragau ibat ya sa puri na ni Peleg. Si Peleg ibat ya sa puri na ni Heber. Si Heber ibat ya sa puri na ni Sala. Si Sala
+42003036	ibat ya sa puri na ni Cainan. Si Cainan ibat ya sa puri na ni Arfaxad. Si Arfaxad ibat ya sa puri na ni Sem. Si Sem ibat ya sa puri na ni Noe. Si Noe ibat ya sa puri na ni Lamec. Si Lamec
+42003037	ibat ya sa puri na ni Matusalem. Si Matusalem ibat ya sa puri na ni Enoc. Si Enoc ibat ya sa puri na ni Jared. Si Jared ibat ya sa puri na ni Mahalaleel. Si Mahalaleel ibat ya sa puri na ni Cainan. Si Cainan
+42003038	ibat ya sa puri na ni Enos. Si Enos ibat ya sa puri na ni Set. Si Set ibat ya sa puri na ni Adan tan si Adan ibat ya konan Dios.
+42004012	Ket ni'bat na ni Jesus kona, “Wanadtaw lamang, ‘Andi' ka mangwa' nin padalan nin ipanubok mo konan Uunuren a syay Dios mo.’ ”
+42004013	Sin nagwa' naynan Dimunyo a sarban pannukso na kona ni Jesus, nibwat ya ta mana'gan ya anamanan tyimpo.
+42006014	si Simon a pinangaranan nan Pedro, si Andres nin busat na, si Santiago, si Juan, si Felipe, si Bartolome,
+42006015	si Mateo, si Tomas, si Santiago nin anak na ni Alfeo, si Simon nin myimbro nan partidon pulitika nin Zealot,
+42006016	si Judas nin anak na ni Santiago tan si Judas Iscariote nin sya li' a magtraidor kona ni Jesus.
+42006023	No gaw'en ra in komoyo, rumiriket kamon maong ta pinasyan anda' nin gun-gunan man'isadya' nan Dios komoyodtaw sa langit. Pakatarig'en kamo ta wanin a ginwa' ran pupuon ra konran prupita nan Dios sin nu'na.
+42008028	Anaod, pirmi nayan serpan nin si ispiriton duka', kanya' nin baruren ran kadina a gamet na tan ayi na. Bale' mabulsot na et ket papalaywen nayan ispirito nin mako sa lugar a kasan tawo. Bale' sin na'kit nayaynaod si Jesus, tinma'way ya mi'sa ya nin nanalimukod sa adapan na ket wana nin maksaw, “Jesus, Anak nan Sangkata'gayan nin Dios, ani ket a kabiangan mo kongko? Panginga'do mo ta andi' nako nin padya'dyaen.” Wanin a wana bana' ta ginan-gan nayayna ni Jesus nin lumakwan konan lalaki a ispiriton duka'.
+42008029	
+42009030	Kapingmatan, main anan rwa ray tawon kapada na kaslag ni Jesus nin mangkiirgo kona; sara si Moises tan si Elias. Mampag'irgwan ra a maipa'ka' sa patiti na nin syay plano nan Dios a matkap nin tukiden nadtaw sa Jerusalem.
+42009031	
+42017035	Konran rwa ray bubbayin mampangiling, si saya, makalap ya ket si saya, mabati' ya.”
+42020018	Konan siin nin bato, si si'numan nin manabo', mangababari' ya tan si si'numan a madag'anan nan siin a bato, marekrek ya.”
+42020044	Sawanin,” wana et ni Jesus, “no si Adi' David a mismo ket tinawag naya nin Uunuren a Cristo nin nipangako' kona, edet, si Cristo ket ambo' yan basta puri na tamo' ni Adi' David!”
+42023016	Wanin man, ipasanet-sanet koya tana mi'sa koyayna nin bulusan.”
+42023050	Main nin sayay tawon taga Arimatea a say ngaran na Jose. Maong tan matunong ya tan pitta'gan na a irarate' nin pag'aadi' nan Dios. Myimbro ya nin Kunsiho, bale' kai ya nin nikikumpurmi sa niplano tan ginwa' ra kona ni Jesus. 
+42023051	
+42024001	Ket sin parbangon et tamo' sin awron Linggo, nako saraynay bubbayi sa nanabunan kona ni Jesus nin awit ray banglon nisadya' ra.
+43001043	Sin sumunor nin awro, nidisisyon na ni Jesus a mako sa Galilea. Na'kit naya si Felipe a taga Betsaida a kababalyan ra ni Andres tan ni Pedro ket wana kona, “Kikalamo' ka kongko.
+43001044	
+43003023	Si Juan anamaet, mampamawti-bawtismo yadtaw sa Enon nin adani sa Salim ta raranom itaw nin lugar. (Sin sain ket kai ya et nin mangkapriso si Juan.) Kasan tegen ran mako nin tutawo kona ket binawti-bawtismwan nasara.
+43003024	
+43004007	Saray tumutumbok na anamaet, nako sara sa babali manaliw nin kanen ra.
+43004008	
+43005003	Sa sirong nin sayti ket nakaida' saray abaw nin main masakit, saray bulag, saray pilay tan saray paralitiko.
+43007039	Si man'ibarita' nadti ni Jesus ket, si Ispirito nan Dios nin ibaki' na li' konran saray magmatalek kona. Kai ya et nin nibaki' konra, ta kai ya et nin nipata'gay tan pinagalangan si Jesus.
+43011001	Main nin mibubsat a mampiikap sa babali nin Betania a say ngaran ra Maria, Marta tan Lazaro. Si Maria, syaytaw si mangiyapros nin banglo sa ayi na ni Uunuren a Jesus mi'sa na punasan nin sabot na. Ket si Lazaro, main nin masakit na.
+43011002	
+43012039	Kai sara nin mamper bana' ta mabasa et nin nisurat na ni Isaias,
+43012041	Nibarita' nayti ni Isaias bana' ta na'kit nayna nin gindat a kata'gayan na nin Cristo tan si Jesus yaytaw si man'irgwen na.
+43013015	Wanin, kanya' nin isipen moyoyti nin maong: Si sayay aripen, kai ya nin mas ata'gay dyan si amo na; wanin anamaet, si sayay nibaki', kai ya nin mas ata'gay dyan si namaki' kona. Ket ginwa' ko in komoyo nin mudilo nin arigen moyo ta pigaw nin gaw'en moyo anamaet a wanin konran kalalamo' moyo.
+43013016	
+43019020	Ket abaw saray Judio nin nakabasa konan siti bana' ta naisurat yayti sa sarita' nin Hebreo, Latin tan Griego, tan si lugar nin nangipasakan ra sa kudos kona ni Jesus ket adani ya tamo' sa syudad nin Jerusalem.
+43019021	Sin wanin, nako saray pupangulo ran pupadi' ran Judio kona ni Pilato tan wanra, “Ambo' kumon nin ‘Adi' ran Judio’ a nisurat mo no kai edet, ‘Wana nin sitin tawo, syay adi' ran Judio.’ ”
+44001001	Mampablyen kon Teofilo, Itaw konan u'nan libro ko, nisurat-surat ko a maipa'ka' sa sarban nitarana' na ni Jesus nin gaw'en tan iyakay,
+44001014	Siti a ikatlon parso a nipa'kit ya si Jesus konran tumutumbok na sin sinmubli' yayna nin mabyay.
+44001021	Sin na'kit nayayti ni Pedro, nitepet na kona ni Jesus, “Uunuren, ani anamanaet a mangyadi' konan sitin tawo ey?”
+44001022	Ni'bat na ni Jesus, “Bilang wadi' a rabay koya nin mabyay angga li' nin sumubli' akodti, ambale' a kapagawan mo ey? Si'ka, tumumbok ka kongko!”
+44002032	Wana ni Pedro, “Ket matistigusan min sarba a si Jesus nin pinasubli' nan mabyay nin Dios a man'ibarita' na sa sain a wana.
+44002033	Nikwa yayna sa sangkata'gayan nin lugar sa wanan nan Dios a syay Ama na, tan nibi nayan Ama kona a Ispiriton nipangako' na kona. Kanya' nin naimatunan tan narnge' moyo sawanin a makapaka'ngap nin nunangyadi' a pinangibwat na ni Jesus nin nangyadi' sa pakayadi' nan Ispirito nan Dios.
+44002034	O' ta main et nin nipadles na ni David, bale' ambo' anaod nin say lalaman nan diri a mantukuyen na bana' ta kai ya nin nuli' itaw sa kami'nan nan Dios. Nisurat na a wana, ‘Wana nin Dios konan Uunuren ko, “Tumekre' kadti sa pawanan ko
+44002036	Bana' ta wanin,” wana ni Pedro, “matkap a sarba tamon Israelita ket, matandaan tamon maong a sitaw si nipangako' nan Dios ket ginwa' nayan Uunuren tan Cristo. Sya si Jesus nin nipasak moyo sa kudos!”
+44003023	Bale' si si'numan li' a kai nin mangimbabaet sa irgo na, kai yayna li' nin maibilang konran tutawo nan Dios tan madusa yan mati.’ Wanin a wana ni Moises sin saytaw et.”
+44004012	Si Jesus tamo' a makapamakanda' nin byay tamo, bana' ta iti sa intiron sangkamundwan, kasaynan si'numan nin raruma et a nibi nan Dios nin makapangisalba kontamo.”
+44004027	Anaod, nangyadi' anan talaga in iti sa sitin syudad! Si Adi' Herodes tan si Gubirnador Poncio Pilato tan saray kalalamo' ran ambo' nin Judio, tan pati anamaet nin saray kapada min Israelita, nikukumplot sara nin patyen ya a Aripen mon nitalaga nay byay na komo, sya si Jesus, tan sya a tinudo' mo nin Cristo.
+44004028	Bale', sain, iti anan gindat sa makapangyayadi' nin plano mon gaw'en ket nigagara mon talaga nin matukid. 
+44004029	Ket sawanin, Catawan, tanda' moy panglili'mo ra komi. Kanya' nin tulungan rakami kumon nin si'kamin uaripen mo, a kai kami nin lumi'mo nin ipatanda' mi a sarita' mo.
+44004030	Ipa'kit mo pa a pakayadi' mo nin mamaanda' konran main nin masakit, tan aburuyan rakami pan makagwa' nin makapaka'ngap nin pammatutuo a mangingilalaman kami komo tan raruma et nin makapaka'ngap nin bubagay, yupa' sa pakayadi' nan Aripen mon nitalaga nay byay na komo, si Jesus.”
+44007004	Linmakwan ya anaod itaw sa lugar nin Caldeo tan nako ya nin niikap sa Haran. Bale' sin nati yayna si tatay na, pinaalis naya anamana nin Dios si Abraham nin nakodti sa lugar a mampiikapan tamo sawanin.
+44007007	Bale' dusawen koya li' a nasyon nin mangaripen konra, ket lumakwan sara li' konan siin nin nasyon tan sumubli' saradti, ket pagsirbyan rakodti.’ Sain a wana nin Dios.
+44008036	Nituluy-tuloy ray pagbibyahi ra ket nirate' sara sa lugar a main nin ranom. Wanan upisyal kona ni Felipe, “Ya, yuoy a ranom! Main kasin rason a kai ako et nin mabawtismwan?”
+44013034	Main ti et e nin naisurat nin maipa'ka' sa pammasubli' nan mabyay nin Dios kona ni Jesus tan say kai na nin pangiyaburoy a maumok a lalaman na ni Jesus sa nanabunan. Wana, ‘Ibi ko komoyo nin sigurado a masagrado nin bubagay nin nipangako' ko kona ni David.’
+44013035	Main yayti et e nin nipadles na ni David nin maipa'ka' kona ni Jesus, a wana, ‘Kai mo nin iyaburoy a maumok yay lalaman nan ibabaki' mon tutuo komo.’”
+44013036	Nituloy na ni Pablo, “Bubsat, ambo' anaod nin si Adi' nin David a mantukuyen isen ta tanda' tamo a sin nayadi' nayna nin ginwa' ni Adi' nin David a nipagwa' nan Dios kona, nati yayna. Nitabon raya sa nanabunan konran pupuon na ket naumok a lalaman na.
+44013037	Bale' si Jesus, a pinasubli' naya nin mabyay nin Dios, kai ya nin naumok a lalaman na.
+44015019	Edet,” wanan nituloy ni Santiago, “say ibarita' ko komoyo ket, andi' tamo sara nin pabyatan a ambo' nin Judio nin mampagmatalek konan Dios.
+44015020	Say gaw'en tamo ket si manurat atamo konra nin ibarita' tamo a andi' sara nin mangan nin say maiyawa' nin kanen a sayti ket nida'ton nin ipangrayo sa dios-dios, tan andi' ra nin sama'-samaen a lalaman ra yupa' sa ambo' nin manepeg a pirararay. Andi' sara et nin mangan nin daya' tan nin karni nin pinatin ayep a kai nin pinadaya'.
+44015021	Wanin a dawaten tamo ta say gugan-gan nin nipagamet kona ni Moises ket na'teng anan tuloy a panaon nin mambasawen sa susinaguga tepe' nin Awron Painawa tan man'iyakay sa sarba nin lugar.”
+44015024	Natandaan mi a main saray kalalamo' midti nin nakodsen ket ginulo ray kaisipan moyo ta manwerweren rakamo sa man'iyakay ra. Kai misara nin nibaki' taw nin mako mangyakay isen komoyo.
+44015025	Bana' anaod ta wanin, nag'iirgo kami tan nipapasayawan mi a mamili' kami nin ibaki' midsen komoyo nin kalamo' rasara ni mampablyen tamon si Pablo tan Bernabe.
+44015026	Sara, man'isanla' ray byay ra sa pagsisirbi ra kona ni Uunuren tamon Jesu-Cristo.
+44015027	Ket, saray ibaki' midsen a si Judas tan si Silas, rupan-rupa ra li' nin ibarita' a no ani a iti sa surat mi komoyo.
+44015028	Nipaingar nan Ispirito nan Dios komi tan nipapasayawan min nag'iirgwan a andi' mi kamoyna nin pabyatan nin panukiden et sa gugan-gan a maidap nin tukiden. Main ti tamo' say impurtantin tuloy nin ipatukid mi komoyo. Sayti:
+44015029	Andi' kamo nin mangan nin animan a nida'ton nin ipangrayo sa dios-dios. Wanin et, andi' kamo nin mangna' nin daya' tan nin karni nin pinati nin ayep a kai nin pinadaya'. Andi' kamo nin kiraray nin ambo' nin manepeg. Maabig no tukiden moyoyti.
+44015033	Itaw sara yapo' nin midyo na'teng sa Antioquia, mi'sa sarayna nin sinmubli' konran apostoles sa Jerusalem. Pinaibwat rasara nin mammemper a wanra, “Bindisyunan nakamo kumon nin Dios.”
+44017029	Ket bana' anaod ta a'nak natamo, andi' tamo nin ipa'ka' a say kapapa'sar na nin Dios ket bilang tamo' sa imahin a gawa' na nin sayan matudyo' nin tawo mangibwat sa balitok o pirak o bato.
+44017030	Sin saytaw sin panaon a saray tutawo ket kai raya et nin katanda' a Dios, pinalabas na a abas nin gawa'-gawa' ra. Bale' sawanin, man-gan-ganen nasara a sarba nin tutawo sa sarba nin lugar a gurutan rayna a pagkakasalanan ra.
+44017031	Wanin ta main nin awron nitanda' nan Dios, a sitaw si tawo nin pinili' na ket sintinsyawan na li' nin kasan pangipuruk-purok a sarba nin tutawo. Nipa'kit nayna nin Dios sa sarban tutawo a gaw'en na in yupa' sa nipamasubli' na nin mabyay konan siin a tawo.”
+44023026	“Komo Man-galangen a Gubirnador Felix: Nangibwat kongko, si Claudio Lisias. Kumusta ka?
+44023027	Siti si tawo nin nipaiyater ko komo, dinakep raya nin Judio, tan patyen rayayna kumon. Bale' natandaan ko nin saya yan gumabalin Romano kanya' nin kina' miya nin nilibri nin saray sundalo' ko.
+44023028	Bana' ta rabay ko nin matandaan no ani a riklamo ra kuntra kona, niyadap koya konran myimbro nin Kunsiho ra.
+44023029	Natandaan ko a kasa anamaet nin nagwa' nan kasalanan nin manepeg yan ipriso o patyen, no kai say riklamo ra kona ket say kai ra nin pipapagketan maipa'ka' sa Layi ra.
+44023030	Ket sin naiparate' kongko a main nin plano ran patyen ya, nipaiyater koyan tampor isen komo. Nibibilin ko tana konran saray mampangiriklamo kona a isen sarayna nin mako komo. Wanin tana.”
+44024006	tan ambo' in tamo', no kai gaw'en nayayna kumon nin basta-basta a Timplo mi, kanya' nin dinakep miya. No usisaen moya in, mapatutu'wan moyo a sarban riklamo mi kuntra kona.”
+44024008	
+44028028	Wana et ni Pablo, “Anaod, matkap moyon tandaen a sitin minsahi nin maipa'ka' sa pangingisalba na nin Dios, ipatandaan ya konran ambo' nin Judio ket reng'en raya!”
+45001001	Si'ko si Pablo a main nin surat siti komoyo. Si'ko, aripen nako ni Jesu-Cristo tan sinagyat nakon Dios nin mag'in nin apostol na ta sinuyo' nako nin mangipatanda' konan Mabistan Patanda' na konran tutawo.
+45002022	Aninay dawal a man'iyakay moyon duka' a kiraray sa ambo' nin asawa, bale' si'kamon diri mangkiraray kamo sa ambo' moyon asawa! O' mangarimbutong kamon mangisip a raywen saray dios-dios, bale' kai kamo nin marmay nin sumrep nin manakaw sa kami'nan ran dios-dios!
+45002023	Ipagmamalaki moyon si'kamoy namarisibyan nan Gugan-gan nan Dios, bale' si'kamon diri a mansumubag sa Gugan-gan! Ket anaod, bana' sa gawa'-gawa' moyo, mangkamuda-muda yay Dios!
+45002024	Say katutu'wan, mabasayti e sa Masanton Kasuratan, “Bana' sa gawa'-gawa' moyo nin Judio, mampag'irgo saran duka' kuntra konan Dios a ambo' nin Judio.”
+45006010	Wanin ta nati ya nin ni'sa tamo' nin sinida' nayna nin anggan-angga a pakayadi' nin kasalanan, ket sawanin mabyay ya ta pigaw nin mami yan kagalangan konan Dios.
+45006011	Wanin anamaet kumon komoyo. Ibilang moyo kumon a kadiryan moyo nin nati ana no maipa'ka' sa pakayadi' nin kasalanan sa byay moyo, tan mabyay kamoynan mami nin kagalangan konan Dios sa nikaipasaya moyo konan Cristo a si Jesus.
+45009011	Anaod, ba'yo sara et nin naiyanak a singin tan kasa et gapo nin nagwa' ran matunong o nin abas man ket wanayna nin Dios kona ni Rebecca, “Si ari, pagsirbyan naya li' nin kaka.” Ginwa' na in nin Dios ta pigaw nin ipa'kit na nin maong a say nigagara nan gaw'en nin mabista ket, nangibwat sa karabayan na, ambo' nin bana' sa matunong a gawa' ran tawo, no kai edet, nangibwat sa pananagyat nan diri.
+45009012	
+45010008	Anaod, wanti e a mabasa tamo et sa Masanton Kasuratan, “Maabot anay bubibilin nan Dios ta adani komoyo; mapag'iirgwan moyo a maipa'ka' sa sayti tan pipanemtem moyo anamaet.” Siin nin mismo a bibilin na maipa'ka' sa pagmamatalek a man'ipatanda' mi.
+45010009	Wanti na e: No ibari-barita' mo konran tutawo a si Jesus ket syay Uunuren mo, tan masibulot a nakem mo nin mamper a pinasubli' nayan mabyay nin Dios, maisalba ka.
+45010010	Anaod, sa kanakman na ket mamper yay sayay tawo ket maikwinta nan Dios a mapteg ya. Anamaet, sa pangingipatutuo na ket ma'kit a naisalba yayna. 11Wanin ta wanan Dios a mabasa sa Masanton Kasuratan, “Si si'numan a magmatalek kona, kai ya gapo nin maima-ima.” 12Wana nin “si si'numan,” ta kasan pinilian kona, Judio man o ambo' nin Judio. Pari-pariho a syay Uunuren nin sarba tamon mampagmatalek kona tan kasan duga' nan ibi a inganga'do na konran sarba ran tumawag kona 13ta mabasa tamo sa Masanton Kasuratan, “Sarba ran manawat nin paisalba konan si Uunuren, ket maisalba nasara.”
+45010011	Wanin ta wanan Dios a mabasa sa Masanton Kasuratan, “Si si'numan a magmatalek kona, kai ya gapo nin maima-ima.”
+45010012	Wana nin “si si'numan,” ta kasan pinilian kona, Judio man o ambo' nin Judio. Pari-pariho a syay Uunuren nin sarba tamon mampagmatalek kona tan kasan duga' nan ibi a inganga'do na konran sarba ran tumawag kona
+45010013	ta mabasa tamo sa Masanton Kasuratan, “Sarba ran manawat nin paisalba konan si Uunuren, ket maisalba nasara.”
+45010019	Magwa' tamo et anamaet nin ipa'ka' a angangko saray Israelita ket kai ra nin natarusan a niyakay konra. Bale' matarusan rayna kumon. Ma'kit nin wanin ta primiro, nipau-pau'na nayna nin Dios sa nipaisurat na kona ni Moises, “Paimbelen katamo li' yupa' sa panginginga'do ko konran tutawon wamoyo ket nipwira sara. Pasagren katamo li' bana' ta tanda' rakon saray ignuranti.”
+45010020	Ikarwa, diritsawan na et nin nibarita' in nin Dios sa nipaisurat na kona ni Isaias maipa'ka' konran ambo' nin Judio a wana, “Nadumog rakon saray kai nin mampaningkap kongko, tan abirno nin kai rako nin tiningkap, nikitanda' ako konra.”
+45010021	Wana anamaet a lamang nin Dios maipa'ka' konran saray puri na ni Israel, “Ni'nu-ni'no koyna nin nisagyat a sumubli' sara kongko bale' kai sara gapo nin mangimbabaet ta pinasyan tuloy nin kabengedan tan kasupladwan ra.”
+45011009	Wana anamaet a lamang ni Adi' David sa nisurat na, “Mangla'wan pa kumon konra in say bubagay a mampamin karigawan konra. Mag'in nin bara'mon papan in kumon konra, tan mag'in nin pinakakablit nin pakadusawan ra;
+45011014	sa ilalo ko nin bana' sa panunulong ko komoyo ket umibeg sara komoyoy kapada kon Judio. Ket yupa' sa wanin, magmatalek sara anamaet ket maisalba nasaran Dios.
+45011015	Anaod, no say nipamauryan na konran Judio ket nag'in nin nakakituno a abaw nin raruman tutawo konan Dios, anina li' nin anda' no akuen nasarayna a Judio nin Dios! Bara'mo li' anaod nin pinasubli' saran mabyay a nati!
+45011034	Anaod, wanan mabasa sa Masanton Kasuratan, “Si'noy masrepan nay pangingisip nan Dios? Si'no anamaet a makapangipapalaway no ani a mabista nin gaw'en na?
+45011036	Syay namarsa nin bungat ana. Syan lamang anamaet a mampangalinya nin sarba, tan say sarba ket nigagaran pangibwatan nin rayo na. Itandudo' ya kumon a ngaran nan Dios anggan-angga! Peteg a wanin!
+45012010	Mikawa'nanan kamon pikawa'nanan nin mibubsat. U'nawen moyon igalang a saya tan saya.
+45012011	Andi' kamo tumamlad no kai edet, pakaseseg kamo. Sirbyan moya nin masibulot a kanakman a Uunuren tamo.
+45012012	Paririketen kamo nin pangingilalo moyon mabistay marate' moyo li'. Agwantawan moyoy dya'dya' a rumate'-rate' komoyo. Andi' moyo nin lingatan no kai edet, lawas kamon dumasal.
+45012013	Itao moyoy main moyo konran kapada moyon tawo nan Dios nin mampagkurang tan siririket kamo kumon lawas nin manan'ili.
+45012014	Idasalan moyo saray mampamadya'dya' komoyo nin bindisyunan nasaran Dios. Andi' moyo idasal a dusawen nasara kumon nin Dios.
+45012015	Kiririket kamo konran saray main nin puon nin rumiriket, tan kibereng kamo konran iti sa kaberengan.
+45012016	Miaaluyon kumon a kukanakman moyo. Andi' kamo nin mipata'gay no kai edet, kilimug-limog kamo konran saray main nin mampagkurangan komoyo. Andi' moyo nin ipa'ka' a madunong kamoynan tuloy.
+45012017	Andi' moyo sara nin amanwen nin kadukaan a mangwa' nin duka' komoyo. Ipamuspusan moyo a say gaw'en moyo ket kusto sa angan-angan nin sarban tutawo.
+45012018	Sa anggawan nin mababa' moyo, ipamuspusan moyo a katuno moyo a sarban tawo no magwa'.
+45012020	Say gaw'en tamoyna edet ket sayti e nin wanan Masanton Kasuratan, “No si kalaban moyo ket mabitil ya, pakanen moya. No milata' ya, painumen moya. Sa wantin gaw'en moyo duming'ey yan maong sa duka' a ginwa' na komoyo.”
+45012021	Matkap a andi' kamo nin talwen nin say kadukaan no kai edet, talwen moyoy kadukaan yupa' sa pangwa' moyo nin say maabig.
+45014012	Ket anaod say barang saya kontamo umadap li' konan Dios nin umbat sa sarban ginwa-ginwa' tan inirgu-irgo na.
+45015010	Wana et sa Masanton Kasuratan a mabasa tamo, “Si'kamon ambo' nin Judio, kiririket kamo konran Judio a pinili' nan Dios nin tutawo na.”
+45015011	Mabasa et a lamang sa Masanton Kasuratan, “Si'kamon ambo' nin Judio, raywen moyay Dios. Sarba moyon tutawo, raywen moyan maong.”
+45015012	Nipadles na anamaet ni Isaias a wana, “Main li' nin puri na ni Jesse nin rumate' tan sya li' a mag'uray konran ambo' nin Judio. Sya li' a puon nin ilalo ra sa nipangako' na.”
+45015023	Bale' sawanin ta nayadi' koynay gawa' ko sa sain a lulugar, dumalan akodsen li' komoyo no mako ako sa Espanya, bana' ta na'teng anan rabay koy makapika' isen komoyo. Ket mayadi' li' a anted a panaon kodsen komoyo nin mamin ririket kongko, ilalwan kon matulungan rako li' sa pangituloy koyna nin pako ko sa Espanya. 
+45015024	
+45016003	Pakumustawen moyo sara pa si Priscila tan si Aquila nin katrabahwan ko sa pagsisirbi ko konan Cristo a si Jesus.
+45016004	Nisanla' ray byay ra bana' kongko, kanya' nin alaki a utang kon maong a nakem konra. Wanin anamaet a sarban dudupong ran ambo' nin Judio a mammemper.
+45016005	Pakumustawen moyo sara anamaet pa a mammemper nin mididinep isen sa bali ra ni Priscila tan Aquila. Pakumustawen moya anamaet pa a mablin amigo kon si Epeneto. Syay sangkau'nawan nin nagmatalek kona ni Cristo itaw sa prubinsyan Asia.
+45016006	Pakumustawen moya pa si Maria; nipakapaidap yan kusto nin tumulong komoyo.
+45016007	Pakumustawen moyo sara pa a kadayaan kon Judio a sara si Andronico tan Junia, nin nakalamo' ko sa priswan. Apostoles sara nin bantog tan nu'na saran nagmatalek kona ni Cristo dyan si'ko.
+45016008	Pakumustawen moya pa si Ampliato. Mabli ya anamaet kongko nin tawo na nin Uunuren.
+45016009	Pakumustawen moya et pa si Urbano nin katrabahwan mi sa pagsisirbi mi kona ni Cristo, tan si mablin amigo kon si Estaquis.
+45016010	Wanin anamaet kona ni Apeles nin napatutu'wan anan tutuon tawo na ni Cristo. Pakumustawen moyo sara anamaet pa a pamilya na ni Aristobulo, 11tan si kapada kon Judio a si Herodion, tan saray mammemper itaw sa bali na ni Narciso.
+45016011	
+45016012	Pakumustawen moyo sara et pa si Trifena tan si Trifosa. Maseseg saran tawo nan Uunuren. Pakumustawen moya pa si mablin amiga tamon si Persida nin abaw anay nagwaan na sa pagsisirbi na konan Uunuren.
+45016013	Pakumustawen moya pa si Rufo a saya yan napili' nan tawo na anaod nin Uunuren, tan si ina na nin ina koyna sa kwinta.
+45016014	Pakumustawen moyo sara anamaet pa si Asincrito, si Flegonte, Hermes, Patrobas, Hermas, tan saray bubsat sa pammemper nin kalalamo' ra.
+45016015	Pakumustawen moyo sara anamaet pa si Filologo, Julia, Nereo tan si busat nan babayi, tan si Olimpas tan saray tutawo nan Dios nin kalalamo' ra.
+45016022	Si'ko anamaet nin si Tercio a tagasurat ni Pablo sa nibarita' na konan sitin surat na, mampakumustawen katamo bilang kapada moyon mammemper kona ni Cristo.
+45016023	Si Gayo nin mampagtuluyan ko a si'kon si Pablo, a sa bali nay pididinepan ran mammemper iti, mampakumustawen nakamo. Mampakumustawen nakamo et ni Erasto nin trisuriro nan syudad nin Corinto. Mampakumustawen nakamo et anamaet ni Cuarto nin busat tamo sa pammemper.
+45016025	Raywen tamoyay Dios! Sya tamo' a makapama'get nin pammemper moyo mangibwat konan Mabistan Patanda' a man'ipatanda' ko maipa'ka' kona ni Jesu-Cristo. Sin gindat a panaon, bara'mon niyadi yaytin katutu'wan bale' sawanin, mayadi' a pinasyan kaanrwan nin panaon a linmabas,
+45016026	ket nipatandaan nayna in nin katutu'wan nin Dios. Nipaisurat-surat na in konran prupita sin na'teng anan panaon tan sawanin ket nigan-gan na anamaet a ipatandaan ti nin katutu'wan sa sarban tutawodti sa mundo nin si Dios a kasan tarana' tan kasan lamang nin anggawan, ta pigaw nin say sarba ket tumulok kona bana' sa pagmamatalek ra kona.
+45016027	Si Dios, syan bukod a sangkadunungan sa sarba! Marayo ya anggan-angga bana' sa ginwa' na yupa' kona ni Jesu-Cristo. Peteg a wanin!
+46001001	Si'ko si Pablo, a bana' ta karabayan nan Dios, sinagyat nakon mag'in nin apostol nan Cristo a si Jesus. Kalamo' koyadti si busat tamo sa pammemper a si Sostenes.
+46001020	Kanya' nin ani a maibarita' tamo maipa'ka' konran saray man'ibilang ran tutawo nin madunong, tan saray intilihinti, tan saray maong nin mag'irgo? Kai para a si Dios ket nipa'kit na a say sarban kadunungan nin tutawo ket kasan kakanaan?
+46001021	O' a ta madunong yan tuloy a Dios ket plano naynan gindat a kai matandaan nin tutawo no si'no ya sa pangungusar ran kadunungan ran diri. Ana edet, rabay nan isalba nasaray tutawo bana' tamo' ta namper sara sa man'ipatandaan mi a wanran mumadunong ket kakalawakawan.
+46001022	Wanin ta, saray Judio, maningkap saran milagron paka'kitan nin katutu'wan nin man'iyakay ba'yo sara nin mamper, tan saray ambo' nin Judio, rabay ray ararem nin uakay nin naipatukdo' sa pangingikit ra bilang tawo.
+46001023	Say man'iyakay mi bale' ket, si Cristo a syay nibaki' nan Dios nin mag'uray iti sa mundo ket nipasak ya sa kudos, ket sitin akay swawi' ya sa say iti sa kukaisipan ra. Maipa'ka' konan siin, saray Judio kai ra gapo nin maitulok a nakem ra, tan kakalawakawan anamaet tamo' konran ambo' nin Judio.
+46001024	Bale' kontamo nin si'tamon nasagyat nan Dios, Judio atamo man o ambo', napatutu'wan tamoyna a say nikaipasak na ni Cristo sa kudos ket ipa'kit a pakayadi' tan kadunungan nan Dios.
+46001025	Anaod, si ginwa' na nin Dios nin man'ipa'ka' ran tutawo nin kakalawakawan tamo' ket mas maalaga ya dyan say kadunungan ran diri. Anamaet, si ibarita' ra nin nikatalo nan Dios ket mas a magwaan nan siti dyan say sarban pakababa' nin tawo.
+46002010	Ket komin nibi nayay Ispirito na, nipatarusan na anaod nin Dios in nin bubagay ta si Ispirito nan Dios, tanda' na nin maong a sarba nga'min, mataman et nin say sangkaararman anan adin kukaisipan nan Dios.
+46002011	Kasa anaod nin makataros sa kanakman nan sayay tawo no kai sya tamo' nin diri; wanin anamaet a lamang, kasan makataros sa kanakman nan Dios no kai si diri nin Ispirito na.
+46003020	Wana et a lamang, “Tanda' nan Catawan nin kasan kakanaan nin say iti sa kanakman ran saray mumadunong.”
+46005003	Abirno nin kasa akodsen, kalamo' rako sa kanakman. Kanya' nin bara'mon isen akoynan lamang, ket sa pangilalaman ko kona ni Uunuren tamon Jesus, sinintinsyawan koyayna a tawon man-gumwa' nin wanin. Sa pididinep moyo, kalamo' rako sa kanakman, ket sa pakayadi' na ni Uunuren tamon Jesus,
+46005004	
+46005010	bale' kai ko rabay nin irgwen a saray ambo' nin mammemper. Wanin ta no sara wadi' a pal'isan moyo nin kilimug-limugan, matkap a lumakwan kamoyna konan siti nin mundo. No kai edet, si man'ibarita' kon andi' moyo nin kilimug-limugan ket si sayay mampamarita' a mammemper ya bale' kiraray ya sa ambo' nan asawa, o maagom ya, o mangrarayo yan dios-dios, o mabirngas ya, o mabubok ya, o mannakaw ya. Ni kidungon mangan, andi' kamo gapo nin kidungo sa wanin nin tawo.
+46005011	
+46007030	o puon nin rumiga, o puon nin gumereng, o kumirsyo man, 
+46007031	o kabiangan man iti sa mundo. Wanin ta say kapresan a kapapa'sar nan sitin mundo ket dandani ana nin mangangga.
+46011001	Arigen rako anaod kapadan pangangarig ko kona ni Cristo.
+46012008	Bilang wadi', main saraytaw saray mampuyaan nan Ispirito nan Dios nin mangibwat kona ket mangipatanda' saran kadunungan nan Dios; main saraytaw anamaet saray mampuyaan nan Ispirito nan Dios nin maipapalaway ran kikumpurmi kona a arararem nin bubagay.
+46012009	Ket main saraytaw et saray mampuyaan nan Ispirito nan Dios nin maksaw nin pagmamatalek a main nin gaw'en nin mangibwat konan Ispirito nan diri; main saraytaw anamaet saray mampuyaan nan Ispirito nin diri nin makapamaanda' sara nin main nin masakit;
+46012010	main saraytaw anamaet saray pinuyaan nin pakayadi' nan Ispirito nan Dios nin mangwa' nin mumilagro. Main saraytaw anamaet saray pinuyaan nin pakayadi' nan Ispirito nan Dios nin mangibarita' nin nipatandaan nan Dios konra, tan main saraytaw anamaet saray pinuyaan nin pakayadi' nan Ispirito nan Dios nin mangipurok no sain ket ibat konan Dios o kai. Ket main saraytaw et saray pinuyaan nin pakayadi' nan Ispirito nan Dios nin makapag'irgon nagsikabarang nin irgo a kai ra tanda', tan main saraytaw anamaet saray pinuyaan nin pakayadi' nan Ispirito nan Dios nin maibarita' ray katarusan nin sain nin irgo.
+46012011	Edet, sa sarban sayti ket sayan-sayay nangwa', si Ispirito nan Dios. Itayak nan ipuya' a pakayadi' na sa barang sayay mammemper dipindi sa rabay na.
+46012029	Kai edet anaod nin magwa' a sarba ket apostol, o sarba ket mapuyaan nin pakayadi' nin mangibarita' nin say nipatandaan nan Dios konra, o sarba ket mangyakay nin minsahi nan Dios. Kai anamaet lamang nin magwa' a sarba ket mapuyaan nin pakayadi' nin mangwa' nin milagro,
+46012030	o sarba ket mapuyaan nin pakayadi' nin manambar, o pakayadi' nin makairgo nin nagsikabarang nin irgo a kai ra tanda', o pakayadi' nin mangibarita' nin katarusan nin sain nin irgo a kai ra nin mataros.
+46014001	Kanya' nin ipamuspusan moyon miaaduan kamon saya tan saya, ket suetan moyon maga'muran in nin lamang say man'ipuya' nan Ispirito nan Dios, lalun-laloyna a pakayadi' nin mangibarita' nin nipatandaan nan Dios.
+46014022	Mangibwat konan siin, matarusan tamo nin say pag'iirgo sa uirgo a kai ra nin matarusan nin saray mampangrenge' ket saya nin paka'kitan nin paninintinsya na nin Dios konran saray kai nin namper, ambo' nin konran saray mamper. Anamaet, say nipatanda' nan Dios sa irgon matarusan ra ket makapaabig konran saray mamper, ambo' nin konran saray kai nin mamper.
+46015004	Ket, nitabon ya, ket sa ikatlon awro, pinasubli' yan mabyay nin maitukoy sa nipaisurat nan Dios.
+46015005	Ket, pina'kit ya kona ni Pedro, mi'sa konran labinrwa a napili' na.
+46015006	Kaaram, pina'kit ya et konran nididinep nin masurok a limanyasot a tumutumbok kona a ka'bawan konra ket mabyay et anggan sawanin; saray raruma bale' ket nati sarayna.
+46015007	Kaaram, pina'kit ya anamaet kona ni Santiago, mi'sa konran sarba ran apostoles
+46015008	tan sangkasuyutan sa sarba, pina'kit ya kongko a bara'mo ako nin naiyanak sa panaon a kai ana nin man'ilalwan.
+46015033	Andi' kamo nin palingo konran saray mampangipa'ka' nin wanin, ta tutuo a “Say kikala-kalamo' sa tutawon duka' ket manida' nin mabistan pitatawo.”
+46015034	Papalawayen moyo a pangingisip moyo tan itgen moyoynay pagkakasalanan moyo. Manepeg a pading'eyan katamo nin wanti ta main et nin tutawodsen komoyo a kai raya gapo nin katanda' a Dios.
+46015056	Anta, say nangibwatan nin pakagawa' nan manida' nin patiti ket say pagkakasalanan tamo, ket say mami nin pakagawa' nin sayti sa patiti ket say Gugan-gan.
+46015057	Bale' kisalamat atamo konan Dios bana' ta man'ibi na kontamo a pakayadi' nin madaeg tamoy kasalanan tan patiti bana' sa ginwa' na ni Uunuren tamon Jesu-Cristo.
+46016023		Rumate' kumon komoyo nga'min a bindisyon na ni Uunuren tamon Jesus.
+46016024		Mabli kamo nga'min kongko bana' sa nikaipasaya tamo konan Cristo a si Jesus.
+47001001	Si'ko si Pablo a sa karabayan nan Dios ket tinudo' nakon apostol nan Cristo a si Jesus. Iti yan kalamo' ko si Timoteo a busat tamo sa pammemper. Ipa'wit miyaytin surat komoyon iti sa dupong ran tutawo nan Dios isen sa Corinto tan konra et nin sarba ran raruman tutawo nan Dios isen sa intiron prubinsyan Acaya.
+47002012	Sawanin, sin nako ako sa babalin Troas, aburido akon tuloy ta kai koya nin narate' itaw si busat tamon Tito a syay mangawit nin bale' moyo konan surat ko. Ket mataman nin binyan nakon Dios nin alakin pagkanawanawa nin ipatanda' koyadtaw a Mabistan Patanda' nin maipa'ka' kona ni Cristo, pinatanid ako konran bubsat itaw tan tinmaros akodti sa Macedonia ta pigaw nin ki'kitan ako kona.
+47002013	
+47006017	Kanya' nin wana et nin Dios, “Lakwanan moyo saray kai nin tumumbok kongko tan matkap a maiduma kamo konra. Andi' kamo nin kibiang sa kadukaan. Ket si'kon diri nin si Dios, akuen katamo
+47008010	Ket sayti a maibarita' ko komoyo: Ituloy moyo tan ila'pos moyoyna in say pangungulikta moyo nin tulong a nitarana' moyo sin taon et. Maabig in para komoyo ta si'kamoy sangkau'nawan nin nangulikta, tan ambo' in tamo', si'kamo et a main nin nakem sa sain nin gawa'. No pa'noy sulit moyo nin nangitarana' wanin anamaet kumon a sulit moyo nin mangila'pos. Mami kamo sigon sa mababaan moyo
+47008011	
+47009007	Mami kumon a barang saya sigon sa no umnoy naitalaga nan ibi, nin maruros a nakem na tan kai ya nin napasu-pasuet, bana' ta pablyen nayan Dios a tawo nin siririket nin mami.
+47009008	Magwa' nan Dios nin byan nakamo nin masurok dyan say matkap moyo. Ket masadag nin pirmi a sarban main moyo ta pigaw nin makapami kamon malaem para sa sarban mabistan gagara.
+47009009	Bilang mabasa tamo sa Masanton Kasuratan, wanti a wana maipa'ka' konran wanin a tutawo: “Mapanudol ya konran mumaidap, Say gawa'-gawa' na nin panginginga'do na, ket tumuluy-tuloy nin kasan anggawan.”
+47009010	Ket si Dios pagkamainen nasara nin bini' a magtatalon ta pigaw nin main nin kanen. Sya byan nakamo anamaet nin malaem nin ipanulong moyo sa raruma nin tawo nin bilang bini' moyo. Syan lamang a mamaka'baw ta pigaw nin abaw a yataben sa mabista nin gugawa' moyo konran raruma nin tawo.
+47010018	Anaod, ambo' nin saray mipata'gay a akuen na nin Catawan a si Dios nin tutuon trabahador na, no kai saraytaw saray ipata'gay na.
+47011030	Si Dios tan Ama na ni Uunuren a Jesus, a sya a raywen anggan-angga, tanda' na a sa sain nin man'ibarita' ko ket kai ako nin mampibula'-bula'. Kai ko nin rabay a mirayo, bale' no kapilitan, mirayo ako maipa'ka' bale' sa dinalan-dalanan ko nin mangipa'kit a kasa nin mababa' ko.
+47011031	
+47013002	Sin pirwa ko nin nakodsen komoyo, pinau-pau'nawan kosarayna in saray man-gumwa-gumwa' nin duka' tan si'numan et nin nagkasalanan, a no kai ra nin gurutan ana in say duka' a pigagawa' ra, pakanda' sara li' no sumubli' ako. Sawanin, mintras nin kasa akodsen et, ibarita' ko in anamanaet konra tan sa sarba moyo. No rumate' akodsen li', dusawen ta dusawen kosara no kai sara et nin nagbabawi'.
+47013003	Ket sain li' nin gaw'en ko, sain a pammatutuo nin mantikapen moyo a mampag'irgo ya si Cristo nin iti kongko. Patutu'wan na in ni Cristo ta makapangyayadi' ya sa byay moyo ta ambo' nin kasan pakababa' na nin gaw'en a manepeg maipa'ka' komoyo.
+47013004	Page', naipasak yan mati sa kudos si Cristo bana' ta bara'mon makapoy ya. Wanin man anaod, bana' sa pakayadi' nan Dios ket mangkabyay yayna sawanin! Si'kami anamaet nin lamang, ta naipasaya kami kona ni Cristo, ket makapoy kami maipa'ka' komoyo. Wanin man, mangkirama' kami anamaet sa pakayadi' nan Dios nin iti sa byay na ni Cristo, ket usaren mi a maibagay komoyo.
+47013013	Rumate' kumon komoyo nga'min a bindisyon na ni Uunuren tamon si Jesu-Cristo, say pangangado' nan Dios, tan a mauksoy a pikakalamo' moyo mangibwat sa piikap na komoyo nin Ispirito na.
+48001001	Si'ko si Pablo a apostol na ni Jesu-Cristo. Ambo' nin tawo a namili' kongko o namag'in kongko nin apostol no kai si Jesu-Cristo tan si Dios Ama a syay namasubli' nin mabyay kona.
+48003011	Edet, mapala-palaway a kasa nin si'numan nin mapapteg sa pangingikit nan Dios bana' sa panunumbok nin Gugan-gan ta wanan mabasa tamo sa Masanton Kasuratan: “Si tawo a naipatukdo' sa pagmamatalek na konan Dios ket mapapteg naya, magkabyay ya nin iti ana konan Dios.”
+48003012	Bale' say panunukid nin Gugan-gan, kasan kabiangan sa pagmamatalek ta wanin a mabasa tamo sa Masanton Kasuratan. Wana, “Si mangwa' nin kasa gapo nin kurang nin sarban ipagwa' nin Gugan-gan, mabyay ya nin iti konan Dios nin nipatukdo' sa gawa' na.”
+48003014	Simbot nakami nin Cristo ta pigaw nin say bindisyon a nipangako' nan Dios kona ni Abraham ket rumate' anamaet konran ambo' nin Judio mangibwat konan anak nan si Cristo a Jesus, tan ta pigaw nin si'tamon mammemper, bana' sa pagmamatalek tamo ket risibyen tamoyay Ispirito nan Dios nin nipangako' na.
+48003018	No marisibi tamo a rabay nan Dios nin ibi kontamo bana' ta mantukiden tamoy Gugan-gan, ambo' edet nin bana' ta nipangako' na. Bale', kona ni Abraham, bana' ta nipangako' nan Dios a bindisyon kanya' nin nibi na kona.
+48004002	Wanin ta matkap yan tumulok konran mangngasikaso kona tan sa kamamain na anggan marate' a panaon a nitanda' nan ama na nin pangrisibi nan tawir na.
+48004003	Wanin anamaet kontamon mammemper, sin bara'mo atamo et nin a'nak a sain ket sin saytaw sin ba'yo tamo nin naamingaw a peteg nin katutu'wan, nag'in atamo anamaet nin bara'mon aripen nin ambo' nin kuston uakay iti sa sangkamundwan ta tinumbu-tumbok tamo.
+48004004	Bale' sin narate' a kuston panaon, si Dios, nibaki' nayadti sa luta' a dirin Anak na. Sitin Anak na ket nag'in ya nin tawo nin main nin tawon ina na tan nagkabyay yan iti sa sirong nin Gugan-gan nin mantumbuken ran Judio,
+48004005	ta pigaw nin si'kamin iti sa sirong nin sain nin Gugan-gan, ket galten nakami sa pakauray nin sain tan ta pigaw nin si'kami ket gaw'en nakami nin Dios nin a'nak na.
+48004006	Ket bana' ta si'kamo ket a'nak nakamon Dios, si Dios nibaki' nayan miikap kontamo a Ispirito na nin iti konan Anak na. Si Ispirito na, syay maninreg kontamo nin tumawag konan Dios nin “Tatay!” 7Ket sawanin, ambo' kamoyna nin aripen no kai edet, a'nak nakamoyna nin Dios. Anamaet, bana' ta a'nak nakamo, ibi na nga'min komoyo nin Dios a main na para konran a'nak na
+48004007	Ket sawanin, ambo' kamoyna nin aripen no kai edet, a'nak nakamoyna nin Dios. Anamaet, bana' ta a'nak nakamo, ibi na nga'min komoyo nin Dios a main na para konran a'nak na.
+48004024	Sitin tutuon isturya nin maipa'ka' konran rway a'nak na ni Abraham, main nin ipatarusan nan sayay maalagan katutu'wan. Sarain saray rway bubbayi, i'deng ray rway pakitarato nan Dios sa tutawo. Si saya ket si pakitarato nan Dios nin ginwa' nadtaw sa Talugtog nin Sinai sin nibi nay Gugan-gan nan matkap nin tukiden. Kanya' nin si Agar i'deng nayay Talugtog nin Sinai a itaw sa Arabia tan iritrato nayan lamang a si sawanin a syudad nin Jerusalem bana' ta saray mampiikap itaw tan sarba ra nin tutawon Judio ket bara'mo saran aripen sa panunukid ran sain nin Gugan-gan.
+48004025	
+48005003	Ibarita' ko anamanaet a si si'numan a umaburoy nin maturi', kapilitan nin tukiden na a intiron Gugan-gan.
+48005004	Sarain saray mampanumog a mapapteg sara sa pangingikit nan Dios yupa' sa panunukid ran Gugan-gan, inanggawan raynay nikaipasaya ra kona ni Cristo. Linakwanan raynay kamaungan nan Dios konra.
+48005005	Sarain saray mampanumog a mapapteg sara sa pangingikit nan Dios yupa' sa panunukid ran Gugan-gan, inanggawan raynay nikaipasaya ra kona ni Cristo. Linakwanan raynay kamaungan nan Dios konra.
+48005006	Ket no naipasaya atamoyna konan Cristo a si Jesus, kai nayna nin tikapen nin Dios a turi' atamo o kai. Say matkap tamo' ket magmatalek atamo konan Cristo nin maipa'kit tamo sa pangangado' konran kapada tamon tawo.
+48005017	Anaod, say kaririktan nin lalaman tamon diri ket swawi' sa apes nan Ispirito nan Dios, tan say apes nan Ispirito na ket swawi' sa kaririktan nin lalaman tamon diri. Saytin rwa ket mikuntra a say rabay nin irgwen, bana' ta si Ispirito nan Dios ket syay mampangipalalako nin byay tamo, edet kai tamo nin magwa' a rabay nin lalaman tamon diri tamo'. 
+48005018	Ket no iti kamo sa pangangantabay nan Ispirito nan Dios, kasa kamoyna sa sirong nin pakauray nin Gugan-gan.
+48006011	Konan siti anan parti nan surat, si'ko nin si Pablo anan mismo a mampanurat. Ma'kit moyon inalalaki koy surat ko.
+48006012	Sarain saray mampamasuet komoyo nin paturi', apes ra a mag'in nin maong sa pangingikit ran tutawo. Man-gaw'en ra in sa tana a makapal'is sara sa pakapadya'dya' bana' ta padya'dyaen rasara nin kapada ran Judio no iyakay ray kaalagawan nin patiti na ni Cristo sa kudos.
+48006013	Mataman nin sarain saray nipaturi' nin sigon sa Gugan-gan, kai ran lamang nin mantukiden in nin Gugan-gan. Rabay ra tamo' nin paturi' kamo ta pigaw nin maiparayo ra nin na'wit rakamo.
+48006014	Bale' si'ko, kai ako nin mipara-parayo sa wanin. Say kal-la nin maiparayo kon ibari-barita' ket say pipa'kaan nin patiti na ni Uunuren tamon Jesu-Cristo sa kudos ta sa patiti na ni Cristo sa kudos, nati anan na'teng a pangangapes ko sa makaayat a bubagay iti sa mundo, tan nati ana anamaet nin na'teng a pangangayat nin sain nin bubagay kongko.
+48006015	Ambo' nin maalaga no naturi' yay sayay tawo o kai; say maalaga ket say maparsa nayan uman nin Dios, a say pitatawo nan tawo ket masilyan.
+48006016	Sarba ran saray magkabyay sa sain nin akay, byan nasara kumon nin katinekan tan ka'dwan nasara kumon nin Dios. Wanin anamaet kumon konran sarba ran tutawo nan Dios.
+48006017	Wanti tana. Ket mangibwat sawanin, kasayna kumon nin si'numan nin mangulo, bana' ta say bigat sa lalaman ko nin mangibwat sa pammadya'dya' a nirangep ko bana' sa katutulok ko kona ni Cristo ket ipa'kit a aripen nako.
+48006018	Sapa kumon, bubsat, ta rumate' komoyo nga'min a bindisyon na ni Uunuren tamon Jesu-Cristo. Peteg a wanin kumon.
+49001001	Si'ko si Pablo a sa karabayan nan Dios ket tinudo' nakon apostol nan Cristo a si Jesus. Surat koyayti komoyo nin tutawo nan Dios isen sa syudad nin Efeso nin mandumaer nin naipasaya konan Cristo a si Jesus.
+49004009	Ket si wanan inmarwas yan nako sa langit, say rabay nan irgwen, nanaoy yayna yapo' nin nako sa rarem nin luta'.
+49004010	Sitaw si nanaoy sa rarem nin luta', syaytaw lamang si nuli' anamanaet sa sangkata'gayan nin langit. Ginwa' na in ta pigaw nin pasibuluten nay sarba.
+49004011	Ket sya, mampayaburan natamo. Main saray pinayaburan na nin mag'in nin ibabaki' na, main nin mag'in nin mangingilalaman kona, main nin mag'in nin mangingipatanda' konan Mabistan Patanda' sa nagsikabarang a lugar, tan main nin mag'in nin mammaga tan mangangakay konran mammemper.
+49005011	Anaet, andi' kamo nin kiranod sa kasan sirbin gawa'-gawa' ran mampag'urayan nin dedlem ta makapading'ey nin tuloy, ni irgwen tana a man-gaw'e-gaw'en ra sa adi, no kai edet, si'kamon bilang palaway, palawayan moyoy duka' a gawa'-gawa' ra.
+49005012	
+49005019	ket paksawen moyoy nakem nin saya tan saya yupa' sa susarita' a mangibwat sa Kukanta, sa uimno tan raruma et nin kukansyon a pangrarayo konan Dios; raywen moyay Catawan sa kanta tan tugtog a mangibwat sa kanakman moyo;
+49005020	naipatukdo' sa nikaipasaya moyo konan Catawan tamon Jesu-Cristo, kisalamatan moya et sa sarban mangyadi' a Dios a syay Ama tamo;
+49005021	paisirong kamo et sa saya tan saya bana' sa pangungunor moyo kona ni Cristo.
+49006021	No maipa'ka' kongkodti, si Tiquico ana li' a mangibarita' komoyo sa kapapa'sar tan man-gaw'e-gaw'en ko. Sya, busat tamoya sa pammemper nin mabli komi tan saya yan mailalwan sa pangwa' na nin man'ipagwa' nan Uunuren tamo kona.
+49006022	Kanya' nin ibaki' koyadsen komoyo ta pigaw nin mangibwat kona, matandaan moyoy kapapa'sar mi tan ta pigaw nin mapaksaw na a nakem moyo.
+49006023	Sapa kumon ta si Dios a syay Ama tamo tan si Uunuren a Jesu-Cristo, byan rakamo, bubsat, nin mabistan kapapa'sar tan pa'geten ra a pilalabyan moyo nin main nin ma'get nin pagmamatalek konra.
+49006024	Sapa kumon ta ituluy-tuloy nakamon bindisyunan nin Dios, si'kamon sarba nin mampangawa'nan kona ni Uunuren tamon Jesu-Cristo nin mapangawa'nan a kasan anggawan.
+50001001	Si'ko si Pablo tan si Timoteo, si'kamin rwa ket aripen nakami nin Cristo a si Jesus. Ipa'wit miyaytin surat ko komoyodsen nin tutawo nan Dios sa Filipos a naipasaya konan Cristo a si Jesus tan lalun-laloyna konran saray mammaga komoyo tan saray kukatulungan ra.
+50003005	Tinuri' ako sin ikawalon awro ana nangibwat sin naiyanak ako sigon sa ipagwa' nin Gugan-gan. Puro akon Israelita. Puri nako ni Benjamin. Ugali' ran Hebreo nga'min a sarban naimatawan ko. No maipa'ka' sa panunumbok sa Gugan-gan, Pariseo ako ket ginwa' ko nga'min a sarban ipagwa'.
+50003006	Ket sa suet ko, ginwa' koy anggawan nin mababa' ko angga et sa dinuksa-duksa' kosaray pinipapasaya nan Dios konan Cristo. No say pag'irgwan ket say pag'in nin mapteg nin ipatukdo' sa Gugan-gan, kasan pakabalawan ko nin animan.
+50004005	Ipaingar moyoy kabistawan nin ugali' moyo sa sarban tawo bana' ta sa ambo' ana nin ma'teng ket sumubli' yayna si Uunuren tamon Cristo.
+50004006	Andi' kamo gapo nin aburido maipa'ka' sa animan. No kai edet, idasal moyon dawaten nin napaaluyunan nin pakikisalamat konan Dios a sarban matkap moyo.
+50004007	Ket no gaw'en moyo in, si Dios, pamainen nay katinekan sa kabibyay moyo a kai gapo nin masukat nin kaisipan nin tawo. No wanin anaod, masustini na in a katinekan nin kanakman moyo bana' sa nikaipasaya moyo konan Cristo a si Jesus.
+50004009	Ibyay moyo a naadal moyo sa kabibyay ko, say naimatunan tan say narnge' moyo kongko. Ket no gaw'en moyo in, si Dios a syay puon nin p
+50004021	Iparate' moyoy pammakumusta ko konran sarba ran tutawo nadsen nin Dios bana' ta nipatukdo' ra a byay ra konan Cristo a si Jesus. Wanin anamaet sa pammakumusta ran bubsat sa pammemper nin kalalamo' kodti.
+50004022	Mampakumustawen rakamo anamaet nin sarba ran tutawo nan Dios iti, lalun-lalo saray mampagsirbi konan Impirador.
+50004023	Rumate' kumon komoyo nga'min a bindisyon na ni Uunuren a si Jesu-Cristo.
+51001001	Si'ko si Pablo a sa karabayan nan Dios ket tinudo' nakon apostol nan Cristo a si Jesus. Iti yan kalamo' ko si Timoteo nin busat tamo sa pammemper.
+51003006	Andi' moyo nin gaw'en a wanin ta talagan sa sager nan Dios, dusawen nasara li' a tutawon kai nin tinmulok kona ket ginwa' ra in.
+51003007	Si'kamo, gindat ket wanin anamaet a nipagkabyay moyo, a say pigagawa' moyo ket duka'.
+51003008	Sawanin anaod edet, gurutan moyoynay sarban duka' a gawa'-gawa' bilang sa pananager, pangungura' moyo sa kapada moyon tawo, paninida' nin kapadan tawo, pag'iirgon mabyat sa kapadan tawo tan pag'iirgon duka'.
+51003009	9Andi' kamo nin mibula'-bula' sa saya tan saya. Wanin ta ginlat moyoynaytaw say gindat nin duka' a pitatawo moyo tan say mangibwat kona nin duka' nin gawa'-gawa',
+51003010	tan sawanin nagkamain kamoyna nin pitatawon matunong. Si Dios, inuman nay nikatawo moyo ket man-gaw'en na nin mag'in kamon kapada na ket no wanin, peteg moyon matandaan no si'no ya.
+51003011	Ket bana' sa wanin a man-gaw'en nan Dios, kasaynan pangipurukan no Judio ya man a sayay tawo o ambo'; naturi' ya man o kai; di-adal ya man o kai; tawon tatalon ya man o atap yan tawo; aripen man o amo. No kai edet, si Cristo, syaynaod a sangkaimpurtantiwan sa sarba tan syay pakaipurukan kontamon sarba nga'min.
+51004018	Si'kon mismo nin si Pablo a nanurat konan siti: Kumusta kamoynadsen nga'min? Andi' moyo nin lingwanan a mangkapriso ako. Sapa kumon ta si Dios bindisyunan nakamo.
+52001001	Si'koyti si Pablo, ket kalalamo' kosara si Silas tan si Timoteo. Ipa'wit miyaytin surat komoyon isen sa dupong ran mammemper kona ni Cristo a mampididinep isen sa Tesalonica nin iti konan Dios a Ama tan kona ni Uunuren a Jesu-Cristo. Sapa kumon ta lawas a bindisyunan tan byan rakamon mabistan kapapa'sar.
+52005025	Idasalan rakami anamaet, man'aduen kon bubsat.
+52005026	Iparate' moyoy ma'mot a pammakumusta ko konran sarba ran bubsat sa pammemper isen.
+52005027	Bana' sa pakayadi' a nibi na kongko nin Uunuren, igan-gan ko komoyo a basawen moyaytin surat sa adapan ran sarba ran bubsat sa pammemper isen.
+52005028	Rumate' kumon komoyo nga'min isen a bindisyon na ni Uunuren tamon Jesu-Cristo.
+53001001	Si'koyti si Pablo, ket kalalamo' kosara si Silas tan si Timoteo.
+53003017	Si'kon mismo nin si Pablo a nanurat konan siti: Kumusta kamoynadsen nga'min? Wanin a man-gaw'en ko sa sarban surat ko, wanin akon sumurat.
+53003018	Rumate' kumon komoyo nga'min a bindisyon na ni Uunuren tamon Jesu-Cristo.
+54001001	Si'ko si Pablo a sayay apostol nan si Cristo a si Jesus. Tinudo' rako nin Dios a Mangingisalba tamo tan ni Cristo a sya a gumwa' nin mangyadi' a sarban mantaga'nan tamo.
+54001010	saray kiraray sa ambo' ran asawa, saray kirilasyon nin sikswal konran kapada ran lulalaki o kapada ran bubbayi, saray pwirsawen rasaran kalapen a kapada ran tawo, saray mabula', saray magtistigos nin mibula'-bula', tan saray raruma et nin mansumubag sa akay maipa'ka' sa kabistawan.
+54001011	Sain nin akay ket madumog konan si Sangkabistawan nin Patanda' a kongko ket nipya nayayti nin Dios a sya, iti a pagkakumplito kona.
+54001016	Bale' mataman nin wanin, ta pigaw nin maipa'kit na ni Jesu-Cristo a sangkaalakyan nin pammasinsya na, ininganga'do nako nin Dios a sangkadukaan nin tawo. Ginwa' nako nin sayay alimbawa' para konran saray magmatalek li' kona ket maga'muran ray anggan-angga nin byay a iti konan Dios.
+54001017	Anaod, si Dios, syan bukod a Dios. Adi' ya anggan-angga. Kasa nin patiti na! Kai ya nin ma'kit. Ket pagalangan tan itandudo' yay ngaran na anggan-angga!
+54003002	Ket bana' ta maalaga ya in a trabaho, si sayay mammaga ran mammemper, matkap a kasa gapo nin gawa' na a maitudo' nin abas. Matkap a sayan-saya tamo' a asawa na. Matkap a igagalang ya, maong yan mangisip tan mapagdangka' ya sa lalaman nan diri. Matkap a mapanan'ili ya tan matkap a maong ya nin mangyakay.
+54003003	Matkap a andi' ya nin mabubok, tan ambo' nin ma'mot a ulo na tan kai ya nin kiaway-away no kai mapamasinsya ya tan matkap a ambo' ya nin rupan kwarta.
+54003004	Maipa'ka' anamaet sa pammali na, matkap a mababa' naya nin ipalalako nin mabista. Saray a'nak na, matulok sara tan man'igalang rayan kusto.
+54003005	Matkap nin wanin ta mapagawan naya kasi nin sayay tawo a dupong a ikon nan Dios no si pammali nan diri ket kai naya nin mababa' nin ipalalako nin mabista?
+54003006	Matkap a ambo' ya et tamo' nin ba'yu-ba'yo nin mammemper ta bangli' no umata'gay nin tuloy a pangingikit na sa lalaman nan diri, ket masintinsyawan ya nin madusa nin bilang konan Dimunyo.
+54003007	Wanin et anamaet, matkap nin ata'gay a rispito ra kona nin saray ambo' nin mammemper ta no ambo' nin wanin, balawen raya ket konan siin nala'wan nayaynan Dimunyo.
+55001001	Si'ko si Pablo a sa karabayan nan Dios ket tinudo' nakon apostol nan Cristo a si Jesus. Nibaki' nako nin ipatanda' koy maipa'ka' sa byay a nipangako' nan maga'muran tamo bana' ta naipasaya atamo konan Cristo a si Jesus.
+56001001	Si'ko si Pablo, aripen nako nin Dios tan apostol nako ni Jesu-Cristo. Nibaki' nakon Dios ta pigaw nin keen ko nin pa'geten a pagmamatalek ran saray pinili' nan mag'in nin tutawo nan diri, tan ta pigaw nin ipatandaan ko konra a katutu'wan nin maipa'ka' kona, nin mangipa'kit konra no pa'noy magkabyay nin maikana' konan Dios.
+56001002	Ket say bunga nin sain ket si masigurado ra anaod a mabyay sara anggan-angga nin iti konan Dios a nipangako' nayna nin gindat ba'yo naya et nin pinarsa a mundo. Anaod, kai ya gapo nin mibula'-bula'
+56001003	kanya' nin sa kuston panaon a nitalaga na, pinangibwat na a matandaan yay Mabistan Patanda' na. Sawanin si Dios a syay Mangingisalba tamo, nigan-gan na a ipatanda' koyaytin Mabistan Patanda' na a siti nipya nan gaw'en ko.
+56001006	Ket say bunga nin sain ket si masigurado ra anaod a mabyay sara anggan-angga nin iti konan Dios a nipangako' nayna nin gindat ba'yo naya et nin pinarsa a mundo. Anaod, kai ya gapo nin mibula'-bula'
+56001007	Anaod, matkap a kasa gapo nin gawa' nan si sayay mammaga ran mammemper a maitudo' nin abas bana' ta sya a nangipyawan nin say pammaga konran saray tutawo nan Dios. Matkap et a ambo' yan marangas tan ambo' yan maisasager tan ambo' yan mabubok. Matkap a ambo' yan abusado tan ambo' yan maapes sa kwarta.
+56001008	Ana edet, matkap a mapanan'ili ya, kaririktan nay mabistan pigagawa', pirmi nin kusto a pangingisip na, matunong ya, maringgas a pinanakem na, tan mapukpukan nay lalaman nan diri.
+56001009	Matkap anamaet nin mapa'get a pangangakay na nin si tutuon minsahi nin mapagmatalkan a nangibwat konan Dios. Matkap nin wanin bana' ta sa pangangakay nan saytin tutuon akay ket mapa'get nay pammemper ran kapada nan mammemper tan maipa'kit na a saray mangkumuntra sa katutu'wan ket iti sara sa abas.
+57001001	Komo, Filemon, a mampablyen min peteg nin amigo tan katrabahwan. Si Pablo ako a mangkapriso bana' sa katutulok ko konan Cristo a si Jesus. Iti ya sawanin si Timoteo a busat tamo sa pammemper sin mansuraten koyayti komo, busat a Filemon,
+57001008	Ket bana' anaod ta wanin a pangangawa'nan mo konran tutawo nan Dios, main pa nin dawaten ko komo. Magwa' ko kumon nin igan-gan a gaw'en mo no ani a manepeg bana' sa kapangyadian a nibi na anaod kongko ni Cristo, bale' wanin man, dawaten koy inganga'do komo. Si'ko, si Pablo a sayay masiken ana tan mangkapriso bana' sa katutulok ko konan Cristo a si Jesus,
+57001009	
+57001020	Anaod, busat, pagustwan mo in pa nin dawat ko komo alang-alang sa pibsatan ta kona nin Uunuren. Paksawen mo pay nakem ko ta mibsat ata kona ni Cristo.
+57001025	Rumate' kumon komoyo nga'min a bindisyon na ni Uunuren a si Jesu-Cristo.
+58001006	Anaod, sin panaon anamaet nin nibaki' nayadti sa luta' a sya mansabtan yan Kaka , wanan Dios, “Matkap a raywen raya nin sarba ran uanghil ko.”
+58001007	Ibarita' na nin Dios maipa'ka' konran uanghil na a wana, “Ibabaki' kosara ket magwa' kosaran ibaki' sa naduma-duman padalan bilang wadi', siri o apoy sara.”
+58001008	Bale' maipa'ka' konan Anak na, wanan Dios, “O Dios, mag'adi' kan kasan anggawan tan say pag'uuray mo ket matu'rir.
+58001010	Wana et nin Dios, “Si'ka, Uunuren, pinarsa may mundo sin tarana' tan mataman nin say langit ket gawa' nin gamet mo.
+58001013	Kasa gapon lamang ni saya nin anghil a namaritaan nan Dios nin sayti e a nibarita' na konan Anak na: “Tumekre' kadti sa pawanan ko leg'an a sarba ran kuntra komo ket, pasukuen kosaran liso sa adapan mo.”
+58002013	Wana et anamaet, “Si'ko, mampagmatalek ako konan Dios.” Wana et, “Iti kami nin saray a'nak nan Dios a nipya na kongko.”
+58003012	Bubsat, pakanda' kamo a kasadsen komoyo nin duka' a pinanakem nan kai mamper ket bana' sa sain, gurutan nayay Dios a sibibyay.
+58003013	Anaod, mintras a main et nin panaon, lawas tamon paksawen a nakem nin saya tan saya ta pigaw nin kasa ni saya kumon a matib'ey a ulo na nin kisyay ya bana' ta naitawtaw ya nin sain say ambo' nin matunong sa pangingikit nan Dios.
+58003014	O' a ta kirama' atamo sa sarba nin iti kona ni Cristo dapot no dumaer atamo sa say nakaipatukduan nin puon nin pangingilalo tamo kona.
+58003015	Matkap tamo a dumaer leleg nin maibarita' na et nin Ispirito nan Dios a, “Sawanin ana, reng'en moyoy wanan Dios! Andi' nin matib'ey a ulo moyo nin bilang konran pupuon moyo a kinuntra rako.”
+58004004	Tanda' tamo a naisadya' in ta main nin mabasa tamo sa Masanton Kasuratan maipa'ka' konan ikapiton awro a wana, “Sin ikapiton awro, si Dios, pinainawa ya bana' ta nayadi' nayna a gawa' na.”
+58004005	Umanen koyay nibarita' nan Dios a wana, “Kai sara gapo nin kirama' sa pakapainawa nin nisadya' ko.
+58005006	Wana et nin Dios a mabasan lamang sa Masanton Kasuratan, “Si'ka, magnayon ka nin padi' anggan-angga a say nikapadi' mo ket kapadan nikapadi' na ni Melquisedec .”
+58006015	Edet, si Abraham, pinasyan anos nan tinma'gan ket naga'muran nay nipangako' na nin Dios.
+58007005	Anaod, sin saytaw, nigan-gan saray pupadi' nin Judio a puri na ni Levi sa Gugan-gan a naibi kona ni Moises, a nangalap sara nin kakapulo' nin sarban kayamanan ran sarba ran kapada ran Judio. Kinalapan rasara mataman no kapada rasara nin puri na anamaet a lamang ni Abraham.
+58007006	Bale' si Melquisedec, kuntra konra, ambo' naya nin puri ni Levi. Wanin man, nami ya kona si Abraham nin kakapulo'. Ket anamaet, si Melquisedec, binindisyunan naya a tawon dirin nagpangakuan naya anaod nin Dios, si Abraham.
+58007007	Tanda' bale' nin ka'bawan a si mamindisyon ket mas ata'gay ya dyan si bindisyunan na.
+58007008	Siti et e, saraytaw saray pupadi' nin pupuri na ni Levi, nangalap saran kakapulo' ket nati saran lamang, bale' si Melquisedec, sa naibarita' maipa'ka' kona a mabasa sa Masanton Kasuratan, mabyay ya et.
+58007009	Anaet, si Levi, syay puon ra nin sarba ran pupadi' nin Judio a nangalap nin kakapulo'. Bale' sin nami yan kakapulo' si Abraham kona ni Melquisedec, maibarita' anan lamang a nami ya anamaet si Levi kona ni Melquisedec.
+58007010	Maibarita' tamo nin wanin bana' ta, sin nami yan kakapulo' si Abraham kona ni Melquisedec, naisakop nayayna si Levi bana' ta puri naya ni Abraham, mataman nin kai ya et nin naiyanak sin saytaw si Levi.
+58007018	Anaod, ginlat ana a panumbukan sa nikapadi' ran puri na ni Levi bana' ta kai nin maiyarak a tutawo konan Dios. Kasan kaalagawan
+58007019	bana' ta kai atamo mapag'in nin mapteg sa pangingikit nan Dios. Ket bana' ta wanin, si Dios, nangikwa yan sakalakon klasi nin nikapadi' ket mas main nin ilalo tamo ta, konan siin nin klasin nikapadi', magwa' tamoynay umarak sa adapan nan Dios.
+58007022	Kanya' nin anggan sa sain nin punto ket ginwa' naya si Jesus nin syay mampiga'get konan sitin ba'yon nitarato na a mabista nin adayo' dyan si gindat.
+58008002	Itaw ket man-gaw'en na a nikapadi' na sa peteg nin Pangraywan itaw sa langit a ambo' nin tawo a nangipa'deng no kai si Dios.
+58008013	Sa wanin a wana nin Dios a mangwa' yan ba'yon itarato na, ma'kit a si u'na, kasaynan kausaran na; anaod, si animan a ma'ran ana tan kasaynan kausaran, ket pauryan yayna.
+58009021	Winarsikan naya anamaet nin daya' a Abung-abong nin Piikapan nan Dios tan say sarba nin bubagay nin usaren sa pagsisirbi kona.
+58009022	Anaod, tanda' tamo mangibwat sa Gugan-gan a, dandani sarba, maringgasan nin pammaturo' nin daya'. Wanin anamaet a say kal-la padalan nin pakapirduna nin kukasalanan tamo nin tutawo ket say pammaturo' nin daya'.
+58010008	Tandaan moyo a wana ni Cristo, “Ambo' nin say duda'ton nin uayep, say da'ton nin trigo, say da'ton a pinuuran sa altar tan say daya' a nida'ton para sa kasalanan a tikapen mo; ambo' in a makapaririket komo.” Nibarita' nay wanin mataman no sain ket nipagwa' nin Gugan-gan.
+58010009	Ket nipasunor na nin nibarita', “Edet, iti ako ta pigaw nin gaw'en ko a karabayan mo.” Edet, nangibwat sa karabayan nan Dios, naglat yaynay u'nan nitarato na ket magkuri yaynay ikarwa.
+58010010	Nangibwat anamaet sa karabayan na nin Dios ket rininggasan natamoyna sa kukasalanan tamo ni Cristo tan naitalaga natamoyna konan Dios, nangibwat sa ni'sa tamo' nin nipangida'ton na nin kadiryan na.
+58010017	Ket sumunor, “Pirdunawen koy nipanubag ra, tan kai koyna gapo nin isingir konra.”
+58010018	Edet, no say kukasalanan ket napirdunayna, kai ana matkap a mangiprisinta et nin da'ton para sa pakapirduna nin sayti.
+58010031	Anaod, makapasalak nin tuloy a dusa na konran saray mangwa' nin wanin kona nin Dios a sibibyay tan makapangyayadi' ya!
+58011003	Mangibwat sa pagmamatalek tamo, mataros tamo a si Dios, ginwa' nayay sangkamundwan nangibwat sa irgo na tamo'; edet, sarba nin ma'kit ket naparsa nangibwat sa kai nin ma'kit.
+58011004	Nangibwat sa pagmamatalek na, si Abel, nami ya konan Dios nin mas maikana' nin da'ton dyan say da'ton na ni kaka nan si Cain. Nangibwat sa sain nin pagmamatalek na ni Abel, inalilbi' nan Dios a matunong ya, a sayti ipa'kit nin nipangrisibi nan da'ton na ni Abel. Ket abirno nin nati yaynan na'teng si Abel, man'iyakay natamo et a lamang sa wanin nin pagmamatalek na.
+58011005	Nangibwat sa pagmamatalek na ni Enoc, inawit nayaynadtaw sa langit nin Dios ket kai ya nin nati. Main nin nibarita' nan Dios sa Masanton Kasuratan a kai ya nin nadumog si Enoc ta kinalap naya, bale' nu'na et konan siin ket pinatutu'wan nan Dios a napaririketan ya kona ni Enoc.
+58011006	Sawanin, si sayay tawo nin kasan pagmamatalek, kai naya nin mapaririket a Dios. Wanin ta si si'numan nin kumadani konan Dios matkap a mamper ya a main ya a Dios tan a si Dios, gun-gunawan nasaray masuet nin kumadani kona.
+58011007	Nangibwat sa pagmamatalek na, si Noe, timper nan main nin li'mo a pammatalad nan Dios a magkamain nin pinasyan kaalakyan nin layos. Abirno nin kai na et nin mangka'kit nin manlumayos sin saytaw, ginwa' nayay alakin baluto ta pigaw nin malibri saran mipamilya ket yupa' sa katutulok na bana' sa pagmamatalek na ni Noe, naipa'kit a kai ra nin nipamper nin raruma ket konan siin nirebreb sara; bale' sya, ginun-gunawan yan byay nin nikwintan mapteg ta main nin pagmamatalek na.
+58011008	Nangibwat sa pagmamatalek na, si Abraham, tinmulok ya sin nibaki' naya nin Dios itaw sa lugar a nipangako' na nin ibi kona. Nibwat yan nako si Abraham sa nangibakian nan Dios kona mataman no kai na nin tanda' no adti yaytaw nin lugar.
+58011009	Nangibwat a lamang sa pagmamatalek na, mataman no nipangako' ya anaod kona in nin lugar ket nagmantini yadtaw si Abraham nin bilang sayay san'ili tamo' nin niikap sa abung-abong. Wanin anamaet konan si anak nan si Isaac tan si apo nan si Jacob, a sara ket nagpangakuan na anamaet nin Dios.
+58011010	Nakaitpel yaynaod si Abraham nin wantaw bana' ta, si man'ilalwan na ket, say miikap yadtaw li' sa syudad nin magnayon anggan-angga, a si nangiplano tan nangwa' konan siin nin syudad ket si Dios.
+58011011	Nangibwat et a lamang sa pagmamatalek na ni Abraham, abirno nin nalabas anay siken na tan abirno nin si asawa na a si Sara ket baog ya, nabyan saran pakagawa' a nanganak sara et a lamang. Nangyadi' in ta kona ni Abraham ket mailalwan yay Dios nin nagpangako' kona.
+58011012	Ket mataman no kai yayna kumon nin makaanak si Abraham bana' ta masiken yaynan tuloy, syay puon ran namuyek-muyek nin tutawo a kapada ka'baw nin bituen tan kai nin mabilang a kapadan buyangin.
+58011013	Mampagmatalek sara et si Abraham tan saray pamilya na konan si nipangako' nan Dios konra anggan sin awron nati sara, mataman no kai ra et nin narisibi. Siririket saran tinma'gan leleg nin byay ra ta bara'mo raynayti nin mangkatamuraw ket inalilbi' ran san'ili tamo' a pa'sar ra sa siin nin lugar.
+58011014	O', saray tutawo nin mangalilbi' a san'ili saradti tamo' sa mundo, man'ipatnag ra a main et nin mantikapen ran lugar a pirmaninti ra li' nin piikapan.
+58011015	Sara si Abraham, no si pipanemtem ra kumon ket si lugar a ibwatan ra, magwa' a sinmubli' sara,
+58011016	bale' kai ta si man'apesen ra ket si lugar a mas mabista nin itaw sa langit. Kanya' nin si Dios, kai na gapo nin ikading'ey a sya ket tawagen rayan Dios ra. Anaod, nangisadya' ya nin syudad a piikapan ra.
+58011017	Nangibwat sa pagmamatalek na, sin sinubok nayan Dios, napasaya anay nakem na ni Abraham nin patyen nayan ida'ton konan Dios a kapagkapag nin anak nan si Isaac. Patyen naya kumon nin ida'ton kona abirno nin nipangako' naynan gindat nin Dios kona
+58011018	wana, “Saray mangibwat kona ni Isaac, sara tamo' a ikwintan puri mo.”
+58011019	Si Abraham, timper na a si Dios ket main nin pakayadi' nan pasublien saran mabyay a nunati. Ket kona ni Abraham, nati yaynaod si Isaac tan nisubli' naya nin mabyay nin Dios kona.
+58011020	Nangibwat a lamang sa pagmamatalek na, si Isaac, binindisyunan nasara a a'nak nan si Jacob tan si Esau maipa'ka' sa gaw'en nan Dios para konra sa adapen.
+58011021	Nangibwat sa pagmamatalek na, si Jacob, sin dandani yayna nin mati, nangrayo ya konan Dios nin nitayukod ya ket binindisyunan nasaray rway apo nan lulalaki nin a'nak na ni Jose.
+58011022	Nangibwat sa pagmamatalek na, si Jose, sin dandani yayna nin mati, nibarita' na konran kapada nan Israelita a rumate' li' a awro a makalakwan saradtaw sa Egipto, ket nibibilin nan i'ras ra li' a but'ol na.
+58011023	Nangibwat sa pagmamatalek ra, saray matua na ni Moises, kai sara nin linmi'mo nin sinmubag sa gan-gan nan adi' a patyen sara nga'min a lulalakin abing nin Hebreo. Ket niyadi raya si Moises sa luob nin tuloy bulan nangibwat sin niyabing ya bana' ta naimatunan ran naiduma ya nin anak.
+58011024	Nangibwat sa pagmamatalek na, si Moises, sin iti yaynan talaga sa idad, kai nayna inako' a alilbien ya et nin anak nan prinsisa a anak nan adi'.
+58011025	Pinili' nayna edet a nangirangep nin dya'dya' nin kalamo' ran saray tutawo nan Dios dyan si mabista a byay na sa anted tamo' nin panaon no pauryan nasaray tawo nan Dios.
+58011026	Para kona, mas alaki ana edet a pakinabang nin pangingirangep nin panunuya'-tuya' para konan Mesias a sya a ibaki' na li' nin Dios, dyan say maikon nay kayamanan nan Egipto. Anaod, nipatyo' nay kaisipan na sa tubale' na li' nin Dios kona.
+58011027	Nangibwat sa pagmamatalek na, linmakwan yadtaw sa Egipto si Moises, a kai ya nin mali'mo sa pinasyan sager nan adi'. Kai ya gapo nin tinmapo' abirno nin aninay idap no kai inagwantawan na bana' ta bara'mo nayan mangkiten-kiten nin kalamo' na a Dios a kai nin ma'kit.
+58011028	Nangibwat sa pagmamatalek na, si Moises, nigan-gan nan silibrawen ray pistan mantawagen nin Pista nin Nipanglabas tan ipunas ray daya' nin karniro sa purtan bubali ra. Gaw'en ra in ta pigaw nin no lumabas yay anghil nin nibaki' nan Dios nin mangmati konran kakan lalaki nin Egipcio, ket kai nasara patyen a Israelita.
+58011029	Nangibwat sa pagmamatalek ra, saray Israelita, nakadalan saradtaw sa mantawagen nin “Mu'dit nin Taaw” nin linmalako sa makrang a luta'. Bale' sin saray sundalo' nin taga Egipto nin mampangamat konra a nanari' nin dinmalan, sinakban saran pa'sar ringring nin ranom sa nipiknga' nin taaw.
+58011030	Nangibwat a lamang sa pagmamatalek ran Israelita, linmibed saran pitoy awro sa syudad nin Jerico ket mayadi' ra ginwa' in, nayba' a padil na. 
+58011031	Nangibwat sa pagmamatalek na, si Rahab a sayay pampam, kai ya nin pinati nin kalamo' ran saray taga Jerico nin suplado konan Dios. Ma'kit in a pagmamatalek na sin tinulungan nasara nin kapada sa amigo, saray nakodtaw nin nangispya a Israelita.
+58012007	Ket, mampangirangepen nakamo nin Dios nin pammatunong na komoyo bana' ta man'ikwinta nakamon a'nak na. Anaod, kasan anak a kai na nin iyakay nin ama na.
+58012008	No kai nakamo nin man'iyakay nin Dios a kapada sa man-gaw'en na sa barang anak na, say kapada moyo, a'nak sa rikor nin kai ra mantungtungen nin uama ra.
+58012009	Saya et, saray mangatua tamodti, no ipatunong ratamo ket kabilangan tamo sara. Mas matkap nin adayo' a ipaipatunong tamoy byay tamo konan si Ama tamo a namin peteg nin byay kontamo, ket maibyay tamoy byay na.
+58012010	O', ipatunong ratamon mumatua tamodti sa umnoy taon tamo' dipindi sa wanra a syay maabig bale' si Dios, ipatunong natamoynaod para sa kaabigan tamo nin say panganggawan ket makakirama' atamo sa kapapa'sar nan naiduma.
+58012027	Siin nin nibarita' na nin Dios, say rabay nin irgwen, pakasawen na li' a sarba nin ginwa' na a kai nin magnayon ta pigaw nin say mabati' tana ket say magnayon.
+58013001	Ket, ituluy-tuloy moyoy mikawa'nanan a mibubsat sa pammemper.
+58013002	Andi' moyo nin isiblet a manan'ili. Saray raruma a mapanan'ili sara ket nanan'ili sarayna nin uanghil nin kai ra nin naaraman.
+58013003	Andi' moyo sara nin pauryan a itaw sa priswan tan saray mangkaduksa-duksa' no kai kidamay kamo konra nin bilang nin isen kamon lamang sa wanin nin kapapa'sar.
+58013004	Matkap a kabilangan nin sarba a kasagradwan nin kasal. Saray mitraasawa, matkap a andi' ra nin sidaen a pikalamo' ran mitraasawa ta tanda' tamo a dusawen nasara li' nin Dios a kiraray sa ambo' ran asawa tan saray mamabayi o kilalaki.
+58013005	Andi' kamo nin rupan kwarta. Mapda' kamoyna sa no ani a main moyo bana' ta wanan mismo nin Dios, “Kai kata gapo nin pauryan tan kai kata gapo nin lakwanan.”
+58013006	Ket ta wanin, bubsat, kai atamo mag'alangan nin mamarita' a wantamo, “Si Dios a mantumulong kongko ket, kai ako nin mali'mo sa magwa' nin gaw'en kongko nin tawo tamo'.”
+58013007	Panemtemen moyo saray pupangulo moyon nangiparate' komoyo nin minsahi a nangibwat konan Dios. Dalepdepen moyoy mabistan nagwaan nin nipagkabyay ra, ket arigen moyoy gesen nin pagmamatalek ra kona.
+58013008	Anaod, si Jesu-Cristo, kai ya gapo nin manguman. No si'no ya sa linmabas anan panaon, sya et sa anggan sawanin nin panaon, tan sya et li' a lamang sa anggan-angga.
+58013009	Kanya' nin andi' kamo anamaet nin paibarang sa nagsikabarang nin uakay a naiduma sa Mabistan Patanda' a niyakay komoyo. O', say mabista anaod ket si mapagsen a kanakman tamo yupa' sa kamaungan nan Dios. Ambo' nin say panunumbok tamo sa ibarita' nin Gugan-gan maipa'ka' sa pangangan a makapamagsen kontamo, ta kasa anamaet nin naitulong nin sain konran saraytaw saray nanumbu-tumbok ana.
+59001001	Mampablyen kon Judio nin mantumumbok kona ni Cristo a napadya'dya' tan nataboy nin nako sa saka-sakalakon lugar, si'ko si Santiago a aripen nan Dios tan ni Uunuren a Jesu-Cristo. Surat koyayti komoyo ket iparate' ko a pammagalang ko.
+59001007	Ket sitin tawon ambo' nin napasayay pinanakem na, andi' ya edet milalon mangrisibin animan a mangibwat konan Catawan ta ipa'kit nin kabibyay na a kai na maitudo' no si'noy mantumbuken na.
+59001008	
+59005019	Bubsat, panemtemen moyoyti. Magwa' a maisyay ya wadi' a saya komoyo sa katutu'wan. Maipatunong naya anamaet bale' nin saya komoyo. Si makapangayat konan siti nin nagkasalanan a gurutan nayna a pagkakasalanan na, ket ipal'is naya yupa' sa nipamatunong na, sa patitin dusa nan Dios kona. Gawa' na et nin sitin nangipatunong a panglilingwan nayna nin Dios sa abaw nin kasalanan.
+59005020	
+60001001	Si'ko si Pedro a Apostol na ni Jesu-Cristo. Surat koyayti komoyo nin pinili' nan tutawo nan Dios a nataboy nin nako nin niikap sa ambo' moyon lugar nin diri itaw sa prubinsya ran Romano a Ponto, Galacia, Capadocia, Asia tan Bitinia.
+60002007	Kanya' anaod nin, komoyo nin mampagmatalek kona, pinasya nin kaalagawan na. Bale' saray kai nin mampagmatalek kona, matukid anamaet konra a mabasa sa Masanton Kasuratan a wana, “Sitaw si bato a nibilang ran kai nin mausar nin saray mammanday, Syay ginwa' nan Dios nin sangkaimpurtantiwan nin baton matkap sa pamma'deng,”
+60002008	tan, “Konan siti nin bato, bilang maipadugpa' sara anamaet a tutawo ket gurutan rayan gura' raya.”
+60004019	Kanya' anaod nin no mampangirangep kamo nin dya'dya' ta sain a karabayan nan Dios, italek moyoy lalaman moyon diri kona bana' ta sya a namarsa komoyo tan tutuo ya sa nipangako' na. Ket ituloy moyoy mangwa' nin maabig.
+60005006	Anaod, mipaayupa' kamon paisirong sa pammatunong nan Dios nin makapangyayadi' sa sarba, ta pigaw nin ipata'gay nakamo li' sa awro nin nitalaga na.
+60005007	Mipaayupa' kamon italek konan Dios a sarba nin mangkaaburidwan moyo bana' ta si Dios, mampagawan nakamo.
+60005013	Mampakumustawen rakamo nin saray iti nin kapadan mammemper a taga Babilonia a sara ket pinili' nasara anamaet nin Dios. Mampakumustawen nakamo anamaet ni Marcos a man'ikwinta kon anak ko.
+60005014	Mipakumustawan kamo nin pangipa'kit moyo a kawa'nan moyo a saya tan saya. Sapa kumon ta mabista lawas a kapapa'sar moyo nga'min nin mammemper isen kona ni Cristo.
+61001001	Si'ko si Simon Pedro a aripen na ni Jesu-Cristo, tan apostol nako anamaet. Surat koyayti komoyo nin nirama' nan Dios sa pagmamatalek a parihoy kaalagawan komoyo tan komi. Siin ket nangyadi' mangibwat sa kamaungan tan katunungan na ni Jesu-Cristo nin Dios tan Mangingisalba tamo.
+61001017	O', pinagalangan tan nipata'gay naya nin Dios nin Ama sin kalamo' nakamidtaw sa talugtog nin pinili' nan Dios. Si'kamin mismo, narnge' mi a busis nan Sangkata'gayan nin Dios nin nangibwat sa langit a wana, “Siti a Anak ko nin kawa'nan kon tuloy. Sya a pakaririketan kon tuloy.
+61001018	
+61001021	Wanin ta kasa gapo nin naipadles nin nangibwat tamo' sa karabayan nin tawo, no kai edet, nag'urayan nasara nin Ispirito nan Dios ket nibarita' rayti nin tutawo nangibwat konan Dios.
+61002007	Itaw ya anamaet nin niikap si Lot. Sya, sayay mapteg nin tawo ya nin inawru-awro nin mabereng tan mangkapaidap a nakem bana' sa kasan pagdadangka' tan masubag a gawa'-gawa' ran tutawodtaw nin mangka'kit tan mangkarnge-karnge' na. Say katutu'wan ket niligyas naya nin Dios.
+61002008	
+62002001	Si'kamo nin nikwinta kon a'nak kon kawa-kawa'nan ko, tandaan moyoyti nin man'isurat ko komoyo ta pigaw nin andi' kamo gapo nin magkasalanan. Wanin man, no main kontamo a magkasalanan et a lamang, matkap a mako ya konan mammyansa tamo a itaw ya konan Dios a Ama. Sya ket, si Jesu-Cristo nin kasa gapon kasalanan.
+62002002	Sya et a dinusa sa dusan kasalanan tamo ta pigaw nin sayti ket mapirduna. Ambo' tamo' nin say kasalanan tamo a magwa' nan ipapirduna no kai pati et say kasalanan nin sarba.
+62002005	Bale' si sayay tawo nin mantumulok sa nibarita' nan Dios, sya a mampangawa'nan nin kusto konan Dios. Anaod, si sayay mamarita' a mangkikalamo' ya konan Dios, matkap a say kabibyay na ket kapaday kabibyay na ni Jesu-Cristo. No wanin a gaw'en tamo, siin a pakasiguradwan tamo a peteg a mangkikalamo' atamo konan Dios.
+62002006	
+62003019	No wanin a pangangawa'nan tamo sa saya tan saya, matandaan tamon peteg a si puon tamo ket si sya a katutu'wan. Ket mataman no say kunsinsya tamo ket gulwen atamo, mapagsen tamon lamang a nakem tamo sa adapan nan Dios. Wanin bana' ta katanda' natamoyna nin maong nin Dios, nin mas et dyan say sain nin kunsinsya tamo ket katanda' atamo, ta peteg a matukod na nin Dios a sarba.
+62003020	
+62003024	Anaod si saya nin mantumulok sa nigan-gan nan Dios, mangkikalamo' ya konan Dios, tan si Dios mampisyon yaynamaet kona. Tanda' tamo nin si Dios mampisyon ya kontamo bana' konan Ispirito na nin nibaki' na kontamo.
+62004003	Bale' no kai ra nin alilbien a si Jesus ket sya a Cristo nin nag'in nin tawo, ambo' nin si Ispirito nan Dios a iti konra no kai edet, si nangibwat konan si kuntra kona ni Cristo. Narnge-narnge' moyoyna a main li' nin rumate' nin kuntra kona ni Cristo ket ibarita' ko komoyo a iti ana sawanin.
+62005008	Si saya anamaet nin kai nin mampangawa'nan, kai naya gapo nin katanda' a Dios. Wanin, bana' ta say pigagawa' nan Dios ket si pirmi ya nin mangawa'nan.
+62005012	Tutuo a kasa et gapo nin tawon naka'kit ana konan Dios, bale' no kawa'nan tamo a saya tan saya, iti yay Dios kontamo ket, say pangangawa'nan nan Dios, mag'in ma'kit nin tuloy kontamo.
+62005014	Ket si'kami, na'kit miya anaod si Jesus kanya' nin matistigusan mi a si Dios, nibaki' nayadti sa luta' a Anak na a si Jesus ta pigaw nin isalba nasaray tutawo. 
+62005015	Sawanin, si sayay mangalilbi' a si Jesus ket Anak naya nin Dios, siti, mangkikalamo' ya konan Dios tan si Dios mampisyon ya kona.
+62005018	No main nin pangangawa'nan, kai magwa' nin mailawok a li'mo bana' ta say pangangawa'nan a peteg, galten a li'mo. Say peteg a ikali'mo ran tutawo ket say pakadusa kanya' nin no ikali'mo tamo et a pakadusa, mapalaway a say pangangawa'nan tamo ket main et nin pagkurangan.
+62005019	Si Dios, kinawa'nan natamoyna yapo' nin nu'na, kanya' nin si'tamo, kawa'nan tamoyay Dios tan saray kalalamo' tamo.
+62005020	Sawanin, no si sayay tawo ket ibarita' na a kawa'nan naya a Dios bale' mampangwa' yan kuntra konran kalalamo' na, mabula' ya. Wanin ta no si kalamo' nan mangka'kit na ket kai naya nin maado', pa'no naya kadi' nin maado' a Dios a kai na nin ma'kit?
+63001001	Komo busat a babayi nin pinili' nan Dios, Si'ko si Juan a si pangulo ran mammemper . Surat koyayti komo tan konran ua'nak mo. Peteg a mabli kamo kongko, tan ambo' tamo' kongko no kai pati anamaet konran sarba ran mampangalilbi' sa katutu'wan a nangibwat konan Dios.
+63001006	Ket say pakatandaan a peteg a mampangawa'nan atamo, ket si mantumulok atamon pirmi sa nigan-gan nan Dios. Siti a nigan-gan nayna kontamo nangibwat et sin nu'na a matkap a magkabyay atamon kumpruntado konan siti, si kawa'nanen tamoy saya tan saya.
+64001001	Komo Gayo a mampablyen kon peteg, Si'koyti si Juan, a si pangulo ran mammemper , a mampanurat komo.
+65001001	Komoyo nin mangkawa-kawa'nanen nan Ama tamo a sya a Dios, tan mampagawan na para kona ni Jesu-Cristo ta tinmulok kamo sa sagyat na komoyo, surat koyayti komoyo. Si'ko si Judas a sayay aripen na ni Jesu-Cristo tan ari nako ni Santiago .
+65001020	Bale' si'kamo nin mampablyen kon bubsat, pagawan moyoynan maong a kapapa'sar moyo nin iti sa pangangawa'nan nan Dios. Say gaw'en moyo ket si dumasal kamo nin mangibwat sa panininreg nan Ispirito nan Dios komoyo; ipa'deng anamaet nin barang saya a byay na sa sangkasagradwan nin pundasyon a say katutu'wan nin mantepren tamo; tan wanin anamaet, taga'nan moyon siiilalo a ibi na kontamo nin Uunuren tamon si Jesu-Cristo nin mangibwat sa inganga'do na a umangga sa anggan-angga nin byay a iti konan Dios.
+65001021	
+66001001	Say iti konan sitin libro ket say nipadar na ni Jesu-Cristo nin matkap nin mangyadi' ana sa ambo' anan ma'teng. Nipya nayti nin Dios kona ni Jesu-Cristo nin ipatanda' na konran saray tutawo nan Dios nin mampagsirbi kona. Kanya' nin si Jesu-Cristo, nibaki' naya a sayay anghil na nin ipatandaan nayti kongko nin si Juan a sayay aripen na.
+66001002	Nisurat ko a sarban nipa'kit kongko, ket patutu'wan ko nin sayti ket peteg a minsahi nin niparate' nan Dios nin nipatandaan na ni Jesu-Cristo.
+66001003	Makarma' yay mamasa konran raruma sa naipadles nin naisurat iti tan makarma' saraynamaet a makarnge' tan tumulok sa nibarita' bana' ta sa ambo' ana nin ma'teng ket matukid ana.
+66001004	Si'ko si Juan. Surat koyayti komoyon piton dupong ran mammemper isen sa prubinsyan Asia . Sapa kumon ta bindisyunan nakamo tan byan nakamo nin mabistan kapapa'sar nin Dios. Sya, main ya sawanin, main yayna sin saytaw et sin tarana', tan main ya anggan-angga. Sapa kumon ta bindisyunan nakamo tan byan nakamo nin mabistan kapapa'sar nin Ispirito nan Dios a iti ya sa adapan nin tekrean na nin main nin pitoy paka'kitan nin pakayadi' na.
+66001018	Si'ko yay Si Lawas a Sibibyay. Mataman nin pinati ako, sinmubli' akoynaod nin mabyay anggan-angga. Si'ko a main nin pakayadi' sa patiti tan main nin pakayadi' nin abryan o isada' yay lugar ran nati ana.
+66002002	Tanda' ko a kabibyay moyo. Tanda' koy seseg moyon man-gumwa' nin maong tan mampangitpel kamo para kongko. Tanda' ko et a mangkuntrawen moyo saray duka' a tutawo. Sinubok moyo saraytaw saray mampangibarita' a kano ket apostol kosara, ket napatutu'wan moyo a mampiwadi'-wadi' sara.
+66002003	Tanda' ko a man'itpel moyo a mangkasari' moyo nin idap bana' ta tumutumbok katamo, tan kai kamo nin mantumapo' a gurutan moyoynay katutumbok moyo kongko.
+66002004	Wanin man, main yayti e nin kai ko nin rabay a gawa' moyo. Say ma'mot nin pangangawa'nan moyo sin tinmarana' kamon mamper ket rinmay'ep ana.
+66002005	Ket panemtemen moyo pa a ma'mot nin pangangawa'nan moyo sin saytaw. O', pagbabawian moyoynay duka' a gawa' moyo ket gaw'en moyo anamanaytaw say ginwa' moyo sin katarana' moyon nag'in nin mammemper ta, no kai moyo nin gurutan a duka' a gawa' moyo, keen katamodsen nin dusawen ket galten katamo sa kuston lugar moyo bilang mammimin palaway.
+66002006	Bale' main yayti anamaet e nin raywen ko komoyo: Gura' moyo nin kapadan gura' ko a gawa' ran saray mantawagen nin Nicolaita .
+66002007	Si'kamo nin mampangrenge', tarusan moyoytin man'ibarita' nan Ispirito nan Dios komoyo nin mammemper! Ket saray manalo maipa'ka' sa sain, byan kosaran kanepegan nin mangan nin bunga nan kayon mamin byay nin itaw sa gardin sa kami'nan nan Dios!’ ”
+66002009	Tanda' ko nin mampangitpel kamo nin dya'dya' tan tanda' ko nin mumaidap kamo, bale' say katutu'wan ket ikon moyoy tutuon kayamanan a mangibwat sa langit. Tanda' ko et nin duka' a man'ibari-barita' ra maipa'ka' komoyo nin saray mampamarita' a tutawo nasaran Dios, bale' say tutuo ket ambo' nasaran tutawo no kai pakairaywan nasara ni Satanas.
+66002010	Andi' moyo nin ikali'mo a pammadya'dya' nin adapen moyoyna nin irangep. Tandaen moyoyti: Ipapriso nasaran Dimunyo a umno ra komoyo nin sayay panunubok komoyo. Mapadya'dya' kamo sa luob nin mapulo' a awro. Bale' dumaer kamo nin magmatalek kongko mataman et nin pakamatyan moyo ta byan katamo li' nin si primyo a say anggan-angga nin byay a iti konan Dios.
+66002011	Si'kamo nin mampangrenge', tarusan moyoytin man'ibarita' nan Ispirito nan Dios komoyo nin mammemper! Saray manalo maipa'ka' sa sain, kai sara li' nin maranod sa mansabtan nin ikarwan patiti .’ ”
+66002013	Tanda' ko a si babali moyo ket lugar ya nin mampag'adian na ni Satanas. Wanin man, mandumaer kamo et nin tutuo kongko. Kai moyo nin ginurutan a pagmamatalek moyo kongko mataman sin panaon a pinati rayadsen si Antipas a syay tutuon mangingi'deng kongko isen komoyo sa lugar nin mampiikap ya si Satanas.
+66002014	Bale' main ti e nin kai ko nin rabay a gawa'-gawa' moyo ta, saray raruma komoyo, mansunuren raytaw say niyakay na ni Balaam . Nipa'kit na intaw a padalan kona ni Balak nin matukso nasaran magkasalanan a puri na ni Israel. Ket anaod, nangan saran niyatang sa dios-dios tan nikiraray sara konran ambo' ran asawa. 
+66002015	Ket kapada ra, main sara anamaet komoyo a mansunuren ray akay ran Nicolaita.
+66002016	Anaod, pagbabawian moyoynay duka' a gawa' moyo ta no kai, sa ambo' ana nin ma'teng ket mako akoynadsen tan labanan kosara in a usaren koyay ispada a lumiwa' sa bebey ko.
+66002017	Si'kamo nin mampangrenge', tarusan moyoytin man'ibarita' nan Ispirito nan Dios komoyo nin mammemper! Saray manalo maipa'ka' sa sain, byan kosara nin naiyadi nin manna . Byan ko anamaet a barang saya konra nin maputi' nin bato a nakaisuratan nin sayay ba'yon ngaran , a kasa gapo nin makatanda' no ani ya in a ngaran no kai si tawo tamo' nin mangrisibin siti.’ ”
+66002019	Tanda' ko a kabibyay moyo. Kanya' nin tanda' ko a pangangawa'nan tan pagmamatalek moyo, say pagsisirbi moyo sa kalalamo' moyo tan say pangingitpel moyo nin dya'dya'. Tanda' kon lamang a say pangngawa' moyo nin maabig sawanin ket mas et dyan sa nipangwa' moyo sin nu'na.
+66002020	Bale' main yayti e nin kai ko nin rabay, man'aburuyan moyaynan kikalamo' komoyo in si babayin si Jezebel . Man'ibarita' na a prupita naya nin Dios, bale' sa man'iyakay na, man'inabo' nasaray tutawo ko sa pagkakasalanan ta mangkasugsog nasara nin kiraray konran ambo' nin manepeg ran kirarayan tan mangan nin niyatang sa dios-dios.
+66002021	Binyan koyayna nin pagkanawanawa nin pagbabawian nayna a duka' a gawa'-gawa' na tan gurutan nayna a nikasama' a gawa'-gawa' nan bilang pampam, bale' benged ya.
+66002022	Edet, pagmasakiten koya nin kai yayna makabangon sa idaan na. Ket sara anamaet a nikiraray-raray kona, pangirangepen kosaran maong nin idap no kai ra nin gurutan a pangngawa' nin duka' a gawa'-gawa' nin kalamo' na.
+66002023	Ket saray tumutumbok na nin man'ikwintan a'nak na, patyen kosaran kasan inganga'do. Sa wanin, matandaan ran mammemper sa sarban lugar a si'ko a makatanda' sa kukaisipan tan kanakman ran tutawo. Tubaleen ko a barang saya komoyo dipindi sa ginwa-ginwa' na.
+66002024	Bale', si'kamon raruma nin isen sa Tiatira a kai moyo nin mansunuren a duka' nin akay na ni Jezebel tan kai moyo nin inadal a wanran ararem a katutu'wan mangibwat kona ni Satanas, kai koyna nin lamu'nan a man'ipatumbok ko komoyo.
+66002025	Si ibarita' ko tana komoyo ket si dumaer kamoyna sa wanin a kabibyay moyo anggan rumate' ako.
+66002026	Ket saray manalo maipa'ka' sa sain tan tumuluy-tuloy nin mangwa' nin karabayan ko anggan sa anggawan nan sitin panaon, byan kosaran pakayadi' nin kapada nin pakayadi' a nibi nan Ama ko kongko. Pag'urayen kosara sa sarban nasyon iti sa luta'. Ket mairot a pag'uuray ra, a saray kai nin mangalilbi' sa pakayadi' ra ket mag'in nin bara'mo saran paya nin supaken nin pasak. Ibi koya et li' konra a kabuntatala' nin ma'kit no parbangon.
+66002027	
+66002028	
+66002029	Si'kamo nin mampangrenge', tarusan moyoytin man'ibarita' nan Ispirito nan Dios komoyo nin mammemper!’ ”
+66003002	Na'kit ko a say kabibyay moyo ket kai et nin sadag nin mamaririket konan Dios nin mampagsirbyan ko. Kanya' nin mimata kamo ta paba'yuwen moyo a duta nin pammemper moyo ta dandani ana nin ma'rep.
+66003003	Panemtemen moyo a niyakay intaw komoyo nin inako' moyo. Sunuren moyo in tan pagbabawian moyoynay kukasalanan moyo ta no kai, bigra' ako li' nin rumate' nin bilang konan sayay mannakaw a kai moyo nin tanda' no ka'no a irarate' ko, ket dusawen katamo.
+66003004	Wanin man, main et nin umno radsen komoyo sa Sardis a say seket ra ket kai nin namansawan a say rabay nin irgwen ket kai sara nin naikalamo' nin nangwa' nin duka'. Kala-kalamo' rako li' nin nisket sara nin maputi' bana' ta maikana' saran wanin.
+66003005	Saray manalo maipa'ka' sa sain, pasketan sara li' anamaet nin maputi' nin bilang konra tan kai ko galten a ngaran ra sa libron listawan ran magkamain nin anggan-angga nin byay a iti konan Dios. O', alilbien kosara li' nin tumutumbok ko sa adapan nan Ama ko tan saray uanghil na.
+66003006	Si'kamo nin mampangrenge', tarusan moyoytin man'ibarita' nan Ispirito nan Dios komoyo nin mammemper!’ ”
+66003008	Tanda' koy kabibyay moyo. Mataman no ambo' kamon maimpluwinsya, mandumaer kamon mantumulok sa akay ko, a tutuo kamo kongko. Edet, main ya in si purta nin inabryan ko para komoyo nin kasa gapon makapangisada'.
+66003009	Main anadsen sa lugar moyo a say pa'sar ra ket dupong ran tutawo na ni Satanas bana' ta man'ibarita' ra a tutawo nasaran Dios bale', mampibula'-bula' sara bana' ta ambo' in nin tutuo. Anaod sarain, gaw'en ko li' a manalimukod sara sa adapan moyo, ket, matandaan ra a kawa'nan katamo. 
+66003010	Ket bana' ta nitpel moyo a dya'dya' nin sigon sa bibilin ko komoyo, iyilag katamo li' sa masakit nin dya'dya' nin rumate' a irangep nin sarban tutawo sa mundo ta pigaw nin masubok sara nga'min.
+
+66003011	Sa ambo' nin ma'teng ket mako akoynadsen. Kanya' nin dumaer kamo sa sain nin mabista ta pigaw nin si kuruna nin primyo a ibi kon para komoyo ket, kai ya maibi sa raruma. 
+66003012	Saray manalo maipa'ka' sa sain, ket gaw'en kosara nin bilang tu'dek nan Kami'nan nan Dios a mampagsirbyan ko, ket kai sarayna gapo nin matege' o maglat sa sain a kapapa'sar ra. Imarka koya konra a ngaran nan Dios a mampagsirbyan ko tan si ngaran nan syudad nan Dios ko a syay ba'yon Jerusalem a kumayupa' iti mangibwat konan Dios ko itaw sa langit. Imarka koya anamaet konra a ba'yo nin ngaran ko.
+66003013	Si'kamo nin mampangrenge', tarusan moyoytin man'ibarita' nan Ispirito nan Dios komoyo nin mammemper!’ ”
+66003015	Tanda' ko a kabibyay moyo. Ambo' kamon ma'mot ni maray'ep sa pakikalamo' moyo kongko! Kumon ket ma'kit nin masibulot a pakikalamo' moyo kongko, no kai ket, ma'kit ana edet nin kasan pakikalamo' moyo kongko.
+66003016	Ket bana' ta wanin moyo, isuka katamo nin bilang sa ranom nin iti sa bebey nin makapasuka a taway.
+66003017	O' say wamoyo mayaman kamo ket mabistaynay kapapa'sar moyo tan kasayna nin pagkurangan moyo, bale' kai moyo nin tanda' a say katutu'wan ket kudwa'dwan kamo. Anaod, pubri, bulag tan labos kamo sa pangingikit nan Dios.
+66003018	Bana' sa sain, ibarita' ko komoyo a manaliw kamo kongko nin puron balitok ta pigaw nin yumaman kamon peteg sa pangingikit nan Dios. Manaliw kamo anamaet kongko nin maputi' nin aysing ket isket moyo ta pigaw nin kai na ma'kit nin Dios a kading'eyan moyo bana' ta labos kamo. Manaliw kamo et a lamang kongko nin ipanambar sa pag'in moyo nin bulag ta pigaw nin ma'kit moyo a katutu'wan.
+66003019	Panemtemen moyo a sarba ran kawa'nan ko, kasagran tan disiplinawen kosara nin pangangakay ko konra. Ket anaod, pagbabawian moyoynay pag'in moyon matab'ang tan pakaseseg kamo sa kabibyay moyon matulok kongko. 
+66003020	Oy! Iti ako sa purta moyo nin mangkumutana. No main nin tawon makarnge' kongko ket abryan naya a purta para kongko, sumrep ako tan midungo kami.
+66003021	Saray manalo maipa'ka' sa sain, byan kosaran kanepegan nin kitekre' kongko nin mag'uray kapada a si'ko, nanalo ako ket nikitekre' ako konan Ama ko ta pigaw nin mag'uray ako.
+66003022	Si'kamo nin mampangrenge', tarusan moyoytin man'ibarita' nan Ispirito nan Dios komoyo nin mammemper!’ ”
+66005013	Ket, narnge' koy panganganta ran sarba ran itaw sa langit, iti sa luta', itaw sa rarem nin luta' a syay lugar ran nunati, tan itaw sa taaw. Sarba nin pinarsa sa intiron sangkamundwan ket wanra nin man'ikanta, “Siti si nakatekre' sa truno tan si Karniro nin pinati, raywen sara, igalang sara, itandudo' sara tan alilbien a pakayadi' ra anggan-angga!”
+66005014	Ket saray a'pat a sibibyay a pinarsa, wanra nin ni'bat, “Peteg a wanin anaod!” Sara anamaet a rwampulo' tan a'pat a pupangulo, linmukbob sara tan nangrayo sara anamanaet kona nin si nakatekre' sa truno tan kona nin Karniro.
+66007005	Saray namarkawan ana ket silabinrway ribo sara a nangibwat sa barang saya nin tribo: sa tribo ni Juda, ni Ruben, ni Gad,
+66007006	ni Aser, ni Neftali, ni Manases,
+66007007	ni Simeon, ni Levi, ni Isacar,
+66007008	ni Zabulon, ni Jose tan ni Benjamin.
+66009001	Kaaram, pinatnoy nayan ikaliman anghil a trumpita na ket main nin na'kit kon bituen nin nanabo' sa luta' a nangibwat sa langit. Nibi ya kona a tumbok nin nipangabri konan priswan nin ubot nin pinasyan kaararman .
+66009002	Ket, sin inabryan naya a priswan nin ubot, linumwa' a pinasyan kubpal nin asok a bilang asok nin alakin pugon. Nasalimbengan yan sayti a awro ket dinmedlem ya tan say kalangitan.
+66009012	Ket nayadi' ana a u'na nin makapali'mo nin dya'dya'. Bale' anaod, rwa et a rumate'.
+66011014	Ket sain a ikarwan makapali'mo nin dya'dya'. Bale' anaod, saya et a sumunor anan mangyadi'.
+66012011	Tinalo rayan bubsat tamo yupa' sa daya' nan Karniro nin tinmuro' sin pinati ya tan bana' sa nipangipatanda' ra sa katutu'wan. Anaod, kai ra nin ginurutan no kai edet, dinmaer sara sa pammemper ra mataman nin nakapatyan ra.
+66012012	Kanya' nin si'kamon mampiikap iti sa langit, rumiga kamo! Bale' si'kamo nin isen sa luta' tan sa taaw, sumalak kamoyna! Kado' kamoyna bana' ta si Dimunyo ket kinmayupa' yaynadsen komoyo, ket pinasya nin sager na ta tanda' nan anted ana a udas na.”
+66013009	Si'kamo nin mampangrenge', tarusan moyoyti.
+66013010	Saray naitalaga nin maipriso, maipriso sara li', tan saray naitalaga nin mapati nin ispada, ket peteg a mapati sara li' nin ispada. Edet, matkap ran itpel nin tutawo nan Dios a dya'dya' nin naitalaga nin irangep ra tan dumaer sara nin magmatalek kona.
+66014010	painumen sara li' anamaet nin mabayanin arak nan Dios a kasa gapo nin nilawok. Say rabay irgwen ket irangep ra li' a grabin panunusa nan Dios mangibwat sa sager na nin kasa gapon panginginga'do. Padya'dyaen sara li' sa mandumtan asupri itaw sa impyirno nin mangkiten-kiten ran uanghil nin naitalaga konan Dios tan si Karniro.
+66014011	Mampuli' li' tanan pirmi a asok nin apoy nin man'ipamadya'dya' konra nin kasan angga. Kai li' gapo nin pay'anen a pangingirangep ra sa yabi tan awro bana' ta rinayo raya a makapali'mon ayep tan si imahin na, tan nipamarka sara nin ngaran nan makapali'mon ayep.”
+66016016	Anaod, saray dudimunyo ket dininep rasaradtaw a susundalo' ran mumampag'uray sa lugar a say tawag kona sa sarita' nin Hebreo ket Armagedon.
+66017006	Na'kit ko nin nabok yay babayi nin say daya' ran tutawo nan Dios a saray pinati nin mangingi'deng kona ni Jesus.
+66018005	Dusawen nayaynan Dios bana' ta no pisusuldungen a kasalanan na ket mirate' ana sa langit, ket si Dios, kai na liningwanan a kadukaan na.
+66018006	Bal'en ya tan dusawen ya nin tumekep sa sain nin kadukaan na. Say sarban ginwa' nan nipamaidap sa tutawo ket ibale' kona nin dubli. No pa'no kabayani a arak nin nipainom na konran raruman tawo, dubli li' sa bayani a ipainom kona.
+66018007	No pa'no yan nipapda' tan nipata'gay, wanin ya anamaet nin pangirangepen nin pammadya'dya' tan kaberengan ta wana sa nakem na, ‘Iti ako nin sayay nakatekre' sa truno kon diri! Gumereng ako li' para nin kapada nan sayay balo? Kai gapo!’
+66018008	Kanya' nin midadagop nin mapi'sa-pi'san rumate' kona a dya'dya'. Ket mirirngan na anaod nin irangep a sakit, kaberengan tan bitil, mi'sa puuran ya nin sidaen bana' ta si Uunuren a Dios nin manusa kona ket makapangyayadi' ya.
+66018017	Undo' ana ta sa anted tamo' nin udas, sarban sayti nin kayamanan ra ket na'met!’ Saray kukapitan nin bapor tan saray tripulanti tan saray pasairo, tan saray raruma et nin say tingkapan ra ket sa taaw, itaw sara tamo' anamaet sa adayo'
+66018019	Kwan ran ta'pok a ulo ra nin pangipa'kit nin kaberengan ra mintras a man'umakis sara a wanra, ‘Undo' ana a nangyadi' konan mapwirsa nin syudad! Yinmaman nga'min a kumpanyan bapor nin dinmuong kona. Undo' ana ta sa anted tamo' nin udas, sarban kayamanan na ket na'met!’
+66018022	Kanya' nin kai sarayna li' nin marnge' a manganganta tan say tugtog ran mannugtog nin arpa, flauta tan trumpita konan siti nin syudad. Kai sarayna li' a lamang nin madumog kona a matutudyo' nin mangwa' nin nagsikabarang a bubagay. Kai anamaet ana li' nin marnge' a gargar nin gigilingan. 
+66018023	Kasayna li' gapon tyo' nin ma'kit nin dumta. Kasayna li' gapon marnge' nin marigan busis ran ikasal. Sain a dusa konan Babilonia bana' ta saray kumirsyantidtaw, masuruk-surok a nakem ra bana' ta wanra ket saray sangkayamanan sa mundo, tan saray tutawodtaw, nibarang rasaray tutawo sa mundo sa nipanikot ra konra. 
+66018024	Sain et a dusa konan Babilonia bana' ta itaw nin inmagos a daya' ran prupita tan tutawo nan Dios. Say daya' ran sarba ran pinatidti sa luta' ket madumog konan siin a syudad.”
+66019003	Wanra anamanaet nin maksaw, “Raywen tamoya a Dios ta say asok nan mangkapuuran nin syudad ket muli' nin kasan tegen anggan-angga.”
+66020002	Dinaeg nayan sitin anghil a dragon a syan lamang taw si ulay sin nu'na, a sya a Dimunyo nin say ngaran na ket Satanas. Kinadinawan nayayti mi'sa naya nin nibantak itaw sa priswan nin ubot; mi'sa naya nin kinandadwan tan sinilyuwan a purta ta pigaw nin kasan magwa' nan Dimunyo nin mangibarang konran tutawo sa mundo anggan mapalabas a sanribon taon. Mapalabas in a panaon, matkap a bulusan ya bale' sa anted a panaon tamo'.
+66020003	
+66020005	Siti a u'nan nipamasubli' nin mabyay konran nunati. Saray makaayi konan sitin u'nan pammasubli' nin mabyay konran nunati ket makarma' sara tan naipurok sara para konan Dios. Wanin ta kai raya gapo nin dalanan li' a mantawagen nin ikarwan patiti, no kai edet, pupadi' sara li' nin magsirbi konan Dios tan kona ni Cristo, tan kipag'uray sara li' kona sa luob nin sanribon taon. Saray raruma et nin nunati ana, saytaw sara li' nin pasublien nin mabyay no napalabas anay sanribon taon.
+66020006	
+66020012	Na'kit kosara anamaet a sarba ran nunati ana nin ata'gay man o ayupa' a nikatawo. Mataman no nati saradtaw sa taaw ket itaw sara. Sarba ran nangibwat sa Hades a syay lugar ran nunati ket itaw saran lamang. Naka'deng sara sa adapan nan nakatekre' sa truno. Ket inabryan a lulibro nin listawan nin ginwa-ginwa' ran tutawo tan inabryan ya anamaet a libron listawan ran saray magkamain nin anggan-angga nin byay a iti konan Dios. Ket sinintinsyawan a barang saya nin naipatukdo' sa nakalista sa saytin lulibro dipindi sa ginwa-ginwa' ra.
+66020013	
+66021004	Punasen na li' a sarba nin lwa' ra, tan kasayna li' gapon mati, o gumereng tan umakis, o mangirangep bana' ta say sarban main nin gindat ket kasayna.” 
+66021005	Ket, wanan si nakatekre' sa truno, “Anaod sawanin, paba'yuwen koyna a sarba!” Wana et kongko, “Isurat moyti say nibarita' ko ta tutuo tan mapagmatalkan.”
+66021006	Wana et kongko, “Nayadi' ana a sarba. Si'ko a Alpha tan Omega a say rabay nin irgwen si'koy tarana' tan kala'pusan nin sarban bagay. Si si'numan a milata', byan koyan ranom nin kasan bayad mangibwat sa subor a mamin anggan-angga nin byay a iti konan Dios. 
+66021007	Si manalo, ipaga'muran ko in nin ba'yon kapapa'sar kona. Si'ko et ket Dios nako tan sya ket anak koya.
+66021008	Bale' saray mali'mo nin tumumbok kongko bana' sa dya'dya', saray kai nin mamper, saray nikasama' a gawa'-gawa' ra, saray mangmamati, saray kiraray sa ambo' ran asawa, saray mangwa' nin gawa' ran manggagamod, saray mangrarayon dios-dios, tan saray sarba ran mabula', say kami'nan ra li' ket itaw sa alawang nin luong nin burung-burong nin asupri. Siti a mansabtan nin ikarwan patiti.”
+66021012	Say padil sa libed nan syudad ket ata'gay tan magsen. Labinrwa saray purta nin say barang saya ket main nin anghil nin bantay. Tulo ray purta sa baytan, tulo ra sa bagatanan, tulo ra sa panrupan, tan tulo ra sa amyanan. Sa sayay purta ket nakasurat ya a ngaran nan saya anamaet konran labinrwan puri na ni Israel.
+66021013	
+66022010	Ket wanan nituloy, “Andi' ka nin misasaet maipa'ka' sa naipadles nin naisurat iti, bana' ta say sarba ket mangyadi' ana li'.
+66022011	Ket ta wanin anaod, saray mampangwa' nin duka', ituloy ray pangngawa' ran duka', tan saray say kabibyay ra ket nikasama', ituloy ray kabibyay ran nikasama'. Sara bale' a say man-gaw'en ra ket maabig, ituloy ray pangngawa' ran maabig, tan saray lison naikana' konan Dios, ituloy ray lison naikana' konan Dios.
+66022012	Wana ni Jesus, ‘Anaod, mako akoynadsen sa ambo' anan ma'teng! Ket no mako akodsen, awit ko a manepeg nin tubale' sa barang saya nin dipindi sa ginwa-ginwa' ra.
+66022013	Si'ko a mansabtan nin Alpha tan Omega, tan main akoyna sin nu'na tan main ako et li' anggan kalansuyutan. Si'ko et a tarana' tan kala'pusan nin sarban bagay.
+66022014	Makarma' saray mampalinisen ray seket ra. Bana' konan siin, magkamain sara nin kanepegan nin sumrep sa purta nan syudad tan mangan nin bunga nan kayon mami nin byay.
+66022015	Bale' kai sara li' nin pasrepen sa syudad a say nikasama' a man-gaw'e-gaw'en ra. Sarain saray manggagamod, saray kiraray sa ambo' ran asawa, saray mangmamati, saray mangrarayon dios-dios, tan saray maririktan sa pibula'-bula' sa irgo tan sa gawa'-gawa'.
+66022016	Si'ko nin si Jesus a namaki' kona nin sayay anghil ko ta pigaw nin patutu'wan koytin bubagay komoyon mammemper para sa kaabigan nin dudupong moyo. Si'koy si nipadles a puri na ni Adi' a David tan si'ko a mansabtan nin kabuntatala' a ma'kit no kabubuklas.’
+66022019	No main anamaet nin si'numan a baw'asan na a nipadles nin naisurat iti, si Dios, galten na a kanepegan nan kipangan nin bunga nan kayon mamin byay tan say kanepegan nan miikap itaw sa syudad nan Dios a naibarita' iti.
