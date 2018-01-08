@@ -1,5 +1,5 @@
-19013006
-19013007
-22001017
-45003031
-45008039
+19013006	#nicht vorhanden
+19013007	#nicht vorhanden
+22001017	#nicht vorhanden
+45003031	#nicht vorhanden
+45008039	#nicht vorhanden
