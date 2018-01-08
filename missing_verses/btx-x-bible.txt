@@ -1,23 +1,23 @@
-40002010	?#nicht vorhanden
-41004038	?#nicht vorhanden
-41015043	?#nicht vorhanden
-41016004	?#nicht vorhanden
-42001074	?#nicht vorhanden
-42023051	?#nicht vorhanden
-43001033	?#nicht vorhanden
-43004007	?#nicht vorhanden
-43004008	?#nicht vorhanden
-43009014	?#nicht vorhanden
-43010015	?#nicht vorhanden
-44005002	?#nicht vorhanden
-44013033	?#nicht vorhanden
-44013039	?#nicht vorhanden
-44018020	?#nicht vorhanden
-44018021	?#nicht vorhanden
-44023033	?#nicht vorhanden
-45009012	?#nicht vorhanden
-46005013	?#nicht vorhanden
-47001014	?#nicht vorhanden
-59001008	?#nicht vorhanden
-66002027	?#nicht vorhanden
-66002028	?#nicht vorhanden
+40002010	
+41004038	
+41015043	
+41016004	
+42001074	
+42023051	
+43001033	
+43004007	
+43004008	
+43009014	
+43010015	
+44005002	
+44013033	
+44013039	
+44018020	
+44018021	
+44023033	
+45009012	
+46005013	
+47001014	
+59001008	
+66002027	
+66002028	
