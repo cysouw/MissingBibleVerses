@@ -1,14 +1,14 @@
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
+40001003	bae Iura ka i ae Peres bae Sera tamarea, bae Peres bae Sera ka nareame nge Tamar, bae Peres ka i ae Esron tamana, bae Esron ka i ae Ram tamana,
+40001004	bae Ram ka i ae Aminarap tamana, bae Aminarap ka i ae Nason tamana, bae Nason ka i ae Salamon tamana,
+40001005	bae Salamon ka i ae Boas tamana, bae Boas ka naname nge Reap, bae Boas ka i ae Obet tamana, bae Obet ka naname nge Rut, bae Obet ka i ae Iesi tamana,
+40001006	bae Iesi ka i ae Revit a i a kelangpatali tamana. Bae Revit ka i ae Solomon tamana, bae Solomon ka naname nga avale laeala a i a Uria napengana pala,
+40001007	bae Solomon ka i ae Reoboam tamana, bae Reoboam ka i ae Abia tamana, bae Abia ka i ae Asa tamana,
+40001008	bae Asa ka i ae Ieosapat tamana, bae Ieosapat ka i ae Ioram tamana, bae Ioram ka i ae Usia tamana,
+40001009	bae Usia ka i ae Iotam tamana, bae Iotam ka i ae Eas tamana, bae Eas ka i ae Esekia tamana,
+40001010	bae Esekia ka i ae Manase tamana, bae Manase ka i ae Amon tamana, bae Amon ka i ae Iosaia tamana,
+40001011	bae Iosaia ka i ae Iekonaia bae teiteikia memena tamarea. Ba ka kae nginngina ka inae Iosaia bae Iekonaia ke momo, na kelangpatali e ngae Babilon ke ravupatali ka Israelme ta maga ae i.
+40001012	Ngarume, ka inae Israelme ke momo ngae Babilon tale, nae Iekonaia napengana ke toapisigia goe apanung a giana nge Salatiel, bae Salatiel ka i ae Serubabel tamana. Ba nga kae rae Serubabel, nae Israel palume keke galiu tae Israel.
+40001013	Bae Serubabel ka i ae Abiut tamana, bae Abiut ka i ae Eliakim tamana, bae Eliakim ka i ae Asor tamana,
+40001014	bae Asor ka i ae Sarok tamana, bae Sarok ka i ae Akim tamana, bae Akim ka i ae Eliut tamana,
+40001015	bae Eliut ka i ae Eleasar tamana, bae Eleasar ka i ae Matan tamana, bae Matan ka i ae Iekop tamana,
+40001016	bae Iekop ka i ae Iosep tamana a i ae Maria natale, bae Maria ka i avale ore toapisigia Iesus, a ri ke patoe kae Karais.

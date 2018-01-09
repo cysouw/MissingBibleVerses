@@ -1,24 +1,35 @@
-66001007
-66004011
-66005010
-66007016
-66007017
-66011018
-66012011
-66012012
-66013010
-66015004
-66016006
-66018003
-66018005
-66018006
-66018007
-66018008
-66018017
-66018020
-66018022
-66018023
-66018024
-66019002
-66019007
-66019008
+66001007	“Amoisa, Iesu Kristo apuapuai emai, ke papiau ma'oai maa'iai isa akeisa. Ke papiau isa imaauga keoga au'i isafa maa'iai isa akeisa. Ke agofa'a papiau'i ma'oai isa puogai akeapepe. Iifa gome ega'ina agemia paisa! Amen.
+66004011	“Emai Lopia, ke emai Deo kepalopianio, au akaiki'amu kepamiaiso, ke isapu akaiki'a aumu kepamiaiso auga ekainia, gome oi kapa ma'oai lopagama'i. Ke oi emu logoai kapa ma'oai kegama, ke keague, ke kekae,” keoma.
+66005010	Ke oi isa emu agofa'a papiau'i, ke emu sakedote lopamia'i, i'a a'a Deo ega pinauga fekekapa looma. Ke isa ma'oai agofa'a fofouga ake'ima.”
+# Im Korpus gibt es Auslassungen bei 66005009 und 66005012, sieht https://www.bible.com/de/bible/1336/REV.5.mekNT
+66007016	Ke isa inae'i afaekimu, ke aiso'i afaekupu pugu. Ke kina isapugai isa afaegaga kalani'i. Ke isapu apala aga'omo ganinagai, isa afaegaga'i.
+# Im Korpus gibt es Auslassungen bei Verse 66007015, sieht https://www.bible.com/de/bible/1336/REV.7.mekNT
+66007017	Gome Deo ega aguagu afuga ipuainagai ipauma auga, Sipi Gauga eagu, isa e'i sipi i'ima auga koa i'opoga agemia age'ima'i, ke agepapea'i agelaoaini'i fei e'uki mauni mamaga epipeni auga feinai agepapealai'i. Ke Deo isa maa'iai maa'i iuga ma'oai agefaini'i,” eoma.
+66011018	Ke agofa'a papiau'i oi eemuai gua'i ekupu, ke oi emu guakupu isa ee'i emai. Ke pau papiau kemae au'i e'i laomai felo, o apala afa fopeni'i auga kina emai ekainia. Ke profeta oi emu pinauga au'i, oi emu papiau, ke papiau akaiki'a'i, o e'ele'i fou kai'ialao oi akamu kemani'iaina au'i e'i laomai felo afa alopeni'i auga isafa kina ekainia. Kai kaisau agofa'a keauoka au'i afa apala alopeni'i, aloauoka'i auga isafa kina emai ekainia,” keoma.
+# Im Korpus gibt es Auslassungen bei Verse 66011017, sieht https://www.bible.com/de/bible/1336/REV.11.mekNT
+66012011	Kai pako'a au'i, Sipi Gauga ifagai, ke Deo ega iifa ko'a mo keifafoua auga faagagai isa kepalutinia. Ega'ina papiau'i au'i, alo'i ko'agai ifo'i e'i agu maunina anina akeani, ega mo keagu oma elao kemae.
+# Im Korpus gibt es Auslassungen bei Verse 66012010, sieht https://www.bible.com/de/bible/1336/REV.12.mekNT
+66012012	Ega puo oi ufai oague aumi, ke oi isa fou oague aumi alomi gagama. Kai oi pako'a aumi laa'i, aagoai ke a'uai oague aumi, Deo oi afa apala ipauma fepenimi laoma. Gome tiapolo eake oi eemi efai. Isa auga gua ekupu alogaina, gome isa elogo ega kina maaga ofola'o,” eoma.
+66013010 # Im Korpus wurde mit 66013009 zusammenübersetzt, jedoch gibt es Auslassungen. https://www.bible.com/de/bible/1336/REV.13.mekNT
+66015004	O Lopia, kaisau Oi afaemani'iainio, ke akamu akaiki'a afaepamia? Gome oi ifomu mo alo lolofa Aumu. Ago ma'oai papiau'i akemai Oi agomuai akeau afagainio, gome Oi emu pinauga opaina auga papiau maa'iai lopafokia,” keoma.
+# Im Korpus gibt es Auslassungen bei Verse 66015003, sieht https://www.bible.com/de/bible/1336/REV.15.mekNT
+66016006	Gome isa Oi emu papiau, ke profeta fou ifa'i kepafaka. Ke Oi isa kapa'ina fekeafia auga mo lopeni'i, ifa lopeni'i keinu,” eoma.
+# Im Korpus gibt es Auslassungen bei Verse 66016005, sieht https://www.bible.com/de/bible/1336/REV.16.mekNT
+66018003	Gome ago ma'oai papiau'i isa fou amage koa lao'i mai'i apala'i fekekapa'i auga fino keinu. Ke aagoa kini'i isa fou amage koa lao'i mai'i kekapai'i. Ke isa kapa felo'i ipauma'i ma'oai eegai fekeka isapuga eafia auga faagagai, aagoai afa'afa au'i kepa'amu'amu,” eoma.
+# Im Korpus gibt es Auslassungen bei Verse  , sieht https://www.bible.com/de/bible/1336/REV.18.mekNT
+66018005	Gome isa ega laomai apala'i au'i kegoai'i e'agaukae elao ufa. Ke Deo isa ega laomai apala'i eopolani'i.
+# Im Korpus gibt es Auslassungen bei Verse 66018004, sieht https://www.bible.com/de/bible/1336/REV.18.mekNT
+66018006	Isa kapa'ina epipeni auga amopenimue. Ke kapa'ina isa oi eemiai ekapai'i auga, afa ipeninai ekapaisa auga aga'omo laagai foogeaua fopenimue. Ke isa ega kaputi alogai kapa'ina eoge lapuinia auga, laagai gua mopamia mooge lapuinia.
+66018007	Ke isa ifo epa'amu'amu alogaina, ke ifo au akaiki'a epamia koa i'opoga, oi isa ega mopakiekie oma, ke alo isafa ega mopamafu oma. Gome isa gua alogai ifo eifa einaka, ‘Lau kuini koa laague, ke lau alaafuafu, ke lau afalaapeapepe,’ eoma.
+66018008	Ega puo kapa apala'i, mae, apepe ke magea isa feafi'i au'i ma'oai, kina aga'omo alogai akemai ageafi'i. Ke isa loai ageaga, gome Lopia Deo kapula gome auga, isa ega laomai apala auga afa agepenia.
+66018017	# Im Korpus wurde mit 66018016 zusammenübersetzt, jedoch gibt es Auslassungen. https://www.bible.com/de/bible/1336/REV.18.mekNT
+66018020	Kai ufa, Deo ega papiau aumi, apostolo, ke profeta aumi isa amoalogamalaina. Gome isa oi faagamiai kapa'ina ekapai'i koa i'opoga mo, Deo isa ega laomai apala afa epeniia,” akeoma.
+# Im Korpus gibt es Auslassungen bei Verse 66018019, sieht https://www.bible.com/de/bible/1336/REV.18.mekNT
+66018022	Ke harp kepa'opunia a'o, iifi kepagama au'i a'o'i, ineine keipina a'o'i, ke fi'i keipina au'i a'o'i oi alomuai afakelogoni'i pugu. Ke oi alomuai papiau ima'iai pinauga i'oi'i i'oi'i kekapa'i au'i, aga'omo ganinagai, afakeisa'i pugu. Ke papiau kepo akaiki'agai fo'ama kepaikumu'a auga a'o afakelogo pugu.
+# Im Korpus gibt es Auslassungen bei Verse 66018021, sieht https://www.bible.com/de/bible/1336/REV.18.mekNT
+66018023	Ke lanepa eaea auga oi alomuai afaeeaea pugu. Ke amage mamaga auga, ke ifiao ageakafania auga fou e'i miamia kekapa au'i, aina'i oi alomuai afakelogoni'i pugu. Ke oi emu afa'afa au'i, agofa'ai au akaiki'a'i. Kai oi emu ugauga isapugai ago ma'oai lofogei'i.
+66018024	Ke profeta, ke Deo ega papiau, ke aagoai papiau i'oi'i ma'oai oi loaupugu'i au'i ifa'i oi alomuai kekapulaisa,” eoma.
+66019002	Ke Isa papiau e'i laomai felo, o apala afa epipeni auga, ko'a ke opaina auga mo ekapa. Gome Isa peage lapau papiega apala ipauma, amage koa lao'i mai'iai aagoa epalifua auga afa apala epeniia. Isa ega pinauga au'i ifa'i efaka afa isa epeniia,” keoma.
+# Im Korpus gibt es Auslassungen bei Verse 66019001 und 66019003, sieht https://www.bible.com/de/bible/1336/REV.19.mekNT
+66019007	# Im Korpus wurden 66019006-66019008 zusammenübersetzt, jedoch gibt es Auslassungen. https://www.bible.com/de/bible/1336/REV.19.mekNT
+66019008	
