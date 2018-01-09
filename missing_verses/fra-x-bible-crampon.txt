@@ -1,7 +1,7 @@
-06021044	#nicht vorhanden
-06021045	#nicht vorhanden
-07021025	#nicht vorhanden
-13011047	#nicht vorhanden
-23021017	#diese Verse wurde zusammen mit der vorderen Verse übersetzt.
-23038022	#nicht vorhanden
-24037021	#diese Verse existiert schon.
+06021044	
+06021045	
+07021025	
+13011047	
+23021017	
+23038022	
+24037021	

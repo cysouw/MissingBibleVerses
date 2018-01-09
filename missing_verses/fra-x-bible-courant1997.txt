@@ -77,31 +77,31 @@
 45008038	Oui, j’ai la certitude que rien ne peut nous séparer de son amour: ni la mort, ni la vie, ni les anges, ni d’autres autorités ou puissances célestes, ni le présent, ni l’avenir,
 45008039	ni les forces d’en haut, ni celles d’en bas, ni aucune autre chose créée, rien ne pourra jamais nous séparer de l’amour que Dieu nous a manifesté en Jésus-Christ notre Seigneur.
 45009011	Mais Dieu a son plan pour choisir les hommes : son choix dépend de l’appel qu’il leur adresse et non de leurs actions. Pour montrer qu’il demeure fidèle à ce plan, Dieu a dit à Rébecca alors que ses fils n’étaient pas encore nés et n’avaient donc fait ni bien ni mal : « L’aîné servira le plus jeune. »
-45009012	#nicht vorhanden
+45009012	
 45009027	De son côté, Ésaïe s’écrie au sujet du peuple d’Israël : « Même si les Israélites étaient aussi nombreux que les grains de sable au bord de la mer, c’est un reste d’entre eux seulement qui sera sauvé ;
 45009028	car ce que le Seigneur a dit, il le réalisera complètement et rapidement sur la terre. »
 45009029	Et comme le même Ésaïe l’avait dit auparavant : « Si le Seigneur de l’univers ne nous avait pas laissé quelques descendants, nous serions devenus comme Sodome, nous aurions été semblables à Gomorrhe. »
-45010019	#diese Verse wurde mit der Verse 45010018 zusammen übersetzt.
-45010020	#diese Verse wurde mit der Verse 45010018 zusammen übersetzt.
-45010021	#diese Verse wurde mit der Verse 45010018 zusammen übersetzt.
+45010019	
+45010020	
+45010021	
 45011036	Car tout vient de lui, tout existe par lui et pour lui. A Dieu soit la gloire pour toujours ! Amen.
 45014012	Ainsi, chacun de nous devra rendre compte à Dieu pour soi-même.
-45015010	#diese Verse wurde mit der Verse 45015009 zusammen übersetzt.
-45015011	#diese Verse wurde mit der Verse 45015009 zusammen übersetzt.
-45015012	#diese Verse wurde mit der Verse 45015009 zusammen übersetzt.
+45015010	
+45015011	
+45015012	
 46001020	Alors, que peuvent encore dire les sages ? ou les gens instruits ? ou les discoureurs du temps présent ? Dieu a démontré que la sagesse de ce monde est folie !
 46002010	Or, c’est à nous que Dieu a révélé ce secret par le Saint-Esprit. En effet, l’Esprit peut tout examiner, même les plans de Dieu les plus profondément cachés.
 46002011	Dans le cas d’un homme, seul son propre esprit connaît les pensées qui sont en lui ; de même, seul l’Esprit de Dieu connaît les pensées de Dieu.
 46002012	Nous n’avons pas reçu, nous, l’esprit de ce monde ; mais nous avons reçu l’Esprit qui vient de Dieu, afin que nous connaissions les dons que Dieu nous a accordés.
 46002013	Et nous en parlons non pas avec le langage qu’enseigne la sagesse humaine, mais avec celui qu’enseigne l’Esprit de Dieu. C’est ainsi que nous expliquons des vérités spirituelles à ceux qui ont en eux cet Esprit.
 46005003	Quant à moi, même si je suis absent de corps, je suis près de vous en esprit ; et j’ai déjà jugé au nom de notre Seigneur Jésus celui qui a si mal agi, comme si j’étais présent parmi vous. Lorsque vous serez assemblés, je serai avec vous en esprit et la puissance de notre Seigneur Jésus se manifestera ;
-46005004	#nicht vorhanden
+46005004	
 46005012	Ce n’est pas mon affaire, en effet, de juger les non-chrétiens. Dieu les jugera. Mais ne devriez-vous pas juger les membres de votre communauté ? Il est écrit, en effet : « Chassez le méchant du milieu de vous. »
-46005013	#nicht vorhanden
+46005013	
 46014022	Ainsi, le don de parler en langues inconnues est un signe pour les non-croyants, mais non pour les croyants ; inversement, le don de transmettre des messages divins est un signe pour les croyants, mais non pour les non-croyants.
 46015056	La mort tient du péché son pouvoir de tuer, et le péché tient son pouvoir de la loi.
 46015057	Mais loué soit Dieu qui nous donne la victoire par notre Seigneur Jésus-Christ !
-47006017	#diese Verse wurde zusammen mit der vorderen Verse übersetzt.
+47006017	
 47009010	Dieu qui fournit la semence au semeur et le pain qui le nourrit, vous fournira toute la semence dont vous avez besoin et la fera croître, pour que votre générosité produise beaucoup de fruits.
 47009011	Il vous rendra suffisamment riches en tout temps pour que vous puissiez sans cesse vous montrer généreux ; ainsi, beaucoup remercieront Dieu pour les dons que nous leur transmettrons de votre part.
 47009012	Car ce service que vous accomplissez ne pourvoit pas seulement aux besoins des croyants, mais il suscite encore de très nombreuses prières de reconnaissance envers Dieu.
@@ -109,9 +109,9 @@
 47009014	Ils prieront pour vous, en vous manifestant leur affection, à cause de la grâce extraordinaire que Dieu vous a accordée.
 47009015	Loué soit Dieu pour son don incomparable !
 47012003	Oui, je sais que cet homme fut enlevé jusqu’au paradis (encore une fois, je ne sais pas s’il fut réellement enlevé ou s’il eut une vision, Dieu seul le sait), et là il entendit des paroles inexprimables et qu’il n’est permis à aucun être humain de répéter.
-47012004	#nicht vorhanden
+47012004	
 48001015	Mais Dieu, dans sa grâce, m’a choisi avant même que je sois né et m’a appelé à le servir. Et quand il décida de me révéler son Fils pour que je le fasse connaître parmi les non-Juifs, je ne suis allé demander conseil à personne
-48001016	#nicht vorhanden
+48001016	
 49004009	Or, que veut dire « il est monté » ? Cela présuppose qu’il est aussi descendu dans les régions les plus profondes de la terre.
 49004010	Celui qui est descendu est aussi celui qui est monté au plus haut des cieux afin de remplir tout l’univers.
 49004011	C’est lui qui a fait des dons particuliers aux hommes : des uns il a fait des apôtres, d’autres des prophètes, d’autres encore des évangélistes, des pasteurs ou des enseignants.
@@ -120,21 +120,21 @@
 49004014	Alors, nous ne serons plus des enfants, emportés par les vagues ou le tourbillon de toutes sortes de doctrines, trompés par des hommes recourant à la ruse pour entraîner les autres dans l’erreur.
 49004015	Au contraire, en proclamant la vérité avec amour, nous grandirons en tout vers le Christ, qui est la tête.
 49004016	C’est grâce à lui que le corps forme un tout solide, bien uni par toutes les articulations dont il est pourvu. Ainsi, lorsque chaque partie fonctionne comme elle doit, le corps entier grandit et se développe par l’amour.
-58001006	#diese Verse wurde mit der Verse 58001005 zusammen übersetzt.
-58001007	#diese Verse wurde mit der Verse 58001005 zusammen übersetzt.
-58001008	#diese Verse wurde mit der Verse 58001005 zusammen übersetzt.
-58001010	#diese Verse wurde mit der Verse 58001009 zusammen übersetzt.
-58001013	#diese Verse wurde mit der Verse 58001012 zusammen übersetzt.
+58001006	
+58001007	
+58001008	
+58001010	
+58001013	
 58001014	Les anges ne sont que des esprits au service de Dieu : il les envoie apporter de l’aide à ceux qui doivent recevoir le salut.
-58002013	#diese Verse wurde mit der Verse 58002012 zusammen übersetzt.
+58002013	
 58003016	Or, quels sont ceux qui ont entendu la voix de Dieu et se sont révoltés contre lui ? Ce sont tous ceux que Moïse a conduits hors d’Égypte.
 58003017	Contre qui Dieu a-t-il été en colère pendant quarante ans ? Contre ceux qui avaient péché, et qui moururent dans le désert.
 58003018	Quand Dieu a fait ce serment : « Ils n’entreront jamais dans le pays où je leur ai préparé le repos », de qui parlait-il ? Il parlait de ceux qui s’étaient révoltés.
 58003019	Nous voyons, en effet, qu’ils n’ont pas pu entrer dans ce lieu de repos parce qu’ils avaient refusé de croire.
-58005006	#diese Verse wurde mit der Verse 58005005 zusammen übersetzt.
+58005006	
 58006004	En effet, qu’en est-il de ceux qui retombent dans leur ancienne vie ? Ils ont reçu une fois la lumière de Dieu. Ils ont goûté au don céleste et ont eu part au Saint-Esprit. Ils ont senti combien la parole de Dieu est bonne et ils ont fait l’expérience des puissances du monde à venir. Et pourtant, ils retombent dans leur ancienne vie ! Il est impossible de les amener une nouvelle fois à changer de vie, car, pour leur part, ils remettent le Fils de Dieu sur la croix et l’exposent publiquement aux insultes.
-58006005	#nicht vorhanden
-58006006	#nicht vorhanden
+58006005	
+58006006	
 58007018	Ainsi, l’ancienne règle a été abolie, parce qu’elle était faible et inutile.
 58007019	La loi de Moïse, en effet, n’a rien amené à la perfection. Mais une espérance meilleure nous a été accordée et, grâce à elle, nous pouvons nous approcher de Dieu.
 58007022	Par conséquent, Jésus est aussi celui qui nous garantit une alliance meilleure.
@@ -150,13 +150,13 @@
 58012009	Rappelons-nous nos pères terrestres : ils nous corrigeaient et nous les respections. Nous devons donc, à plus forte raison, nous soumettre à notre Père céleste pour en recevoir la vie.
 58012010	Nos pères nous corrigeaient pour peu de temps, comme ils le jugeaient bon. Mais Dieu nous corrige pour notre bien, afin que nous ayons part à sa sainteté.
 58012011	Quand nous sommes corrigés, il nous semble au moment même que c’est là une cause de tristesse et non de joie. Mais plus tard, ceux qui ont reçu une telle formation bénéficient de l’effet qu’elle produit : la paix associée à une vie juste.
-60002007	#diese Verse wurde mit der Verse 6002006 zusammen übersetzt.
-60002008	#diese Verse wurde mit der Verse 6002006 zusammen übersetzt.
+60002007	
+60002008	
 60004019	Ainsi, que ceux qui souffrent selon la volonté de Dieu continuent à pratiquer le bien et se remettent eux-mêmes entre les mains du Créateur, qui est fidèle à ses promesses.
 66002026	« A ceux qui auront remporté la victoire et qui auront fait ma volonté jusqu’à la fin, j’accorderai le pouvoir que j’ai reçu moi-même de mon Père : je leur donnerai le pouvoir sur les nations, ils les dirigeront avec une autorité de fer et les briseront comme des pots d’argile. Je leur donnerai aussi l’étoile du matin.
-66002027	#nicht vorhanden
-66002028	#nicht vorhanden
+66002027	
+66002028	
 66004009	Chaque fois que les quatre êtres vivants chantent pour glorifier, honorer et remercier celui qui siège sur le trône, celui qui vit pour toujours,
 66004010	les vingt-quatre anciens s’agenouillent devant celui qui siège sur le trône, ils adorent celui qui vit pour toujours. Ils jettent leurs couronnes devant le trône en disant :
-66005013	#diese Verse wurde zusammen mit der vorderen übersetzt.
+66005013	
 66005014	Les quatre êtres vivants répondaient : « Amen ! » Et les anciens s’agenouillèrent et adorèrent.

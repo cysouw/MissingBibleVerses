@@ -1,15 +1,11 @@
-01044034	#nicht vorhanden
-02017016	#nicht vorhanden
-04028031	#nicht vorhanden
-11011039	#diese Verse wurde zusammen mit der vorderen übersetzt.
-11015006	#die Versenummer im Korpus war falsch. Es wurde keine Verse gefehlt und die Versenummer 11015007 im Korpus soll 11015006 sein.
-11015032	#das gleiche Problem wie die vordere Verse.
-14031021	#nicht vorhanden
-18042004	#nicht vorhanden
-24016021	#nicht vorhanden
-26010014	#nicht vorhanden
-26010015	#nicht vorhanden
-26011011	#nicht vorhanden
-35002014	#die Versenummer im Korpus war falsch. Diese Verse existiert doch, aber mit der Nummer 35002015 im Korpus.
-38007008	#die Versenummer im Korpus war falsch. Diese Verse existiert doch, aber mit der Nummer 38007009 im Korpus.
-41013037	#nicht vorhanden
+01044034	
+02017016	
+04028031	
+11011039	
+14031021	
+18042004	
+24016021	
+26010014	
+26010015	
+26011011	
+41013037	
