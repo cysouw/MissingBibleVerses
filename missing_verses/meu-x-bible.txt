@@ -1,6 +1,6 @@
-19022031
-19022032
-49006021
-49006022
-49006023
-49006024
+19022031	# mit 19022030 zusammenübersetzt
+19022032	# nicht vorhanden
+49006021	# nicht vorhanden
+49006022	# nicht vorhanden
+49006023	# nicht vorhanden
+49006024	# nicht vorhanden
