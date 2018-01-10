@@ -1,28 +1,29 @@
-42015008
-42015009
-42015010
-44003023
-44007007
-44007034
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023026
-44023027
-44023028
-44023029
-44023030
-45001003
-45001004
-45001009
-45001010
-45009011
-45009012
-46005003
-46005004
-46006009
-46006010
-66021004
+42015008	—Ou bien, supposez qu’une femme ait dix pièces d’argent et qu’elle en perde une, ne s’empressera-t-elle pas d’allumer une lampe, de balayer sa maison et de chercher soigneusement dans tous les recoins jusqu’à ce qu’elle ait retrouvé sa pièce ?
+42015009	Et quand elle l’a trouvée, elle rassemble ses amies et ses voisines et leur dit : « Réjouissez-vous avec moi, j’ai retrouvé la pièce que j’avais perdue. »
+42015010	De même, je vous le déclare, il y a de la joie parmi les *anges de Dieu pour un seul pécheur qui change de vie.
+44003023	Celui qui refusera d’obéir à ce prophète sera exclu de mon peuple par la mort.
+44007007	Mais, ajouta Dieu, j’exécuterai mon jugement contre la nation qui en aura fait ses esclaves. Après cela, ils quitteront le pays étranger et viendront ici-même, dans ce pays, pour me rendre un culte.
+44007034	J’ai vu la souffrance de mon peuple en Égypte. J’ai entendu ses gémissements et je suis descendu pour le délivrer. Et maintenant, viens : je t’envoie en Égypte.
+44015024	Nous avons appris que certains frères venus de chez nous ont jeté le trouble parmi vous et vous ont désorientés par leurs paroles. Or, ils n’avaient reçu aucun mandat de notre part.
+44015025	C’est pourquoi nous avons décidé à l’unanimité de choisir des délégués et de vous les envoyer avec nos chers frères Barnabas et Paul
+44015026	qui ont risqué leur vie pour la cause de notre Seigneur Jésus-Christ.
+44015027	Nous vous envoyons donc Jude et Silas, qui vous confirmeront de vive voix ce que nous vous écrivons.
+44015028	Car il nous a semblé bon, au Saint-Esprit et à nous-mêmes, de ne pas vous imposer d’autres obligations que celles qui sont strictement nécessaires :
+44015029	ne consommez pas de viandes provenant des sacrifices aux idoles, du sang, des animaux étouffés, et gardez-vous de toute inconduite sexuelle. Si vous évitez tout cela, vous agirez bien. 
+Recevez nos salutations les plus fraternelles.
+44023026	Claudius Lysias adresse ses salutations à Son Excellence le gouverneur Félix.
+44023027	Les Juifs s’étaient saisis de l’homme que je t’envoie et ils allaient le tuer quand je suis intervenu avec la troupe. Je l’ai arraché de leurs mains, car je venais d’apprendre qu’il était citoyen romain.
+44023028	Comme je voulais savoir de quoi ils l’accusaient, je l’ai fait comparaître devant leur Grand-Conseil.
+44023029	J’ai constaté que leurs accusations portaient sur des questions relatives à leur loi, mais que l’on ne pouvait lui imputer aucune faute entraînant la peine de mort ou même la prison.
+44023030	Mais je viens d’être informé d’un projet d’attentat contre lui. C’est pourquoi je te l’envoie sans attendre, et je fais savoir à ses accusateurs que c’est devant toi qu’ils auront à porter plainte contre lui.
+45001003	Elle parle de son fils Jésus-Christ, notre Seigneur qui, dans son humanité, descend de *David, et qui a été déclaré Fils de Dieu avec puissance lorsque le Saint-Esprit l’a ressuscité des morts.
+45001004	
+45001009	Dans toutes mes prières, je ne cesse de faire mention de vous à toute occasion et Dieu m’en est témoin, lui que je sers de tout mon être en proclamant la Bonne Nouvelle qui concerne son Fils : je lui demande de me donner enfin l’occasion de vous rendre visite si telle est sa volonté.
+45001010	
+45009011	Or, Dieu a un plan qui s’accomplit selon son libre choix et qui dépend, non des actions des hommes, mais uniquement de la volonté de celui qui appelle. Et pour que ce plan demeure, c’est avant même la naissance de ces enfants, et par conséquent avant qu’ils n’aient fait ni bien ni mal, que Dieu dit à Rébecca : L’aîné sera assujetti au cadet.
+45009012	
+46005003	Pour moi, qui suis absent de corps, mais présent en pensée parmi vous, j’ai déjà, comme si j’étais présent, prononcé la sentence au nom du Seigneur Jésus contre celui qui a commis cette faute.
+46005004	Lorsque vous serez réunis, et que je serai présent parmi vous en pensée, appliquez cette sentence dans la puissance de notre Seigneur Jésus :
+46006009	Ne savez-vous pas que ceux qui pratiquent l’injustice n’auront aucune part au royaume de Dieu ? Ne vous y trompez pas : il n’y aura point de part dans l’héritage de ce royaume pour les débauchés, les idolâtres, les adultères, les pervers ou les homosexuels, ni pour les voleurs, les avares, pas plus que pour les ivrognes, les calomniateurs ou les malhonnêtes.
+46006010	
+66021004	Il essuiera toute larme de leurs yeux. La mort ne sera plus et il n’y aura plus ni deuil, ni plainte, ni souffrance. Car ce qui était autrefois a définitivement disparu.

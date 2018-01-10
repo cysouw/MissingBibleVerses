@@ -138,143 +138,143 @@
 45010019	#es wurde zusammen mit der Verse 45010018 übersetzt.
 45010020	#es wurde zusammen mit der Verse 45010018 übersetzt.
 45010021	#es wurde zusammen mit der Verse 45010018 übersetzt.
-45011009
-45011028
-45011029
-45011030
-45011031
-45011032
-45014012
-45015010
-45015011
-45015012
-45015013
-46001020
-46001021
-46001022
-46001023
-46001024
-46001025
-46002010
-46002011
-46002012
-46002013
-46002014
-46002015
-46002016
-46014022
-46014023
-46014024
-46014025
-46015034
-46015056
-46015057
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-48004028
-48004029
-48004030
-48004031
-49004007
-49004008
-49004009
-49004010
-54002007
-54006009
-54006010
-54006013
-54006014
-54006015
-55001011
-55001012
-56001013
-56001014
-56001015
-56001016
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002013
-58002014
-58002015
-58002016
-58002017
-58002018
-58003012
-58003013
-58003014
-58003015
-58003016
-58003017
-58003018
-58003019
-58004008
-58004009
-58004010
-58005006
-58005007
-58005008
-58005009
-58005010
-58006015
-58006016
-58006017
-58006018
-58006019
-58006020
-58007018
-58007019
-58007022
-58008013
-58009021
-58009022
-58010008
-58010018
-58010031
-58010039
-58011019
-58011020
-58011021
-58011022
-58012007
-58012008
-58012009
-58012010
-58012011
-58012027
-58012028
-58012029
-59004007
-59004008
-59004009
-59004010
-60002007
-60002008
-60003020
-60003021
-60003022
-62004011
-62004012
-62004013
-62004014
-66004009
-66004010
-66005013
-66005014
-66011016
-66011017
-66016007
-66018017
-66018024
-66019002
-66019003
-66019004
-66019005
-66019006
+45011009	#es wurde zusammen mit der Verse 45011008 übersetzt.
+45011028	Du point de vue de la bonne nouvelle, certes, ils sont ennemis, à cause de vous, mais du point de vue du choix de Dieu, ils sont aimés à cause de leurs pères.
+45011029	Car les dons de la grâce et l’appel de Dieu sont irrévocables.
+45011030	En effet, tout comme vous, autrefois, vous avez refusé d’obéir à Dieu et maintenant, pourtant, vous avez obtenu compassion, du fait de leur refus d’obéir,
+45011031	de même eux aussi, maintenant, ont refusé d’obéir, du fait de la compassion dont vous bénéficiez, pour qu’eux aussi puissent maintenant obtenir compassion.
+45011032	Car Dieu a enfermé tous les humains dans leur refus d’obéir, pour avoir compassion de tous.
+45014012	Ainsi donc, chacun de nous rendra compte à Dieu pour lui–même.
+45015010	#es wurde zusammen mit der Verse 45015009 übersetzt.
+45015011	#es wurde zusammen mit der Verse 45015009 übersetzt.
+45015012	#es wurde zusammen mit der Verse 45015009 übersetzt.
+45015013	Que le Dieu de l’espérance vous remplisse de toute joie et de toute paix dans la foi, pour que vous abondiez en espérance par la puissance de l’Esprit saint !
+46001020	Où est le sage ? Où est le scribe ? Où est le débatteur de ce monde ? Dieu n’a–t–il pas frappé de folie la sagesse du monde ?
+46001021	En effet, puisque le monde, par la sagesse, n’a pas connu Dieu dans la sagesse de Dieu, c’est par la folie de la proclamation qu’il a plu à Dieu de sauver ceux qui croient.
+46001022	Les Juifs, en effet, demandent des signes, et les Grecs cherchent la sagesse.
+46001023	Or nous, nous proclamons un Christ crucifié, cause de chute pour les Juifs et folie pour les non–Juifs ;
+46001024	mais pour ceux qui sont appelés, Juifs et Grecs, un Christ qui est la puissance de Dieu et la sagesse de Dieu.
+46001025	Car la folie de Dieu est plus sage que les humains, et la faiblesse de Dieu est plus forte que les humains.
+46002010	Or c’est à nous que Dieu l’a révélé par l’Esprit. Car l’Esprit sonde tout, même les profondeurs de Dieu.
+46002011	Qui donc, parmi les humains, sait ce qui relève de l’humain, sinon l’esprit de l’humain qui est en lui ? De même, personne ne connaît ce qui relève de Dieu, sinon l’Esprit de Dieu.
+46002012	Or nous, ce n’est pas l’esprit du monde que nous avons reçu, mais l’Esprit qui vient de Dieu, pour que nous sachions ce que Dieu nous a donné par grâce.
+46002013	Et nous en parlons, non avec les discours qu’enseigne la sagesse humaine, mais avec ceux qu’enseigne l’Esprit, en associant le spirituel au spirituel.
+46002014	Mais l’homme naturel n’accueille pas ce qui relève de l’Esprit de Dieu, car c’est une folie pour lui ; il ne peut pas connaître cela, parce que c’est spirituellement qu’on en juge.
+46002015	L’être spirituel, lui, juge de tout, tandis que lui–même n’est jugé par personne.
+46002016	En effet, qui a connu la pensée du Seigneur, pour l’instruire ? Or nous, nous avons la pensée du Christ.
+46014022	Par conséquent, les langues sont un signe, non pas pour les croyants, mais pour les non–croyants ; le message de prophète, au contraire, est un signe, non pas pour les non–croyants, mais pour les croyants.
+46014023	Admettons que l’Église entière se rassemble et que tous parlent en langues ; s’il survient de simples auditeurs ou des non–croyants, ne diront–ils pas que vous êtes fous ?
+46014024	En revanche, si tous parlent en prophètes et qu’il survienne un non–croyant ou un simple auditeur, il est confondu par tous, il est jugé par tous ;
+46014025	les secrets de son cœur deviennent manifestes. Alors, tombant face contre terre, il adorera Dieu en déclarant : Dieu est réellement parmi vous !
+46015034	Ressaisissez–vous sérieusement et cessez de pécher ; quelques–uns, en effet, méconnaissent Dieu — je le dis à votre honte.
+46015056	L’aiguillon de la mort, c’est le péché ; et la puissance du péché, c’est la loi.
+46015057	Mais grâce soit rendue à Dieu, qui nous donne la victoire par notre Seigneur Jésus–Christ !
+47009010	Or celui qui fournit de la semence au semeur et du pain pour la nourriture vous fournira la semence, la multipliera et fera croître le produit de votre justice.
+47009011	Vous serez ainsi riches de tout, pour toute la générosité qui produira, par notre entremise, des actions de grâces envers Dieu.
+47009012	Car le ministère de cette offrande, non seulement supplée à ce qui manque aux saints, mais encore fait abonder les actions de grâces envers Dieu.
+47009013	Du fait de la valeur éprouvée de ce ministère, ils glorifient Dieu pour l’obéissance avec laquelle vous reconnaissez publiquement la bonne nouvelle du Christ et pour la générosité de votre solidarité avec eux et avec tous.
+47009014	C’est avec une vive affection qu’ils prient pour vous à cause de la grâce surabondante que Dieu vous a faite.
+47009015	Grâce soit rendue à Dieu pour son don ineffable !
+48004028	Quant à vous, mes frères, comme Isaac, vous êtes enfants de la promesse.
+48004029	Mais tout comme autrefois celui qui était né selon la chair persécutait celui qui l’était selon l’Esprit, ainsi en est–il encore maintenant.
+48004030	Or que dit l’Écriture ? Chasse la servante et son fils, car le fils de la servante n’héritera pas avec le fils de la femme libre.
+48004031	Ainsi, mes frères, nous ne sommes pas les enfants de la servante, mais ceux de la femme libre.
+49004007	Mais à chacun de nous la grâce a été accordée selon la mesure du don du Christ.
+49004008	C’est pourquoi il dit : Il est monté dans la hauteur, il a emmené des captifs, il a fait des dons aux humains.
+49004009	Or, que signifie : il est monté, sinon qu’il est aussi descendu dans les régions inférieures, sur la terre ?
+49004010	Celui qui est descendu, c’est le même qui est monté au–dessus de tous les cieux, afin de remplir tout.
+54002007	en vue duquel, moi, j’ai été institué héraut, apôtre (je dis la vérité, je ne mens pas) et maître pour les non–Juifs, dans la foi et la vérité.
+54006009	Mais ceux qui sont décidés à devenir riches tombent dans l’épreuve, dans un piège et dans beaucoup de désirs stupides et pernicieux, qui plongent les gens dans la destruction et la perdition.
+54006010	Car l’amour de l’argent est la racine de tous les maux, et quelques–uns, pour s’y être adonnés, se sont égarés loin de la foi et se sont infligé à eux–mêmes bien des tourments.
+54006013	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+54006014	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+54006015	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+55001011	C’est pour cette bonne nouvelle que, moi, j’ai été institué héraut, apôtre et maître.
+55001012	C’est aussi pour cette cause que j’endure ces souffrances ; mais je n’en ai pas honte, car je sais bien en qui j’ai placé ma foi, et je suis persuadé que celui–là a le pouvoir de garder ce qui m’a été confié jusqu’à ce jour–là.
+56001013	Ce témoignage est vrai. Aussi reprends–les sévèrement, afin qu’ils soient sains dans la foi,
+56001014	au lieu de s’attacher à des fables juives et à des commandements d’humains qui se détournent de la vérité.
+56001015	Tout est pur pour ceux qui sont purs, mais rien n’est pur pour ceux qui sont souillés et sans foi : leur intelligence comme leur conscience sont souillées.
+56001016	Ils déclarent connaître Dieu, mais ils le renient par leurs œuvres. Ils sont abominables, rebelles et inaptes à toute œuvre bonne.
+58001006	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+58001007	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+58001008	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+58001010	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+58001013	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+58001014	Ne sont–ils pas tous des esprits serviteurs, envoyés pour exercer leur ministère en faveur de ceux qui vont hériter le salut ?
+58002013	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+58002014	Ainsi donc, puisque ces enfants ont en commun le sang et la chair, lui aussi, pareillement, a partagé la même condition, pour réduire à rien, par sa mort, celui qui détenait le pouvoir de la mort, c’est–à–dire le diable,
+58002015	et délivrer tous ceux qui, par crainte de la mort, étaient retenus dans l’esclavage toute leur vie.
+58002016	Assurément, en effet, ce n’est pas à des anges qu’il vient en aide, mais c’est à la descendance d’Abraham qu’il vient en aide.
+58002017	Aussi devait–il devenir en tout semblable à ses frères, afin d’être un grand prêtre compatissant et digne de confiance dans le service de Dieu, pour faire l’expiation des péchés du peuple.
+58002018	Car du fait qu’il a souffert lui–même quand il a été mis à l’épreuve, il peut secourir ceux qui sont mis à l’épreuve.
+58003012	Prenez donc garde, frères, que personne parmi vous n’ait un cœur mauvais qui manque de foi et s’éloigne du Dieu vivant.
+58003013	Au contraire, encouragez–vous mutuellement chaque jour, aussi longtemps qu’on peut dire « Aujourd’hui », pour qu’aucun de vous ne s’obstine à cause de l’attrait trompeur du péché.
+58003014	Car nous avons part au Christ, si du moins nous restons fermement attachés, jusqu’à la fin, à la réalité du commencement,
+58003015	#diese Verse wurde mit der Verse 58003011 zusammen übersetzt.
+58003016	Qui, en effet, provoqua l’amertume après avoir entendu ? N’est–ce pas tous ceux qui étaient sortis d’Égypte sous la conduite de Moïse ?
+58003017	Et contre qui fut–il indigné quarante ans durant ? N’est–ce pas contre ceux qui péchèrent et dont les cadavres tombèrent dans le désert ?
+58003018	Et à qui jura–t–il qu’ils n’entreraient pas dans son repos ? N’est–ce pas à ceux qui avaient refusé d’obéir ?
+58003019	Nous voyons bien qu’ils ne purent entrer à cause de leur manque de foi.
+58004008	En effet, si Josué leur avait donné le repos, il n’aurait pas, après, parlé d’un autre jour.
+58004009	Il reste donc un repos sabbatique pour le peuple de Dieu.
+58004010	Car celui qui est entré dans son repos se repose aussi de ses œuvres, comme Dieu des siennes.
+58005006	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
+58005007	Aux jours de sa chair il a offert, à grands cris et dans les larmes, des prières et des supplications à celui qui pouvait le sauver de la mort, et il a été exaucé en raison de sa piété.
+58005008	Tout Fils qu’il était, il a appris l’obéissance par ce qu’il a souffert.
+58005009	Une fois porté à son accomplissement, il est devenu pour tous ceux qui lui obéissent l’auteur d’un salut éternel,
+58005010	Dieu l’ayant déclaré grand prêtre selon l’ordre de Melchisédek.
+58006015	C’est ainsi qu’après s’être montré patient Abraham obtint ce qui avait été promis.
+58006016	En effet, les humains jurent par ce qui est plus grand qu’eux, et le serment, en confirmant leur parole, met un terme à toute contestation.
+58006017	En ce sens, Dieu, décidé à donner aux héritiers de la promesse une preuve supplémentaire du caractère immuable de ses décisions, intervint par un serment,
+58006018	afin que, par deux choses immuables, dans lesquelles il est impossible que Dieu mente, nous ayons un puissant encouragement, nous dont le refuge a été de nous attacher à l’espérance qui nous était proposée.
+58006019	Cette espérance, nous l’avons comme une ancre solide et ferme pour l’âme ; elle pénètre au–delà du voile,
+58006020	là où Jésus est entré pour nous comme un précurseur, devenu grand prêtre pour toujours, selon l’ordre de Melchisédek.
+58007018	En effet, il y a, d’une part, suppression d’un commandement antérieur à cause de sa faiblesse et de son inutilité
+58007019	— car la loi n’a rien porté à son accomplissement — et, d’autre part, introduction d’une espérance supérieure, par laquelle nous nous approchons de Dieu.
+58007022	Jésus est devenu par cela même le garant d’une alliance supérieure.
+58008013	En l’appelant « nouvelle », il a rendu ancienne la première. Or ce qui est ancien et vieilli est en passe de disparaître.
+58009021	De même, il aspergea de sang la tente et tous les objets du service.
+58009022	D’ailleurs, selon la loi, presque tout est purifié avec du sang, et sans effusion de sang il n’y a pas de pardon.
+58010008	#wurde mit der vorderen zusammen übersetzt.
+58010018	Or là où il y a pardon des péchés, il n’y a plus d’offrande pour le péché.
+58010031	Il est terrible de tomber aux mains du Dieu vivant.
+58010039	Quant à nous, nous ne sommes pas de ceux qui se retirent pour se perdre, mais de ceux qui ont la foi pour sauvegarder l’âme.
+58011019	Il estimait que Dieu avait même le pouvoir de réveiller un mort. C’est pourquoi son fils lui fut rendu : il y a là une parabole.
+58011020	C’est par la foi qu’Isaac bénit Jacob et Ésaü en vue de l’avenir.
+58011021	C’est par la foi que Jacob, au moment de mourir, bénit chacun des fils de Joseph, et qu’il se prosterna en s’appuyant sur l’extrémité de son bâton.
+58011022	C’est par la foi que Joseph, mourant, fit mention de l’exode des Israélites et donna des ordres au sujet de ses ossements.
+58012007	C’est pour votre correction que vous endurez ; Dieu vous traite comme des fils. Quel est en effet le fils que le père ne corrige pas ?
+58012008	Si vous êtes exempts de la correction à laquelle tous ont part, c’est que vous n’êtes pas des fils, mais des bâtards.
+58012009	Puisque nous avons tous eu un père de notre chair qui nous corrigeait et que nous respections, ne devons–nous pas à plus forte raison nous soumettre au Père des esprits, pour que nous vivions ?
+58012010	Celui–là, en effet, nous corrigeait pour peu de temps, comme il lui semblait bon ; celui–ci nous corrige pour notre véritable intérêt, afin que nous ayons part à sa sainteté.
+58012011	Toute correction, il est vrai, ne semble pas être au premier abord un sujet de joie, mais un sujet de tristesse ; plus tard, toutefois, elle procure à ceux qu’elle a formés un fruit de paix, la justice.
+58012027	Ce « une fois encore » montre bien que doit être mis à l’écart ce qui, ayant été fait, peut être ébranlé, pour que demeure ce qui ne peut être ébranlé.
+58012028	Aussi, puisque nous recevons un royaume inébranlable, montrons notre gratitude en rendant à Dieu un culte qui soit agréé de lui, avec piété et avec crainte.
+58012029	Car notre Dieu est aussi un feu dévorant.
+59004007	Soumettez–vous donc à Dieu ; opposez–vous au diable, et il vous fuira.
+59004008	Approchez–vous de Dieu, et il s’approchera de vous. Purifiez vos mains, pécheurs, et nettoyez votre cœur, âmes partagées !
+59004009	Reconnaissez votre misère, menez deuil, pleurez ! Que votre rire se change en deuil et votre joie en tristesse !
+59004010	Abaissez–vous devant le Seigneur, et il vous élèvera.
+60002007	L’honneur est donc pour vous qui croyez. Mais, pour les gens sans foi : C’est la pierre que les constructeurs ont rejetée qui est devenue la principale, celle de l’angle,
+60002008	et : une pierre d’achoppement, un rocher qui cause la chute. Ils s’y achoppent en refusant d’obéir à la Parole ; c’est aussi à cela qu’ils ont été destinés.
+60003020	à ceux qui avaient refusé d’obéir autrefois, lorsque la patience de Dieu attendait — aux jours où Noé bâtissait l’arche dans laquelle un petit nombre de personnes, huit, furent sauvées à travers l’eau.
+60003021	C’était une figure du baptême qui vous sauve à présent — baptême qui n’ôte pas la saleté de la chair, mais qui est l’engagement envers Dieu d’une bonne conscience — par la résurrection de Jésus–Christ
+60003022	qui s’en est allé au ciel, qui est à la droite de Dieu et à qui anges, autorités et puissances ont été soumis.
+62004011	Bien–aimés, si Dieu nous a tant aimés, nous devons, nous aussi, nous aimer les uns les autres.
+62004012	Personne n’a jamais vu Dieu. Si nous nous aimons les uns les autres, Dieu demeure en nous, et son amour est accompli en nous.
+62004013	À ceci nous savons que nous demeurons en lui, comme lui en nous : c’est qu’il nous a donné de son Esprit.
+62004014	Et nous, nous avons vu et nous témoignons que le Père a envoyé le Fils comme sauveur du monde.
+66004009	Et chaque fois que les êtres vivants donnent gloire, honneur et actions de grâces à celui qui est assis sur le trône, à celui qui vit à tout jamais,
+66004010	les vingt–quatre anciens tombent aux pieds de celui qui est assis sur le trône, se prosternent devant celui qui vit à tout jamais et jettent leurs couronnes devant le trône, en disant :
+66005013	#wurde zusammen mit der vorderen Verse übersetzt.
+66005014	#wurde zusammen mit der vorderen Verse übersetzt.
+66011016	Les vingt–quatre anciens qui étaient assis devant Dieu sur leurs trônes tombèrent face contre terre, prosternés devant Dieu,
+66011017	#wurde zusammen mit der Verse 66011015 zusammen übersetzt.
+66016007	#wurde zusammen mit der vorderen Verse übersetzt.
+66018017	#wurde zusammen mit der vorderen Verse übersetzt.
+66018024	— chez elle on a trouvé le sang des prophètes, des saints et de tous ceux qui ont été immolés sur la terre.
+66019002	parce que ses jugements sont vrais et justes. Il a jugé la grande prostituée qui ruinait la terre par sa prostitution, et il a vengé le sang de ses esclaves en le lui réclamant.
+66019003	Ils dirent une seconde fois : Alléluia ! Sa fumée monte à tout jamais !
+66019004	Les vingt–quatre anciens et les quatre êtres vivants tombèrent et se prosternèrent devant Dieu qui est assis sur le trône, en disant : Amen ! Alléluia !
+66019005	Du trône sortit une voix qui disait : Louez notre Dieu, vous tous, ses esclaves, vous qui le craignez, petits et grands !
+66019006	Et j’entendis comme la voix d’une grande foule, comme le bruit de grandes eaux et comme le bruit de forts tonnerres, qui disait : Alléluia ! Car le Seigneur, notre Dieu, le Tout–Puissant, a instauré son règne.
