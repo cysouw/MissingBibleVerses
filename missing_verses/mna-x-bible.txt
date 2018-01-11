@@ -1,4 +1,4 @@
-02016036
-41011010
-41012030
-47006018
+02016036	# mit 02016034 zusammen übersetzt.
+41011010	# Im Korpus wurde mit 41011009 zusammen übersetzt, jedoch gibt es Auslassungen, auf http://pngscriptures.org/mna/MRK11.htm sind zwei Versen getrennt übersetzt.
+41012030	Tana ur lelem ila ki Merere Anutu ku, raama ŋgar ku mi mburom, ma imap ma iwe ni lene men. 
+47006018	Mi nio ko aŋwe tomoyom, mi niom kewe lutuŋ bizin mi lutuŋ moori bizin. Ina Merere mbura keskeezeŋana itunu iso ta kembei.
