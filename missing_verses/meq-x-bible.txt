@@ -1,8 +1,8 @@
-40014004	# mit 40014003 zusammenübersetzt
-41005028	# mit 41005027 zusammenübersetzt
-41007026	# mit 41007025 zusammenübersetzt
-42001009	# mit 42001008 zusammenübersetzt
-43004008	# mit 43004007 zusammenübersetzt
-43011002	# mit 43011001 zusammenübersetzt
-45009012	# mit 45009011 zusammenübersetzt
-66001005	# mit 66001004 zusammenübersetzt
+40014004	
+41005028	
+41007026	
+42001009	
+43004008	
+43011002	
+45009012	
+66001005	
