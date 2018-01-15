@@ -1,75 +1,82 @@
-40002023
-40004004
-40004007
-40004010
-40005003
-40005004
-40005005
-40005006
-40005007
-40005008
-40005009
-40005010
-40005011
-40005012
-40006010
-40006011
-40006012
-40006013
-40011017
-41011010
-41013025
-41013027
-41014062
-42001047
-42001048
-42001049
-42001051
-42001052
-42001054
-42001055
-42001068
-42001069
-42001070
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002014
-42002029
-42002030
-42002031
-42002032
-42006021
-42006024
-42006025
-42006026
-42011003
-42011004
-45011033
-45011036
-46015054
-55002012
-55002013
-66004011
-66005010
-66007012
-66011018
-66012011
-66012012
-66015004
-66018003
-66018005
-66018006
-66018007
-66018008
-66018017
-66018020
-66018022
-66018023
-66019007
-66019008
+40002023	Ma ga kis tano taman di la kilkilam ie bia Nasaret. Ga ngan huo wara pakpakile haruatne hoing God ga tange ta ira tangesot hoken, “Da kilam bia a lup Nasaret ie.”
+40004004	Iesen Jisas ga balui, “Tiga harkurai gar ta God di ga pakat ie wara gaie mehet ira matanaiabar i tange bia, ‘Ira tunotuno diet pa na lon tano nian sen mon. Diet lon ta ira nianga i hanan suur tano hane God.’ ”
+40004007	Jisas ga balui, “Tiga harkurai gar ta God di ga pakat ie wara gaie mehet ira matanaiabar i tange bia, ‘Waak muat walar no Watong, no numuat God.’ ”
+40004010	Jisas ga tange tana, “Sataan, haan laah! Tiga harkurai gar ta God di ga pakat ie wara gaie mehet ira matanaiabar i tange mah hoken, ‘Muat na lotu tupas no Watong no numuat God, ma aie sen mon muat na hanapu muat tana.’ ”
+40005003	“Diet daan ing diet nunure bia diet manga supi ira linge meram ho God,
+kanong diet na sola tano kinkinis na harkurai ma ra harbalaurai ta God.
+40005004	Diet daan ing diet tapunuk,
+kanong God na habalaraan diet.
+40005005	Diet daan ing diet matien na tunotuno,
+kanong God na tabar diet ma ira tahut na linge ing gate tagure tar wara audiet.
+40005006	Diet daan ing diet sip haitne ra magingin takodas, kanong God na banot ira udiet sinisip.
+40005007	Diet daan ing diet marse ira mes, kanong God na marse diet.
+40005008	Diet daan ing diet tutun tano matmataan ta God, kanong diet na nas God.
+40005009	Diet daan ing diet la tartar malum, kanong God na kilam diet bia a natine diet.
+40005010	Diet daan ing di helar ta diet pane ira magingin takodas, kanong diet na sola tano kinkinis na harkurai ma ra harbalaurai ta God.
+40005011	Muat daan ing di tange hagahe muat, ma di helar ta muat, ma di tange ira sakana harabota uta muat wara gaiegu.
+40005012	Ma muat na manga guama sakit kanong ira tamat na hunena ira numuat mangason kenam i kis taar ra mawe. Hokaiken di ga helar huo ta ira tangesot nalua.
+40006010	no num kinkinis na harkurai ma ra harbalaurai na hanuat, ma bia da gil ira num sinisip kai ra ula hanuo, hoing di la gilgil aram ra mawe.
+40006011	Mehet sip bia nu tabar mehet katin ma ira amehet nian ing i haruat ma tiga bung,
+40006012	ma nu lik luban se ira numehet magingin sakena, hoing mehet te lik luban se ira magingin sakena di gil ta mehet.
+40006013	Ma mehet sip mah bia nu balaure bat mehet ta ira harwalaam,
+ma nu kap pukus mehet tano Ut na Gil Sakena. [Io, anum no kinkinis na harkurai ma ra harbalaurai, no dadas, ma no minamar hathatikai. Amen.]’
+40011017	‘Mehet pasar no kudu iesen muat pai mangata;
+Mehet inge marmaris iesen muat pai suah.’
+41011010	God i te idane nong i hanuat wara kapkap no tamat na kinkinis tano hintubu dahat Dawit, no tamat na lualua na gil harkurai. Pirlat God nong i kis aram naliu sakit.”
+41013025	ira tiding diet na rus meram ra mawe, ma ira dadas aram ra mawe, diet na pagola.’
+41013027	Ma na tule um ira uno angelo wara lamlamus hulungan a uno, ing gate gilamis leh. Ma diet ira angelo diet na lamus hulungan ira uno matanaiabar mekaia ta ira aihat na matana dadaip tano hauhawatine no ula hanuo tuk taar tano hauhawatine no ula mawe.
+41014062	“Iau at mon,” Jisas ga tange. “Ma muat na nas Nong a Tunotunoi ma na kis taar tano tamat na kinkinis kaia tano kata na limane God no Dadasine, ma na hanhan suur ta ira bahuto meram ra mawe.”
+42001047	ma no tanuagu i guama ta God no nugu ut na Halon.
+42001048	Kanong warah, i te lik leh no nugu kinkinis na maris, iau no uno tultulai. Io kaik, tur leh um ma kaiken, ira matanaiabar katin ma diet mah namur um, diet na wasange iau bia i ga haidane iau. 
+42001049	Kanong warah, no Dadas na God i te gil ra tamat na linge sakit tagu. No hinsana i Halhaal. 
+42001051	I te gil ra dadas na linge ma no limana. I te tule harbasiane se diet ing diet lik hatamat habaling diet. 
+42001052	I te bul hasur se ira lualua meram ta ira udiet kinkinis na tamat na ut na harkurai. Iesen i te raun haut balik ira maris.
+42001054	I te harahut ira matanaiabar Israel, ira uno tultulai, hoing ga tange ta ira hintubu dahat bia na gil huo.
+42001055	I te lik leh bia no uno harmarsai na kis hatika taar ta Abraham ma ira uno bulumur.”
+42001068	“A pirhakasing uram tupas no Watong, no God gar Israel, kanong i ta me kul halangalanga leh ira uno matanaiabar. 
+42001069	God i te hatut tiga dadas na ut na harhalon uta dahat meram tano huntunaan gar ta Dawit no uno tultulai
+42001070	hoing ga hamines ta ira uno halhaliana tangesot diet gaam tange nalua sakit. 
+42001072	I te gil huo wara hamhamines ra harmarsai taar ta ira hintubu dahat ma wara liklik leh tar no uno halhaliana kunubus,
+42001073	nong ga sasalim taar ta Abraham no hintubu dahat.
+42001074	Ma i te gil huo wara halangalanga ise dahat ta ira luma diet ira adahat suk. Io kaik, i tale dahat bia dahat na lotu tupas ie
+42001075	ma ra gamgamatien ma ra takodas ma taie ta bunurut ta ira udahat nilon bakut.
+42001076	Ma augu ra natigu, da kilam ugu bia no tangesot gar ta God Nong i Lua Harsakit, kanong augu, nu lua tano Watong wara tangtagure no ngaas wara utana.
+42001077	Ma nu gil huo wara tartar ta ira uno matanaiabar no minminonas tano harhalon nong diet na hatur kawase ing God na lik luban se ira udiet magingin sakena.
+42001078	Ma na lik luban se kaike ra sakena kanong no balana no udahat God i manga hung ma ra harmarsai. Ma no uno harmarsai na hatahuat no pupuruk hut tano kasakes taar ta dahat meram ra mawe 
+42001079	wara murmurarang sare diet ing diet lalon ra kankado ma tano henai na minaat, ma wara lulue no udahat hinahaan taar tano ngaas na malum.” 
+42002014	“Da pirhakasing no minarine God kananam naliu sakit!
+Ma ra malum ukatiga ta ira matanaiabar tano ula hanuo ing God i guama pane diet!”
+42002029	“Nugu Watong, kaiken um iau te kilingane ra malum. Io, nu haut se iau, no num tultulai, nigi haan talur kan ra nilon.
+42002030	Gil huo tagu kanong ira iruo matagu um dir te nes no num harhalon
+42002031	nong u te tagurei ra matmataan ta ira matanaiabar bakut.
+42002032	Aie ra lulungo wara hamadaraasne diet ing pai a Iudeia diet, ma aie no minarine ira num matanaiabar Israel.”
+42006021	Muat daan ing muat taburungan kaiken kanong muat na hahos baak. Muat daan ing muat suah kaiken kanong muat na kurus. 
+42006024	Iesen maris ta muat ira watong kanong muat te hatur kawase um ira linge i haguama muat.
+42006025	Maris ta muat ing muat hahos kaiken, kanong muat na taburungan baak. Maris ta muat ing muat kurus kaiken, kanong muat na tapunuk ma muat na suah baak. 
+42006026	Maris ta muat ing bia ira tunotuno bakut diet tange bia a tahut muat kanong ira hintubu diet, diet git gilgil mah huo ta ira tangesot harabota. 
+42011003	Mehet sip bia nu tabar mehet ma ira amehet nian ing i haruat ma tiga bung.
+42011004	Ma nu lik luban se ira numehet magingin sakena hoing mehet la liklik luban se ira magingin sakena di gil ta mehet. Ma mehet sip mah bia nu balaure bat mehet ta ira harwalaam.” 
+45011033	Ai! I tamat sakit ira bilai na linge ta God! I manga kikil no uno mintot ma i manga keskes sakit wara gilgil no uno pinapalim! Taie tikai i tale bia na palai bia God i bul no uno lilik huo warah! Pai tale bia tiga nong na silhe ira uno ngaas!
+45011036	Taie tikai pai gil huo tana kanong ira linge bakut ga tahuat laah tana ma aie nong i hatur hadadas ira linge bakut ma aie no hauhawatine ta ira linge bakut.
+Da pirlat ie hathatikai. A tutun sakit.
+46015054	Ma tano pakana bung bia no marotuana na kikios taar ta nong pai tale bia na marota ma no minatine na kikios taar ta nong pai tale bia na maat, io, no nianga ta God di ga pakat ie na hanuat tutun hoken bia, “God ga haliare hasakitne no magingin na minaat ing ga paas hasur ie.”
+55002012	bia dahat tur dadas ta ira tirtirih, dahat na harkurai tika mah mei. Bia dahat na harus isei, aie mah na harus ise dahat;
+55002013	bia dahat pai tutun, aie i tutun hathatika, kanong pai tale bia na gil ing i mes tano magirana.
+66004011	“God no numehet Watong, i takodas bia da hatamat ugu, ma bia da ru ugu. Ma i takodas bia u hatur kawase nora dadas. Warah, kanong u ga hakisi ira linge bakut. U ga hakisi diet haruat ma no num sinisip. Ma diet lon hoing u sip huo.”
+66005010	Ma u te was halaka diet tano num kinkinis na harkurai ma ra harbalaurai, bia diet naga gil ra pinapalim na ut na pakila lotu tupas no udahat God.
+66007012	“Mehet haut ta ira numuat nianga! Da pirhakasing no udahat God! A minamar i kis tana ma a ut na mintot ie! Da tanga tahut tana ma da ru ie! Ira dadas ma ira baso auno no udahat God hathatika! Amen!”
+66011018	 Ira tabuna nurnuruan ta ira hunhuntunaan bakut tano ula hanuo, diet ga bala ngalngaluan, iesen no pakana bung tano num ngalngaluan i te hanuat um. No pakana bung bia nu kure ira minaat i te hanuat. No pakana bung i te hanuat mah um bia nu tar ra bilai na harkul ta ira num tultulai ira tangesot, ma ta ira num gamgamatien matanaiabar tus, diet ing diet urur tano hinsaam, diet ira watong ma diet ira maris. Iesen no pakana bung i te hanuat wara halhaliare diet ing diet la halhaliare no ula hanuo.”
+66012011	Ira hinsaka dahat diet ga bul hasur no dadas tano ut na hartutung ma ra dena no Nat na Sipsip ma ta ira tutun diet ga hinhinawas ine. Diet pa ga manga lilik uta ira udiet nilon. Taie. Diet ga kanan bia diet na maat.
+66012012	Io kaik, i tahut bia muat bakut ing muat kis aram ra mawe, muat na guama! Iesen bia na sakena ta diet tano ula hanuo ma no tes, kanong no ut na hartutung i te hansur tupas muat! I manga ngalngaluan taar kanong i nunure bia ira uno pakana bung i kumkumine.”
+66015004	No Watong, i tutun sakit bia ira matanaiabar bakut diet na ru ugu ma diet na hatamat no hinsaam, kanong augu sen mon u halhaal. Io, ira hunhuntunaan tano ula hanuo bakut diet na hanuat ma diet na lotu tupas ugu, kanong ira num takodasuana magingin i te hanuat puasa.
+66018003	I te puko huo kanong ira hunhuntunaan bakut tano ula hanuo diet ta mame ira uno dadas na taah ing git lamlamus ira tunotuno wara hilawa. Ira tamat na lualua tano ula hanuo diet ga noh tika mei. Ira ut na susuhur diet ga kap ira udiet kinkinis na watong ta ira uno haleng na masmasingan.”
+66018005	Ira uno sakana magingin i te hung hut um uram muk ra mawe. Ma God i te lik leh ira uno sakena.
+66018006	Muat na gil tana hoing ga gil huo ta muat. Ga hagahe muat. Io kaik, muat na manga hagahe balik ie. Ga hamamo muat ma ra dadas na taah na ngunngutaan. Io kaik, muat na hamamo ie ma ra dadas na taah wara tamat na ngunngutaan.
+66018007	Ga hamar habaling ie ma ga tabar habaling ie ma ra bilai na linge sakit. Io kaik, muat na balu pukus ie haruat ma no uno magingin. Iesen muat na tabar ie ma ra ngunngutaan ma muat na gil hasusuah ie. I tange habaling at tana bia, ‘Iau no hahin ta tiga tamat na lualua. Iau pai makosa. Ma iau pa ni le tapunuk.’
+66018008	Io kaik, kaiken ra mangana hinangul na haan tupas hagasiaan ie. Na maset, na tapunuk, ma na sam ra tamat na taburungan. Ma na do tano iaah, kanong God no Watong nong i kure ie huo a dadasinei.
+66018017	No num tamat na kinkinis na watong hokaiken i te pataam gasien!’ Ira matahu taan tes diet na tur tapaka. 
+66018020	Muat aram ra mawe, muat na guama uta kaike i haan tupas ie. Muat ira gamgamatien na matanaiabar tus ta God ma muat ira apostolo ma muat ira tangesot, muat na guama. God i te kure hagahei haruat ma ira uno sakana gingilaan ga gil ta muat.’ ”
+66018022	Di git hanhadade ira maririsuan na ninge ta ira ut na ninge ma ira ut na bu ngaap ma ira ut na hus tulaal ma ira ut na puh tahur. Iesen pa da le hadade habaling diet huo kaia ho ugu. Ira matahu ut na pinapalim, pa da le nes habaling diet kaia ho ugu. Ma pa da le hadade habaling mah diet ing diet la ringrigis ira pat na wit kaia ho ugu.
+66018023	Ira lulungo pa nale murarang kaia ho ugu. Ira ingana ira sigar tinolen, pa da le hadade habaling diet kaia ho ugu. Ira num ut na susuhur diet ga tamat ta ira tunotuno tano ula hanuo bakut. U ga hasakit ta ira hunhuntunaan hoing tiga ut na ser magirmagir, kaik u gaam habato lamus diet.”
+66019007	I tahut bia dahat na guama ma bia dahat na hatamat no hinsana kanong no bung na tinolen tano Nat na Sipsip i te hanuat um. No uno hahin i te tagure habaling ie wara tinolen.
+66019008	Ma di te tar ra bilai na sigasigam tano hahin. Iakano sigasigam i gamgamatien ma i pilpilakas.” (Ma a malalar ie ta ira taktakodasuana magingin ta ira gamgamatien na matanaiabar tus ta God.)

@@ -1,34 +1,34 @@
-41016009
-41016012
-41016014
-41016019
-42001055
-42008002
-42019025
-42022043
-42023045
-43004024
-43010015
-44001022
-44008028
-44012004
-44013039
-45001004
-45001010
-45002029
-45003026
-45004018
-45004020
-45007025
-45009003
-45009012
-46005004
-46005013
-47001016
-52001003
-60001011
-66002027
-66002028
-66007006
-66007007
-66007008
+41016009	Ɓaawo Yeesu ummiti diga maayde, nyande Alat fajiri cub, o waŋgani Mariyama mo Magdala tawon. (Ɗum kaŋko mo Yeesu riiwno ginnaaji joweeɗiɗi e mum.)
+41016012	Ɓaawo maajum Yeesu waŋgani ɗiɗo maɓɓe bee jaati feere, nde ɓe ɗon njaha kawye.
+41016014	Ɓaawoɗon Yeesu waŋgani pukara'en sappo e go'o saa'i ɓe ɗon nyaama. O feli ɓe ngam sooynde nuɗɗinki maɓɓe. O feli ɓe boo ngam caatal ɓerɗe maɓɓe, ngam ɓe nuɗɗinaay bolle yi'ɓe mo ɓaawo o ummiti.
+41016019	Yeesu, waato Jawmiraawo nde timmini wolwango pukara'en, o eeŋgti haa asama, o jooɗi haa nyaamo Allah. 
+42001055	ngam o yejjitaay ko o wi'no o hokkan kaakaaji meeɗen, waato Ibrahiima e danygol muuɗum haa foroy."
+42008002	#diese Verse wurde zusammen mit der vorderen übersetzt.
+42019025	#nicht vorhanden
+42022043	#nicht vorhanden
+42023045	#diese Verse wurde zusammen mit der vorderen übersetzt.
+43004024	#diese Verse wurde zusammen mit der vorderen übersetzt.
+43010015	#diese Verse wurde zusammen mit der vorderen übersetzt.
+44001022	#diese Verse wurde zusammen mit der vorderen übersetzt.
+44008028	#diese Verse wurde zusammen mit der vorderen übersetzt.
+44012004	#diese Verse wurde zusammen mit der vorderen übersetzt.
+44013039	#diese Verse wurde zusammen mit der vorderen übersetzt.
+45001004	#diese Verse wurde zusammen mit der vorderen übersetzt.
+45001010	#diese Verse wurde zusammen mit der vorderen übersetzt.
+45002029	#diese Verse wurde zusammen mit der vorderen übersetzt.
+45003026	#diese Verse wurde zusammen mit der vorderen übersetzt.
+45004018	#diese Verse wurde zusammen mit der vorderen übersetzt.
+45004020	#diese Verse wurde zusammen mit der vorderen übersetzt.
+45007025	#diese Verse wurde zusammen mit der vorderen übersetzt. Aber es gab Auslassung: Kayto, mi jurumɗo! Walaa ko luttani yam, sey maayde. Moy rimɗintammi e ɓillaare nde'e? Yettoore laatano Allah ngam barka Yeesu Almasiihu, Jawmiraawo men.
+45009003	#diese Verse wurde zusammen mit der vorderen übersetzt.
+45009012	#diese Verse wurde zusammen mit der vorderen übersetzt.
+46005004	#diese Verse wurde zusammen mit der vorderen übersetzt.
+46005013	#diese Verse wurde zusammen mit der vorderen übersetzt.
+47001016	#diese Verse wurde zusammen mit der vorderen übersetzt.
+52001003	#diese Verse wurde zusammen mit der vorderen übersetzt.
+60001011	#diese Verse wurde zusammen mit der vorderen übersetzt.
+66002027	#diese Verse wurde zusammen mit der vorderen übersetzt.
+66002028	#diese Verse wurde zusammen mit der vorderen übersetzt.
+66007006	#diese Verse wurde zusammen mit der vorderen übersetzt.
+66007007	#diese Verse wurde zusammen mit der vorderen übersetzt.
+66007008	#diese Verse wurde zusammen mit der vorderen übersetzt.
