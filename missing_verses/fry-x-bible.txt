@@ -1,3 +1,3 @@
-07010017	#diese Verse wurde mit der vorderen Verse zusammen übersetzt.
-12007011	#nicht vorhanden
-19059003	#nicht vorhanden
+07010017	
+12007011	
+19059003	

@@ -1,15 +1,9 @@
 01034031	Ils répondirent : "Devait-on traiter notre sœur comme une prostituée ?"
 02017003	Le peuple querella Moïse, en disant : "Donnez-nous de l’eau, que nous buvions !" Moïse leur répondit : "Pourquoi me cherchez-vous querelle ? pourquoi tentez-vous le Seigneur ?"
 04034029	Tels sont ceux à qui l'Éternel donna mission de répartir entre les enfants d'Israël, le pays de Canaan.
-05005030	#nicht vorhanden
-05005031	#nicht vorhanden
-05005032	#nicht vorhanden
-05005033	#nicht vorhanden
-06021044	#nicht vorhanden
-06021045	#nicht vorhanden
-19142006	#nicht vorhanden
-19142007	#nicht vorhanden
-19142008	#nicht vorhanden
+19142006	Ainsi je crie vers toi, ô Eternel, je dis: "C’est toi qui es mon abri, mon lot sur la terre des vivants!"
+19142007	Sois attentif à ma supplication, car je suis extrêmement abaissé; sauve-moi de mes persécuteurs, car ils sont plus puissants que moi.
+19142008	Fais-moi sortir de ma geôle, pour que je puisse rendre hommage à ton nom. Les justes feront cercle autour de moi, si tu daignes me combler de tes bienfaits.
 23030025	Sur toute haute montagne et sur toute colline élevée, il y aura des ruisseaux, des eaux courantes, au jour du grand massacre, lors de la chute des tours fortifiées.
 23030033	Car dès longtemps le Tofet est tout prêt; il a été disposé, lui aussi, profond et large, pour le roi, avec son bûcher allumé, où le bois abonde et que fait flamber le souffle de l'Eternel, tel qu'un torrent de soufre.
 23048018	Ah ! Si seulement tu obéissais à mes ordres, ta prospérité serait comme le fleuve, et ton bonheur comme les flots de la mer;
