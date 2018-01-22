@@ -1,5 +1,5 @@
-06004024
-18042017
-19011007
-24049039
-46010033
+06004024	#Die Verse 06004018 im Korpus wurde seperat im Internet übersetzt. Deshalb scheint diese Verse zu fehlen, aber eigentlich wurde keine Verse gefehlt.
+18042017	#Diese Verse wurde zusammen mit der vorderen Verse übersetzt.
+19011007	#Diese Verse wurde zusammen mit der vorderen Verse übersetzt.
+24049039	#Diese Verse wurde zusammen mit der vorderen Verse übersetzt.
+46010033	#Eigentlich gab es keine Auslassung, aber es gab ein Fehler bei der Verse 46010030 im Korpus, dass die Verse 46010031 auch in der 46010030 stand und die Nummer 31 war auch in der Verse 46010030 zu finden.
