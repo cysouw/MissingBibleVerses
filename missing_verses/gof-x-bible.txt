@@ -1,24 +1,26 @@
-40002017
-40002018
-40003001
-40003002
-40007028
-40007029
-40011018
-40011019
-40024030
-40024031
-40026032
-41009043
-41009045
-41012010
-41012011
-41012037
-41013026
-41013027
-41014028
-41014057
-41014058
+40002017	Nabiya Ermmiyasa doonan, “Yeehoynne zeleelssi, Raama kataman si7ettis. Raahela ba naytas yeekkawusu; entti hayqqida gisho minettanaw dandda7abuukku” gidi odidayssi polettis.
+40002018	
+40003001	He wode Xammaqiya Yohaannisi, “Xoossaa kawotethay matattida gisho hintte nagaraappe simmite” yaagidi sabbakishe Yihuda bazzo biittaa bis.
+40003002	
+40007028	Yesuusi ba oda onggida wode iya timirttey higge asttamaareta mela gidonna maatara gidiya gisho asay iya timirttiyan malaalettidosona.
+40007029	
+40011018	Xammaqiya Yohaannisi moonnanne uyonna yin, ‘Tuna ayyaani de7ees’ yaagideta.
+40011019	Asa Na7ay mishenne uyishe yin, ‘Yarambbanne ushshanchcho, qaraxa qanxiseyssatanne nagaaranchchota dabbo’ yaagideta. Hiza, cinccatethaa tumatethay iya oosuwan qonccees” yaagis.
+40024030	He wode Asa Na7aa yuussaa mallay saluwa bolla benttana. Sa7an de7iya asi ubbay yeekkana. Qassi Asa Na7ay, wolqqaranne gita bonchchuwara saluwa shaara giddora yishin entti be7ana.
+40024031	I ba kiitanchchota gita punniya moyzera kiittana. Entti sa7aa oyddu baggaa bidi, ha gaxappe ya gaxa gakkanaw de7iya iyaw doorettidayssata shiishana.
+40026032	Shin taani hayqoppe denddidaappe guye hinttefe sinthatada Galiila baana” yaagis.
+41009043	Ne kushey nena balethikko, qanxa hola. Neeni nam77u kushera to7onna gaanname taman yegetteyssafe, duuxa kushera de7uwa geloy new lo77o.
+41009044	
+41009045	Ne tohoy nena balethikko, qanxa hola. Neeni nam77u tohuwara gaanname taman yegetteyssafe, wobbe gidada de7uwa geleyssi new lo77o.
+41009046	
+41012010	‘Gimbbeyssati boridi ixxida shuchchay godaa xaphuwa minthiya, ubbaafe aadhdhiya shuchchu gidis. Hayssi Goday oothidabaa; qassi nu ayfiyaaskka malaalisiyabaa’ yaageyssa Geeshsha Maxaafaappe nabbabibeekketii?” yaagis.
+41012011	
+41012037	#diese Verse wurde mit der vorderen zusammen übersetzt. Aber es gab noch Auslassung. Die richtige Verse sollte sein: Dawitey ba huu7en Kiristtoosa, ‘Godaa’ gidi xeegikko, yaatin, Kiristtoosi waanidi, Dawite na7a gidii” yaagis. Daro asay Yesuusi geyssa ufayssan si7idosona.
+41013026	He wode Asa Na7ay, gita wolqqaranne bonchchuwara shaara giddora yishin entti be7ana.
+41013027	He wode taani kiitanchchota sa7a oyddu bagga kiittana; sa7a gaxappe saluwa gaxa gakkanaw, Xoossay doorida asaa shiishana.
+41014028	Shin taani hayqoppe denddidaappe guye hinttefe kasetada Galiila baana” yaagis.
+41014057	Issi issi asati denddi eqqidi Yesuusa bolla, “I, ‘Taani asi keexida ha Xoossa Keetha laallada, asa kushen keexettiboonna hara Xoossa Keetha heedzu gallasa giddon keexana’ gishin nuuni si7ida” yaagidi worddo markkattidosona.
+41014058	
 41015042
 41015043
 42007028
