@@ -1,156 +1,158 @@
-40004007
-40004017
-40006014
-40006015
-40009020
-40009021
-40011018
-40011019
-40013016
-40013017
-40021043
-40024030
-40024031
-41005027
-41005028
-41006049
-41006050
-41007007
-41007008
-41007009
-41007010
-41007011
-41007012
-41007013
-41011017
-41011018
-41011019
-41012012
-41012037
-41013026
-41013027
-41015042
-41015043
-42007028
-42007033
-42007034
-42007035
-42020018
-42020019
-42020044
-42023050
-42023051
-43008001
-43008002
-43008003
-43008004
-43008005
-43008006
-43011001
-43011002
-44001021
-44001022
-44002032
-44002033
-44002034
-44004012
-44007044
-44007045
-44007046
-44007047
-44007051
-44007052
-44007053
-44008001
-44008034
-44008035
-44008036
-44008038
-44008039
-44008040
-44013034
-44013035
-44013036
-44013037
-44013038
-44013039
-44013040
-44013041
-44015018
-44028028
-45009011
-45009012
-46005012
-46005013
-47006017
-47006018
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-48004028
-48004029
-48004030
-48004031
-50002009
-50002010
-58001006
-58001007
-58001008
-58001009
-58001010
-58001011
-58001013
-58001014
-58002013
-58003009
-58003016
-58003017
-58003018
-58003019
-58004004
-58004005
-58004008
-58004009
-58004010
-58004011
-58004013
-58005007
-58005008
-58005009
-58005010
-58006015
-58006016
-58006017
-58006018
-58006019
-58006020
-58007018
-58007019
-58008010
-58008013
-58010008
-58010009
-58010017
-58010031
-58010038
-58012007
-58012008
-58012009
-58012010
-58012011
-58012021
-60002008
-62003019
-62003020
-66001006
-66014019
-66014020
-66016006
-66016007
-66018021
-66019003
-66019004
-66022017
+40004007	Nɛ *Yesu ye: «Nì tí kɛle' *Uwien ya gbɔnku ni mɔ ki ye: ‹Ŋa ń biike aʼYonbdaan Uwien.› »
+40004017	Kí ñɛ u ya yo kí taa kí li joh, nɛ *Yesu cin' ki kpaandeh ki teh: «Lèbre mɛn niʼtetem, kimɛ Uwien ya bɛl nɛkn' ní ŋɔ.»
+40006014	«Kimɛ ni fèreh binib biʼbiil la, niʼBaa wà te paaki bó mɔ li fère nɛ niʼyaal.
+40006015	Ama na fèreh binib biʼbiil la, niʼBaa mɔ ŋa ń fère nɛ niʼyaal.»
+40009020	Tɔ, upii uba mɔ là te niʼsaan, ki laa' tifɛr ibin piik nin ile ta gben'. U maale' uʼyɛnm ni ki ye: «N mɛ' uʼwɛngolkaar mɔnɔn la, n li faake nɛ.» Nɛ ki baa' *Yesu ya puoli bó ní, ki nɛkn' wɔ, nɛ ki mɛ' uʼwɛngolkaar ya ñɔgbɛn.
+40009021	
+40011018	«Kimɛ San baa' ki kùɔ tijier tubambɛ, ki lùoh buñɔbu, ka ñuh daam, nɛ bi ye usɛnpol nɛ ŋaake wɔ.
+40011019	*Unil ya Bijɛ baa' ki jinh ki ñuh, nɛ bi ye: ‹Liike mɛn ujɛ wuɔ yé ufɔnfuɔb nɛ, ki yé udɛyibl, ki jɔreh nin bilɛnpotekb nin bibiɛrdɛnb.› Tɔ, Uwien ya tùon nɛ wɔngeh uʼyɛnfuom mɔn ki kpɛ ma bo.»
+40013016	«Ninbi wɔn, Uwien ya mɔnm te niʼbo, kimɛ niʼnun lɛnh, niʼtub mɔ ciih.
+40013017	N tɔkeh nɛ imɔ̀n nɛ, *Uwien ya ñɔbonsɔknb nin bigbɛmɔ̀ndɛnb ligol là yíe bɛ ń lɛ ni lɛnh nà nɔ, nɛ ka laa' nɛ̀, ki yíe bɛ ń cii ni ciih nà nɔ, nɛ ka cii' nɛ̀.»
+40021043	«Nɛn nɛ cère' n tɔkeh nɛ ki teh Uwien li fie uʼbɛl niʼsaan, kí taa lɛ̀ kí de linibol là li teh u yíe nà.
+40021044	[Wà kɛ lu' litɛnl nnɔ bo la, u li kɔkuɔ nɛ. Litɛnl nnɔ lu' wà bo la, lì li mɛmɛre wɔ nɛ.]»
+40024030	U ya yo bi li lɛ Unil ya Bijɛ ya dìɛku te paaki bó ní. Nɛ inibol yà kɛ te utingbɛn bo nnɔ ń muɔ kí kpiɛnde. Bi li lɛ *Unil ya Bijɛ te titɛwɔlgbɔnt ni ki we ní, ki ŋmɔbe ukpiɛke nin ufaa ki gbien'.
+40024031	Linatunciɛnl li muɔ uyo wà nnɔ, u li sɔn uʼtonsɔnb Uwien ya tondb bɛ ń jo lɛnpuoli nin nintuɔli nin ugɛn nin ujie bó, kí cin utingbaan uba kí tì baa utɔ, kí taan Uwien gɛ̀nde' binib bà nnɔ kɛ.»
+41005027	U cii' bi lienh *Yesu bó, nɛ u maale' uʼyɛnm ni ki ye: «N mɛ' uʼwɛngolkaar mɔnɔn la, n li faake nɛ.» Nɛ ki pɛ *Yesu bo linigol nnɔ ni, ki tì mɛ' uʼwɛngolkaar.
+41005028	
+41006049	Bi laa' unil cuonh miñunm bo ma nnɔ bi maaleh ki teh nì yé ufɛnfɛnd nɛ. Bujɛwaanbu cuo' bɛ ki gbien' nɛ bi wuure'. Nɛ u tɔke' bɛ i ya tàan bo ki ye: «Cuo mɛn niʼba, Min *Yesu nɛ, la sɛn mɛn jɛwaanbu.»
+41006050	
+41007007	#wurde zusammen mit der vorderen Verse übersetzt.
+41007008	Nɛ *Yesu tí tɔke' bɛ ki ye: ‹Ni wiɛnh *Uwien ya wɔbl, nɛ ki boh iyaajɛbok.› »
+41007009	Nɛ ki tí tɔke' bɛ ki ye: « ‹Ninbi ya bùol, kí wiɛ *Uwien ya wɔbl, kí paan niʼyaajɛbok bo ŋa faa-a!›
+41007010	Kimɛ Moyis là len' ki ye: ‹Li boh aʼnaa nin aʼbaa›, ki tí len' ki ye: ‹Unil tɔke' uʼnaa bii uʼbaa liñɔbonbil la, bɛ ń ku wɔ.›
+41007011	Ama ninbi wɔknh binib ki cèreh bi lienh ki teh bi bi li de biʼnaambɛ nin biʼbaambɛ nà nnɔ, ji yé ‹kɔrban nɛ› ba ji li fre kí de bɛ nɛ̀. Kɔrban ya tingi si: nì yé Uwien yaann nɛ.
+41007012	Nɛn bo, ninbi nɛ cèreh ba toreh biʼnaambɛ nin biʼbaambɛ.
+41007013	Nnɔ nɛ ni taah niʼyaajɛbok ki lèbeh Uwien ya gbɛr, ki tɔkeh yɛ̀ niʼtɔb ki nɛbreh, ki teh tibontɔr tɛn tuu nɔ tù yɛbe.»
+41011017	#wurde zusammen mit der vorderen Verse übersetzt.
+41011018	Bitɔtuɔrciɛnb nin *Yiko ya wɔnwɔknb cii' *Yesu tien' ma bo. Nɛ bi nuunh bi li tien ma kí ku wɔ, ama ki ji fɛnge wɔ. Kimɛ uʼwɔknm sɔnge linigol nnɔ ya yɛnm cɛɛn nɛ.
+41011019	Nì juɔre' ma nnɔ, nɛ *Yesu nin uʼpanpaankaab tí siere' udu nnɔ ni.
+41012012	*Sufmbɛ ya ciɛnb bɛnde' ki ye *Yesu pɔn' bɛn nɛ mikpɛnjɛnm. Nɛn bo nɛ biʼnun mɔ́n bɛ ń cuo wɔ, ama bi fɛnge' linigol nnɔ nɛ ki siere' ki dàan' wɔ.
+41012037	*Dafid mɔnɔn là yin' Uwien ya Nigɛndkɛ Kristo uʼYonbdaan la, u ji tien' mila ki liɛbe' ki yé uʼyaabil-i?» Linigociɛnl cengeh *Yesu ya gbɛr, nɛ nì ŋmɛ lɛ̀ cɛɛn.
+41013026	U ya yo nɛ bi li lɛ Unil ya Bijɛ te titɛwɔlgbɔnt ni, ki we ní, ki ŋmɔbe ufaa nin ukpiɛke ki gbien'.
+41013027	U ya yo nɛ u li sɔn Uwien ya tondb bɛ ń jo lɛnpuoli nin nintuɔli nin ugɛn nin ujie bó, kí cin utingbaan uba kí tì baa utɔ, kí taan Uwien gɛ̀nde' binib bà nnɔ kɛ.»
+41015042	Nì juɔre' ma nnɔ nɛ ujɛ uba baa' ní bi yih wɔ Yosɛf u yé Arimate ya nil, ki yé tibuur ya cɛkl yaab ya uba binib boh wɔ cɛɛn. Uʼmɔ là gu Uwien ya bɛl li baa ní uyo wà nnɔ nɛ. Nì là yé kutaaku kùa li faa *Saba ya daali, uyo wà bi bondeh *Saba ya daali nnɔ nɛ. Yosɛf jon' Pilat saan nin lifɛ̀l ki tì tɔke' wɔ ki ye u tuo' la, wɔ ń cɛ̀be wɔ *Yesu ya gbɛnɛnt.
+41015043	
+42007028	«N tɔkeh nɛ nɛ, ba laan maa' nil uba, u cɛn' San. Ama unil wà yé uwaal Uwien ya bɛl ni cɛn' wɔ.
+42007033	Kimɛ San wà siih binib Uwien ya ñunm baa' ki kùɔ tijier tubambɛ, ka ñuh daam, nɛ ni ye usɛnpol nɛ ŋaake wɔ.
+42007034	Unil ya Bijɛ baa', ki jinh ki ñuh, nɛ ni ye: ‹Liike mɛn ujɛ wuɔ yé ufɔnfuɔb nɛ ki yé udɛyibl, ki jɔreh nin bilɛnpotekb nin bibiɛrdɛnb.›
+42007035	Ama binib bà kɛ tuo' Uwien ya yɛnfuom nɛ bɛn mì mɔn ki kpɛ ma bo.»
+42020018	Wà kɛ lu' litɛnl nnɔ bo la, u li kɔkuɔ nɛ. Litɛnl nnɔ lu' wà mɔ bo la, lì li mɛmɛre wɔ nɛ.
+42020019	*Yiko ya wɔnwɔknb nin bitɔtuɔrciɛnb bɛnde' ki ye *Yesu pɔn' bɛn nɛ mikpɛnjɛnm nnɔ. Nɛn bo nɛ bi nun mɔ́n bɛ ń cuo wɔ i ya tàan bo, nɛ ki fɛnge' linigol nnɔ.
+42020044	*Dafid yih *Uwien ya Nigɛndkɛ Kristo uʼYonbdaan la, u ji tien' mila ki liɛbe' ki yé uʼyaabil mɔ?»
+42023050	Ujɛ uba là te, bi yih wɔ Yosɛf, u ñɛn' *Sufmbɛ ya du uba ni, nɛ bi yih wù Arimate. U là yé *Sufmbɛ ya buur ya cɛkl yaab ya uba nɛ, ki cuube, ki yé unimɔ̀n, ki gu Uwien ya bɛl li baa ní uyo wà. Wa là tuo' uʼtɔb ye bɛ ń tien ma, nɛ ka kuɔn' uʼba biʼtùon ni.
+42023051	
+43008001	*Yesu don' lijuɔl liba bo, bi yih lɛ̀ Olifi ya siin ya juɔl.
+43008002	Nì faa' kutɛnŋɛsɔnsɔnku, nɛ u liɛbe' Uwien ya duku bó. Binib taan' uʼsaan ki yɛbe, nɛ u kɛ̀le' ki wɔknh bɛ Uwien ya gbɛr.
+43008003	Nɛn saan nɛ *Yiko ya wɔnwɔknb nin *Farisiɛnmbɛ tuke' ní upii uba bi pìln' wɔn nin ujɛ, ki lá sien' linigol nnɔ ya nun bó,
+43008004	nɛ ki tɔke' *Yesu ki ye: «Cɛnbaa, upii wuɔ nɔ, bi pìln' wɔn nin jɛ nɛ.
+43008005	Moyis ya yiko ni, nì yé liwɔbl nɛ bɛ ń li yèkreh itɛn kí kuuleh ni ya piibol. Tɔ, sin ye ba?»
+43008006	Bi là len' nnɔ ŋɔ bɛ ń dɛle *Yesu kudiɛku nɛ, kí lɛ bi li dule nà bo kí biin wɔ. Nɛ *Yesu gòn' ki ŋmɔbe uʼnɔbil ki dɛngeh tingi ni.
+43011001	Ujɛ uba nɛ là te ki bun, bi yih wɔ Lasaar. U yé Mari nin Mart ya ninjɛ nɛ. Wɔn nin bɛn kɛ là kɔh udu uba ni nɛ, bi yih wù Betani. Mari nnɔ yé upii wà là taa' lɛfina ki wule' Yonbdaan ya tàan bo, ki taa' uʼyur ki ŋmiŋmire' yɛ̀ nnɔ nɛ.
+43011002	
+44001021	Binib te ki tɔke' nin tɛ uyo wà kɛ Yonbdaan *Yesu là te nin tɛ ti joh niʼkɛ saan nnɔ,
+44001022	ki cin' uyo wà San là siih binib Uwien ya ñunm ki tì baa' lidaali là Uwien ñɛn' wɔ tiʼbùol ki cère' u don' paaki nnɔ. Nì kpɛ bɛn ya uba nɛ ń kpɔbn tiʼbó, kí li yé umɔ̀nkunl Yonbdaan ya mɛkrm bo.»
+44002032	U ya *Yesu nɛ Uwien mɛkre' wɔ bitɛnkpiib ni, nɛ tiʼkɛ yé bimɔ̀nkunb.
+44002033	UʼBaa Uwien kpiɛke' wɔ, ki taa' wɔ ki kàan' uʼjie bó, ki de' wɔ u là pùon' ki ye u li de wɔ Mifuoñaanm mà nnɔ, nɛ u cère' mì baa' tiʼbo. Ni ciih nà, ki likeh nɛ̀ nɔ, nì yé *Mifuoñaanm ya tuonl nɛ.
+44002034	Ti bɛn ki ye *Dafid ŋa là don' paaki, ama wɔn bugbɛn là len' ki ye: ‹Yonbdaan Uwien tɔke' nʼYonbdaan ki ye: Kɛ̀le nʼnɔjie bó,
+44004012	Miŋmiɛnm ŋa ń ñɛ uba saan ki kɛnde' *Yesu saan, kimɛ *Yesu ya yel baba ŋa ñí la, Uwien ŋa de' nil uba liyel uŋɛndun wuu ni ŋɔ lɛn bo tí fre kí ŋmɛre.»
+44007044	«Tiʼyaajɛb là te kupenpelku ni ma nnɔ bi là ŋmɔbe bɛn nin Uwien cendeh lininbonl là ni nɛ. Kujɔtieku ya gbɔnku mɔ là te lɛn ni nɛ. Uwien nɛ là tɔke' Moyis ki ye wɔ ń tien lininbonl nnɔ. Nɛ Moyis tien' lɛ̀ Uwien wuɔn' wɔ ki ye lɛ̀ ń li naan ma bo nnɔ.
+44007045	Tiʼyaajɛb là taa' lininbonl nnɔ ki de' biʼyaabii. Nɛ bi teke' lɛ̀ ki ŋuuke ki tì baa' uyo wà Sosuwe yé biʼsɛnlierl nnɔ. Bɛn nin Sosuwe là joh bɛ ń tì teke udu wà, bɛn bo Uwien là ŋɔre' inibol uʼni nnɔ ma nnɔ, bi là tuke lɛ̀ nɛ. Lininbonl nnɔ là te nɛn saan nɛ, ki tì baa' ubɛr *Dafid ya yo.
+44007046	Uwien ya yɛnm sɔnge *Dafid bo, nɛ *Dafid miɛ' wɔ usɛn wɔ ń mɛ kuduku ki de' wɔn Uwien wà yé uʼyaajɛ Sakɔb ya Wien nnɔ.
+44007047	Uʼbijɛ Salomɔn nɛ mɛn' Uwien kuduku.
+44007051	Etiɛnn tí len' ki ye: «Niʼyul faa, nɛ niʼfɛ̀l bo te tɛn binib bà ŋa pɛ Wien bo, ka cengeh uʼgbɛr, ki yìenh *Mifuoñaanm uyo kɛ. Ni te tɛn niʼyaajɛb nɛ.
+44007052	Niʼyaajɛb là jɛ̀nde' *Uwien ya ñɔbonsɔknb kɛ, ki ku' binib bà tɔkeh ki teh Uwien ya Gbɛmɔ̀ndaan li baa ní nnɔ. Fɛnfɛnnɔ, u baa' ní, nɛ ni kuɔre' wɔ, ki ku' wɔ.
+44007053	Uwien là sɔn' uʼtondb bi lá de' ninbi nɛ uʼyiko, nɛ na bon' wɔ.»
+44008001	Sɔl mɔ se bà ku' Etiɛnn nnɔ ya ciɛk bó nɛ. Kí ñɛ nɛn daali nɛ bi cin' ki jɛ̀ndeh *Kristo ya taanl yaab bà te Yerusalɛm ni nnɔ ki gbiekeh. Nɛn bo nɛ biʼkɛ yɛre', ki jon' Sude nin Samari ya tinfɛnm ni. *Yesu ya tondb baba nɛ ji là sìen' Yerusalɛm ni.
+44008034	Nɛ ujɛ nnɔ tɔke' Filip ki ye: «N faare' ŋɛ nɛ, laan tɔke nni, *Uwien ya ñɔbonsɔknl nnɔ len' ŋmɛ ya gbɛr nɛ? Wɔn bugbɛn ya gbɛr nɛ bii u len' uba yaar nɛ?»
+44008035	Nɛn saan nɛ Filip ñi' mikɛlm nnɔ bo ki tɔke' wɔ *Yesu ya gbɛmɔnmɔnt.
+44008036	Bi jojoh ki tì baa' libùol liba miñunm te niʼsaan, nɛ ujɛ nnɔ tɔke' Filip ki ye: «Liike-a, miñunm sɔ-a! A li tuo kí sìi nni Uwien ya ñunm-ii?»
+44008037	[Nɛ Filip ye: «A teke' *Yesu ki jin' mɔnmɔnm la, usɛn te.» Nɛ u ye: «N teke' ki jin' ki ye *Yesu Kristo yé Uwien ya Bijɛ nɛ.»]
+44008038	Nɛn saan nɛ u cère' bi sien' kutɛnlolku nnɔ, nɛ wɔn nin Filip kɛ bile jiire', ki kɔn' miñunm ni, nɛ Filip sìi' wɔ Uwien ya ñunm.
+44008039	Bi ñɛn' miñunm ni uyo wà nnɔ, nɛ Yonbdaan ya Fuoñaanm taa' Filip ki bure'. Ujɛ nnɔ ŋa ji laa' wɔ nɛ ki liɛbe' ki kɔn' uʼtɛnlolku ni, ki joh nin uyɛnsɔnge.
+44008040	Filip wɔn, bi tì laa' wɔ Asɔt ya du ni nɛ. U ñɛh idu yà kɛ ni nnɔ, u tɔkeh binib tigbɛmɔnmɔnt nɛ, ki tì baa' Sesare ya du ni.
+44013034	#wurde mit der Verse 44013033 zusammen übersetzt.
+44013035	#wurde mit der Verse 44013033 zusammen übersetzt.
+44013036	*Dafid là fuobe uyo wà nnɔ, u là yé Uwien ya tonsɔnl nɛ, ki teh Uwien yíe ma. U tì kpo', nɛ bi sube' wɔ uʼyaajɛb saan, u bùre'.
+44013037	*Yesu wɔn, Uwien mɛkre' wɔ nɛ, wa bùre'.
+44013038	Nʼyaabɛ, Moyis ya yiko ŋa là fre' ki bù' nɛ gbɛmɔ̀ndɛnb ama wa kɛ teke' *Yesu ki jin' la, Uwien li bù wɔ ugbɛmɔ̀ndaan nɛ. Ní li bɛn kí ye wɔn bo nɛ bi tɔkeh nɛ ki teh Uwien li fère nɛ niʼbiɛre.
+44013039	
+44013040	Tɔ, liike mɛn niʼyul bo ki la cère *Uwien ya ñɔbonsɔknb là len' nà nnɔ ń tu nɛ. Bi là len' ki ye:
+44013041	#wurde mit der Verse 44013033 zusammen übersetzt.
+44015018	U cère' binib bɛnde' tibont nnɔ haali uyo bo nɛ.› »
+44028028	Nɛ Pɔl tí tɔke' bɛ ki ye: «Bɛnde mɛn kí ye Uwien sɔn' nni bà ŋa yé *Sufmbɛ saan nɛ ń tì tɔke bɛ miŋmiɛnm ya gbɛr. Bɛn li cengeh tù.»
+45009011	Ama ba laan la maa' mubumu nnɔ, ki niireh nin mù ń tien nà mɔn bii nà bre, nɛ Uwien juɔ' ki tɔke' Lebeka ki ye uciɛn lá li tien uwaal ya yonb nɛ. Uwien len' nnɔ ŋɔ wɔ ń wuɔn kí ye wa tukndeh nil ya tuonl bo ki gɛ̀ndeh wɔ, ama uʼyíem bo nɛ u gɛ̀ndeh unil, nɛ miyíem nnɔ ŋa ŋmɔbe lèbrm.
+45009012	
+46005012	Na yé min nɛ li bu kí biin bà ŋa yé Kristo yaab, Uwien nɛ li bu kí biin bɛ. Bà yé Kristo yaab bɛn wɔn, ninbi nɛ li bu kí biin bɛn, kimɛ nì kɛle' *Uwien ya gbɔnku ni ki ye: «Ñɛn mɛn unibiɛrɔ niʼni.»
+46005013	
+47006017	#wurde mit der vorderen zusammen übersetzt.
+47006018	#wurde mit der vorderen zusammen übersetzt.
+47009010	Uwien wà dienh ukpaal tibonbuor, ki dienh wɔ tijier nnɔ, wɔn nɛ li de niʼmɔ tibonbuor kí cère tù ń pɔ̀re, kí cère niʼnimɔ̀ntùon ń yɛbre kí gbien.
+47009011	Uwien li cère ní li ŋmɔbe ki gbien' isɛn kɛ ni, kí li teh tinimɔ̀nt kɛ ya bol. Nnɔ nɛ ti taah niʼpum ki tì dienh binib bà nnɔ li faare Uwien.
+47009012	Kimɛ ni sɔnh mitorm ya tuonl là nnɔ ŋa cèreh Uwien ya nib lɛnh nà pɔre' bɛ baba, lì cèreh binib faareh Uwien mɔ ki yɛbe nɛ.
+47009013	Niʼtuonl nnɔ wuɔn' ki ye ni boh Kristo ya gbɛmɔnmɔnt tà ni tɔkeh tù binib kɛ ya nun bó nnɔ, ki taakeh ni ŋmɔbe tibont tà nin tinimɔ̀nt ki toreh bɛn nin binitɔb kɛ. Nɛn bo nɛ bi bɛnde' ki ye ni sɔnh lituonl là nnɔ ŋmɔbe kpɛle nɛ ki kpiɛkreh Uwien.
+47009014	Bi kàareh ki dienh nɛ, ki wɔngeh ki teh bi yíe nɛ ki gbien' kí ñɛ Uwien juoke' nɛ ki gbien' ma nnɔ bo.
+47009015	Tí faare mɛn Uwien uʼpaabu bùa ŋa ŋmɔbe bù kpɛ nin bà nnɔ bo.
+48004028	Nʼyaabɛ, ninbi bɛn wɔn, Uwien là pùon' lipuonl là nnɔ bo nɛ ni yé uʼbumu tɛn *Isaak.
+48004029	Bi là maa' kibuk kà unisaal yíe ma bo nnɔ là jɛ̀nde' uyo bo bi là maa' kà *Mifuoñaanm ya tuɔm bo nnɔ. Fɛnfɛnnɔ mɔ nì biɛ ki te nnɔ nɛ.
+48004030	Tɔ, nì kɛle' *Uwien ya gbɔnku ki ye ba? Nì kɛle' ki ye: «Ŋɔre upiiyonb nnɔ nin uʼbijɛ, kimɛ upiiyonb nnɔ ya buk ŋa ŋmɔbe sɛn kɛn nin upiimɔ̀n ya buk ń taan kí ji biʼbaa ya faal»
+48004031	Nɛn bo, nʼyaabɛ, ta yé piiyonb ya bumu ama ti yé upiimɔ̀n yaamu nɛ.
+50002009	#wurde mit der vorderen zusammen übersetzt.
+50002010	#wurde mit der vorderen zusammen übersetzt.
+58001006	#wurde mit der Verse 58001005 zusammen übersetzt.
+58001007	#wurde mit der Verse 58001005 zusammen übersetzt.
+58001008	#wurde mit der Verse 58001005 zusammen übersetzt.
+58001009	#wurde mit der Verse 58001005 zusammen übersetzt.
+58001010	#wurde mit der Verse 58001005 zusammen übersetzt.
+58001011	#wurde mit der Verse 58001005 zusammen übersetzt.
+58001013	#wurde mit der Verse 58001012 zusammen übersetzt.
+58001014	Uwien ya tondb bɛn wɔn, biʼkɛ yé uʼtonsɔnb nɛ, nisaal ŋa ń fre kí lɛ bɛ nin nunbu. U sɔnh bɛn nɛ bi lá toreh binib bà u li ŋmiɛn bɛ nnɔ.
+58002013	#wurde mit der vorderen zusammen übersetzt.
+58003009	#wurde mit der vorderen zusammen übersetzt.
+58003016	Tɔ, bi lɛ ba nɛ là cii' Uwien ya niɛke bó, ki yìe' uʼñɔbu bó? Na yé binib bà kɛ Moyis là ñɛn' bɛ Esipt ni nnɔ-ɔɔ?
+58003017	Uwien ya benku ni là piebe' bi lɛ bo ki tì dukn' ibin pinan-i? Na yé binib bà là tien' ibiɛre ki kpokpo' kupenpelku ni nnɔ-ɔɔ?
+58003018	U là pole' ki ye bi lɛ ba ŋa ń kɔ u bonde' bɛ lifuorl udu wà ni nnɔ fiebu? Bà là yìe' uʼñɔbu bó nnɔ ŋa ñí-ii?
+58003019	Imɔ̀n, ti laa' ba kɔn' udu wà ni Uwien bonde' bɛ lifuorl nnɔ ni, kimɛ ba teke' wɔ ki jin'.
+58004004	Kimɛ nì kɛle' *Uwien ya gbɔnku ni niba saan wienlole bo ki ye: «Uwien sɔn' ki gben' uʼtuonl kɛ ma nnɔ u taa' wienlole daali nɛ ki fuore'.»
+58004005	Nì liɛbe' ki kɛle' niʼsaan ki ye: «Ba ń kɔ n bonde' bɛ lifuorl udu wà ni nnɔ ni fiebu.»
+58004008	Tɔ, nì yé Sosuwe bi là cère' bi laa' lifuorl la, Uwien ŋa bi li liɛbe kí len lidɛtɔl liba ya gbɛr.
+58004009	Nɛn nɛ wuɔn' ki ye Uwien ya nib biɛ ki ŋmɔbe lifuorl tɛn Uwien là fuore' ma wienlole daali nnɔ.
+58004010	Kimɛ wà kɛ laa' lifuorl Uwien saan la, u sɔn' uʼtuonl ki gben' nɛ ki fuoreh tɛn Uwien là sɔn' uʼtuonl ki gben' ki fuore' ma nnɔ.
+58004011	Nɛn bo, cère mɛn tí li benh ki nuunh tí lɛ lifuorl nnɔ ŋɔ uba la tɛkn tiʼyaajɛb ya taanl ni kí yìe Uwien ya ñɔbu bó kí tùre.
+58004013	Uwien ñɛn' tibont tà kɛ nnɔ, bonn niba ŋa buɔ uʼnun bó, u likeh ki lɛnh tuʼkɛ nɛ, nɛ ki bɛn nà kɛ te ma bo. Ti li tɔke wɔn nɛ ti sɔnsɔn' ma bo.
+58005007	Uyo wà *Yesu là te kitink kiɛ bo nnɔ u là kàare' Uwien ki muɔ' cɛɛn, ki gbáan' wɔ nin tinunsiir, kimɛ wɔn nɛ li fre kí ñɛn wɔ mikuum ni. U là jiin' uʼba tingi Uwien ya nun bó ma nnɔ nɛ u cenge' uʼkaare bó.
+58005008	Nin u yé Uwien ya Bijɛ ma kɛ nnɔ uʼjɛnd ni nɛ u bɛnde' mibom.
+58005009	Uwien cère' u sɔn' uʼtuonl niʼdonbó ki tì gben'. Nɛn bo nɛ kí ñɛ wɔn bo, binib bà kɛ boh wɔ nnɔ li lɛ limiɛl là ŋa ŋmɔbe gbenm.
+58005010	Kimɛ Uwien nɛ tien' wɔ bitɔtuɔrciɛnb ya ciɛn tɛn u là ñɛn' isɛn yà ki tien' Mɛlkisedɛk bitɔtuɔrciɛnb ya ciɛn nnɔ.
+58006015	*Abraham mìnde' ki guure' nɛ ki laa' Uwien là pùon' wɔ nà nnɔ.
+58006016	Binib tì ń pole nɛ kí wuɔn kí ye bi len' tigbɛr tà nnɔ te nɛ. Bi poleh wà cɛn' bɛ ŋɔ lipol nnɔ bo uba la ji ń fre kí niɛ tuʼbo nɛ.
+58006017	Nnɔ nɛ Uwien là yíe wɔ ń tùɔre kí wuɔn bà li lɛ uʼpuonl ya mɔnm nnɔ kí ye u jɛ̀ke' wɔ ń tien nà nnɔ ŋa ŋmɔbe lèbrm nɛ. Nɛn bo nɛ u là pùon' ki liɛbe' ki pole' ki kpɔbn'.
+58006018	Uwien ya puonl nin uʼpòl yé tibont tule nɛ, ka ŋmɔbe lèbrm, nɛ wa ń nɛn tibont nnɔ ni fiebu. Nɛn nɛ saakreh tinbi bà sɛn' ki bɔle' uʼsaan nnɔ ya gbɛnɛnt ki gbiekeh, ki cèreh ti tùɔreh ki coh lidɛndɛnl là ti ŋmɔbe lɛ̀ uʼsaan nnɔ kenken.
+58006019	Lidɛndɛnl nnɔ nɛ cèreh ti se nì faa tɛn bi wiɛnh likuluɔnl miñunm ni, lì coh buñɛrciɛnbu bua ŋmìɛkeh ma bo. Ti daan wà nnɔ nɛ kɔn' Uwien ya duku ni paaki bó, ki tì càare' kukpɛlciɛku kùa bore' kù bolm mile nnɔ, ki kɔn' haali dubenku bó Uwien ya bùol.
+58006020	Tinbi bo nɛ *Yesu liere' ki kɔn' kuʼni, nɛ Uwien tien' wɔ bitɔtuɔrciɛnb ya ciɛn uyo wà ŋa ŋmɔbe gbenm tɛn u là ñɛn' isɛn yà ki tien' Mɛlkisedɛk bitɔtuɔrciɛnb ya ciɛn nnɔ.
+58007018	Nɛn bo nɛ bi gben' yikokpiɛk nnɔ, kimɛ wa ŋmɔbe tuɔm, ka toreh mɔ.
+58007019	Kimɛ Moyis ya yiko ŋa fre' ki cère' bonn mɔn ki tì gben' Uwien ya nun bó. Ama Uwien yùɔn' ki de' tɛ lidɛndɛnl là mɔn ki cɛn' niʼkɛ. Lɛn nɛ li cère tí nɛkn Uwien.
+58008010	#wurde mit der vorderen zusammen übersetzt.
+58008013	Uwien lienh kujɔtiefɛ̀nku bó la, nì wuɔn' ki ye kukpiɛku nnɔ kpaare' nínɔ. Kimɛ nibonkpaann kɛ tì pore' la, nì joh nɛ̀ ń gben nɛ.
+58010008	#wurde mit der vorderen zusammen übersetzt.
+58010009	#wurde mit der vorderen zusammen übersetzt.
+58010017	#wurde mit der vorderen zusammen übersetzt.
+58010031	Unil lu' Uwien, limiɛl ya daan ya nuɔ ni la, nì bre udaan bo cɛɛn nɛ.
+58010038	#wurde mit der vorderen zusammen übersetzt.
+58012007	Tuo mɛn kí ji ijɛnd, kimɛ ì cekndeh nɛ nɛ. Ni yé Uwien ya bumu ma nnɔ nɛ u diɛh niʼtub. Ki lɛ buk te ŋɔ kiʼbaa ŋa diɛh kiʼtub-i?
+58012008	Uwien ŋa dɛre' niʼtub tɛn u diɛh uʼbutɔmu ya tub ma bo la, na yé uʼbumu, ni yé ikpiɛb nɛ.
+58012009	Nì yé tiʼbaambɛ bà yé binib nnɔ diɛh tiʼtub ki cekndeh tɛ ti boh bɛ la, nì li tien mila ŋɔ ta ji li tuo Baa wà te paaki bó ya tudɛre, kí lɛ limiɛl-i?
+58012010	Imɔ̀n, tiʼbaambɛ taa' uyo wà ki diɛh tiʼtub bɛ ń cekn tɛ bi yíe ma bo nnɔ ŋa fɔke, ama Uwien wɔn diɛh tiʼtub tiʼmɔnm bo nɛ, ŋɔ ti la ŋmɔbe jɔknt tɛn wɔn Uwien ŋa ŋmɔbe jɔknt ma bo nɛ.
+58012011	Bi dɛre' unil ya tubl itàan yà bo la, uʼyɛnm ŋa sɔnge, nì yé uyɛnsaa nɛ uʼbo. Ama ni ya puoli bó, nì ji yé bà tuo' bi dɛre' biʼtub ki gbiere' bɛ nnɔ bo uyɛnduɔn nɛ, ki cèreh bi teh nibonn nà cuube.
+58012021	Nà là tien' nnɔ là ŋmɔbe bujɛwaanbu cɛɛn, nɛ Moyis len' ki ye: «Bujɛwaanbu ŋmɔbe nni haali nʼgbɛnɛnt kɛ tì ŋɔh.»
+60002008	#wurde mit der vorderen zusammen übersetzt.
+62003019	Nɛn nɛ li cère tí bɛnde kí ye ti pɛ tigbɛmɔ̀nt bo. Nì yé tiʼyɛnmaale mɔnɔn nɛ biindeh tɛ la, tiʼyɛnm dɔ Uwien saan nɛ, kimɛ Uwien cɛn' tiʼyɛnmaale, ki bɛn tibont kɛ.
+62003020	
+66001006	ki tien' tɛ bibɛrb Uwien ya bɛl ni, ki cère' ti yé uʼBaa Uwien ya tɔtuɔrkaab. Wɔn si ukpiɛke nin mituɔm uyo kɛ. Ami.
+66014019	Nɛ utond nnɔ taa' uʼpuoko ki cecere' utingbɛn bo ya sibii nnɔ, ki taa' ki kuore' kubòciɛnku kùa bi ŋmɛngeh isibii kuʼni nnɔ ni. Bi ŋmiɛn' isibii nnɔ dugbaal nɛ. Bi ŋmiɛn' yɛ̀ ma nnɔ misɛ̀m nɛ ñɛn' kubùoku nnɔ ni ki puube' ki tì baa' kɔnsini kobiita. Utaan se miʼni la, mì li baa uʼlɛnbu. Nɛn nɛ wuɔn' ki ye Uwien ya benku ni ben' binib bo cɛɛn.
+66014020	
+66016006	Kimɛ bi ku' aʼnib nin aʼñɔbonsɔknb nɛ aʼmɔ de' bɛ misɛ̀m bɛ ń ñu. Bi kpɛ nɛn nɛ.»
+66016007	Nɛ n cii' uniɛke uba bó liponpuol saan u teh: «Yonbdaan Uwien mituɔm kɛ ya daan, aʼbuur yé imɔ̀n nɛ, ki cuube.»
+66018021	#wurde mit der vorderen zusammen übersetzt.
+66019003	#wurde mit der vorderen zusammen übersetzt.
+66019004	#wurde mit der vorderen zusammen übersetzt.
+66022017	#wurde mit der vorderen zusammen übersetzt.

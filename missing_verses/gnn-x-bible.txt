@@ -1,49 +1,49 @@
-01001001
-01001002
-01004017
-01004018
-01004019
-01004020
-01004021
-01004022
-01004023
-01004024
-01004025
-01004026
-01019030
-01019031
-01019032
-01019033
-01019034
-01019035
-01019036
-01019037
-01019038
-01021022
-01021023
-01021024
-01021025
-01021026
-01021027
-01021028
-01021029
-01021030
-01021031
-01021032
-01021033
-01021034
-01022020
-01022021
-01022022
-01022023
-01022024
-01025001
-01025002
-01025003
-01025004
-01025005
-01025006
-01026001
+01001001	Ŋäthilinydja ŋurruthaŋalanydja walŋu yukurrana nhinana ŋayipi-waŋgany Gunhu' God Waŋarr, ŋunhi yaka muka yana wäŋa dhuwalanydja munathany'tja maḻŋ'thurruna. Bala yana ŋayi bokmarana Gunhu'yu dhuwalana wäŋa, munatha'na ga gapuna ga djiwarr'nha.
+01001002	Ŋunhi ŋayi ŋurruthaŋalanydja dhuwala munathany'tja wäŋa maḻŋ'thurruna buyuwuyu muka yana, ŋula nhämiriw muka, gapuyuŋga yana yukurrana ŋapa-ŋäkirrmaraŋala, ga munha'yurruna yukurrana djingaryurrunanydja, warrpam munhayu monyguŋala gapunhanydja ŋunhiyi, yurru watanydja ŋunhiyi Gunhu'wuna nhanŋuwaynha walŋamirrina Birrimbirr yukurrana mali'-maliyurruna ŋuliwitjarra ŋapakurrunydja gapukurru.
+01004017	#nicht vorhanden
+01004018	#nicht vorhanden
+01004019	#nicht vorhanden
+01004020	#nicht vorhanden
+01004021	#nicht vorhanden
+01004022	#nicht vorhanden
+01004023	#nicht vorhanden
+01004024	#nicht vorhanden
+01004025	#nicht vorhanden
+01004026	#nicht vorhanden
+01019030	#nicht vorhanden
+01019031	#nicht vorhanden
+01019032	#nicht vorhanden
+01019033	#nicht vorhanden
+01019034	#nicht vorhanden
+01019035	#nicht vorhanden
+01019036	#nicht vorhanden
+01019037	#nicht vorhanden
+01019038	#nicht vorhanden
+01021022	#nicht vorhanden
+01021023	#nicht vorhanden
+01021024	#nicht vorhanden
+01021025	#nicht vorhanden
+01021026	#nicht vorhanden
+01021027	#nicht vorhanden
+01021028	#nicht vorhanden
+01021029	#nicht vorhanden
+01021030	#nicht vorhanden
+01021031	#nicht vorhanden
+01021032	#nicht vorhanden
+01021033	#nicht vorhanden
+01021034	#nicht vorhanden
+01022020	#nicht vorhanden
+01022021	#nicht vorhanden
+01022022	#nicht vorhanden
+01022023	#nicht vorhanden
+01022024	#nicht vorhanden
+01025001	#nicht vorhanden
+01025002	#nicht vorhanden
+01025003	#nicht vorhanden
+01025004	#nicht vorhanden
+01025005	#nicht vorhanden
+01025006	#nicht vorhanden
+01026001	#es scheint zu sein, dass die alle folgenden Verse nicht vorhanden sind. 
 01026002
 01026003
 01026004
