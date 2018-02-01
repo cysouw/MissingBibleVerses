@@ -1,44 +1,44 @@
-01002004
-03007038
-05016022
-06014015
-06017008
-07019004
-09003021
-09004001
-10003039
-10020026
-11011025
-16003024
-16003025
-16003026
-16003027
-16003028
-16003029
-16003030
-16003031
-16003032
-16009037
-19072020
-19150006
-20001033
-23007008
-23007009
-23010018
-23022016
-23033023
-23034016
-23041006
-23041007
-24051005
-26002010
-26016004
-27011001
-30002016
-40021046
-43006071
-44002047
-45015033
-55003017
-58013025
-66022021
+01002004	Queste le origini del cielo e della terra, quando vennero creati. Quando il Signore Dio fece la terra e il cielo,
+03007038	
+05016022	#fehlt
+06014015	#fehlt
+06017008	A Manàsse apparteneva il territorio di Tappuach, mentre Tappuach, al confine di Manàsse, era dei figli di Efraim.
+07019004	Suo suocero, il padre della giovane, lo trattenne ed egli rimase con lui tre giorni; mangiarono e bevvero e passarono la notte in quel luogo.
+09003021	
+09004001	La parola di Samuele si rivolse a tutto Israele. In quei giorni i Filistei si radunarono per combattere contro Israele. Allora Israele scese in campo a dar battaglia ai Filistei. Essi si accamparono presso Eben-Ezer mentre i Filistei s'erano accampati in Afèk.
+10003039	#fehlt
+10020026	#fehlt
+11011025	
+16003024	Dopo di lui Binnui figlio di Chenadàd restaurò un'altra parte delle mura, dalla casa di Azaria fino alla svolta, cioè all'angolo. 
+16003025	Palal figlio di Uzai lavorò di fronte alla svolta e alla torre sporgente dal piano di sopra della reggia, che dà sul cortile della prigione. Dopo di lui lavorava Pedaia figlio di Pareos.
+16003026	Gli oblati che abitavano sull'Ofel lavoravano fin davanti alla porta delle Acque, verso oriente, e di fronte alla torre sporgente.
+16003027	Dopo di loro quelli di Tekòa ne restaurarono un'altra parte, di fronte alla gran torre sporgente e fino al muro dell'Ofel.
+16003028	I sacerdoti lavoravano alle riparazioni sopra la porta dei Cavalli, ciascuno di fronte alla sua casa.
+16003029	Dopo di loro Zadòk figlio di Immer lavorava di fronte alla sua casa. Dopo di lui lavorava Semaia figlio di Secania, custode della porta d'oriente.
+16003030	Dopo di lui Anania figlio di Selemia e Canun sesto figlio di Zalaf restaurarono un'altra parte delle mura. Dopo di loro Mesullàm figlio di Berechia lavorava di fronte alla sua stanza.
+16003031	Dopo di lui Malchia, uno degli orefici, lavorava fino alla casa degli oblati e dei mercanti, di fronte alla porta della Rassegna e fino al piano di sopra dell'angolo.
+16003032	Gli orefici e i mercanti lavorarono alle riparazioni fra il piano di sopra dell'angolo e la porta delle Pecore.
+16009037	Non coprire la loro iniquità e non sia cancellato dalla tua vista il loro peccato, perché hanno offeso i costruttori.
+19072020	Fine delle preghiere di Davide, figlio di Iesse.
+19150006	#fehlt
+20001033	
+23007008	
+23007009	
+23010018	
+23022016	
+23033023	
+23034016	
+23041006	#fehlt
+23041007	#fehlt
+24051005	
+26002010	#fehlt
+26016004	
+27011001	e io, nell'anno primo di Dario, mi tenni presso di lui per dargli rinforzo e sostegno.
+30002016	#fehlt
+40021046	#fehlt
+43006071	
+44002047	
+45015033	#fehlt
+55003017	
+58013025	
+66022021	
