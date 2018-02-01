@@ -53,8 +53,8 @@
 45011009	
 45014012	Hiza, nu oothidabaas nu huu7en huu7en Xoossaa sinthan shiiqidi zaaro immana.
 46002010	Xoossay ba xuuraa ba Ayyaana baggara nuus qonccisis. Geeshsha Ayyaanay hari attoshin geemmida Xoossaa xuura ubbaa pilggees.
-46002011
-46002012	Asan de7iya asa ayyaanaappe attin asabaa oonikka erenna. Hessadakka, Xoossabaa Xoossaa Ayyaanaappe attin oonikka erenna. 12Xoossay nuus coo immidabaa nu erana mela Xoossaa Ayyaanaa ekkidappe attin ha sa7aa ayyaana ekkibookko.
+46002011	Asan de7iya asa ayyaanaappe attin asabaa oonikka erenna. Hessadakka, Xoossabaa Xoossaa Ayyaanaappe attin oonikka erenna.
+46002012	Xoossay nuus coo immidabaa nu erana mela Xoossaa Ayyaanaa ekkidappe attin ha sa7aa ayyaana ekkibookko.
 46012029	Ubbay hawaare? Ubbay nabe? Ubbay asttamaare? Ubbay malaata oothi?
 46012030	Ubbay pathiyye? Ubbay dumma dumma doonan odetti? Ubbay dumma dumma doonan odettoyssa birshshi?
 46012031	Shin ubbaafe aadhdhiya imotaa minthidi koyite. Qassi ubbaafe aadhdhiya ogiya ta hinttena bessana.
