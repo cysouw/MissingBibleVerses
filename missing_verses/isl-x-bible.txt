@@ -1,26 +1,24 @@
-40028020	#fehlt
-42024053	#fehlt
-44028031	#fehlt
-45016027	#fehlt
-46016024	#fehlt
-47013013	#fehlt
-47013014	#fehlt
-48006018	#fehlt
-49006024	#fehlt
-50004023	#fehlt
-52005028	#fehlt
-53003018	#fehlt
-54006021	#fehlt
-55004022	#fehlt
-56003015	#fehlt
-57001025	#fehlt
-58013025	#fehlt
-59005020	#fehlt
-60005014	#fehlt
-61003018	#fehlt
-62005021	#fehlt
-63001013	#fehlt
-65001025	#fehlt
-66022021	#fehlt
-	#Es fehlt scheinbar immer der letzte Vers des Buchs.
-	URL: https://www.biblegateway.com/passage/?search=Fyrra+almenna+br%C3%A9f+P%C3%A9turs+5&version=ICELAND
+40028020	og kennið þeim að halda allt það sem ég hef boðið yður. Sjá, ég er með yður alla daga allt til enda veraldar."
+42024053	Og þeir voru stöðugt í helgidóminum og lofuðu Guð.
+44028031
+45016027
+46016024
+47013013
+47013014
+48006018
+49006024
+50004023
+52005028
+53003018
+54006021
+55004022
+56003015
+57001025
+58013025
+59005020
+60005014
+61003018
+62005021
+63001013
+65001025
+66022021

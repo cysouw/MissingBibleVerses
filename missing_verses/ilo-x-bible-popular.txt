@@ -5,6 +5,3 @@
 42022044	Iti napalalo a tuokna, impaspasnekna pay ti nagkararag, ket kasla dara ti ling-etna a nagtedted iti daga.
 42024012	Uray no kasta, nagtaray ni Pedro a napan iti tanem. Nagrukob ngem dagizi lupot laeng ti nakitana. Kalpasanna, nagawid a masmasdaaw iti napasamak.
 42024040	Idi sasawenna daytoy, impakitana kadakuada dagiti ima ken sakana.
-
-# Vers 21 und 22 folgen in der Übersetzung zwischen Vers 6 und 7. Unklar, warum dies so ist. URL: https://www.bible.com/af/bible/782/ISA.38.RIPV
-# die anderen fehlenden Verse sind als Fußnoten nur sichtbar, wenn man sie explizit öffnet. Handelt es sich nur um Ergänzungen?
