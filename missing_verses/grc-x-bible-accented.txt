@@ -1,110 +1,110 @@
-01031051
-01035021
-02025006
-02028023
-02028024
-02028025
-02028026
-02028027
-02028028
-02035015
-02035017
-02035018
-02037022
-02037023
-02037024
-02037025
-02037026
-02037027
-02037028
-02037029
-02038028
-02038029
-02038030
-02038031
-02039024
-02039025
-02039026
-02039027
-02039028
-02039029
-02039030
-02039031
-02039032
-02039033
-02039034
-02039035
-02039036
-02039037
-02039038
-02039039
-02039040
-02039041
-02039042
-02039043
-02040007
-02040011
-02040028
-02040030
-02040031
-02040032
-04006027
-06006004
-06008013
-06008026
-06008030
-06008031
-06008032
-06008033
-06008034
-06008035
-06010015
-06010043
-06013033
-06020004
-06020005
-06020006
-07011004
-09013001
-09017012
-09017013
-09017014
-09017015
-09017016
-09017017
-09017018
-09017019
-09017020
-09017021
-09017022
-09017023
-09017024
-09017025
-09017026
-09017027
-09017028
-09017029
-09017030
-09017031
-09017041
-09017050
-09017055
-09017056
-09017057
-09017058
-09018001
-09018002
-09018003
-09018004
-09018005
-09018010
-09018011
-09018017
-09018018
-09018019
-09018030
-09023012
-11003001
+01031051	#nicht vorhanden
+01035021	#nicht vorhanden
+02025006	#nicht vorhanden
+02028023	#nicht vorhanden
+02028024	#nicht vorhanden
+02028025	#nicht vorhanden
+02028026	#nicht vorhanden
+02028027	#nicht vorhanden
+02028028	#nicht vorhanden
+02035015	#nicht vorhanden
+02035017	#nicht vorhanden
+02035018	#nicht vorhanden
+02037022	#nicht vorhanden
+02037023	#nicht vorhanden
+02037024	#nicht vorhanden
+02037025	#nicht vorhanden
+02037026	#nicht vorhanden
+02037027	#nicht vorhanden
+02037028	#nicht vorhanden
+02037029	#nicht vorhanden
+02038028	#nicht vorhanden
+02038029	#nicht vorhanden
+02038030	#nicht vorhanden
+02038031	#nicht vorhanden
+02039024	#nicht vorhanden
+02039025	#nicht vorhanden
+02039026	#nicht vorhanden
+02039027	#nicht vorhanden
+02039028	#nicht vorhanden
+02039029	#nicht vorhanden
+02039030	#nicht vorhanden
+02039031	#nicht vorhanden
+02039032	#nicht vorhanden
+02039033	#nicht vorhanden
+02039034	#nicht vorhanden
+02039035	#nicht vorhanden
+02039036	#nicht vorhanden
+02039037	#nicht vorhanden
+02039038	#nicht vorhanden
+02039039	#nicht vorhanden
+02039040	#nicht vorhanden
+02039041	#nicht vorhanden
+02039042	#nicht vorhanden
+02039043	#nicht vorhanden
+02040007	#nicht vorhanden
+02040011	#nicht vorhanden
+02040028	#nicht vorhanden
+02040030	#nicht vorhanden
+02040031	#nicht vorhanden
+02040032	#nicht vorhanden
+04006027	#nicht vorhanden
+06006004	καὶ ἔσται ὡς ἂν σαλπίσητε τῇ σάλπιγγι, ἀνακραγέτω πᾶς ὁ λαὸς ἅμα·
+06008013	#nicht vorhanden
+06008026	#nicht vorhanden
+06008030	#nicht vorhanden
+06008031	#nicht vorhanden
+06008032	#nicht vorhanden
+06008033	#nicht vorhanden
+06008034	#nicht vorhanden
+06008035	#nicht vorhanden
+06010015	#nicht vorhanden
+06010043	#nicht vorhanden
+06013033	#nicht vorhanden
+06020004	#nicht vorhanden
+06020005	#nicht vorhanden
+06020006	#nicht vorhanden
+07011004	#nicht vorhanden
+09013001	#nicht vorhanden
+09017012	#nicht vorhanden
+09017013	#nicht vorhanden
+09017014	#nicht vorhanden
+09017015	#nicht vorhanden
+09017016	#nicht vorhanden
+09017017	#nicht vorhanden
+09017018	#nicht vorhanden
+09017019	#nicht vorhanden
+09017020	#nicht vorhanden
+09017021	#nicht vorhanden
+09017022	#nicht vorhanden
+09017023	#nicht vorhanden
+09017024	#nicht vorhanden
+09017025	#nicht vorhanden
+09017026	#nicht vorhanden
+09017027	#nicht vorhanden
+09017028	#nicht vorhanden
+09017029	#nicht vorhanden
+09017030	#nicht vorhanden
+09017031	#nicht vorhanden
+09017041	#nicht vorhanden
+09017050	#nicht vorhanden
+09017055	#nicht vorhanden
+09017056	#nicht vorhanden
+09017057	#nicht vorhanden
+09017058	#nicht vorhanden
+09018001	#nicht vorhanden
+09018002	#nicht vorhanden
+09018003	#nicht vorhanden
+09018004	#nicht vorhanden
+09018005	#nicht vorhanden
+09018010	#nicht vorhanden
+09018011	#nicht vorhanden
+09018017	#nicht vorhanden
+09018018	#nicht vorhanden
+09018019	#nicht vorhanden
+09018030	#nicht vorhanden
+09023012	#nicht vorhanden
+11003001	#nicht vorhanden
 11004020
 11004033
 11005005
