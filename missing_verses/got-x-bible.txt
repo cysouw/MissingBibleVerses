@@ -1,147 +1,148 @@
-16005001
-16005002
-16005003
-16005004
-16005005
-16005006
-16005007
-16005008
-16005009
-16005010
-16005011
-16005012
-16005019
-16006001
-16006002
-16006003
-16006004
-16006005
-16006006
-16006007
-16006008
-16006009
-16006010
-16006011
-16006012
-16006013
-16007004
-16007005
-16007006
-16007007
-16007008
-16007009
-16007010
-16007011
-16007012
-16007013
-16007014
-16007015
-16007016
-16007017
-16007018
-16007019
-16007020
-16007021
-16007022
-16007023
-16007024
-16007025
-16007026
-16007027
-16007028
-16007029
-16007030
-16007031
-16007032
-16007033
-16007034
-16007035
-16007036
-16007037
-16007038
-16007039
-16007040
-16007041
-16007042
-16007043
-16007044
-16007045
-16007046
-16007047
-16007048
-16007049
-16007050
-16007051
-16007052
-16007053
-16007054
-16007055
-16007056
-16007057
-16007058
-16007059
-16007060
-16007061
-16007062
-16007063
-16007064
-16007065
-16007066
-16007067
-16007068
-16007069
-16007070
-16007071
-16007072
-16007073
-40005001
-40005002
-40005003
-40005004
-40005005
-40005006
-40005007
-40005008
-40005009
-40005010
-40005011
-40005012
-40005013
-40005014
-40006033
-40006034
-40007001
-40007002
-40007003
-40007004
-40007005
-40007006
-40007007
-40007008
-40007009
-40007010
-40007011
-40010002
-40010003
-40010004
-40010005
-40010006
-40010007
-40010008
-40010009
-40010010
-40010011
-40010012
-40010013
-40010014
-40010015
-40010016
-40010017
-40010018
-40010019
-40010020
-40010021
-40010022
+16005001	#nicht vorhanden
+16005002	#nicht vorhanden
+16005003	#nicht vorhanden
+16005004	#nicht vorhanden
+16005005	#nicht vorhanden
+16005006	#nicht vorhanden
+16005007	#nicht vorhanden
+16005008	#nicht vorhanden
+16005009	#nicht vorhanden
+16005010	#nicht vorhanden
+16005011	#nicht vorhanden
+16005012	#nicht vorhanden
+16005019	#nicht vorhanden
+16006001	#nicht vorhanden
+16006002	#nicht vorhanden
+16006003	#nicht vorhanden
+16006004	#nicht vorhanden
+16006005	#nicht vorhanden
+16006006	#nicht vorhanden
+16006007	#nicht vorhanden
+16006008	#nicht vorhanden
+16006009	#nicht vorhanden
+16006010	#nicht vorhanden
+16006011	#nicht vorhanden
+16006012	#nicht vorhanden
+16006013	#nicht vorhanden
+16007004	#nicht vorhanden
+16007005	#nicht vorhanden
+16007006	#nicht vorhanden
+16007007	#nicht vorhanden
+16007008	#nicht vorhanden
+16007009	#nicht vorhanden
+16007010	#nicht vorhanden
+16007011	#nicht vorhanden
+16007012	#nicht vorhanden
+16007013	. . . . (h)un(da) (·m·) (·e·) (...45). -
+16007014	sunjus (Zax)xa(i)a(us) ·hv· (·j·) (760). -
+16007015	(suniwe) (Ba)nau(is) (·x·) (·j·) (·b·) (662). -
+16007016	(su)naus (B)a(b)a(wis) (·x·) ·k· ·g· (623). -
+16007017	suna(us) <Az>gadis ·b· þusundjus (·s·) (·k·) (·b·) (2222). -
+16007018	(suniwe) (Adone)ik(a)m(is) (·x·) (·j·) ·q· (666). -
+16007019	suni(we) Ba(ig)au(s)is ·b· (þ)usund(jos) ·j· (·q·) (2066). -
+16007020	su(niwe) (Ad)deis ·x· ·n· ·d· (654). -
+16007021	sunaus Azeiris, suna(u)s Aizaike(i)ins, niun(te)hund (j)ah ·h· (98). -
+16007022	suniwe Assaumis ·s· ·k· ·g· (223). -
+16007023	suni(w)e (B)a(s)seis ·t· ·l· ·g· (333). -
+16007024	suniwe Ioriais (·r·) ·i· ·b· (112). -
+16007025	suni(we) Gabaons ·{90}· ·e· (95). -
+16007026	suniwe Biþlaihaimis ·r· ·k· ·g· (123). - suniwe Nait(o)faþeis ·r· ·i· ·q· (116). -
+16007027	suniwe Anaþoþis ·r· ·k· ·h· (128). -
+16007028	(su)niwe Asm(o)þis ·r· ·k· (·h·) (128). -
+16007029	waire Kar(eiaþiaa)reim jah (K)aif(a)i(r)a (jah) Beroþ ·hv· ·m· ·g· (743). -
+16007030	wairos Ra(ma) (jah) G(a)baa (·x·) (·k·) (·g·) (623). -
+16007031	wa(i)ros M(a)kmas (·r·) ·k· ·b· (122). -
+16007032	wairos Ba(i)þilis jah Gai ·s· ·k· ·g· (223). -
+16007033	wairos Nabawis ·n· ·b· (52). - sun(ju)s (Ma)k(eib)is ·r· ·n· ·q· (156). -
+16007034	sunjus Ail(a)mis anþ(a)ris þusundi ·s· ·n· ·d· (1254). -
+16007035	sunjus Eeiramis ·t· ·k· (320). -
+16007036	sunjus Eiaireikons ·t· ·m· ·e· (345). -
+16007037	sunjus Lwddomaeis jah Anos ·hv· ·k· ·e· (725). -
+16007038	sunjus Ainnaïns ·g· þusundjos ·x· ·l· (3630). -
+16007039	jah gudjans: sunjus Aidduins us garda Iesuis niun hunda ·u· ·g· (973). -
+16007040	sunjus Aimmeirins þusundi ·n· ·b· (1052). -
+16007041	sunjus Fallasuris þusundi ·s· ·m· ·z· (1247). -
+16007042	sunjus Iareimis þusundi ·i· ·z· (1017). -
+16007043	jah Laiwweiteis: sunjus Iesuis jah Ka(i)dmeielis us sunum Odueiins ·u· ·d· (74). -
+16007044	sunjus Asabis liuþarjos ·r· ·m· ·h· (148). -
+16007045	sunjus daurawarde: sunaus Sailaumis jah sunjus Aze . . . .
+Sk 1:1 [E] . . . . "saei fraþjai aiþþau sokjai guþ. allai uswandidedun, samana unbrukjai waurþun", jah ju uf dauþaus atdrusun staua(i).
+16007046	#nicht vorhanden
+16007047	#nicht vorhanden
+16007048	#nicht vorhanden
+16007049	#nicht vorhanden
+16007050	#nicht vorhanden
+16007051	#nicht vorhanden
+16007052	#nicht vorhanden
+16007053	#nicht vorhanden
+16007054	#nicht vorhanden
+16007055	#nicht vorhanden
+16007056	#nicht vorhanden
+16007057	#nicht vorhanden
+16007058	#nicht vorhanden
+16007059	#nicht vorhanden
+16007060	#nicht vorhanden
+16007061	#nicht vorhanden
+16007062	#nicht vorhanden
+16007063	#nicht vorhanden
+16007064	#nicht vorhanden
+16007065	#nicht vorhanden
+16007066	#nicht vorhanden
+16007067	#nicht vorhanden
+16007068	#nicht vorhanden
+16007069	#nicht vorhanden
+16007070	#nicht vorhanden
+16007071	#nicht vorhanden
+16007072	#nicht vorhanden
+16007073	#nicht vorhanden
+40005001	#nicht vorhanden
+40005002	#nicht vorhanden
+40005003	#nicht vorhanden
+40005004	#nicht vorhanden
+40005005	#nicht vorhanden
+40005006	#nicht vorhanden
+40005007	#nicht vorhanden
+40005008	#nicht vorhanden
+40005009	#nicht vorhanden
+40005010	#nicht vorhanden
+40005011	#nicht vorhanden
+40005012	#nicht vorhanden
+40005013	#nicht vorhanden
+40005014	#nicht vorhanden
+40006033	#nicht vorhanden
+40006034	#nicht vorhanden
+40007001	#nicht vorhanden
+40007002	#nicht vorhanden
+40007003	#nicht vorhanden
+40007004	#nicht vorhanden
+40007005	#nicht vorhanden
+40007006	#nicht vorhanden
+40007007	#nicht vorhanden
+40007008	#nicht vorhanden
+40007009	#nicht vorhanden
+40007010	#nicht vorhanden
+40007011	#nicht vorhanden
+40010002	#nicht vorhanden
+40010003	#nicht vorhanden
+40010004	#nicht vorhanden
+40010005	#nicht vorhanden
+40010006	#nicht vorhanden
+40010007	#nicht vorhanden
+40010008	#nicht vorhanden
+40010009	#nicht vorhanden
+40010010	#nicht vorhanden
+40010011	#nicht vorhanden
+40010012	#nicht vorhanden
+40010013	#nicht vorhanden
+40010014	#nicht vorhanden
+40010015	#nicht vorhanden
+40010016	#nicht vorhanden
+40010017	#nicht vorhanden
+40010018	#nicht vorhanden
+40010019	#nicht vorhanden
+40010020	#nicht vorhanden
+40010021	#nicht vorhanden
+40010022	#nicht vorhanden
 40011026
 40011027
 40011028
