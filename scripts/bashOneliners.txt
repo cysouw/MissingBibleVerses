@@ -1,0 +1,3 @@
+# move to ready when ready
+
+grep -L '\d$' * | xargs -I '{}' mv {} ../ready
