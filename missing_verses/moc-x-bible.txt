@@ -1,100 +1,107 @@
-40011011
-40021043
-40022045
-41001004
-41001005
-41007008
-41012037
-42007028
-42020018
-42020044
-43004007
-43004008
-43010014
-43010015
-43012039
-43012041
-43013002
-43013003
-43013004
-44028028
-45008037
-45008038
-45008039
-45009011
-45009012
-45009013
-45009027
-45009028
-45009029
-45010019
-45010020
-45010021
-45014012
-45015010
-45015011
-45015012
-46002010
-46005012
-46005013
-46006009
-46006010
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002009
-58002013
-58003016
-58003017
-58003018
-58003019
-58004004
-58004005
-58004006
-58004007
-58004008
-58004009
-58004010
-58004011
-58005006
-58005007
-58005008
-58005009
-58005010
-58007018
-58007019
-58007022
-58007023
-58007024
-58007025
-58008013
-58010008
-58010009
-58010010
-58010017
-58010018
-58010039
-58012007
-58012008
-58012009
-58012010
-58012011
-60002007
-60002008
-60005006
-60005007
-65001024
-65001025
-66007011
-66007012
-66011016
-66011017
+40011011	Ỹaatqajam llic da shinac caqamiri quiyim quená'ogue na qom quená'maq vire'ta nagui nca'leetauec, qaica ca paguec lecaic quesó'maq nachilaxanataxanaq leenaxat Juan. Qam cá'maq paguec cocho'qui' queda lo'ueenataxanaxac ñi qota'a queda piguim, paguec lecaic queso'maxare.
+40021043	Ca vichiguiño' shinac caqamiri quiyim qarouootaxana'gue ma'le da lo'ueenataxanaxac ñi qota'olec caqamiri, ca qoỹaanem ma'le na qomyipi quená'maq ỹaanem ma'le ipacqajanchigui nqai'en dá'maq laỹaxac dajo no'ueenataxanaxac.
+40021044	Chaqai quecá'maq qa' quecanchaqaica huaañi quiyim tajlec ca'maxare, ca lahiletajlec nqohin. Chaqai no'm so qa' 'ue ca tajlec, ca ramoxoỹañi nqai'en.
+40022045	Ca ¿negue' quet cá'maq 'neeta quiyim só'maq nashi nca'laxaqui llaalec quet so David? Ma' so'maxare 'naac la'gaxala'.
+41001004	Ca' chaqaida 'neeto' na'le so Juan co'na' naqueto'ot quiyim nachilaxantac na qomyipi quiyi 'laua qaica qom. Chaqai 'neetapega quiyim ỹaxañiñi naua loico quiyim qanachilaxan, qaiyi qaỹapalaxate' naua lasauaxasete'.
+41001005	Qananacpegue' quiyim qana'xaỹaxana quená'ogue ná'maq naalec yi 'laua Judea chaqai yi na'a' lodegaxat Jerusalén. Ca co'quena' ỹa'xat na lasauaxaseteripi, ca' so Juan nachilaxan caso lachiugue leenaxat Jordán.
+41007008	Ma' qamiri mashic lachii' naua lapaxaguinataxanaxaco ñi qota'olec, ca' quiilgoto nauá'maq chi no'ueenataxaco na qomyipi, quena' quiỹohi ana nehomahi, chaqai ana ne'taxaguii, chaqai 'xoic na liỹa 'viichitac 'nejem da'maxare.
+41012037	Qam chaqaiso só'maq David co'na' qaretaqaugui queso Espíritu Santo, 'naaco':
+Ñí'maq qara'gaxala' qota'a 'naaco' quiñi ỹa'gaxala':
+“Nqa'xañiriñi queda ỹoic,
+toco' ma' sillo'oto naua qapiaachichi' ná'ogue na npa'guenaxaua'e'ipi.”
+42007028	Qamiri shiñiỹapegaxaua', quená'ogue na qomyipi qaica ca 'nejem lecaic la'qaataxanqajnec ñi qota'a queso Juan só'maq nachilaxanataxanaq. Qam ná'maq ỹapaguec cocho'qui' queda lo'ueenataxanaxac ñi qota'a, paguec lecaic queso'maxare.
+42020018	Qam no'm 'ue canchaqaica huaañi queso qa', ca ca'maxare lahiletajlec; chaqai no'm so qa' 'ue ca taalec, ca ramoxoỹañi nqai'en.
+42020044	Ca ¿negue' ca 'neeta quet quiyim so nashi nca'laxaqui llaalec quet so David? ma' chaqaiso só'maq David 'naac quiyim la'gaxala'.
+43004007	Ma' saua lapaxaguinatqa tareu'a so na'a' rishiujnaxandaque ca na'ic. Ca ỹoviraxasomo' aso 'aalo Samaria lase cañi ni'ỹa, ỹahotaque naqajshiguim huaxaỹaq. Ca' so Jesús 'naaco' caso'maxare:
+—Vite ỹaquip.
+43004008	
+43010014	Ỹim ná'maq ỹim no'uen qagreta lo'o. Ca' chaqaida dá'maq 'neeta quiyim iuañiua' ñi ita'a, chaqai aỹim seuana ñi'maxare, ca' chaqaida 'nejem quiyim ỹim sa'deenta ana ilo qagretaipi, chaqai ana'maxare ya'deenta. Chaqai aỹim saanougui da ñachaalataxac aná'maq qagretaipi.
+43010015	
+43012039	Ca' se ishit quiyim 'ue ca huelec, ma' qai'neeta ỹiriñi so Isaías:
+43012041	So Isaías ỹa'xat dajo, ma' iuanchiguio' da lecaic so Jesús, chaqai ỹa'xatetac so'maxare.
+43013002	Ca' so na'ỹaapec shi'co' ishichigui añi le'taxanata so Judas Iscariote, llaalec so Simón, da la'deenataxanaxac quiyim ỹaano so Jesús. So Jesús ỹa'deenta quiyim chicqo'ot ñi qota'olec, chaqai quiyim pila ñi'maxare, chaqai quiyim ñí'maq leta'a ỹaanem dá'ogue da lquesaxanaxa. Ca co'na' que'eeta'pe, ca' so Jesús ne'laxashiguim quiyi nqui'ỹaxala', ca naqat so napoxoqui, ca' nosaachigui so shiviaqataxat.
+43013003	
+43013004	
+44028028	Ca nagui 'yiiñita dajo, ma' quenagui taachi'ñi da nca'laxa chicqo'ot ñi qota'olec qoỹaanougui na mesqai judioipi, ma' na'maxare na'xaỹaxana ma'le.
+45008037	Qam quedá'ogue dajo senoxonaxatqauec quiyim qomi' quesaxanaxaqa, qam da qarquesaxanaxa chicqo'ot só'maq i'xorene' qomi'.
+45008038	Ca' ỹaatqajam se'taxachichiguiñi quiyim qaica ishit quiyim ỹoỹooterec qomi' queda le'xorenataxanaxa ñi qota'olec coqomi'. Da nelauaxa, chaqai da nca'laxa, chaqai na nelaatqaipi chicqashiguim, chaqai na na'ñaxaquipi chaqai na nquesaxanaxa se re'xogui, chaqai naua seuqatauguilo na'xata' chaqai ca ñaqa naata,
+45008039	loqo'm na hueeto'ot na piguim loqo'm na pa'aañi, chaqai qaica cá'maq liỹa quena lo'ueenatec ñi qota'a ishit ỹoỹoote'ogalo qomi' queda le'xorenataxanaxa ñi'maxare, chicqochigui nqai'en so Cristo Jesús só'maq qara'gaxala'.
+45009011	Qam saua'maxare na' saqa' ne'qa'iñi, chaqai saqa' ỹo'ueete' ca ỹa'maqachiguiñi loqo'm ca se no'uen, ca ñi qota'a 'naaco' caso Rebeca: “Ñí'maq ỹi quiyaua'maxare nelaatec ma'le quiñi lanoq.” Ca' dajo nachiñi'chiguit qai'neeta naua naneresañi la'qaatqa ñi qota'a, 'neracsa': “Se'xoren so Jacob, so Esaú yoquii'a.” Ca' quiyi, ca qai'taxajñi da lca'axanaxac ñi qota'a quecá'maq nca'au'a quecá'maq ỹahotaque roỹaxana, se ra'iitapigui cá'maq ỹo'ueetetac.
+45009012	
+45009013	
+45009027	
+45009028	
+45009029	
+45010019	
+45010020	
+45010021	Chaqai na' so Isaías taalec nqai'en na Israel laseripi da la'qaatec ñi qota'a, 'neetasa': “Ỹaatqajam yá'ogue yi na'xa'a soỹaxantapega quiyim rapilliua' na se na'xaỹaxan qomyipi ná'maq ỹim npa'guene'e'.”
+45014012	Ca vichiguiño' quiñi 'óna coqomi' chi nichoxotalta' ma'le quiñi qota'olec.
+45015010	
+45015011	
+45015012	
+46002010	Qam dajo ỹa'deenaxanaxanque qomi' ñi qota'a, chicqochigui nqai'en so Espíritu Santo, ma' so'maxare imitetac ná'ogue, chaqai ỹovira'a quiyim ỹa'den ná'maq 'xoic lecaic se re'xogui 'neeta'pegue ñi qota'a.
+46005012	Ma' ỹim se seshit quiyim sa'aualec quiyim semit ca saqa' icoñiguit da na'qaatec, ma' ñi qota'a ñí'maq imit ma'le ca'maxare. Qam qamiri ishit quiyim 'ñiỹapega ná'maq mashic icoñiguit da na'qaatec. Ca vichiguiño' naqachii cajo sauaqhuaic neetanguilo qamiri.
+46005013	
+46006009	Sqa 'yiiñio' qamiri dajo, ma' queca ỹo'ueetetac ca se ỹa'maxañi queca liỹa, ca se ishit inoxonou'a ca ñaq naataho lo'ueenataxanaxac ñi qota'a? 'Neeto' lotqai quiita'uegue ca nayinaxaguii, ma' se ishit inoxonou'a ma'le da lo'ueenataxanaxac ñi qota'a ná'maq ñaqai queetalec da nedequenaxac, chaqai na ñaq nqouagaxaintacot ca nashiilec, chaqai na lapaatapi'ñi' aca se loua, chaqai ca hueeta'piguit ca nallishiua, chaqai na cuataxaiquipi, chaqai namataxalaic, ne'taaxai, la'axaqa lo'o', chaqai ỹayin ca liỹa quiyim naqat aca lam.
+46006010	
+47009010	Ñi qota'a, ma' ỹaan aca nanecse ala quiyim qoỹanñi, chaqai ca na'ic quiyim qaỹa'ic, ca ỹaanema qamiri ná'ogue nanchaqaina quiyim ñiiñi, chaqai quiyim ñaxat nqai'en ca qadañicshiguii, ca ỹovira'a quiyim 'xoic aca la nqai'en, qaiyi ma' qanaqat, ca 'xoic nqai'en ca lo'yaxanec no'ueenataxanaxac chicqochigui.
+47009011	Qaiyi ma'le, ca' ỹaleque'ejta' nanchaqaina 'ue caqamiri, ma' qamiri nesallaxanqa. Ma' 'ue ca rachitaxanataxanaxachii lari'ueguelo qomi', ca' ỹo'uet quiyim yi qarqaỹaripi ỹaanshiguim da na'aachic quiñi qota'a.
+47009012	Ma' quiyim saanaq anajo rotaanaxanqachii quena qarqaỹaripi, sqai saanqaem quiyim qaidaata 'ue ca louenaxanaxa. Qam qai'neeta so'ueetaq dajo, qaiyi yi qarqaỹaripi ỹaanshiguim da na'aachic quiñi qota'a.
+47009013	Ca yaua'maxare imaqachine' ma'le ñi qota'a, ma' quedajo rotaanaxanaxaguii, ca re'oq quiyim na'xaỹaxañii'ta da na'qaatec ỹa'xat so Cristo. Chaqai qai'neete' yaua'maxare imaqachine' ma'le ñi qota'a queda rqouagaxahi quiyi'maxare chaqai quená'ogue.
+47009014	Ca yi'maxare, ca nqouagaxaintalgoto qamiri ma'le, ma' 'xoic da lauochaxa ma'le caqamiri queda rqouagaxahi re'oq chicqo'ot ñi qota'a.
+47009015	Ca' ¡qomi' saanqot da qana'aachic ñi qota'a, ma' ñi'maxare 'xoic lecaic dá'maq qana'aachicyaxac qomi', ca' da'maxare se seshitaq sa'xataq cá'maq 'neeta da'maxare!
+58001006	
+58001007	
+58001008	
+58001010	
+58001013	
+58001014	Ná'ogue ná'maq nelaatqaipi piguim laseripi, na'maxare se re'xogui, ro'ueenataxantacot ñi qota'a. Na'maxare nelaatqaipi quiyim ỹotauan ná'maq icoñiguit ma'le ca nca'laxa.
+58002009	Qam qomi' seuanaxa so Jesús só'maq ñi qota'a paguec nqo'ñiichiguiñi nqai'en quena lelaatqaipi piguim laseripi, qam se ladoguec. Ca quedá'maq le'xorenataxanaxa ñi qota'a, ca ỹo'uet quiyim ileualec ná'ogue; ca' nagui qoỹanagui da lecaic chaqai da lemaqachic, ma' ỹovirau'a da le'xoric na' ileu.
+# In Verse 58002008 gibt es Auslassungen: Ná'ogue lli'ro'oto naua lapiaate'.
+Ca' mashic ná'ogue qaillo'oto naua lapiaate' na qom, ca' ñi qota'a sqaica quet cá'maq no'ueenaqtauec quiyim se qanollaañi quena'maxare. Qam qaiyiita saqa' seuanaxa quiyim ná'ogue na'xaỹaxana na'maxare.
+58002013	
+58003016	Ca ¿nega'ỹo' só'maq se na'xaỹaxano' na'le na' 'xaỹaque da la'qaatec ñi qota'a? Sá'ogue só'maq naqateco' na'le so Moisés quiyi 'laua Egipto.
+58003017	Chaqai ¿nega'ỹo' só'maq ỹovite' cuarenta ñaxari quiyim qanoquii'a quiñi qota'a? Ca chaqaiso só'maq 'ue na lasauaxaset, ca so'maxare sá'ogue ileu huaalec yi 'laua qaica qom.
+58003018	Chaqai ¿nega'ỹo' cá'maq 'naapego' na'le ñi qota'a quiyim se inoxona'a ma'le ñi'maxare quiyim nco'mataxaua? Sá'ogue só'maq se na'xaỹaxan.
+58003019	Ca' sa'deenaq quiyim se inoxono' na'le, ma' se na'xaỹaxan.
+58004004	# 58004003-58004007 wurden zusammen übersetzt, jedoch gibt es viele Auslassungen. http://bibles.org/moc-MCV/Heb/4
+58004005	
+58004006	
+58004007	
+58004008	Ma' quetqai so Josué inoxona'a nqai'en ca nco'mataxac so Israel llaalqaipi, ca ¿negue' quet ca 'neeta quiyim ñi qota'a 'ue quet ca ỹiquetapigui liỹa na'xa'a?
+58004009	Ca' ñaqa 'ue cajo na'xa'a co'mataxaqui naataho, qaỹahotaque nco'mataxaqui na lalamaxareteripi ñi qota'a.
+58004010	Ma' cá'maq inoxona'a ca nco'mataxac ñi qota'a, ca' nco'matec quena lo'ueenatqaipi, 'nejem ñi qota'a na' nco'matec quena chi lo'ueenatqaipi.
+58004011	Ca' ña'ñaxataq, qaiyi senoxonaxau'a cajo co'mataxac, 'neeto' lotqai 'ue ca queetalec da 'neetari'o' na'le so qomyipi se na'xaỹaxan.
+58005006	
+58005007	Co'na' so Cristo hueetalec najo 'laua ỹaatqajam nelamaxaren nqouagaxaintac, chaqai rashiilaxantac, noỹento'ot ñí'maq 'ue da lquesaxanaxa quiyim se ỹovira'a nqai'en da nelauaxa. Ca ñi qota'a na'xaỹaxana so'maxare, ma' so'maxare ỹaatqajam nomatalta' nañaanot ñi'maxare.
+58005008	Ca' so Cristo 'eno'm ỹaatqajam ñaalec, qam ỹovirau'a da le'xoric, ca' ỹa'den quiyim na'xaỹaxanta.
+58005009	Ma' so'maxare ỹaatqajam qanaloqojonchiguiñi da no'ueenataxac, ca ỹovirau'a quiyim chicqochigui nqohin dá'maq nca'laxa sqaica lqodoc quená'ogue ná'maq huelec so'maxare.
+58005010	Ca' ñi qota'a ỹanagui quiyim chaqaiso so la'gaxala' na netaxaỹaxanqajanqaipi quiyim qaretaxaỹa'pegue' ñi'maxare, 'nejem na'le da no'ueenataxac so Melquisedec.
+58007018	Ca só'maq 'auaxaic nelaataxanaxac qanosogoñi, ma' qaica quet cá'maq lquesaxanaxa chaqai qaica quet cá'maq 'negue.
+58007019	Ma' so naqataxaquipi chicqo'ot so Moisés qaica quet cá'maq ỹa'maxajñi. Qam nimiiñiguit nqohin da qanaquitaxac, ca' paguec loyac, ca chaqaida chicqochigui quiyim seshitaq ñqo'naxau'a ñi qota'a.
+58007022	Vichiguiño' so Jesús chaqaiso só'maq i'taxajñi dá'maq 'maqataxac paguec loyac queso 'auaxaic.
+58007023	Só'maq liỹa netaxaỹaxanqajanqaipi ỹoviretalco' quiyim 'xoic, ma' ileueta'oguit, ca' se ishit quiyim queeta.
+58007024	Qam ma' so Jesús tot ileu, ca' se ishit quiyim 'ue quet ca liỹa taalec quet yi lo'ueenatec quiyim retaxaỹa'pegue' ñi qota'a.
+58007025	Vichiguiño' ishit quiyim qaica lqodoc nqai'en da lca'laxa ná'maq ỹachigoxochichigui so'maxare quiyim nqo'neu'a ñi qota'a, ma' so'maxare tot ileu, ca rashiilaxanlec quiñi qota'a na'maxare.
+58008013	Co'na' ỹa'xat ñi qota'a so dalaxaic 'maqataxac, ca ñi'maxare 'ec qo'oq nqai'en só'maq 'auaxaic; chaqai ná'maq mashic qo'oq chaqai mashic ite', ca na'maxare qaỹaloq imeuo.
+58010008	'Auaxaic 'naac so Cristo quiyim ñi qota'a se ỹa'maxaren chaqai se ỹacoñiguit na nachitaxanataxanqateripi chaqai na qoỹaantapego iseripi chaqai na qoỹaano qaỹavigaxat quiyim naqat na nasauaxaset, 'eno'm chaqaina ná'maq relaataxanlec na naqataxaquipi quiyim qaỹo'uet.
+58010009	Ca' na' ime, ca 'naac: “Nagui, ca' ñanac, ca qaiyi so'uet cá'maq vi'saque, qami' qota'olec.” Qam da leloxoỹaxac dajo 'neetasa': Quiyim qanaqat na nachitaxanataxanqateripi qaỹavigaxatetac, ca' ñigui nqohin dajo dalaxaic nachitaxanataxanaxat.
+58010010	Ca' ñi qota'a qarco'taxat, ma' so Jesucristo ỹo'ueeto' na'le dá'maq ỹahotaque ñi qota'a co'na' ỹaanec so loshicmaxa quiyim qaỹalauat, ca' imaauec nqai'en dá'maq qaỹahotaque.
+58010017	
+58010018	Ca' chaqaida 'neeta quena' qaỹapalaxat na nasauaxaset, ca tot qaỹouen ca liỹa nachitaxanataxanaxat quiyim qaỹapalaxat na nasauaxaset.
+58010039	Qam qomi' sqai shinqata ná'maq pilec, ca' qaỹopoxoỹaxachigui. Ta'ta'a quiyim shinqata ná'maq 'ue da lpi'ỹaxac, qaiyi qaỹa'maxatetac da qanachaalataxac.
+58012007	Ca' qamiri na'ñaxachiiguit ca nouaxanaxaguii, ma' ñi qota'a 'neeta'guelo quiyim qamiri lalamaxarete' llaalqa. ¿Peeta'a 'uo' ca ñaalec quiyim se qaỹapaxaguin queca leta'a?
+58012008	Qam ñi qota'a no'm se ỹapaxaguine' qamiri quedá'maq 'neeta'gue ná'ogue na llaalqaipi, ca' sqai qamiri lalamaxarete' llaalqa, ta'ta'a quiyim chaqai qamiri peua'.
+58012009	Chaqai qai'neeta na' ñaqai qomi' ñaaqaipioqui', ca' na qareta'allipi quena 'laua ña'xaỹaxanqa'talo quena' qarapaxaguin. Ca' ¿chi'negue queta' sqai paguec ña'xaỹaxanaxa ñi qota'a se re'xogui, qaiyi 'ue ca qarca'laxa?
+58012010	Saua 'auaxaqa re'qoochiguilo qareta'al cocho'qui' ỹapaxaguinque qomi' dá'maq ipeetera'a 'maxaraic 'ueenataxac. Qam ñi qota'a ỹapaxaguinque qomi' dá'maq ỹaatqajam qara'maxa, ma' ỹahotaque co'teete' qomi', shinqatam ñi'maxare co'teeta.
+58012011	Llic ma' qaica quet ca nouaxanaxanaxat qarqo'ta quiyim qaỹouaxane' qomi'. Ta'ta'a quiyim seuetaq quena' ñaqai chita'gue. Qam quena' ncopa, ca' re'oq dá'maq 'neeta da napaxaguinataxac ca qom quiyim ỹaatqajam na'xaỹaxanta. Ca da nachaalataxac ỹaatqajam co'teeta chaqai 'ue da la'maxa.
+60002007	# 60002006-60002008 wurden zusammen übersetzt, jedoch gibt es Auslassungen. http://bibles.org/moc-MCV/1Pet/2
+60002008	
+60005006	Ca niñiiquishiñii, 'guiñiỹoto naua laua' ñi qota'olec maq sqaica lqalanec, qaiyi ñi'maxare ỹalamaxachiñi qamiri ma' ỹovita ca laloqo'.
+60005007	Chaqai ná'ogue ná'maq 'yiiñitapega 'ỹaañiỹot ñi qota'a, ma' ñi'maxare ỹaatqajam 'ue da 'neeta caqamiri.
+65001024	Ñí'maq qota'olec qaiñiita chaqai qaica 'nejem da la'deenaxanaxa, ñí'maq qarca'laxaqui, 'ue da lquesaxanaxa quiyim cochiỹalo qamiri, qaiyi qaica ca huaañi. Qaca aca lete nqai'ne' qamiri, ca 'xoic ca netoonaxaguii nqai'en, ma' nachaalataxana'alo qamiri yí'maq chalego lauaq hueete'e ñi'maxare. Ca' ñi'maxare chaqai 'neetari' se neme da lauaq, da lecaic, da lquesaxanaxa, chaqai quiyim 'ue nqai 'negue nqohin ñi'maxare, chicqochigui so qara'gaxala' Jesucristo, chicqotañi nallaaqo', chaqai nagui, chaqai sqaica lqodoc. Ajá'a, ca' chaqaida 'neeta dajo.
+65001025	
+66007011	# 66007010-66007012 wurden zusammen übersetzt, jedoch gibt es viele Auslassungen. http://bibles.org/moc-MCV/Rev/7
+66007012	
+66011016	# 66011015-66011017 wurden zusammen übersetzt, jedoch gibt es viele Auslassungen. http://bibles.org/moc-MCV/Rev/11
+66011017	
