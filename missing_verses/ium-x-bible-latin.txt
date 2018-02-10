@@ -1,291 +1,291 @@
-40004011
-40011011
-40011012
-40011013
-40011014
-40011015
-40011018
-40011019
-40013014
-40013016
-40013017
-40022038
-40022039
-40022040
-40022045
-40022046
-40026032
-41005003
-41005004
-41007008
-41007011
-41007012
-41007013
-41012031
-41012037
-41014028
-41015042
-41015043
-42001054
-42001055
-42002024
-42004013
-42007028
-42007033
-42007034
-42007035
-42020018
-42020044
-42023031
-42023050
-42023051
-43012041
-43013019
-43013020
-43015021
-43017002
-43017003
-43017004
-43017005
-43017006
-43017007
-43017008
-43017009
-43017010
-43017011
-43017012
-43017013
-43017014
-43017015
-43017016
-43017017
-43017018
-43017019
-43017020
-43017021
-43017022
-43017023
-43017024
-43017025
-43017026
-43019037
-44001021
-44001022
-44003026
-44008027
-44008028
-44013034
-44013035
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023026
-44023027
-44023028
-44023029
-44023030
-45004009
-45004010
-45004011
-45004012
-45004019
-45004020
-45004021
-45004022
-45004023
-45004024
-45004025
-45007008
-45007009
-45007010
-45007011
-45009016
-45009017
-45009018
-45009026
-45010006
-45010008
-45010009
-45010010
-45010011
-45010012
-45010013
-45010017
-45010019
-45010020
-45011028
-45011029
-45011030
-45011031
-45011032
-45011034
-45012020
-45012021
-45013010
-45014012
-45015010
-45015011
-45015012
-45015013
-46001020
-46003020
-46005012
-46005013
-46009010
-46009011
-46009012
-46010008
-46010009
-46010010
-46015028
-46015033
-46015034
-47001013
-47001014
-47004014
-47004015
-47006017
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-47010018
-48004031
-48005015
-49004009
-49004010
-49004011
-49004012
-49004013
-49005032
-49005033
-54005019
-54005020
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002009
-58002010
-58002013
-58004004
-58004005
-58005006
-58006015
-58006016
-58006017
-58006018
-58006019
-58006020
-58007018
-58007019
-58007022
-58008006
-58009021
-58009022
-58010017
-58010018
-58010031
-58010039
-58011019
-58012007
-58012008
-58012009
-58012010
-58012011
-58012027
-58013006
-58013020
-58013021
-59002009
-59004006
-60002004
-60002005
-60002006
-60002007
-60002008
-60002023
-60002024
-60002025
-61001018
-62001001
-62001002
-65001024
-65001025
-66001004
-66001005
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002008
-66002009
-66002010
-66002011
-66002012
-66002013
-66002014
-66002015
-66002016
-66002017
-66002018
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002027
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003007
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003014
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
-66004009
-66004010
-66005013
-66005014
-66007005
-66007006
-66007007
-66007008
-66007011
-66007012
-66011016
-66011017
-66016007
-66017006
-66017007
-66017008
-66018004
-66018009
-66018010
+40004011	myenq Eei huvb zyav naaig leib Gxi ye-su mig a'q. finb myenb zyrug taaib liug leid ye-su.
+40011011	yia kxvq zyen Buaj meib Bua, ta'faanb yem myenb Bu'Dovj Tevj myenb Jiaj uam Eei leid uaq taub yo-han, kaub Lo Jiaj. mq paag yem Tinb txvb Eei kua'q zruj kaub faij Jiaj uaq taub, ninb Zxg kaub Lo Jiaj yo-han.
+40011012	yem naaiq taub yo-han Jiad kxn zunb tod Tauj ib zang, Tinb huvb Eei kua'q zu'g myenb zruj to'g yaag zu'g myenb to'g myenb xij Zaavq.
+40011013	Tauj yo-han Eei luvb Diaq, zwavj trug waag myenb Zauj mo-se Eei leib latg yaag kxvq Tinb huvb xij taaib zruj zyruq kunq myenb Eei Jauq.
+40011014	sij kxvq meib Bua Eung syenj uaq teij myenb Tevj Tinb huvb trug taaib Eei waag, yo-han se tovb ninb Bua kxvq xij taaib uaq taub e-li-yaa.
+40011015	haiq taub maaib mnxmb xij zu'g pcv mnxmb mwavj lovj og.
+40011018	Tevj myenb Jiaj uam Eei leid uaq taub yo-han taaib uaq zang, ninb zei maiq Eang haiq Euvg, yaag maiq hopq a'vung tiuq. zwavj myenb kxvq, ‘maaib myenq yem ninb Eei sin.’
+40011019	yia, paamb myenb Eei txn, taaib uaq zang, yia Eang yaag hopq. myenb zyrug kxvq, ‘mavg kaaj, naaiq taub myenb Kuvj mauq Eang hopq Gwin Navq. ninb yaag Zauj Tevj lo-maa huvb Jaa syru Rrub zinb Eei myenb Zauj mevb taub waaig Eei myenb zruj txig.’ mq paag Zwrtq taaib Eei sig pun Ziv Tinb huvb Eei Zovb mevb za'kevb hxpg Eei.”
+40013014	ninb Bua txib tiug Revg i-saa-yaa trug Eei waag. ninb kxvq, ‘meib Bua Dovg haaij mwavj, meib Bua maiq haib pia'g Hruq, Dovg haaij mavg, yaag maiq maiq mevb pc'g.
+40013016	mq paag meib Bua xnb lx'g haig a'q, weig zu'g meib Bua Eei mziv haib mavg tu'q pwatg. meib Bua Eei mnxmb haib mwavj tu'q haid.
+40013017	yia Buaj zyen meib Bua, zinb Daavg maaib trug waag myenb Zauj Kuq myenb Zamq xij pwatg haig tovb meib Bua pwatg Eei, mq paag ninb Bua maiq tu'q pwatg. xij haid tovb meib Bua haid Eei, mq paag ninb Bua maiq tu'q haid.
+40022038	naaiq se Lo Jiaj, kaub lovg Jyenq Jiaj Eei leid a'q.
+40022039	ta'Eeig tiub yaag fib Navq Eei, ‘xij zu'g Namq myenb Navq Namq kanb nx.’
+40022040	mo-se Eei leib latg Zauj zwavj trug waag myenb Faauj Eei yetg zuvq waag lovg naaiq teij i tiub leid zruj kxn.”
+40022045	sij kxvq Daa-witq heug ninb zruj ‘zyruq,’ ki-tug Navq haiq nx haib zruj Daa-witq Eei zeib fun?”
+40022046	maiq maaib haiq taub haib tau yetg Jruj ye-su. yem naaig Nxi taaib, maiq maaib haiq taub kaamq naaig haiq Euvg ninb a'q.
+40026032	mq paag yia taig mivb, Tinb huvb cvj pun yia navb taaib, yia zyrug mivb kaa-li-li scvq Daavg meib Bua.”
+41005003	ziaj Rung myenb lovg Lia'g limg Dob Jyenq puad, Lia'g Kru Kru Jyenq zauj, mq paag maiq maaib haiq taub Dob tu'q Jyenq. limg, ninb Zutq tavj Revg. Lia'g Kru yaag wrtq nauq Revg. maiq maaib haiq taub maaib Qa'q kauj pxvd tu'q hivb ninb. ziaj Rung myenb lovg Lia'g limg Dob Jyenq puad, Lia'g Kru Kru Jyenq zauj, mq paag maiq maaib haiq taub Dob tu'q Jyenq. limg, ninb Zutq tavj Revg. Lia'g Kru yaag wrtq nauq Revg. maiq maaib haiq taub maaib Qa'q kauj pxvd tu'q hivb ninb.
+41005004	
+41007008	mivb hei Rwrnj taaib, sij kxvq maiq ei leib Eeig Raauj puad Daavg, ninb Bua maiq Eang Naavj. cvj maaib Zamb Euvg leid ninb Bua xij zu'g kan. xij zu'g ei leib Eeig Raauj Zcvb yenq Zauj tovb si'q Jaab sig.)
+41007011	mq paag meib Bua kxvq, sij kxvq maaib laanb myenb maaib haiq Euvg ka'naaiq haib lovg Tevj ninb Eei tia fai maa mq paag ninb kxvq, ‘naaiq se ko-laa-Baan,’ (eij leid se fuvj pun Tinb huvb mig a'q),
+41007012	meib Bua zyrug maiq pun ninb zruj haiq Euvg Tevj ninb Eei tia fai maa.
+41007013	meib Bua Navq naaig kan meib Bua Eei eib trub zruj zyrug pun Tinb huvb Eei waag maiq lamb lovg. cvj maaib Zamb tiug Jauq meib Bua yaag fib Navq Eei zruj.”
+41012031	ta'Eeig tiub leid se tovb naaiq, ‘xij zu'g Namq myenb Navq Namq kanb nx.’ maiq maaib haiq tiub leid kaub lovg Jyenq Jiaj naaiq teij i tiub a'q.”
+41012037	Daa-witq kanb heug ninb zruj ‘zyruq.’ uaq Euvg, ki-tug Navq haiq nx haib zruj Daa-witq Eei zeib fun?” myenb Zamq Eei a'Neiq mwavj ye-su Faauj.
+41014028	mq paag yia taig mivb Tinb huvb cvj pun yia navb taaib, yia zyrug mivb kaa-li-li scvq Daavg meib Bua.”
+41015042	luvb maanb Mwavj a'q, aa-li-maa-Tia muvq uaq taub yo-sepq taaib Tauj. ninb se yetg taub kunq sig wig Eei myenb, myenb yaag Taaib haig ninb. yo-sepq yaag zuaq Jyenq Tinb huvb taaib zruj zyruq kunq myenb Eei zyavb hog Tauj. ye-su taig uaq nxm Nxi se tovb liug leid Jiaj tivb kov Nxi uaq nxm Nxi, yo-sepq Zivj taaib puvj laavg Eei mivb lxd pi-laatq, Toq ye-su Eei sei. luvb maanb Mwavj a'q, aa-li-maa-Tia muvq uaq taub yo-sepq taaib Tauj. ninb se yetg taub kunq sig wig Eei myenb, myenb yaag Taaib haig ninb. yo-sepq yaag zuaq Jyenq Tinb huvb taaib zruj zyruq kunq myenb Eei zyavb hog Tauj. ye-su taig uaq nxm Nxi se tovb liug leid Jiaj tivb kov Nxi uaq nxm Nxi, yo-sepq Zivj taaib puvj laavg Eei mivb lxd pi-laatq, Toq ye-su Eei sei.
+41015043	
+42001054	ninb ei ninb Zauj Bua Eei ovb Taaij lcvd liud Eei waag Tevj ninb Eei pru, i-saa-laa-en. ninb Kxb lyenb apg-laa-ham, yaag yetg liud Kxb lyenb apg-laa-ham Eei zeib fun.” ninb ei ninb Zauj Bua Eei ovb Taaij lcvd liud Eei waag Tevj ninb Eei pru, i-saa-laa-en. ninb Kxb lyenb apg-laa-ham, yaag yetg liud Kxb lyenb apg-laa-ham Eei zeib fun.”
+42001055	
+42002024	ninb Bua yaag ei zyruq Eei leib latg txb ka'naaiq mivb ziag pun zyruq Navq naaiq, “yetg txij nx'g Go fai i nxm pc'g kopq lunj.”
+42004013	myenq Eei huvb lovg Euvb Euvg za'eij seij liud, zyrug mivb mig a'q, zuaq Jyenq lxd Qavj taaib seij.
+42007028	ye-su cvj kxvq, “yia Buaj meib Bua, Zwrtq seij taaib yem Jiaj paamb ken Eei myenb, yo-han kaub Lo Jiaj. mq paag yem Tinb huvb Eei kua'q zruj kaub faij Jiaj uaq taub, ninb Zxg kaub Lo Jiaj yo-han.”
+42007033	Tevj myenb Jiaj uam Eei leid uaq taub yo-han taaib, ninb zei maiq Eang haiq Euvg yaag maiq hopq a'vung tiuq. meib Bua kxvq, ‘ninb maaib myenq yem ninb Eei sin.’
+42007034	yia, paamb myenb Eei txn, taaib Tauj yaag Eang yaag hopq, meib Bua zyrug kxvq, ‘mavg kaaj, uaq laanb myenb Kuvj mauq Eang mauq hopq Gwin Navq. ninb yaag Zauj Tevj lo-maa huvb Jaa syru Rrub zinb Eei myenb Zauj mevb taub waaig Eei myenb zruj txig.’
+42007035	haiq taub lcvd zipq Tinb huvb Eei Zovb mevb zyrug hiuq tu'q uaq Euvg Zovb mevb se zyen a'q.”
+42020018	haiq taub Dxpg, zov zu'g naaiq nxm la'pyeiq, uaq taub zyrug huq penj ziaj teij mig a'q. naaiq nxm la'pyeiq Dxtq, zov zu'g haiq taub, uaq taub zyrug mwrng Revg mig a'q.”
+42020044	Daa-witq heug ninb zruj zyruq. uaq Euvg, ki-tug Navq haiq nx haib zruj Daa-witq Eei zeib fun?”
+42023031	sij kxvq Dyavj Eyemd Eei zyavb hog ninb Bua zuvq Navq naaiq zruj, Dyavb Krub Gaai xij Navq haiq nx?”
+42023050	maaib taub yu-Dia scvq, aa-li-maa-Tia muvq Eei myenb, Buaj heug yo-sepq. ninb zruj taub Kuq myenb, kan lovj Tinb huvb Eei leid yaag zanb zang zuaq Jyenq Tinb huvb taaib zruj zyruq Eei Nxi Tauj. ninb yaag zruj taub kunq sig wig Eei myenb. mq paag uaq teij kunq sig myenb Zaavb laavb tivg Navq haiq nx zruj uaq zang, yo-sepq maiq Tevj ninb Bua kxvq. maaib taub yu-Dia scvq, aa-li-maa-Tia muvq Eei myenb, Buaj heug yo-sepq. ninb zruj taub Kuq myenb, kan lovj Tinb huvb Eei leid yaag zanb zang zuaq Jyenq Tinb huvb taaib zruj zyruq Eei Nxi Tauj. ninb yaag zruj taub kunq sig wig Eei myenb. mq paag uaq teij kunq sig myenb Zaavb laavb tivg Navq haiq nx zruj uaq zang, yo-sepq maiq Tevj ninb Bua kxvq.
+42023051	
+43012041	i-saa-yaa Navq naaiq nx kxvq weig zu'g ninb tu'q pwatg ye-su Eei Favb laavg yaag kxvq Tauj ninb.
+43013019	sig maiq kcvb Zwrtq yia Jaab Daavg Buaj meib Bua. sig Zwrtq uaq zang meib Bua zyrug syenj yia se yetg liud zyavb Jyenq uaq taub.
+43013020	yia Buaj zyen meib Bua, haiq taub zipq yia Paaiq mivb uaq taub, ninb yaag zipq yia. haiq taub zipq yia, ninb yaag zipq Paaiq yia taaib uaq taub a'q.”
+43015021	weig meib Bua zruj yia Eei myenb, ninb Bua xij zruj naaiq teij yetg zuvq sig pun meib Bua, laaij ninb Bua maiq hiuq tu'q Paaiq yia taaib uaq taub.
+43017002	tia pun yia maaib hatg maad kunq maang myenb yia Zivj taaib haib pun tovb tia pun yia uaq teij tu'q yetg liud Eei mcvg.
+43017003	yetg liud Eei mcvg se tovb naaiq a'q. se ninb Bua hiuq tu'q meib, Du'g taub zyen Tinb huvb. yaag hiuq tu'q yia, ye-su ki-tug, tovb tia Paaiq taaib uaq taub.
+43017004	yia yem naaiq paamb ken Taaib tia, weig zu'g yia zruj zyavj tia Paaiq yia zruj Eei kov.
+43017005	aa tia aa'b! Toq tia pun yia ib zang yem tia Eei Ra'Myen cvj Taaib yia zruj Lo, Navq zinb Daavg maiq kcvb zeij luvb zeij Dau tia Taaib yia zruj Lo uaq nx.
+43017006	“yem paamb ken, tia pun yia uaq teij myenb, yia pun ninb Bua hiuq tu'q meib. ninb Bua mtaaib meib Eei myenb mq paag tia Jiu pun yia. ninb Bua yaag ei Jyenq tia Eei waag.
+43017007	ib zang ninb Bua hiuq tu'q tovb tia Zeij pun yia Eei Euvb Euvg, yetg zuvq yem tia taaib.
+43017008	tia Buaj yia uaq teij waag, yia yaag Buaj ninb Bua mig a'q. ninb Bua yaag lovb lovj Eei zipq. ninb Bua hiuq tu'q yia za'kevb yem tia taaib yaag syenj tia kanb Paaiq yia taaib.
+43017009	yia Tevj ninb Bua tauj kauj. maiq zeid Tevj maang myenb tauj kauj. yia Tevj tia pun yia uaq teij myenb tauj kauj Navq, weig zu'g ninb Bua penj tia Eei.
+43017010	yia maaib Eei yetg zuvq se tia Eei. tia maaib Eei yetg zuvq se yia Eei. yia yaag weig naaiq teij myenb tu'q Favb laavg.
+43017011	ib zang yia xij Rwrnj tia uaq, maiq yem naaiq paamb ken a'q. mq paag naaiq teij myenb Zxg yem naaiq paamb ken. Zivb Revg Eei zavg tiaj aa'b! Toq meib lovg meib maaib hatg maad Eei Buaj, tovb tia Zeij pun yia Eei Buaj, peu Jyenq ninb Bua, pun ninb Bua tovb tiug Hruq, Navq tia Zauj yia tovb tiug Hruq uaq nx.
+43017012	yia Zxg Zauj ninb Bua yem Eei zyavb hog, yia lovg tia maaib hatg maad Eei Buaj, tovb tia pun yia uaq nxm Buaj, peu Jyenq ninb Bua. yia kruj ninb Bua, maiq pun haiq taub laaib zitg, Zwrtq liud tivg zyavj zu'g myetg uaq taub. ninb zu'g myetg weig pun sig Zwrtq taaib txij kivb sru Eei waag.
+43017013	“ib zang yia xij Rwrnj tia uaq, mq paag yia Zxg yem Jyenq naaiq paamb ken yia Navq naaiq nx kxvq weig pun naaiq teij myenb maaib yia Eei Fyenb yrub xnb lx'g.
+43017014	yia zx'q tia Eei waag Jiu pun ninb Bua mig a'q. paamb myenb yaag Rxv ninb Bua weig zu'g ninb Bua maiq kwei paamb ken, Navq yia maiq kwei paamb ken nx.
+43017015	yia maiq Toq tia txb ninb Bua Zwrtq paamb ken. mq paag yia Toq tia peu Jyenq ninb Bua, pun ninb Bua pyauj Dutq Ywav x'q uaq taub.
+43017016	ninb Bua maiq kwei paamb ken, Navq yia maiq kwei paamb ken nx.
+43017017	Toq tia lovg meib Eei zyen leid pun ninb Bua Zivb Revg taaib. meib Eei waag se zyen leid.
+43017018	tia Navq haiq nx Paaiq yia taaib yem paamb ken, yia yaag Navq uaq nx Paaiq ninb Bua yem paamb ken.
+43017019	yia weig ninb Bua zx'q yia kanb fuvj pun tia weig pun ninb Bua zyenb zyen penj tia Eei Zivb Revg myenb.
+43017020	“yia maiq taan Tevj naaiq teij tauj kauj Navq. yia yaag weig naaiq teij myenb xij zunb Eei tod syenj yia uaq teij yetg zuvq tauj kauj.
+43017021	Toq tia pun ninb Bua tovb tiug Hruq. aa tia aa'b! Toq pun ninb Bua Zauj Bua Jwavg mcvg zyavb, Navq tia Zauj yia Jwavg mcvg zyavb nx. paamb myenb zyrug syenj tia Paaiq yia taaib.
+43017022	tia Zeij pun yia Eei Favb laavg yia Zeij pun ninb Bua mig a'q, weig pun ninb Bua tovb tiug Hruq, Navq tia Zauj yia tovb tiug Hruq nx.
+43017023	yia Zauj ninb Bua Jwavg mcvg zyavb Navq tia Zauj yia Jwavg mcvg zyavb nx, weig xij pun ninb Bua yetg zuvq za'kevb tovb tiug Hruq Revg. luvb Diaq myenb zyrug hiuq tu'q tia Paaiq yia taaib, yaag hiuq tu'q tia Namq ninb Bua Navq tia Namq yia nx.
+43017024	“aa tia aa'b! tia pun yia naaiq teij myenb, yia yem haaij yia yaag xij ninb Bua Zauj yia yem uaq, ninb Bua zyrug tu'q pwatg meib pun yia Eei Favb laavg, tovb maiq kcvb zeij luvb zeij Dau uaq zang meib Namq yia zyrug pun taaib Eei Favb laavg.
+43017025	“pcvb fim Eei tia aa'b! paamb myenb maiq hiuq tu'q tia, mq paag yia hiuq Eei. syenj yia naaiq teij myenb yaag hiuq tu'q tia Paaiq yia taaib.
+43017026	yia pun ninb Bua hiuq tu'q meib, yaag xij pun ninb Bua hiuq Jyenq mivb weig pun ninb Bua Namq myenb Navq tia Namq yia nx, yaag pun yia Zauj ninb Bua Jwavg mcvg zyavb.”
+43019037	cvj maaib trug kivb sru kxvq, “ninb Bua xij mavg Jyenq ninb Bua Ropq uaq laanb myenb.”
+44001021	Navq naaiq xij zu'g cvj kinq taub myenb taaib Zauj Bua Jwavg Jyenq zruj zyruq ye-su navb taaib Eei zxvb zevj. naaiq taub xij zu'g zruj Bua Eei kwanb Eei myenb, tovb kan zyruq ye-su pia'g pia'g Zwrtg Zwrtq, yem yo-han Tevj Jiaj uam Eei leid Tauj ye-su leib Gxi Bua, Tinb huvb txb faauj Tinb txvb.” Navq naaiq xij zu'g cvj kinq taub myenb taaib Zauj Bua Jwavg Jyenq zruj zyruq ye-su navb taaib Eei zxvb zevj. naaiq taub xij zu'g zruj Bua Eei kwanb Eei myenb, tovb kan zyruq ye-su pia'g pia'g Zwrtg Zwrtq, yem yo-han Tevj Jiaj uam Eei leid Tauj ye-su leib Gxi Bua, Tinb huvb txb faauj Tinb txvb.”
+44001022	
+44003026	Tinb huvb pun ninb Eei pru navb taaib, ninb Paaiq taaib lxd meib Bua Daavg, Zeij fu'q pun meib Bua, pun meib Bua taub taub kxiq Hruq kwavg meib Bua zruj waaig Eei Jauq.”
+44008027	fi-lipq zyrug Zwrtq Jauq mivb a'q. maaib taub e-Ti-o-pia kua'q Eei tomb Jyen Tevj e-Ti-o-pia huvb maag, Kaan-Daa-sij, kruj ninb Eei yetg zuvq zinb Eaanb. naaiq taub tomb Jyen mivb ye-lu-saa-lem zivb paaij Tinb huvb Rwrnj, zweid Jyenq maab Zia to'g Jyenq trug waag myenb, i-saa-yaa, Eei sru Rwrnj. fi-lipq zyrug Zwrtq Jauq mivb a'q. maaib taub e-Ti-o-pia kua'q Eei tomb Jyen Tevj e-Ti-o-pia huvb maag, Kaan-Daa-sij, kruj ninb Eei yetg zuvq zinb Eaanb. naaiq taub tomb Jyen mivb ye-lu-saa-lem zivb paaij Tinb huvb Rwrnj, zweid Jyenq maab Zia to'g Jyenq trug waag myenb, i-saa-yaa, Eei sru Rwrnj.
+44008028	
+44013034	cvj maaib waag kxvq Tauj ye-su taig mq paag Tinb huvb pun ninb navb taaib, yetg liud maiq pun ninb Eei sei huq. Tinb huvb kxvq, ‘yia lcvd pun Daa-witq uaq teij Zivb Revg, Kauj tu'q wrnq Eei en, yia xij Zeij pun meib Bua.’
+44013035	cvj maaib kanb nxm txvj kxvq, ‘meib maiq pun meib Eei Zivb Revg pru Eei sei huq.’
+44015024	yia Bua haid myenb kxvq maaib teij yem yia Bua naaiq Eei myenb mivb meib Bua naaig zunb tod Zo'q meib Bua Eei Hruq lung Revg. mq paag maiq zeid yia Bua Paaiq ninb Bua mivb og.
+44015025	yia Bua zyrug tovb Hruq kinq teij myenb taaib Paaiq ninb Bua mivb meib Bua naaig Zauj Jyenq yia Bua Namq Eei txig, Baa-naa-Batg Zauj pau-lo.
+44015026	naaiq teij i laanb weig zyruq ye-su ki-tug Eei Buaj maiq funj mcvg Eei zruj.
+44015027	Navq naaig, yia Bua Paaiq yu-Daatg Zauj si-laa mivb Zauj meib Bua txij Myen kxvq mevb naaiq zeiq fyenj Eei sig.
+44015028	sivj livb Zauj yia Bua fib Navq Eei maiq xij Tipq haiq Euvg Jaa pun meib Bua Niaq, Zwrtq liud ib zang fiaq Jyenq naaiq teij Navq.
+44015029	meib Bua xij zu'g keg maiq tuvq Eang ziag Jiaj miub favj Eei ka'naaiq. maiq tuvq Eang Ryaamq, maiq tuvq Eang nc'g Jaav taig Eei scvb Kuq xq, yaag maiq tuvq zruj maiq lwrnj hxvg Eei sig. sij kxvq meib Bua keg Jyenq naaiq pua'q ka'naaiq zyrug lovj a'q. pcvb xn Eei yem og.”
+44023026	“zyen xij Eei fe-likq zuvj aa'b! yia Kaa-laau-Di-atg li-syetq fiaq fyenj pun meib. yia Javj Tauj meib.
+44023027	yiu-Tai myenb zx'q naaiq laanb myenb yaag Kaaq teij taij ninb mig a'q. mq paag yia haid kxvq ninb zruj lo-maa myenb, yia Zauj pcv zyrug mivb Zaavq ninb Zwrtq taaib.
+44023028	yia xij hiuq tu'q ninb Bua weig haiq tiug koj ninb zyrug txb ninb mivb Tauj ninb Bua Eei kunq sig wig uaq.
+44023029	yia zyrug hiuq tu'q ninb maiq txvg haiq Euvg zig tu'q taij fai zig tu'q wrnj lob. ninb Bua koj Eei se Rcv yiu-Tai myenb Eei leid Navq.
+44023030	yia hiuq tu'q maaib teij myenb taaq za'eij xij zx'q ninb Eei mcvg, yia zyrug lyemb zeib fuvj ninb mivb meib naaig. yia yaag heug koj ninb uaq teij myenb mivb meib uaq koj.” 
+45004009	naaiq Euvg Fyenb yrub, Kuvj Jiaj kaatq Eei leid uaq teij myenb haib maaib Navq fai? maiq zeid. maiq Jiaj kaatq Eei myenb mq paag haib maaib Eei. yia Bua zuvq kxvq Jiaj Eei. apg-laa-ham syenj Tinb huvb, Tinb huvb zyrug funj apg-laa-ham Zauj ninb hxpg Hruq mig a'q.
+45004010	Tinb huvb zyavb haaij funj apg-laa-ham Zauj ninb hxpg Hruq? uaq zang apg-laa-ham Jiaj kaatq Eei leid fai maiq kcvb Jiaj? uaq zang ninb Zxg maiq kcvb Jiaj.
+45004011	ninb Ga'haaq Zivj taaib Jiaj. naaiq Jiaj kaatq Eei leid zruj Javb hog Navq Gaapq Jyenq yenj, pun Ziv apg-laa-ham syenj Tinb huvb, Tinb huvb zyrug funj Zauj ninb hxpg Hruq. Navq naaig, apg-laa-ham zyrug zruj yetg zuvq syenj Tinb huvb Eei myenb Eei ovb Taaib vc'q, maiq kunq ninb Bua maiq kcvb Jiaj kaatq Eei leid. mq paag myenb syenj Tinb huvb, Tinb huvb zyrug funj ninb Bua Zauj ninb hxpg Hruq a'q.
+45004012	apg-laa-ham yaag zruj Jiaj kaatq Eei leid uaq teij myenb Eei ovb Taaib vc'q. maiq zeid laaij ninb Bua Jiaj kaatq Eei leid, se weig zu'g ninb Bua syenj Tinb huvb Navq apg-laa-ham maiq kcvb Jiaj kaatq Eei leid syenj Tinb huvb uaq nx.
+45004019	uaq zang apg-laa-ham aaq lamb Dapq pia'g yetg pc'q Havj. ninb hiuq tu'q ninb kanb Eei sin txvj Navq taig mig a'q nx. saa-laa scvb yuvd Eei zyavb hog yaag Jiaj mig a'q. mq paag apg-laa-ham Zxg syenj wrnq Tinb huvb, yaag maiq Twij prug.
+45004020	ninb syenj Tinb huvb xij ei Jyenq uaq teij lcvd Eei waag zruj. ninb Eei Hruq yaag maiq Luvb Lwrtq, Zxg Jaa syenj kaub wrnq yaag Zev Tinb huvb.
+45004021	apg-laa-ham syenj tivg Tinb huvb xij ei uaq teij lcvd Eei waag zruj.
+45004022	weig zu'g apg-laa-ham Navq naaiq nx syenj Tinb huvb, Tinb huvb zyrug funj apg-laa-ham Zauj ninb hxpg Hruq mig a'q.
+45004023	“funj ninb Zauj Tinb huvb hxpg Hruq mig a'q,” naaiq Jruj waag maiq taan weig apg-laa-ham fiaq Navq.
+45004024	yaag weig Bua fiaq weig zu'g Bua syenj Tinb huvb, tovb pun Bua Eei zyruq ye-su navb taaib uaq taub. Navq naaig, Tinb huvb zyrug funj Bua Zauj ninb hxpg Hruq mig a'q.
+45004025	ye-su zu'g Jiu pun myenb taij se laaij Bua Eei zwid. zu'g taij taig mq paag Tinb huvb cvj pun ninb navb taaib weig pun Bua tu'q Zauj Tinb huvb hxpg Hruq.
+45007008	ye-su zu'g Jiu pun myenb taij se laaij Bua Eei zwid. zu'g taij taig mq paag Tinb huvb cvj pun ninb navb taaib weig pun Bua tu'q Zauj Tinb huvb hxpg Hruq.
+45007009	yia zinb Daavg zyavb Jyenq maiq kcvb maaib leib latg kunq yia, mq paag Ga'haaq leib latg taaib, zwid zyrug henq taaib, yia yaag taig mig a'q.
+45007010	leib latg hxpg zu'g pun myenb zyavb Jyenq. taauj Rwrnj leib latg pun yia zu'g taig.
+45007011	weig zu'g zwid lxd Qavj pun leib latg Duaq yia, zwid zyrug lovg leib latg taij yia.
+45009016	Navq naaig, Tinb huvb Kxb lyenb myenb se maiq zeid weig myenb xij Eei, yaag maiq zeid weig myenb zruj haiq Euvg. se Tinb huvb kanb Kxb lyenb Navq.
+45009017	yem uaq kivb sru, Tinb huvb maaib Jruj waag Buaj i-yipq teib puv Eei huvb tiaj. kivb sru kxvq, “yia weig naaiq pun meib tu'q zruj huvb. yia xij lovg meib pun myenb pwatg yia Eei tomb Qa'q yaag pun yia tu'q mevb taub siv pwavq luvb Diaq.”
+45009018	Navq naaig, Tinb huvb xij Kxb lyenb haiq taub ninb zyrug Kxb lyenb a'q. xij pun haiq taub Hruq vcvg ninb zyrug pun uaq taub Hruq vcvg a'q.
+45009026	“cvj yem Tinb huvb kxvq Buaj Jiaj ninb Bua, ‘meib Bua maiq zeid yia Eei pc'g fivj.’ yem uaq nxm txvj ninb Bua xij tu'q Buaj heug, ‘zyavb Jyenq Eei Tinb huvb Eei naamb Erud.’+”
+45010006	mq paag kivb sru yaag kxvq weig syenj ki-tug zyrug tu'q Zauj Tinb huvb hxpg Hruq Eei za'eij. kivb sru kxvq, “maiq tuvq yem Hruq Namq, ‘haiq taub xij faauj Tinb txvb?’+” (naaiq se weig txb ki-tug Fiag.)
+45010008	kivb sru Navq naaiq nx kxvq, “Tinb huvb Eei waag yem nitq meib fatq Eei, zuvq yem Jyenq meib Eei Rwib yaag yem Jyenq meib Eei Hruq.” naaiq se yia Bua zunb Buaj myenb xij zu'g syenj zyruq uaq teij waag.
+45010009	sij kxvq meib Eei Rwib Eyemg, “ye-su zruj zyruq,” meib yaag lovg Hruq syenj ye-su taig mivb, Tinb huvb cvj pun ninb navb taaib, meib zyrug tu'q Fruj a'q.
+45010010	weig zu'g Bua lovg Hruq syenj zyrug tu'q Zauj Tinb huvb hxpg. Bua lovg Rwib Eyemg ye-su zruj zyruq, Bua zyrug tu'q Fruj a'q.
+45010011	kivb sru maaib Jruj waag kxvq, “haiq taub syenj Kauj ninb, uaq taub zuvq maiq Eaiq.”
+45010012	weig zu'g yiu-Tai myenb Zauj Janj fib Navq Eei, maiq kanb Euvg. yetg zuvq Jwavg taub zyruq Navq, tovb zruj maang myenb Eei zyruq uaq taub. haiq taub Toq zyruq, zyruq zyrug Zamb Zamq Eei Zeij fu'q pun uaq taub.
+45010013	Navq kivb sru kxvq nx, “haiq taub heug zyruq Eei Buaj, uaq taub tu'q Fruj a'q.”
+45010017	Navq naaig, myenb syenj weig zu'g ninb Bua haid ki-tug Eei tod. ninb Bua tu'q haid weig zu'g maaib myenb mivb zunb pun ninb Bua mwavj.
+45010019	yia xij cvj naaig kaaj, i-saa-laa-en myenb maiq mevb pc'g fai? mo-se kanb lovg Tinb huvb Eei waag tau Daavg. ninb kxvq, “yia xij pun meib Bua mweig Jia'q yetg fivj Janj. yia xij lovg yetg fivj Vovj Eei myenb Zua'q meib Bua Qiaj Jiad.”
+45010020	i-saa-yaa yaag lovg Tinb huvb Eei waag kaub puvj laavg Eei kxvq. ninb kxvq, “maiq lxd yia uaq teij tu'q pwatg yia. maiq naaig Tauj yia uaq teij, yia pun ninb Bua hiuq tu'q yia.”
+45011028	laaij yiu-Tai myenb maiq zipq Kuq fyenj ninb Bua penj Tinb huvb Eei winb wavq mig a'q. naaiq se weig Tevj meib Bua Janj. mq paag Tinb huvb kinq ninb Bua taaib, yaag weig ninb Bua Eei ovb Taaib vc'q ninb Namq ninb Bua.
+45011029	weig zu'g Tinb huvb kinq haiq taub, Zeij fu'q haiq taub, ninb yetg liud maiq kxiq yeng.
+45011030	zinb Daavg meib Bua Janj maiq mwavj Tinb huvb Eei waag. mq paag ib zang weig yiu-Tai myenb maiq mwavj waag meib Bua Zivj tu'q Tinb huvb Kxb lyenb.
+45011031	Navq naaig, yiu-Tai myenb maiq mwavj Tinb huvb Eei waag. mq paag weig zu'g meib Bua Janj tu'q Tinb huvb Kxb lyenb meib Bua, yiu-Tai myenb fib Navq Eei ib zang yaag haib tu'q Tinb huvb Kxb lyenb.
+45011032	Tinb huvb sweib zwavj myenb maiq mwavj ninb Eei waag, weig pun ninb haib Kxb lyenb ninb Bua yetg zuvq.
+45011034	Navq kivb sru kxvq nx, “haiq taub hiuq tu'q zyruq Eei Hruq? haiq taub haib Tevj ninb taaq Zwrtq za'eij?”
+45012020	kivb sru yaag fiaq Jyenq kxvq, “sij kxvq meib Eei winb wavq Hruq sia, xij zu'g pun Naavj ninb Eang. Jaav Gaatq nx, xij zu'g pun uam ninb hopq. meib Navq naaiq zruj, ninb zyrug Eaiq a'q.”
+45012021	maiq tuvq pun x'q Eei hivb meib. taauj Rwrnj xij zu'g pun lovj Eei hivb x'q Eei.
+45013010	haiq taub Namq myenb, ninb maiq zruj sig hxig myenb. weig naaiq, haiq taub Namq myenb zyrug ei Revg leib latg.
+45014012	Navq naaig, Bua taub taub myenb zruj Eei yetg zuvq xij zu'g pinq mevb Buaj Tinb huvb.
+45015010	kivb sru yaag kxvq, “Janj aag, meib Bua xij zu'g Zauj Tinb huvb Eei pc'g fivj lomb Rxib Fyenb yrub.”
+45015011	kivb sru yaag kxvq, “Janj aag, meib Bua xij zu'g Zauj Tinb huvb Eei pc'g fivj lomb Rxib Fyenb yrub.”
+45015012	i-saa-yaa yaag kxvq, “maaib taub Jyetg-si Eei zeib fun, ninb xij Zwrtq taaib kunq maang fivj Janj. Janj zyrug weig ninb maaib lamb Namq txvj.”
+45015013	Toq Tinb huvb, tovb pun meib Bua maaib lamb Namq uaq taub, pun meib Bua maaib Fyenb yrub yaag maaib pcvb xn Tauj taaub, weig zu'g meib Bua syenj ninb. Navq naaig, sivj livb Eei Qa'q zyrug pun meib Bua zanb zang maaib lamb Namq a'q.
+46001020	uaq Euvg, ib Jaaj Eei Zovb mevb myenb, ho'g Lav Eei myenb, Zauj Rwib Byaavg Eei myenb Navq haiq nx? Tinb huvb zruj pun naaiq paamb ken Eei Zovb mevb Vovj mig a'q.
+46003020	cvj maaib Jruj waag kxvq, “zyruq hiuq tu'q Zovb mevb myenb Namq Zwrtq Eei sig se maiq lamb lovg.”
+46005012	ka'Eiag, maiq syenj Eei myenb maiq Tauj yia syemq. Tinb huvb kanb xij syemq ninb Bua. meib Bua hxpg zu'g syemq Eei se Jiub paav ka'Euad Eei myenb maiq zeid? Navq kivb sru kxvq nx, “maaib myenb waaig myenb yem meib Bua Bu'Dovj, xij zu'g zung Zwrtq mivb.” ka'Eiag, maiq syenj Eei myenb maiq Tauj yia syemq. Tinb huvb kanb xij syemq ninb Bua. meib Bua hxpg zu'g syemq Eei se Jiub paav ka'Euad Eei myenb maiq zeid? Navq kivb sru kxvq nx, “maaib myenb waaig myenb yem meib Bua Bu'Dovj, xij zu'g zung Zwrtq mivb.”
+46005013	
+46009010	Tinb huvb kxvq naaiq teij waag, ninb maiq zeid weig Bua kxvq fai? zeid Eei. naaiq se fiaq Jyenq weig Tevj Bua. laib livb Eei myenb Zauj Bx'q Byaub Eei myenb maaib lamb Namq xij tu'q ninb Bua zruj Eei pwrng.
+46009011	yia Bua zunb Kuq fyenj Navq zwavj sivj livb Eei Eim yem meib Bua Eei Hruq nx. uaq Euvg, yia Bua yem meib Bua naaig syru yia Bua Qyemj lovg Eei ka'naaiq, meib Bua funj Zamq haig fai?
+46009012	sij kxvq kanb teij myenb maaib leid heug meib Bua Jwav ninb Bua, yia Bua maiq zeid kaub maaib leid heug meib Bua Jwav yia Bua fai? mq paag naaiq Euvg leid yia Bua maiq lovg Jiaj yetg Rung. taauj Rwrnj yia Bua syrug Euvb Euvg Kruq weig maiq pun haiq Euvg laanb ki-tug Eei Kuq fyenj.
+46010008	Bua maiq tuvq zruj Yenj Eei sig Navq ninb Bua maaib teij myenb zruj nx, Zivj taaib yetg Nxi Navq maaib i waang pua Zin laanb myenb zu'g taig.
+46010009	Bua maiq tuvq seij zyruq Navq ninb Bua maaib teij myenb seij nx, Zivj taaib zu'g naav hxig taig.
+46010010	Bua maiq tuvq la'vopq Navq ninb Bua maaib teij myenb la'vopq zyrug zu'g myetg mcvg uaq taub finb myenb myetg mig a'q.
+46015028	mq paag maang mwrtg zu'g Bua'g ki-tug kunq uaq zang, txn kanb zyrug yem tovb pun maang mwrtg Bua'g ninb kunq uaq taub Tinb huvb Eei puab Diaq. Navq naaig Tinb huvb zyrug kunq Revg maang mwrtg.
+46015033	maiq tuvq pun myenb Duaq. “Kuq myenb Zauj myenb waaig myenb zruj txig, Kuq myenb zyrug waaig mig a'q.”
+46015034	meib Bua xij zu'g kxiq Hruq Rwrnj taaib, maiq tuvq cvj paamd zwid. yem meib Bua naaig maaib teij zuvq maiq hiuq tu'q Tinb huvb. yia Navq naaiq nx kxvq, meib Bua xij zu'g Eaiq a'q.
+47001013	yia Bua fiaq pun meib Bua Eei, se Kuvj fiaq tovb meib Bua haib to'g, haib hiuq Eei Navq. ib zang meib Bua Kuvj mevb pc'g teij paaq yia Bua Navq, mq paag yia Namq taaib meib Bua xij manb mang mevb pc'g Revg yia Bua. Navq naaiq, Tauj zyruq ye-su cvj taaib uaq zang, meib Bua xij Zev yia Bua, Navq yia Bua xij Zev meib Bua nx. yia Bua fiaq pun meib Bua Eei, se Kuvj fiaq tovb meib Bua haib to'g, haib hiuq Eei Navq. ib zang meib Bua Kuvj mevb pc'g teij paaq yia Bua Navq, mq paag yia Namq taaib meib Bua xij manb mang mevb pc'g Revg yia Bua. Navq naaiq, Tauj zyruq ye-su cvj taaib uaq zang, meib Bua xij Zev yia Bua, Navq yia Bua xij Zev meib Bua nx.
+47001014	
+47004014	yia Bua hiuq tu'q pun zyruq ye-su navb taaib uaq taub yaag xij pun yia Bua Navq ye-su nx navb taaib, txb yia Bua Zauj Jyenq meib Bua lomb Rxib mivb yem ninb Eei Ra'Myen.
+47004015	naaiq yetg zuvq se weig pun meib Bua tu'q lovj. Tinb huvb Eei en zyrug mivb Tauj myenb Zamq pun myenb Jaa Zamq lcvd zivb Tinb huvb. Navq naaig, myenb Zamq Jaa Taaib Tinb huvb.
+47006017	weig naaiq zyruq kxvq, “meib Bua yem ninb Bua Bu'Dovj, xij zu'g Zwrtq taaib. xij zu'g Zauj ninb Bua pun Gxi. maiq tuvq mua'q maaib wij Eei ka'naaiq, yia zyrug zipq meib Bua a'q.”
+47009010	Tinb huvb Zeij Eim pun zwavj Eei myenb yaag Zeij Naavj pun myenb Eang. ninb xij pun meib Bua maaib Rxib meib Bua Qyemj lovg Eei Eim, yaag pun Eim Lo taaib. meib Bua zruj lovj Eei sig zyrug Navq Zunb kcv nx, puvb zua'g.
+47009011	ninb xij pun meib Bua Euvb Euvg maaib tu'q Rxib, zanb zang zruj tu'q Hruq Javq. Navq naaig, myenb Zamq xij weig meib Bua Jiu pun yia Bua txb Eei zivb Eeig lcvd zivb Tinb huvb.
+47009012	weig zu'g meib Bua kapq Eaanb Ria Tinb huvb Eei myenb maiq taan Tevj ninb Bua tu'q Qyemj lovg Eei ka'naaiq Navq, mq paag pun myenb Zamq lcvd zivb Tinb huvb.
+47009013	meib Bua Navq naaiq nx kapq Eaanb Ria myenb, myenb Zamq zyrug xij Zev Tinb huvb, weig zu'g meib Bua zruj Hruq Javq Tevj ninb Bua yaag Tevj zwavj myenb, zyrug pun Ziv meib Bua Eyemg ki-tug yaag kan lovj ki-tug Eei Kuq fyenj.
+47009014	ninb Bua kevb! xij Javj haig meib Bua, zyrug Tevj meib Bua tauj kauj weig zu'g Tinb huvb Zeij ninb Eei tomb en pun meib Bua.
+47009015	Bua xij zu'g lcvd zivb Tinb huvb weig ninb pun tovb lyemb maiq maaib waag kxvq tu'q Tauj Eei zivb Eeig.
+47010018	weig zu'g Zev kanb Eei myenb maiq zig tu'q Taaib. zig tu'q Taaib Eei se tovb zyruq Zev uaq taub.
+48004031	kxb yrud aag, Navq naaig Bua maiq zeid nrub peid Eei naamb Erud. Bua zruj puvj Gxi uaq taub Eei naamb Erud.
+48005015	sij kxvq meib Bua zruj Navq Yiab zxib, laanb vaatg laanb, laanb na'q laanb, xij zu'g faij fim. Riaj meib Bua laanb zruj pun laanb zutg Revg.
+49004009	“ninb faauj Lav” uaq Jruj waag Eei eij leid Navq haiq nx? eij leid se ninb Fiag Tauj paamb ken kaub aiq Eei txvj Daavg.
+49004010	Fiag taaib uaq taub se tovb faauj kub vwaaig zuvq kaub Lav Jiaj zwavj luvb weig yem pwavq maang mwrtg uaq taub.
+49004011	tovb naaiq taub fuvj zivb Eeig pun maang myenb. maaib teij tu'q zivb Eeig zruj kovb zob. maaib teij tu'q zruj trug waag myenb, maaib teij tu'q zruj zunb Kuq fyenj Eei myenb, maaib teij tu'q zruj kruj Jiub paav Eei myenb, maaib teij tu'q zruj finb scv.
+49004012	ninb Navq naaiq nx zruj weig liug leid zyavj Tinb huvb Eei myenb zruj ki-tug Eei kov weig Zeij Jiad ki-tug Eei sin.
+49004013	zuaq Tauj Bua yetg zuvq tovb tiug Hruq syenj lovj, hiuq Tinb huvb Eei txn, Bua zyrug ei livb wrnb Eei Jauq penj tomb myenb, yaag tunb yunb Navq Revg ki-tug.
+49005032	yem naaiq teij waag ka'Euad maaib tiub Lo haig Eei zyen leid ib zang Byaavj yaavb Zwrtq taaib a'q. ei yia kanb mevb pc'g nx, naaiq teij waag kxvq zu'g ki-tug Zauj Jiub paav.
+49005033	mq paag naaiq teij waag yaag kxvq zu'g meib Bua. meib Bua taub taub zruj Goj Eei myenb xij zu'g Namq kanb Eei auq Navq Namq kanb nx. auq yaag xij zu'g Taaib kanb Eei Goj.
+54005019	sij kxvq maaib haiq taub koj Jiub paav Eei myenb koj, Zwrtq liud maaib i ziaj laanb zxvb zevj myenb, maiq tuvq syenj.
+54005020	sij kxvq haiq laanb Jiub paav Eei myenb koj zanb zang paamd zwid, xij zu'g txv Jyenq zwavj myenb kxvq ninb, weig pun zwavj myenb kamb Riaj.
+58001006	cvj maaib Rung, tovb Tinb huvb xij Paaiq ninb Eei txnb la'kauq pia'g paamb ken uaq zang, ninb kxvq, “Tinb huvb Eei zwavj finb myenb xij zu'g paaij ninb.”
+58001007	kxvq Tauj finb myenb uaq zang Tinb huvb kxvq, “Tinb huvb pun ninb Eei finb myenb penj Ryaauj, yaag pun ninb Eei pru penj trub Byetg.”
+58001008	mq paag kxvq Tauj ninb Eei txn uaq zang, Tinb huvb kxvq, “Tinb huvb aag, meib Eei weig xij yetg liud yem Tauj maang kruq maang txig. meib yaag xij pcvb fim Eei kunq meib Eei kua'q.
+58001010	weig zu'g ye-su ki-tug ei Tin huvb Eei za'eij zruj, lovg ninb kanb Eei sin zruj ziag Eei ka'naaiq, ziag yetg Rung txvj yetg liud, zyrug pun Bua Zivb Revg taaib.
+58001013	yem naaig taaib, ki-tug zuaq Jyenq ninb Eei winb wavq zu'g yem ninb Eei zaub Diaq zruj lxvj zauj Eei txvj.
+58001014	weig zu'g ki-tug lovg ninb kanb ziag yetg Rung, ninb zyrug pun Raauj Zivb Revg taaib Eei myenb yetg liud tunb yunb.
+58002009	taauj Rwrnj Bua pwatg ye-su, tovb maaib trug zu'g zruj kaub aiq teij finb myenb, tu'q Tinb huvb Eei en weig maang myenb taig. weig zu'g ninb syrug Kruq Tauj taig, Bua ib zang pwatg Tinb huvb Taaib ninb, pun ninb maaib Favb laavg txvj huvb nivq.
+58002010	Tinb huvb zeij maang mwrtg yaag zeij taaib weig ninb kanb. Navq naaig Tinb huvb pun ye-su syrug Kruq weig pun ninb tunb yunb Rxib se zruj tu'q hxpg Eei. Tinb huvb Navq naaiq zruj weig txb myenb Zamq taaib zipq ninb Eei Favb laavg weig zu'g ye-su zruj pyeiq txb ninb Bua tu'q Fruj.
+58002013	ye-su yaag kxvq, “yia xij syenj Kauj Tinb huvb.” cvj kxvq, “mavg maa'b! yia Zauj Tinb huvb Zeij pun yia naaiq teij naamb Erud yem naaiq.”
+58004004	weig zu'g yem kivb sru maaib nxm txvj kxvq, “ta'Zyetq Nxi uaq Nxi Tinb huvb tivb Fiag ninb Eei yetg zuvq kov hitq Kwrnj.”
+58004005	cvj Navq a'Jav kxvq liud uaq teij waag, “ninb Bua yetg liud maiq tu'q pia'g yia Eei hitq Kwrnj txvj.”
+58005006	cvj maaib nxm txvj ninb kxvq, “meib yetg liud zruj sai myenb, Navq men-Ki-se-Dekg uaq Euvg sai myenb nx.”
+58006015	apg-laa-ham lovg nxig zuaq zyrug tu'q zipq Tinb huvb lcvd Zeij pun Eei.
+58006016	paamb myenb lcvd waag ninb Bua zyavq Jyenq yetg taub kaub Lo ninb Bua kanb lcvd. Navq naaig lcvd liud, naaiq teij waag se lyepg tivg mig a'q, maiq lamb Rcv txvj.
+58006017	Tinb huvb xij pun, tovb xij zipq ninb lcvd pun Eei uaq teij, mevb mevb Eei hiuq tu'q ninb Eei za'eij yetg liud maiq haib kxiq yeng. weig naaiq, ninb Zivj taaib zyavq ninb kanb lcvd waag.
+58006018	Navq naaig, maaib naaiq teij i Euvg yetg liud maiq haib kxiq yeng, Tinb huvb yaag maiq haib kxvb pc'g. weig naaiq Bua pyauj taaib lxd ninb pun Bua maaib lamb Kauj txvj zyrug pun Bua kaub Jxm Hruq syenj wrnq maaib lamb Namq Ga'haaq hivq xij tu'q Eei.
+58006019	Bua Navq naaiq maaib lamb Namq se Navq maaib ka'naaiq zwig Jyenq Bua Eei Hruq tivg Eei, wrnq Eei. naaiq Euvg maaib lamb Namq pia'g Tinb txvb Eei sivj ting, yem Bc'g kcvb Dia ka'Euad uaq Qovj.
+58006020	ye-su weig Bua zuvq pia'g ka'Euad Daavg mig a'q, yaag yetg liud zruj tomb sai myenb, Navq men-Ki-se-Dekg uaq Euvg sai myenb.
+58007018	Navq naaig lob leib latg zu'g Twij Zwrtq mig a'q weig zu'g mau haig, maiq lamb lovg.
+58007019	mo-se Eei leib latg maiq haib pun haiq Euvg tunb yunb. mq paag ib zang maaib Euvg kaub lovj, kaub maaib lamb Namq haib txb Bua nitq fatq Tinb huvb.
+58007022	Tinb huvb Navq naaig lcvd waag, ye-su zyrug tu'q zruj Tinb huvb lyepg Jiaj kaub lovj uaq teij vcvg waag Eei Daamb taaub.
+58008006	mq paag ib zang ye-su zruj sai myenb Eei kov kaub Lav ninb Bua Eei, Navq ninb zruj Bu'Dovj myenb Tevj Tinb huvb Zauj ninb Eei myenb lyepg Jiad Eei vcvg waag se kaub Lav, weig zu'g naaiq teij lcvd vcvg waag Eei kxnb Do'q se kaub lovj.
+58009021	mo-se yaag fib Navq Eei lovg Ryaamq fu'q uaq nxm zavg Tinb huvb Eei ting Zauj lovg zavg zyruq Eei yetg zuvq Jaab txvj.
+58009022	ziuj leib latg nx, aaq lamb teij Euvb Euvg xij zu'g lovg Ryaamq Zivj taaib haib saaj tu'q Zivb Revg. maiq maaib Ryaamq lyrug Zwrtq nx, Tinb huvb yaag maiq haib kwavg myenb Eei zwid.
+58010017	Ga'haaq ninb cvj kxvq, “yem naaiq mivb yia maiq Javj ninb Bua Eei zwid, Zauj ninb Bua zruj Eei waaig sig.”
+58010018	Navq naaig tu'q naaiq teij zwid kwavg liud, zyrug maiq zu'g cvj lovg ka'naaiq ziag weig fi'q zwid.
+58010031	Navq naaig, zu'g Dxtq yem zyavb Jyenq Eei Tinb huvb Eei puab Diaq nx, se kamb Riaj haig Eei sig.
+58010039	mq paag Bua maiq zeid Lwrtq Gaav zu'g myetg Eei myenb. Bua syenj Tinb huvb yaag zruj tu'q Fruj Eei myenb.
+58011019	apg-laa-ham funj Tinb huvb haib pun taig mivb Eei myenb navb taaib. ninb yaag tu'q ninb Eei txn Rwrnj taaib, peiq Navq i-sakg taig mivb cvj navb taaib nx.
+58012007	meib Bua zu'g tiaq Eei Kruq naang se weig Bx'q Faauj. Tinb huvb zruj pun meib Bua Navq zruj pun ninb Eei txnb Jweiq nx. maaib haiq taub txnb Jweiq maiq zu'g ninb Eei tia Bx'q Faauj Jiaj?
+58012008	sij kxvq meib Bua maiq Navq ninb Eei txn Bua zu'g Bx'q Faauj, meib Bua maiq zeid Zyen txn, Kuvj zruj fu'Jweib Txi Navq.
+58012009	cvj maaib tiug, Bua Eei Zyen tia Bx'q Faauj Bua, Bua yaag Bua'g ninb Bua. Navq naaig, Bua yetg zei xij zu'g Bua'g Bua Eei Tinb txvb tiaj zyrug tu'q zyavb Jyenq.
+58012010	Bua Eei Zyen tia Bx'q Faauj Bua se ziuj ninb Bua pwatg hxpg zu'g Faauj Eei, yaag weig tavb paaq Navq. mq paag Tinb huvb Bx'q Faauj Bua se weig pun Bua tu'q lovj yaag weig pun Bua Navq ninb nx, Zivb Revg.
+58012011	zu'g Bx'q Faauj uaq zang, maiq maaib haiq taub Fyenb yrub, zuvq haid Raub Eei. mq paag zu'g Bx'q Faauj liud, ho'g hiuq Eei myenb Ga'haaq zyrug zruj tu'q hxpg yaag maaib pcvb xn.
+58012027	kxvq “cvj maaib Rung” uaq Jruj waag pun Ziv zeij taaib Eei ka'naaiq xij zu'g Dang tovd Revg zyrug zu'g zx'q Zwrtq mig a'q, weig pun Dang maiq haib tovd Eei Zxg yem Jyenq.
+58013006	Navq naaig Bua xij zu'g puvj tivg Hruq kxvq, “Tevj yia uaq taub se zyruq, yia zyrug maiq kamb Riaj. paamb myenb haib zruj haiq Euvg pun yia?”
+58013020	Toq Zeij pcvb xn Eei Tinb huvb, tovb Bua Eei zyruq ye-su taig mivb pun ninb navb taaib uaq taub, pun meib Bua tu'q Euvb Euvg lovj weig ei Jyenq ninb Eei eij zruj. yaag Toq Tinb huvb lovg ye-su ki-tug yem Bua ka'Euad pun Bua zruj Euvb Euvg hxpg ninb Eei Hruq. ye-su ki-tug lovg ninb Eei Ryaamq lyepg Jiad yetg liud yem Eei vcvg waag yaag zruj kruj pa'ki yuvb Eei tomb zyruq. Bua xij zu'g yetg liud Zev ninb Tauj maang kruq maang txig. aa-men. Toq Zeij pcvb xn Eei Tinb huvb, tovb Bua Eei zyruq ye-su taig mivb pun ninb navb taaib uaq taub, pun meib Bua tu'q Euvb Euvg lovj weig ei Jyenq ninb Eei eij zruj. yaag Toq Tinb huvb lovg ye-su ki-tug yem Bua ka'Euad pun Bua zruj Euvb Euvg hxpg ninb Eei Hruq. ye-su ki-tug lovg ninb Eei Ryaamq lyepg Jiad yetg liud yem Eei vcvg waag yaag zruj kruj pa'ki yuvb Eei tomb zyruq. Bua xij zu'g yetg liud Zev ninb Tauj maang kruq maang txig. aa-men.
+58013021	
+59002009	mq paag sij kxvq meib Bua Taaib naaiq laanb, mavg faij uaq laanb, meib Bua zyrug paamd zwid. leib latg yaag tivg meib Bua Eei zwid a'q.
+59004006	mq paag ninb yaag Jaa Zeij en kaub Zamq. weig naaiq kivb sru kxvq, “Tinb huvb vcvg Jyenq Zevb Lo Eei myenb, mq paag ninb Zeij en pun Eyemg kanb zruj faij Eei myenb.”
+60002004	xij zu'g taaib nitq Jyenq zyruq, tovb maaib mcvg Eei la'pyeiq. myenb Gemb mq paag Tinb huvb kinq taaib funj Jaaij.
+60002005	meib Bua yaag Navq maaib mcvg Eei la'pyeiq, tovb Tinb huvb lovg Zeij sivj livb yem Eei ting. meib Bua yaag zruj Zivb Revg Eei sai myenb, zyrug ei sivj livb ziag pun Tinb huvb. naaiq teij ziag Eei ka'naaiq Tinb huvb weig ye-su ki-tug a'Neiq zipq.
+60002006	weig zu'g kivb sru kxvq, “mavg maa'b! yia kinq nxm Jaaij haig Eei la'pyeiq an uaq si-on zivb zruj pyaub kx'q kaub lovg Jyenq Jiaj Eei la'pyeiq. haiq taub syenj Kauj ninb, uaq taub yetg liud maiq Pyatq.”
+60002007	naaiq nxm la'pyeiq weig meib Bua syenj Eei myenb se Jaaij haig. mq paag kivb sru kxvq weig maiq syenj Eei myenb, “komq pyauq zavg Gemb Zwrtq uaq nxm la'pyeiq, zuvq penj an pyaub kx'q kaub lovg Jyenq Jiaj uaq nxm.”
+60002008	kivb sru yaag kxvq, “naaiq nxm la'pyeiq se zruj myenb Di'q zu'g Eei la'pyeiq, yaag zruj tomb la'pyeiq pun myenb Dxpg.” ninb Bua Di'q zu'g Dxpg weig zu'g ninb Bua maiq syenj Tinb huvb Eei tod. naaiq se ziuj Tinb huvb Jaab Daavg tivg taaib Eei za'eij.
+60002023	ninb zu'g myenb kxvq to'g, yaag maiq lovg waab to'g tau. myenb pun ninb zu'g Kruq, ninb yaag maiq kxvq xij Jaauq syrub. ninb zx'q ninb Eei sig Jiu pun Tinb huvb, tovb pcvb fim Eei syemq myenb uaq taub.
+60002024	ki-tug kanb lovg ninb Eei sin Daam Jyenq Bua Eei zwid yem zyepg Ravg Jaaj, pun Bua pyauj Dutq zwid Eei Qa'q yaag zyavb Jyenq weig zruj hxpg Navq. weig zu'g ye-su syrug mun, meib Bua tu'q ninb zxg meib Bua lovj Revg.
+60002025	zinb Daavg meib Bua se Navq mivb txvg Jauq Eei pa'ki yuvb. mq paag ib zang meib Bua Rwrnj taaib kan Jyenq pa'ki yuvb zyruq, tovb kruj meib Bua Eei livb wrnb uaq taub.
+61001018	yia Bua Zauj ninb yem uaq nxm Zivb Revg Bov Eei zyavb hog yia Bua yaag tu'q haid naaiq teij Qiaj yem Tinb txvb taaib.
+62001001	yia Bua fiaq kxvq Tauj yuvd mcvg Eei tod. maiq kcvb zeij luvb zeij Dau uaq zang naaiq tod zuvq yem Eei. zinb Daavg tod Zauj zavg tiaj yem mq paag ib zang hing Zwrtq taaib pun yia Bua pwatg. yia Bua kanb haid Jiaj Eei, mziv yaag pwatg liud a'q. yia Bua Eei puad yaag tu'q Lua Jiaj. naaiq yuvd mcvg Eei tod hing Zwrtq taaib, yia Bua yaag tu'q pwatg zyrug zruj zxvb zevj kxvq Tauj naaiq yetg liud Eei mcvg. yia Bua fiaq kxvq Tauj yuvd mcvg Eei tod. maiq kcvb zeij luvb zeij Dau uaq zang naaiq tod zuvq yem Eei. zinb Daavg tod Zauj zavg tiaj yem mq paag ib zang hing Zwrtq taaib pun yia Bua pwatg. yia Bua kanb haid Jiaj Eei, mziv yaag pwatg liud a'q. yia Bua Eei puad yaag tu'q Lua Jiaj. naaiq yuvd mcvg Eei tod hing Zwrtq taaib, yia Bua yaag tu'q pwatg zyrug zruj zxvb zevj kxvq Tauj naaiq yetg liud Eei mcvg.
+62001002	
+65001024	Bua xij zu'g Zev Bua Eei Fruj zyruq Tinb huvb. Kuvj maaib naaiq Du'g taub Tinb huvb Navq, ninb yaag haib peu Jyenq maiq pun meib Bua Twij prug yaag haib txb meib Bua Zivb Revg Eei, Fyenb yrub Eei Tauj ninb Favb laavg Eei Ra'Myen. xij zu'g Kauj Bua Eei zyruq ye-su ki-tug Zev Tinb huvb weig zu'g Tinb huvb zruj Lo, maaib tomb Qa'q, maaib livg yem lob Nxi maang kruq maang txig Tauj ib zang cvj Tauj Ga'haaq hivq yetg liud. aa-men. Bua xij zu'g Zev Bua Eei Fruj zyruq Tinb huvb. Kuvj maaib naaiq Du'g taub Tinb huvb Navq, ninb yaag haib peu Jyenq maiq pun meib Bua Twij prug yaag haib txb meib Bua Zivb Revg Eei, Fyenb yrub Eei Tauj ninb Favb laavg Eei Ra'Myen. xij zu'g Kauj Bua Eei zyruq ye-su ki-tug Zev Tinb huvb weig zu'g Tinb huvb zruj Lo, maaib tomb Qa'q, maaib livg yem lob Nxi maang kruq maang txig Tauj ib zang cvj Tauj Ga'haaq hivq yetg liud. aa-men.
+65001025	
+66001004	yia, yo-han, fiaq pun yem e-sia scvq Eei siag nxm Jiub paav. Toq zinb Daavg yem, ib zang yem, Ga'haaq xij taaib Eei Tinb huvb, yaag Toq yem Tinb huvb Eei Ra'Myen fub suj ninb uaq teij siag nxm livb wrnb, yaag Toq ye-su ki-tug, tovb zyepg zua'q Eei zruj zxvb zevj yaag zruj taig mivb navb taaib Eei ta'yetq taub, se kunq Revg paamb ken Eei maang huvb uaq taub, Zeij en Zeij pcvb xn pun meib Bua yetg zuvq. ye-su Namq Bua yaag lovg ninb Eei Ryaamq pun Bua leib Dutq zwid, yia, yo-han, fiaq pun yem e-sia scvq Eei siag nxm Jiub paav. Toq zinb Daavg yem, ib zang yem, Ga'haaq xij taaib Eei Tinb huvb, yaag Toq yem Tinb huvb Eei Ra'Myen fub suj ninb uaq teij siag nxm livb wrnb, yaag Toq ye-su ki-tug, tovb zyepg zua'q Eei zruj zxvb zevj yaag zruj taig mivb navb taaib Eei ta'yetq taub, se kunq Revg paamb ken Eei maang huvb uaq taub, Zeij en Zeij pcvb xn pun meib Bua yetg zuvq. ye-su Namq Bua yaag lovg ninb Eei Ryaamq pun Bua leib Dutq zwid,
+66001005	
+66002002	yia hiuq tu'q meib zruj Eei sig. hiuq tu'q meib zruj kov Kruq haig yaag lovg nxig tiaq. yia yaag hiuq tu'q meib Eaavg maiq Fiag myenb x'q myenb. meib zuvq seij Jiaj tovb Zev kanb zruj kovb zob mq paag maiq zeid. meib yaag seij tu'q Zwrtq ninb Bua se Jaaq Eei.
+66002003	yia hiuq tu'q meib maaib nxig tiaq yaag weig yia Eei Buaj syrug Kruq, meib yaag maiq swei.
+66002004	‘mq paag yia maaib yetg tiug xij kxvq meib. se meib ib zang maiq Namq yia Navq taaub tavb uaq nx Namq.
+66002005	Namq mavg kaaj, taaub tavb meib Namq yia mq paag ib zang Dxtq Dovg haaij ko! xij zu'g kxiq Hruq Rwrnj zruj Navq taaub tavb uaq nx. sij kxvq meib maiq kxiq Hruq, yia xij mivb meib naaig cvj zx'q Gxi meib Eei tavb Jaaj.
+66002006	mq paag meib maaib tiug lovj Eei. meib Rxv ni-Ko-lau uaq Jauq myenb zruj Eei sig Navq yia Rxv uaq nx.
+66002007	‘haiq taub maaib mnxmb xij zu'g pcv mnxmb mwavj lovj sivj livb Navq haiq nx Buaj zwavj Jiub paav. haiq taub tu'q hivb Jiaj nx, yia xij pun maaib leid Eang yem Tinb huvb Eei Wivj ka'Euad uaq zuvb zyavb mcvg Dyavj Eei pyruq.’
+66002008	“meib xij zu'g fiaq fyenj pun saa-me-naa Jiub paav Eei finb myenb, Buaj ninb, ‘zruj kxn Zauj setq mweid, taig mivb cvj navb taaib uaq taub Navq naaiq nx kxvq,
+66002009	yia hiuq tu'q meib Eei Kruq naang yaag hiuq tu'q meib Jomg haig mq paag meib za'kevb putq zxib. yia hiuq tu'q meib zu'g syrug myenb kxvq to'g. kxvq meib uaq teij se Zev kanb zruj yiu-Tai myenb mq paag maiq zeid. ninb Bua zruj saa-taan Eei wig Navq.
+66002010	maiq tuvq kamb Riaj meib maiq laub xij zu'g syrug Eei Kruq naang. myenq Eei huvb xij zx'q teij meib Bua Eei myenb wrnj Jyenq lob seij meib Bua. meib Bua zyrug syrug zyepg Nxi Eei Kruq naang. mq paag xij zu'g syenj wrnq Tauj taig, yia zyrug Zeij zyavb mcvg Eei nivq pun meib.
+66002011	‘haiq taub maaib mnxmb xij zu'g pcv mnxmb mwavj lovj sivj livb Navq haiq nx Buaj zwavj Jiub paav. haiq taub tu'q hivb, uaq taub zyrug maiq zu'g syrug ta'Eeig Rung taig Eei Kruq naang.’
+66002012	“meib xij zu'g fiaq fyenj pun pe-kaa-mam Jiub paav Eei finb myenb, Buaj ninb, ‘maaib zuv i mcvj laig Eei Ru'g Daauq uaq taub, Navq naaiq nx kxvq,
+66002013	yia hiuq tu'q meib yem Eei txvj, se saa-taan Eei weig yem uaq nxm txvj. mq paag meib Kauj wrnq yia Eei mevb yaag maiq kwavg yia, Zxg syenj yia, maiq kunq yia Eei zyepg zua'q Eei zxvb zevj myenb, an-Ti-paatg, yem meib Bua Bu'Dovj, tovb saa-taan yem Eei txvj, zu'g taij taig.
+66002014	‘mq paag maaib ziaj tiug yia xij kxvq meib. yem naaig maaib teij myenb kan Baa-laa-am Faauj Eei leid. lob Nxi Baa-laa-am Faauj Baa-laakq txb i-saa-laa-en myenb paamd zwid, Duaq ninb Bua Eang ziag Jiaj pun miub favj Eei ka'naaiq yaag zruj pwavb lyrub Eei sig.
+66002015	yem meib naaig yaag maaib teij kan ni-Ko-lau uaq Jauq myenb Faauj Eei leid.
+66002016	Navq naaig, xij zu'g kxiq Hruq kwavg zwid. maiq zei c'q, yia xij syepg syepq Eei mivb meib naaig lovg yem yia Eei Rwib Zwrtq uaq zuv Ru'g Daauq Zauj uaq teij myenb Bx'q Jaaj.
+66002017	‘haiq taub maaib mnxmb xij zu'g pcv mnxmb mwavj lovj sivj livb Navq haiq nx Buaj zwavj Jiub paav. haiq taub tu'q hivb nx, yia xij zx'q teij pivj Jyenq Eei maa-naa pun ninb. yaag xij pun nxm la'pyeib pc'g. naaiq nxm la'pyeiq fiaq Jyenq syavb Buaj. Zwrtq liud tu'q zipq la'pyeiq uaq taub, maiq maaib haiq taub hiuq tu'q uaq nxm Buaj.’
+66002018	“meib xij zu'g fiaq pun Ti-yaa-Ti-laa Jiub paav Eei finb myenb, Buaj ninb, ‘Tinb huvb Eei txn, tovb maaib mziv Navq trub Byetg, zauj yaag yrug! yrug Navq sinj taaib Eei tovb si'q uaq taub, Navq naaiq nx kxvq. '
+66002019	yia hiuq tu'q meib zruj Eei Jauq. yia hiuq tu'q meib Namq yia, syenj yia, meib fub suj myenb yaag maaib nxig tiaq. yia yaag hiuq tu'q meib ib zang zruj Eei kov se kaub Zamq taaub tavb zruj Eei.
+66002020	‘mq paag maaib yetg tiug yia xij kxvq meib. meib sweib Zev kanb zruj trug waag myenb uaq taub msia'q txn, ye-se-Ben, Faauj yia Eei pru, Duaq ninb Bua zruj pwavb lyrub Eei sig yaag Eang ziag Jiaj miub favj Eei ka'naaiq.
+66002021	yia pun zyavb hog ye-se-Ben maaib Qavj kxiq Hruq kwavg zwid mq paag ninb maiq Kavq kwavg ninb Yenj Eei Jauq.
+66002022	mavg maa'b! yia xij zx'q ninb zov Fiag Zruj putq pcvg Kruq. sij kxvq Yenj ninb uaq teij yaag maiq kxiq Hruq kwavg ninb Bua Yenj ninb Eei sig, yia xij pun ninb Bua syrug Niaq haig Eei Kruq naang.
+66002023	yia yaag xij taij Revg ye-se-Ben Eei fu'Jweiq. Navq naaig zwavj Jiub paav zyrug hiuq tu'q yia zruj zaab myenb Eei Hruq Zauj myenb Namq Eei sig uaq taub. ei meib Bua kx'g myenb zruj Eei, yia yaag xij winb pun meib Bua.
+66002024	mq paag yem Ti-yaa-Ti-laa zevg Fiag uaq teij, tovb maiq kan naaiq Euvg Faauj Eei x'q leid, yaag maiq ho'g tovb myenb heug “saa-taan pivj Jyenq Do haig Eei sig,” yia Buaj meib Bua, yia maiq Jaa haiq Euvg pun meib Bua Daam.
+66002025	mq paag meib maaib Eei xij zu'g kruj lovj zuaq Tauj yia cvj taaib.
+66002026	‘haiq taub tu'q hivb, yaag ei Jyenq yia Eei eij zruj Tauj setq mweid, yia zyrug pun uaq taub maaib livg kunq maang fivj, Navq yia Eei tia pun livg yia kunq maang fivj. “ninb xij lovg Lia'g pyaaq kunq maang fivj. ninb xij Bx'q ninb Bua mwrng Revg Navq Bx'q niab mx mwrng Revg uaq nx.” ‘haiq taub tu'q hivb, yaag ei Jyenq yia Eei eij zruj Tauj setq mweid, yia zyrug pun uaq taub maaib livg kunq maang fivj, Navq yia Eei tia pun livg yia kunq maang fivj. “ninb xij lovg Lia'g pyaaq kunq maang fivj. ninb xij Bx'q ninb Bua mwrng Revg Navq Bx'q niab mx mwrng Revg uaq nx.”
+66002027	
+66002028	yia yaag xij zx'q Taaib pc'g fiv pun ninb.
+66002029	‘haiq taub maaib mnxmb xij zu'g pcv mnxmb mwavj lovj sivj livb Navq haiq nx Buaj zwavj Jiub paav.’
+66003002	Eia taaib maa'b! zevg Fiag, aaq lamb zutg Eei, xij zu'g pun henq Jiad taaib, maiq tuvq pun zutg Revg weig zu'g yia pwatg meib zruj Eei kov ei yia Eei Tinb huvb mavg se maiq tunb yunb.
+66003003	Navq naaig, xij zu'g Javj Jyenq myenb Faauj Jiaj Eei Zauj meib haid Jiaj Eei waag. xij zu'g ei Jyenq zruj yaag kxiq Hruq kwavg zwid. sij kxvq meib maiq Eia, yia zyrug mivb lxd meib Navq Janb za'g nx. meib zuvq maiq hiuq tu'q yia haiq nxm zyavb hog Tauj.
+66003004	‘mq paag yem meib naaig saa-Ditg Jiub paav Zxg maaib i ziaj taub maiq pun ninb Bua Eei lwib hruj laib Lopq. naaiq teij myenb zyrug tu'q zu'q lwib hrub pc'g Zauj yia Jwavg Jauq yavb, weig zu'g ninb Bua Pwij tu'q a'q.
+66003005	haiq taub tu'q hivb, uaq taub tu'q zu'q pc'g Eei lwib hruj. yem zyavb mcvg taan yia yaag maiq sxtq ninb Eei Buaj kwavg. yia yaag xij yem yia Eei tia Zauj ninb Eei finb myenb Eei Ra'Myen Eyemg uaq taub penj yia Eei myenb.
+66003006	‘haiq taub maaib mnxmb xij zu'g pcv mnxmb mwavj lovj sivj livb Navq haiq nx Buaj zwavj Jiub paav.’
+66003007	“meib xij zu'g fiaq fyenj pun fi-laa-Den-fia Jiub paav Eei finb myenb, Buaj ninb, ‘Zivb Revg Eei, zyen Eei uaq taub, nanq Daa-witq huvb Eei fxb zeib. ninb Kxi Gxi Eei, maiq maaib haiq taub haib kwrn. ninb kwrn Eei, maiq maaib haiq taub Kxi tu'q Gxi. ninb Navq naaiq nx kxvq.
+66003008	yia hiuq tu'q meib zruj Eei kov. mavg maa'b! yem meib Eei Ra'Myen yia Kxi Gxi taub kcvb yaag maiq maaib haiq taub haib kwrn. yia hiuq tu'q meib Kuvj maaib teij paaq Qa'q, meib yaag ei Jyenq yia Eei waag, yaag Eyemg yia Eei Buaj.
+66003009	mavg maa'b! saa-taan Eei wig Eei myenb, tovb Zev kanb zruj yiu-Tai myenb mq paag maiq zeid, ninb Bua Kuvj kxvb pc'g Navq. yia xij pun ninb Bua taaib Pua'q Fiag meib Eei zaub Len, zyrug pun ninb Bua hiuq tu'q yia Namq meib.
+66003010	weig zu'g meib ei Jyenq yia Eei waag lovg nxig tiaq Kruq, Tauj paamb ken pwavb tomb Kruq naang weig pun luvb Diaq myenb zu'g seij uaq zang, yia zyrug peu Jyenq meib.
+66003011	‘yia xij taaib syepq a'q. meib maaib Eei xij zu'g kruj lovj weig maiq pun haiq taub haib Zaavq meib Eei nivq.
+66003012	‘haiq taub tu'q hivb, yia xij pun uaq taub yem yia Eei Tinb huvb Eei sivj ting zruj nxm Dyrub. ninb yetg liud maiq Zwrtq sivj ting a'q. yia xij fiaq yia Eei Tinb huvb Eei Buaj yem ninb Eei sin, yaag xij fiaq yia Eei Tinb huvb Eei zivb Eei Buaj, tovb yem Tinb txvb, yia Eei Tinb huvb uaq Fiag taaib uaq nxm syavb ye-lu-saa-lem zivb. yia yaag xij fiaq yia kanb Eei syavb Buaj yem ninb Eei sin.
+66003013	‘haiq taub maaib mnxmb xij zu'g pcv mnxmb mwavj lovj sivj livb Navq haiq nx Buaj zwavj Jiub paav.’
+66003014	“meib xij zu'g fiaq pun lau-Di-sia Jiub paav Eei finb myenb, Buaj ninb, ‘naaiq se zruj aa-men uaq taub Eei waag, se zyepg zua'q Eei zruj zyen zxvb zevj yaag zruj Tinb huvb zeij taaib Eei maang mwrtg Eei kxn uaq taub, Navq naaiq nx kxvq,
+66003015	“yia hiuq tu'q meib zruj Eei kov, hiuq tu'q meib maiq Jxm yaag maiq namj. feij tu'q meib Jxm fai maiq zei c'q, namj.
+66003016	mq paag, weig zu'g meib Bua se unb un uaq, maiq Jxm yaag maiq namj, yia xij liaq meib Zwrtq yia Eei Rwib mivb.
+66003017	meib kxvq, “yia putq zxib, Euvb Euvg maaib Rxib, maiq Qyemj zu'g haiq Euvg a'q.” mq paag meib maiq hiuq tu'q meib Dovg haaij Kruq, Dovg haaij Kxb lyenb, Jomg haig, mziv Buaq, Fav sin Ziq liq Eei yem.
+66003018	yia Kwinj meib maaid yia lovg lrub trud sinj taaib Eei zyen Jyem weig pun meib putq zxib. yaag maaid lwib hrub pc'g zu'q Jyenq pun meib maiq Eaiq, maiq zu'g lcvb kcvq Eei yem. yaag xij zu'g Tevj yia maaid Dia Raatq meib Eei mziv weig pun meib haib mavg tu'q pwatg.
+66003019	‘ta'faanb yia Namq Eei myenb, yia kxvb hemj yaag Bx'q Faauj. Navq naaig, meib xij zu'g Jxm taaib kxiq Hruq kwavg meib Eei zwid.
+66003020	mavg maa'b! yia sruq Jyenq kcvb Daavg vcvq kcvb. haiq taub haid yia Eei Qiaj yaag Kxi kcvb yia zyrug pia'g mivb Zauj ninb Eang Naavj, ninb yaag Zauj yia Eang Naavj.
+66003021	‘haiq taub tu'q hivb, yia zyrug pun uaq taub maaib leid Jwavg yia Eei weig zweid, Navq yia tu'q hivb zyrug Zauj yia Eei tia Jwavg ninb Eei weig zweid.
+66003022	‘haiq taub maaib mnxmb xij zu'g pcv mnxmb mwavj lovj sivj livb Navq haiq nx Buaj zwavj Jiub paav.
+66004009	haiq zang naaiq teij pyei taub navb Eei ka'naaiq Zev, Taaib, lcvd zivb zweid Jyenq huvb weig, tovb yetg liud zyavb Jyenq Tauj maang kruq maang txig uaq taub,
+66004010	uaq teij Eig zyepg feij taub myenb koj zyrug kweig Fiag paaij zweid Jyenq huvb weig, tovb yetg liud zyavb Tauj maang kruq maang txig uaq taub. ninb Bua mwrnj kanb Eei nivq Yetq Jyenq uaq nxm weig Eei Ra'Myen yaag paauj Ruv kxvq,
+66005013	yia yaag haid yem Tinb txvb, yem paamb ken, yem Daub Diaq, yem Kxiq ka'Euad, Tinb huvb zeij taaib maaib Qiaj Eei maang mwrtg ka'naaiq lomb Rxib kxvq, ‘Zev zweid Jyenq huvb weig uaq taub, yaag Zev pa'ki yuvb txn, weig zu'g ninb Bua maaib mevb hog, maaib Favb laavg yaag maaib Qa'q Tauj maang kruq maang txig.’
+66005014	uaq teij pyei taub navb Eei ka'naaiq kxvq, “aa-men.” zwavj myenb koj yaag kweig Fiag paaij.
+66007005	#Tabelle in Übersetzung. Unklar wie der Vers eingesetzt werden soll. URL: https://www.bible.com/de/bible/232/REV.7.IuMiNOR 
+66007006	#siehe 66007005
+66007007	#siehe 66007005
+66007008	#siehe 66007005
+66007011	yetg zwavj finb myenb sruq weib kxmj huvb weig Zauj myenb koj Zauj uaq teij pyei taub navb Eei ka'naaiq, yaag Pua'q Fiag Dau paaij Tinb huvb.
+66007012	ninb Bua kxvq, “aa-men. Zev Tinb huvb, lcvd zivb Tinb huvb. yia Bua Eei Tinb huvb yetg liud maaib Favb laavg, maaib Zovb mevb, maaib mevb hog, maaib livg, maaib Qa'q Tauj maang kruq maang txig. aa-men.”
+66011016	yem Tinb huvb Eei Ra'Myen zweid Jyenq ninb Bua Eei weig uaq teij Eig zyepg feij taub myenb koj zyrug Pua'q Fiag Dau paaij Tinb huvb.
+66011017	ninb Bua kxvq, “zinb Daavg yem, ib zang yem, nrnb Jiaj Eei zyruq Tinb huvb aa'b! yia Bua lcvd zivb zyruq weig zu'g ib zang meib lovg meib Eei tomb Qa'q Jiad kxn kunq paamb ken.
+66016007	yia cvj haid maaib Qiaj yem ziab txvb heug Jyenq kxvq, kxvq, ‘nrnb Jiaj Eei zyruq Tinb huvb aa'b! meib syemq zwid meib syenq tu'q zyen Eei, pcvb fim Eei.
+66017006	yia yaag pwatg uaq taub msia'q txn Navq hopq tiuq Gwin nx, weig zu'g ninb hopq Tinb huvb Eei myenb Eei Ryaamq yaag hopq weig Tevj ye-su zruj zxvb zevj zu'g taij uaq teij myenb Eei Ryaamq Gwin. yia pwatg naaiq taub msia'q txn yia za'kevb! Bua'g hxvb haig.
+66017007	finb myenb naaig yia, “meib weig haiq tiug Bua'g hxvb? yia xij Pxq mevb uaq taub msia'q txn Eei maiq kcvb Byaavj yaavb Eei eij leid Zauj ninb keb Jyenq maaib siag nxm mGxvq, zyepg nxm Jxv uaq taub Yiab ka'naaiq Eei eij leid Buaj meib.
+66017008	meib pwatg uaq taub Yiab ka'naaiq zinb Daavg zyavb Jyenq Eei, mq paag ib zang maiq zyavb a'q. maiq laub ninb yem uaq nxm Do haig Eei Kwrtq Zwrtq taaib zyrug mivb zu'g myetg. paamb ken Eei myenb, tovb yem maiq kcvb zeij luvb zeij Dau uaq zang maiq maaib Buaj fiaq Jyenq zyavb mcvg taan uaq teij, pwatg uaq taub Yiab ka'naaiq zyrug za'kevb Bua'g hxvb haig, weig zu'g zinb Daavg uaq taub Yiab ka'naaiq zyavb Eei, ib zang maiq zyavb mq paag cvj xij taaib.
+66018004	yia cvj haid kanb maaib sivb Qiaj yem uaq Tinb txvb kxvq, “yia Eei myenb aa'b! Zwrtq taaib maa'b! Zwrtq naaig nxm zivb taaib maa'b! weig pun meib Bua maiq Zauj ninb maaib pwrng zruj zwid, yaag weig pun meib Bua maiq zu'g Zauj ninb zu'g ze'g naang,
+66018009	“paamb ken Eei zwavj huvb, tovb Yenj Jiaj ninb yaag Zauj ninb hang zruj waaig sig uaq teij huvb, pwatg puaq ninb uaq teij trub syruj Zwrtq, ninb Bua zyrug puvb siv puvb Qiaj Eei Eyemq.
+66018010	naaiq teij huvb zyrug sruq Jyenq ko Eei mavg weig zu'g kevb! kamb Riaj haig ninb syrug Eei Kruq naang. ninb Bua kxvq, “+‘Raub a'q! za'kevb Raub haig a'q! wrnq haig Eei tomb Baa-Bi-lon zivb aa'b! yetg sib ken Navq meib zu'g tivg zwid a'q.’
