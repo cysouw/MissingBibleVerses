@@ -1,207 +1,207 @@
-40004011
-40005012
-40007013
-40007014
-40007016
-40007017
-40011018
-40011019
-40012008
-40012025
-40012026
-40012033
-40012034
-40015005
-40015006
-40021017
-40022045
-40022046
-40024015
-40024016
-40026032
-40027036
-40027037
-40028008
-40028009
-41001043
-41001044
-41007008
-41010029
-41010030
-42003001
-42003002
-42003019
-42003020
-42004025
-42004026
-42007004
-42007005
-42012035
-42012036
-42012042
-42012043
-42018029
-42018030
-43001001
-43001002
-43001003
-43008052
-43008053
-43010014
-43010015
-43010035
-43010036
-43012039
-43012041
-43019037
-44002010
-44002011
-44003026
-44004036
-44004037
-44013034
-44013035
-44014018
-44015024
-44015028
-44015029
-44019013
-44019014
-44020011
-44020012
-44023026
-44023027
-44023028
-44023029
-44023030
-45004004
-45004005
-45007021
-45007022
-45008012
-45008013
-45008038
-45008039
-45009002
-45009003
-45009011
-45009012
-45009029
-45010012
-45010013
-45010017
-45010020
-45011009
-45011017
-45011018
-45013012
-45013013
-45014012
-45015004
-45015005
-45015006
-45015010
-45015011
-45015012
-46001001
-46001002
-46002010
-46005012
-46005013
-46010001
-46010002
-46014033
-46014034
-46015056
-46015057
-47001015
-47001016
-47006017
-47009007
-47009008
-47009009
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-48001001
-48001002
-48003012
-49001015
-49001016
-49002011
-49002012
-49004009
-50001021
-50001022
-50002001
-50002002
-50002007
-50002008
-50002029
-50002030
-51003001
-51003002
-51003006
-51003007
-53001001
-53001002
-53002016
-53002017
-54006003
-54006004
-54006013
-54006014
-55004001
-55004002
-57001019
-57001020
-58001014
-58002009
-58002013
-58003007
-58003008
-58003011
-58004004
-58004005
-58005006
-58006004
-58006005
-58006006
-58007009
-58007010
-58008006
-58009021
-58009022
-58010018
-58012007
-58012008
-58012009
-58013006
-58013020
-58013021
-59002002
-59002003
-59002009
-59002010
-59002011
-59002012
-59002013
-59004006
-59004007
-59004008
-59004009
-59004010
-60002008
-60003013
-60004019
-60005006
-60005007
-62001001
-62001002
-66004009
-66004010
-66014009
-66014010
+40004011	Ech telabꞌelka tu u txꞌiꞌliꞌinaj. Utz ech ul unjolol aanjel. Ul taqꞌ techbꞌubꞌal u Jesuus.
+40005012	Ech txuqꞌtxunojex utz, chiꞌbꞌojex tan, mam echoobꞌal sekꞌul tu Amlika. Tan echat koꞌxh tixval qꞌu alol tetz u yolbꞌal Tioxh bꞌanax koꞌxtene atziꞌ.
+40007013	Aꞌ soꞌokkꞌex tu u okebꞌal vaꞌl chꞌoo ivatz; u tal bꞌey vaꞌl siꞌiqꞌon opon uchchil tu bꞌenqꞌii bꞌensaj utz, vaꞌl kaꞌxvaꞌl koꞌn aanima nichabꞌan. Okiꞌchꞌex tu u mam jankin okebꞌal, vaꞌl yak tu u choobꞌal paav. Tan nim ivatz u bꞌey yak tuul. Utz mamala tenam atoꞌk tiꞌ. Aꞌ soꞌokkꞌex tu u okebꞌal vaꞌl chꞌoo ivatz; u tal bꞌey vaꞌl siꞌiqꞌon opon uchchil tu bꞌenqꞌii bꞌensaj utz, vaꞌl kaꞌxvaꞌl koꞌn aanima nichabꞌan. Okiꞌchꞌex tu u mam jankin okebꞌal, vaꞌl yak tu u choobꞌal paav. Tan nim ivatz u bꞌey yak tuul. Utz mamala tenam atoꞌk tiꞌ.
+40007014	
+40007016	Pek loqꞌ nimnaꞌl tan, tu koꞌxh qꞌul ibꞌanoneꞌ toj etilva. Echaꞌ qꞌu bꞌaꞌnla chaj vatzomla tzeꞌ, bꞌaꞌn ivatz nitaqꞌeꞌ. Pek aatz qꞌu yeꞌxtxojla chaj vatzomla tzeꞌ, yeꞌxtxoj ivatz nitaqꞌeꞌ. Tan saꞌkojiꞌaneꞌ aas sachee uuva tiꞌ qꞌu chꞌiꞌx. Utz saꞌkojiꞌan majte sachee viikuxh tiꞌ u paal chꞌiꞌx. Pek loqꞌ nimnaꞌl tan, tu koꞌxh qꞌul ibꞌanoneꞌ toj etilva. Echaꞌ qꞌu bꞌaꞌnla chaj vatzomla tzeꞌ, bꞌaꞌn ivatz nitaqꞌeꞌ. Pek aatz qꞌu yeꞌxtxojla chaj vatzomla tzeꞌ, yeꞌxtxoj ivatz nitaqꞌeꞌ. Tan saꞌkojiꞌaneꞌ aas sachee uuva tiꞌ qꞌu chꞌiꞌx. Utz saꞌkojiꞌan majte sachee viikuxh tiꞌ u paal chꞌiꞌx.
+40007017	
+40011018	Tan aatz iꞌan u Xhan, u bꞌanol vautiismo, yeꞌt txꞌaꞌni utz, yeꞌt tukꞌa taꞌl uuva. Utz: «Tioxhil txꞌiꞌliꞌinaj atil kꞌatza.» Chu teꞌleꞌ.
+40011019	Pek aatz u Kꞌaola vaꞌl bꞌennaj koꞌn aanima, vaꞌl itxꞌaꞌneꞌ utz, nitukꞌa taꞌl uuva. Utz netal viꞌ ech tzaꞌ: «Ulyu maꞌl u vinaj yeꞌk chit iyaꞌebꞌal tu echbꞌuꞌm, tu ukꞌa taꞌl uuva. Nimolo tibꞌ tuchꞌ aa paav, tuchꞌ subꞌulla chaj jajol jaꞌmel alkavaar.» Cheꞌex viꞌ. Loqꞌ aatz vitxumbꞌal u Tioxh, aꞌ niilchik tu vibꞌanon qꞌul ikꞌaol imeꞌal Tioxh.— Texh u Jesuus.
+40012008	Tan aatz u Kꞌaola vaꞌl bꞌennaj koꞌn aanima, aa yol tiꞌ u ilanbꞌal qꞌii.— Texh te.
+40012025	Pek aatz u Jesuus tan, paal itxumbꞌal tu qꞌuꞌl nichtitzꞌa utz, tal tek te ech tzaꞌ: —¿Kaniꞌch bꞌoj tatin viqꞌesalail u txꞌiꞌliꞌinaj tinujul oj atoꞌk ixoꞌl tibꞌilaj? Saꞌkojveet iqꞌesalaineꞌ oj jatxel tibꞌ iatz. Echat koꞌxhtuꞌ aꞌ maꞌj ijlenal majte. Oj jatxel tibꞌ iatz tuchꞌ qꞌul imol tu viqꞌesalail, sakoꞌnjinkꞌi. Utz ech pajeꞌ aꞌ maꞌj tenam, oj untanoj itzꞌin atzik tu maꞌl atibꞌal, jatxel tibꞌ iatz, saꞌkojveet iꞌantu maꞌl iatz. Pek aatz u Jesuus tan, paal itxumbꞌal tu qꞌuꞌl nichtitzꞌa utz, tal tek te ech tzaꞌ: —¿Kaniꞌch bꞌoj tatin viqꞌesalail u txꞌiꞌliꞌinaj tinujul oj atoꞌk ixoꞌl tibꞌilaj? Saꞌkojveet iqꞌesalaineꞌ oj jatxel tibꞌ iatz. Echat koꞌxhtuꞌ aꞌ maꞌj ijlenal majte. Oj jatxel tibꞌ iatz tuchꞌ qꞌul imol tu viqꞌesalail, sakoꞌnjinkꞌi. Utz ech pajeꞌ aꞌ maꞌj tenam, oj untanoj itzꞌin atzik tu maꞌl atibꞌal, jatxel tibꞌ iatz, saꞌkojveet iꞌantu maꞌl iatz.
+40012026	
+40012033	¡Txꞌiꞌla chaj aanima! ¡Kaniꞌch bꞌoj etaltu bꞌaꞌnla chaj yol nenacheꞌ tan, jolol ex onkon! Kam qꞌuꞌl atil xeꞌ taanima u aanima, aꞌ vaꞌl nijeꞌul titziꞌ. Pek bꞌantaj u bꞌaꞌnil, ech sekꞌucheꞌ ex bꞌaꞌn. Echaꞌ u bꞌaꞌnla tzeꞌ, bꞌaꞌn ivatz nitaqꞌeꞌ. Utz aatz u yeꞌxtxojla tzeꞌ, yeꞌxtxoj ivatz nitaqꞌeꞌ. Tan aꞌ niꞌilchik u tzeꞌ tu vivatz; bꞌaꞌn tzik oj yeꞌxtxoj. ¡Txꞌiꞌla chaj aanima! ¡Kaniꞌch bꞌoj etaltu bꞌaꞌnla chaj yol nenacheꞌ tan, jolol ex onkon! Kam qꞌuꞌl atil xeꞌ taanima u aanima, aꞌ vaꞌl nijeꞌul titziꞌ. Pek bꞌantaj u bꞌaꞌnil, ech sekꞌucheꞌ ex bꞌaꞌn. Echaꞌ u bꞌaꞌnla tzeꞌ, bꞌaꞌn ivatz nitaqꞌeꞌ. Utz aatz u yeꞌxtxojla tzeꞌ, yeꞌxtxoj ivatz nitaqꞌeꞌ. Tan aꞌ niꞌilchik u tzeꞌ tu vivatz; bꞌaꞌn tzik oj yeꞌxtxoj.
+40012034	
+40015005	Pek aatz netaleꞌ, saveeti aas satal maꞌj aanima titxutx ibꞌaal ech tzaꞌ: «Yeꞌxhkam veꞌt eetz savaqꞌeꞌ tan, aꞌ savaqꞌvu tu u Tioxh kajay val eetz savaqꞌeꞌ bꞌanel.» Cheꞌex.
+40015006	Utz aatz qꞌuꞌl nibꞌanon ech tziꞌ, aꞌ niqel u mantaar Tioxh tiꞌ inimal qꞌul ikostuumbre qꞌu kukꞌuy kumam tan, yeꞌkan itxaꞌk itxutx ibꞌaal te.
+40021017	Pek elabꞌelka tu u Jesuus. Kꞌasuꞌl tu u tenam tziꞌ utz, aꞌ vatku tu Betaania.
+40022045	Tan oj “unBꞌaal” texh u Daviid tiꞌ, ¿kam tek tokeꞌ oj ituꞌxh ixalam kuꞌen netaleꞌ?— Texh u Jesuus te.
+40022046	Ech yeꞌxhabꞌil maꞌj txꞌolon itzaqꞌbꞌeleꞌ. Utz abꞌil tereꞌn koj vaꞌtoj chꞌotin kam te tu qꞌu qꞌii taabꞌaul.
+40024015	Utz aatz letil tuch u txaaꞌla kam tu u tioxhla atibꞌal, oojoj bꞌen tulaj muunte qꞌuꞌl atil tikuenta Judea. Tan aꞌ vaꞌl tal u Danieel atziꞌ, u alol tetz u yolbꞌal Tioxh, aas suꞌuchi. Ech abꞌil nisikꞌlen, paaloj itxumbꞌal tuul. Utz aatz letil tuch u txaaꞌla kam tu u tioxhla atibꞌal, oojoj bꞌen tulaj muunte qꞌuꞌl atil tikuenta Judea. Tan aꞌ vaꞌl tal u Danieel atziꞌ, u alol tetz u yolbꞌal Tioxh, aas suꞌuchi. Ech abꞌil nisikꞌlen, paaloj itxumbꞌal tuul.
+40024016	
+40026032	Pek aatz maꞌt qꞌaav vitzꞌpeꞌ, sabꞌaxabꞌbꞌenin sevatz tu Galilea.— Texhtuꞌ.
+40027036	Ech motx kꞌujeꞌ tiꞌ ixeeleꞌ.
+40027037	Utz itzꞌibꞌa maꞌl yol taqꞌ jeꞌ vatz u kurus, tibꞌa u Jesuus, ayaꞌ vipaav aas nichmotxtaleꞌ. Ech nichtal tzaꞌ. “Aꞌ U JESUUS TZAꞌ, U TIJLENAL QꞌU ISRAEEL.” Chia.
+40028008	Uncheeꞌ motx tek jutzin ikꞌasuꞌl qꞌu ixoj tziꞌ u jul. Echil xoꞌval, echit txuqꞌtxunchil nichmotxbꞌanon. [Ul tal u bꞌaꞌnla yol tu qꞌu chusulibꞌ.] Ech yeꞌk talcheꞌ, ok u Jesuus tibꞌey. Tal te ech tzaꞌ: —Chajlentzikꞌex. Bꞌaꞌnil koj at sekꞌatza.— Texh te. Ech xaan opon qꞌu ixoj kꞌatza, motx pecheꞌ siatz. Utz iqꞌalu tajan; ech motx toksa iqꞌii. Uncheeꞌ motx tek jutzin ikꞌasuꞌl qꞌu ixoj tziꞌ u jul. Echil xoꞌval, echit txuqꞌtxunchil nichmotxbꞌanon. [Ul tal u bꞌaꞌnla yol tu qꞌu chusulibꞌ.] Ech yeꞌk talcheꞌ, ok u Jesuus tibꞌey. Tal te ech tzaꞌ: —Chajlentzikꞌex. Bꞌaꞌnil koj at sekꞌatza.— Texh te. Ech xaan opon qꞌu ixoj kꞌatza, motx pecheꞌ siatz. Utz iqꞌalu tajan; ech motx toksa iqꞌii.
+40028009	
+41001043	Utz tal bꞌen u Jesuus te bꞌaꞌnil ech tzaꞌ: —Loqꞌ abꞌi iileꞌ. Bꞌaxalich koꞌxh aal tu aanima. Pek kuxh kꞌuch iibꞌ tu u oksan yol vatz Tioxh, ech satileꞌ aas bꞌaꞌntꞌaxh. Iqꞌo bꞌen u txakunsaꞌm tzixeꞌ vaꞌl sakꞌachlu viꞌ u nachbꞌal vaꞌl talka u Moisees tu u oꞌtla mantaar.— Texh te. Ech ichajtu bꞌen. Utz tal bꞌen u Jesuus te bꞌaꞌnil ech tzaꞌ: —Loqꞌ abꞌi iileꞌ. Bꞌaxalich koꞌxh aal tu aanima. Pek kuxh kꞌuch iibꞌ tu u oksan yol vatz Tioxh, ech satileꞌ aas bꞌaꞌntꞌaxh. Iqꞌo bꞌen u txakunsaꞌm tzixeꞌ vaꞌl sakꞌachlu viꞌ u nachbꞌal vaꞌl talka u Moisees tu u oꞌtla mantaar.— Texh te. Ech ichajtu bꞌen.
+41001044	
+41007008	Tan aꞌ nimotxetaqꞌka vimantaar u Tioxh. Pek aꞌ tii nebꞌan inimal kostuumbre tzꞌibꞌamal aas imantaar koꞌn aanima. Echaꞌ vekostuumbre tiꞌ txꞌaal txeꞌn tuchꞌ kambꞌal utz, vekostuumbre tiꞌ tereꞌn kam.— Texh te.
+41010029	Tzaqꞌbꞌu u Jesuus utz, tal ech tzaꞌ: —Niꞌxhtekꞌval sete, abꞌil qꞌuꞌl sataqꞌka tetz viꞌ, tuchꞌ tiꞌ u bꞌaꞌnla chusbꞌal, mam bꞌaꞌnil sikꞌuleꞌ. Utz 100 tanul sikꞌul vatz vaꞌl sataqꞌka tu u vatz iqꞌii isaj. Utz saetzan tiꞌ u bꞌenqꞌii bꞌensaj. Echaꞌ qꞌuꞌl sataqꞌka tatibꞌal. Sataqꞌka tatzik, itzaꞌqꞌ, tanabꞌ, itat, inan, tixoj, ikꞌaol imeꞌal, itxꞌavaꞌ utz, saojchal viꞌ. Tzaqꞌbꞌu u Jesuus utz, tal ech tzaꞌ: —Niꞌxhtekꞌval sete, abꞌil qꞌuꞌl sataqꞌka tetz viꞌ, tuchꞌ tiꞌ u bꞌaꞌnla chusbꞌal, mam bꞌaꞌnil sikꞌuleꞌ. Utz 100 tanul sikꞌul vatz vaꞌl sataqꞌka tu u vatz iqꞌii isaj. Utz saetzan tiꞌ u bꞌenqꞌii bꞌensaj. Echaꞌ qꞌuꞌl sataqꞌka tatibꞌal. Sataqꞌka tatzik, itzaꞌqꞌ, tanabꞌ, itat, inan, tixoj, ikꞌaol imeꞌal, itxꞌavaꞌ utz, saojchal viꞌ.
+41010030	
+42003001	Uncheeꞌ qꞌilal u Xhan vikꞌaol u Zacarias tu u Tioxh tu tzꞌinlich txꞌavaꞌ. Aꞌ chit 15 yaꞌbꞌ tok tu tijlenalil u mam ijlenal Tibeerio Cesar. Utz governadoorich u Pooncio Pilato tikuenta Judea. Governadoorich u Herodes tikuenta Galilea majte. Utz governadoorich u Felipe vitzaꞌqꞌ u Herodes tikuenta Iturea tuchꞌ tu Traconite. Governadoorich u Lisanias tikuenta Abiliinia. Utz aꞌ chit qꞌesal oksan yol vatz Tioxh xoꞌl qꞌu Israeel u Anaas tuchꞌ u Caifaas. Uncheeꞌ qꞌilal u Xhan vikꞌaol u Zacarias tu u Tioxh tu tzꞌinlich txꞌavaꞌ. Aꞌ chit 15 yaꞌbꞌ tok tu tijlenalil u mam ijlenal Tibeerio Cesar. Utz governadoorich u Pooncio Pilato tikuenta Judea. Governadoorich u Herodes tikuenta Galilea majte. Utz governadoorich u Felipe vitzaꞌqꞌ u Herodes tikuenta Iturea tuchꞌ tu Traconite. Governadoorich u Lisanias tikuenta Abiliinia. Utz aꞌ chit qꞌesal oksan yol vatz Tioxh xoꞌl qꞌu Israeel u Anaas tuchꞌ u Caifaas.
+42003002	
+42003019	Pek oksal u Xhan tu tzeꞌ tu u governadoor Herodes. Tan tiira tal u Xhan te aas yeꞌxtxoj iqꞌomal u Herodias taqꞌo, u tixoj u Felipe, vitzaꞌqꞌ u Herodes. Utz tal te majte kam tereꞌn qꞌu kam yeꞌxtxoj nichiꞌaneꞌ. Pek aal koꞌn paj itzꞌajsa ok vipaav u Herodes aas toksat u Xhan tu tzeꞌ. Pek oksal u Xhan tu tzeꞌ tu u governadoor Herodes. Tan tiira tal u Xhan te aas yeꞌxtxoj iqꞌomal u Herodias taqꞌo, u tixoj u Felipe, vitzaꞌqꞌ u Herodes. Utz tal te majte kam tereꞌn qꞌu kam yeꞌxtxoj nichiꞌaneꞌ. Pek aal koꞌn paj itzꞌajsa ok vipaav u Herodes aas toksat u Xhan tu tzeꞌ.
+42003020	
+42004025	Echtzixeꞌt yitꞌ aꞌ koj chajlik u Elias tu u Tioxh xeꞌ maꞌj qꞌu txakay ixoj tu Israeel, tetz aa tenamil. Pek aꞌ chajlik xeꞌ maꞌl u txakay ixoj puera aanima tu Sarepta tikuenta Sidoon, kꞌuxh sibꞌ koꞌxh txakay ixoj atich tikuenta Israeel titiempo u Elias. Aꞌ chituꞌ aꞌ vaꞌl paat yeꞌt kuꞌ jabꞌal tu oxvaꞌl yaꞌbꞌ tuchꞌ vaajit ichꞌ. Utz ul mam vaꞌy tikuenta kajay u txꞌavaꞌ tziꞌ. Echtzixeꞌt yitꞌ aꞌ koj chajlik u Elias tu u Tioxh xeꞌ maꞌj qꞌu txakay ixoj tu Israeel, tetz aa tenamil. Pek aꞌ chajlik xeꞌ maꞌl u txakay ixoj puera aanima tu Sarepta tikuenta Sidoon, kꞌuxh sibꞌ koꞌxh txakay ixoj atich tikuenta Israeel titiempo u Elias. Aꞌ chituꞌ aꞌ vaꞌl paat yeꞌt kuꞌ jabꞌal tu oxvaꞌl yaꞌbꞌ tuchꞌ vaajit ichꞌ. Utz ul mam vaꞌy tikuenta kajay u txꞌavaꞌ tziꞌ.
+42004026	
+42007004	Ech motx ul qꞌul iqꞌesal qꞌu Israeel xeꞌ u Jesuus. Utz tiira ijaj chit bꞌaꞌnil te ech tzaꞌ: —Tiira bꞌaꞌn ikꞌuꞌl u capitaan tiꞌ u kutenam tzaꞌ. Aal aqꞌel jeꞌ maꞌl atibꞌal taqꞌo, chusbꞌal tetz u oꞌtla mantaar. Ech niꞌxhikꞌuloꞌk tiꞌ aas saaqꞌ te kam vaꞌl nijaj see.— Texh te. Ech motx ul qꞌul iqꞌesal qꞌu Israeel xeꞌ u Jesuus. Utz tiira ijaj chit bꞌaꞌnil te ech tzaꞌ: —Tiira bꞌaꞌn ikꞌuꞌl u capitaan tiꞌ u kutenam tzaꞌ. Aal aqꞌel jeꞌ maꞌl atibꞌal taqꞌo, chusbꞌal tetz u oꞌtla mantaar. Ech niꞌxhikꞌuloꞌk tiꞌ aas saaqꞌ te kam vaꞌl nijaj see.— Texh te.
+42007005	
+42012035	Pek aatz ex utz, itzꞌoj koꞌxh etatineꞌ. Bꞌanoj koꞌxh etucheꞌ. Echaꞌ bꞌanel koꞌxh tuch etxijtxubꞌal. Bꞌantajex echaꞌ qꞌu aqꞌonom qꞌuꞌl chꞌiam koꞌxh nimotxiꞌaneꞌ. Aꞌ nichꞌia iqꞌaavuꞌl u bꞌaal taqꞌon tu maꞌj tzumbꞌaꞌa. Utz taꞌxh luꞌuli, lasikꞌleni, yak koꞌxh sajajaxoj. Pek aatz ex utz, itzꞌoj koꞌxh etatineꞌ. Bꞌanoj koꞌxh etucheꞌ. Echaꞌ bꞌanel koꞌxh tuch etxijtxubꞌal. Bꞌantajex echaꞌ qꞌu aqꞌonom qꞌuꞌl chꞌiam koꞌxh nimotxiꞌaneꞌ. Aꞌ nichꞌia iqꞌaavuꞌl u bꞌaal taqꞌon tu maꞌj tzumbꞌaꞌa. Utz taꞌxh luꞌuli, lasikꞌleni, yak koꞌxh sajajaxoj.
+42012036	
+42012042	Tal u kuBꞌaal te ech tzaꞌ: —Chiꞌbꞌebꞌal tetz u aqꞌonom oj ech siꞌaneꞌ kam vaꞌl alaxka te tu u bꞌaal taqꞌon. Tzakꞌkin utz, kꞌujlebꞌal kꞌuꞌlla aqꞌonom atziꞌ oj tu chit oora sataqꞌvu techbꞌubꞌal qꞌuꞌl atil tu u atibꞌal. Jikom niꞌaneꞌ aas loꞌopon u bꞌaal taqꞌon. Tal u kuBꞌaal te ech tzaꞌ: —Chiꞌbꞌebꞌal tetz u aqꞌonom oj ech siꞌaneꞌ kam vaꞌl alaxka te tu u bꞌaal taqꞌon. Tzakꞌkin utz, kꞌujlebꞌal kꞌuꞌlla aqꞌonom atziꞌ oj tu chit oora sataqꞌvu techbꞌubꞌal qꞌuꞌl atil tu u atibꞌal. Jikom niꞌaneꞌ aas loꞌopon u bꞌaal taqꞌon.
+42012043	
+42018029	Tal u Jesuus te ech tzaꞌ: —Niꞌxhtekꞌval sete, abꞌil qꞌuꞌl nitaqꞌka qꞌu tetz tiꞌ viQꞌesalail u Tioxh, saꞌnaltil iqꞌaqꞌal. Ech oj nitaqꞌka totzotz; nitaqꞌka tixoj, itzaꞌqꞌ, tatzik, itxutx ibꞌaal, tuchꞌ ikꞌaol imeꞌal, sikꞌul sibꞌal iqꞌaqꞌal tu u tiempo tzaꞌ. Utz satil iqꞌaqꞌal tu u atinchil tu bꞌenqꞌii bꞌensaj taabꞌaꞌbꞌen majte.— Texhtuꞌ. Tal u Jesuus te ech tzaꞌ: —Niꞌxhtekꞌval sete, abꞌil qꞌuꞌl nitaqꞌka qꞌu tetz tiꞌ viQꞌesalail u Tioxh, saꞌnaltil iqꞌaqꞌal. Ech oj nitaqꞌka totzotz; nitaqꞌka tixoj, itzaꞌqꞌ, tatzik, itxutx ibꞌaal, tuchꞌ ikꞌaol imeꞌal, sikꞌul sibꞌal iqꞌaqꞌal tu u tiempo tzaꞌ. Utz satil iqꞌaqꞌal tu u atinchil tu bꞌenqꞌii bꞌensaj taabꞌaꞌbꞌen majte.— Texhtuꞌ.
+42018030	
+43001001	Atich nal u Aqꞌol Tiichajil kꞌatz u Tioxh xeꞌ qꞌii xeꞌ saj. Tioxh tatineꞌ. Atich nal u Aqꞌol Tiichajil kꞌatz u Tioxh xeꞌ qꞌii xeꞌ saj. Tioxh tatineꞌ.
+43001002	
+43001003	Tiꞌ kꞌuxh chee qꞌu kam kajayil qꞌuꞌl atile. Utz yeꞌt chee qꞌu kam koj tziꞌ aas yitꞌ koj tiꞌ.
+43008052	Utz tzaqꞌbꞌel tu qꞌu qꞌesal uqꞌaybꞌal xoꞌl qꞌu Israeel ech tzaꞌ: —Vetqootzajil cheel aas atoꞌk tioxhil txꞌiꞌliꞌinaj sakꞌatza. Tan naaleꞌ aas: «Abꞌil saniman vunyolbꞌal jatu koj sakami.» Chaꞌaxh. Utz kamnaj u Abrahaam. Kamnaj tek qꞌu oꞌtla alol tetz u yolbꞌal Tioxh majte. ¿Tzꞌoj tzik paalchꞌaxh vatz u kukꞌuy kumam Abrahaam vaꞌl kamnaj tekuꞌen? Pek ¿abꞌil axh nanache?— Texh te. Utz tzaqꞌbꞌel tu qꞌu qꞌesal uqꞌaybꞌal xoꞌl qꞌu Israeel ech tzaꞌ: —Vetqootzajil cheel aas atoꞌk tioxhil txꞌiꞌliꞌinaj sakꞌatza. Tan naaleꞌ aas: «Abꞌil saniman vunyolbꞌal jatu koj sakami.» Chaꞌaxh. Utz kamnaj u Abrahaam. Kamnaj tek qꞌu oꞌtla alol tetz u yolbꞌal Tioxh majte. ¿Tzꞌoj tzik paalchꞌaxh vatz u kukꞌuy kumam Abrahaam vaꞌl kamnaj tekuꞌen? Pek ¿abꞌil axh nanache?— Texh te.
+43008053	
+43010014	In u bꞌaꞌnla xeen karneꞌl. Utz kam echaꞌ tootzajitꞌin vunTat, echat vootzajit vunTat majte. Utz kam echaꞌ vootzajit vunTat, echat vootzajit qꞌul unkarneꞌl majte. Utz tootzajin. Tan savaqꞌ vibꞌ tu kamchil tiꞌ qꞌu karneꞌl. In u bꞌaꞌnla xeen karneꞌl. Utz kam echaꞌ tootzajitꞌin vunTat, echat vootzajit vunTat majte. Utz kam echaꞌ vootzajit vunTat, echat vootzajit qꞌul unkarneꞌl majte. Utz tootzajin. Tan savaqꞌ vibꞌ tu kamchil tiꞌ qꞌu karneꞌl.
+43010015	
+43010035	Utz oj: «Tioxh tatineꞌ.» Chu u Tioxh tiꞌ qꞌu aanima, tiꞌ vitenam qꞌuꞌl kꞌulun viyolbꞌal, uncheeꞌ ¿kam tatin vatz u Tioxh u Vinaj nenacheꞌ vaꞌl iTxaaom u Tioxh, ichajuꞌl tu u vatz amlika txꞌavaꞌ tzaꞌ? ¿Kantuꞌ yeꞌk tatin sevatz? Nikoꞌneteesa iqꞌii. Netal tiꞌ aas: «Niyoqꞌ Tioxh.» Cheꞌex. Tiꞌ tan, nivaleꞌ aas: «In viKꞌaol u Tioxh.» Chiꞌin. Utz aal ex qꞌuꞌl niqelon u Yolbꞌal Tioxh kꞌuxh nenima netaleꞌ. Utz oj: «Tioxh tatineꞌ.» Chu u Tioxh tiꞌ qꞌu aanima, tiꞌ vitenam qꞌuꞌl kꞌulun viyolbꞌal, uncheeꞌ ¿kam tatin vatz u Tioxh u Vinaj nenacheꞌ vaꞌl iTxaaom u Tioxh, ichajuꞌl tu u vatz amlika txꞌavaꞌ tzaꞌ? ¿Kantuꞌ yeꞌk tatin sevatz? Nikoꞌneteesa iqꞌii. Netal tiꞌ aas: «Niyoqꞌ Tioxh.» Cheꞌex. Tiꞌ tan, nivaleꞌ aas: «In viKꞌaol u Tioxh.» Chiꞌin. Utz aal ex qꞌuꞌl niqelon u Yolbꞌal Tioxh kꞌuxh nenima netaleꞌ.
+43010036	
+43012039	Ech tokeꞌ yeꞌ nichmotxinimaneꞌ. Utz tal paj u Isaias ech tzaꞌ:
+43012041	Aꞌ taltu u kam u Isaias tziꞌ aas tiltu vitechalil u Tioxh. Ech yolon tiꞌ.
+43019037	Utz echat nital vaꞌt u yol majte vaꞌl tzꞌibꞌamalka aas: —Saꞌnalilax vaꞌl paasal chꞌichꞌ txala tuul.— Chia.
+44002010	aa Friigia, aa Panfiilia, aa Egipto, aa tikuenta Liibia najaꞌch Cirene utz, tiyolbꞌal qꞌu aa Roma jejlel tzaꞌ. At niyolon tu yolbꞌal aa Creta tuchꞌ yolbꞌal aa Araabia. Utz ela niqabꞌi taltu qꞌu mamaj kam tiꞌ u Tioxh tu qꞌu kuyolbꞌal. Niqabꞌi oꞌ Israeel tu u qitzꞌpebꞌal utz, kꞌuxh oknajkoꞌnoꞌ tiꞌ u tuqꞌaybꞌal qꞌu Israeel.— Texhtuꞌ. aa Friigia, aa Panfiilia, aa Egipto, aa tikuenta Liibia najaꞌch Cirene utz, tiyolbꞌal qꞌu aa Roma jejlel tzaꞌ. At niyolon tu yolbꞌal aa Creta tuchꞌ yolbꞌal aa Araabia. Utz ela niqabꞌi taltu qꞌu mamaj kam tiꞌ u Tioxh tu qꞌu kuyolbꞌal. Niqabꞌi oꞌ Israeel tu u qitzꞌpebꞌal utz, kꞌuxh oknajkoꞌnoꞌ tiꞌ u tuqꞌaybꞌal qꞌu Israeel.— Texhtuꞌ.
+44002011	
+44003026	Echtzixeꞌt aꞌ bꞌaxa vetichajvu kꞌasuꞌl viTxaaom tzexeꞌ aas maꞌtich qꞌaav titzꞌpeꞌ. Tan aꞌ isaꞌ ekꞌultu qꞌu mamaj bꞌaꞌnil. Ech junun ex sechꞌexpu qꞌul etxumbꞌal, setaqꞌka qꞌu onkonil.— Texh u Luꞌ tu qꞌu aanima.
+44004036	Echat iꞌan maꞌl u vinaj Xhep ibꞌii, vaꞌl Bernabee tek ibꞌii oksal tu qꞌul ichaj u Jesuus. Ikꞌayi untanul itxꞌavaꞌ. Utz tiqꞌo ul vijaꞌmel vatz qꞌul ichaj u Jesuus. Aatz u bꞌii Bernabee tziꞌ utz, “aqꞌol nimal kꞌuꞌl” chu u tokebꞌal. Aatzich u vinaj tziꞌ, ituꞌxh ixalamich u Levii utz, aa Chipreich. Echat iꞌan maꞌl u vinaj Xhep ibꞌii, vaꞌl Bernabee tek ibꞌii oksal tu qꞌul ichaj u Jesuus. Ikꞌayi untanul itxꞌavaꞌ. Utz tiqꞌo ul vijaꞌmel vatz qꞌul ichaj u Jesuus. Aatz u bꞌii Bernabee tziꞌ utz, “aqꞌol nimal kꞌuꞌl” chu u tokebꞌal. Aatzich u vinaj tziꞌ, ituꞌxh ixalamich u Levii utz, aa Chipreich.
+44004037	
+44013034	Utz vetqꞌaavitzꞌpixsal u Jesuus tu u Tioxh xoꞌl qꞌu kamnaj. Ech jatu tereꞌn koj saqꞌaavkami. Tan nipajtal u Yolbꞌal Tioxh ech tzaꞌ: «Nojchit savaqꞌ u mam bꞌaꞌnil see vaꞌl alel tu u Daviid vaqꞌo.» Chia.
+44013035	Ech tokeꞌ aas nipajtal tu u Salmos tu untantu ech tzaꞌ: «Saꞌkojaaqꞌ tzii saqꞌee vichiꞌl vaTioxhla Txaaom.» Chia.
+44014018	Ech peena chit oleꞌ tiꞌ imajax iatz qꞌu tenam tiꞌ aas yeꞌk satoksa u txꞌoloꞌm siatz.
+44015024	Aatz cheel saqal sete aas vetqabꞌilaꞌ vetmotxexisotzsa ekꞌuꞌl unjolol aanima tu yol aas vetmotxibꞌan yaꞌlex tiꞌ etzokꞌteꞌl bꞌiil echiꞌl. Utz nitaleꞌ aas senima qꞌul imantaar u Moisees majte. Aꞌ vetmotxelkubꞌen tu kuxoꞌl loqꞌ, yitꞌ kutzii koj te ech sataleꞌ.
+44015028	Tan bꞌaꞌn niꞌenku tu u Tioxhla Espiiritu utz, bꞌaꞌn niꞌenku qe majte aas yeꞌk vaꞌt ijatz saqaqꞌ jeꞌ setiꞌ. Pek taꞌxh saqal sete aas ministeer sebꞌan qꞌu kam tzaꞌ.
+44015029	Semaj etibꞌ tiꞌ techbꞌul qꞌu echbꞌubꞌal qꞌuꞌl nipaasal vatz bꞌanich tioxh. Yeꞌk setechbꞌu kaj. Yeꞌk sechiꞌ qꞌu chiꞌo txokop oj yeꞌ elnaj ikajal. Utz yeꞌk seteesa etibꞌ tu bꞌey tuchꞌ aanima. Ech oj setxꞌol inimal qꞌu kam tziꞌ, tiira bꞌaꞌn nebꞌaneꞌ. Laqil qibꞌ, bꞌaꞌn koj paalkꞌex.— Texh tu u uꞌ.
+44019013	Pek atich unjolol qꞌu Israeel, til chaj koꞌxh nichpaalka, nichteesa tioxhil txꞌiꞌliꞌinaj kꞌatz aanima majte. Ayaꞌ jujvaꞌl qꞌul ikꞌaol maꞌl u vinaj Eceva ibꞌii, qꞌesal oksan yol vatz Tioxh aas nitaleꞌ. Ech motx ichuli ibꞌanbꞌel vibꞌii u kuBꞌaal Jesuus tiꞌ tojchal el tioxhil txꞌiꞌliꞌinaj. Ech nichtal tzaꞌ: —Nivojcheꞌlaxh tibꞌii u Jesuus vaꞌl nipaxsa itziiul u Pablo.— Texh tu qꞌu tioxhil txꞌiꞌliꞌinaj. Pek atich unjolol qꞌu Israeel, til chaj koꞌxh nichpaalka, nichteesa tioxhil txꞌiꞌliꞌinaj kꞌatz aanima majte. Ayaꞌ jujvaꞌl qꞌul ikꞌaol maꞌl u vinaj Eceva ibꞌii, qꞌesal oksan yol vatz Tioxh aas nitaleꞌ. Ech motx ichuli ibꞌanbꞌel vibꞌii u kuBꞌaal Jesuus tiꞌ tojchal el tioxhil txꞌiꞌliꞌinaj. Ech nichtal tzaꞌ: —Nivojcheꞌlaxh tibꞌii u Jesuus vaꞌl nipaxsa itziiul u Pablo.— Texh tu qꞌu tioxhil txꞌiꞌliꞌinaj.
+44019014	
+44020011	Ech motx iqꞌaavjeꞌ tu u toxvaꞌ ichup u atibꞌal. Aꞌ imol u xiak vaꞌl chajpi, itzꞌlel tekuꞌen. Ech mam txuqꞌtxunchil inach qꞌu niman tetz u Jesuus aas til u txaichil tziꞌ. Ech motx ijatx u kaxhlaan txꞌix utz, techbꞌu. Utz sibꞌal koꞌn paj chusuꞌm iꞌana, sajbꞌu texh tuul. Ech tek ibꞌenaꞌ. Utz iqꞌol kꞌasuꞌl u xiak vaꞌl chajpi. Ech motx iqꞌaavjeꞌ tu u toxvaꞌ ichup u atibꞌal. Aꞌ imol u xiak vaꞌl chajpi, itzꞌlel tekuꞌen. Ech mam txuqꞌtxunchil inach qꞌu niman tetz u Jesuus aas til u txaichil tziꞌ. Ech motx ijatx u kaxhlaan txꞌix utz, techbꞌu. Utz sibꞌal koꞌn paj chusuꞌm iꞌana, sajbꞌu texh tuul. Ech tek ibꞌenaꞌ. Utz iqꞌol kꞌasuꞌl u xiak vaꞌl chajpi.
+44020012	
+44023026	—Cheentzikꞌaxh techalla governadoor Felix. Nunqꞌilabꞌenaxh in Claudio Liisias.
+44023027	Nunpaasa bꞌen u vinaj saatz tziꞌ. Tan vettxayax tu unjolol qꞌu Israeel utz, siꞌchmotxiyatzꞌeꞌ. Pek in ex eesan siatz. Aꞌ unmol unjolol sol. Tan vabꞌi aas bꞌennajs aa Roma.
+44023028	Ech viqꞌo bꞌen xoꞌl qꞌul iqꞌesal qꞌu Israeel qꞌuꞌl molich tibꞌ. Aꞌ unsaꞌ vootzajitaꞌ, kam tiꞌ nichmotxixochva.
+44023029	Utz ech viltaꞌ aas aꞌ nixochpik tiꞌ unjolol kam tiꞌ qꞌul imantaar tetz u tuqꞌaybꞌal. Pek yeꞌk maꞌj ipaav aas saꞌkojiꞌaneꞌ sayatzꞌax tiꞌ utz, nikoꞌxh saꞌkojkuꞌ tu preexhuil tiꞌ.
+44023030	Utz vetalax ve, aas nitaqꞌ kuꞌ xeem unjolol qꞌu Israeel tiꞌ u vinaj tziꞌ. Ech tokeꞌ nivaqꞌ opon tzaxeꞌ. Utz vetvallu tu qꞌu xochol tetz aas aꞌ sixochvu saatz kam ikuenta tuchꞌ. Liil iibꞌ, bꞌaꞌn koj paalkꞌaxh.— Texhtuꞌ. 
+45004004	Utz oya koꞌn niꞌan u Tioxh u taqꞌtu bꞌens bꞌaꞌn u aanima. Yitꞌ chooel koj. Pek tiꞌ koꞌn ikꞌujeꞌ ikꞌuꞌl u aa paav, u Tioxh vaꞌl niaqꞌon bꞌens bꞌaꞌn. Nikuyaxeꞌ, kꞌuxh yeꞌxhkam maꞌj niꞌan tiꞌ u bꞌaꞌnil vetikꞌullaꞌ. Tan yitꞌ tiꞌ koj qꞌu bꞌaꞌnil niꞌan u aanima aas nitaqꞌax bꞌens bꞌaꞌn tu u Tioxh. Yitꞌ ijaꞌmel koj tiꞌ vibꞌanoneꞌ. Ech koj bꞌanel taqꞌo u aqꞌonom aas nichool tiꞌ u taqꞌon. Tan yitꞌ oya koj u puaj nikꞌuleꞌ, pek ijaꞌmel tiꞌ u taqꞌon vetiꞌana. Utz oya koꞌn niꞌan u Tioxh u taqꞌtu bꞌens bꞌaꞌn u aanima. Yitꞌ chooel koj. Pek tiꞌ koꞌn ikꞌujeꞌ ikꞌuꞌl u aa paav, u Tioxh vaꞌl niaqꞌon bꞌens bꞌaꞌn. Nikuyaxeꞌ, kꞌuxh yeꞌxhkam maꞌj niꞌan tiꞌ u bꞌaꞌnil vetikꞌullaꞌ. Tan yitꞌ tiꞌ koj qꞌu bꞌaꞌnil niꞌan u aanima aas nitaqꞌax bꞌens bꞌaꞌn tu u Tioxh. Yitꞌ ijaꞌmel koj tiꞌ vibꞌanoneꞌ. Ech koj bꞌanel taqꞌo u aqꞌonom aas nichool tiꞌ u taqꞌon. Tan yitꞌ oya koj u puaj nikꞌuleꞌ, pek ijaꞌmel tiꞌ u taqꞌon vetiꞌana.
+45004005	
+45007021	Maꞌxh tek villaꞌ aas kꞌuxh niꞌxhvachva ibꞌanax qꞌu kam bꞌaꞌn, kꞌuxh aꞌ chit unsaꞌ tu u vaanima inimal u mantaar tetz u Tioxh, aal taꞌn paj nunbꞌan qꞌu kam yeꞌxtxoj. Maꞌxh tek villaꞌ aas kꞌuxh niꞌxhvachva ibꞌanax qꞌu kam bꞌaꞌn, kꞌuxh aꞌ chit unsaꞌ tu u vaanima inimal u mantaar tetz u Tioxh, aal taꞌn paj nunbꞌan qꞌu kam yeꞌxtxoj.
+45007022	
+45008012	Echixeꞌat nival sete hermanos, ech kala maꞌl kutxꞌoj atil xeꞌ u Tioxh. Ech kubꞌantaj qꞌu kam isaꞌ u Tioxhla Espiiritu. Yitꞌ aꞌ koj sakubꞌan qꞌu kam isaꞌ u chiꞌl vaꞌl yatzꞌeloꞌ niꞌan vatz Tioxh. Kusotzsataj qꞌu tachaꞌv u chiꞌl tiꞌ inimal u Tioxhla Espiiritu tan, aꞌ iqꞌaqꞌal u tiichajil tu bꞌenqꞌii bꞌensaj xeꞌ Tioxh. Echixeꞌat nival sete hermanos, ech kala maꞌl kutxꞌoj atil xeꞌ u Tioxh. Ech kubꞌantaj qꞌu kam isaꞌ u Tioxhla Espiiritu. Yitꞌ aꞌ koj sakubꞌan qꞌu kam isaꞌ u chiꞌl vaꞌl yatzꞌeloꞌ niꞌan vatz Tioxh. Kusotzsataj qꞌu tachaꞌv u chiꞌl tiꞌ inimal u Tioxhla Espiiritu tan, aꞌ iqꞌaqꞌal u tiichajil tu bꞌenqꞌii bꞌensaj xeꞌ Tioxh.
+45008013	
+45008038	Ech tiira nunnima aas yeꞌxhkam koꞌxh saꞌeesankaꞌoꞌ tiꞌ u Tioxh vaꞌl tiira tii qiꞌ tiqꞌaqꞌal u kuBꞌaal Cristo Jesuus: nikoꞌxh u kamchil; nikoꞌxh u vatz kuqꞌii kusaj; nikoꞌxh qꞌu aanjel; nikoꞌxh tioxhil txꞌiꞌliꞌinaj; nikoꞌxh aanxel tetz kam; nikoꞌxh qꞌu kam tu u tiempo cheel tzaꞌ utz; nikoꞌxh qꞌu kam qꞌuꞌl tuleꞌ; nikoꞌxh qꞌu kam tzian jeꞌnaj utz; nikoꞌxh qꞌu kam tzian koꞌp utz; nikoꞌxh maꞌj tu qꞌu kam ibꞌanoꞌm u Tioxh. Ech tiira nunnima aas yeꞌxhkam koꞌxh saꞌeesankaꞌoꞌ tiꞌ u Tioxh vaꞌl tiira tii qiꞌ tiqꞌaqꞌal u kuBꞌaal Cristo Jesuus: nikoꞌxh u kamchil; nikoꞌxh u vatz kuqꞌii kusaj; nikoꞌxh qꞌu aanjel; nikoꞌxh tioxhil txꞌiꞌliꞌinaj; nikoꞌxh aanxel tetz kam; nikoꞌxh qꞌu kam tu u tiempo cheel tzaꞌ utz; nikoꞌxh qꞌu kam qꞌuꞌl tuleꞌ; nikoꞌxh qꞌu kam tzian jeꞌnaj utz; nikoꞌxh qꞌu kam tzian koꞌp utz; nikoꞌxh maꞌj tu qꞌu kam ibꞌanoꞌm u Tioxh.
+45008039	
+45009002	Tiira nuntxumun tiꞌ qꞌu vitzꞌin vatzik qꞌuꞌl maꞌl unkajal tuchꞌ. Bꞌenamen atil maꞌl txumuꞌm tu vaanima tiꞌ qꞌu vetz aa tenamil. Tan yeꞌ ninima u Jesuus. Aal tek bꞌaꞌn tzꞌejel koj tzii viꞌ, xaansamalkojelin kꞌatz u Cristo, taꞌxhtzii samotxok kꞌatz u Jesuus. Tan tiiꞌin tiꞌ. Tiira nuntxumun tiꞌ qꞌu vitzꞌin vatzik qꞌuꞌl maꞌl unkajal tuchꞌ. Bꞌenamen atil maꞌl txumuꞌm tu vaanima tiꞌ qꞌu vetz aa tenamil. Tan yeꞌ ninima u Jesuus. Aal tek bꞌaꞌn tzꞌejel koj tzii viꞌ, xaansamalkojelin kꞌatz u Cristo, taꞌxhtzii samotxok kꞌatz u Jesuus. Tan tiiꞌin tiꞌ.
+45009003	
+45009011	Utz kꞌuxh yeꞌsajich titzꞌpu qꞌu talaj nitxaꞌ tziꞌ, yeꞌsajich tootzajit ibꞌanax u bꞌaꞌn u yeꞌ bꞌaꞌn, tal u Tioxh tu u Rebeca ech tzaꞌ: —Aatz u atzika, aal soꞌok jaqꞌ imantaar u tzaꞌqꞌa.— Texh te. Tiira titxumbꞌal u Tioxh elka aas abꞌil sabꞌanon u qꞌesalail te. Ech vatzsaj niꞌelka aas yitꞌ tiꞌ koj vibꞌanon u aanima niꞌenku u Tioxh tu vitxaaoneꞌ, pek tiira te niꞌelka abꞌiste nitxaaeꞌ. Utz kꞌuxh yeꞌsajich titzꞌpu qꞌu talaj nitxaꞌ tziꞌ, yeꞌsajich tootzajit ibꞌanax u bꞌaꞌn u yeꞌ bꞌaꞌn, tal u Tioxh tu u Rebeca ech tzaꞌ: —Aatz u atzika, aal soꞌok jaqꞌ imantaar u tzaꞌqꞌa.— Texh te. Tiira titxumbꞌal u Tioxh elka aas abꞌil sabꞌanon u qꞌesalail te. Ech vatzsaj niꞌelka aas yitꞌ tiꞌ koj vibꞌanon u aanima niꞌenku u Tioxh tu vitxaaoneꞌ, pek tiira te niꞌelka abꞌiste nitxaaeꞌ.
+45009012	
+45009029	Echaꞌ vaꞌl ibꞌaxabꞌsa talax u Isaias: —Yeꞌt koj itxaaka tereꞌn kutuꞌxh kuxalam u Tioxh, u Tioxh viBꞌaal qꞌu txijtxubꞌal tu amlika tziꞌ, bꞌoono kusotz koj; echaꞌ bꞌanax tu u tenam Sodoma. Utz, bꞌoono kuveet koj echaꞌ u Gomorra.— Chia.
+45010012	Tan yeꞌk tel qꞌu Israeel tuchꞌ qꞌu puera aanima vatz u Tioxh. Tan aꞌ u kuBꞌaal sukukajayil utz, sibꞌla bꞌaꞌnil nitaqꞌ kuꞌl tiꞌ qꞌu aanima qꞌuꞌl niqꞌilan nisikꞌlen.
+45010013	Ech sachitpu kajay qꞌu aanima qꞌuꞌl saqꞌilan sasikꞌlen vibꞌii u kuBꞌaal.
+45010017	Tan tiꞌ u tabꞌil u yolbꞌal Tioxh, nichee u kꞌujlebꞌal kꞌuꞌl tiꞌ u Tioxh. Ech, aꞌ vixeꞌal viyolbꞌal u Tioxh.
+45010020	Utz abꞌitaj viyol u Isaias majte tan, yeꞌk ixoꞌval nital ech tzaꞌ: —Aal aꞌ chabꞌanin qꞌu aanima qꞌuꞌl yeꞌ nichchokonin. Utz vetvaqꞌ tzii aas aꞌ saootzajin qꞌu aanima qꞌuꞌl aal yeꞌxhkam nichꞌoti abꞌil in.— Chia.
+45011009	Nital u Daviid majte: —Ikamebꞌal nimotxichok tu qꞌul inimla qꞌii nimotxiꞌaneꞌ. Tibꞌ nimotxiꞌan jeꞌ tuul. Echaꞌ u aanima vaꞌl nitaqꞌ kuꞌ ikꞌaa oj itrampa utz, anat sakuꞌ tuul. Ech inujul u choobꞌal paav saul tiꞌ.
+45011017	Pek kuentaꞌex; etalchile aas techal ex vatz qꞌu Israeel. Epaasach etibꞌ siiꞌ. Tan tiqꞌaqꞌal kuꞌen kꞌuxh txaklelex kꞌatz Tioxh. Tan aatz vaꞌl bꞌanax tu qꞌu Israeel, ela tuchꞌ vitzokꞌax el unjolol iqꞌabꞌaj u nojla olivo. Utz nichikax jeꞌ iqꞌabꞌ xoꞌl tzeꞌil olivo viꞌ vikuchmal. Tan aatz ex, ech ex u xoꞌl tzeꞌil olivo, aas aꞌ tek nietzanku kꞌatz u taꞌl u nojla olivo. Ech nachtaj tan, ech koꞌn ex qꞌu qꞌabꞌaj. Utz yitꞌ tiꞌ koj qꞌu qꞌabꞌaj atil qꞌu taqꞌil u tzeꞌ. Tan tiqꞌaqꞌal qꞌu taqꞌil u tzeꞌ atil qꞌu qꞌabꞌaj. Pek kuentaꞌex; etalchile aas techal ex vatz qꞌu Israeel. Epaasach etibꞌ siiꞌ. Tan tiqꞌaqꞌal kuꞌen kꞌuxh txaklelex kꞌatz Tioxh. Tan aatz vaꞌl bꞌanax tu qꞌu Israeel, ela tuchꞌ vitzokꞌax el unjolol iqꞌabꞌaj u nojla olivo. Utz nichikax jeꞌ iqꞌabꞌ xoꞌl tzeꞌil olivo viꞌ vikuchmal. Tan aatz ex, ech ex u xoꞌl tzeꞌil olivo, aas aꞌ tek nietzanku kꞌatz u taꞌl u nojla olivo. Ech nachtaj tan, ech koꞌn ex qꞌu qꞌabꞌaj. Utz yitꞌ tiꞌ koj qꞌu qꞌabꞌaj atil qꞌu taqꞌil u tzeꞌ. Tan tiqꞌaqꞌal qꞌu taqꞌil u tzeꞌ atil qꞌu qꞌabꞌaj.
+45011018	
+45013012	Aatz u paav tu u vatz amlika txꞌavaꞌ tzaꞌ vaꞌl echaꞌ maꞌl mam aqꞌbꞌal, saꞌtexhpaali. Utz ninajabꞌ u tulebꞌal u Jesuus, vaꞌl echaꞌ itoop qꞌii siꞌaneꞌ. Ech yeꞌ koꞌxh kubꞌan qꞌu paav tu u vatz txꞌavaꞌ tzaꞌ, echaꞌ niꞌan qꞌu aanima qꞌuꞌl tu uken atilku vatz Tioxh. Jikom chit etxumbꞌal sebꞌaneꞌ. Vatzsaj sebꞌan qꞌu kam, echaꞌ ipaal aanima qꞌiil epaal sapaalex. Yeꞌk sebꞌaneꞌ aas yeꞌk enoobꞌal tiꞌ echbꞌuꞌm. Nikoꞌxh saꞌkojqꞌabꞌanex. Nikoꞌxh eesaibꞌ tu bꞌey tuchꞌ ixoj. Nikoꞌxh viisio. Nikoꞌxh chꞌaꞌo. Utz nikoꞌxh chiꞌnaꞌnkꞌuꞌlil. Aatz u paav tu u vatz amlika txꞌavaꞌ tzaꞌ vaꞌl echaꞌ maꞌl mam aqꞌbꞌal, saꞌtexhpaali. Utz ninajabꞌ u tulebꞌal u Jesuus, vaꞌl echaꞌ itoop qꞌii siꞌaneꞌ. Ech yeꞌ koꞌxh kubꞌan qꞌu paav tu u vatz txꞌavaꞌ tzaꞌ, echaꞌ niꞌan qꞌu aanima qꞌuꞌl tu uken atilku vatz Tioxh. Jikom chit etxumbꞌal sebꞌaneꞌ. Vatzsaj sebꞌan qꞌu kam, echaꞌ ipaal aanima qꞌiil epaal sapaalex. Yeꞌk sebꞌaneꞌ aas yeꞌk enoobꞌal tiꞌ echbꞌuꞌm. Nikoꞌxh saꞌkojqꞌabꞌanex. Nikoꞌxh eesaibꞌ tu bꞌey tuchꞌ ixoj. Nikoꞌxh viisio. Nikoꞌxh chꞌaꞌo. Utz nikoꞌxh chiꞌnaꞌnkꞌuꞌlil.
+45013013	
+45014012	Ech tokeꞌ saꞌnalqal inujul sukujununil vatz u Tioxh kajay qꞌu kam vetkubꞌana.
+45015004	Tan jolol chusbꞌal qetz kajay qꞌu kam tzꞌibꞌalka tu u Yolbꞌal Tioxh koꞌxtene. Utz aqꞌol nimal kukꞌuꞌl, aqꞌol kupaciensia. Ech sakꞌujeꞌ kukꞌuꞌl tiꞌ ichꞌial tuchꞌ txuqꞌtxunchil.
+45015005	Utz u Tioxh koj aqꞌon epaciensia, aꞌ koj aqꞌon nimal ekꞌuꞌl tan, aꞌ u aqꞌol tetz. Utz aꞌ koj bꞌanon maꞌl etxumbꞌal setibꞌilaj, echaꞌ vaꞌl ikꞌuch u Cristo Jesuus.
+45015006	Ech maꞌl chit evatz setoksa iqꞌii u Tioxh, viTat u kuBꞌaal Jesucristo.
+45015010	Utz nipajtal u Yolbꞌal Tioxh ech tzaꞌ: —Chiꞌbꞌojex, tuchꞌ vitenam u Tioxh, ex puera aanima.— Chia.
+45015011	Utz nipajtaleꞌ: —Oksataj iqꞌii u kuBꞌaal Amlika kajay ex, ex puera aanima. Utz kajay ex tenam, tꞌanbꞌaꞌtaj vibꞌii.— Chia.
+45015012	Utz itzꞌibꞌa paj u Isaias ech tzaꞌ majte: —Saitzꞌpu maꞌl ituꞌxh ixalam u Isaii. Utz ijlenal tetz qꞌu tenam kajayil siꞌaneꞌ. Tan aꞌ u kꞌujlebꞌal ikꞌuꞌl qꞌu aanima.— Chia.
+46001001	Nunqꞌilabꞌenex kajay ex, ex niman tetz u Tioxh atilex tu u tenam Corinto. In Pablo, ichaj u Jesucristo sikꞌlemalin titxumbꞌal u Tioxh. Aꞌ unmol u hermano Soostenes nunqꞌilabꞌenex, kajay ex yeꞌkan epaav vatz u Tioxh tiqꞌaqꞌal visikꞌletꞌex u Cristo Jesuus kꞌatza. Antu nunqꞌila bꞌen majte, kajay qꞌuꞌl niqꞌilan sikꞌlen vibꞌii u kuBꞌaal Jesuus. Ayaꞌ u kuBꞌaal kajay oꞌ, kꞌuxh til chaj koꞌxh atilkꞌoꞌ. Nunqꞌilabꞌenex kajay ex, ex niman tetz u Tioxh atilex tu u tenam Corinto. In Pablo, ichaj u Jesucristo sikꞌlemalin titxumbꞌal u Tioxh. Aꞌ unmol u hermano Soostenes nunqꞌilabꞌenex, kajay ex yeꞌkan epaav vatz u Tioxh tiqꞌaqꞌal visikꞌletꞌex u Cristo Jesuus kꞌatza. Antu nunqꞌila bꞌen majte, kajay qꞌuꞌl niqꞌilan sikꞌlen vibꞌii u kuBꞌaal Jesuus. Ayaꞌ u kuBꞌaal kajay oꞌ, kꞌuxh til chaj koꞌxh atilkꞌoꞌ.
+46001002	
+46002010	Ech kꞌuxh vettaqꞌl eluꞌl qꞌu kam vatzsaj u Tioxh qe tziꞌ, tiqꞌaqꞌal koꞌn u Tioxhla Espiiritu tan; kajay tootzaj u Tioxhla Espiiritu; tootzajle qꞌu kam atil tu taanima u Tioxh.
+46005012	Utz aatz oꞌ, kꞌulel u Tioxhla Espiiritu qaqꞌo, vaꞌl xeꞌ Tioxh kꞌasnajkꞌul. Ech saqootzaji kam qetz aqꞌel tu u Tioxh tu vibꞌaꞌnil. Tan yitꞌ aꞌ koj kꞌulel qaqꞌo maꞌj aanxelal tu u vatz amlika txꞌavaꞌ tzaꞌ.
+46005013	Ech aꞌ niqal qꞌu kam qꞌuꞌl nital u Tioxhla Espiiritu qe kꞌuxh niqal qꞌu bꞌaꞌnil tziꞌ. Yitꞌ aꞌ koj nikutxakunsa qꞌu yol tiꞌ qꞌu txumbꞌal tu u vatz amlika txꞌavaꞌ tzaꞌ. Pek aꞌ nikuchus qꞌu kam nital u Tioxhla Espiiritu, tu qꞌuꞌl atil u Tioxhla Espiiritu kꞌatza majte.
+46010001	Utz nival sete hermanos, aas yeꞌk sesotzsa sekꞌuꞌl vaꞌl paalku qꞌu kukꞌuy kumam oꞌtene. Tan ela iqꞌol ibꞌey tuchꞌ u Moisees tu u Tioxh tu u sutzꞌ. Utz ela motx iran u Kaj Mar tuchꞌ u Moisees. Echaꞌ motx ibꞌan ivautiismo tuchꞌ u Moisees. Utz nival sete hermanos, aas yeꞌk sesotzsa sekꞌuꞌl vaꞌl paalku qꞌu kukꞌuy kumam oꞌtene. Tan ela iqꞌol ibꞌey tuchꞌ u Moisees tu u Tioxh tu u sutzꞌ. Utz ela motx iran u Kaj Mar tuchꞌ u Moisees. Echaꞌ motx ibꞌan ivautiismo tuchꞌ u Moisees.
+46010002	
+46014033	Tan jik koꞌxh niꞌan qꞌu kam u Tioxh xoꞌl qꞌu niman tetz u Jesuus; yitꞌ sotzsan kꞌuꞌl koj. Ech koj qꞌu ixoj, tiira jutzeꞌoj tu qꞌul emoliꞌb. Tan yitꞌ aqꞌel koj tzii te aas antu sayolon tu qꞌu moliꞌbꞌ. Pek nimanoj kuꞌen. Tan echat koꞌxh nital u oꞌtla mantaar majte. Tan jik koꞌxh niꞌan qꞌu kam u Tioxh xoꞌl qꞌu niman tetz u Jesuus; yitꞌ sotzsan kꞌuꞌl koj. Ech koj qꞌu ixoj, tiira jutzeꞌoj tu qꞌul emoliꞌb. Tan yitꞌ aqꞌel koj tzii te aas antu sayolon tu qꞌu moliꞌbꞌ. Pek nimanoj kuꞌen. Tan echat koꞌxh nital u oꞌtla mantaar majte.
+46014034	
+46015056	Tan aatz u yatzꞌbꞌal vaꞌl nikamsaneꞌ, ayaꞌ u paav. Utz u oꞌtla mantaar nikꞌuchun qe aas oꞌ aa paav.
+46015057	Pek taꞌntioxh tu u Tioxh tan, bꞌanel tek kanaal qaqꞌo, tiqꞌaqꞌal u kuBꞌaal Jesucristo.
+47001015	Uncheeꞌ aꞌ vaꞌl nichvitzꞌa kꞌuxh vetunbꞌan tiꞌ aas kaꞌpajul soꞌoponin tzexeꞌ tiꞌ etxuqꞌtxunsaleꞌ nivaleꞌ. Tan sapaalunqꞌilaꞌex bꞌaxa aas seꞌenin tikuenta Macedoonia. Utz ech saꞌpajpaalin tzexeꞌ aas laqꞌaavin unvala. Ech ex tek luꞌlchajpunkaꞌin aas leꞌenin tikuenta Judea. Utz selochꞌin tiꞌ kam vetz lunsavsa. Uncheeꞌ aꞌ vaꞌl nichvitzꞌa kꞌuxh vetunbꞌan tiꞌ aas kaꞌpajul soꞌoponin tzexeꞌ tiꞌ etxuqꞌtxunsaleꞌ nivaleꞌ. Tan sapaalunqꞌilaꞌex bꞌaxa aas seꞌenin tikuenta Macedoonia. Utz ech saꞌpajpaalin tzexeꞌ aas laqꞌaavin unvala. Ech ex tek luꞌlchajpunkaꞌin aas leꞌenin tikuenta Judea. Utz selochꞌin tiꞌ kam vetz lunsavsa.
+47001016	
+47006017	Echixeꞌat nital u kuBꞌaal ech tzaꞌ majte: —Xaanojelex tixoꞌl. Elojex. Yekanoꞌk qꞌu yeꞌxtxojla chaj kam tziꞌ, ech sunkꞌulex.
+47009007	Ech aꞌ setaqꞌeꞌ jankꞌal vaꞌl vetꞌok tetaanima setaqꞌeꞌ junun ex. Yitꞌ tuchꞌ koj txumuꞌm setaqꞌeꞌ. Utz yitꞌ yaꞌlumal koj ex nikubꞌaneꞌ. Tan tii u Tioxh tiꞌ qꞌuꞌl tuchꞌ txuqꞌtxunchil nitaqꞌ ikutxu.
+47009008	Satakꞌbꞌixsa kajayil vibꞌaꞌnil sekꞌatza tan, Mam Tioxh u Tioxh. Ech tiꞌ ibꞌanax qꞌu bꞌaꞌnla chaj kam tziꞌ, tzꞌajel iatz sachee tzexeꞌ, kam sesavsa bꞌenamen.
+47009009	Tan nital u Yolbꞌal Tioxh ech tzaꞌ: —Aatz u jikomla aanima, niꞌxhichajpeꞌl tetz; niloch qꞌu meꞌbꞌaꞌ. Utz bꞌenamen sailax vijikomil.— Chia.
+47009010	Tan u Tioxh vaꞌl niaqꞌon tia u chikol. Utz aꞌ niaqꞌon techbꞌubꞌal qꞌuꞌl nitechbꞌuneꞌ. Utz aꞌ saꞌaqꞌon kajay vaꞌl nesavsa. Aꞌ vaꞌl saꞌakꞌbꞌixsan ivatz qꞌul echikobꞌeꞌm. Ech saꞌxhetil iqꞌaqꞌal u jikomil nebꞌaneꞌ aas netaqꞌ ekutxu.
+47009011	Ech kaana etetz saꞌatin tiꞌ kajay kam. Utz kaana oya sebꞌaneꞌ. Ech saꞌxhkꞌamabꞌel u Tioxh tiꞌ vaꞌl nebꞌaneꞌ.
+47009012	Tan aatz u oya vaꞌl saqiqꞌo bꞌen xeꞌ qꞌu niman tetz u Jesuus tziꞌ, taꞌn koꞌnkoxh itxaꞌk aas siloch tiꞌ qꞌul imeꞌbꞌiꞌl. Pek aꞌ itxaꞌk majte aas sikꞌama Tioxh tiꞌ.
+47009013	Tan samotxtileꞌ aas bꞌaꞌn ichajpeꞌl etetz. Nekꞌucheꞌ aas nojchit nenima u bꞌaꞌnla chusbꞌal tetz u Cristo. Samotxtoksa iqꞌii u Tioxh tan, nelocheꞌ. Utz neloch tereꞌn niman tetz u Jesuus majte.
+47009014	Utz ayaꞌl chit ikꞌuꞌl samotxiqꞌila isikꞌle Tioxh setiꞌ. Tan nojchit atil u mam techalla ibꞌaꞌnil u Tioxh sekꞌatza.
+47009015	Utz ¡taꞌnchittioxh tu u Tioxh tan, vettaqꞌ maꞌl mam oya qe! ¡Yeꞌ nichee kuyol aas kan chaj ech ikꞌamabꞌel te sakubꞌaneꞌ!
+48001001	Nunqꞌilabꞌenex jankꞌal ex, ex niman tetz u Jesuus tikuenta Galaacia. Aꞌ unmol qꞌu niman tetz u Jesuus qꞌuꞌl atil sunkꞌatza, in Pablo ichaj u Jesucristo. Tan yitꞌ vinaj koj oksanin utz, yitꞌ vinaj koj chajonin. Pek u Jesucristo oksanin tuchꞌ u Tioxh. Ayaꞌ u kuTat vaꞌl qꞌaav itzꞌpixsan u Jesuus xoꞌl qꞌu kamnaj. Nunqꞌilabꞌenex jankꞌal ex, ex niman tetz u Jesuus tikuenta Galaacia. Aꞌ unmol qꞌu niman tetz u Jesuus qꞌuꞌl atil sunkꞌatza, in Pablo ichaj u Jesucristo. Tan yitꞌ vinaj koj oksanin utz, yitꞌ vinaj koj chajonin. Pek u Jesucristo oksanin tuchꞌ u Tioxh. Ayaꞌ u kuTat vaꞌl qꞌaav itzꞌpixsan u Jesuus xoꞌl qꞌu kamnaj.
+48001002	
+48003012	Tan aatz tu u oꞌtla mantaar, yitꞌ ministeer koj sakꞌujeꞌ ikꞌuꞌl qꞌu aanima tiꞌ u Tioxh. Tan aꞌ nital u oꞌtla mantaar aas: —Aatz u aanima vaꞌl nojchit soꞌoleꞌ tiꞌ itzojpil vaꞌl nital u mantaar, aꞌ vaꞌl siꞌitzꞌpu vatz Tioxh.— Texhtuꞌ.
+49001015	Echixeꞌat bꞌenamen nunkꞌama Tioxh setiꞌ. Nunnachpixsaꞌex tunqꞌilat unsikꞌlet Tioxh chajpaj. Tan nivabꞌi aas tiira kꞌujlel ekꞌuꞌl tiꞌ u kuBꞌaal Jesuus. Utz tiira tiiꞌex setibꞌilaj majte ex niman tetz u Jesuus. Echixeꞌat bꞌenamen nunkꞌama Tioxh setiꞌ. Nunnachpixsaꞌex tunqꞌilat unsikꞌlet Tioxh chajpaj. Tan nivabꞌi aas tiira kꞌujlel ekꞌuꞌl tiꞌ u kuBꞌaal Jesuus. Utz tiira tiiꞌex setibꞌilaj majte ex niman tetz u Jesuus.
+49001016	
+49002011	Atoj sekꞌuꞌl aas yeꞌkich ex kꞌatz u Cristo maꞌx tiempo. Tan yitꞌ ex koj Israeel, yitꞌ ex koj itenam u Tioxh bꞌanel. Ech tokeꞌ yeꞌk etokebꞌal tiꞌ u nukꞌuꞌm vaꞌl iꞌan u Tioxh tuchꞌ vitenam. Nikoꞌxh tiꞌ qꞌu kam tala sataqꞌeꞌ. Kam koj maꞌj bꞌaꞌnil nichechꞌia. Utz aꞌich koj etioxh u itzꞌlich Tioxh. Tan ex qꞌu aanima qꞌuꞌl “yitꞌ tzokꞌel koj el bꞌiil echiꞌl” nital qꞌu Israeel qꞌuꞌl tzokꞌel el bꞌiil ichiꞌl. Ech yitꞌ ex koj itenam Tioxh vatz qꞌu Israeel. Atoj sekꞌuꞌl aas yeꞌkich ex kꞌatz u Cristo maꞌx tiempo. Tan yitꞌ ex koj Israeel, yitꞌ ex koj itenam u Tioxh bꞌanel. Ech tokeꞌ yeꞌk etokebꞌal tiꞌ u nukꞌuꞌm vaꞌl iꞌan u Tioxh tuchꞌ vitenam. Nikoꞌxh tiꞌ qꞌu kam tala sataqꞌeꞌ. Kam koj maꞌj bꞌaꞌnil nichechꞌia. Utz aꞌich koj etioxh u itzꞌlich Tioxh. Tan ex qꞌu aanima qꞌuꞌl “yitꞌ tzokꞌel koj el bꞌiil echiꞌl” nital qꞌu Israeel qꞌuꞌl tzokꞌel el bꞌiil ichiꞌl. Ech yitꞌ ex koj itenam Tioxh vatz qꞌu Israeel.
+49002012	
+49004009	Utz kam koj tok nitaleꞌ aas: —bꞌenjeꞌ.— Chia. Pek tan, bꞌaxal nal koꞌp jaqꞌ txꞌavaꞌ tu vikameꞌ.
+50001021	Pek oj atil vatz unqꞌii saj, txꞌanel tan, aꞌ unmol u Cristo. Utz aal tereꞌn saaqꞌonin tiꞌ. Pek kankojtuꞌ majte untzꞌoj sakamin tiꞌ. Aal techal tan, aꞌ sunbꞌan kanaal u atinchil bꞌenamen kꞌatz u Cristo. Ech tiira ela bꞌaꞌn utz, yeꞌ tek vootzaj abꞌiste suntxay te. Pek oj atil vatz unqꞌii saj, txꞌanel tan, aꞌ unmol u Cristo. Utz aal tereꞌn saaqꞌonin tiꞌ. Pek kankojtuꞌ majte untzꞌoj sakamin tiꞌ. Aal techal tan, aꞌ sunbꞌan kanaal u atinchil bꞌenamen kꞌatz u Cristo. Ech tiira ela bꞌaꞌn utz, yeꞌ tek vootzaj abꞌiste suntxay te.
+50001022	
+50002001	Hermanos, txuqꞌtxunsatajin tu vebꞌanoneꞌ. Echaꞌ tziꞌ untzꞌoj sekꞌucheꞌ aas nojchit nitaqꞌ nimal ekꞌuꞌl u Cristo tiꞌ ibꞌanax qꞌu kam bꞌaꞌn. Echaꞌ tziꞌ untzꞌoj sekꞌucheꞌ aas nilochꞌex tiꞌ ebꞌantu tii setibꞌilaj. Echaꞌ tziꞌ untzꞌoj sekꞌucheꞌ aas atil u Tioxhla Espiiritu sekꞌatza. Utz echaꞌ tziꞌ untzꞌoj sekꞌucheꞌ aas netxum ivatz emol. Aꞌ vekꞌuchtaꞌ aas maꞌl koꞌn etxumbꞌal sebꞌaneꞌ. Tiira ela tiiꞌex setibꞌilaj. Maꞌl koꞌn evatz utz, ela maꞌl koꞌn sekꞌaj tiꞌ. Hermanos, txuqꞌtxunsatajin tu vebꞌanoneꞌ. Echaꞌ tziꞌ untzꞌoj sekꞌucheꞌ aas nojchit nitaqꞌ nimal ekꞌuꞌl u Cristo tiꞌ ibꞌanax qꞌu kam bꞌaꞌn. Echaꞌ tziꞌ untzꞌoj sekꞌucheꞌ aas nilochꞌex tiꞌ ebꞌantu tii setibꞌilaj. Echaꞌ tziꞌ untzꞌoj sekꞌucheꞌ aas atil u Tioxhla Espiiritu sekꞌatza. Utz echaꞌ tziꞌ untzꞌoj sekꞌucheꞌ aas netxum ivatz emol. Aꞌ vekꞌuchtaꞌ aas maꞌl koꞌn etxumbꞌal sebꞌaneꞌ. Tiira ela tiiꞌex setibꞌilaj. Maꞌl koꞌn evatz utz, ela maꞌl koꞌn sekꞌaj tiꞌ.
+50002002	
+50002007	Pek ichꞌoobꞌixsa tibꞌ. Taqꞌka u txꞌanella atinchil tu Amlika. Utz vetibꞌensa tibꞌs vinaj. Vettaqꞌ bꞌens tibꞌ niman Tioxh. Utz aal taqꞌ paj tibꞌ tu u kamchil vatz kurus tiꞌ vinimal u Tioxh. Pek ichꞌoobꞌixsa tibꞌ. Taqꞌka u txꞌanella atinchil tu Amlika. Utz vetibꞌensa tibꞌs vinaj. Vettaqꞌ bꞌens tibꞌ niman Tioxh. Utz aal taqꞌ paj tibꞌ tu u kamchil vatz kurus tiꞌ vinimal u Tioxh.
+50002008	
+50002029	Kꞌultaj tuchꞌ txuqꞌtxunchil uncheeꞌ tan, kumol tiꞌ u kuBꞌaal. Utz tiiꞌex tiꞌ tan, nojchit kul kam tiꞌ inimal u Cristo. Tu tzaꞌl vetpaalka utz, kul kam tiꞌ ilochtꞌin tiꞌ qꞌu kam nunsavsa, aas ul iꞌan evatzil tiꞌ unlochleꞌ. Ech tiiꞌex tiꞌ. Utz tiiꞌex tiꞌ qꞌu niman tetz u Jesuus majte qꞌuꞌl ech tziꞌ. Kꞌultaj tuchꞌ txuqꞌtxunchil uncheeꞌ tan, kumol tiꞌ u kuBꞌaal. Utz tiiꞌex tiꞌ tan, nojchit kul kam tiꞌ inimal u Cristo. Tu tzaꞌl vetpaalka utz, kul kam tiꞌ ilochtꞌin tiꞌ qꞌu kam nunsavsa, aas ul iꞌan evatzil tiꞌ unlochleꞌ. Ech tiiꞌex tiꞌ. Utz tiiꞌex tiꞌ qꞌu niman tetz u Jesuus majte qꞌuꞌl ech tziꞌ.
+50002030	
+51003001	Aꞌ chit setitzꞌa qꞌu kam tu Amlika tan, itzꞌpinajtekꞌex kꞌatz u Cristo. Utz ayeꞌn u Cristo tu Amlika, kꞌujlel tisebꞌal u Tioxh. Pek yitꞌ aꞌ koj setizꞌa ibꞌanax qꞌu kam yeꞌxtxoj tetz u vatz txꞌavaꞌ tzaꞌ. Aꞌ chit setitzꞌa qꞌu kam tu Amlika tan, itzꞌpinajtekꞌex kꞌatz u Cristo. Utz ayeꞌn u Cristo tu Amlika, kꞌujlel tisebꞌal u Tioxh. Pek yitꞌ aꞌ koj setizꞌa ibꞌanax qꞌu kam yeꞌxtxoj tetz u vatz txꞌavaꞌ tzaꞌ.
+51003002	
+51003006	Utz nikuꞌ vikꞌaꞌnal u Tioxh tiꞌ qꞌu aanima qꞌuꞌl niꞌan ech tziꞌ. Utz exich bꞌanol tetz qꞌu paav vetiꞌanka atziꞌ, aas atichꞌex tu qꞌul epaav. Utz nikuꞌ vikꞌaꞌnal u Tioxh tiꞌ qꞌu aanima qꞌuꞌl niꞌan ech tziꞌ. Utz exich bꞌanol tetz qꞌu paav vetiꞌanka atziꞌ, aas atichꞌex tu qꞌul epaav.
+51003007	
+53001001	Aatz in, in Pablo, aꞌ unmol u Silvano tuchꞌ u Timoteo, nunqꞌilabꞌenex, ex niman tetz u Jesuus atilex tu Tesaloonica, jankꞌil ex atoꞌkꞌex kꞌatz u Tioxh u kuTat utz, kꞌatz u kuBꞌaal Jesucristo. Ech aꞌ koj aqꞌon vibꞌaꞌnil sete. Utz aꞌ koj oksan u paas tetaanima. Aatz in, in Pablo, aꞌ unmol u Silvano tuchꞌ u Timoteo, nunqꞌilabꞌenex, ex niman tetz u Jesuus atilex tu Tesaloonica, jankꞌil ex atoꞌkꞌex kꞌatz u Tioxh u kuTat utz, kꞌatz u kuBꞌaal Jesucristo. Ech aꞌ koj aqꞌon vibꞌaꞌnil sete. Utz aꞌ koj oksan u paas tetaanima.
+53001002	
+53002016	Pek u kuBꞌaal Jesucristo tuchꞌ u Tioxh u kuTat, laaqꞌon nimal ekꞌuꞌl tiꞌ qꞌu bꞌaꞌnla chaj kam nebꞌaneꞌ utz, netaleꞌ. Tan vetiꞌan tii qiꞌ tiꞌ vibꞌaꞌnil. Vettaqꞌ kꞌujlebꞌal kukꞌuꞌl utz, nimal kukꞌuꞌl yeꞌk iyaꞌeꞌ. Taqꞌka nimal kukꞌuꞌl bꞌaꞌnil tiꞌ ichꞌial tuchꞌ txuqꞌtxunchil. Pek u kuBꞌaal Jesucristo tuchꞌ u Tioxh u kuTat, laaqꞌon nimal ekꞌuꞌl tiꞌ qꞌu bꞌaꞌnla chaj kam nebꞌaneꞌ utz, netaleꞌ. Tan vetiꞌan tii qiꞌ tiꞌ vibꞌaꞌnil. Vettaqꞌ kꞌujlebꞌal kukꞌuꞌl utz, nimal kukꞌuꞌl yeꞌk iyaꞌeꞌ. Taqꞌka nimal kukꞌuꞌl bꞌaꞌnil tiꞌ ichꞌial tuchꞌ txuqꞌtxunchil.
+53002017	
+54006003	Tzꞌejxinaj u aanima oj paarten chusbꞌal nichusunka aas yeꞌ nikꞌul tibꞌ tuchꞌ viyolbꞌal u kuBꞌaal Jesucristo utz, tuchꞌ qꞌu bꞌaꞌnla chusbꞌal vaꞌl nichus u okchil kꞌatz Tioxh. Paat yeꞌxhkam nitel itxumbꞌal tu u yolbꞌal Tioxh atziꞌ. Jeꞌnaj iatz. Utz aꞌ chit atil kꞌatza u achva xhaakaluibꞌ tiꞌaj yol; ech tekuꞌen aꞌ iyaabꞌil. Tan aatz tu vaꞌl niꞌan qꞌu aanima tziꞌ, chiꞌkꞌulaibꞌ nichee taqꞌo, chꞌaꞌo, yoqꞌoibꞌ, suyu kam tiꞌ imol. Tzꞌejxinaj u aanima oj paarten chusbꞌal nichusunka aas yeꞌ nikꞌul tibꞌ tuchꞌ viyolbꞌal u kuBꞌaal Jesucristo utz, tuchꞌ qꞌu bꞌaꞌnla chusbꞌal vaꞌl nichus u okchil kꞌatz Tioxh. Paat yeꞌxhkam nitel itxumbꞌal tu u yolbꞌal Tioxh atziꞌ. Jeꞌnaj iatz. Utz aꞌ chit atil kꞌatza u achva xhaakaluibꞌ tiꞌaj yol; ech tekuꞌen aꞌ iyaabꞌil. Tan aatz tu vaꞌl niꞌan qꞌu aanima tziꞌ, chiꞌkꞌulaibꞌ nichee taqꞌo, chꞌaꞌo, yoqꞌoibꞌ, suyu kam tiꞌ imol.
+54006004	
+54006013	Nima vaꞌl nival see tzaꞌ. Niꞌxhval see vatz u Tioxh, u itzꞌpixsan tetz qꞌu kam kajayil. Utz vatz u Jesucristo nival see majte, vaꞌl tal vinujul tu u Pilato. Ayansach iibꞌ tu u paav. Ech yeꞌxhkam saꞌalax saiꞌ, ul nal koꞌxh u kuBꞌaal Jesucristo. Nima vaꞌl nival see tzaꞌ. Niꞌxhval see vatz u Tioxh, u itzꞌpixsan tetz qꞌu kam kajayil. Utz vatz u Jesucristo nival see majte, vaꞌl tal vinujul tu u Pilato. Ayansach iibꞌ tu u paav. Ech yeꞌxhkam saꞌalax saiꞌ, ul nal koꞌxh u kuBꞌaal Jesucristo.
+54006014	
+55004001	Aatz cheel, tiira niꞌxhunjaj see vatz Tioxh utz, vatz u kuBꞌaal Jesucristo aas saꞌxhapaxsa itziiul viyolbꞌal. Saꞌan yaꞌl iibꞌ tiꞌ talax tu qꞌu aanima kꞌuxh sasaꞌli, kꞌuxh yeꞌk sasaꞌli. Atoj apaciensia tiꞌ toksal yol tiviꞌ qꞌu aanima, tiꞌ ayaat tu u yolbꞌal Tioxh utz, tiꞌ aaqꞌt itxumbꞌal tu qꞌu bꞌaꞌnla chusbꞌal. Bꞌan ech tziꞌ tuul yeꞌsaj tul u kuBꞌaal Jesucristo tu viQꞌesalail vaꞌl satxꞌolon inujul kajay qꞌu aanima kꞌuxh itzꞌlele utz, kꞌuxh maꞌt ikameꞌ. Aatz cheel, tiira niꞌxhunjaj see vatz Tioxh utz, vatz u kuBꞌaal Jesucristo aas saꞌxhapaxsa itziiul viyolbꞌal. Saꞌan yaꞌl iibꞌ tiꞌ talax tu qꞌu aanima kꞌuxh sasaꞌli, kꞌuxh yeꞌk sasaꞌli. Atoj apaciensia tiꞌ toksal yol tiviꞌ qꞌu aanima, tiꞌ ayaat tu u yolbꞌal Tioxh utz, tiꞌ aaqꞌt itxumbꞌal tu qꞌu bꞌaꞌnla chusbꞌal. Bꞌan ech tziꞌ tuul yeꞌsaj tul u kuBꞌaal Jesucristo tu viQꞌesalail vaꞌl satxꞌolon inujul kajay qꞌu aanima kꞌuxh itzꞌlele utz, kꞌuxh maꞌt ikameꞌ.
+55004002	
+57001019	Utz in sachoon see, in Pablo. Nivaqꞌ unqul tuul tu u uꞌ vaꞌl tuchꞌ unqꞌabꞌ nuntzꞌibꞌa tzaꞌ. Kꞌuxh aal atil atxꞌoj tzunxeꞌ tiꞌ vaꞌl bꞌanel see vaqꞌo vatz u kuBꞌaal. Ech txuqꞌtxunsaꞌin hermano utz, chiꞌbꞌixsa u vaanima tiꞌ u kuBꞌaal tu u bꞌaꞌnil vaꞌl nunjaj see tzaꞌ. Utz in sachoon see, in Pablo. Nivaqꞌ unqul tuul tu u uꞌ vaꞌl tuchꞌ unqꞌabꞌ nuntzꞌibꞌa tzaꞌ. Kꞌuxh aal atil atxꞌoj tzunxeꞌ tiꞌ vaꞌl bꞌanel see vaqꞌo vatz u kuBꞌaal. Ech txuqꞌtxunsaꞌin hermano utz, chiꞌbꞌixsa u vaanima tiꞌ u kuBꞌaal tu u bꞌaꞌnil vaꞌl nunjaj see tzaꞌ.
+57001020	
+58001014	Tan jolol koꞌn aanxel ichaj Tioxh kajay qꞌu aanjel atziꞌ. Utz nichajax ul tiꞌ ilochax qꞌuꞌl saetzan tiꞌ u chitpichil tu paav vatz Tioxh.
+58002009	Pek niqil u Jesuus. Tibꞌaꞌnil Tioxh atil tu u mam tijleꞌm cheel, tu u mam tokebꞌal iqꞌii, kꞌuxh chꞌooich maꞌl tiempo vatz qꞌu aanjel tiloneꞌ. Tan taqꞌ tibꞌ u Jesuus ul kamoj qiꞌ taqꞌo kajay oꞌ. Ulpaaloj tu u kamchil.
+58002013	Utz nipajtal ech tzaꞌ majte: —Taꞌxh maꞌl kꞌujlebꞌal unkꞌuꞌl u Tioxh.— Chia. Utz nipajchittaleꞌ: —Aꞌ tek unmol cheel qꞌul unkꞌaol qꞌuꞌl vettaqꞌ u Tioxh ve.— Chia.
+58003007	Echtzixeꞌt nital u Tioxhla Espiiritu tu u Yolbꞌal Tioxh ech tzaꞌ: —Yeꞌ etiibꞌixsa qꞌul etaanima tan, niqꞌilaꞌex u Tioxh cheel. Yeꞌ ebꞌan etetz echaꞌ qꞌu aanima qꞌuꞌl vet sikꞌuꞌl iqel u Tioxh aas bꞌanax provaal isubꞌax tu u paav tu u tzꞌinlich tzaji txꞌavaꞌ. Echtzixeꞌt nital u Tioxhla Espiiritu tu u Yolbꞌal Tioxh ech tzaꞌ: —Yeꞌ etiibꞌixsa qꞌul etaanima tan, niqꞌilaꞌex u Tioxh cheel. Yeꞌ ebꞌan etetz echaꞌ qꞌu aanima qꞌuꞌl vet sikꞌuꞌl iqel u Tioxh aas bꞌanax provaal isubꞌax tu u paav tu u tzꞌinlich tzaji txꞌavaꞌ.
+58003008	
+58003011	Echtzixeꞌt val tu kꞌaꞌnal aas: «Yitꞌ saꞌkojmotxꞌul tu ilanbꞌal vaqꞌo.» Texhin.— Chia.
+58004004	Tan nital u Yolbꞌal Tioxh tiꞌ u ilanbꞌal qꞌii ech tzaꞌ: —Ilan u Tioxh tiꞌ kajay qꞌu taqꞌon tu u jujvaꞌ qꞌii.— Chia.
+58004005	Utz nipajchittal majte: —Yitꞌ saꞌkojokoꞌp tu u ilaꞌm.— Chia.
+58005006	Utz nipajtal tu u Yolbꞌal Tioxh ech tzaꞌ: —Bꞌenamen axh oksan yol sunvatz. Aꞌ ex iiqꞌo tetz u Melquisedeec.— Chia.
+58006004	Tan atil aanima aas inima u bꞌaꞌnla chusbꞌal utz, kꞌulel u oya taqꞌo vaꞌl nitaqꞌ u Tioxh. Nachel u Tioxhla Espiiritu taqꞌo. Techal chit nibꞌenku u yolbꞌal Tioxh te. Utz techal chit u chusbꞌal nitabꞌi, vaꞌl tiꞌ qꞌu kam xeꞌ u Tioxh taabꞌabꞌen. Loqꞌ kꞌuxh echi, nikoꞌnikuꞌ tu paav. Utz aatz qꞌuꞌl ech niꞌan tziꞌ, saꞌtereꞌnkojveet ikꞌultu u kuybꞌal kꞌatz u Tioxh. Tan aatz tu qꞌul ibꞌanoneꞌ tziꞌ, ela koꞌxh tuchꞌ niqꞌaavtaqꞌ jeꞌ viKꞌaol u Tioxh vatz kurus; nipajteesa iqꞌii. Tan atil aanima aas inima u bꞌaꞌnla chusbꞌal utz, kꞌulel u oya taqꞌo vaꞌl nitaqꞌ u Tioxh. Nachel u Tioxhla Espiiritu taqꞌo. Techal chit nibꞌenku u yolbꞌal Tioxh te. Utz techal chit u chusbꞌal nitabꞌi, vaꞌl tiꞌ qꞌu kam xeꞌ u Tioxh taabꞌabꞌen. Loqꞌ kꞌuxh echi, nikoꞌnikuꞌ tu paav. Utz aatz qꞌuꞌl ech niꞌan tziꞌ, saꞌtereꞌnkojveet ikꞌultu u kuybꞌal kꞌatz u Tioxh. Tan aatz tu qꞌul ibꞌanoneꞌ tziꞌ, ela koꞌxh tuchꞌ niqꞌaavtaqꞌ jeꞌ viKꞌaol u Tioxh vatz kurus; nipajteesa iqꞌii. Tan atil aanima aas inima u bꞌaꞌnla chusbꞌal utz, kꞌulel u oya taqꞌo vaꞌl nitaqꞌ u Tioxh. Nachel u Tioxhla Espiiritu taqꞌo. Techal chit nibꞌenku u yolbꞌal Tioxh te. Utz techal chit u chusbꞌal nitabꞌi, vaꞌl tiꞌ qꞌu kam xeꞌ u Tioxh taabꞌabꞌen. Loqꞌ kꞌuxh echi, nikoꞌnikuꞌ tu paav. Utz aatz qꞌuꞌl ech niꞌan tziꞌ, saꞌtereꞌnkojveet ikꞌultu u kuybꞌal kꞌatz u Tioxh. Tan aatz tu qꞌul ibꞌanoneꞌ tziꞌ, ela koꞌxh tuchꞌ niqꞌaavtaqꞌ jeꞌ viKꞌaol u Tioxh vatz kurus; nipajteesa iqꞌii.
+58006005	
+58006006	
+58007009	Aal antu qꞌu Levii, ichoo idiesmo tu u Melquisedeec majte. Tan kꞌuxh yeꞌsajich titzꞌpu qꞌul ituꞌxh ixalam u Abrahaam aas ex kꞌulaxoj tu u Melquisedeec, ikꞌam qꞌu Levii tiꞌ vaꞌl iꞌan u Abrahaam. Tan taqꞌ idiesmo u Abrahaam te, kꞌuxh aal aꞌ qꞌu kꞌulul diesmo cheel qꞌu Levii. Ayaꞌ qꞌul ituꞌxh ixalam u Abrahaam. Aal antu qꞌu Levii, ichoo idiesmo tu u Melquisedeec majte. Tan kꞌuxh yeꞌsajich titzꞌpu qꞌul ituꞌxh ixalam u Abrahaam aas ex kꞌulaxoj tu u Melquisedeec, ikꞌam qꞌu Levii tiꞌ vaꞌl iꞌan u Abrahaam. Tan taqꞌ idiesmo u Abrahaam te, kꞌuxh aal aꞌ qꞌu kꞌulul diesmo cheel qꞌu Levii. Ayaꞌ qꞌul ituꞌxh ixalam u Abrahaam.
+58007010	
+58008006	Pek paalchu u tijleꞌm u Jesuus vaꞌl vetikꞌul vatz u tetz qꞌu oksan yol tziꞌ tan, oksan yol tiꞌ u nukꞌuꞌm vaꞌl tiira techal, paalchu vatz u oꞌtla mantaar. Ech tiira techal qꞌu kam tal u Tioxh tu u akꞌ nukꞌuꞌm tziꞌ.
+58009021	Itzꞌitu ok kaj u Moisees tiꞌ u bꞌuꞌj totztioxh majte tuchꞌ tiꞌ kajay qꞌu kambꞌal nitxakun tuul.
+58009022	Tan nichtal u oꞌtla mantaar aas kajay qꞌu kam ministeer satzꞌitul ok kaj tiꞌ. Utz saꞌkojkuyax qꞌu paav oj yeꞌk kajal saok tiꞌ ijajax u kuybꞌal.
+58010018	Echtzixeꞌt taꞌxhtuꞌ aꞌ vaꞌl nikuylu u paav. Yeꞌkan nisaveꞌ saꞌpajok vaꞌt txꞌoloꞌm tiꞌ u paav.
+58012007	Ech qꞌiꞌtaj vetoksal tu jik. Ech nojchit ex ikꞌaol imeꞌal Tioxh taqꞌo. Tan kajay kꞌaol meꞌala nitoksal tu jik tu qꞌul itxutx ibꞌaal.
+58012008	Tan oj yeꞌ nitoksaꞌex u Tioxh tu jik, yitꞌ nojla koj ex ikꞌaol imeꞌal atziꞌ. Pek sikꞌelkoꞌnex bꞌanel tenan. Tan kajay oꞌ niqoksal tu jik.
+58012009	Echaꞌ u qatin kꞌatz kutxutx kubꞌaal. Nichtoksaꞌoꞌ tu jik aas oꞌich talaj chꞌoo. Utz atil tatin sukuvatz taqꞌo. ¡Ech aal maas sakunima u kuTat tu Amlika! Tan aꞌ u ilol tetz u qaanxelal. Utz aꞌ vaꞌl saꞌaqꞌon u tiichajil qe tu bꞌenqꞌii bꞌensaj.
+58013006	Echtzixeꞌt saveeti kꞌujlebꞌal kꞌuꞌl saqaleꞌ: —Yeꞌxhkam sunxoꞌva, kꞌuxh kam koꞌxh sabꞌanax ve tan, aꞌ lochol vetz u kuBꞌaal Amlika.— Chajoꞌ.
+58013020	Uncheeꞌ u Tioxh koj aqꞌon etxumbꞌal tiꞌ ibꞌanax kajay qꞌu bꞌaꞌnla chaj kam. Ech aꞌ sebꞌaneꞌ kam vaꞌl isaꞌ. Utz ech siꞌaneꞌ kam visaꞌ setiꞌ, tiqꞌaqꞌal u kuBꞌaal Jesucristo. Tan aꞌ vixeꞌal u paas u Tioxh. Aꞌ vaꞌl qꞌaav itzꞌpixsan u Jesuus xoꞌl qꞌu kamnaj, u bꞌaꞌnla ilol tetz qꞌu niman tetz, echaꞌ u bꞌaꞌnla xeen karneꞌl. Tan tuchꞌ vikajal nitzojpi vaꞌl tal tu u nukꞌuꞌm tetz bꞌenamen. Ech tetz u techalil u Tioxh bꞌenamen tziꞌ, ech koꞌxh ibꞌenaꞌ yeꞌk iyaꞌeꞌ. Aꞌi. Uncheeꞌ u Tioxh koj aqꞌon etxumbꞌal tiꞌ ibꞌanax kajay qꞌu bꞌaꞌnla chaj kam. Ech aꞌ sebꞌaneꞌ kam vaꞌl isaꞌ. Utz ech siꞌaneꞌ kam visaꞌ setiꞌ, tiqꞌaqꞌal u kuBꞌaal Jesucristo. Tan aꞌ vixeꞌal u paas u Tioxh. Aꞌ vaꞌl qꞌaav itzꞌpixsan u Jesuus xoꞌl qꞌu kamnaj, u bꞌaꞌnla ilol tetz qꞌu niman tetz, echaꞌ u bꞌaꞌnla xeen karneꞌl. Tan tuchꞌ vikajal nitzojpi vaꞌl tal tu u nukꞌuꞌm tetz bꞌenamen. Ech tetz u techalil u Tioxh bꞌenamen tziꞌ, ech koꞌxh ibꞌenaꞌ yeꞌk iyaꞌeꞌ. Aꞌi.
+58013021	
+59002002	Tan echaꞌ tzuta. Bꞌaꞌn siꞌaneꞌ aas tuul molel etibꞌ, soꞌokoꞌp maꞌj txꞌiiol iqꞌii texoꞌl, aꞌ bꞌoj bꞌaꞌnla qꞌan chꞌichꞌ ixkol qꞌabꞌ atoꞌk taqꞌo utz, bꞌaꞌnla oksaꞌm atoꞌk taqꞌo majte. Ech taꞌxh setileꞌ aas techal qꞌu toksaꞌm, txꞌanel setileꞌ. Utz setal te ech tzaꞌ: —Niꞌaxh, kuꞌen tu u bꞌaꞌnla kꞌujlebꞌal tzuta.— Chajex te. Tuul soꞌokoꞌp vaꞌt aanima aas meꞌbꞌaꞌ, qꞌaꞌl oksaꞌm. Utz setal te ech tzaꞌ: —Niꞌaxh, txakach koꞌxh bꞌoj tzuta.— Chajex te. Oj yitꞌ iꞌ utz: —Kꞌujach kuꞌen vatz txꞌavaꞌ.— Chajex te. Tan echaꞌ tzuta. Bꞌaꞌn siꞌaneꞌ aas tuul molel etibꞌ, soꞌokoꞌp maꞌj txꞌiiol iqꞌii texoꞌl, aꞌ bꞌoj bꞌaꞌnla qꞌan chꞌichꞌ ixkol qꞌabꞌ atoꞌk taqꞌo utz, bꞌaꞌnla oksaꞌm atoꞌk taqꞌo majte. Ech taꞌxh setileꞌ aas techal qꞌu toksaꞌm, txꞌanel setileꞌ. Utz setal te ech tzaꞌ: —Niꞌaxh, kuꞌen tu u bꞌaꞌnla kꞌujlebꞌal tzuta.— Chajex te. Tuul soꞌokoꞌp vaꞌt aanima aas meꞌbꞌaꞌ, qꞌaꞌl oksaꞌm. Utz setal te ech tzaꞌ: —Niꞌaxh, txakach koꞌxh bꞌoj tzuta.— Chajex te. Oj yitꞌ iꞌ utz: —Kꞌujach kuꞌen vatz txꞌavaꞌ.— Chajex te.
+59002003	
+59002009	Ech oj atil tel aanima sevatz, tu paav nikuꞌkꞌex. Utz atil epaav vatz u Tioxh tiꞌ iqelax vimantaar.
+59002010	Tan oj atil maꞌj aanima aas tiira ninima kajay qꞌu mantaar, pek tuchꞌ koꞌxh maꞌj sayolpika, vetiqellu qꞌu mantaar kajayil atziꞌ.
+59002011	Tan aatz u Tioxh vaꞌl alon aas: —Eteesach etibꞌ tu bꞌey tuchꞌ aanima yitꞌ ekꞌulel koj.— Chia. Ankoꞌxh vaꞌl alon aas: —Yatzꞌonichꞌex.— Texh majte. Ech tokeꞌ kꞌuxh yeꞌk sateesa tibꞌ maꞌl aanima tu bꞌey tuchꞌ aanima yitꞌ ikꞌulel koj, pek sayatzꞌoni, vetiqellu u mantaar atziꞌ.
+59002012	Ech kuentaꞌex tiꞌ vaꞌl netaleꞌ utz, vaꞌl nebꞌaneꞌ. Tan saꞌnaltxꞌolax kunujul vatz u mantaar tetz chitpichil vaꞌl atilkꞌoꞌ. Tan chitpinajtekꞌoꞌ cheel.
+59002013	Utz aatz u aanima vaꞌl yeꞌxh bꞌoj txumu vatz tzixeꞌ, saꞌkojtxumlu bꞌoj iatz majte aas latxꞌolax inujul kajay qꞌu aanima tu u Tioxh. Tan aatz qꞌu aanima qꞌuꞌl nitxum iatz imol, bꞌaꞌn saelku vatz qꞌuꞌl taꞌxh nitxꞌol inujul ipaav aanima.
+59004006	Ech u Tioxh salochonoꞌ, oꞌ niman tetz. Saꞌxhtaqꞌ vimam bꞌaꞌnil qe. Tan nital tu viYolbꞌal ech tzaꞌ: —Yeꞌ isaꞌ qꞌu tꞌanbꞌaꞌnibꞌ u Tioxh; pek niloch qꞌuꞌl maanxho.— Chia.
+59004007	Ech oksataj etibꞌ tiꞌ inimal u Tioxh. Yeꞌ qeonex tu u txꞌiꞌliꞌinaj utz, toj oojoj bꞌen sekꞌatza atziꞌ.
+59004008	Xaanojokꞌex kꞌatz u Tioxh, ech saxaan ok sekꞌatza majte. Aqꞌtajka qꞌu paav nebꞌaneꞌ. Bꞌantaj txꞌaatxꞌoch tatin qꞌul etaanima siatz, abꞌiste ex kaꞌl tiqꞌol sebꞌan netxumeꞌ.
+59004009	Ilinojex tiꞌ qꞌu paav nebꞌaneꞌ. Utz kꞌaybꞌojex. Vatzil etzeꞌneꞌ; oqꞌojex tiꞌ ikꞌaxaleꞌ. Vatzil etxuqꞌtxuneꞌ; txumunojex.9
+59004010	Aqꞌtaj kuꞌ etibꞌ vatz u Tioxh; ech sitꞌanbꞌaꞌex.
+60002008	Utz nipajtal majte: —Aatz u Sivan tziꞌ, sauch olqꞌichil el tiꞌ; savalkꞌixsani.— Chia. Utz aꞌ u tolqꞌeꞌl qꞌu aanima aas niqeloneꞌ, yeꞌ niqꞌiꞌ vaꞌl nital u Yolbꞌal Tioxh. Loqꞌ ech chit sayaꞌk tiꞌ qꞌu kam niꞌaneꞌ.
+60003013	Ech abꞌil koj maꞌj tech setiꞌ oj tiira taꞌxh netitzꞌa ibꞌanax qꞌu kam bꞌaꞌn.
+60004019	Ech aatz qꞌuꞌl nipaal tu tzaꞌl, titxumbꞌal u Tioxh kꞌuxh nipaal tuul. Loqꞌ kꞌuxh echi, iꞌan tereꞌn u bꞌaꞌnil. Toksa u taanxelal tiqꞌabꞌ u Tioxh vaꞌl bꞌanonoꞌ. Utz siꞌan inujul qꞌu kam.
+60005006	Ech oksataj etibꞌ jaqꞌ vitxumbꞌal u Mam Tioxh vaꞌl kajay atil tiqꞌabꞌ. Ech sitꞌanbꞌaꞌex tu u tiempo toj iꞌaneꞌ.
+60005007	Aqꞌtajka tiqꞌabꞌ u Tioxh oj netelaꞌ etokeꞌ. Tan nititzꞌaꞌex; atil setiꞌ.
+62001001	Aatz u Jesuus, atichnale aas yeꞌsajich ichee u vatz amlika txꞌavaꞌ. Utz ul u Aqꞌol Tiichajil sukuvatz tziꞌ. Qil tuchꞌ kuvatz. Abꞌimal iyolon qaqꞌo. Nojchit qootzaji u Jesuus, u Aqꞌol Tiichajil tan, kukanoꞌk tuchꞌ kuqꞌabꞌ. Echixeꞌat nikutxakbꞌaꞌ qibꞌ tiꞌ talaxeꞌ. Niqal u Aqꞌol Tiichajil sete tziꞌ vaꞌl bꞌenqꞌii bꞌensaj tatineꞌ. Aꞌ atichku xeꞌ u kuBꞌaals Amlika, pek ul sukuvatz. Aatz u Jesuus, atichnale aas yeꞌsajich ichee u vatz amlika txꞌavaꞌ. Utz ul u Aqꞌol Tiichajil sukuvatz tziꞌ. Qil tuchꞌ kuvatz. Abꞌimal iyolon qaqꞌo. Nojchit qootzaji u Jesuus, u Aqꞌol Tiichajil tan, kukanoꞌk tuchꞌ kuqꞌabꞌ. Echixeꞌat nikutxakbꞌaꞌ qibꞌ tiꞌ talaxeꞌ. Niqal u Aqꞌol Tiichajil sete tziꞌ vaꞌl bꞌenqꞌii bꞌensaj tatineꞌ. Aꞌ atichku xeꞌ u kuBꞌaals Amlika, pek ul sukuvatz.
+62001002	
+66004009	Aatz qꞌu itzꞌlich tziꞌ, nimotxtal vitechalil u Tioxh vaꞌl kꞌujlele utz, ibꞌenaꞌ ibꞌen koꞌxh u tatineꞌ. Nimotxtoksa iqꞌii. Utz nimotxikꞌamabꞌe qꞌu kam te kajayil. Ech koꞌxh niꞌan chajpaj.
+66004010	Aatz u 24 qꞌesala, nimotxipecheꞌ vatz u Tioxh vaꞌl kꞌujlel tu u kꞌujlebꞌal tetz qꞌesala. Nitoksa iqꞌii. Nimotxteesa qꞌul ikoroona tiviꞌ utz, nimotxtaqꞌ kuꞌ siatz tan, ibꞌenaꞌ ibꞌen koꞌxh u tatineꞌ. Nimotxtal ech tzaꞌ:
+66014009	Ech yolon vaꞌt u aanjel tiꞌ; vitoxvaꞌ tekuꞌen. Utz qetun taltu ech tzaꞌ: —Abꞌil soꞌoksan iqꞌii u xaꞌebꞌalla txokop, sikꞌul u mam choobꞌal paav tetz vikꞌaꞌnal u Tioxh vaꞌl molel koꞌn taqꞌo. Antu sakꞌulun qꞌuꞌl saoksan iqꞌii vitzꞌajich vatzibꞌal utz, qꞌuꞌl sataqꞌ tzii soꞌok u techlal tipala oj tiꞌ iqꞌabꞌ. Utz ech saꞌxhtulebꞌe qꞌu aanima tu xamal tuchꞌ tu pultinajla qꞌol vatz qꞌul iaanjel xaannaj el kꞌatz paav utz, vatz u Chelem Karneꞌl majte. Ech yolon vaꞌt u aanjel tiꞌ; vitoxvaꞌ tekuꞌen. Utz qetun taltu ech tzaꞌ: —Abꞌil soꞌoksan iqꞌii u xaꞌebꞌalla txokop, sikꞌul u mam choobꞌal paav tetz vikꞌaꞌnal u Tioxh vaꞌl molel koꞌn taqꞌo. Antu sakꞌulun qꞌuꞌl saoksan iqꞌii vitzꞌajich vatzibꞌal utz, qꞌuꞌl sataqꞌ tzii soꞌok u techlal tipala oj tiꞌ iqꞌabꞌ. Utz ech saꞌxhtulebꞌe qꞌu aanima tu xamal tuchꞌ tu pultinajla qꞌol vatz qꞌul iaanjel xaannaj el kꞌatz paav utz, vatz u Chelem Karneꞌl majte.
+66014010	
