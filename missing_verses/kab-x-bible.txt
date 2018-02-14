@@ -1,23 +1,23 @@
-40012047
-40014001
-40015001
-40020001
-42023051
-44010036
-44019001
-44023001
-45008039
-45009012
-45015024
-46010001
-47001014
-47012004
-60001011
-61002018
-61002019
-61002020
-62005008
-66002028
-66004003
-66008011
-66014020
+40012047	
+40014001	Di lweqt-nni, Hiṛudus i gḥekmen ɣef tmurt n Jlili mi gesla s Sidna Ɛisa
+40015001	Kra ifariziyen, d kra n imusnawen n ccariɛa, usan-d si temdint Lquds ɣer Sidna Ɛisa nnan-as:
+40020001	Tagelda n igenwan teṭṭemcabi ɣer yiwen numɛellem yeffɣen ṣṣbeḥ zik, iwakken a d-yawi ixeddamen ara d-yekksen tiẓurin di tfeṛṛant-is.
+42023051	
+44010036	
+44019001	#? fehlt nach http://studybible.info/Kabyle/Acts%2019, http://gospelgo.com/f/kabyle.htm und http://unbound.biola.edu
+44023001	#? fehlt siehe oben
+45008039	
+45009012	
+45015024	
+46010001	
+47001014	
+47012004	
+60001011	
+61002018	#? fehlt nach anderen Übersetzungen (s.o) auch. z.B. http://biblehub.com/kab/2_peter/2.htm
+61002019	#? fehlt nach anderen Übersetzungen (s.o) auch. z.B. http://biblehub.com/kab/2_peter/2.htm
+61002020	#? fehlt nach anderen Übersetzungen (s.o) auch. z.B. http://biblehub.com/kab/2_peter/2.htm
+62005008	
+66002028	
+66004003	Ma d win ara inekkṛen ayagi ɣef Sidna Ɛisa, mačči s ɣuṛ Ṛebbi i d-yekka lameɛna yekka-d si Ṛṛuḥ n weɛdaw n Lmasiḥ i ɣef teslam a d-yas ɣer ddunit, atan tura yella yakan di ddunit.
+66008011	
+66014020	
