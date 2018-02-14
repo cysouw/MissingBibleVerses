@@ -1,241 +1,241 @@
-40006014
-40006015
-40011011
-40011012
-40011013
-40011014
-40011015
-40011018
-40011019
-40013014
-40013016
-40013017
-40022045
-40022046
-40026032
-41001004
-41001005
-41001006
-41001007
-41001008
-41007008
-41009049
-41012037
-41014028
-42007028
-42007033
-42007034
-42007035
-42020018
-42020044
-42023031
-43012014
-43012041
-43016001
-43016002
-43016003
-43016004
-43017002
-43017003
-43017004
-43017005
-43017006
-43017007
-43017008
-43017009
-43017010
-43017011
-43017012
-43017013
-43017014
-43017015
-43017016
-43017017
-43017018
-43017019
-43017020
-43017021
-43017022
-43017023
-43017024
-43017025
-43017026
-43019001
-43019002
-43019003
-44001021
-44001022
-44004012
-44004027
-44004028
-44004029
-44004030
-44008001
-44013034
-44013035
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023027
-44023028
-44023029
-44023030
-45003001
-45003002
-45003003
-45003004
-45008037
-45008038
-45008039
-45009016
-45009017
-45009018
-45009026
-45010019
-45010020
-45010021
-45011009
-45012021
-45014012
-45015001
-45015002
-45015003
-45015004
-45015010
-45015011
-45015012
-45016003
-45016004
-45016005
-45016006
-45016007
-45016008
-45016009
-45016010
-45016011
-45016012
-45016013
-45016014
-45016015
-45016016
-46002010
-46015033
-46015034
-46015056
-46015057
-47009010
-47009011
-47013001
-47013002
-47013003
-47013004
-48004001
-48004002
-48004003
-48004004
-48004005
-48004006
-48004007
-48005001
-48005002
-48005003
-48005004
-48005005
-48005006
-49004009
-49004010
-49004011
-49004012
-49004013
-51002001
-51002002
-51002003
-51002004
-51002005
-51004001
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002009
-58002013
-58004004
-58004005
-58004008
-58004009
-58004010
-58004011
-58005006
-58007022
-58010008
-58010009
-58010010
-58010017
-58010018
-58010039
-58013006
-60002007
-60002008
-60002023
-60002024
-60002025
-60005006
-60005007
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002009
-66002010
-66002011
-66002013
-66002014
-66002015
-66002016
-66002017
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
-66004009
-66004010
-66005014
-66007011
-66007012
-66011016
-66011017
-66016007
-66017006
-66019003
+40006014	Kaaz ef unu paadn piipl we du unu rang, unu Faada we iina evn wi paadn unu tu.
+40006015	Bot ef unu no paadn piipl, unu faada naa go paadn unu wen unu du rang.
+40011011	Mek mi tel unu dis, Jan di Baptis biga dan enibadi we eva baan fram wan uman. Bot iivn di luowis sumadi iina Gad kindom, biga dan im.”
+40011012	Fram Jan a priich til nou, wikid piipl a chrai fait gens Gad kindom an powaful piipl chrai fi fuos an tek it uova.
+40011013	Kaaz aal a di prafit dem, an Muoziz Laa tu, did taak bout wa a-go apm rait op tu Jan taim.
+40011014	An ef unu redi fi tek we mi a se, den ier we mi a se, Jan a Ilaija, di prafit unu a wiet fa.
+40011015	Enibadi we av iez — beta lisn gud!
+40011018	Kaaz Jan di Baptis neva kom a nyam an a jringk, bot dem se, ‘Diiman iina im.’
+40011019	Di Man we Gad Pik kom a nyam an a jringk, an dem se, ‘Luk ya, da man ya krievn an im a jongkad. Fi im fren dem a taks kalekta an sina!’ Di piipl we fala di rait wie pruuv se Gad waiz an im wie rait.”
+40013014	So wa Gad did mek Aizaiya se, dem piipl ya mek it kom chuu. Aizaiya did se: “‘Unu wi lisn gud gud, bot unu wi neva andastan, Unu wi luk aad aad, bot stil unu naa go siit.
+40013016	Bot Gad bles fuunu yai an iez dem, kaa dem si an ier!
+40013017	Kaaz mi a tel unu dis, an a chuu mi de taak, nof prafit an piipl we du rait did wel waahn fi si wa unu si, an ier wa unu ier bot dem neehn si ar ier it.
+40022045	So ef Dievid kaal im ‘Laad,’ ou im fi bi Dievid pikni? iihn?”
+40022046	Nobadi kudn se notn, an fram da die de, nobadi no iivn tingk fi aks im notn muo.
+40026032	Bot afta mi kom bak alaiv, mi a-go go iina Gyalalii bifuo unu.”
+41001004	So Jan di Baptis staat fi priich iina di dezot an se piipl fi ton we fram dem sin, get baptaiz, an Gad wi paadn dem fi aal di rang we dem du.
+41001005	Piipl fram aal uova Judiya an evribadi we liv iina Jeruusilem did a go tu im. Wen dem si se dem a sina, an sari fi di rang we dem du, im baptaiz dem iina di Riva Jaadn.
+41001006	Jan kluoz did mek outa kyamil ier wid wan leda belt roun im wies. An fi im fuud im nyam graasapa an oni we im fain iina di dezot.
+41001007	Jan tel di piipl dem se, “Sumadi muo powaful dan mi a kom an mi no iivn gud inof fi pul di chrap pan im slipaz.
+41001008	Mi baptaiz unu iina waata, bot im a-go baptaiz unu wid di Uoli Spirit.”
+41007008	Unu eng aan tu unu uol taim sitn dem we kom fram unu faada faada dem, bot unu no pie no main tu wa Gad se unu fi du.”
+41009049	Bot faiya a-go bon an kliin op evribadi.
+41012037	Bot faiya a-go bon an kliin op evribadi.
+41014028	Bot afta mi kom bak alaiv, mi a-go go iina Gyalalii bifuo unu.”
+42007028	Mek mi tel unu dis, Jan biga dan enibadi we eva baan. Bot iivn di luowis sumadi iina Gad kindom, biga dan im.”
+42007033	Kaaz Jan di Baptis neva kom a nyam no bred an a jringk no wain, bot unu se, ‘Diiman iina im.’
+42007034	Di Man we Gad Pik kom a nyam an a jringk, an unu se, ‘Luk ya, da man ya krievn an im a wan jongkad. Fiim fren dem a taks kalekta an sina.’
+42007035	Di piipl we fala di rait wie pruuv se Gad waiz an im wie rait.”
+42020018	Evribadi we jrap pan da stuon ya a-go brok op iina piisiz, an uu it jrap pan a-go mash op bad.”
+42020044	Dievid kaal im ‘Laad.’ So ou im fi bi Dievid pikni?”
+42023031	Ef piipl du dem sitn ya wen chrii griin, wa a-go apm wen it jrai op?”
+43012014	Jiizas fain wan yong dangki an sidong pan it. Nou wa apm, apm siem laka ou it rait dong iina Gad wod. It se,
+43012041	Aizaiya se dem sitn ya, kaaz im did si ou Krais big an powaful. Im did si an taak bout im.
+43016001	“Mi a tel unu dem sitn ya so dat unu no tap biliiv iina mi.
+43016002	Dem a-go ron unu outa di Juu dem Choch. Di taim aal a kom wen sumadi a-go kil unu an tingk se dem a du sitn gud fi Gad.
+43016003	Dem a-go du aal a dem sitn ya, kaa dem no nuo mi ar mi Faada.
+43016004	Mi a tel unu dem sitn ya, so dat wen di taim kom, unu wi memba se mi did waan unu. “Mi neehn tel unu bout aal a dem sitn ya fram di staat, kaa mi did stil de mongks unu.
+43017002	Kaa yu gi yu Bwai Pikni powa uova evribadi, so dat im kyan mek di piipl dem we yu gi tu im liv fi eva.
+43017003	Fi liv fi eva miin se dem nuo yu, di onggl wan we a riili Gad, an dat dem nuo Jiizas Krais, di wan yu sen kom.
+43017004	Mi shuo piipl pan ort ou yu big an powaful, wen mi du di wok we yu did gi mi fi du.
+43017005	So, Faada, rait we yu de nou, mek mi get nof rispek, di sed kain-a rispek mi did av wen mi did de de wid yu fram bifuo di worl did mek.
+43017006	“Di piipl dem fram outa di worl we yu gi mi, mi shuo dem a uu yu bi. Dem did a fi yu bot yu gi mi dem, an dem fala we yu tel dem fi du.
+43017007	Nou dem nuo se evriting we mi av kom fram yu,
+43017008	kaa mi tel dem bak evriting we yu tel mi an dem biliiv it. Dem nuo fi shuor se a yu mi kom fram an dem biliiv se a yu sen mi kom.
+43017009	“Mi a prie fi dem. Mi naa prie fi di worliyan dem. Mi a prie fi dem we yu gi mi, kaa dem a fi yu.
+43017010	Aal a we mi av a fi yu, an aal a we yu av a fi mi. An dem shuo ou mi big an powaful.
+43017011	“Mi naa go de iina di worl no langga. Mi a kom tu yu, bot dem stil a-go de iina di worl. Faada we uoli, yuuz yu powa an gyaad dem — di powa we yu gi mi — yuuz it an gyaad dem, so dem kyan ton wan, siem laka ou mi an yu a wan.
+43017012	Wen mi did de mongks dem, mi yuuz yu powa fi gyaad an kip dem sief — di powa we yu did gi mi. Non a dem neehn laas, onggl di wan we did baan fi ded an go a el. An dis ya apm so dat wa Gad wod se wuda kom chuu.
+43017013	“Mi a kom a yu nou, bot mi a se aal a dem sitn ya wail mi stil iina di worl, so dat dem kyan api kyaahn don jos laka ou mi api.
+43017014	Mi tel dem we yu tel mi fi tel dem, an di worliyan dem iet dem, kaa, jos laka mi, dem no worliyan.
+43017015	Mi naa prie an aks yu fi tek dem outa di worl, bot dat yu fi gyaad dem fram di wikid wan.
+43017016	Dem no worliyan siem laka ou mi no worliyan.
+43017017	Yuuz di chuut mek dem liv fi yu. Fi yu mesij a di chuut.
+43017018	Siem laka ou yu sen mi kom iina di worl, a siem wie so mi sen dem iina di worl.
+43017019	A siek-a dem mek mi gi op miself fi sorv yu. Mi dwiit so dem mait-a riili riili gi op demself fi sorv yu tu.
+43017020	“Mi naa prie fi dem falara ya wan. Mi a prie fi dem we a-go biliiv iina mi wen dem ier wa dem falara ya se.
+43017021	Faada, mi prie se aal a dem kom tugeda iina wan, siem laka ou yu liv iina mi an mi liv iina yu. An mi prie tu se dem wi liv iina mi an yu, so dat di worliyan dem kyan biliiv se a yu sen mi kom.
+43017022	Mi gi dem di uol iip a rispek yu did gi mi so dat dem kyan kom wan jos laka ou mi an yu a wan:
+43017023	mi iina dem an yu iina mi — so dem kyan komiin laka wan, an so di piipl dem iina di worl mait-a nuo se a yu sen mi kom, an dat yu lov mi falara dem siem laka ou yu lov mi.
+43017024	“Faada, mi waahn di piipl dem we yu gi mi fi de eniwe mi de, so dat dem kyan si di uol iip a rispek we yu gi mi, kaa yu lov mi fram bifuo di worl did mek.
+43017025	“Faada, we eva du rait, iivn duo di piipl dem iina di worl no nuo yu, mi nuo yu, an dem piipl ya nuo se a yu sen mi kom ya.
+43017026	Mi mek dem nuo yu, an mi a-go gwaan mek dem nuo yu, so dat dem mait-a kyan lov dem wan aneda siem laka ou yu did lov mi, an so mi kyan liv iina dem.”
+43019001	Den Pailat tek Jiizas an mek im suoja dem biit im.
+43019002	Dem tek makabush mek kroun put it pan im ed. Den, dem jres im op iina porpl ruob.
+43019003	Dem go op tu im, uova an uova agen an se tu im se, “Manaz an rispek tu di Juu dem King!” An dem baks im iina im fies uova an uova agen.
+44001021	So wan a di man dem we did de de wid wi aal di taim wen di Laad Jiizas did a muuv mongks wi,
+44001022	fram wen Jan did staat baptaiz tu di taim wen Gad tek im op a evn, wi niid wan a dem man de fi jain op wid wi an tel piipl se Jiizas kom bak alaiv.”
+44004012	A onggl Jiizas wan kyan siev piipl, an a fiim niem Gad gi piipl. Nobadi els iina di uol worl kyaahn siev yu.”
+44004027	Wi nuo fi shuor se a so it go, kaaz Erad, Ponchos Pailat, piipl we a no Juu, an di Izrel piipl miit op iina da siti ya an plan fi kil Jiizas, yu sorvant we uoli.
+44004028	Dem kom tugeda fi du aal wa yu did don plan se wuda apm an it apm da wie de kaaz a yu powa an kaaz dat a wa yu did waahn fi apm.
+44004029	So Laad, luk pan ou dem a chretn wi! Elp yu sorvant dem fi pred yu mesij an no fried a notn.
+44004030	Yuuz yu powa an mek piipl beta. An mek wi yuuz di niem a yu sorvant Jiizas fi du som powaful mirikl an som sain.”
+44008001	An Saal did de de an im did biliiv se dem did rait fi kil Stiivn. Da die de wan torbl sofarieshan tek di choch iina Jeruusilem. An aal a di biliiva dem did get skyata skyata aal uova Judiya an Samieriya. Onggl di apasl dem neva get skyata skyata.
+44013034	Gad mek Krais Jiizas ded an kom bak alaiv, an im kyaahn ded agen. An dis a wa Gad did se bout dat: “ ‘Mi a-go elp yu an gi yu di siem speshal pramis we mi did gi Dievid.’
+44013035	An it rait dong wan neks plies se: “ ‘Yu naa go mek yu sorvant we aalwiez du we yu waahn im fi du ded an ratn.’
+44015024	Wi ier se som man fram wi gruup kom a mek chobl fi unu an a chrai fi mes op unu ed wid di sitn dem we dem a tiich, bot wi neva sen dem, ar wi neva gi dem no rait fi du wa dem a du.
+44015025	So aal a wi mek op wi main fi pik som man an sen dem tu unu wid wi gud gud fren dem, Baanabas an Paal.
+44015026	Dem tuu man ya nieli ded a du di wok we wi Laad Jiizas Krais gi dem fi du.
+44015027	So wi a sen Juudas an Sailas wid dem fi tel unu wid dem uona mout di siem sitn wa wi rait iina da leta ya.
+44015028	Di Uoli Spirit tingk se it bes fi wi no put no muo presha pan unu dan wa wi bout fi tel unu nou, an wi tingk so tu.
+44015029	Unu no fi nyam no fuud we piipl tek bon sakrifais gi faalz gad, no nyam ar jringk no blod, no nyam miit fram animal we eng ar we blod neva bliid out wen dem ded. Unu fi kip we fram aal saat a seks sin. Ef unu kip we fram aal a dem sitn de, unu a du di rait ting. Unu tek kier.
+44023027	Di Juu dem kyapcha da man ya an did out fi kil im. Bot wen mi lorn se im did kom fram Ruom, mi get wan gruup a suoja an go siev im fram dem.
+44023028	Sins mi did waahn fi nuo wa rang dem did se im did du, mi kyari im go dong tu dem liida.
+44023029	Mi fain se som a di Juu dem did a aagyu wid im bout som sitn fi du wid dem Laa, bot im neehn du notn fi wi kil im ar lak im op fa.
+44023030	Wen mi lorn se dem did a set op wan siikrit plan fi kil di man, mi sen im tu yu siem taim an aada im enimi dem fi kom tu yu kom saat out dem prablem.
+45003001	So den, piipl mait-a aks, wa gud it du wi, fi bi wan Juu? Wa wi get we di piipl dem we a no Juu no get? Wa gud it du wi fi get sorkomsaiz?
+45003002	An mi wuda tel dem se it gud fi bi wan Juu, a nof difrant sitn wi get, we elp wi iina nof difrant wie. Fos, a wi Gad did gi im Wod tu — a wi im chos wid im mesij.
+45003003	Nou som a di Juu dem brok dem pramis an neva fala wa Gad wod se. So wa unu tingk? Unu tingk se kaaz dem de piipl de brok dem pramis, Gad naa go du wa im se im wuda du?
+45003004	Notn kyaahn go so! Gad wi aalwiez du wa im se im a-go du, iivn wen piipl lai an se dem du wa dem did pramis fi du. It aal rait dong iina Gad wod se: “Evritaim Gad taak, piipl wi si se wa im a se a chuu sopm. No mata wa piipl se gens Gad, a Gad a-go win.”
+45008037	Bot no mata we apm ar wa wi go chuu, Krais Jiizas, di wan we lov wi wi kaaz wi fi muor dan win.
+45008038	Kaaz mi nuo fi shuor se notn at aal kyan mek Krais Jiizas tap lov wi. It no mata ef wi ded ar wi alaiv, im naa tap lov wi. No ienjel, ruula ar powa iina evn kyan tap im fram lov wi. Notn we a apm nou an notn we a-go apm, wi mek im tap lov wi.
+45008039	Mi nuo fi shuor se, notn we de wie op iina di skai ar we de anda di ort kyan mek im tap lov wi. Az a matarafak, notn we Gad mek, notn at aal kyan tek we di lov we kom fram Gad an we Krais Jiizas shuo wi.
+45009016	So den Gad no pik piipl bies pan wa dem waahn ar pan we dem du; Gad pik piipl bies pan uu im waahn fi gud an kain tu.
+45009017	Iina Gad wod it rait dong se Gad se tu Fiero se, “Dis a wai mi mek yu ton king: mi mek yu ton king so dat mi kuda yuuz yu fi shuo piipl ou powaful mi bi an so dat piipl aal uova di worl wuda nuo bout mi.”
+45009018	So den Gad gud an kain tu uu im waahn fi gud an kain tu an ef im waahn fi mek sumadi ton dem aat gens im, im wi mek dem ton dem aat gens im.
+45009026	 An siem plies wich paat Gad se tu dem se, ‘Unu a no fi mi pikni’ a da siem plies de Gad, Gad we alaiv, a-go kaal dem im pikni.”
+45010019	So den mek mi aks unu sopm els: Di Izrel piipl dem, a andastan dem neva andastan? Dem did andastan, yes, bot dem neva waahn fi fala wa dem ier. Fos, Muoziz did tel dem we Gad did se. Gad se, “Mi a-go du tingz fi di piipl dem we a no Juu, we a-go kaaz unu fi bad main dem; an unu a-go beks kaaz a wa mi du fi di piipl we unu tingk fuul-fuul.”
+45010020	Den Aizaiya tel dem plien plien we Gad did se, im tel dem se Gad se, “Di piipl we neva did a luk fi mi, a dem fain mi; di piipl we neva did a aks fi mi, a dem mi mek nuo mi.”
+45010021	Dat a wa im se bout di piipl we a no Juu, bot dis a wa im se bout di Izrel piipl dem, “Uol die lang, mi av mi an dem uopm, redi fi welkom dem piipl ya we naa fala wa mi se an we eva a go gens mi.”
+45011009	An Dievid did se, “Mi prie se Gad wi set wan chrap fi dem an kech dem wen dem a av dem big big iit op. Gad, mek dem faal dong an ponish dem fi di rang we dem du;
+45012021	No mek wikidnis biit yu bot biit wikidnis wid gud.
+45014012	So den evribadi afi go ansa tu Gad fi demself.
+45015001	Nou wi we chrang iina wa wi biliiv, wi fi tek taim wid an elp di wan dem we wiik. Wi no fi jos du di sitn dem we wi waahn an wa wi mek wi api.
+45015002	Insted-a dat mek evri wan a wi du di sitn dem we wi mek wi breda an sista api, mek wi du di sitn dem we gud fi dem an wa wi elp fi bil dem op.
+45015003	Iivn Krais Jiizas neva du di sitn dem we im du fi mek imself api. It rait iina Gad wod dat Jiizas se tu Gad se, “Wen piipl chat bad bout yu an shiem yu, aal we dem se bout yu, dem riili a se bout mi tu.”
+45015004	Evriting we rait dong iina Gad wod, rait dong fi tiich wi an fi elp push wi fi tan op chrang an no gi op so dat wi kyan gwaan luk fi get di sitn dem we Gad pramis wi.
+45015010	Wan neks paat se: “Aal di piipl we a no Juu get api an priez Gad wid im piipl di Juu dem.”
+45015011	An wan neda paat se: “Priez di Laad aal a unu we a no Juu, an mek evribadi evriwe priez im.”
+45015012	An iina wan neda paat a Gad wod, Aizaiya se: “Sumadi fram Jesi fambili a-go kom, an im a-go ruul uova di piipl we a no Juu, an dem a-go luk fi im gi dem aal we im pramis fi gi dem.”
+45016003	Tel Priska an Akwila oudi fi mi. Dem wok wid mi fi Jiizas Krais
+45016004	an dem put demself iina siiros chobl fi mi — dem did redi fi ded fi mi. Mi kyaahn tangk dem inof, an a no jos mi a tel dem tangks bot aal a di piipl we go a di choch dem fi piipl we a no Juu, a tangk dem tu.
+45016005	Di uol a di piipl dem we gyada fi choch a Priska an Akwila ous, tel dem oudi fi mi tu. Mi gud gud fren Epiniitos tel im oudi fi mi. Im a did di fos wan iina Iezha fi biliiv iina Jiizas Krais.
+45016006	Mieri we wok aad aad fi unu, tel ar oudi.
+45016007	Anjranikos an Juuniyas, mi kombolo uu did iina prizn wid mi, oudi tu unu. Aal a di apasl dem nuo dem gud gud an rispek dem an dem did biliiv iina Krais Jiizas bifuo mi.
+45016008	Tel Ampliyaatos oudi fi mi. Im a mi gud gud fren an im an Jiizas a wan.
+45016009	Orbanos we wok wid wi fi Jiizas Krais an mi gud gud fren Stiekis, tel di tuu a dem oudi fi mi.
+45016010	Tel Apelez we go chuu nof chraiyal an kraasiz an pruuv se im a Gad sorvant oudi fi mi. An tel aal a di piipl we liv a Aristobyuulos ous oudi fi mi tu.
+45016011	Tel mi kombolo Eruodiyan oudi an se oudi tu aal di piipl we liv a Narsisos yaad an we biliiv iina Jiizas Krais.
+45016012	Tel Chraifiina an Chraifuosa we a wok fi di Laad oudi fi mi an mi waahn fi sen oudi fi mi gud gud fren Porsis tu. Porsis wok aad aad fi di Laad.
+45016013	Tel Ruufos oudi fi mi. Im a wan a di Laad gud gud sorvant dem an tel im mada oudi fi mi tu — a laik shi a fi mi mada tu.
+45016014	Asingkritos, Flegan, Ormiiz, Pachrobas, Ormas an di uol a di breda an sista dem we de wid dem, tel dem oudi fi mi.
+45016015	Tel Filalogos an Juuliya, Neriyos an im sista, Olimpas an aal a Gad piipl we de de wid dem oudi fi mi.
+45016016	Unu fi tel unu wan aneda oudi an du it wid lov. Aal a Krais Jiizas choch dem we out ya sen oudi fi unu.
+46002010	Bot Gad yuuz im Spirit fi shuo wi aal a dem sitn de. Gad Spirit sorch an fain out evriting, it aal nuo di sitn dem we Gad a tingk we nobadi els no nuo bout.
+46015033	No mek dem fuul unu, “Ef yu kip fren wid wikid piipl, dem wi kaaz yu fi ton we fram we yu nuo rait, an mek yu du wikid sitn tu.”
+46015034	Unu fi wiek op, tek kanchuol a unuself an tap sin. Unu shuda shiem, kaaz som a unu no nuo Gad at aal.
+46015056	Sin a wa gi det di powa fi ort piipl an sin get fi it powa fram di laa.
+46015057	Bot tangk Gad kaaz a im sen wi Laad Jiizas Krais so dat wi kuda win an dat det kuda luuz.
+47009010	Nou, Gad, we gi di faama siid fi plaant an we gi piipl bred fi iit, im wi gi unu aal di siid we unu wuda niid fi plaant an im wi mek dem gruo tu. Im wi mek shuor se unu aalwiez av muor dan unu niid, so dat unu kyan aalwiez gi tu ada piipl.
+47009011	Im wi gi unu evriting we unu niid so dat unu kyan aalwiez gi tu ada piipl. An wen unu shier wa unu av wid ada piipl, unu wi kaaz dem fi gi Gad tangks tu.
+47013001	Da taim ya wen mi kom, dat a-go mek chrii taim mi kom luk fi unu. An siem laik ou it rait dong iina Gad wod se, “Ef sumadi du sopm rang, wi kyaahn jos ponish dem, tuu ar chrii sumadi we si wa apm, afi kom taak we dem si an pruuv se da sumadi de did du rang. Afta dat wi kyan ponish dem.”
+47013002	Laas taim mi did de de, dat a did di sekan taim mi kom luk fi unu, mi did waan unu. Mi did tel di piipl dem we did a du rang, an di res a unu tu fi tap it. Tap du rang kaaz wen mi kom bak mi naa go tek it iizi pan unu. Evribadi we du rang a-go get ponish. A dat mi did tel unu wen mi de de an nou iivn duo mi de faar fram unu, mi a tel unu agen.
+47013003	Mi naa go tek it iizi pan nobadi sins unu did waahn mi fi pruuv se Krais Jiizas a yuuz mi fi taak tu unu. Wen im diil wid unu im no wiik, im shuo im powa mongks unu.
+47013004	A chuu se, wen dem did niel im op pan di kraas, im neva shuo im powa — im mek imself wiik, bot Gad powa mek im kom bak alaiv an a liv nou. An siem laik ou im did wiik a siem so mi wiik, bot wan die unu wi si se Gad powa a-go mek mi liv laik ou Krais Jiizas a liv an mi a-go gwaan liv wid im.
+48004001	So wa mi a se a dat iivn duo wan pikni uon evriting we im faada av an wan die a-go ruul uova it — til im get big, im komiin jos laik wan sliev.
+48004002	Im a laik wan sliev kaaz wen im likl im no uon notn ar inchaaj a notn. Ada piipl ruul uova im til di die wen im faada se im kyan ron tingz.
+48004003	So yu si wi, wi a laik da pikni de. Wen wi did yong, di spirit dem we did av kanchuol uova di worl did av wi laik sliev.
+48004004	Bot wen di taim we Gad set did kom, im sen im Bwai Pikni, Jiizas. Iivn duo im a did Gad pikni, Jiizas baan jos laik mi an yu. Im did av wan mada an im did afi fala di Laa tu.
+48004005	Gad sen im Bwai Pikni fi frii aal a wi we a did sliev tu di Laa so dat di uol a wi kuda ton Gad pikni.
+48004006	An kaaz di uol a wi a nou im pikni, Gad sen im Bwai Pikni Spirit fi kom liv iina wi aat. An a da Spirit de we kaaz wi fi baal out, “Faada, mi Faada.”
+48004007	So unu a no sliev no muor; unu a Gad pikni. An kaaz unu a im pikni, unu a-go get aal we Gad pramis fi gi im pikni dem.
+48005001	Gad frii wi so dat wi wudn afi fala di Laa. So tan op chrang an no mek notn ar nobadi tek unu ton unu bak iina sliev.
+48005002	Unu lisn mi gud! Mi, Paal, a tel unu se ef unu go mek dem sorkomsaiz unu, notn we Krais Jiizas du a-go wot notn tu unu at aal.
+48005003	An agen mi a tel evribadi we go get sorkomsaiz se dem afi fala di Laa. An no jos som a di Laa bot di uol a di Laa.
+48005004	Yu si di wan dem we gaan bak gaan fala di Laa an tingk se dat a-go mek tingz rait bitwiin dem an Gad — dem kot aaf demself fram Krais Jiizas. Unu a mek it so dat Gad naa go kyan gud an kain tu unu.
+48005005	Bot yu si wi, di wan dem we a chos iina Jiizas Krais, di Uoli Spirit mek wi nuo fi shuor se wi a-go get aal a wa Gad pramis fi gi wi. So wi kyan wiet an luk fi aal we Gad pramis fi gi wi kaaz Gad mek tingz rait bitwiin wi an im aredi.
+48005006	Kaaz wen yu an Jiizas a wan it no mata ef yu sorkomsaiz ar yu no sorkomsaiz. Di onggl ting wa mata a dat yu chos iina im. An yu shuo se yu chos iina im wen yu shuo lov.
+49004009	(Wen taim it se dat “Im go op a wan ai ai plies,” we dat miin? It no miin se im go dong iina di diip diip paat a di ort fos bifuo im go bak op?
+49004010	Di siem wan we go dong iina di diip paat a di ort, a im siem wan go op a di ai ai plies, ai op muor dan di skai. Im du dat, so dat im kuda ruul di uol worl.)
+49004011	A im siem wan tek som a im piipl dem mek dem ton apasl. Im mek som ton prafit an im sen som fi go roun an priich di gud nyuuz. Im mek som ton paasn an tiicha.
+49004012	Im du aal a dis ya fi get Gad piipl redi fi du Gad wok an fi elp di choch fi gruo chrang
+49004013	chrang, so til di uol a wi ton wan; wan, kaaz aal a wi chos iina Gad Bwai Pikni iina di siem wie, an aal a wi gruo op an biyiev jos laik im.
+51002001	Mi waahn unu nuo ou aad mi a wok fi unu, an fi di piipl dem we de iina Leyodiisiya an fi aal a uu neva miit mi yet an no nuo wa mi luk laik.
+51002002	Mi a wok aad, so dat unu aat no jrap wen unu kom kraas prablem, an dat unu kyan kom tugeda an lov unu wan aneda. Da wie de Gad wi bles unu an mek unu get fi nuo an riili andastan di chuu mesij — di mesij bout Gad siikrit, an Gad siikrit a Krais Jiizas.
+51002003	A im wan kyan mek unu andastan di chrezha dem we Gad did aid. Dem chrezha de wi mek unu waiz an kyan andastan, an riili nuo bout Gad. Kaaz a iina Krais Jiizas dem chrezha de de.
+51002004	Mi tel unu dis so nobadi kyaahn kom fuul unu op tu ou dem taak, an mek unu go chrie. Wa dem se mait-a soun laik dem mek sens bot a pie lai.
+51002005	Kaaz iivn duo mi mait no riili de wich paat unu de, mi spirit de de wid unu siem wie. An mi api fi si se aal a unu tugeda, a tan op chrang an a chos iina Krais Jiizas.
+51004001	Az fi unu we uon sliev, unu fi chriit unu sliev rait an unu fi chriit dem fier. Kaaz unu nuo se unu av wan maasta iina evn tu.
+58001006	Bot wen Gad bring im fos bwai kom iina di worl, im se, “Aal a Gad ienjel dem — worship im!”
+58001007	An wen im a taak bout di ienjel dem, a dis im se, “Gad mek im ienjel dem fi komiin laka briiz, an im mek dem fi komiin laka faiya we de bliez op.”
+58001008	Bot dis a wa im se bout di Bwai Pikni, “Uo Gad! Yu a-go ruul fi eva an eva! An yu a-go ruul di rait wie fi chuu.
+58001010	Im se dis tu, “Laad, wen notn neva de bout yet, a yu mek di ort. An yu tek fi yu uona an dem an mek di skai an evriting els.
+58001013	Wich wan a di ienjel dem Gad eva se dis tu: “Sidong rait saida mi, a mi rait an, an kom ruul uova evriting. Sidong de til mi mek yu enimi dem kom ben dong infronta yu, mek yu kak op yu fut pan dem” ?
+58001014	Aal a di ienjel dem, no spirit dem — spirit we Gad sen fi go sorv di piipl dem we a-go get siev? No so?
+58002009	Wa wi si ya nou a Jiizas. Fi wan likl wail im did de luo dong dan di ienjel dem, bot nou im av powa. Nou Gad riez im op ai ai laik a wan kroun im put pan im ed. Im av powa an Gad riez im op ai ai kaaz im sofa an ded. An kaaz Gad lov wi so moch iivn duo wi no dizorv it, im mek Jiizas ded fi evribadi.
+58002013	An im se agen se, “Mi — mi wi chos iina im.” An im se dis tu, “Si mi ya, mi de ya wid di pikni dem we Gad did gi mi.”
+58004004	Kaaz im did se dis somwe bout di sevn die, “an pan die sevn im res fram aal a im wok”
+58004005	An rait ya-so agen im se: “dem naa go get di piis we mi pramis fi gi mi piipl dem an fi res laik wa mi pramis tu.”
+58004008	Kaaz ef Jashwa did liid di piipl dem an mek dem get fi res, Gad wudn taak bout wan neda die afta dat.
+58004009	So jos laik ou Gad did res pan die sevn, afta im did don mek di worl, a so wan Sabat res stil de de fi Gad piipl dem.
+58004010	Kaaz di wan we get fi res ou Gad mek piipl res, im did res tu an no du no wok, jos laik ou Gad did res wen im did don fi im wok.
+58004011	So wi fi chrai aad aad fi mek shuor se wi get da kaina res de we Gad gi, so nobadi no mis di chaans fi get it kaaz dem go du di sed sitn dem we dem faada faada did du — no lisn Gad an no du wa im se dem fi du.
+58005006	An somwe els im se, “Yu a wan priis fi eva, wan priis laka Melkezidek.”
+58007022	An kaaz Gad aal mek pramis wid Jiizas, dis shuo se Jiizas mek di pramis we Gad gi wi beta dan di uol wan fi shuor shuor.
+58010008	Fos Jiizas se, “A neehn sakrifais an aafrin yu did waahn, yu neehn waahn dem fi tek no uol-a animal an bon mek sakrifais gi yu an yu neehn waahn no sin aafrin niida. Dem sitn de neehn mek yu api” — duo bies pan di laa a dem sitn de piipl did fi gi.
+58010009	Den im se, “Si mi ya. Mi kom fi du wa yu waahn mi fi du.” So di fos plan we se piipl did afi gi op sakrifais fi tek we dem sin, Gad mek it naa no muo powa so di sekan plan kuda set op; da plan de gi di sakrifais we Krais Jiizas mek aal a di powa.
+58010010	An siek-a dat, di uol a wi ton kliin iina Gad yai. Im sakrifais im uona badi jos wan dege-dege taim an dat kova evriting.
+58010017	Den im se, “Mi naa go memba non at aal di piipl dem sin an ou dem did brok mi laa.”
+58010018	So nou, wen Gad paadn sin, no muo sin aafrin no afi gi op.
+58010039	Bot wi a no non a dem piipl de we ton bak an en op get laas, mash op an dem sitn de. Nuo sa! Wi a wan a dem piipl de we chos iina Gad an so im a siev wi suol.
+58013006	Dat mek wi shuor shuor wen wi se, “Di Laad a di wan we elp mi an mi naa go fried a notn. Wa nobadi kyan kom du mi, iihn?”
+60002007	Nou, fi aal a unu we biliiv iina di Laad, da stuon ya wot nof nof. Bot fi di wan dem we no biliiv, “Di stuon we di bilda dash wan said — a it ton di mien stuon,”
+60002008	an wan neks paat iina Gad wod se, “Dis a wan stuon we kaaz man fi tombl dong — wan rak we wi chrip dem.” Dem tombl dong a grong kaa dem neva fala wa Gad se. An dat a wa Gad did plan fi dem.
+60002023	Wen piipl tel im at-wod im neva tel dem bak non. An wen dem mek im sofa, im neva chretn fi du dem bak notn. Aal im du a gwaan put im chos iina Gad we joj evribadi bies pan wa dem du.
+60002024	Jiizas — im did fiil uol iip a pien iina im badi fi wi wen im did de pan di kraas siek-a fi wi sin. Im du dat so sin wi no av no muo powa uova wi, an wi kyan liv an du wa rait. An siek-a di sofarieshan we im go chuu: di biit op biit op an di kot op kot op we bata bruuz im, chuu dat yu did get iil.
+60002025	Kaaz unu did a chrie laik laas shiip, bot nou Gad bring unu bak fi tek kier a unu, jos laik ou di shepad tek kier a im shiip dem. An im bring unu bak fi wach uova unu an fi mek shuor se unu aarait.
+60005006	So unu fi ombl unuself anda Gad powaful an, so wen im redi im kyan bles unu.
+60005007	Evriting we unu a wori an fret bout, gi it tu im, kaaz im kier bout unu.
+66002002	Mi nuo evriting bout unu. Mi nuo aal wa unu go chuu kaaz unu biliiv iina mi, an ou unu tan op chrang an no gi op wen chobl tek unu. Mi nuo se unu kyaahn tek di wikid piipl dem. Unu tes di wan dem we taak bout se dem a apasl wen dem a no no apasl, an fain out se dem a uol laiyad.
+66002003	Unu tan op chrang an no gi op wen chobl tek unu, an unu go chuu nof sofarieshan siek-a ou unu biliiv iina mi. An unu aalwiez fala mi, unu neva get taiyad an gi op.
+66002004	Bot mi stil av sitn gens unu: unu no lov unu wan aneda di wie unu yuus tu wen unu did fos biliiv iina mi.
+66002005	So memba ou faar unu jrap bak fram di lov unu yuuz tu av fi wan aneda. Ton we fram unu sin an staat du di rait sitn dem we unu yuus tu du wen unu did jos get siev. Ef unu no du dat, mi a-go kom tek we unu guol sitn we unu yuuz fi uol kyanggl fram we it de.
+66002006	Bot unu av wan gud sitn bout unu: siem laik ou mi iet di sitn dem we di Nikolieshan piipl dem a du, a siem wie unu iet dem tu.
+66002007	Aal uu kyan ier beta lisn we di Uoli Spirit a se tu di choch dem. Enibadi we biit di devl an no gi iin tu di sitn dem we im waahn dem fi du, mi a-go gi dem di rait fi iit fram di chrii we gi laif, we iina Gad gyaadn we de a evn.
+66002009	Mi nuo bout aal a unu sofarieshan an ou unu puor — bot unu riili rich. An di piipl dem we se dem a Juu bot dem a no Juu, mi nuo ou dem a tel aal saat a lai an a chat bad bout unu. Dem a wan gruup a piipl we bilang tu Sietan.
+66002010	No fried a di sitn dem wa unu bout fi sofa. Mi a tel unu, di devl a-go fling som a unu iina prizn fi tes unu. An unu a-go sofa fi ten die. Bot unu fi tan op chrang an chos mi siem wie, iivn ef dem mek op dem main fi kil unu. Kaaz siem laik ou wan rona get wan medal wen im win wan ries, mi wi guunu laif fi fuunu praiz.
+66002011	Aal uu kyan ier beta lisn we di Uoli Spirit a se tu di choch dem. Enibadi we biit di devl an no gi iin tu di sitn dem wa im waahn dem fi du, wen Gad kom bak fi joj di worl im naa go sen dem fi ded.
+66002013	‘Mi nuo we unu liv. Unu liv we Sietan av im chuon bot unu stil biliiv iina mi. Unu neva ton we fram di chuut, iivn iina di taim wen dem kil mi sorvant, Antipas, iina di toun we Sietan ruul.
+66002014	Bot mi stil av sopm gens unu. Unu av som piipl iina unu choch we a fala wa Bielam tiich. Bielam did tiich Bielak ou fi chrik di Izrelait dem fi mek dem sin. Im chrik dem mek dem nyam fuud we did bon pan alta gi faalz gad, an mek dem sliip wid ada piipl ozban an waif.
+66002015	An unu av som piipl mongks unu we a fala wa di Nikolieshan dem tiich.
+66002016	Dem fi ton we fram dem sin, shuo se dem sari fi di rang we dem du an beg Gad paadn! Ef unu no du dat, mi a-go kom tu unu suun an waar gens dem wid di suod we kom outa mi mout.
+66002017	Aal uu av iez fi ier beta lisn gud we di Uoli Spirit a se tu di choch dem. Enibadi we biit di devl an no giiin tu di sitn dem we im waahn dem fi du, mi a-go gi dem som a di fuud we niem mana we sumadi did aid. An mi a-go gi dem wan wait stuon tu wid wan nyuu niem rait pan it. Onggl di sumadi we get da stuon de a-go andastan wa rait pan it.’
+66002019	“Mi nuo ou unu liv: unu lov wan aneda, tan op chrang fi wa unu biliiv, sorv wan aneda, an tan op chrang an no gi op wen unu did a go chuu nof chobl an kraasiz. Matarafak, unu a du nof muo nou dan wa unu yuus tu du wen unu did jos get siev.
+66002020	Bot mi stil av sitn gens unu. Unu put op wid da uman de, Jezibel, we kaal arself wan prafit. Shi yuuz di sitn dem we shi a tiich fi chrik mi sorvant dem fi tek paat iina seks sin an fi nyam fuud we dem tek bon sakrifais gi faalz gad.
+66002021	Mi gi ar taim fi chienj ar wiez an fi shuo se shi sari fi di rang we shi a du, bot shi aad-iez an no waahn gi op ar seks sin dem.
+66002022	So mi a-go lik ar wid torbl siknis an mek ar sofa. An aal uu sliip wid ar we a no ar ozban, ef dem no ton we fram ar wikidnis an shuo se dem sari fi wa dem du, mi a-go lik dem wid torbl sofarieshan tu.
+66002023	Mi a-go kil aaf ar falara dem. Den aal a di choch dem wi fain out se a mi a di wan we sorch out evribadi main an aat. An fi aal we unu a du, mi a-go pie unu bak wa unu fi get.
+66002024	Nou dis a wa mi a tel di res a unu we de a Taiyataira, unu we naa fala di laiyad sitn dem we Jezibel a tiich an we no nuo notn bout wa dem kaal di siikrit sitn dem we Sietan shuo dem — mi naa put no muo presha pan unu.
+66002025	Mi onggl waahn unu fi eng aan pan wa unu av til mi kom.
+66002026	Enibadi we biit di devl an no gi iin tu di sitn dem we im waahn dem fi du, an gwaan du we mi waahn dem fi du til di en a di worl, mi a-go gi dem powa fi ruul uova di piipl dem we liv iina di ada konchri dem.
+66002028	An siem laik ou mi get di rait fi ruul fram mi Faada, mi a-go gi dem powa fi ruul. Mi a-go gi dem di staar we shain brait wen die a lait fi shuo se dem a wina.
+66002029	Aal uu kyan ier beta lisn gud we di Uoli Spirit a se tu di choch dem.”
+66003002	So wiek op, an staat liv agen laik ou unu nuo Gad piipl fi liv, bifuo evriting mash op, kaaz mi fain se di wie unu a liv no mach op wid di wie fi mi Gad waahn unu fi liv.
+66003003	So memba di mesij we unu did ier an biliiv; du we it se, ton we fram unu sin. Ef unu no wiek op, mi a-go kom tu unu laik wan tiif, an unu naa go nuo di taim wen mi a-go kom gens unu.
+66003004	Bot unu av som piipl mongks unu iina Saadis we kip dem kluoz kliin — dem naa liv iina sin. An dem piipl de a-go jres op iina wait kluoz an waak wid mi kaaz dem liv ou Gad waahn dem fi liv.
+66003005	Enibadi we no gi iin tu di sitn dem we di devl waahn dem fi du, dem a-go get jres op iina wait kluoz tu. Mi naa go kraas out dem niem outa di buk we Gad rait dong di niem a di piipl dem we a-go get fi liv fi eva, bot wen mi tan op infronta mi Faada an im ienjel dem, mi wi se dat dem a fi mi falara.
+66003006	Aal a uu kyan ier beta lisn gud we di Uoli Spirit a se tu di choch dem.”
+66003008	Mi nuo evriting bout unu. (Luk ya, mi uopm wan duor infronta unu we nobadi kyaahn shot). Mi nuo se unu no chrang, bot unu stil eng aan pan mi wod an unu neva ton unu bak pan mi an se unu no biliiv mi.
+66003009	Lisn! A gweehn mek di laiyad piipl dem we bilang tu Sietan choch, we se dem a Juu wen dem a no no Juu — a gweehn mek dem kom lidong a unu fut wid dem fies a grong an mek dem andastan se mi lov unu.
+66003010	Kaaz mi tel unu fi tan op chrang an no gi op wen chobl tek unu, an unu dwiit, mi a-go kip unu sief iina da taim de wen torbl kraasiz an sofarieshan a-go kom pan di uol worl fi tes aal uu liv pan di ort.
+66003011	Mi suun kom so eng aan pan we unu av so dat nobadi kyaahn tek we unu kroun.
+66003012	Evri wan a unu we biit di devl an no gi iin tu di sitn dem we im waahn unu fi du, mi a-go mek unu komiin laka wan impuotant kalom iina fi mi Gad ous, an unu naa go lef, unu a-go tan de fi eva an eva. An mi a-go rait fi mi Gad niem pan im, an mi a-go rait pan im Nyuu Jeruusilem, we a fi mi Gad siti niem. Da siti de kom fram Gad an a-go kom dong fram evn. An mi a-go rait dong fi mi nyuu niem pan im tu.
+66003013	Aal uu av iez beta lisn we di Uoli Spirit a se tu di choch dem.”3
+66003015	Mi nuo evriting bout unu. Mi nuo se unu no kuol an unu no at. Mi wish unu did koul ar at.
+66003016	Bot unu si laik ou unu jos waam — an unu no kuol an unu no at — mi out fi pit unu outa mi mout rait ya nou.
+66003017	Unu se, ‘Mi rich; mi av uol iip a moni an evriting mi waahn.’ Bot yu no si ou yu mash op an tan bad, an pap dong laik oul shuuz bak, an puor, an blain an naav aan no kluoz?
+66003018	Dis a wa mi tingk unu shuda du, bai guol fram mi, guol we bon iina faiya fi get out aal wa no fi iina it. Ef unu bai da guol de, unu wuda riili get rich. Bai wait kluoz fram mi so unu kyan kova op unuself. Da wie de unu naafi shiem kaaz unu naav aan no kluoz. An bai yai jrap fram mi tu fi jrap iina unu yai dem so unu kyan si.
+66003019	Di piipl we mi lov, mi taak tu dem aad an chrietn dem out an mek dem nuo se we dem a du rang. So get siiros an ton we fram unu sin dem an shuo se unu sari.
+66003020	Lisn mi! Mi tan op rait a di duor an a nak. Ef enibadi ier mi a kaal an uopm di duor, mi wi kom iina im ous an mi an im wi nyam an jringk tugeda.
+66003021	Enibadi we biit di devl an no gi iin tu di sitn dem we im waahn dem fi du, mi a-go gi im di rait fi sidong saida mi, pan mi chuon, siem laik ou mi did biit di devl an no gi iin tu di sitn dem we im did waahn mi fi du, an sidong saida mi Faada pan fiim chuon.
+66003022	Aal uu kyan ier beta lisn tu wa di Uoli Spirit a se tu di choch dem.”
+66004009	Enitaim di sopm dem gi priez, ana an tangks tu di wan we sidong pan di chuon an we liv fi eva an eva,
+66004010	di twenti-fuo elda dem fling dong demself a di fut a di wan we sidong pan di chuon, an gi priez tu di wan we liv fi eva an eva. Dem pudong dem kroun infronta di chuon an se:
+66005014	Di fuo sitn dem se, “Iemen,” an di elda dem fling dong demself a im fut an gi im ana an priez.
+66007011	Aal a di ienjel dem faam wan sorkl roun di chuon, di elda dem, an di fuo sitn dem. Dem fling dong demself infronta di chuon, put dem fies a grong an worship Gad
+66007012	an se: “Iemen! Wi Gad, wi gi yu priez an ana an rispek. Yu waiz, an powaful an chrang an wi aalwiez gi yu tangks fi eva an eva. Iemen!”
+66011016	Den di twenti-fuo elda dem fling dong demself wid dem fies a grong an worship Gad.
+66011017	Dem se: “Laad Gad, yu we av aal di powa, wi gi yu tangks. Yu a di wan we alaiv, an di wan we de bout fram wie bak wen. Wi tangk yu se yu a shuo yu powa an ruul uova di uol worl.
+66016007	Den mi ier wan vais fram di alta se: “Yes, Laad Gad, nobadi no powaful laik yu, yu joj piipl ou dem fi get joj an gi dem wa dem dizorv!”
+66017006	Mi si se di uman did jongk. Shi did jringk an get jongk wid Gad piipl dem blod — di wan dem we dem did kil. Dem kil dem kaaz dem did tan op chrang fi wa dem biliiv bout Jiizas. Wen mi si ar, mi fraitn so til.
+66019003	An di kroud a piipl dem shout out wan muor taim: “Aliluuya! Sumuok go op fram di faiya we a bon ar op, di faiya we a-go bon fi eva an eva.”
