@@ -1,94 +1,94 @@
-41001043
-41001044
-41005007
-41005008
-41010029
-41010030
-41016002
-41016003
-43003023
-43003024
-43004007
-43004008
-43006003
-43006004
-43010014
-43010015
-44001002
-44001003
-44008001
-44008002
-44011023
-44011024
-44013028
-44013029
-44013032
-44013033
-44013038
-44013039
-44013042
-44013043
-44020037
-44020038
-45001003
-45001004
-45009011
-45009012
-46006009
-46006010
-46010028
-46010029
-46013009
-46013010
-46015015
-46015016
-46015021
-46015022
-46015051
-46015052
-47001013
-47001014
-47012003
-47012004
-48001001
-48001002
-49006021
-49006022
-50001015
-50001016
-50004002
-50004003
-51003023
-51003024
-54002009
-54002010
-54003014
-54003015
-58006001
-58006002
-58006003
-58006019
-58006020
-58013020
-58013021
-60003013
-60003014
-66002026
-66002027
-66002028
-66007005
-66007006
-66007007
-66007008
-66014009
-66014010
-66015005
-66015006
-66016010
-66016011
-66020002
-66020003
-66020007
-66020008
-66021019
-66021020
+41001043	Yesu rono yi atsuvu cika, “Kotsu vu tonuko uza wa, shegai wala ba vu wenike kaci ka vunu a asu u kaɗara̱kpi. Vu na̱ka̱ kune ku Musa danai a na̱ka̱ adama a ɗa vu ta̱na̱i, kpam kotsu a reve n u ɗa.” Aku u a̱sa̱ka̱ yi u lazai. Yesu rono yi atsuvu cika, “Kotsu vu tonuko uza wa, shegai wala ba vu wenike kaci ka vunu a asu u kaɗara̱kpi. Vu na̱ka̱ kune ku Musa danai a na̱ka̱ adama a ɗa vu ta̱na̱i, kpam kotsu a reve n u ɗa.” Aku u a̱sa̱ka̱ yi u lazai.
+41001044	
+41005007	Aku Yesu tonuko yi, “Wuta̱i pini a asu u vuma vi, ityoni i cingi.” Vuma vi u salai cika, “Yesu, Maku ma Kashila̱ ka pige, ndya va ciga na̱ mpa? Tsina n Kashila̱ an va kpa̱ɗa̱ mu uyan mavura.” Aku Yesu tonuko yi, “Wuta̱i pini a asu u vuma vi, ityoni i cingi.” Vuma vi u salai cika, “Yesu, Maku ma Kashila̱ ka pige, ndya va ciga na̱ mpa? Tsina n Kashila̱ an va kpa̱ɗa̱ mu uyan mavura.”
+41005008	
+41010029	U wushuki, “Mayun n tonuko ɗa̱, uza ɗa baci dem u a̱sa̱ka̱i kuwa n kashina ka ne adama a va̱ n kadyanshi ka va̱, wa wusha ta̱ ili iꞌya i lai iꞌya u a̱sa̱ka̱i vi kakuma̱ aꞌayin a gogo‑na. Wa tsa̱ ta̱ aꞌuwa amangatawun (100), hal n ashina dem kaɓolo n mavura. Nala kpam dem uza ɗa baci u a̱sa̱ka̱i atoku n ama̱ku na̱ mma n tata na̱ mmuku n ne adama a va̱, wa tsa̱ ta̱ amangatawun u atoku n ama̱ku na̱ mma n tata na̱ mmuku kaɓolo n mavura. Kpam aꞌayin a ɗa a ka tuwa̱ wa tsa̱ ta̱ uma u ɗa bawu wa̱ri n utyoku. U wushuki, “Mayun n tonuko ɗa̱, uza ɗa baci dem u a̱sa̱ka̱i kuwa n kashina ka ne adama a va̱ n kadyanshi ka va̱, wa wusha ta̱ ili iꞌya i lai iꞌya u a̱sa̱ka̱i vi kakuma̱ aꞌayin a gogo‑na. Wa tsa̱ ta̱ aꞌuwa amangatawun (100), hal n ashina dem kaɓolo n mavura. Nala kpam dem uza ɗa baci u a̱sa̱ka̱i atoku n ama̱ku na̱ mma n tata na̱ mmuku n ne adama a va̱, wa tsa̱ ta̱ amangatawun u atoku n ama̱ku na̱ mma n tata na̱ mmuku kaɓolo n mavura. Kpam aꞌayin a ɗa a ka tuwa̱ wa tsa̱ ta̱ uma u ɗa bawu wa̱ri n utyoku.
+41010030	
+41016002	N kpasani ku kain ka kagita̱ ka a aꞌayin a shindere a ka̱na̱i ure. Ele a nwalu a ka yawunsa uza ɗa wa ba u gindala̱kpuka le katali ka a kimbuga̱i utsutsu u kasaun vi. Kaara n ka ɓa̱tsi ele n a rawi pini a utsutsu u kasaun vi. N kpasani ku kain ka kagita̱ ka a aꞌayin a shindere a ka̱na̱i ure. Ele a nwalu a ka yawunsa uza ɗa wa ba u gindala̱kpuka le katali ka a kimbuga̱i utsutsu u kasaun vi. Kaara n ka ɓa̱tsi ele n a rawi pini a utsutsu u kasaun vi.
+41016003	
+43003023	Aꞌayin a nala yi kotsu a banka Yahaya a kuwa ku aꞌali wa. Yahaya rongo ta̱ ulyuɓugusu ama a Ayino evu n Salima, kpaci asu vi mini ma pini ushani. Ama a rongo ta̱ ubansa ara ne cika tsa̱ra̱ u lyuɓugu le. Aꞌayin a nala yi kotsu a banka Yahaya a kuwa ku aꞌali wa. Yahaya rongo ta̱ ulyuɓugusu ama a Ayino evu n Salima, kpaci asu vi mini ma pini ushani. Ama a rongo ta̱ ubansa ara ne cika tsa̱ra̱ u lyuɓugu le.
+43003024	
+43004007	Aꞌayin a ɗa atoni a ne a banai a asuvu a ilyuci tsa̱ra̱ a tsila ilikulya, aku uka u aza a Samariya u roku u tuwa̱i ukene mini. Yesu folo yi, “Ne mu mini n soi.” Aꞌayin a ɗa atoni a ne a banai a asuvu a ilyuci tsa̱ra̱ a tsila ilikulya, aku uka u aza a Samariya u roku u tuwa̱i ukene mini. Yesu folo yi, “Ne mu mini n soi.”
+43004008	
+43006003	Kpam aꞌayin a Abiki a Upasamgbana a aza a Yahuda a yan ɗe evu, aku Yesu banai a masasa n atoni a ne a dusuki. Kpam aꞌayin a Abiki a Upasamgbana a aza a Yahuda a yan ɗe evu, aku Yesu banai a masasa n atoni a ne a dusuki.
+43006004	
+43010014	“Mpa kaliniki ka shinga. N reve ta̱ ncon n va̱, nala dem Tata u va̱ u reve mu. Ncon n va̱ dem a reve mu ta̱, tyoku ɗa dem n revei Tata vi. N neke ta̱ uma u va̱ tsa̱ra̱ n ɓa̱nga̱ ncon mi. “Mpa kaliniki ka shinga. N reve ta̱ ncon n va̱, nala dem Tata u va̱ u reve mu. Ncon n va̱ dem a reve mu ta̱, tyoku ɗa dem n revei Tata vi. N neke ta̱ uma u va̱ tsa̱ra̱ n ɓa̱nga̱ ncon mi.
+43010015	
+44001002	hal ubana kain ka a canga yi ubana a zuba. An u ꞌya̱nga̱i a ukpa̱, u wenishike ta̱ kaci ka ne a asu u asuki a ne a ɗa u ɗanga̱sai hal aꞌayin amangare. U yansa ta̱ ili ushani iꞌya i wenikei an wa̱ri n uma mayun. An aꞌayin a ɗa a ka canga yi ubana a zuba a yain evu, u dansa ta̱ n ele ukuna u tsugono tsu Kashila̱ u tonusuko le kpam ili iꞌya a ka yan. Gba̱ ili i na yi u yansa ta̱ iꞌya a asuvu a ucira u Kulu Keri. hal ubana kain ka a canga yi ubana a zuba. An u ꞌya̱nga̱i a ukpa̱, u wenishike ta̱ kaci ka ne a asu u asuki a ne a ɗa u ɗanga̱sai hal aꞌayin amangare. U yansa ta̱ ili ushani iꞌya i wenikei an wa̱ri n uma mayun. An aꞌayin a ɗa a ka canga yi ubana a zuba a yain evu, u dansa ta̱ n ele ukuna u tsugono tsu Kashila̱ u tonusuko le kpam ili iꞌya a ka yan. Gba̱ ili i na yi u yansa ta̱ iꞌya a asuvu a ucira u Kulu Keri.
+44001003	
+44008001	Shawulu ɗa pini kushani wa wundya kpam u wushuki n uwuna u Isitifanu. Aku ama roku aza ɗa a ka tono Kashila̱ a ciɗa̱ngu yi n a sa̱yi cika. A aꞌayin a nala yi mavura ma pige ma rukpa̱i a mere ma Atoni a Yesu a Urishelima, aku gba̱ le a wacuwai a asuvu a uyamba u Yahuda n Samariya. Shegai asuki yi alya koshi a wokoi pini a Urishelima. Shawulu ɗa pini kushani wa wundya kpam u wushuki n uwuna u Isitifanu. Aku ama roku aza ɗa a ka tono Kashila̱ a ciɗa̱ngu yi n a sa̱yi cika. A aꞌayin a nala yi mavura ma pige ma rukpa̱i a mere ma Atoni a Yesu a Urishelima, aku gba̱ le a wacuwai a asuvu a uyamba u Yahuda n Samariya. Shegai asuki yi alya koshi a wokoi pini a Urishelima.
+44008002	
+44011023	Vuma u maci ɗa uza ɗa wa̱ri ushaɗangi n Kulu Keri kpam u pityanangi. An u rawai u wenei ukuna u shinga u ɗa Kashila̱ ka yanka le, u yain ipeli cika. Aku u rono le atsuvu a pityanangu n Asheku n katakasuvu ka le ubana. Ama ushani a doku ta̱ a kpatalai ubana a asu u Asheku. Vuma u maci ɗa uza ɗa wa̱ri ushaɗangi n Kulu Keri kpam u pityanangi. An u rawai u wenei ukuna u shinga u ɗa Kashila̱ ka yanka le, u yain ipeli cika. Aku u rono le atsuvu a pityanangu n Asheku n katakasuvu ka le ubana. Ama ushani a doku ta̱ a kpatalai ubana a asu u Asheku.
+44011024	
+44013028	A yan ta̱ dere ili iꞌya tagara̱da u Kashila̱ u danai. Ko an u wokoi a tsa̱ra̱ unyushi u ɗa a ka wuna yi wa, gba̱ n nala a tonukoi Bilatu Gomuna u wandamgbana yi. “An u kuwa̱i, aku a cipuka̱ yi a mawandamgbani mi a uka yi a kasaun. A yan ta̱ dere ili iꞌya tagara̱da u Kashila̱ u danai. Ko an u wokoi a tsa̱ra̱ unyushi u ɗa a ka wuna yi wa, gba̱ n nala a tonukoi Bilatu Gomuna u wandamgbana yi. “An u kuwa̱i, aku a cipuka̱ yi a mawandamgbani mi a uka yi a kasaun.
+44013029	
+44013032	“Kpam a̱tsa na tsu tuko ɗa̱ Kadyanshi ka Shinga: ili iꞌya Kashila̱ ka yain kazuwamgbani wa yanka akaya a tsunu iꞌya gai la vi. Gogo‑na u yanka tsu ta̱ iꞌya a̱tsu aza ɗa tsa̱ri mmuku n tsikaya n ne aꞌayin a ɗa u ꞌya̱nga̱sa̱i Yesu a ukpa̱. A korongu ta̱ ukuna u na vi a tagara̱da u Ishipa u ire: “ ‘Aɗa Maku ma va̱, ara n woko ta̱ Tata u vunu.’ “Kpam a̱tsa na tsu tuko ɗa̱ Kadyanshi ka Shinga: ili iꞌya Kashila̱ ka yain kazuwamgbani wa yanka akaya a tsunu iꞌya gai la vi. Gogo‑na u yanka tsu ta̱ iꞌya a̱tsu aza ɗa tsa̱ri mmuku n tsikaya n ne aꞌayin a ɗa u ꞌya̱nga̱sa̱i Yesu a ukpa̱. A korongu ta̱ ukuna u na vi a tagara̱da u Ishipa u ire: “ ‘Aɗa Maku ma va̱, ara n woko ta̱ Tata u vunu.’
+44013033	
+44013038	“Ama a va̱, zuwai atsuvu mai a ili iꞌya tsa tono: adama a ili iꞌya Yesu yain, iꞌya i zuwai tsu tsa̱ra̱i ucimbusa̱ u unyushi u cingi gogo‑na. Mele ma Musa ma fuɗa ma gonuko ɗa̱ i woko dere wa. Shegai adama a Yesu, uza ɗa baci dem u wushuki wa woko ta̱ dere. “Ama a va̱, zuwai atsuvu mai a ili iꞌya tsa tono: adama a ili iꞌya Yesu yain, iꞌya i zuwai tsu tsa̱ra̱i ucimbusa̱ u unyushi u cingi gogo‑na. Mele ma Musa ma fuɗa ma gonuko ɗa̱ i woko dere wa. Shegai adama a Yesu, uza ɗa baci dem u wushuki wa woko ta̱ dere.
+44013039	
+44013042	Wuta̱ ɗa Bulus n Bara̱naba a ka wuta̱ a kagata ka Kashila̱ ki, aku aza a Yahuda n Awulawa ushani aza ɗa a ka lyaka Kashila̱ kayala a tono le. Pini nala, Bulus n Bara̱naba aꞌa̱ri le ugbamatangusu asuvu a lyai kelime n uwushukusu n ukuna u shinga u Kashila̱. Aku ama yi a folo le a doku a yain kadyanshi a kaci ka ili i na yi n Ashibi a ɗa a ka tuwa̱. Wuta̱ ɗa Bulus n Bara̱naba a ka wuta̱ a kagata ka Kashila̱ ki, aku aza a Yahuda n Awulawa ushani aza ɗa a ka lyaka Kashila̱ kayala a tono le. Pini nala, Bulus n Bara̱naba aꞌa̱ri le ugbamatangusu asuvu a lyai kelime n uwushukusu n ukuna u shinga u Kashila̱. Aku ama yi a folo le a doku a yain kadyanshi a kaci ka ili i na yi n Ashibi a ɗa a ka tuwa̱.
+44013043	
+44020037	Aku a woɓo yi gba̱ le n unamgbukatsuma̱ a ka̱na̱i kushen cika, kpaci u dana ta̱ a ka doku a ka wene yi wa. Pini nala, a soku yi gba̱ le hal u uwai a kpatsu. Aku a woɓo yi gba̱ le n unamgbukatsuma̱ a ka̱na̱i kushen cika, kpaci u dana ta̱ a ka doku a ka wene yi wa. Pini nala, a soku yi gba̱ le hal u uwai a kpatsu
+44020038	
+45001003	Kadyanshi ka Shinga ki ukuna u Maku ma ne u ɗa u dansai; wata, Yesu Kawauwi Asheku a tsunu. A matsa yi ta̱ tyoku u vuma, eyi kumaci ku Dawuda† Magono ka wa̱ri. Shegai Kulu ku uwulukpi ku wenike ta̱ n ucira, Yesu Maku ma Kashila̱ ma, kpaci u ꞌya̱nga̱sa̱ yi ta̱ a ukpa̱. Kadyanshi ka Shinga ki ukuna u Maku ma ne u ɗa u dansai; wata, Yesu Kawauwi Asheku a tsunu. A matsa yi ta̱ tyoku u vuma, eyi kumaci ku Dawuda† Magono ka wa̱ri. Shegai Kulu ku uwulukpi ku wenike ta̱ n ucira, Yesu Maku ma Kashila̱ ma, kpaci u ꞌya̱nga̱sa̱ yi ta̱ a ukpa̱.
+45001004	
+45009011	Shegai kahu u matsa, Kashila̱ ka tonuko ta̱ Rifikatu vi, “Uzapige vi wa gbashika ta̱ uza u kenu.” Nala vi tun kahu mmuku mi a yain ili i shinga ko i cingi ɗa. Kashila̱ ka yan ta̱ nala tsa̱ra̱ uza ɗa u ɗanga̱sai vi aya uza ɗa wa ciga, adama a tyoku ɗa u foɓusoi shegai adama a ili iꞌya maku mi ma yain wa. Shegai kahu u matsa, Kashila̱ ka tonuko ta̱ Rifikatu vi, “Uzapige vi wa gbashika ta̱ uza u kenu.” Nala vi tun kahu mmuku mi a yain ili i shinga ko i cingi ɗa. Kashila̱ ka yan ta̱ nala tsa̱ra̱ uza ɗa u ɗanga̱sai vi aya uza ɗa wa ciga, adama a tyoku ɗa u foɓusoi shegai adama a ili iꞌya maku mi ma yain wa.
+45009012	
+46006009	Kotsu i yinsa̱ kaci ka ɗe wa. Mayun i reve ta̱ ama a cingi a ka tsa̱ra̱ tsugono tsu Kashila̱ wa. Ama a na yi alya, aza ɗa a ka lyasa̱ka ameli kayala. Nala dem aza a uyan tsishankala, n aꞌali a ɗa a ka vakusu n aka a roku, n aka a ɗa a ka vakusu n aꞌali a ɗa bawu aꞌa̱ri a le, icun i ama a na a ka uwa a tsugono tsu Kashila̱ wa. Aꞌali a ɗa a a̱sa̱ka̱i atoku a le aꞌali a ka vakusu n ele a ire kau‑kau. Aza ɗa a ka boko, n aza a kurura, n aza a mawusuka, ele dem a ka uwa a tsugono tsu Kashila̱ wa. Asoi a ɗa a tsu gutukpa, n aza ɗa a wishisai aꞌala a atoku a le, ama ɗa a ka yansa gba̱ ili i na yi a ka tsa̱ra̱ tsugono tsu Kashila̱ wa. Kotsu i yinsa̱ kaci ka ɗe wa. Mayun i reve ta̱ ama a cingi a ka tsa̱ra̱ tsugono tsu Kashila̱ wa. Ama a na yi alya, aza ɗa a ka lyasa̱ka ameli kayala. Nala dem aza a uyan tsishankala, n aꞌali a ɗa a ka vakusu n aka a roku, n aka a ɗa a ka vakusu n aꞌali a ɗa bawu aꞌa̱ri a le, icun i ama a na a ka uwa a tsugono tsu Kashila̱ wa. Aꞌali a ɗa a a̱sa̱ka̱i atoku a le aꞌali a ka vakusu n ele a ire kau‑kau. Aza ɗa a ka boko, n aza a kurura, n aza a mawusuka, ele dem a ka uwa a tsugono tsu Kashila̱ wa. Asoi a ɗa a tsu gutukpa, n aza ɗa a wishisai aꞌala a atoku a le, ama ɗa a ka yansa gba̱ ili i na yi a ka tsa̱ra̱ tsugono tsu Kashila̱ wa.
+46006010	
+46010028	Shegai uza roku u tonuko vu baci, “Ilikulya i na a neke ta̱ iꞌya a asu u kameli,” kotsu vu lyai ilikulya i nala yi wa, ko vu yawunsa baci unyushi u ɗa wa, vu lyai iꞌya wa. Adama a ɗa uza ɗa u tonuko vu vi u yawunsa ta̱ unyushi u ɗa vu lya baci iꞌya. Niɗa a ka ka̱ngu mu uyan ili iꞌya ma fuɗa ma yan adama a ɗa ya zuwa uza roku unyushi? Shegai uza roku u tonuko vu baci, “Ilikulya i na a neke ta̱ iꞌya a asu u kameli,” kotsu vu lyai ilikulya i nala yi wa, ko vu yawunsa baci unyushi u ɗa wa, vu lyai iꞌya wa. Adama a ɗa uza ɗa u tonuko vu vi u yawunsa ta̱ unyushi u ɗa vu lya baci iꞌya. Niɗa a ka ka̱ngu mu uyan ili iꞌya ma fuɗa ma yan adama a ɗa ya zuwa uza roku unyushi?
+46010029	
+46013009	Kpaci kune ku tsunu ku ureve n ucira u udansa akani a Kashila̱ ku shaɗangu wa; shegai aꞌayin a ɗa baci u ɗa wa̱ri ushaɗangi u tuwa̱i, pini nala, u ɗa bawu wa̱ri ushaɗangi vi wa woko u gbani. Kpaci kune ku tsunu ku ureve n ucira u udansa akani a Kashila̱ ku shaɗangu wa; shegai aꞌayin a ɗa baci u ɗa wa̱ri ushaɗangi u tuwa̱i, pini nala, u ɗa bawu wa̱ri ushaɗangi vi wa woko u gbani.
+46013010	
+46015015	A ꞌya̱nga̱sa̱ baci akushe a gonoi n uma wa, Kashila̱ ka ꞌya̱nga̱sa̱ Kawauwi wa. Shegai tsu dana ta̱ Kashila̱ ka ꞌya̱nga̱sa̱ ta̱ Kawauwi. Adama a nala a ꞌya̱nga̱sa̱ baci akushe wa, u woko la vi ɗe kaɓan ka tsa yansa. A ꞌya̱nga̱sa̱ baci akushe a gonoi n uma wa, Kashila̱ ka ꞌya̱nga̱sa̱ Kawauwi wa. Shegai tsu dana ta̱ Kashila̱ ka ꞌya̱nga̱sa̱ ta̱ Kawauwi. Adama a nala a ꞌya̱nga̱sa̱ baci akushe wa, u woko la vi ɗe kaɓan ka tsa yansa.
+46015016	
+46015021	Gba̱ ama a kuwa̱ ta̱ adama a ili iꞌya vuma u te u yain, Ada̱mu ɗa tuko tsu ukpa̱ gba̱ tsunu. Nala dem a ꞌya̱nga̱sa̱i ama a ukpa̱ adama a ili iꞌya vuma u te u yain. Kawauwi ka ka tuko tsu uma gba̱ tsunu. Gba̱ ama a kuwa̱ ta̱ adama a ili iꞌya vuma u te u yain, Ada̱mu ɗa tuko tsu ukpa̱ gba̱ tsunu. Nala dem a ꞌya̱nga̱sa̱i ama a ukpa̱ adama a ili iꞌya vuma u te u yain. Kawauwi ka ka tuko tsu uma gba̱ tsunu.
+46015022	
+46015051	Gogo‑na ma wenike ɗa̱ ta̱ ili i usokongi iꞌya Kashila̱ ka wenike tsu: Aza roku a tsunu a ka kuwa̱ wa, shegai a fula̱ baci kavana ka makorishi, Kashila̱ ka savaɗa tsu ta̱ gba̱ n uyan u aꞌeshi rapu, hal u lai gba̱m uwura u ili bal. Kpaci a fula̱ baci kavana, a ka ꞌya̱nga̱sa̱ ta̱ akushe, kpam a ka doku a ka kuwa̱ wa, pini nala, gba̱ tsunu tsa wusha ta̱ ikyamba i savu. Gogo‑na ma wenike ɗa̱ ta̱ ili i usokongi iꞌya Kashila̱ ka wenike tsu: Aza roku a tsunu a ka kuwa̱ wa, shegai a fula̱ baci kavana ka makorishi, Kashila̱ ka savaɗa tsu ta̱ gba̱ n uyan u aꞌeshi rapu, hal u lai gba̱m uwura u ili bal. Kpaci a fula̱ baci kavana, a ka ꞌya̱nga̱sa̱ ta̱ akushe, kpam a ka doku a ka kuwa̱ wa, pini nala, gba̱ tsunu tsa wusha ta̱ ikyamba i savu.
+46015052	
+47001013	An tsu koronku ɗa̱ vi, tsu yan ta̱ kadyanshi n a̱ɗa̱ karara, tsu sokonku ɗa̱ ko akani a te wa. Adama a nala, n zuwa ta̱ uma ya reve ta̱ gba̱ iꞌya tsu korongi. I tsa̱ ta̱ i revei ili i roku a ili iꞌya tsa tono, shegai tsu zuwa ta̱ uma ubana kapala ya reve ta̱ iꞌya mai mai, tsa̱ra̱ kain ka Yesu Asheku a tsunu ka yan baci, ya yan ta̱ maza̱nga̱ adama a tsunu, a̱tsu kpam tsu yain maza̱nga̱ adama a ɗe. An tsu koronku ɗa̱ vi, tsu yan ta̱ kadyanshi n a̱ɗa̱ karara, tsu sokonku ɗa̱ ko akani a te wa. Adama a nala, n zuwa ta̱ uma ya reve ta̱ gba̱ iꞌya tsu korongi. I tsa̱ ta̱ i revei ili i roku a ili iꞌya tsa tono, shegai tsu zuwa ta̱ uma ubana kapala ya reve ta̱ iꞌya mai mai, tsa̱ra̱ kain ka Yesu Asheku a tsunu ka yan baci, ya yan ta̱ maza̱nga̱ adama a tsunu, a̱tsu kpam tsu yain maza̱nga̱ adama a ɗe.
+47001014	
+47012003	N doku n dana, n reve ta̱ a bidya ta̱ vuma u na ubana a asu u uwunvugusa a zuba. Shegai ko ikyamba i ne iꞌya i banai a zuba vi ko kulu ku ne ka koshi ku banai n reve wa, Kashila̱ ka ka revei. U pana ta̱ kadyanshi ka roku ka bawu wa fuɗa wa toɗugbo, n ili iꞌya bawu Kashila̱ ka a̱sa̱ka̱ uza dana. N doku n dana, n reve ta̱ a bidya ta̱ vuma u na ubana a asu u uwunvugusa a zuba. Shegai ko ikyamba i ne iꞌya i banai a zuba vi ko kulu ku ne ka koshi ku banai n reve wa, Kashila̱ ka ka revei. U pana ta̱ kadyanshi ka roku ka bawu wa fuɗa wa toɗugbo, n ili iꞌya bawu Kashila̱ ka a̱sa̱ka̱ uza dana.
+47012004	
+48001001	Mpa Bulus uza ɗa u korongi ukanikorongi u na ubana a asu u aꞌuwa a Atoni a ɗa aꞌa̱ri a kaɓon ka Galatiya. Mpa kasuki ka. Ama ɗa a ɗanga̱sa mu wa, u wuta̱ tani a asu u vuma wa. Yesu Kirisiti Kawauwi ɗa u ɗanga̱sa mu n kaci ka ne. U yan ta̱ nala kaɓolo n Kashila̱ Tata uza ɗa u ꞌya̱nga̱sa̱ yi a ukpa̱. Gba̱ ama a tsunu pini na a ɓolomgbono ta̱ na̱ mpa a asu u usuku idyani i na yi. Mpa Bulus uza ɗa u korongi ukanikorongi u na ubana a asu u aꞌuwa a Atoni a ɗa aꞌa̱ri a kaɓon ka Galatiya. Mpa kasuki ka. Ama ɗa a ɗanga̱sa mu wa, u wuta̱ tani a asu u vuma wa. Yesu Kirisiti Kawauwi ɗa u ɗanga̱sa mu n kaci ka ne. U yan ta̱ nala kaɓolo n Kashila̱ Tata uza ɗa u ꞌya̱nga̱sa̱ yi a ukpa̱. Gba̱ ama a tsunu pini na a ɓolomgbono ta̱ na̱ mpa a asu u usuku idyani i na yi.
+48001002	
+49006021	Ma ciga ta̱ i reve tyoku ɗa tsa̱ri n ili iꞌya tsa yansa. Ɗa i zuwai ma suku Tikiku ara ɗe. Utoku u tsunu u ɗa uza ɗa tsa ciga, kpam dem u gbashika ta̱ Asheku mai. Wa tonuko ɗa̱ ta̱ ili iꞌya ya gita̱sa̱ n a̱tsu, kpam wa gbamatangusu ɗa̱ ta̱ atakasuvu. Ma ciga ta̱ i reve tyoku ɗa tsa̱ri n ili iꞌya tsa yansa. Ɗa i zuwai ma suku Tikiku ara ɗe. Utoku u tsunu u ɗa uza ɗa tsa ciga, kpam dem u gbashika ta̱ Asheku mai. Wa tonuko ɗa̱ ta̱ ili iꞌya ya gita̱sa̱ n a̱tsu, kpam wa gbamatangusu ɗa̱ ta̱ atakasuvu.
+49006022	
+50001015	Aza roku a ɗa pini adama a ɗa a ka ciga mu ɗa a ka yansa kuɓari, kpam a ka ciga a yain ukuna u ɗa wa̱ri dere. Ama a na yi a ka yansa ta̱ kuɓari an a revei Asheku a ɗa a tuko mu pini na vi tsa̱ra̱ n moɗono n dana ili iꞌya iꞌa̱ri dere i Kadyanshi ka Shinga. Kpam mayun ɗa wa̱ri aza roku a ɗa pini aza ɗa a ka yansa kuɓari n malyon n tsilala. Aza roku a ɗa pini adama a ɗa a ka ciga mu ɗa a ka yansa kuɓari, kpam a ka ciga a yain ukuna u ɗa wa̱ri dere. Ama a na yi a ka yansa ta̱ kuɓari an a revei Asheku a ɗa a tuko mu pini na vi tsa̱ra̱ n moɗono n dana ili iꞌya iꞌa̱ri dere i Kadyanshi ka Shinga. Kpam mayun ɗa wa̱ri aza roku a ɗa pini aza ɗa a ka yansa kuɓari n malyon n tsilala.
+50001016	
+50004002	Utoku u va̱, vu yan ta̱ manyan kaɓolo na̱ mpa mayun, kpam n folo vu ta̱ vu ɓa̱nga̱ aka a re a ɗa aꞌa̱ri pini kaɓolo n avu. N folo ta̱ Afodiya n Sinitiki, aka a re a na yi a doku a panamgbana adama a Asheku. Caupa, a yan ta̱ manyan cika kaɓolo na̱ mpa tsa̱ra̱ tsu tonuko aza roku ukuna u Kadyanshi ka Shinga. A yan ta̱ kpam manyan n Kileme n atoku a manyan a va̱ a roku. Kashila̱ ka korongu ta̱ aꞌala a ama a na yi a Tagara̱da u Aza a Uma. Utoku u va̱, vu yan ta̱ manyan kaɓolo na̱ mpa mayun, kpam n folo vu ta̱ vu ɓa̱nga̱ aka a re a ɗa aꞌa̱ri pini kaɓolo n avu. N folo ta̱ Afodiya n Sinitiki, aka a re a na yi a doku a panamgbana adama a Asheku. Caupa, a yan ta̱ manyan cika kaɓolo na̱ mpa tsa̱ra̱ tsu tonuko aza roku ukuna u Kadyanshi ka Shinga. A yan ta̱ kpam manyan n Kileme n atoku a manyan a va̱ a roku. Kashila̱ ka korongu ta̱ aꞌala a ama a na yi a Tagara̱da u Aza a Uma.
+50004003	
+51003023	Ya yanka ta̱ Yesu Asheku manyan aꞌayin gba̱. Vuma ɗa ya yanka manyan wa. Asheku a ɗa a ka na̱ka̱ ɗa̱ agadu a woko katsupi ka malen ma manyan ma i yain. Adama a nala, yanyi manyan n ucira u ɗe gba̱. Ya yanka ta̱ Yesu Asheku manyan aꞌayin gba̱. Vuma ɗa ya yanka manyan wa. Asheku a ɗa a ka na̱ka̱ ɗa̱ agadu a woko katsupi ka malen ma manyan ma i yain. Adama a nala, yanyi manyan n ucira u ɗe gba̱.
+51003024	
+54002009	U gan ta̱ aka a uka aminya dere a pala ikyamba i le adama a uvakunku u kaci. Tsulobo tsu le tsa̱ ta̱ a asu u ili iꞌya a ka yansa, tsa̱ a kuca ku kenji ko uꞌukusa u ucanga u zinariya wa. Tsa wenike a asu u ityali† ko aminya a ikebe wa. U gan ta̱ a ka̱na̱ kaci ka le a ili i nala yi. U gan ta̱ aka a uka aminya dere a pala ikyamba i le adama a uvakunku u kaci. Tsulobo tsu le tsa̱ ta̱ a asu u ili iꞌya a ka yansa, tsa̱ a kuca ku kenji ko uꞌukusa u ucanga u zinariya wa. Tsa wenike a asu u ityali† ko aminya a ikebe wa. U gan ta̱ a ka̱na̱ kaci ka le a ili i nala yi.
+54002010	
+54003014	Ma ciga ta̱ n tuwa̱ ara vunu na n aꞌayin kenu, shegai n da a̱sa̱ka̱ ve n koronku vu, tsa̱ra̱ n tsa̱ra̱ baci utuwa̱ kaku wa, vu reve tyoku ɗa ama a Kashila̱ a gain a rongo. Kpam ama a na yi alya aza ɗa a wushuki n Kawauwi kpam a wokoi ama a Kashila̱ Uza u Uma. Alya Atoni, kuwa ki kpam ka adawatsu n kami ka ukuna u mayun. Ma ciga ta̱ n tuwa̱ ara vunu na n aꞌayin kenu, shegai n da a̱sa̱ka̱ ve n koronku vu, tsa̱ra̱ n tsa̱ra̱ baci utuwa̱ kaku wa, vu reve tyoku ɗa ama a Kashila̱ a gain a rongo. Kpam ama a na yi alya aza ɗa a wushuki n Kawauwi kpam a wokoi ama a Kashila̱ Uza u Uma. Alya Atoni, kuwa ki kpam ka adawatsu n kami ka ukuna u mayun.
+54003015	
+58006001	U gan ta̱ a dana i reve ɗe uwenishike u kagita̱ u na vi, u ɗa wa̱ri dere n uwenishike u mmuku n shili. Wata, ukpatala̱ka u ili iꞌya ya tuko ukpa̱ kucina̱, kpam dem n upityanangu n Kashila̱. Uwenishike a kaci ka ukuna u ulyuɓugusu n utaɗangusu u akere. Uwenishike a kaci ka uꞌya̱nga̱ u akushe n ukuna u afada a ɗa bawu a ka kotso, iꞌa̱ ta̱ dem pini a asuvu a uwenishike u kagita̱. Gba̱ u gan ta̱ a dana i reve iꞌya ɗe. Adama a nala, tsa yan kadyanshi a kaci ka le gogo‑na wa, shegai Kashila̱ ka wushuku baci, tsa lya ta̱ kapala tsu yain kadyanshi ka ili iꞌya i yain dere n aza ɗa a gbonguroi. U gan ta̱ a dana i reve ɗe uwenishike u kagita̱ u na vi, u ɗa wa̱ri dere n uwenishike u mmuku n shili. Wata, ukpatala̱ka u ili iꞌya ya tuko ukpa̱ kucina̱, kpam dem n upityanangu n Kashila̱. Uwenishike a kaci ka ukuna u ulyuɓugusu n utaɗangusu u akere. Uwenishike a kaci ka uꞌya̱nga̱ u akushe n ukuna u afada a ɗa bawu a ka kotso, iꞌa̱ ta̱ dem pini a asuvu a uwenishike u kagita̱. Gba̱ u gan ta̱ a dana i reve iꞌya ɗe. Adama a nala, tsa yan kadyanshi a kaci ka le gogo‑na wa, shegai Kashila̱ ka wushuku baci, tsa lya ta̱ kapala tsu yain kadyanshi ka ili iꞌya i yain dere n aza ɗa a gbonguroi. U gan ta̱ a dana i reve ɗe uwenishike u kagita̱ u na vi, u ɗa wa̱ri dere n uwenishike u mmuku n shili. Wata, ukpatala̱ka u ili iꞌya ya tuko ukpa̱ kucina̱, kpam dem n upityanangu n Kashila̱. Uwenishike a kaci ka ukuna u ulyuɓugusu n utaɗangusu u akere. Uwenishike a kaci ka uꞌya̱nga̱ u akushe n ukuna u afada a ɗa bawu a ka kotso, iꞌa̱ ta̱ dem pini a asuvu a uwenishike u kagita̱. Gba̱ u gan ta̱ a dana i reve iꞌya ɗe. Adama a nala, tsa yan kadyanshi a kaci ka le gogo‑na wa, shegai Kashila̱ ka wushuku baci, tsa lya ta̱ kapala tsu yain kadyanshi ka ili iꞌya i yain dere n aza ɗa a gbonguroi.
+58006002	
+58006003	
+58006019	Uzuwa u uma u nala wa̱ ta̱ n ugbami a uma u tsunu, tyoku ɗa kashamkpatsu ka kpatsu ka tsu shamkpa kpatsu a asu u te. Uza ɗa tsa̱ri n uzuwa u uma u tsunu ara ne, aya Yesu, uza ɗa walai a asu u kunya ka a ba̱ra̱kpa̱i a utsutsu ubana a Asu u ɗa u Lakai Uwulukpi† a zuba. Adama a tsunu a ɗa u yain nala. U wokoi Magono ma Aɗara̱kpi ubana, kaɗara̱kpi ucun u Malikisada. Uzuwa u uma u nala wa̱ ta̱ n ugbami a uma u tsunu, tyoku ɗa kashamkpatsu ka kpatsu ka tsu shamkpa kpatsu a asu u te. Uza ɗa tsa̱ri n uzuwa u uma u tsunu ara ne, aya Yesu, uza ɗa walai a asu u kunya ka a ba̱ra̱kpa̱i a utsutsu ubana a Asu u ɗa u Lakai Uwulukpi† a zuba. Adama a tsunu a ɗa u yain nala. U wokoi Magono ma Aɗara̱kpi ubana, kaɗara̱kpi ucun u Malikisada.
+58006020	
+58013020	N yan ta̱ kavasu Kashila̱ ka ndishi n shinga u na̱ka̱ ɗa̱ gba̱ ili i shinga iꞌya bawu iꞌa̱ri n iꞌya, tsa̱ra̱ i yain ili iꞌya wa ciga. U ꞌya̱nga̱sa̱ ta̱ Asheku a tsunu Yesu Kawauwi a ukpa̱. Gogo‑na Yesu woko ɗe Kaliniki ka Pige uza ɗa a yankai manyan na̱ mpasa n ne tsa̱ra̱ a gbamatangu kazuwamgbani ka Kashila̱ na̱ ncon n ne, ka bawu ka kotso. N yan ta̱ kavasu tsa̱ra̱ Kashila̱ ka yain ili iꞌya i yankpa yi a asuvu a tsunu a akere a Yesu Kawauwi. Tsupige tsu woko ara ne hal ubana bawu utyoku. Ami. N yan ta̱ kavasu Kashila̱ ka ndishi n shinga u na̱ka̱ ɗa̱ gba̱ ili i shinga iꞌya bawu iꞌa̱ri n iꞌya, tsa̱ra̱ i yain ili iꞌya wa ciga. U ꞌya̱nga̱sa̱ ta̱ Asheku a tsunu Yesu Kawauwi a ukpa̱. Gogo‑na Yesu woko ɗe Kaliniki ka Pige uza ɗa a yankai manyan na̱ mpasa n ne tsa̱ra̱ a gbamatangu kazuwamgbani ka Kashila̱ na̱ ncon n ne, ka bawu ka kotso. N yan ta̱ kavasu tsa̱ra̱ Kashila̱ ka yain ili iꞌya i yankpa yi a asuvu a tsunu a akere a Yesu Kawauwi. Tsupige tsu woko ara ne hal ubana bawu utyoku. Ami.
+58013021	
+60003013	Ya wa yanka ɗa̱ ukuna u cingi iꞌa̱ baci ufoɓusi i yanka le ukuna u shinga? Shegai a ka yan ɗa̱ baci mavura an ya yansa ukuna u maci, kotsu i pana uwonvo wa kpam kotsu i namgba asuvu wa. Kashila̱ ka na̱ka̱ ɗa̱ ta̱ katsupi ka ya yansa ukuna u ɗa wa̱ri u shinga. Ya wa yanka ɗa̱ ukuna u cingi iꞌa̱ baci ufoɓusi i yanka le ukuna u shinga? Shegai a ka yan ɗa̱ baci mavura an ya yansa ukuna u maci, kotsu i pana uwonvo wa kpam kotsu i namgba asuvu wa. Kashila̱ ka na̱ka̱ ɗa̱ ta̱ katsupi ka ya yansa ukuna u ɗa wa̱ri u shinga.
+60003014	
+66002026	“Ma a̱sa̱ka̱ ta̱ aza ɗa a lyai kaci ki a tsa̱ra̱ ucira ucun u te u ulya tsugono tsa Tata u va̱ u na̱ka̱ mu. Ma yan ta̱ nala a asu u aza ɗa a ka lya kapala n uyansa ili iꞌya n tonuko le a yansa, hal ubana makorishi ma likimba. Ma a̱sa̱ka̱ le ta̱ a tsa̱ra̱ ucira u ulya tsugono tsa aletsu gba̱. A ka lya baci tsugono tsu nala tsi, a ka shamgba ta̱ n ucira, kpam a ka gbashangu le ta̱ tyoku ɗa ama a tsu ta̱sa̱sa̱ mgbodo n cin. Ma na̱ka̱ le ta̱ dem katala ka ka tsu wantukpa n kpasani ku de ka woko iryoci i ulya u kaci u le. “Ma a̱sa̱ka̱ ta̱ aza ɗa a lyai kaci ki a tsa̱ra̱ ucira ucun u te u ulya tsugono tsa Tata u va̱ u na̱ka̱ mu. Ma yan ta̱ nala a asu u aza ɗa a ka lya kapala n uyansa ili iꞌya n tonuko le a yansa, hal ubana makorishi ma likimba. Ma a̱sa̱ka̱ le ta̱ a tsa̱ra̱ ucira u ulya tsugono tsa aletsu gba̱. A ka lya baci tsugono tsu nala tsi, a ka shamgba ta̱ n ucira, kpam a ka gbashangu le ta̱ tyoku ɗa ama a tsu ta̱sa̱sa̱ mgbodo n cin. Ma na̱ka̱ le ta̱ dem katala ka ka tsu wantukpa n kpasani ku de ka woko iryoci i ulya u kaci u le. “Ma a̱sa̱ka̱ ta̱ aza ɗa a lyai kaci ki a tsa̱ra̱ ucira ucun u te u ulya tsugono tsa Tata u va̱ u na̱ka̱ mu. Ma yan ta̱ nala a asu u aza ɗa a ka lya kapala n uyansa ili iꞌya n tonuko le a yansa, hal ubana makorishi ma likimba. Ma a̱sa̱ka̱ le ta̱ a tsa̱ra̱ ucira u ulya tsugono tsa aletsu gba̱. A ka lya baci tsugono tsu nala tsi, a ka shamgba ta̱ n ucira, kpam a ka gbashangu le ta̱ tyoku ɗa ama a tsu ta̱sa̱sa̱ mgbodo n cin. Ma na̱ka̱ le ta̱ dem katala ka ka tsu wantukpa n kpasani ku de ka woko iryoci i ulya u kaci u le.
+66002027	
+66002028	
+66007005	A zuwuka ta̱ ama azu kupa n azu a re (12,000) a kagali ka Yahuza, n ama azu kupa n azu a re a kagali ka Roben iryoci. A zuwuka ta̱ ama azu kupa n azu a re a kagali ka Gadu, n ama azu kupa n azu a re a kagali ka Ashiru iryoci. A zuwuka ta̱ ama azu kupa n azu a re a kagali ka Nafutali, n ama azu kupa n azu a re a kagali ka Manase iryoci. A zuwuka ta̱ ama azu kupa n azu a re a kagali ka Saminu, n ama azu kupa n azu a re a kagali ka Levi iryoci. A zuwuka ta̱ ama azu kupa n azu a re a kagali ka Isaka, n ama azu kupa n azu a re a kagali ka Zebulun iryoci. A zuwuka ta̱ ama azu kupa n azu a re a kagali ka Isuhu, n ama azu kupa n azu a re a kagali ka Bayami iryoci.
+66007006	
+66007007	
+66007008	
+66014009	Aku katsumate ka tatsu ka tono le, n ka sala̱si, “Gba̱ ama ɗa a lyakai kadin ki kayala n kameli ka ne aꞌa̱ ta̱ n kugyan ku kadin ki a acen a le ko kpam a akere a le. Kashila̱ ka zuwa le ta̱ a soi mini ma cinwi ma mavura ma ne. Mini ma cinwi ma na mi a goso ma n mini wa, Kashila̱ n kaci ka ne aya u tsungi ma n ucira nala a mako ma upan ma ne. Ama a nala yi dem a ka zuwa le ta̱ a pana ikyamba a asuvu a akina a eri a ɗa a ka tasa a kapala ka atsumate a eri n a kapala ka Maku ma Kondom. Aku katsumate ka tatsu ka tono le, n ka sala̱si, “Gba̱ ama ɗa a lyakai kadin ki kayala n kameli ka ne aꞌa̱ ta̱ n kugyan ku kadin ki a acen a le ko kpam a akere a le. Kashila̱ ka zuwa le ta̱ a soi mini ma cinwi ma mavura ma ne. Mini ma cinwi ma na mi a goso ma n mini wa, Kashila̱ n kaci ka ne aya u tsungi ma n ucira nala a mako ma upan ma ne. Ama a nala yi dem a ka zuwa le ta̱ a pana ikyamba a asuvu a akina a eri a ɗa a ka tasa a kapala ka atsumate a eri n a kapala ka Maku ma Kondom.
+66014010	
+66015005	N wenei kpam pini a zuba, atsumate a zuba a shindere aza ɗa a ka ɓa̱na̱ usara u shindere vi a wuta̱i asuvu Asu u Uwulukpi† a Kuwa ku Kashila̱. Ya dem u ukai kunya ku eri ka ka laɗa, n kunya ku uwambana ku kagbodo ka a cai n zinariya uwambani a makamba ma ne. N wenei kpam pini a zuba, atsumate a zuba a shindere aza ɗa a ka ɓa̱na̱ usara u shindere vi a wuta̱i asuvu Asu u Uwulukpi† a Kuwa ku Kashila̱. Ya dem u ukai kunya ku eri ka ka laɗa, n kunya ku uwambana ku kagbodo ka a cai n zinariya uwambani a makamba ma ne.
+66015006	
+66016010	Katsumate ka zuba ka tawun ka tsa̱la̱i ili iꞌya iꞌa̱ri a kabelu ka ne a karatsu ka tsugono tsu kadin ki, aku uyamba u ɗa wa lya tsugono tsi u wokoi n karimbi. Ama a ka lumusa ajiri a le adama a upana u ikyamba na̱ mɓa̱la̱ ma agala̱ma. Shegai a wishai Kashila̱ ka Zuba a ꞌyuwain ukpatala a a̱sa̱ka̱ unyushi u cingi u le. Katsumate ka zuba ka tawun ka tsa̱la̱i ili iꞌya iꞌa̱ri a kabelu ka ne a karatsu ka tsugono tsu kadin ki, aku uyamba u ɗa wa lya tsugono tsi u wokoi n karimbi. Ama a ka lumusa ajiri a le adama a upana u ikyamba na̱ mɓa̱la̱ ma agala̱ma. Shegai a wishai Kashila̱ ka Zuba a ꞌyuwain ukpatala a a̱sa̱ka̱ unyushi u cingi u le.
+66016011	
+66020002	Katsumate ka zuba ki ka ka̱na̱i ubungu vi; wata, kali ka nala ka ka̱ri tun caupa vi ka a tsu isa̱ Kala̱pa̱nsi ko kpam Kanangasi. U bidyai ikani yi u sira yi mai n iꞌya. Aku u vuta̱la̱ yi a kaɗa̱ka̱ ka bawu ka̱ri n utyoku. N makukpunki ma wa ɓa̱na̱ a kukere ku ne ki ma u gbagiryai utsutsu u kaɗa̱ka̱ vi, aku u zuwai iryoci pini a utsutsu vi tsa̱ra̱ ko uza u kukpa̱ wa. Kala̱pa̱nsi ki ka rongo ta̱ pini hal ayen kazu (1,000), adama a nala wa doku wa yinsa̱ kpam ama a likimba wa. Ayen kazu yi a wura baci, katsumate ki ka a̱sa̱ka̱ yi ta̱ ve aꞌayin kenu. Katsumate ka zuba ki ka ka̱na̱i ubungu vi; wata, kali ka nala ka ka̱ri tun caupa vi ka a tsu isa̱ Kala̱pa̱nsi ko kpam Kanangasi. U bidyai ikani yi u sira yi mai n iꞌya. Aku u vuta̱la̱ yi a kaɗa̱ka̱ ka bawu ka̱ri n utyoku. N makukpunki ma wa ɓa̱na̱ a kukere ku ne ki ma u gbagiryai utsutsu u kaɗa̱ka̱ vi, aku u zuwai iryoci pini a utsutsu vi tsa̱ra̱ ko uza u kukpa̱ wa. Kala̱pa̱nsi ki ka rongo ta̱ pini hal ayen kazu (1,000), adama a nala wa doku wa yinsa̱ kpam ama a likimba wa. Ayen kazu yi a wura baci, katsumate ki ka a̱sa̱ka̱ yi ta̱ ve aꞌayin kenu.
+66020003	
+66020007	An ayen kazu yi a kotsoi, katsumate ka zuba ki ka a̱sa̱ka̱i Kanangasi a asu u ɗa aꞌa̱ri a sira yi caupa vi, wa wuta̱ ta̱ u yinsa̱ iyamba n aza ɗa a wacuwai a asuvu a likimba gba̱. Iyamba i nala yi iꞌya a ka isa̱ Gogu n Magogu. Wa tuko le ta̱ a asu u te a asu u ɗa a ka yan kuvon. A ka yan ta̱ ushani cika hal gba̱m ko uza wa fuɗa wa kece le wa. An ayen kazu yi a kotsoi, katsumate ka zuba ki ka a̱sa̱ka̱i Kanangasi a asu u ɗa aꞌa̱ri a sira yi caupa vi, wa wuta̱ ta̱ u yinsa̱ iyamba n aza ɗa a wacuwai a asuvu a likimba gba̱. Iyamba i nala yi iꞌya a ka isa̱ Gogu n Magogu. Wa tuko le ta̱ a asu u te a asu u ɗa a ka yan kuvon. A ka yan ta̱ ushani cika hal gba̱m ko uza wa fuɗa wa kece le wa.
+66020008	
+66021019	Asuvu a atali kupa n a re yi katali dem ka̱ ta̱ kau kpam ka ikebe a kami ka kuma ki. A roku a shili a ɗa, a roku tani mini ma tsulon ma le, a roku tani mini ma avuku ma le, a roku kpam mini ma lima̱ icun i mabucu ma iva̱shi i akaryabi. Asuvu a atali kupa n a re yi katali dem ka̱ ta̱ kau kpam ka ikebe a kami ka kuma ki. A roku a shili a ɗa, a roku tani mini ma tsulon ma le, a roku tani mini ma avuku ma le, a roku kpam mini ma lima̱ icun i mabucu ma iva̱shi i akaryabi.
+66021020	
