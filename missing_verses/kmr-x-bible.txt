@@ -1,32 +1,47 @@
-40017020
-40018010
-40023013
-41007015
-41009043
-41009045
-41011025
-41015027
-42001074
-42001075
-42017035
-42023016
-42023044
-42023045
-43005003
-44008036
-44015033
-44024008
-44028028
-45009011
-45009012
-45016023
-46001005
-46001006
-46016015
-46016016
-52004004
-52004005
-66001005
-66001006
-66002026
-66002027
+40017020	Wî li wan vegerand: «Ji ber ku baweriya we kêm e. Bi rastî ez ji we re dibêjim, eger wek liba xerdelê baweriya we hebe, hûn ji vî çiyayî re bêjin: ‹Ji vir here wir›, ewê here. Tu tişt tune ku ji bo we çênebe.»
+40017021	
+40018010	Hay jê hebin, yekî ji van biçûkan kêm nebînin. Çimkî ez ji we re dibêjim ku milyaketên wan li ezmanan hergav li rûyê Bavê min ê li ezmanan dinêrin.
+40018011	
+40023013	«Wey li we hûn Şerîetzan û Fêrisîno! Hûn durûno! Hûn Padîşahiya Ezmanan li ber mirovan digirin. Hûn bi xwe nakevinê û ne jî hûn dihêlin ên ku dixwazin bikevinê, derbas bibin.
+40023014	
+41007015	Bi pûçîtî diperizin* min, Di hîndariya xwe de, emrên mirovan hîn dikin.
+41009043	Eger destê te, te bixe guneh, wî jêke! Ji bo te çêtir e ku tu bê dest bikevî jiyanê, lê ne ku bi herdu destên xwe ve herî dojehê*, nav agirê ku venamire.
+41009044	
+41009045	Eger lingê te, te bixe guneh, wî jêke! Ji bo te çêtir e ku tu bê ling bikevî jiyanê, lê ne ku tu bi herdu lingên xwe ve bêyî avêtin dojehê
+41009046	
+41011025	Û gava ku hûn ji bo duakirinê radiwestin, eger li hember kesekî tiştekî we hebe, lê bibihûrin, da ku Bavê* we yê li ezmanan jî li sûcên we bibihûre.»
+41011026	
+41015027	Bi wî re du rêbir* jî xaçkirin; yek li milê wî yê rastê, yê din li milê wî yê çepê.
+41015028	
+42001074	Ku em ji destê dijminên xwe xilas bibin Û bê tirs li ber wî di hemû rojên jiyana xwe de. Bi paqijî û rastî biperizin* wî.
+42001075	
+42017035	Du jin wê bi hev re li ser destar bin, yek ji wan wê bê birin û ya din wê bê hiştin.»
+42017036	
+42023016	Loma ezê wî bidim ber qamçiyan û berdim.»
+42023017	
+42023044	Gava dibû nêzîkî saet diwanzdehê nîvro, rojê tarîtî girt û tarî heta saet sisiyan ket ser seranserê welêt û perda Perestgehê di nîvî re çiriya
+42023045	
+43005003	Di wan eywanan de komeke mezin a nexweşan: Kor, şil û şeht* û felcî vedizeliyan. Ew li benda çeliqandina avê diman.
+43005004	
+44008036	Gava di riya xwe de diçûn, gihîştin ser avekê, yê nemêrkirî got: «Va ye av, ma çi ji min re dibe asteng ku ez imad* nebim?»
+44008037	
+44015033	Piştî ku ew demekê li wir man, birayan bi aştî ew bi rê kirin ba yên ku ew şandibûn.
+44015034	
+44024008	Îcar gava ku tu bi xwe wî bikişînî pirsyariyê, tu dikarî hemû tiştên ku em wî pê sûcdar dikin, ji wî hîn bibî.»
+44024009	
+44028028	De îcar bizanin ku ev xilaskirina Xwedê ji miletan re hatiye şandin û ewê guhdarî bikin.
+44028029	
+45009011	Hê ku zarok çênebûbûn û tiştekî qenc an xerab nekiribûn, ji wê re hat gotin ku: «Yê mezin wê ji yê biçûk re xulamtiyê bike.» Ev wusa çêbû, da ku mebesta bijartina Xwedê ne li gor kirinan, lê li gor gazîkirina wî be.
+45009012	
+45016023	Gayosê ku mêvandarê min û tevahiya civînê ye silavan li we dike. Xiznedarê bajêr Erastos* û birayê me Kuwartos silavan li we dikin.
+45016024	
+46001005	Çimkî ka çawa şahidiya Mesîh di nav we de qayîm bûye, hûn bi wî di her tiştî de, di peyivîn û di zanînê de dewlemend bûne.
+46001006	
+46016015	Birano, daxwazeke min ji we heye; hûn dizanin, maliyên Stefanas, bawermendên pêşî yên herêma Axayayê* ne. Bi ser de wan xwe ji xizmeta pîrozan re veqetandiye. Serî li ber yên weha û li ber hemûyên ku bi wan re dixebitin û keda xwe didin, deynin.
+46016016	
+52004004	ne wek miletên ku Xwedê nas nakin di xwestekên şehwetê de, lê bila her yek ji we bizane ku di paqijî û şîrhelaliyê de li bedena xwe bibe xweyî.
+52004005	
+66001005	û ji Îsa Mesîhê ku şahidê dilsoz, nixuriyê miriyan û serokê padîşahên erdê ye, kerem û aştî* li ser we be. Rûmet û karîn her û her ji wî re be, ku ji me hez dike û bi xwîna xwe em ji gunehên me azad kirine û em ji Bavê xwe Xwedê re kirine padîşahî û kahîn*. Amîn.
+66001006	
+66002026	Û ewê ku bi ser dikeve û heta dawiyê karên min li ba xwe digire, çawa ku min ji Bavê* xwe standiye, Ez jî, ezê li ser miletan hukumdariyê bidim wî. Wek ku firaxên cerîn dişikênin, Wê bi gopalê hesin serweriyê li wan bike.
+66002027	
