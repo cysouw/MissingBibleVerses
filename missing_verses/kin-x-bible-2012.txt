@@ -1,24 +1,24 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-41012006
-41012007
-41012008
-41012009
-41012010
-42013004
-42013005
-66004009
-66004010
-66004011
+40001002	Abrahamu yabyaye Izaki, Izaki abyara Yakobo, Yakobo abyara Yuda n’abavandimwe be,
+40001003	Yuda abyara Faresi na Zara, kuri Tamara, Faresi abyara Esiromi, Esiromi abyara Aramu.
+40001004	Aramu abyara Aminadabu, Aminadabu abyara Nahasoni, Nahasoni abyara Salimoni.
+40001005	Salimoni abyara Bowozi, kuri Rahabu, Bowozi abyara Yobedi, kuri Ruta, Yobedi abyara Yese,
+40001006	Yese abyara umwami Dawudi. Dawudi abyara Salomoni, ku mugore wa Uriya,
+40001007	Salomoni abyara Robowamu, Robowamu abyara Abiya, Abiya abyara Asa,
+40001008	Asa abyara Yozafati, Yozafati abyara Yoramu, Yoramu abyara Oziyasi,
+40001009	Oziyasi abyara Yowatamu, Yowatamu abyara Akazi, Akazi abyara Ezekiyasi,
+40001010	Ezekiyasi abyara Manase, Manase abyara Amoni, Amoni abyara Yoziyasi,
+40001011	Yoziyasi abyara Yekoniyasi na barumuna be, igihe bajyanwa bunyago i Babiloni.
+40001012	Ijyanwabunyago ry’i Babiloni rirangiye Yekoniyasi abyara Salatiyeli, Salatiyeli abyara Zorobabeli,
+40001013	Zorobabeli abyara Abiyudi, Abiyudi abyara Eliyakimu, Eliyakimu abyara Azori,
+40001014	Azori abyara Sadoki, Sadoki abyara Akimu, Akimu abyara Eliyudi,
+40001015	Eliyudi abyara Eleyazari, Eleyazari abyara Matani, Matani abyara Yakobo,
+41012006	Hari hasigaye umwana we yakundaga, nyuma aba ari we abatumaho, yibwira ati ’Umwana wanjye we nta cyo bazamutwara.’
+41012007	Ariko abahinzi bamubonye, barabwirana bati ’Dore uzamuzungura; nimuze tumwice, maze tuzazungure ibye.’
+41012008	Nuko baramufata baramwica, bamujugunya inyuma y’umurima w’imizabibu.
+41012009	Mbese mubona nyir’imizabibu azakora iki? Azaza, arimbure abo bahinzi, maze imizabibu ayishinge abandi.
+41012010	Ntimwasomye se mu Byanditswe ngo Ibuye ryajugunywe n’abubatsi, ni ryo ryabaye insanganyarukuta.
+42013004	«Tubwire igihe ibyo bizabera, n’ikimenyetso kizereka abantu ko ibyo byose bigiye gushira.»
+42013005	Yezu ni ko guterura ati «Muramenye ntihazagire ubayobya,
+66004009	Uko ibyo Binyabuzima byahaga ikuzo n’icyubahiro kandi binashimira Uwicaye ku ntebe y’ubwami, Uriho uko ibihe bizahora bisimburana iteka,
+66004010	Abakambwe makumyabiri na bane bari bapfukamye imbere y’Uwicaye ku ntebe y’ubwami, basenga Uriho uko ibihe bizahora bisimburana iteka, bakanaga amakamba yabo imbere y’intebe y’ubwami, bavuga bati
+66004011	«Nyagasani Mana yacu, ukwiriye guharirwa ikuzo, icyubahiro n’ububasha, kuko ari Wowe waremye ibintu byose, washatse ko bibaho, maze biraremwa.»

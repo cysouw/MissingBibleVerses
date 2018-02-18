@@ -23,3 +23,5 @@
 46011002
 58010027
 66010006
+
+#die Verse fehlen alle. Es handelt sich in den meisten Fällen um den letzten Vers, aber auch mitten im Kapitel werden Verse übersprungen. Über Google habe ich leider keine weitere Übersetzung bis auf die angegebene von bible.com gefunden.

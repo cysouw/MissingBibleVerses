@@ -1,279 +1,279 @@
-40001023
-40002006
-40002018
-40004015
-40004016
-40006010
-40006011
-40006012
-40006013
-40012018
-40012019
-40012020
-40012021
-40015008
-40015009
-40021005
-40022044
-40022045
-41001003
-41007007
-41007008
-41007009
-41007010
-41007011
-41007012
-41007013
-41007021
-41007022
-41012011
-41012037
-42001047
-42001048
-42001049
-42001050
-42001051
-42001052
-42001053
-42001054
-42001055
-42001068
-42001069
-42001070
-42001071
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002029
-42002030
-42002031
-42002032
-42003005
-42003006
-42004011
-42004018
-42004019
-42006021
-42006024
-42006025
-42011003
-42011004
-42020018
-42020043
-42020044
-42023050
-42023051
-43010014
-43010015
-43012015
-43012040
-43012041
-44002018
-44002019
-44002020
-44002021
-44002026
-44002027
-44002028
-44002035
-44004012
-44004026
-44004027
-44004028
-44004029
-44004030
-44005001
-44005002
-44007049
-44007050
-44008033
-44013034
-44013035
-44013036
-44013037
-44013038
-44013039
-44013040
-44013041
-44015016
-44015017
-44015018
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44017029
-44017030
-44017031
-44023026
-44023027
-44023028
-44023029
-44023030
-44028026
-44028027
-45001003
-45001004
-45003011
-45003012
-45003013
-45003014
-45003015
-45003016
-45003017
-45003018
-45003025
-45003026
-45004007
-45004008
-45008037
-45008038
-45008039
-45009011
-45009012
-45009026
-45009027
-45009028
-45009029
-45010019
-45010020
-45010021
-45011010
-45011027
-45011035
-45011036
-45014012
-45015010
-45015011
-45015012
-46001020
-46002010
-46002011
-46002012
-46002013
-46003020
-46003021
-46003022
-46003023
-46005003
-46005004
-46005012
-46005013
-46015051
-46015052
-46015055
-46015056
-46015057
-46016015
-46016016
-47001013
-47001014
-47006018
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-47012003
-47012004
-49004009
-49004010
-49004011
-49004012
-49004013
-49004014
-49004015
-49004016
-50002006
-50002007
-50002008
-50002009
-50002010
-50002011
-55002008
-55002009
-55002010
-55002011
-55002012
-55002013
-56002006
-56002007
-58001006
-58001007
-58001008
-58001009
-58001010
-58001011
-58001012
-58001013
-58001014
-58002007
-58002008
-58002013
-58003008
-58003009
-58003010
-58003011
-58003016
-58003017
-58003018
-58003019
-58004004
-58004005
-58004006
-58004007
-58005006
-58006004
-58006005
-58006006
-58007009
-58007010
-58007013
-58007014
-58007022
-58008009
-58008010
-58008011
-58008012
-58008013
-58010006
-58010007
-58010008
-58010009
-58010010
-58010016
-58010017
-58010018
-58010038
-58010039
-58012006
-58012007
-58012008
-58012009
-58012010
-58012011
-58013020
-58013021
-60001025
-60002007
-60002008
-60003011
-60003012
-60004019
-66002027
-66002028
-66004011
-66005010
-66007005
-66007006
-66007007
-66007008
-66015004
+40001023	“Dore umukobwa wisugi azasama inda, azabyara umwana wumuhungu, bazamwita Emanweli.” (Risobanurwa ngo “Imana iri kumwe natwe.”)
+40002006	‘Nawe Betelehemu yo mu Buyuda, ntabwo uri uwinyuma mu butegetsi bwu Buyuda, kuko muri wowe hazaturuka umutegetsi, azaba umushumba wubwoko bwanjye bwAbisiraheli.’ ”
+40002018	“Induru yumvikaniye i Rama, humvikanye namarira numuborogo mwinshi. Rasheli araririra abana be, yanze guhozwa kuko batakiriho.”
+40004015	“Nimwumve ntara ya Zabuloni niya Nafutali, ahagana ku nyanja no hakurya ya Yorodani, aho ni ho Galileya ituwe nabanyamahanga.
+40004016	Abantu bāri mu mwijima bigunze, babonye umucyo mwinshi. Abāri mu gihugu cyacuze umwijima wurupfu bigunze, urumuri rwarabamurikiye.”
+40006010	ubwami bwawe nibuze. Ibyo ushaka bibe ari byo bikorwa ku isi, nkuko bikorwa mu ijuru.
+40006011	Uduhe none ifunguro ridukwiriye .
+40006012	Utubabarire ibyo twagucumuyeho, nkuko natwe tubabarira abaducumuyeho.
+40006013	Ntutureke ngo tugwe mu byadushuka, ahubwo udukize ikibi , [kuko ubwami nubushobozi nikuzo ari ibyawe iteka ryose. Amina.]’
+40012018	“Dore umugaragu wanjye nitoranyirije, ndamukunda cyane ni we nishimira. Nzamushyiramo Mwuka wanjye, azatangariza amahanga ubutabera.
+40012019	Ntazatongana kandi ntazasakuza, ntazarangurura ijwi rye mu mayira.
+40012020	Urubingo ruvunitse ntazaruhwanya, itara rigicumbeka ntazarizimya, kugeza igihe azaba atumye ubutabera butsinda.
+40012021	Bityo amahanga yose azamwiringira.”
+40015008	‘Aba bantu bampoza ku rurimi, ariko imitima yabo imba kure.
+40015009	Barushywa nubusa bansenga, kuko inyigisho bigisha ari amategeko yabantu gusa.’ ”
+40021005	“Nimubwire abaturage bi Siyoni muti: ‘Dore umwami wanyu aje abasanga, yicishije bugufi ahetswe nindogobe, ndetse ahetswe nicyana cyayo.’ ”
+40022044	‘Nyagasani yabwiye Umwami wanjye ati: “Icara ku ntebe ya cyami iburyo bwanjye, nanjye nzashyira abanzi bawe munsi yibirenge byawe .” ’
+40022045	None se ubwo Dawidi yita Kristo umwami we, Kristo yaba ate kandi umwana we?”
+41001003	Nimwumve ijwi ryurangururira mu butayu ati: ‘Nimutunganye inzira ya Nyagasani, muringanize aho azanyura.’ ”
+41007007	Barushywa nubusa bansenga, kuko inyigisho bigisha ari amategeko yabantu gusa.’ ”
+41007008	Yezu arakomeza ati: “Amategeko yImana muyarengaho, mukihambira ku mihango yabantu.
+41007009	Mwihatira kwirengagiza ibyo Imana yategetse, kugira ngo mukurikize imihango yanyu.
+41007010	Musa yaravuze ati: ‘Ujye wubaha so na nyoko’, kandi ati: ‘Uzatuka se cyangwa nyina azicwe.’
+41007011	Naho mwebwe muvuga ko umuntu ashobora kubwira se cyangwa nyina ati: ‘Icyo najyaga kugufashisha ni “Korubani” (ni ukuvuga ituro ryagenewe Imana)’.
+41007012	Bityo mukaba mutakimukundiye kugifashisha se cyangwa nyina,
+41007013	mukaba muhinduye ubusa Amategeko yImana kubera imihango yababayemo akarande. Hariho kandi nibindi byinshi bene nkibyo mukora.”
+41007021	kuko mu mitima yabantu ari ho hava imigambi mibi: ubusambanyi nubujura nubwicanyi, nirari nubugome nuburiganya, no kwiyandarika nishyari, no gutukana nubwirasi nubugoryi. kuko mu mitima yabantu ari ho hava imigambi mibi: ubusambanyi nubujura nubwicanyi, nirari nubugome nuburiganya, no kwiyandarika nishyari, no gutukana nubwirasi nubugoryi.
+41007022	
+41012011	Ibyo ni Nyagasani wabikoze, none bitubereye igitangaza!’ ”
+41012037	None se ubwo Dawidi ubwe yita Kristo umwami we, Kristo yaba ate kandi umwana we?” Abumvaga Yezu bari benshi kandi bamwumvanaga umunezero.
+42001047	nishimiye Imana Umukiza wanjye.
+42001048	Yitaye ku muja we wintamenyekana, uhereye ubu abo mu bihe byose bazanyita umunyehirwe.
+42001049	Ushoborabyose yankoreye ibitangaje, koko ni umuziranenge!
+42001050	Agirira impuhwe abamwubaha, uko ibihe biha ibindi.
+42001051	Yarambuye ukuboko akora ibyimbaraga, yatatanyije abirasi.
+42001052	Yahanantuye abakomeye abanyaga ubutegetsi, yakujije aboroheje.
+42001053	Abashonji yabahagije ibyiza, abakungahaye abasezerera amāra masa.
+42001054	Yagobotse umugaragu we Isiraheli, yagiriye impuhwe
+42001055	Aburahamu nurubyaro rwe iteka ryose, nkuko yari yarabisezeranyije ba sogokuruza.”
+42001068	“Nihasingizwe Nyagasani Imana ya Isiraheli, yagobotse abantu be arabacungura.
+42001069	Yaduhagurukirije intwari yo kudukiza, yakomotse mu muryango wumugaragu we Dawidi.
+42001070	Ibyo yabivuze atumye abahanuzi be yitoranyirije kuva kera,
+42001071	yavuze ko azadukiza abanzi bacu, akatugobotora mu maboko yabatwanga bose.
+42001072	Yavuze ko azagirira impuhwe ba sogokuruza, akazirikana Isezerano ritunganye yagiranye na bo.
+42001073	Imana yarahiye sogokuruza Aburahamu ko izatumara ubwoba,
+42001074	yamurahiye ko izatuvana mu maboko yabanzi bacu.
+42001075	Bityo tuzayiyoboka tubikuye ku mutima, turi intungane iminsi yose yukubaho kwacu.
+42001076	Naho wowe mwana wanjye, uzitwa umuhanuzi wIsumbabyose, uzabanziriza Nyagasani kugira ngo umutunganyirize inzira.
+42001077	Uzamenyesha abantu be agakiza baheshwa no kubabarirwa ibyaha.
+42001078	Imana yacu igira impuhwe nimbabazi, izatugezaho urumuri ruvuye mu ijuru ruturasire nkizuba,
+42001079	ruzamurikira abari mu mwijima bugarijwe nurupfu, ruzatuyobora mu nzira yamahoro.”
+42002029	“Databuja, washohoje ibyo wansezeranyije, none undeke nigendere amahoro.
+42002030	Niboneye namaso yanjye agakiza kawe,
+42002031	ako wageneye amahanga yose.
+42002032	Niboneye urumuri rwo kumurikira amahanga, niboneye nikuzo ryubwoko bwawe bwAbisiraheli.”
+42003005	Imibande yose izuzuzwa, imisozi yose nudusozi bizitswa, inzira zigoramye zizagororwa, izasibye zizasiburwa.
+42003006	Bityo umuntu wese azabona agakiza kImana.’ ”
+42004011	bazakuramira mu maboko yabo, kugira ngo udasitara ku ibuye.’ ”
+42004018	“Mwuka wa Nyagasani ari kuri jye, yansīze amavuta arantoranya, yantoranyirije kugeza Ubutumwa bwiza ku bakene. Yantumye gutangariza imfungwa ko zifunguwe, nimpumyi ko zihumutse, nabakandamijwe ko bavanywe mu buja,
+42004019	no gutangaza umwaka Nyagasani agiriyemo imbabazi.”
+42006021	Murahirwa mwebwe mushonje ubu, kuko muzahazwa. Murahirwa mwebwe murira ubu, kuko muzaseka.
+42006024	Ariko muzabona ishyano mwebwe abakungahaye ubu, kuko mumaze gushyikira ibibahagije!
+42006025	Muzabona ishyano mwebwe abijuse ubu, kuko muzasonza. Muzabona ishyano mwebwe abaseka ubu, kuko muzashavura kandi mukarira.
+42011003	Buri munsi ujye uduha ifunguro ridukwiriye .
+42011004	Utubabarire ibyaha byacu, kuko natwe ubwacu tubabarira abatugiriye nabi bose. Kandi ntutureke ngo tugwe mu byadushuka.’ ”
+42020018	Umuntu wese uzagwa kuri iryo buye azavunagurika, ariko uwo rizagwira rizamujanjagura.”
+42020043	nanjye nzahindura abanzi bawe nkakabaho ukandagizaho ibirenge .” ’
+42020044	None se ubwo Dawidi ubwe yita Kristo umwami we, Kristo yaba ate kandi umwana we?”
+42023050	Hariho umugabo witwaga Yozefu ukomoka mu mujyi wAbayahudi witwa Arimateya. Yari umuntu winyangamugayo kandi wintungane, akaba ari umwe mu bari bategereje ubwami bwImana. Yari umujyanama mu rukiko rwikirenga rwAbayahudi, ariko ntiyari yemeye uko urubanza rwa Yezu rwaciwe nibyo bamukoreye. Hariho umugabo witwaga Yozefu ukomoka mu mujyi wAbayahudi witwa Arimateya. Yari umuntu winyangamugayo kandi wintungane, akaba ari umwe mu bari bategereje ubwami bwImana. Yari umujyanama mu rukiko rwikirenga rwAbayahudi, ariko ntiyari yemeye uko urubanza rwa Yezu rwaciwe nibyo bamukoreye.
+42023051	
+43010014	Ni jye mushumba mwiza. Uko Data anzi nanjye nkamumenya, ni ko nzi intama zanjye na zo zikamenya, ndetse nemera kuzipfira. Ni jye mushumba mwiza. Uko Data anzi nanjye nkamumenya, ni ko nzi intama zanjye na zo zikamenya, ndetse nemera kuzipfira.
+43010015	
+43012015	“Mwitinya, baturage bi Siyoni! Dore umwami wanyu araje, ahetswe nicyana cyindogobe!”
+43012040	“Imana yabahumye amaso, ibanangira imitima, kugira ngo be kubona, kandi be gusobanukirwa, batava aho bangarukira nkabakiza.”
+43012041	Ezayi yavuze ibyo ngibyo kuko yeretswe ikuzo rya Yezu, akaba ari we avuga.
+44002018	Mu minsi yimperuka nzasuka Mwuka wanjye ku bagaragu banjye no ku baja banjye, na bo bazahanura.
+44002019	Nzerekana ibitangaza hejuru ku ijuru, nzerekana nibimenyetso hasi ku isi, hazaboneka amaraso numuriro numwotsi ucucumuka.
+44002020	Izuba rizijima, ukwezi kuzasa namaraso, umunsi wa Nyagasani uzaba utaragera, wa munsi ukomeye wakataraboneka.
+44002021	Umuntu wese uzatakambira Nyagasani azakizwa.
+44002026	Ni cyo gituma nezerwa nkanishima, ndetse nkumva mfite ibyiringiro bishyitse.
+44002027	Koko rero ntuzandeka ngo mpere ikuzimu, ntuzemera ko ugutunganiye abora.
+44002028	Unyobora inzira izangeza ku bugingo, kubana nawe bintera ibyishimo bisesuye.’
+44002035	nanjye nzahindura abanzi bawe nkakabaho ukandagizaho ibirenge .” ’
+44004012	Nta wundi agakiza kabonekaho, kuko ku isi yose nta wundi Imana yahaye abantu ufite ubushobozi bwo kudukiza.”
+44004026	Abami bayo barahagurutse, abategetsi bayo na bo bishyize hamwe, barikunganyije ngo barwanye Nyagasani, barwanye nUwo yimikishije amavuta .’
+44004027	Ni ukuri Herodi na Ponsiyo Pilato, hamwe nabanyamahanga nAbisiraheli bose bateraniye muri uyu mujyi, bahuza umugambi wo kurwanya Umugaragu wawe wumuziranenge Yezu, uwo wimikishije amavuta .
+44004028	Kwari ugusohoza imigambi wateganyije kuva kera kose ku bwububasha nubushake bwawe.
+44004029	None Nyagasani, witegereze ibikangisho byabo, maze uhe abagaragu bawe kuvuga ibyawe dushize amanga.
+44004030	Urambure ukuboko ukize indwara, utange ibimenyetso ukore nibitangaza mu izina rya Yezu, umugaragu wawe wumuziranenge.”
+44005001	Ariko umugabo witwaga Ananiya amaze kumvikana numugore we Safira, agurisha isambu yabo maze yisigira igice cyikiguzi, igisigaye agishyikiriza Intumwa za Kristo. Ariko umugabo witwaga Ananiya amaze kumvikana numugore we Safira, agurisha isambu yabo maze yisigira igice cyikiguzi, igisigaye agishyikiriza Intumwa za Kristo.
+44005002	
+44007049	‘Ijuru ni intebe yanjye ya cyami, naho isi ni akabaho nkandagizaho ibirenge. None se muzanyubakira nzu ki? Ni hehe mubona ko natura?
+44007050	Mbese si jye waremye ibyo byose?’
+44008033	Bamucishije bugufi ntihagira umurengera. Ni nde uzamenyekanisha urubyaro rwe ko nta cyo yasize? Koko yakuwe ku isi.”
+44013034	Imana yavuze kandi ko izamuzura mu bapfuye, kugira ngo atazasubira ukundi mu mva ngo abore, ibivuga itya iti: ‘Nzabaha ibyiza bitagira amakemwa kandi bidahinyuka, ibyo nasezeraniye Dawidi.’
+44013035	Ni cyo gituma no mu yindi zaburi havuga ngo ‘Ntuzemera ko ugutunganiye abora.’
+44013036	Dawidi we yakoze ibyo Imana ishaka mu gihe cye, maze arasaza ashyingurwa hamwe na ba sekuruza arabora.
+44013037	Ariko uwo Imana yazuye ntiyigeze abora.
+44013038	Noneho bavandimwe, mumenye ko ari ku bwa Yezu uwo mwagejejweho iyo nkuru yo kubabarirwa ibyaha. Ku bwe kandi buri wese muri mwe umwemera agirwa intungane imbere yImana ku byamushinjaga byose, kandi bitari kubashobokera mwishingikirije ku Mategeko ya Musa. Noneho bavandimwe, mumenye ko ari ku bwa Yezu uwo mwagejejweho iyo nkuru yo kubabarirwa ibyaha. Ku bwe kandi buri wese muri mwe umwemera agirwa intungane imbere yImana ku byamushinjaga byose, kandi bitari kubashobokera mwishingikirije ku Mategeko ya Musa.
+44013039	
+44013040	Muririnde rero kugira ngo ibyavuzwe nabahanuzi bitababaho bagira bati:
+44013041	‘Mwa banyagasuzuguro mwe, nimwitegereze, nimutangare maze mwipfire! Muri iki gihe cyanyu ngiye gukora igitangaza, ntimuzacyemera nubwo hagira ukibabwira.’ ”
+44015016	‘Nyuma yibyo nzagaruka, nzavugurura ingoma ya Dawidi imeze nkinzu yasenyutse, ahasenyutse nzahasana nyihagarike.
+44015017	Abantu bazacika ku icumu bazansanga, amahanga yose yahoze ari ayanjye azansanga.’ Uko ni ko Nyagasani avuga,
+44015018	wabitangaje kuva kera kose.”
+44015024	Twumvise ko bamwe muri twe babaroshyemo amagambo yo kubakura imitima, kandi tutigeze tubatuma.
+44015025	None twese twahuje umugambi wo gutoranya abo kubatumaho. Bazanye na Barinaba na Pawulo dukunda cyane,
+44015026	bahaze amagara yabo kugira ngo bakorere Umwami wacu Yezu Kristo.
+44015027	Ngabo rero Yuda na Silasi ni bo tubatumyeho, ngo mubonane imbonankubone babibwirire ibyo tubandikiye.
+44015028	Byanogeye Mwuka Muziranenge kimwe natwe kutabashyiraho umutwaro urenze aya mategeko ya ngombwa:
+44015029	mwirinde kurya inyama zatuwe ibigirwamana nizibyanizwe, no kunywa amaraso ndetse no gusambana. Nimureka gukora ibyo muzaba mugenje neza. Tubasezeyeho.”
+44017029	None rero ubwo dukomoka ku Mana, ntitugomba gutekereza ko imeze nkigishushanyo cyizahabu cyangwa icyifeza cyangwa icyamabuye cyakomotse ku bukorikori nubwenge byabantu.
+44017030	Koko Imana yirengagije ibihe bya kera ubwo abantu bari mu bujiji, ariko ubu irahamagara abantu bose, iyo bava bakagera ngo bihane,
+44017031	kuko yashyizeho umunsi wo gucira isi yose imanza zitabera, ikoresheje umuntu yatoranyije. Kumuzura akava mu bapfuye byabereye abantu bose icyemezo cyabyo.”
+44023026	“Jyewe Kilawudiyo Lusiya, ndabaramutsa Nyakubahwa Mutware Feliki.
+44023027	Uyu muntu yafashwe nAbayahudi biyemeza kumwica. Nuko menye ko afite ubwenegihugu bwUmunyaroma, mpururana nabasirikari ndamugoboka.
+44023028	Nashatse kumenya icyo bamurega mujyana imbere yabanyarukiko rwabo.
+44023029	Uretse ko bamurega ibyerekeye amategeko yabo, nasanze nta cyo yakoze cyo kumwicisha, habe nicyo gutuma ashyirwa ku ngoyi.
+44023030	Maze kumenya ko Abayahudi bamuciriye igico niyemeza kumuboherereza. Nuko ntumiza abamurega ngo bazabagezeho ibirego. [Mbasezeyeho.]”
+44028026	‘Genda ubwire abo bantu uti: Kumva muzumva ariko ntimuzasobanukirwa, kureba muzareba ariko ntimuzabona.
+44028027	Erega aba ni abantu binangiye, biziba amatwi bahunza namaso, kugira ngo be kubona be no kumva, kandi be gusobanukirwa, kugira ngo batavaho bangarukira nkabakiza.’ ”
+45001003	Buvuga ibyerekeye Umwana wayo Yezu Kristo Umwami wacu. Ukurikije amasekuruza yabantu akomoka kuri Dawidi , naho ukurikije ibya Mwuka Muziranenge, Imana yerekanye ko ari Umwana wayo, ikoresheje ububasha bwayo igihe imuzuye mu bapfuye. Buvuga ibyerekeye Umwana wayo Yezu Kristo Umwami wacu. Ukurikije amasekuruza yabantu akomoka kuri Dawidi , naho ukurikije ibya Mwuka Muziranenge, Imana yerekanye ko ari Umwana wayo, ikoresheje ububasha bwayo igihe imuzuye mu bapfuye.
+45001004	
+45003011	nta numwe usobanukiwe, nta numwe wambaza Imana.
+45003012	Bose bayiteshutseho, bose uko bangana ni imburamumaro, ntawe ukora ibikwiye, habe numwe!”
+45003013	“Bafite akarimi gashyanuka, ariko bikingirije ubwicanyi.” “Ibyo bavuga bimera nkubumara bwincira.”
+45003014	“Amagambo yabo yuzuyemo imivumo no gukariha.”
+45003015	“Bihutira kumena amaraso,
+45003016	aho banyuze hasigara ari amatongo numubabaro,
+45003017	ntibamenya imigenzereze yamahoro.”
+45003018	“Ntibigera batinya Imana.”
+45003025	Ni we Imana yagennye ngo abere abantu icyiru ku bwamaraso yabameneye babikesha kumwizera. Kwari ukwerekana ubutabera bwayo igihe yihanganiraga abantu, ntibahanire ibyaha bari barakoze mbere. No muri iki gihe yerekanye ubutabera bwayo, kugira ngo itaretse kuba intabera, igire intungane umuntu wese wizera Yezu. Ni we Imana yagennye ngo abere abantu icyiru ku bwamaraso yabameneye babikesha kumwizera. Kwari ukwerekana ubutabera bwayo igihe yihanganiraga abantu, ntibahanire ibyaha bari barakoze mbere. No muri iki gihe yerekanye ubutabera bwayo, kugira ngo itaretse kuba intabera, igire intungane umuntu wese wizera Yezu.
+45003026	
+45004007	“Hahirwa abantu Imana yababariye ibicumuro, ikabahanaguraho ibyaha byabo.
+45004008	Hahirwa umuntu Nyagasani atabaraho icyaha.”
+45008037	Ariko muri ibyo byose turushaho gutsinda tubikesha uwadukunze.
+45008038	Koko rero ndemeza ko nta kizadutandukanya nurukundo rwe, ari urupfu cyangwa ubuzima, ari abamarayika cyangwa ibinyabutware bigenga isi, ari ibyubu cyangwa ibizaza, ari ibinyabubasha, ari ibyo mu ijuru cyangwa ibyikuzimu, ari nikindi cyaremwe icyo ari cyo cyose, nta na kimwe kizabasha kudutandukanya nurukundo rwImana rugaragarira muri Kristo Yezu Umwami wacu. Koko rero ndemeza ko nta kizadutandukanya nurukundo rwe, ari urupfu cyangwa ubuzima, ari abamarayika cyangwa ibinyabutware bigenga isi, ari ibyubu cyangwa ibizaza, ari ibinyabubasha, ari ibyo mu ijuru cyangwa ibyikuzimu, ari nikindi cyaremwe icyo ari cyo cyose, nta na kimwe kizabasha kudutandukanya nurukundo rwImana rugaragarira muri Kristo Yezu Umwami wacu.
+45008039	
+45009011	Nyamara kandi Imana ifite ibyo ikurikiza mu gutoranya abantu bidaturutse ku bikorwa byabo, ahubwo biturutse kuri yo ubwayo yabihamagariye. Ni yo mpamvu igihe abana bimpanga ba Rebeka bari bataravuka, bataranakora icyiza cyangwa ikibi, Imana yamubwiye iti: “Gakuru azaba umugaragu wa Gato.” Nyamara kandi Imana ifite ibyo ikurikiza mu gutoranya abantu bidaturutse ku bikorwa byabo, ahubwo biturutse kuri yo ubwayo yabihamagariye. Ni yo mpamvu igihe abana bimpanga ba Rebeka bari bataravuka, bataranakora icyiza cyangwa ikibi, Imana yamubwiye iti: “Gakuru azaba umugaragu wa Gato.”
+45009012	
+45009026	Kandi ahantu bababwiriraga ngo ‘Ntimuri ubwoko bwanjye’, ni ho bazitirwa abana bImana nzima.”
+45009027	Ezayi na we yavuze aranguruye ibyerekeye Abisiraheli ati: “Nubwo Abisiraheli bangana numusenyi wo ku nyanja, agace gato kazaba gasigaye ni ko kazarokoka,
+45009028	Nyagasani ntazatinda gusohoza ijambo rye mu isi ku buryo bunonosoye.”
+45009029	Ni byo Ezayi yari yarahanuye mbere ati: “Iyo Nyagasani Nyiringabo atadusigira nibura urubyaro ruke, tuba twararimbutse nkumujyi wa Sodoma, tuba twararimbutse nkumujyi wa Gomora.”
+45010019	Ndabaza rero. Mbese Abisiraheli ntibabisobanukiwe? Erega mbere Musa yari yaravuze ati: “Nzabaharika abanyamahanga mbatere gufuha, nzabarakaza ntonesha abanyabwengebuke!”
+45010020	Ndetse Ezayi yageze naho yerura ati: “Abatanshakaga barambonye, abatagize icyo bambaza ndabiyeretse.”
+45010021	Ariko ku byerekeye Abisiraheli agira ati: “Nirizaga umunsi nteze amaboko ngo nakire abantu bibyigomeke batanyumvira.”
+45011010	Amaso yabo ahume atsiratsize, uteze imigongo yabo guhora ihetamye.”
+45011027	Ngiryo Isezerano nzagirana na bo nimbakuraho ibyaha.”
+45011035	“Ni nde wigeze abanza kugira icyo amuha, ngo na we abe amwituye?”
+45011036	Erega byose bikomoka ku Mana, byose bibeshwaho na yo, byose bigenewe kuba ibyayo! Nihorane ikuzo iteka ryose. Amina.
+45014012	Bityo umuntu wese azamurikira Imana ibyo yakoze.
+45015010	Byanditswe kandi ngo: “Mwa mahanga mwe, nimwishimane nubwoko bwa Nyagasani.”
+45015011	Kandi ngo: “Mwa mahanga yose mwe, nimusingize Nyagasani. Abantu bamoko yose nibamuheshe ikuzo.”
+45015012	Ezayi na we yungamo ati: “Ku gishyitsi cya Yese hazashibuka uzahagurukira gutegeka amahanga. Ni na we amahanga aziringira.”
+46001020	Mbese umunyabwenge bimumariye iki? Ese umwigishamategeko bimumariye iki? Mbese intyoza mu mpaka ziki gihe yo biyimariye iki? Mbese aho ubwenge bwiyi si Imana ntiyabuhinduye ubupfu?
+46002010	Ibyo Imana yabiduhishuriye ikoresheje Mwuka wayo. Burya Mwuka wImana agenzura byose ndetse namayobera yImana.
+46002011	Ni nde wamenya ibyo umuntu atekereza uretse umutima wuwo muntu nyine? Nta we. Ni na ko rero nta wamenya ibyo Imana itekereza uretse Mwuka wayo.
+46002012	Twebwe si umwuka wiyi si twahawe ahubwo ni Mwuka uturuka ku Mana, kugira ngo tumenye impano Imana itugabira ku buntu.
+46002013	Ibyo ntitubivuga mu magambo twigishijwe nubwenge bwabantu, ahubwo tubivuga uko tubyigishijwe na Mwuka wImana. Uko ni ko dusobanurira ibya Mwuka abasanzwe bamufite .
+46003020	Biravuga kandi ngo: “Nyagasani azi ibyo abanyabwenge batekereza, azi ko nta kamaro bifite.”
+46003021	Bityo ntihagire uwiratana abantu kuko byose ari ibyanyu,
+46003022	yaba Pawulo cyangwa Apolo cyangwa Petero, yaba isi cyangwa ubugingo cyangwa urupfu, byaba ibyo muri iki gihe cyangwa ibyo mu gihe kizaza byose ni ibyanyu,
+46003023	kandi mwebwe muri aba Kristo, na Kristo ni uwImana.
+46005003	Jyewe rero nubwo mutakimbona mumenye ko tukiri kumwe, kandi mu izina ryUmwami wacu Yezu namaze gucira urubanza uwakoze ibyo ngibyo nkaho mpari. Noneho ubwo muzakoranira hamwe nanjye nzaba nifatanyije namwe, muzakoreshe ububasha bwUmwami wacu Yezu, Jyewe rero nubwo mutakimbona mumenye ko tukiri kumwe, kandi mu izina ryUmwami wacu Yezu namaze gucira urubanza uwakoze ibyo ngibyo nkaho mpari. Noneho ubwo muzakoranira hamwe nanjye nzaba nifatanyije namwe, muzakoreshe ububasha bwUmwami wacu Yezu,
+46005004	
+46005012	Mbese birandeba gucira urubanza abatari aba Kristo? Imana ni yo izabacira urubanza. Ahubwo abo muri mwe ni bo mukwiriye gucira urubanza, nkuko byanditswe ngo: “Muzakure inkozi zibibi muri mwe.” Mbese birandeba gucira urubanza abatari aba Kristo? Imana ni yo izabacira urubanza. Ahubwo abo muri mwe ni bo mukwiriye gucira urubanza, nkuko byanditswe ngo: “Muzakure inkozi zibibi muri mwe.”
+46005013	
+46015051	Reka mbabwire ibanga: ntituzapfa twese. Ariko ubwo impanda yimperuka izavuga tuzahinduka twese, kandi bizaba mu kanya gato nkako guhumbya. Impanda izavuga abapfuye bahite bazurwa batagifite imibiri ibora, natwe duhindurwe. Reka mbabwire ibanga: ntituzapfa twese. Ariko ubwo impanda yimperuka izavuga tuzahinduka twese, kandi bizaba mu kanya gato nkako guhumbya. Impanda izavuga abapfuye bahite bazurwa batagifite imibiri ibora, natwe duhindurwe.
+46015052	
+46015055	“Wa rupfu we, ugutsinda kwawe kuri he? Wa rupfu we, urubori rwawe ruri he?”
+46015056	Koko kandi ibyaha ni byo rubori rwurupfu, naho igituma ibyaha bituganza kikaba Amategeko.
+46015057	Ariko Imana ishimirwe ko iduha gutsinda kubera Umwami wacu Yezu Kristo.
+46016015	Ikindi bavandimwe, muzi ko aburugo rwa Sitefana ari bo babimburiye abandi bo muri Akaya kwemera Kristo, bakitangira kunganira intore zImana. Ndabinginze mwemere kugengwa na bene abo, kimwe nabandi bafatanyije umurimo numuruho. Ikindi bavandimwe, muzi ko aburugo rwa Sitefana ari bo babimburiye abandi bo muri Akaya kwemera Kristo, bakitangira kunganira intore zImana. Ndabinginze mwemere kugengwa na bene abo, kimwe nabandi bafatanyije umurimo numuruho.
+46016016	
+47001013	Mu nzandiko zacu nta bindi tubandikira, bitari ibyo musoma kandi mukabisobanukirwa. Ariko nubwo ubu mwabisobanukirwa buhoro, niringiye ko iherezo muzabisobanukirwa neza. Bityo umunsi Umwami wacu Yezu azaza, tuzagira ishema ku bwanyu nkuko namwe muzarigira ku bwacu. Mu nzandiko zacu nta bindi tubandikira, bitari ibyo musoma kandi mukabisobanukirwa. Ariko nubwo ubu mwabisobanukirwa buhoro, niringiye ko iherezo muzabisobanukirwa neza. Bityo umunsi Umwami wacu Yezu azaza, tuzagira ishema ku bwanyu nkuko namwe muzarigira ku bwacu.
+47001014	
+47006018	Nzababera So, namwe mumbere abahungu nabakobwa. Uko ni ko Nyagasani Ushoborabyose avuga.”
+47009010	Imana iha umuhinzi imbuto zo kubiba, ikanamuha ibyokurya byo kumutunga , namwe izabaha imbuto zo kubiba inazigwize, kugira ngo zirumbuke umusaruro mwinshi wo kugira neza kwanyu.
+47009011	Izabagwiriza ubukungu bwuburyo bwose kugira ngo muzashobore gutanga mutizigama, maze bitume benshi bashimira Imana, bitewe nimfashanyo zanyu tuzaba tubashyikirije.
+47009012	Akamaro kuwo murimo mukora si ako gukenura intore zImana gusa, ahubwo unatuma abashimira Imana barushaho kwiyongera.
+47009013	Kuzirikana ibyo byose mwabakoreye bituma basingiza Imana, babonye ukuntu muyumvira, mugatangaza Ubutumwa bwiza bwa Kristo. Bayisingiza kandi kubera ko mugira ubuntu, mugasangira ibyanyu na bo ndetse nabantu bose.
+47009014	Bityo bazabasabira babafitiye urukumbuzi, bitewe nubuntu bwImana buhebuje bababonanye.
+47009015	Imana ishimwe kubera impano itagereranywa yatugabiye.
+47012003	Nzi ko uwo muntu yazamuwe akagezwa muri paradiso . Na none sinzi neza ko yari ahari koko cyangwa niba kwari ukuherekwa gusa, Imana yonyine ni yo ibizi. Uko biri kose yahumviye amagambo arenze uko umuntu yayasobanura, ndetse birabujijwe no kuyasubiramo. Nzi ko uwo muntu yazamuwe akagezwa muri paradiso . Na none sinzi neza ko yari ahari koko cyangwa niba kwari ukuherekwa gusa, Imana yonyine ni yo ibizi. Uko biri kose yahumviye amagambo arenze uko umuntu yayasobanura, ndetse birabujijwe no kuyasubiramo.
+47012004	
+49004009	Ariko iryo jambo “yazamukaga” rivuga iki? Ese si ukuvuga se ko yabanje kumanuka akagera ikuzimu ?
+49004010	Uwamanutse ni na we wazamutse ajya hejuru yamajuru yose, kugira ngo yuzure ibyaremwe byose.
+49004011	Nuko aha bamwe kuba Intumwa ze, abandi ngo babe abahanuzi, abandi ngo babe abatangaza Ubutumwa bwiza, naho abandi ngo babe abashumba nabigisha.
+49004012	Abigenza atyo kugira ngo intore zImana zitegurirwe gukora umurimo wayo, maze zubake Umubiri wa Kristo.
+49004013	Bityo igihe nikigera, twese tuzashyike ku rugero rwubumwe buva ku kwemera Umwana wImana no kumumenya byuzuye, kugira ngo tube abantu bahamye bageze ku rugero rwuzuye rwa Kristo.
+49004014	Ubwo ntituzaba tukiri abana ngo duteraganwe hirya no hino nimiyaga ibonetse yose, ari yo myigishirize yabantu bashukana biyubikije uburyarya buyobya.
+49004015	Ahubwo nituvuga ukuri tubitewe nurukundo tuzakura ku buryo bwose, twunze ubumwe na Kristo ari we Mutwe wUmubiri.
+49004016	Umutwe ni wo ugenga ingingo zumubiri zose, ugatuma zihurizwa hamwe zigahuza imikorere, zibikesha imitsi iwukomeza ikawutunga, bityo buri rugingo rugakora umurimo rugenewe, maze umubiri wose ugakura ukiyubaka. Byose biterwa nurukundo.
+50002006	We nubwo yari asanzwe afite kamere yImana, ntiyigeze yibwira ko guhwana na yo ari ikintu cyo kugundīrwa.
+50002007	Ahubwo yaretse ibye byose, ahinduka nkumuntu, ndetse afata kamere yinkoreragahato. Yabonetse ameze nkumuntu,
+50002008	yicisha bugufi arumvira, ntiyanga no gupfa, ndetse apfa abambwe ku musaraba.
+50002009	Ni cyo cyatumye Imana imushyira hejuru cyane, imuha nikuzo risumba iryabandi bose,
+50002010	kugira ngo mu ijuru no ku isi ndetse nikuzimu, bose bapfukamire Yezu bamuramye,
+50002011	bose bamwogeze mu ruhame, bemeze ko Yezu Kristo ari we Nyagasani, ngo biheshe Imana Se ikuzo.
+55002008	“Ujye wibuka Yezu Kristo, wazutse mu bapfuye, kandi ukomoka kuri Dawidi”, nkuko Ubutumwa bwiza namamaza bubivuga.
+55002009	Ubwo Butumwa ni bwo mpōrwa, ngashyirwa no ku ngoyi nkumugizi wa nabi. Nyamara Ijambo ryImana ryo ntirishyirwa ku ngoyi.
+55002010	Ni yo mpamvu nihanganira byose kubera abo Imana yitoranyirije, kugira ngo na bo bahabwe agakiza kabonerwa muri Yezu Kristo hamwe nikuzo rihoraho.
+55002011	Iri jambo ni iryukuri: “Niba twarapfanye na we, na none tuzabanaho na we.
+55002012	Nitugumya kwihangana, tuzimana ingoma na we. Nitumwihakana, na we azatwihakana.
+55002013	Niyo twamuhemukira we ahora ari indahemuka, kuko atabasha kwica Isezerano.”
+56002006	Abasore na bo ubihanangirize utyo, kugira ngo mu byo bakora byose bajye bashyira mu gaciro. Nawe witange ho urugero rwibikorwa byiza. Mu kwigisha abantu ube indakemwa kandi wiyubahe. Abasore na bo ubihanangirize utyo, kugira ngo mu byo bakora byose bajye bashyira mu gaciro. Nawe witange ho urugero rwibikorwa byiza. Mu kwigisha abantu ube indakemwa kandi wiyubahe.
+56002007	
+58001006	Nyamara kandi igihe Imana yoherezaga impfura yayo ku isi, yaravuze iti: “Abamarayika bose bImana nibamuramye.”
+58001007	Ku byerekeye abamarayika yaravuze iti: “Igira abamarayika bayo imiyaga, abo bagaragu bayo ibagira ibirimi byumuriro.”
+58001008	Naho ku byerekeye Umwana wayo iravuga iti: “Mana, ingoma yawe ihoraho iteka ryose, abantu bawe ubategekesha ubutabera.
+58001009	Ukunda ubutungane ukanga ubugome, ni yo mpamvu Imana ari yo Mana yawe yagusīze amavuta, yakurobanuye muri bagenzi bawe, igusendereza ibyishimo .”
+58001010	Na none iti: “Nyagasani, mbere na mbere wahanze isi, ijuru na ryo ni umurimo wintoki zawe.
+58001011	Ibyo bizashiraho ariko wowe uzahoraho, byose bizasaza nkumwambaro.
+58001012	Uzabizingazinga nkuzingazinga umwenda, bizahindurwa nkuko imyambaro ihinduranywa. Ariko wowe uzahora uri uko wahoze, ntuzigera ugira iherezo.”
+58001013	Nta mumarayika numwe Imana yigeze ibwira iti: “Icara ku ntebe ya cyami iburyo bwanjye, nanjye nzahindura abanzi bawe nkakabaho ukandagizaho ibirenge.”
+58001014	None se abamarayika ni iki? Bose ni ingabo zo mu ijuru zikorera Imana, zatumwe gufasha abagenewe guhabwa agakiza ho umunani.
+58002007	Habuzeho gato ngo umuntu umugire nkabamarayika, wamutamirije ikamba ryikuzo nicyubahiro,
+58002008	byose urabimuha kugira ngo abigenge.” Igihe Imana yeguriraga umuntu ibintu byose nta na kimwe yasize. Nyamara kugeza ubu ntiturabona koko umuntu agenga byose.
+58002013	Akongera akavuga ati: “Imana ni yo nzaba mfitiye icyizere”, kandi ati: “Dore ndi hano hamwe nabana Imana yampaye.”
+58003008	ntimunangire imitima nka cya gihe cyimyivumbagatanyo, wa munsi mwangeragezaga mu butayu,
+58003009	ubwo ba sokuruza bangeragezaga bampinyuza, nubwo bari biboneye ibyo nakoze.
+58003010	Ni cyo cyatumye ndakarira abicyo gihe imyaka mirongo ine. Ni ko kuvuga nti: ‘Bahora bateshuka, ntibagenza uko nshaka.’
+58003011	Nuko ndahirana uburakari nti: ‘Ntibateze kwinjira aho kuruhukira nagennye.’ ”
+58003016	Ni ba nde bumvise ijwi ryImana nyamara bakivumbagatanya? Ni ba bandi bose bavuye mu Misiri bayobowe na Musa!
+58003017	Ni ba nde se Imana yarakariye imyaka mirongo ine? Ni ba bandi bacumuye, imirambo yabo igakwira mu butayu!
+58003018	Ni ba nde se kandi Imana yarahiye ko batazinjira ha hantu ho kuruhukira yagennye? Ni ba bandi banze kuyumvira!
+58003019	Tubona kandi ko batabashije kuhinjira, bitewe nuko batizera Imana.
+58004004	koko kandi, hari aho Ibyanditswe bivuga ibyerekeye umunsi wa karindwi biti: “Ku munsi wa karindwi, Imana iruhuka imirimo yose yari yakoze.”
+58004005	Aho na none Ibyanditswe birongera biti: “Ntibazinjira aho kuruhukira nagennye.”
+58004006	Aba mbere bagejejweho Ubutumwa bwiza ntibinjiye aho hantu kubera kutumvira Imana kwabo. Bityo haracyari umwanya wabandi bashaka kuhinjira.
+58004007	Ni cyo gituma Imana yongeye gushyiraho umunsi, ari wo “uyu munsi.” Bitinze cyane yongeye kubivuga nka mbere, ikoresheje Dawidi wavuze ati: “Uyu munsi nimwumva icyo Imana ibabwira, ntimwinangire imitima.”
+58005006	Na none hari ahandi Imana yavuze iti: “Uri umutambyi iteka ryose, mu buryo bwa Melikisedeki .”
+58006004	Nimwibaze ku bantu Imana yigeze kumurikira bagasogongera ku mpano yayo iva mu ijuru, kandi bagahabwa kuri Mwuka Muziranenge bakanumva uburyohe bwIjambo ryImana, bakibonera ibikorwa byububasha bwayo biranga ibihe bishya bizaza, nyamara bakarenga bagahakana Kristo bari bemeye. Abameze batyo nta washobora kubagarura ngo bihane, kuko bo ubwabo baba barongeye kubamba Umwana wImana bakamukoza isoni ku mugaragaro. Nimwibaze ku bantu Imana yigeze kumurikira bagasogongera ku mpano yayo iva mu ijuru, kandi bagahabwa kuri Mwuka Muziranenge bakanumva uburyohe bwIjambo ryImana, bakibonera ibikorwa byububasha bwayo biranga ibihe bishya bizaza, nyamara bakarenga bagahakana Kristo bari bemeye. Abameze batyo nta washobora kubagarura ngo bihane, kuko bo ubwabo baba barongeye kubamba Umwana wImana bakamukoza isoni ku mugaragaro. Nimwibaze ku bantu Imana yigeze kumurikira bagasogongera ku mpano yayo iva mu ijuru, kandi bagahabwa kuri Mwuka Muziranenge bakanumva uburyohe bwIjambo ryImana, bakibonera ibikorwa byububasha bwayo biranga ibihe bishya bizaza, nyamara bakarenga bagahakana Kristo bari bemeye. Abameze batyo nta washobora kubagarura ngo bihane, kuko bo ubwabo baba barongeye kubamba Umwana wImana bakamukoza isoni ku mugaragaro.
+58006005	
+58006006	
+58007009	Ubirebye, Levi – ukomokwaho nurubyaro ruhabwa kimwe cya cumi – na we ubwe yaragitanze. Dore impamvu: nubwo yari ataravuka hari ukuntu yari mu mubiri wa sekuruza Aburahamu, igihe Melikisedeki yazaga kumusanganira akakira ituro rye. Ubirebye, Levi – ukomokwaho nurubyaro ruhabwa kimwe cya cumi – na we ubwe yaragitanze. Dore impamvu: nubwo yari ataravuka hari ukuntu yari mu mubiri wa sekuruza Aburahamu, igihe Melikisedeki yazaga kumusanganira akakira ituro rye.
+58007010	
+58007013	Uvugwaho ibyo byose ni Umwami wacu Yezu kandi rero ni uwo mu wundi muryango, nta wo muri uwo muryango wigeze guhabwa umurimo wubutambyi. Birazwi ko Umwami wacu akomoka mu muryango wa Yuda , kandi Musa nta cyo yigeze awuvugaho ku byerekeye ubutambyi. Uvugwaho ibyo byose ni Umwami wacu Yezu kandi rero ni uwo mu wundi muryango, nta wo muri uwo muryango wigeze guhabwa umurimo wubutambyi. Birazwi ko Umwami wacu akomoka mu muryango wa Yuda , kandi Musa nta cyo yigeze awuvugaho ku byerekeye ubutambyi.
+58007014	
+58007022	Ni yo mpamvu Yezu yatubereye umwishingizi wIsezerano ryImana riruta iryo yagiranye nabayo kera.
+58008009	Ntabwo rizaba rimeze nkirya kera nagiranye na ba sekuruza, igihe nabafataga akaboko nkabavana mu Misiri. Nyamara ntibitaye kuri iryo Sezerano, ni na cyo gituma nanjye ntabitayeho. Ni jye Nyagasani ubivuze.
+58008010	Noneho ngiri Isezerano nzagirana nAbisiraheli nyuma yicyo gihe: nzashyira amategeko yanjye mu bwenge bwabo, nzayandika mu mitima yabo. Nzaba Imana yabo, na bo bazaba abantu banjye. Ni jye Nyagasani ubivuze.
+58008011	Nta numwe muri bo uzagomba kwigisha mugenzi we cyangwa umuvandimwe we ati: ‘Menya Nyagasani’, kuko bose bazamenya uhereye ku muto ukageza ku mukuru.
+58008012	Nzabababarira ibicumuro byabo, ibyaha byabo sinzabyibuka ukundi.”
+58008013	Ubwo Imana yavugaga ko iryo Sezerano ari rishya, kwari ukuvuga ko irya mbere rigizwe irya kera, kandi rero ikintu cyiswe icya kera kiba gishaje, kikaba cyenda kuvaho burundu.
+58010006	Ibitambo bikongorwa nibyo guhongerera ibyaha si byo bigushimisha.
+58010007	Nuko ndavuga nti: ‘Dore ndaje, Mana, nzanywe no gukora ibyo ushaka, nkuko byanditswe kuri jye mu muzingo wigitabo cyAmategeko.’”
+58010008	Yabanje kuvuga ati: “Ibitambo namaturo, ari ibitambo bikongorwa numuriro cyangwa ibyo guhongerera ibyaha, si byo washatse kandi si byo bigushimisha”, kandi ibyo bitambo yavuze ari byo biturwa nkuko Amategeko abiteganya.
+58010009	Ahita yungamo ati: “Dore ndaje. Mana, nzanywe no gukora ibyo ushaka.” Ni ko gukuraho bya bitambo bya mbere abisimbuza igitambo kindi gishya.
+58010010	Kubera ubwo bushake bwayo, tweguriwe Imana tuba intore zayo, tubikesha igitambo Yezu Kristo yatuye rimwe rizima ari cyo mubiri we.
+58010016	“Ngiri Isezerano nzagirana na bo nyuma yicyo gihe, nzashyira amategeko yanjye mu mitima yabo, nzayandika mu bwenge bwabo. Ni jye Nyagasani ubivuze.”
+58010017	Arongera ati: “Ibyaha byabo nibicumuro byabo sinzabyibuka ukundi.”
+58010018	Koko kandi iyo habayeho kubabarirwa ibyaha, ntibiba bikiri ngombwa kubitambira ibitambo.
+58010038	Umuntu untunganiye azabeshwaho no kunyizera, ariko nasubira inyuma sinzamwishimira.”
+58010039	Twe rero ntituri mu basubira inyuma bakajya kurimbuka, ahubwo turi mu bizeye Imana bakazegukana ubugingo.
+58012006	Koko rero Nyagasani acyaha uwo akunda, uwo yemera wese ko ari umwana we ni we acishaho umunyafu.”
+58012007	Noneho mwihanganire guhanwa nImana, kuko ari uko ibafata nkabana bayo. Mbese ye, wabona umwana udahanwa na se?
+58012008	Niba rero mudahanwa nkuko umwana wese ahanwa na se, ntimuba muri abana bImana nyakuri, ahubwo muba mubaye ibibyarirano.
+58012009	Ba data batubyaye ku buryo busanzwe ko baduhanaga tukabubaha, ubwo se Data watubyaye ku buryo bwa Mwuka, ntitugomba kurushaho kwemera kugengwa na we ngo tubeho?
+58012010	Ba data baduhanaga uko babyumvaga na bwo byigihe gito, naho uguhana kwImana Data bidufitiye akamaro ko kugira ngo tugire uruhare ku buziranenge bwayo.
+58012011	Nta muntu uhanwa ngo muri ako kanya bimushimishe, ahubwo biramubabaza. Nyamara ababyitoje amaherezo bibabyarira amahoro nubutungane.
+58013020	Umwami wacu Yezu ari we mushumba mukuru wintama, Imana yamuzuye mu bapfuye kubera amaraso ye ahamya Isezerano ryayo ridakuka. Iyo Mana itanga amahoro ibashoboze ibyiza byose, kugira ngo mukore ibyo ishaka. Nuko isohoze muri twe umurimo uyishimisha ikoresheje Yezu Kristo. Ikuzo ribe irye iteka ryose. Amina. Umwami wacu Yezu ari we mushumba mukuru wintama, Imana yamuzuye mu bapfuye kubera amaraso ye ahamya Isezerano ryayo ridakuka. Iyo Mana itanga amahoro ibashoboze ibyiza byose, kugira ngo mukore ibyo ishaka. Nuko isohoze muri twe umurimo uyishimisha ikoresheje Yezu Kristo. Ikuzo ribe irye iteka ryose. Amina.
+58013021	
+60001025	ariko ijambo rya Nyagasani rihoraho iteka.” Iryo jambo ni ryo Butumwa bwiza babagejejeho.
+60002007	Nuko rero mwebwe abemera Kristo iryo buye ribafitiye agaciro, ariko ku batamwemera ngo: “Ibuye abubatsi banze ni ryo ryabaye insanganyarukuta.”
+60002008	Kandi ngo: “Iryo ni ibuye risitaza abantu, ni urutare rubagusha.” Koko kandi barasitaye nkuko babigenewe, kuko batumviye Ijambo ryImana.
+60003011	Azibukire ibibi akore ibyiza, ashakashake amahoro ayaharanire.
+60003012	Kuko Nyagasani ahoza ijisho ku ntungane, atega amatwi akumva ibyo zisaba. Nyamara arwanya inkozi zibibi.”
+60004019	Kubera ibyo abababazwa bahōrwa gukora ibyo Imana ishaka, nibiyegurire Umuremyi wabo windahemuka bagumye bakore ibyiza.
+66002027	nkuko nabuhawe na Data. Azayaragiza inkoni yicyuma, ayajanjagure nkujanjagura ikibindi, kandi nzamuha ninyenyeri yo mu rukerera . nkuko nabuhawe na Data. Azayaragiza inkoni yicyuma, ayajanjagure nkujanjagura ikibindi, kandi nzamuha ninyenyeri yo mu rukerera .
+66002028	
+66004011	“Nyagasani Mana yacu, ni wowe ukwiye guhabwa ikuzo nicyubahiro nububasha, koko ni wowe waremye ibintu byose. Byaremwe ku bushake bwawe, ni wowe ubibeshaho.”
+66005010	Wabagize abantu bubwami bwImana, wabagize nabatambyi ngo bakorere Imana yacu, bityo bazima ingoma bategeke isi.”
+66007005	Mu muryango wa Yuda, abashyizweho ikimenyetso ni ibihumbi cumi na bibiri. Mu muryango wa Rubeni, abagishyizweho ni ibihumbi cumi na bibiri. Mu muryango wa Gadi, ni ibihumbi cumi na bibiri.
+66007006	Mu muryango wa Ashēri, ni ibihumbi cumi na bibiri. Mu muryango wa Nefutali, ni ibihumbi cumi na bibiri. Mu muryango wa Manase, ni ibihumbi cumi na bibiri.
+66007007	Mu muryango wa Simeyoni, ni ibihumbi cumi na bibiri. Mu muryango wa Levi, ni ibihumbi cumi na bibiri. Mu muryango wa Isakari, ni ibihumbi cumi na bibiri.
+66007008	Mu muryango wa Zabuloni, ni ibihumbi cumi na bibiri. Mu muryango wa Yozefu, ni ibihumbi cumi na bibiri, no mu muryango wa Benyamini, abagishyizweho ni ibihumbi cumi na bibiri.
+66015004	Nyagasani, ni nde utagutinya? Ni nde utagusingiza? Ni wowe Muziranenge wenyine. Amahanga yose azaza akwikubite imbere, azakuramya kuko ibikorwa byawe byubutabera byagaragaye.”
