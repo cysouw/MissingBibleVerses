@@ -1,5 +1,6 @@
-40027066
-42010042
-43010042
-43013038
-43019042
+40027066	#? fehlt auch nach https://ebible.org/pdf/kpf/kpf_a4.pdf
+42010042	#? s.o.
+43010042	#? s.o.
+43013038	#? s.o.
+43019042	#? s.o.
+#es handelt sich immer um den letzten Vers, der mit ''(-)'' gekennzeichnet ist. 
