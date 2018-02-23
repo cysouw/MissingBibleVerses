@@ -274,10 +274,10 @@
 66004010	uaq teij Eig zyepg feij taub myenb koj zyrug kweig Fiag paaij zweid Jyenq huvb weig, tovb yetg liud zyavb Tauj maang kruq maang txig uaq taub. ninb Bua mwrnj kanb Eei nivq Yetq Jyenq uaq nxm weig Eei Ra'Myen yaag paauj Ruv kxvq,
 66005013	yia yaag haid yem Tinb txvb, yem paamb ken, yem Daub Diaq, yem Kxiq ka'Euad, Tinb huvb zeij taaib maaib Qiaj Eei maang mwrtg ka'naaiq lomb Rxib kxvq, ‘Zev zweid Jyenq huvb weig uaq taub, yaag Zev pa'ki yuvb txn, weig zu'g ninb Bua maaib mevb hog, maaib Favb laavg yaag maaib Qa'q Tauj maang kruq maang txig.’
 66005014	uaq teij pyei taub navb Eei ka'naaiq kxvq, “aa-men.” zwavj myenb koj yaag kweig Fiag paaij.
-66007005	#Tabelle in Übersetzung. Unklar wie der Vers eingesetzt werden soll. URL: https://www.bible.com/de/bible/232/REV.7.IuMiNOR 
-66007006	#siehe 66007005
-66007007	#siehe 66007005
-66007008	#siehe 66007005
+66007005	yu-Daa fivj maaib 12,000 taub tu'q Gaapq yenj, lu-Ben fivj maaib 12,000 taub tu'q Gaapq yenj, kaatg fivj maaib 12,000 taub tu'q Gaapq yenj
+66007006	aa-se fivj maaib 12,000 taub tu'q Gaapq yenj, napq-Taa-li fivj maaib 12,000 taub tu'q Gaapq yenj, maa-natq-sej fivj maaib 12,000 taub tu'q Gaapq yenj
+66007007	si-me-on fivj maaib 12,000 taub tu'q Gaapq yenj, le-wi fivj maaib 12,000 taub tu'q Gaapq yenj, itg-saaj-Kaa fivj maaib 12,000 taub tu'q Gaapq yenj
+66007008	sej-Bu-lun fivj maaib 12,000 taub tu'q Gaapq yenj, yo-sepq fivj maaib 12,000 taub tu'q Gaapq yenj, Ben-yaa-min fivj maaib 12,000 taub tu'q Gaapq yenj
 66007011	yetg zwavj finb myenb sruq weib kxmj huvb weig Zauj myenb koj Zauj uaq teij pyei taub navb Eei ka'naaiq, yaag Pua'q Fiag Dau paaij Tinb huvb.
 66007012	ninb Bua kxvq, “aa-men. Zev Tinb huvb, lcvd zivb Tinb huvb. yia Bua Eei Tinb huvb yetg liud maaib Favb laavg, maaib Zovb mevb, maaib mevb hog, maaib livg, maaib Qa'q Tauj maang kruq maang txig. aa-men.”
 66011016	yem Tinb huvb Eei Ra'Myen zweid Jyenq ninb Bua Eei weig uaq teij Eig zyepg feij taub myenb koj zyrug Pua'q Fiag Dau paaij Tinb huvb.
