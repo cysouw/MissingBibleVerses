@@ -1,59 +1,59 @@
-19005001
-19006001
-19007001
-19008001
-19009001
-19012001
-19013001
-19018001
-19019001
-19020001
-19021001
-19022001
-19030001
-19031001
-19034001
-19038001
-19039001
-19040001
-19041001
-19042001
-19044001
-19046001
-19047001
-19048001
-19049001
-19051001
-19052001
-19053001
-19054001
-19054002
-19055001
-19056001
-19057001
-19058001
-19059001
-19060001
-19061001
-19062001
-19063001
-19064001
-19065001
-19067001
-19068001
-19069001
-19070001
-19075001
-19076001
-19080001
-19081001
-19083001
-19084001
-19085001
-19088001
-19089001
-19092001
-19102001
-19108001
-19140001
-19142001
+19005001	Tam ma ŋolla vi sa gi nulla. Hiɗi zlekemna. Nulla vi David.
+19006001	Tam ma ŋolla vi sa gi nulla. hiɗi dil ma zigewn talamna. hiɗi dil ma zigewn talam glafandina.
+19007001	Nul ma tiy-tuwna vi David, ma nam gum tam Ma-Vatɗina, kuɗ lawta vi Kus ma Benyaminna.
+19008001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19009001	Tam ma ŋolla vi sa gi nulla. Kay alamotna vi gurona. Nulla vi David.
+19012001	Tam ma ŋolla vi sa gi nulla. hiɗi dil ma zigewn glafandi. Nulla vi David.
+19013001	Tam ma ŋolla vi sa gi nulla. Vi David.
+19018001	Tam ma ŋolla vi sa gi nulla. Ma sunda vi Ma-Vatɗina, vi David, nam gi nul namna kayni tam Ma-Vatɗina, hay li ma Ma-Vatɗina butum goy hay ɓam sa gawt kalam kafna, hay ɓam Sawul kaw, nam die:
+19019001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19020001	Tam ŋolla vi sa gi nulla. Nulla vi David.
+19021001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19022001	Tam ma ŋolla vi sa gi nulla. Hiɗi «duk ma ŋarpita» Nulla vi David.
+19030001	Nulla kay malta vi vun-ziyda. Nulla vi David.
+19031001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19034001	Nulla vi David, hay li ma nam muɗ tuwam ɦay-ɦaya vok Abimelek hay li ma nam kaliya, Abimelek digiɗimu.
+19038001	Nulla vi David. Kay gi humda.
+19039001	Tam ma ŋolla vi sa gi nulla, tam Yedutun, Nulla vi David.
+19040001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19041001	Tam ma ŋolla vi sa gi nulla. Vi David.
+19042001	Tam ma ŋolla vi sa gi nulla. Nulla vi gurona vi Kore.
+19044001	Tam ma ŋolla vi sa gi nulla. Nulla vi gurona vi Kore.
+19046001	Tam ma ŋolla vi sa gi nulla. Nulla vi gurona vi Kore. Hiɗi Alamotna.
+19047001	Tam ma ŋolla vi sa gi nulla. Nulla vi gurona vi Kore.
+19048001	Nulla vi gurona vi Kore.
+19049001	Tam ma ŋolla vi sa gi nulla. Nulla vi gurona vi Kore.
+19051001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19052001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19053001	Tam ma ŋolla vi sa gi nulla. Hiɗi zlekemna. Nulla vi David.
+19054001	Tam ma ŋolla vi sa gi nulla. Hiɗi dil ma zigewn kuɗumna. Nulla vi David.
+19054002	Hay li ma sum sa Zifna coo di tam Sawul ala: David ka ŋayay jarmaa.
+19055001	Tam ma ŋolla vi sa gi nulla. hiɗi dilla ma zigewn talamna. Nulla vi David.
+19056001	Tam ma ŋolla vi sa gi nulla. Kay gukka vi terebintena* ma ginena. Nulla vi David. Hay li ma sum sa Filistin fumu hay Gad.
+19057001	Tam ma ŋolla vi sa gi nulla. «Ɓulak slenɗi». Nulla vi David. Hay li ma nam pir ŋay goy vok Sawul hay zul-hiɗiyna.
+19058001	Tam ma ŋolla vi sa gi nulla. «Ɓulak slenɗi.» Nulla vi David.
+19059001	Tam ma ŋolla vi sa gi nulla. «Ɓulak slenɗi». Nulla vi David. Hay li ma Sawul cuk sumuna kay ŋuy ziyna, kay cum goyo.
+19060001	Tam ma ŋolla vi sa gi nulla. Hiɗi tayna vi di-goyta. Nulla vi David.
+19061001	Tam ma ŋolla vi sa gi nulla. hiɗi dil ma zigewn talamna. Nulla vi David.
+19062001	Tam ma ŋolla vi sa gi nulla. Vi Yedutun. Nulla vi David.
+19063001	Nulla vi David. Hay li ma nam ay hay fulda vi Yuda.
+19064001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19065001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19067001	Tam ma ŋolla vi sa gi nulla. Hiɗi dil ma zigewn kuɗumna. Nulla.
+19068001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19069001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19070001	Tam ma ŋolla vi sa gi nulla. Nulla vi David. Kay gi-humda.
+19075001	Tam ma ŋolla vi sa gi nulla. Ɓulak slenɗi. Vi Asaf.
+19076001	Tam ma ŋolla vi sa gi nulla. Hiɗi dil ma zigewn kuɗumna. Nulla vi Asaf.
+19080001	Tam ma ŋolla vi sa gi nulla. Di-goyta. Nulla vi Asaf.
+19081001	Tam ma ŋolla vi sa gi nulla. hiɗi gititna Nulla vi Asaf.
+19083001	Nulla vi Asaf.
+19084001	Tam ma ŋolla vi sa gi nulla. Nulla vi gurona vi Kore.
+19085001	Tam ma ŋolla vi sa gi nulla. Nulla vi gurona vi Kore.
+19088001	Nulla vi gurona vi Kore. Tam ma ŋolla vi sa gi nulla. Kay gi nul namna hiɗi zlekemna. Nulla vi Heman ma Ezrahitna.
+19089001	Nulla vi Etan ma Ezrahitna.
+19092001	Nulla kay buura vi sabatna.
+19102001	Siɗawta vi sa ma maŋayna, hay li ma sutiyam toya, nam ka tiy tuwam vok Ma-Vatɗina.
+19108001	Nulla vi David.
+19140001	Tam ma ŋolla vi sa gi nulla. Nulla vi David.
+19142001	Nulla vi David, hay li ma nam ay hay zul hiɗiyna, siɗawta.
