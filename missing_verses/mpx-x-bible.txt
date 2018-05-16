@@ -72,8 +72,6 @@
 02028009    
 02028010    
 02028011    
-02028013  #existiert nicht
-02028014  #existiert nicht
 02028015  Kaliko etegana Yehoba i ba nihi ginol te babagal ana kama , ana yapu ge ana manamana nihi olaolaek tuwenti tu sentamita (22 cm) . Nihi hel gabom gamwana ni gan ni ola nabwa . Pat waiwaisal elulutega eluwa nihi am hikan babagal ana kama elana . Pat maisena ge maisena elana Isileli ali un alaliya nihi leliya , pat etega alan etega . Babagal ana kama nihi ginol ola to , inoke nihi am hikan ipod ana egimwan elal nige ni sosogu .  Yaka Yehoba i ba ,
 02028016    
 02028017    
@@ -673,9 +671,6 @@
 27008008    
 27008009  Enaa , hon etega i siun neem hon esopali o avaliya etegana elana . Hon o i telipuna i kekeisi , yaa wana gasisi i bwatabwata ya i na Panuwa Waiwaisana o ebo ta ba Bateli Panuwana i ahe ge Yehoba wana boda enuna i pulilowalowagil . 
 27008010    
-27008012  #nicht vorhanden
-27008013  #nicht vorhanden
-27008014  #nicht vorhanden
 27008015  Inoke Daniyela ana pankite elana anelose Gabeliyel i kite , yaka abwe Gabeliyel i na elana .
 27008016    
 27008017    
@@ -731,9 +726,6 @@
 27011028    
 27011029    
 27011030    
-27011033  #nicht vorhanden
-27011034  #nicht vorhanden
-27011035  #nicht vorhanden
 27011036  Yaka abwe anelose i liwan kin toto abwe ni masal wana pagan ge wana ginol enuna kaiweliya .
 27011037    
 27011038    
