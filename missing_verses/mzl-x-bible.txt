@@ -1,82 +1,151 @@
-40001023
-40002006
-40002018
-40004015
-40004016
-40006010
-40006011
-40006012
-40006013
-40011011
-40012018
-40012019
-40012020
-40012021
-40013015
-40015008
-40015009
-40021005
-40021043
-40022044
-40022045
-41001003
-41007007
-41007008
-41012037
-42001047
-42001048
-42001049
-42001050
-42001051
-42001052
-42001053
-42001054
-42001055
-42001068
-42001069
-42001070
-42001071
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002014
-42002029
-42002030
-42002031
-42002032
-42003005
-42003006
-42004011
-42004018
-42004019
-42011003
-42011004
-42020018
-42020043
-42024017
-43004007
-43004008
-43012015
-43012016
-43012039
-43012040
-43012041
-44002017
-44002018
-44002019
-44002020
-44002021
-44002026
-44002027
-44002028
-44002035
-44004026
-44007043
+40001023  “Ungjomu̶'u̶gu̶p je̱'e̱ to'oxy'ana'k mu̶dyiibu̶ ka'p ya'aydyu̶jk mu̶dtzu̶na'ayñu̶ju̶ñ, y yajma'axung'ádu̶py je̱'e̱ y'ung tu'ug, y Emmanuel myajxu̶u̶'ajtku̶xu̶ch” (mu̶dyiibu̶ du'un ayuuk wimbu̶dzu̶u̶mbu̶ñ: “Dios mu̶u̶d u̶u̶ch ajtu̶m ajku̶xy”).
+40002006  ‘Y miich Belén kajpt, mu̶dyiibu̶ Judea naaxjootyu̶ñ, ka'p miich mútzku̶ch ma je̱'e̱ jimbu̶ mu̶jnaax mu̶jkajptu̶ñ; je̱' ko jim pyu̶dzu̶ma'añ ma miichu̶ñ tu'ug je̱'e̱ ane̱'e̱mbu̶ mu̶dyiibu̶ ane̱'e̱mu̶bu̶ñ je̱'e̱ Israel ja'ay, u̶u̶ch je̱'e̱ nja'ay.’
+40002018  “Jim Ramá ayuuk yajmu̶dooy, jyu̶'u̶y ya'axy je̱'e̱ ja'ay ku'uwópy ku'uga'ach y yajnú̶kxy yajju̶wu̶'u̶y najty mu̶k. Je̱'e̱ Raquel najty je̱' je̱'e̱ mu̶dyiibu̶ je̱'e̱ y'ung y'ana'k najty du'un niyaaxpu̶ñ. Y ka'p najty tyimyyajpudaj tyimyyajpumayu̶'u̶wa'añ, je̱' ko tu̶ najty je̱'e̱ y'ung y'ana'k y'o'kta'ay.”
+40004015  “Zabulón y Neftalí ñaaxjooty ajku̶xy, je̱'e̱ tu'u mu̶dyiibu̶ jim Jordán mu̶jnu̶u̶'awiimb najxpu̶ñ, jim mejypya'a: Galilea naaxjót jim, ma je̱'e̱ ka'pu̶ judío ja'ay chu̶naaygyu̶xyu̶ñ.
+40004016  Je̱'e̱ ja'ay ajku̶xy mu̶dyiibu̶ ijty agootztuum tzu̶naaygyu̶xpu̶ñ y'ijxku̶x je̱'e̱ ju̶u̶n, tu'ug je̱'e̱ ju̶u̶n mu̶dyiibu̶ najty adu̶kxp ajajp ma je̱'e̱ mu̶dyiibu̶ najty tu̶goydyuum tzu̶naaygyu̶xpu̶ñ.”
+40006010  Wan je̱'e̱ m'ane̱'e̱mu̶ñ ya miñ. Wan je̱'e̱ mdzojku̶ñ ya naaxwiiñ yajkuydyúñ ma je̱'e̱ ja'ay jyoot wyinma'aydyu̶ñ, du'un neby jiiby tzajpjooty yajkuydyúñu̶ñ.
+40006011  Moogyu̶ch je̱'e̱ ngaayu̶ñ n'uuku̶ñ cham ajku̶xy mu̶dyiibu̶ u̶u̶ch nyajmayjyajtku̶xypyu̶ñ.
+40006012  Winmé̱kxu̶gyu̶ch je̱'e̱ nga'oy'ajtu̶ñ ajku̶xy mu̶dyiibu̶ u̶u̶ch tu̶ nduungu̶xyu̶ñ, du'un neby u̶u̶ch tu̶ nwinmé̱kxku̶xyu̶ñ je̱'e̱ mu̶dyiibu̶ u̶u̶ch xykya'amu̶'oy'ajtpu̶ñ ajku̶xy.
+40006013  Ka'p m'a'ixu̶'u̶y ko u̶u̶ch je̱'e̱ nwinma'añ tyu̶góyu̶ch ajku̶xy, yajni'iwaadzku̶ch ni'igyu̶ ajku̶xy ma je̱'e̱ ju̶bú̶kpu̶ju̶ñ.’ [Je̱' ko miich je̱'e̱ ane̱'e̱mu̶ñ, je̱'e̱ mu̶k'ajtu̶ñ y je̱'e̱ ku'umaayu̶ñ wiinu̶u̶xu̶u̶ mmu̶u̶d. Jaanch adaa du'un.]6.13 Adayaaba texto korchete mu̶u̶dpu̶, ka'p je̱'e̱ jaaybyu̶du̶jk nije̱' tu̶ paatku̶xy.
+40011011  Janch tu̶y'ajtu̶ñ du'un nnu̶maaygyu̶xy ko ka'p je̱'e̱ ja'ay jii ni tu'ug Dios y'ayuuknajtzkapxu̶u̶ybyu̶ mu̶dyiibu̶ jakni'igyu̶ mu̶ju̶ñ ka'p je̱'e̱ju̶ñu̶ba je̱'e̱ Juan Bautista, y je̱'e̱ mu̶dyiibu̶ naty mu̶bu̶jkku̶xpu̶ñ je̱'e̱ Dios y'ane̱'e̱mu̶ñ; jakmu̶j je̱'e̱ ni'igyu̶ y'ídu̶ch, ni'igu̶ ka'p je̱'e̱ Juan Bautista.
+40012018  “Chaa u̶u̶ch je̱'e̱ nduumbu̶, je̱'e̱ mu̶dyiibu̶ u̶u̶ch tu̶ nwin'ixyu̶ñ, je̱'e̱ mu̶dyiibu̶ u̶u̶ch ndzojkpy nju̶wu̶u̶ybyu̶ñ, y janch jootkujku̶ch mu̶u̶d yu̶'u̶. Nmo'owe̱e̱mbyu̶ch je̱'e̱ n'Espíritu, y xykyapxwa'kxu̶byu̶ch je̱'e̱ ndu̶y'ajt ma je̱'e̱ naax kajpt kú̶xyu̶ju̶ñ.
+40012019  Ka'p je̱'e̱ chiptuna'añ ni kya'aya'ax kya'ajoga'añ, y ni tu'k'aa je̱'e̱ y'ayuuk kya'ayajmu̶dówu̶ch nu̶u̶gujk tu'ugujk.
+40012020  Ka'p je̱'e̱ najtz'ixu̶'u̶wa'añ mu̶dyiibu̶ oy yajxón ka'amu̶bu̶jkpu̶ñ y ka'p najtz'ixu̶'u̶wa'añ mu̶dyiibu̶ mu̶bu̶jktzómnu̶ju̶ñ, u̶xtu̶ koonu̶ je̱'e̱ ju̶bu̶kpu̶ ku̶xyu̶ mu̶madaakta'awu̶ch mu̶u̶d je̱'e̱ tyu̶y'ajt.
+40012021  Y mu̶bu̶gaanu̶xu̶p je̱'e̱ naax kajpt y'ayuuk tyu̶y'ajt.”
+40013015  Je̱' ko adaa ja'ay ajku̶xy janch juuñ jyoot wyinma'añ yu̶'u̶ ajku̶xy y aduky tyadzak yu̶'u̶ ajku̶xy y nan wimbi'idz yu̶'u̶ ajku̶xy, ka'pu̶ y'ijxku̶xu̶ch, y ka'pu̶ myu̶doogu̶xu̶ch, y ka'pu̶ tii winju̶wu̶u̶ygyu̶xu̶ch; nan ka'pu̶ jyootwimbijtku̶xu̶ch maa u̶u̶chu̶ñ, y ka'pu̶ u̶u̶ch nyajtzo'ogu̶ch ajku̶xy.’
+40015008  ‘Adaa ja'ay du'un yu̶'u̶ kyápxku̶xy myu̶dyaakku̶xy neby u̶u̶ch je̱'e̱ jaanchpyu̶ xychoky xyajmu̶j'átyu̶ñ ajku̶xy, peru̶ janch ju̶gue̱m jyoot wyinma'añ yu̶'u̶ ajku̶xy ma u̶u̶chu̶ñ.
+40015009  Ni'inadu̶gu̶'u̶bu̶ u̶u̶ch yu̶'u̶ xywyin'u̶u̶gu̶xy xywyinyaaxku̶xy; y je̱' yu̶'u̶ y'u̶xpu̶jku̶ñ'ajtypy ajku̶xy je̱'e̱ ane̱'e̱mu̶ñ mu̶dyiibu̶ je̱'e̱ ja'ay ku̶'u̶m tu̶ yajkojku̶xyu̶ñ.’
+40021005  “Nu̶maaygyu̶x je̱'e̱ ja'ay je̱'e̱ mu̶dyiibu̶ tzu̶naaygyu̶xpu̶ñ ma je̱'e̱ Sión kajptu̶ñ: ‘Ok'ijxku̶x, chi je̱'e̱ mMu̶j'ane̱'e̱mbu̶ miich xyñimiingu̶xy, yuung naaxypy, y'u̶ña'ay buurru̶kú̶xp, buurru̶'ungkú̶xp, ju̶yujk tzu̶mychu̶u̶mbu̶ y'ung.’ ”
+40021043  Y paady miich du'un nnu̶maaygyu̶xy ko yajpu̶gaangu̶xp miich je̱'e̱ mgu'utujku̶ñ ka'pu̶ jiiby mdu̶gu̶u̶ygyu̶xu̶ch ma je̱'e̱ Dios y'ane̱'e̱mu̶ñ, y je̱' je̱'e̱ yajmo'owaangu̶xp je̱'e̱ mu̶dyiibu̶ je̱'e̱ Dios y'ane̱'e̱mu̶ñ ye̱jktu̶gátzu̶byu̶ñ ma je̱'e̱ mu̶dyiibu̶ je̱'e̱ Dios y'ane̱'e̱mu̶ñ kuydyunaangu̶xpu̶ñ. 
+40022044  [Pu̶njaty tzaagú̶xp yujkku̶daagu̶xpu̶ñ, tu̶j wi'idz je̱'e̱ jyajtta'awu̶ch ajku̶xy; y pu̶nu̶ je̱'e̱ tzaa ni'igu̶daagóttu̶gu̶xp, jo'ptz jo'ptz je̱'e̱ jyajtta'awu̶ch ajku̶xy.]
+40022045  Je̱'e̱ teedy windzu̶ndu̶jk y je̱'e̱ Dios y'ane̱'e̱mu̶ñ windzu̶ndu̶jk ajku̶xy, ko adaa ijxpe̱jt du'un mu̶dooy ajku̶xy je̱'e̱ mu̶dyiibu̶ je̱'e̱ Jesús najty myu̶dyaakypyu̶ñ, chi oy winju̶wu̶u̶ygyu̶xy ko je̱' najty du'un nimu̶dyaaku̶p ajku̶xy.
+41001003  Jim adu'ugtuum yajmu̶dooy tu'ug je̱'e̱ ja'ay myu̶na'añ: ‘Yaj'oyu̶u̶ygyu̶x je̱'e̱ Windzú̶n Dios ñu̶u̶'aa tyu'u'aa. Yajtu̶u̶wu̶ je̱'e̱ ñu̶u̶'aa tyu'u'aa ajku̶xy je̱'e̱ mu̶dyiibu̶ mu̶j aney axu̶guetyu̶ñ.’ ”
+41007008  Miich ajku̶xy tu̶ je̱'e̱ Dios y'ane̱'e̱mu̶ñ m'u̶xmajtzu̶ ajku̶xy ko je̱'e̱ mgostumbre mjanchpadunaangu̶xy mu̶dyiibu̶ je̱'e̱ ja'ay ku̶'u̶m tu̶ yajkojkku̶xyu̶ñ.
+41012037  ¿Peru̶ neby je̱'e̱ Cristo mu̶baad y'ok'ung y'ok'ana'k'adyii je̱'e̱ David y je̱'e̱ David du'un je̱'e̱ ku̶'u̶m myu̶naañ ko je̱'e̱ Cristo Wyindzu̶n'ajtypy?
+42001047  Y xondaakpu̶ch mu̶u̶d je̱'e̱ Dios kyu̶xpu̶, u̶u̶ch nniwaambu̶ nyajtzookpu̶.
+42001048  Je̱' ko je̱'e̱ Dios u̶u̶ch tu̶ xyñi'ijxku̶da'agy, je̱'e̱ tyuumbu̶ yuungpu̶ naaxypyu̶. Y jada'achám y wiinu̶u̶xu̶u̶, mu̶na'anu̶p je̱'e̱ ja'ay ku̶xyu̶ ajku̶xy, ko u̶u̶ch njootkujku̶ch.
+42001049  Je̱'e̱ Dios mu̶jmu̶k'ajtmu̶u̶dpu̶, may'ajt tu̶ tuñ mu̶u̶d u̶u̶ch,¡Kunukxy je̱'e̱ xyu̶u̶!
+42001050  Dios pya'a''ayooby je̱'e̱ wiinu̶u̶xu̶u̶ pu̶njaty windzu̶gu̶u̶yu̶bu̶ñ.
+42001051  Tu̶ yajni'igu̶xu̶'u̶gy ku̶xyu̶ myu̶k'ajtu̶ñ, tu̶ yajtzo'oydyúñ pu̶njaty amu̶j jootmu̶j nayjyu̶wu̶u̶yu̶p ma je̱'e̱ jyoot wyinma'añ ajku̶xyu̶ñ.
+42001052  Dios tu̶ je̱'e̱ mu̶jpu̶ mu̶j'ane̱'e̱mbu̶ y'ane̱'e̱mu̶ñ pu̶jku̶yu̶ ajku̶xy, y tu̶ je̱'e̱ ayoobu̶du̶jk mu̶k'ajtu̶ñ mooygyu̶xy.
+42001053  Pu̶njaty najty yuu'o'ku̶bu̶ñ, myooygyu̶x je̱' tii mu̶u̶d jyootkujk'ádu̶chu̶ñ ajku̶xy. Y je̱'e̱ kumeeñjya'aydyu̶jk du'uñyu̶ je̱'e̱ najtzmadzu̶u̶y ajku̶xy, ka'p ni tii mooy ajku̶xy.
+42001054  Dios tu̶ je̱'e̱ Israel ja'ay pubety pudu̶gu̶'u̶y je̱'e̱ tyuumbu̶ ajku̶xy, y ka'p ja'aydyu̶gooy, ko je̱'e̱ pa'a''ayo'on mu̶dada'añ mu̶u̶d je̱' ajku̶xy.
+42001055  Du'un neby jékyu̶p yajwinwaanu̶u̶yu̶ñ je̱'e̱ nmu̶j'áp nmu̶jteedy Abraham ajtu̶m ajku̶xy, y je̱'e̱ y'ok'ung y'ok'ana'k ajku̶xy, je̱'e̱ mu̶dyiibu̶ najty jak'u̶x'aam minaamnu̶ju̶ñ ajku̶xy.”
+42001068  “¡Ku'umáy je̱'e̱ Israel ja'ay Wyindzú̶n Dios, je̱' ko tu̶ myiñ ma je̱'e̱ ñaax kyajptu̶ñ tu'g niwaambu̶ yajtzookpu̶!
+42001069  Tu̶ je̱'e̱ Dios xykye̱jxu̶yu̶ ajtu̶m ajku̶xy niwaambu̶ yajtzookpu̶ mu̶k'ajtmu̶u̶dpu̶, nidu'ugtu̶ je̱'e̱ tyuumbu̶ David y'ok'ung y'ok'ana'k ajku̶xy.
+42001070  Je̱' ko du'un je̱'e̱ Dios jékyu̶p myu̶naañ mu̶u̶d je̱'e̱ y'ayuuknajtzkapxu̶u̶ybyu̶du̶jk je̱'e̱ wa'adzja'aybyu̶ ajku̶xy,
+42001071  ko je̱' xyñiwa'anaanu̶m ma je̱'e̱ nmu̶dzip ajtu̶mu̶ñ ajku̶xy, nan xypyube̱daanu̶m xypyudu̶gu̶'u̶waanu̶m ajku̶xy, ka'pu̶ xykyu̶'u̶ga'awu̶u̶yu̶mu̶ch je̱'e̱ mu̶dyiibu̶ ka'p xy'ixaanu̶m xchogaanu̶mu̶ñ ajku̶xy.
+42001072  Ko pa'a''ayowa'añ je̱'e̱ nmu̶j'áp nmu̶jteedy ajtu̶m ajku̶xy, y ko ka'p ja'aydyu̶goya'añ je̱'e̱ ayuuk mu̶dyiibu̶ yajwinwaanu̶u̶yu̶ñ ajku̶xy.
+42001073  Du'un je̱'e̱ Dios y'ayuuk jékyu̶p tu'ug'aa tu'ugjoot awaanu̶u̶y,
+mu̶u̶d je̱'e̱ nmu̶j'áp nmu̶jteedy Abraham ajtu̶m ajku̶xy
+mu̶dyiibu̶ najty xymyo'owaanu̶mbu̶ñ.
+42001074  Ko xyñiwaanu̶mu̶ch ma je̱'e̱ nmu̶dzip ajtu̶m ajku̶xyu̶ñ,
+y mu̶'it tu'ug'aa tu'ugjoot nmu̶yaax n'o'owu̶dajtu̶mu̶ch ajku̶xy,
+ka'p tzu̶gu̶'u̶ñ ju̶wu̶'u̶ñ maa.
+42001075  Y ndzu̶naayu̶mu̶ch mu̶u̶d wa'adzwinma'añ y tu'uda'agywyinma'añ
+jaboom jaboom ma je̱' wyinduuyu̶ñ,
+u̶xtu̶ mabaad njugy'ajtu̶mu̶ñ ajku̶xy.
+42001076  Miich ma'axúng, je̱' myajtíju̶ch je̱'e̱ mu̶jpu̶ Dios y'ayuuknajtzkapxu̶u̶ybyu̶.
+Je̱' ko miich jayu̶jp kugapxy'ajtpu̶ nú̶kxu̶p ma je̱'e̱ Crístoju̶ñ,
+nu̶kxy je̱'e̱ ja'ay myajni'ixu̶'u̶y je̱'e̱ Dios ñu̶u̶ tyu'u.
+42001077  Myajnejwu̶'u̶wu̶ch je̱'e̱ kajptja'ay ajku̶xy
+ko je̱'e̱ Dios ñu̶u̶ pyoky wyinme̱kxaanu̶xu̶ ajku̶xy.
+Y ko je̱'e̱ y'aanu̶mu̶ ñiwa'anaan yajtzo'ogaanu̶xu̶ ajku̶xy.
+42001078  Du'un je̱'e̱ Dios tu̶ xypya'a''ayoowu̶m ajku̶xy mu̶u̶d je̱'e̱ myu̶jpa'a''ayo'on,
+ko tu̶ xykye̱jxu̶yu̶ ajtu̶m ajku̶xy je̱'e̱ Cristo,
+timydyu'un neby je̱'e̱ xu̶u̶ jopy pyu̶dzu̶myu̶ñ,
+y yajjaju̶'u̶y je̱'e̱ naaxwiimbu̶ ku̶xyu̶.
+42001079  Neby je̱'e̱ ja'ay mu̶baad yajmooygyu̶xyu̶ñ je̱'e̱ Dios tyu̶y'ajt,
+mu̶dyiibu̶ tzu̶naaygyu̶xpu̶ñ jaktimy'agoodztu̶goydyuum y xytyu'umooyu̶m ajku̶xy
+ma mu̶baad jootkujk ndzu̶naay njugy'ajtu̶mu̶ñ ajku̶xy, ka'p tzip ma'ad maa.”
+42002014  “¡Janchku'umáy janchmu̶j je̱'e̱ Dios tzajpjootypyu̶!
+¡Jii jootkujk'ajtu̶ñ naaxwiiñ mu̶u̶d je̱'e̱ ja'ay gyu̶xpu̶ ajku̶xy mu̶dyiibu̶ je̱'e̱ Dios kyu'umaaybyu̶ñ!”
+42002029  “Jada'achám Windzú̶n Dios, mu̶baad myajku'udujknu̶
+ko je̱'e̱ mduumbu̶ wan jootkujk o'knu̶,
+je̱' ko tu̶ du'un mguydyúñ neby u̶u̶ch xyñu̶maayu̶ñ.
+42002030  Cham tu̶ u̶u̶ch n'ixy je̱'e̱ niwaambu̶ yajtzookpu̶,
+42002031  mu̶dyiibu̶ tu̶ mni'ixu̶'u̶y ma je̱'e̱ naaxwiiñjya'ay ku̶xyu̶ ajku̶xu̶ñ.
+42002032  Je̱' je̱'e̱ tu̶y'ajt yé̱gu̶p ma je̱'e̱ ja'ay mu̶dyiibu̶ ka'p jyudíoja'ayu̶chu̶ñ ajku̶xy,
+du'un je̱' neby je̱'e̱ ju̶u̶n tu'ug mu̶dyiibu̶ je̱'e̱ ja'ay kudú̶kxu̶bu̶ñ.
+Y ku'umáy je̱'e̱ Israel ja'ay y'ídu̶ch ajku̶xy.”
+42003005  Ku̶xyu̶ ma ñu̶u̶náxy wyoknaxyu̶ñ wan joyu̶u̶ydya'ay.
+Ku̶xyu̶ je̱'e̱ tun kopt wan nandu'un joyu̶u̶ydya'ay,
+Y ku̶xyu̶ je̱'e̱ nu̶u̶'aa tu'u'aa mu̶dyiibu̶ mu̶j aney axu̶guetyu̶ñ yajtu̶u̶gu̶x.
+Y ku̶xyu̶ nu̶u̶'aa tu'u'aa mu̶dyiibu̶ ka'p kipxyjyátyu̶chu̶ñ,
+wan kipxyjyajtta'ay.
+42003006  Ku̶xyu̶ je̱'e̱ ja'ay íxu̶ch nejwu̶'u̶wu̶ch ajku̶xy
+je̱'e̱ niwaambu̶ yajtzookpu̶ mu̶dyiibu̶ je̱'e̱ Dios kye̱xe̱e̱mbyu̶ñ.’ ”
+42004011  Xyche̱nu̶'kku̶xu̶p,
+ka'pu̶ maa mgu'uné̱p mgu'ugóxu̶ch ma chaajootyu̶chu̶ñ.’
+42004018  “Je̱'e̱ Windzú̶n Dios y'Espíritu xymyu̶dajtpu̶ch.
+Tu̶ xykyunúkxyu̶ch ko u̶u̶ch je̱'e̱ ayoobu̶du̶jk nyajnu̶ma'awu̶ch ajku̶xy je̱'e̱ oybyu̶ ayuuk tu̶y'ajt4.18 Nije̱' wiingpu̶ versión myu̶na'añ: Tu̶ xykyéxyu̶ch ko u̶u̶ch nyajjootkugu̶'u̶wu̶ch je̱'e̱ ja'ay mu̶dyiibu̶ jootmaymyu̶u̶du̶ñ ajku̶xy.
+Tu̶ xykyéxyu̶ch ko u̶u̶ch nwinmé̱kxu̶ch je̱'e̱ mu̶dyiibu̶ pujxtu̶gooty yajpaatku̶xpu̶ñ,
+y nan nyajwiindu̶kxu̶'u̶gu̶chu̶ch je̱'e̱ ja'ay mu̶dyiibu̶ wiindzu̶ñ ajku̶xy.
+Y nbu̶da'agu̶chu̶ch awa'adztuum je̱'e̱ mu̶dyiibu̶ yajtzaachtyuumbu̶ñ ajku̶xy.
+42004019  Tu̶ xykyéxyu̶ch ko u̶u̶ch ngapxwa'kxu̶ch ko tu̶ je̱'e̱
+tiempo cham paady mu̶naa je̱'e̱ Windzú̶n Dios may'ajt oy'ajt
+tuna'añu̶ñ ma je̱'e̱ ja'ay ajku̶xyu̶ñ.”
+42011003  Mooygyu̶ch je̱'e̱ ngaayu̶ñ n'uuku̶ñ ajku̶xy jaboom jaboom.
+42011004  Winme̱kxu̶u̶ygyu̶ch je̱'e̱ nboky ngu̶dyeey ajku̶xy,
+mu̶dyiibu̶ u̶u̶ch nduundu̶gooybyu̶ñ ajku̶xy,
+du'un neby u̶u̶ch nwinmé̱kxku̶xyu̶ñ
+je̱'e̱ mu̶dyiibu̶ u̶u̶ch xymyu̶duundu̶gooybyu̶ñ ajku̶xy.
+Ka'p m'a'ixu̶'u̶y ko u̶u̶ch je̱'e̱ nwinma'añ tyu̶góyu̶ch ajku̶xy.’ [Yajni'iwaaztku̶ch ni'igyu̶ ajku̶xy ma je̱'e̱ ju̶bú̶kpu̶ju̶ñ.]
+42020018  Pu̶njaty tzaagú̶xp yujkku̶daagu̶xpu̶ñ, tu̶j wi'idz je̱'e̱ jyajtta'awu̶ch ajku̶xy; y pu̶nu̶ je̱'e̱ tzaa ni'igu̶daagóttu̶gu̶xp, jo'ptz jo'ptz je̱'e̱ jyajtta'awu̶ch ajku̶xy.
+42020043  u̶xtu̶ koonu̶ u̶u̶ch naty je̱'e̱ mmu̶dzip tu̶ nmu̶madaakta'ay,
+tu̶ nbu̶da'agyu̶ch mdekypya'tku̶'u̶by.’
+42024017  Chi je̱'e̱ Jesús yajtu̶u̶wu̶ ajku̶xy:
+—¿Ti du'un mjanchnimu̶dyaakku̶xypy ma yam mdu'uyo'oygyu̶xyu̶ñ?
+Chi táju̶p maayu̶p wya'kxu̶jpy ajku̶xy,
+43004007  Je̱'e̱ dyiscípulotu̶jk kajptjooty najty je̱'e̱ tu̶ ñú̶kxku̶xy; nu̶kxy najty tijaty juuygyu̶xy tii kyaaygyu̶xu̶py y'uukku̶xu̶byu̶ñ. Ko je̱'e̱ Samaria to'oxyu̶jk tu'ug jya'ty ma je̱'e̱ nu̶u̶góptu̶ñ nu̶u̶ yajpu̶dzu̶u̶mbu̶, y chi je̱'e̱ Jesús nu̶maay je̱'e̱ to'oxyu̶jk:
+—U̶u̶ch je̱'e̱ nu̶u̶ we̱e̱nu̶ moogy.
+43004008    
+43012015  “Ka'p miich mdzu̶gu̶u̶ygyu̶xy je̱'e̱ mu̶dyiibu̶ tzu̶naaygyu̶xpu̶ñ ma je̱'e̱ Sión kajptu̶ñ;12.15 Jerusalén.
+ijxku̶x, chi je̱'e̱ mMu̶j'ane̱'e̱mbu̶ myiingu̶xy y'u̶ña'ay buurru̶'ungkú̶xp.”
+43012016  Timyjyawin'ajt, ka'p je̱'e̱ Jesús dyiscípulotu̶jk adayaaba ayuuk winju̶wu̶u̶ygyu̶xy, u̶xtu̶ koonu̶ je̱'e̱ Jesús jyuugypyu̶jky y pya'ttu̶gu̶u̶yñu̶ tzajpjooty. Mu̶'itnu̶ oy ja'aymye̱jtzpaatku̶xy ko ku̶xyu̶ tijaty najty du'un tu̶ tyuñ tu̶ jyadyii, je̱' najty du'un tu̶ yajkuydyúñ je̱'e̱ mu̶dyiibu̶ najty kuja'ay miimb mu̶u̶d je̱'e̱ Jesús kyu̶xpu̶.
+43012039  Y ka'p najty mu̶baad mu̶bu̶jkku̶xy, je̱' ko nandu'un je̱'e̱ Isaías kujaay:
+43012040  “Tu̶ je̱'e̱ Dios je̱'e̱ wyiin jyoot yaj'adujkku̶xu̶ ajku̶xy
+y tu̶ je̱'e̱ jyoot wyinma'añ yajjuunu̶xu̶ ajku̶xy;
+ka'pu̶ y'ijxku̶xu̶ch nan ka'pu̶ winju̶wu̶u̶ygyu̶xu̶ch;
+ka'pu̶ jyootwimbijtku̶xu̶ch ma u̶u̶chu̶ñ,
+y ka'pu̶ u̶u̶ch nyajtzo'ogu̶ch ajku̶xy.”
+43012041  Myu̶naañ je̱'e̱ Isaías du'un, je̱' ko tu̶ najty je̱'e̱ Jesús y'oy'ajt ijxu̶, y je̱' najty je̱'e̱ du'un ñigapxypy ñimu̶dyaakypy.
+44002017  ‘Je̱'e̱ mu̶'it xu̶u̶ mu̶naa naty je̱'e̱ naaxwiimbu̶ kyu̶xaan tyu̶goyaanu̶ju̶ñ, du'un je̱'e̱ Dios myu̶naañ:
+Nyajwa'kxta'awu̶u̶ybyu̶ch je̱'e̱ n'Espíritu ma je̱'e̱ naaxwiiñjya'ay kú̶xyu̶ju̶ñ.
+Miich je̱'e̱ mya'ay'úng y je̱'e̱ mdo'oxy'úng u̶u̶ch je̱'e̱ n'ayuuk ndu̶y'ajt xykyapxwa'kxu̶py ajku̶xy.
+Je̱'e̱ tzugajy'ana'ktu̶jk yaj'ixu̶u̶ju̶p je̱'e̱ Dios mu̶jwinma'añ ajku̶xy,
+y je̱'e̱ amu̶jja'aydyu̶jk kuma'awu̶p je̱'e̱ ajku̶xy.
+44002018  Nan nyajwa'kxta'awu̶u̶ybyu̶ch je̱'e̱ n'Espíritu je̱'e̱ mu̶'it xu̶u̶ ma u̶u̶ch je̱'e̱ nduumbu̶du̶jk ya'aydyu̶jkpu̶ y to'oxyu̶jkpu̶ ajku̶xyu̶ñ,
+y je̱' u̶u̶ch je̱'e̱ n'ayuuk ndu̶y'ajt kapxwa'kxku̶xu̶p.
+44002019  Nyajku̶xu̶'u̶gu̶ybyu̶ch tzajpkú̶xy mu̶j ijxpe̱jt oy chu̶gu̶u̶yñu̶bu̶,
+y nye̱gu̶ybyu̶ch ya naaxwiiñ je̱'e̱ ayo'on, ne'pty, ju̶u̶n y ju̶u̶njók.
+44002020  Je̱'e̱ xu̶u̶, koodz je̱'e̱ jyadu̶ch,
+y je̱'e̱ po'o du'un je̱'e̱ jyadu̶ch neby je̱'e̱ ne'ptyu̶ñ,
+mu̶naa naty je̱'e̱ xu̶u̶ tiempo ka'anu̶ paadyñu̶
+mu̶naa je̱'e̱ Windzú̶n Dios naty myina'añu̶ñ,
+ídu̶p je̱'e̱ mu̶jxu̶u̶ y ku'umayxu̶u̶ jii.
+44002021  Y ku̶xyu̶ je̱'e̱ ja'ay mu̶dyiibu̶ je̱'e̱ Windzú̶n Dios mu̶yaaxp o'owu̶dajtku̶xpu̶ñ,
+pyaatku̶xu̶py je̱'e̱ aanu̶mu̶ ni'idzooku̶ñ.’
+44002026  Paady u̶u̶ch jootkujk nnayjyu̶wu̶'u̶yii,
+y u̶u̶b xondaakpu̶ch mu̶u̶d je̱'e̱ jootkujk'ajtu̶ñ.
+Y paady ko u̶u̶ch n'o'ogu̶ch chi naaxtu̶gu̶'u̶wu̶bu̶ch je̱'e̱ nni'kx,
+ka'p u̶u̶ch ni tii ndajy nmay.
+44002027  Je̱' ko ka'p u̶u̶ch je̱'e̱ n'aanu̶mu̶ xyajwu̶'u̶maanu̶ ma je̱'e̱ naaxtu̶gu̶ydyaaktu̶ñ,
+ni mga''a'ixu̶'u̶wu̶ch ko je̱'e̱ wa'adzpu̶ mduumbu̶ je̱'e̱ ñi'kx nu̶kxy wyindu̶goy.
+44002028  Tu̶ u̶u̶ch je̱'e̱ nu̶u̶ tu'u xyajni'ixu̶'u̶y mu̶dyiibu̶ je̱'e̱ jugy'ajtu̶ñ wiinu̶u̶xu̶u̶bu̶ mu̶u̶du̶ñ.
+Y jootkugu̶'u̶wu̶bu̶ch ko u̶u̶ch naty xymyu̶d'ity.’
+44002035  u̶xtu̶ koonu̶ u̶u̶ch naty je̱'e̱ mmu̶dzip tu̶ nmu̶madaakta'ay,
+tu̶ nbu̶da'agyu̶ch mdekypya'tku̶'u̶by.’
+44004026  Je̱'e̱ naaxwiiñ ane̱'e̱mbu̶du̶jk myu̶dzibu̶u̶ygyu̶xypy je̱'e̱ Dios,
+y je̱'e̱ tuungmu̶u̶dpu̶du̶jk naymyujku̶p je̱'e̱ ajku̶xy
+y mu̶dzibu̶u̶ygyu̶xy je̱'e̱ windzú̶n Dios
+y je̱'e̱ Cristo mu̶dyiibu̶ je̱'e̱ Dios tu̶ win'ixyu̶ñ.’
+44007043  Ka'p u̶u̶ch miich tu̶ xywyindzu̶gu̶u̶ygyu̶xy;
+tu̶ myajtajnajxku̶xy je̱'e̱ mdios Moloc tyu̶jk je̱'e̱ mu̶dza'a dyios Refán,
+tzaadzéch kepychech y ooru̶ oydyúñ,
+mu̶dyiibu̶ miich ku̶'u̶m tu̶ myajkojku̶xyu̶ñ m'o'owu̶dattaangu̶xy.
+Paady u̶u̶ch miich nyajpu̶dzu̶maangu̶xy ma yu̶'u̶ mnaaxjooty ajku̶xyu̶ñ,
+y ngue̱xaangu̶xy jim Babilonia ni'ináxy.’
 44007049
 44007050
 44008033
