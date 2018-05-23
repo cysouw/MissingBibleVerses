@@ -1,22 +1,30 @@
-40021043
-41012037
-44004012
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023026
-44023027
-44023028
-44023029
-44023030
-45010019
-45010020
-45010021
-45011009
-45011036
+### Bemerkungen: added 40021044 which was missing as well
+### 41012036 contains parts of following verse 37, corrected: Siupa David , siojopa Sinia' jikimet initataja'm ti yamtijie'n ti iyoye 'ate : “Saka'niona iyone 'ate ni Ika'niona , Wejen 'niji ijwiyeje , 'yina je ijiate ka je yinna'a akiajwe napo atajiejwas ti ja 'ask'i'ni. ”
+### 44004011 lacks end of verse, corrected: Sinia' jlamtis t'ipi iyoyet'ipi 'ate : “ Siojona sisaj ti 'wukiu'ul jiwos iwit'iane , janakp'an sisaj ti ijiateje jla'am ti 'es . ” Siojopa sisaj naka ni Jesús ,
+### 44015023 lacks end of verse, corrected: Itiunkinisi siu'nie jip'esinik ti iyo'ate : “ Asampey i'lijwas , asam ti je Judíojosts'ase'm , ti as'wet pet jana Antioquía ; asam'neje as'wet jana Siria , siu'neje napo ti jleyejyi jana Cilicia . Wuj ti atejwila'ase . Sam ti injlojwajnasts'e'm . Sam'neje ti kijilasts'e'm pet .
+### 45010018 contains parts of following verses 19, 20, 21,  corrected: Sekyi'i awo'ate , ¿ ent'a napo Israel jika kia'lis jet'i ipi'yayis nak Sinia' jika'niye ? Ipi'yayis , tepa jawo ka je impe'yayis , jlam'ne siuniwa jlamtis ni Sinia' iyo'ate : “ Itijwi'n ape'e 'ni ajnat ni jla'lap napoka Sinia' jikawos , yame siuniwa ajnatis tome jlaja niwa jlamtis . ”
+### 45011008 contains parts of following verses 9, corrected: iyo niwa Sinia' jlamtis ti iyo'ate : “ Sinia' initiajnat pi jlosik , 'yina je paj kant'ekiyi , yiyeyi siu'nie jloma awak'i ti kia'iyo . Sinia' iyo jitietiye , 'yina je i'wijne'n , siu'neje ti iyo jik'iotiye , 'yina je tipechijyi'n . ”
+
+40021043	Nak ajwe'el ti jatala'ase nak Sinia' jika anechijiayas, ja tekiajlaja siunapo i'nio' japoye siuniwa jla' ti ja nekiajle ni Sinia'.
+40021044	Jlajmiliet siojona sisaj, siunie janoyiji'n ape'e jawo jwala'. Ni'ne ka janakaye jla'am jana sisaj ka inojwi'n ape'e jawo makie ni i'nio'.
+41012037	¿ Yot'iyi'ni ka intajla'm papok David jika kia'lis naka ti jla'am ti Injwajietiwo ti jlam'ne David kia'iyo iyo jika'nionaja? Siupapo i'nio' ti je pini', je jlase' pi iyo ti yimi'n ti its'iuye ja Jesús.
+44004012	'yina naka ti kasts'isisi, kajeyepa ti lajk'ipa ape'e 'ni ajnat ka jikiechaye ka ineye paka Sinia' injlots'e ka pakaye ka kasjwajiete'n.
+44015024	Ajieyeje ti po' papo ijio'wase ti tajla'm jla'a si'wet ti je inena'yate, ti injlak'alitie siunie iyo niwa inamtis jiniliaja ti inkajyina siunie astankiujnieye iyo. Je sa'am ka intalts'e siunie iyoyisi.
+44015025	It'imina'ne ti anikiujlie ti awokieyi ka ijliuk siu'napo si'lijwas, ka'nonink'i napo si'lijwas ti wuj ti kasts'amaja, Pablo jla'yi na Bernabé.
+44015026	Jlamis ti je inite'en, 'wanjliyi ka k'iejliyeyi paka jiwet'iaye, ka ne'yi ape'e pa Saka'niona Jesús ti Sijwajieti, ti iniuyisieje.
+44015027	“Ijiatjliyi ajlok'ne napoka si'lijwas Judas jla'yi na Silas, napok ti janama'ase ti janjwe'lase'm wikie'eyi siuniwa wask'i'nelaja, ja'nakayeyijna'a ti ja 'najanayi pet pa jawonayi.
+44015028	'Yina lapakawo ti kiak iyo jana Sinia' jikimet ti 'es, jla'yi pet ti sa'am, je 'esiji ka k'iejliyeyi paka ijiosa'ni asek'i, ka iyok asjlokie, najata jla'am siunie 'esiji ka woyeyi.
+44015029	Siunie t'isie'n, siuniwa k'iejliyi, ti pajk'i ti wakal ti t'otata k'iye siuniwa je ijiat ka diosisa', ká atowa. Kia'iyojliyi ni ji'woyis ni k'iejliyi ti 'yal ta'a pakaja. Ká akima siunie wuj ti je 'es, siunie iyo na ayinie jla'yi jana asejnia, ti 'yaka'm ape'e siunie iyoyi. Siuti ja ke akinieyi niwaka, ijiate ja 'nesieyiji'n . “ 'Nak nojwaja'm 'niwa samtis. 'Esiji ka Sinia' ine'yasap.”
+44023026	“Ampey, anechiyas Félix ti ajweye po'. Ya'am Claudio Lisiask'i'm, wuj ti atejwi'la.
+44023027	Je 'wenayi paka ijwi'la'm, 'neyek'i Judíojos isimits'i siu'nie i'nio' ti iyotaja ka inlanis. Je 'esiji pet ti ts'ajanayi pa awone ti Romano, 'yina ak'ne ti a'asi japo jika tokis, sekyi'i a'manit'ne.
+44023028	'Yina ti awo ka ts'ajane siupa jitis iyo, it'imina'ne ti ajoyiji japo jlosikis jiwos jlamis.
+44023029	'Yina ti jiwekie'aja ti ts'ajane pa awone, ti naka p'an jika'neyasajnaye jlamis ti itiajlatisie. Jlajmi wekie'e ti iyotajas ka inlanis, siu'neje ti iyo ka 'notits'i a'laja'm ti lajk'ipa ka jitis iwo ka ijiatayiji ka je 'esie.
+44023030	Ti ts'ajane ta'a pa awone siunie jota iwonisi, ti iyotajasi ka inlanis, it'imina'ne pet ti nak ajlojwi, siu'neje napo ijiutinisi paka jitis inwo ajlok'i, ka ape'ya siupa itiajlatisie . “ 'Nak nojwaja'm 'niwa yamtis. Ya'am, CLAUDIO LISIASK'I'M.
+45010019	Jayikiajle'eje ti jayo'ate, ¿'nakat'iyi jla'am siunapo Israel jika kia'lis ti je 'yijene paka iwone niwak Sinia' jlamtis? Je ajwel ka je 'najanisi paka iwonisi, 'yijenisi pi iyone. Janiajnat siunie Moisés iyot'iyipi ti iyo'ate: “Siuti ja'yejne'n siunapo i'nio' ti je 'yaka kia'lis napok jant'emina ti jawakiayek'imna'a. Jlampet siunapo ti laj jlosikie' napok jant'emina pet ti ja injwesisa'.”
+45010020	Sekyi'i pa Isaías ji'lij je jnechi pijia'm ti iyo'ate: “Siunapo ti je siwojyi'n, napokaye'eje jla'am ti si'wenis, iyo ni Saka'niona. 'Yina jlampet siunapo ti je ti'yasank'i, napokaye'eje pet ti anikajanitia'm.”
+45010021	Isaías ti ijwi'il papok Israel jika kia'lis, iyoyet'ipi 'ate: “Atejwik'i wek ki jloma ti isio' ajatieje'ni napoka i'nio' ti je tipechiji'n siu'neje napo ak'aliyijin'ni.”
+45011009	David iyo 'neje pet 'ate: “Siuniwa jiliakijnieyejes'ni 'esiji ka inikajyi'n ka wo'ate siuniwa inkatsalayis, 'yina ka inoyisi'ni jla'am ts'iji janeyi siunie jawo ni Sinia' ti jan'ye'en napo i'nio'.
+45011036	Ke iwo pa ti jla'am ti tajle wikie'eyi niwa wask'i'nelaja, siu'neje ti ka lajak'i je kia'iyotaja ka poye, jla'yi ti jikijmatis jla'am. ¡Siunie jiwunitieyi jajnok'i! Amén.
 45014012
 45015010
 45015011
