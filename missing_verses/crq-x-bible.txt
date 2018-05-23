@@ -12,6 +12,9 @@
 ### 58001012 contains parts of following verse 13, corrected: ¡ Jajot wita'm ti jawone 'ate siunie lotakinie ti totie wita'm , jawo'ate siunie ti iliejni pi ji'wu' ink'ie' pi 'yuts'i ! Siuti a'm je paj ka 'eki , jajnok'i'ni ti a'wasankiye po' . ”
 ### 58002008 lacks end of verse, corrected: Sekyi'i ti jlekiajlayi siunie ka iwo anechiyasa' k'iye wikie'eyi niwa wask'i'nelaja ti alesajna' . ” Siuti kia'iyo puwak inlesajna' ti ijwi'il ti Sinia' yikiajle kan'yena wikie'eyi puwak wask'i'nelaja , 'yina lajk'i puwa ka injlane ti ti'yenkinaja . Ijiate kiakt'i pa iyoyetaja , 'yina 'nakayi je a'wenajli'ijyi siuniwa wask'i'nelaja ka wikie'eyeyi kane kiajwe ni i'nio' .
 ### 58002012 contains parts of following verse 13, corrected: Siuniwa inamtis t'ipi iyo'ate : “ Inia' , jajwijla'm japo i'niayi ijwienjliyi siunie jiwoyi , 'yina siuniwa 'yaka'leja niwak jayuniti ka yita jikiowe'e napo ales ti janitotk'i wita'm . ”
+### 58004004 contains parts of following verse 5, corrected: 'Yina po' siuniwa inamtis ti yi'i niwa Sinia' jlamtis ti iyo'ate ti ijwil pet siojona jloma ijwienjli sikio' itij'we times tom'niji : “ Siojona jloma ijwienjli sikio' itij'we times tom'niji Ti itimayi pi jikimet , japak yajapajyi'n ti ininop'it . ”
+### 58004007 lacks end of verse, corrected: Paj ti ji'lij iwinats'e ti sa'am , jlampa je piniye niwa najkapis yam'nijiye , iyo niwa David jilisajna' siuniwa ajwe'ejle ti awo'ate : “ Siu'nie jloma ti jape'yaye ni Sinia' siunie jawo , 'yina ká at'onitie'yi k'iye . ” Siuti iyo'ate “ Siu'nie jloma ” , janaka siojona jloma ti jla'am ti tipayiji jloma ti ink'ie' .
+### 66011015 contains parts of following verses 16, 17, corrected: Sekyi'i siojo injlojwanik poli jlele ti tomayi jlaja , jlampa ijwienjliye 'ni sikio' itij'we times tom'niji japo yam'niji , ti ti'wosojyi'n , 'yina pesiejayi papo tom'niji poliyi , jla'lap ijiok'i'ni ti iyoyits'i 'ate : “ ¡ Siunie ajnat wikie'eyi siuniwa isie pet ape'e 'nakayi yi kiajwe pet ni jijweye ni Saka'niona , siu'neje ni Injwajieti ti jijliujwanik . 'Yina napoka ti anechiyasas jajnok'i'ni ti kiak jawo ! ”
 
 40021043	Nak ajwe'el ti jatala'ase nak Sinia' jika anechijiayas, ja tekiajlaja siunapo i'nio' japoye siuniwa jla' ti ja nekiajle ni Sinia'.
 40021044	Jlajmiliet siojona sisaj, siunie janoyiji'n ape'e jawo jwala'. Ni'ne ka janakaye jla'am jana sisaj ka inojwi'n ape'e jawo makie ni i'nio'.
@@ -45,9 +48,9 @@
 58001013  Je ti'wena pa Sinia' ka kiak iwone ka ne'yi paka jijliujwanikie' poli jlele ka wone 'ate: “Wejen 'nijiye ijwiyeje, jayi'n akiajwe napo atajiejwas.”
 58002009  Jlam pet pi Jesús a'wena ni siunie Sinia' iyone ti jwajla'a ti ijliasat isia'm, jak je iyoyiji siunapo injlojwajnas poli jlele t'ana wat ape'e. 'Yina ts'ijiye initojmat jla'm ape'e napo i'nio' ti ijioyi ni jiliaye. Ka lajk'i na jikap'ijliuskiye ti yints'e'm, nak it'imina ti 'ya'al pa Jesús. Jak je iyoyiji siuti kiak iyoyi ki inilayiti, sekyi'i Sinia' yin'ne ape'e siunie jiwunitieyi siu'neje ti iyojwa'n anechiyasa'.
 58002013  Iyo'neje 'ate: “Itiej jayoma pi Inia'.” Sekyi'i iyo'neje 'ate: “A'ne ti ijwienjli akasiti'iji'n siu'napo jilis jla'm pa Inia' ti iwink'i'm.”
-58004005
-58004008
-58007022
-60004019
-66011016
-66011017
+58004005  Sekyi'i ti yikiajlayi'i siunie ti iyo'ate: “'Wanjliyi ja ke i'yakanisi siunie ajnat ti inop'it ji'wet.”
+58004008  Jlamt'i'nepe ka pakaye Josué ka i'najlinit k'iye papo i'nio' ka'noyi japak ajnat ti inop'it ji'wet, 'yina Sinia' je kiak iyotaja'ni ka injwel'ni japa ka jikiechaye ka jlomaye.
+58007022  Ijiatjliyi, Jesús jlam ijiate jla'am ti 'yakajanit k'iye siukia iyo pa Sinia' ti ji'lij iliyi, 'yina 'yaka'm ape'e siupa inia'an.
+60004019  Ijiatjliyi, siunapo ti jlampa Sinia' ti tajle naka ti inilayiti siunie iyo ni jijliak'ali, 'esiji ka je ink'ijliayis'ni. Janekjliyisi ka woyi ni siunie 'es, jlam ininekialjliyispe jikiojia'm pi Sinia', ka wujwa ka'yena ti jlam ti jilisajna', ti jlam ti je paj ka netiajni siunie iyo ka woyi.
+66011016  'Yina sekyi'i siojopo veinticuatro i'nio' ti jwajla iyots'i'ni, ti yiyisijyi'n siojowa ji'wetis ti anechiyasas jitieyi'i ni Sinia', t'akosjlete'l itiyejayisiji'n ti iyunitis,
+66011017  ti iyoyits'i 'ate: “Siuti sa'am sinikanitieyi ekiajla'a, Saka'niona, ti Sinia'a'm, ti lajk'ipa ka ijnoj'lia, a'm ti pajk'i ti impo' ta'a, siu'neje ti je jit'iki ka paja, lapakawo ti yi' akiojyi ni ajweye ti je jlase'.
