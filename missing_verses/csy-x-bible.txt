@@ -1,5 +1,24 @@
-15010039
-15010040
-15010041
-15010042
-19059016
+### Remarks: corrected 15010038	Binnui be le phung pan: Shimei, Shelemiah, Nathan, Adaiah, Machnadebai, Shashai, Sharai, Azarel, Shelemiah, Shemariah, Shallum, Amariah le Joseph te ahi uh hi.
+### Remarks: 19059015 is missing in the original, the whole Psalm 59 corrected to original version:
+###	19059001	Ka ngalte panin hong hung tan , ka Pathian awng ; kei hong simte panin hong dal tan !
+###	19059002	Tua mihing ngilote panin hong hun tan ; tua mihing thatte mun pan hong suakta sak tan !
+### 19059003	En in ! Amate in kei that tu in hong pang hi ; mihing tatkhate ka langah hong kikhawmtua uh hi . Amate ii tabang a , manlang tak a kei hong sim natu mun a zot uh sia , mawna khat po hang le ka tat khialna khat po hang ahi bua hi ,
+###	19059004	tua ahibale keima ii kicin laakna khat po hang zongh hi ngawl hi , TOPA awng .
+###	19059005	Tho in , TOPA Vaanglianpipa Pathian awng , kei hong hu tu in hong kuan tan ; Israel Pathian awng , nangma ma in en in ! Khanglo in , Pathian he ngawlte daan pia in ; a ngilo ngual leeheak theite tungah hesuakna lak heak in !
+###	19059006	Amate in nitak sangin hong pai kik a , khuapi sungah a va kawmin ui bangin ngalh uh hi .
+###	19059007	Amate ii hong nunau nate le hong tawnnate ngai in . Amate ii leei sia a kam sungah namsau taw kibang hi , ahitazong amate in kuama in amate za ngawl tu in um uh hi .
+###	19059008	Ahihang TOPA awng , nangma in amate na nuisan a , Pathian he ngawl theampo na selno hi .
+###	19059009	Na thahatna sungah thin muanna ka nei a ; nang sia , ka buhna na hi hi , Pathian awng .
+###	19059010	Ka Pathian in kei hong it a , kei kungah hong pai tu hi ; ama in ka ngalte ii ngallel na kei hong mu sak tu hi .
+###	19059011	Amate thatlum heak in , Pathian awng , tua bang hi thong le te ka mite in mangil tu hi . Topa , kote hong dal pa awng , Na thahatna taw amate thethaang in a , zo cip in .
+###	19059012	Mawna sia amate muk tungah om hi ; amate kammal theampo mawna ahi hi ; amate kiphatsakna sungah amate awkval tahen ! Amate in longsia le leeilot thu zangh ahikom ,
+###	19059013	na thin uukna sungah susia in ; susia cimit in . Tasia ciang a kuama po in Pathian in Israelte a uk hunlam he tu a , taciang a ukna sia leitungbup ah kithung ahi hunlam tel tu hi .
+###	19059014	Ka ngalte sia nitak sangin hong heak kik a , khuapi sungah a va kawmin ui bangin ngalh uh hi , an zongin a vak uite taw kibang a , an a kicing in mu bale ngalh uh hi .
+###	19059016	Ahihang na thahatna la in ka sa tu hi ; tatsat ngawl na itna sia zingsim in a ngingin , la in ka sa tu hi . Nang sia ka buhna na hi zo a , ngimna sungah ka buhna na hi hi .
+###	19059017	Kei hong hung pa awng , nangma kong pok tu hi . Ka belna sia Pathian hi a , kei hong it Pathian hi .
+
+15010039	
+15010040	
+15010041	
+15010042	
+19059016	Ahihang na thahatna la in ka sa tu hi; tatsat ngawl na itna sia zingsim in a ngingin, la in ka sa tu hi. Nang sia ka buhna na hi zo a, ngimna sungah ka buhna na hi hi.
