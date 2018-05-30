@@ -1,13 +1,13 @@
-43008001
-43008002
-43008003
-43008004
-43008005
-43008006
-43008007
-43008008
-43008009
-43008010
-43008011
-59001007
-59001008
+43008001	Ond aeth Iesu i Fynydd yr Olewydd.
+43008002	Yn y bore bach daeth eto i'r deml, ac yr oedd y bobl i gyd yn dod ato. Wedi iddo eistedd a dechrau eu dysgu,
+43008003	dyma'r ysgrifenyddion a'r Phariseaid yn dod â gwraig ato oedd wedi ei dal mewn godineb, a'i rhoi i sefyll yn y canol.
+43008004	“Athro,” meddent wrtho, “y mae'r wraig hon wedi ei dal yn y weithred o odinebu.
+43008005	Gorchmynnodd Moses yn y Gyfraith i ni labyddio gwragedd o'r fath. Beth sydd gennyt ti i'w ddweud?”
+43008006	Dweud hyn yr oeddent er mwyn rhoi prawf arno, a chael cyhuddiad i'w ddwyn yn ei erbyn. Plygodd Iesu i lawr ac ysgrifennu ar y llawr â'i fys.
+43008007	Ond gan eu bod yn dal ati i ofyn y cwestiwn iddo, ymsythodd ac meddai wrthynt, “Pwy bynnag ohonoch sy'n ddibechod, gadewch i hwnnw fod yn gyntaf i daflu carreg ati.”
+43008008	Yna plygodd eto ac ysgrifennu ar y llawr.
+43008009	A dechreuodd y rhai oedd wedi clywed fynd allan, un ar ôl y llall, y rhai hynaf yn gyntaf, nes i Iesu gael ei adael ar ei ben ei hun, a'r wraig yno yn y canol.
+43008010	Ymsythodd Iesu a gofyn iddi, “Wraig, ble maent? Onid oes neb wedi dy gondemnio?”
+43008011	Meddai hithau, “Neb, syr.” Ac meddai Iesu, “Nid wyf finnau'n dy gondemnio chwaith. Dos, ac o hyn allan paid â phechu mwyach.”
+59001007	Nid yw hwnnw—ac yntau rhwng dau feddwl, yn ansicr yn ei holl ffyrdd—i dybio y caiff ddim gan yr Arglwydd.
+59001008	
