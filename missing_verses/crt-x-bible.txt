@@ -1,207 +1,209 @@
-40002009
-40002010
-40006003
-40006004
-40007028
-40007029
-40010017
-40010018
-40010030
-40010031
-40013005
-40013006
-40021024
-40021025
-40024038
-40024039
-40025003
-40025004
-40027051
-40027052
-40027053
-40027054
-41002025
-41002026
-41010029
-41010030
-41011029
-41011030
-41014035
-41014036
-41015006
-41015007
-41015008
-41015009
-41015010
-41015011
-41015042
-41015043
-42002022
-42002023
-42002024
-42008027
-42008028
-42008029
-42018029
-42018030
-42023050
-42023051
-42024010
-42024011
-42024022
-42024023
-43001043
-43001044
-43004007
-43004008
-43009013
-43009014
-43010014
-43010015
-43012012
-43012013
-43012014
-43012015
-43012016
-43012017
-43012018
-43012019
-43013002
-43013003
-43013004
-43014016
-43014017
-44001016
-44001017
-44001021
-44001022
-44007048
-44007049
-44007050
-44008001
-44008002
-44011028
-44011029
-44011030
-44013032
-44013033
-44016001
-44016002
-44016003
-44017002
-44017003
-44018015
-44018016
-44020001
-44020002
-44020018
-44020019
-44023033
-44023034
-44023035
-44024002
-44024003
-44024017
-44024018
-44024019
-44028010
-44028011
-45001003
-45001004
-45001006
-45001007
-45001022
-45001023
-45009002
-45009003
-45009011
-45009012
-45009013
-45010006
-45010007
-45016001
-45016002
-45016025
-45016026
-45016027
-46001001
-46001002
-46005003
-46005004
-46005012
-46005013
-46010003
-46010004
-46011017
-46011018
-46015051
-46015052
-47001010
-47001011
-47001013
-47001014
-47012003
-47012004
-48004012
-48004013
-51001001
-51001002
-52002011
-52002012
-52003001
-52003002
-53001009
-53001010
-53002001
-53002002
-54001001
-54001002
-54006011
-54006012
-55001001
-55001002
-57001008
-57001009
-58002003
-58002004
-58006004
-58006005
-58006006
-58006013
-58006014
-58006019
-58006020
-58007001
-58007002
-58007003
-58007009
-58007010
-58010019
-58010020
-58011017
-58011018
-58013020
-58013021
-60001001
-60001002
-60003001
-60003002
-61001013
-61001014
-61001017
-61001018
-65001024
-65001025
-66002022
-66002023
-66002024
-66002025
-66002027
-66002028
-66004009
-66004010
-66009017
-66009018
-66009019
-66020002
-66020003
+### Remarks: found the whole NT on http://bibles.org/crt-CHRNT/Matt/1
+
+40002009	Ipi'ya wek siupa tiwonaja, sekyi'i ti yamat'i'nijpe. Siojopa kates ti i'winist'iyipi ti 'yakaja, japak'ne siojopa iniajne'n k'iye. Wuj ti inkase'n. Paj ti yiyet'iyipi pa yi'i pa kia'le japak kates 'yina sek yajapa'aja'n ape'e.
+40002010	
+40006003	Siuti jiniuyeje ni p'ijliusie ti jiwo 'wajieta', nijweki. Ká awoyi jika'niyejayi ni akio' ni a'la'm siunie iyo ni jikijmaye ni ajweye. Ja'nakayeyijna'a ni Asna' ti i'wi'in niwaka ti jijwekieyi ti jiwoyeyi janwe'na'm pet ni as'wajieta'.
+40006004	
+40007028	Ti Jesús iliyeyi ti tamti, wuj ti yisi'lietk'i japo i'nio', kajeyepa ti 'yaka pi iyo ti iniajmat pi jijweye iyo, je iyoye 'ate siojopo jiwos pet pa Moisés jika'neyasajnaye, ti ijwil ka inka'neyasajne'n.
+40007029	
+40010017	Joskiyeyijna'a napo Judíojos, asa'am ti jiniamajyin'ni ijyik'i, napoka ti ja inekiajlayi napo jika pa'yijis jlosikis jiwos, ti jank'ajajyi'n yi'i niwa t'ajla'wetis. Siu'neje ti ja ijnoyeyiji napo i'nio' anechiyasas, siu'neje napo anechiyasis wus, siu'neje napo jika kia'lis napo je Judíojos. Jla'yi ti jampe'yaye ti ja sijwela, sekjane'yi ti akatatayi ti ja amtiye'yi.
+40010018	
+40010030	Asa'm ijiate ti asja 'yaka'm ape'e niwak ajwejnas jilis niwa ajwel'ni, ijwil ka je injla'an siuniwa as'wole ti 'yijene pi iyone pa nojwa'm. Tempi it'imina ti kiak awo ti awo'ate, jweyitie.
+40010031	
+40013005	Siu'neje puwa ijia ijniuj'li pet pa ajnat sisajas ji'wet. Ijiate tekil, 'yina sisajas yi'i, jak je iyoyiji ka jwatajayi ti kilie' yiye'e kajeyepa ti puwaka jla'am puwa sisajas ti ilia'an ti yamtak'i pijia'm.
+40013006	
+40021024	Jesús isiujlie japok ti iyo'ate: —Kia'awo po' siu'nie jayo, ti ja'yasa aswa'am: ¿Yot'it'iyi'nijpe pa Juan ti 'yakajli ti iniejiejne'n papo i'nio? ¿Mi paka pi Sinia' ti tajle, ni'ne ka napokaye napo i'nio? Siuti jakiujliek'i'm ti a'yasajyi'n, ka ijwila'asemna'a pet siunie i'nio' atajleje ni ijwiye, ti it'imina ti akajli niwa siuniwa alesane. Ti ipi'yayeyis ti kia'iyo, ti kiak iyoyeyisi ti ininekiajlisi: —¿Tepat'e si'lij janiujwata'a? Siuti jayok'iate, “Tajle pa Sinia'”, ka woyena'a 'ate, “¿Yot'iyi'ni jiateje ti jikakiuye?”
+40021025	
+40024038	Pak siupa jloma ti je yijliyi'ijyi papo i'nio' pa pejlatiok, papo i'nio' 'es ti ti'yekiujni'n, siu'neje ti i'yayis, jla'yi ti tijwa'yits'iji'n, ka k'iejliyeyi paka iwoyisi ka intejnisijyi'n paka jiwet'iaye, yamite japak jloma ti Noé yajma'm japa kasejkana ti wuj. 'Yina yiyi pak pejlatiok, paka'ne ti yame papo i'nio mases t'ipi, paj ti itijwa'a. 'Yina 'wena ja ke iwo janak jloma ka inapitiemet ni I'nio' Jlas.
+40024039	
+40025003	Jlam'ne siupapo jlosik yijits'i'ni ta'a jla'am ti itiunis pa t'e' puwa jika katese'l, ti 'yiniji ti nojwat'ijyits'ipe. 'Yina jlam'ne pet papoka ti laja'ni jlosikiejets'i'ni, lajk'ipa ka t'eye ka injwanisi'i ta'a ti yama'ni.
+40025004	
+40027051	Jakayi'ne ti its'isat'ik'ipe jak 'najla'wet tip'onajajam'ni ts'iji jik'ioyi, tajlap 'niji pijia'm ti ijiuti isia'm. Sekyi'i ajnat ti'wesiye, siuniwa sisajas ti wus its'isajamk'i. Siojo tokis jika anechiyas, siu'neje japo jla'yis ti i'yena ki t'ajwes ki Jesús, ti i'wina ti kia'iyo, ti ajnat ti'wesi, wuj ti jnots'ijnits'i. Sekyi'i iyoyis'ne 'ate: —¡Ijiatp'aneje ti Sinia' jlas siukia! Sekyi'i ti 'ajlajamk'i kiwa a'no'l, je pini' napo Sinia' jilist'ipi ti 'yalt'ijyimpe, napok napo yapik'i pijia'm. Jak je iyoyi yiyi jakiak jloma ti Jesús iniuk'i kisie'e ti tajla'm ki a'no', kia'iyo iniu kisie'e, sekyi'i 'yuyeyisi janak Jerusalén, isi' ti 'es, Sinia' ji'wet. 'Yina je pini' papo i'nio' i'wi'in ti kia'iyo.
+40027052	
+40027053	
+40027054	
+41002025	Jesús iyo'ne 'ate ti isiujlie: —¿Jet'i jlamtijiena'ijyi siunie iyot'iyipi siupa anechiyas t'ipi David? Siojopa jloma ti Abiatar ti jla'am ti iyo pa'yi jika anechiyasa' ti wuj. Yit'iyipe japa jloma ti David lajk'i paka intojwis siu'neje papo jla'yis, 'yina inil'liajne'n. David 'yuyi siupuwa woyejes yi kiajwe japa 'najla'wet, siupuwa ti t'otataje k'iye pi Sinia', sekyi'i ti ikojniene papo jla'yis, siupuwa woyejes ti papokata jla'am siupapo pa'yijis wus ti 'esiji ti itiujw.
+41002026	
+41010029	Jesús iyo'ne 'ate ti isiujlie: —Ijiatk'i siunie jayoyi, ti siuti japoye siunie ti janajmin'ni ijyik'i, ti naka jla'am ni Sinia' jika'niye ti 'es ti iyoyi, 'yina ti iliyi jiwek seka'a japa ji'wuk, siupapo ji'niayi ijwienjliyi, siojopa jlet jinia' kia'iyojliyi, ni'ne ka jilisa' papo, jika ajnat, awo'ate siuti je t'ekijli'ijyi ape'e 'ni ajnat 'yina jlajma ijiatayijijna'a pet ti janjwos niwa ji'wukila, janjwos napo ji'niayi ijwienjliyi, janjwos napo jiniewota, jika ajnatis kiak iwojliyinie'e, jilis janjwos, 'yina jla'm janajataja pet siunie ja tiwonaja ti ja titieye ilia'm. Ma ja jejliye pet ti siunie jloma jana'am siojona ji'wasankiye ti t'o'n jantaj ni i'nio'.
+41010030	
+41011029	Jesús isiujlie ti iyo'ate: —Kia'awo po' pet na ja'yasayiji'n: ¿Tempa tajleje kia Juan ti inajiejnawo ki jijweye ti it'imina ti lajk'ipa ka intomik'i'ni ti iniejiejne'n papo i'nio'? ¿Ma pak tajle pa Sinia', ni'ne ka papokaye i'nio'? Jejlikiamaye kiu' ka jwelak'i'm, sek jane'yi ka yamana'a pet ka ijwi'lase'm siunie ijwiye atajleje, ni it'imina ti akajli ti awoyi niwaka wask'i'nelaja.
+41011030	
+41014035	Yama wat ts'iji, ti iyoye t'ajlayeja', 'yina paj ti jitiokiots'i 'yitayi ajnat'e ti inip'elisine pa Jinia' ti iyo'ate: “Inia', siuti a'am ti jejlien paka k'iejliye ka kia'iwo, wojyi'n paka i'niayija', ke sena'ate siu'nie iliaye jawoyi. Inia', 'esiji ka jalk'i siu'nie yat ti pajyi. 'Yina awo'ate, 'esiji ka woyi siunie ti a'am ti janteliaja kawoyi, 'yina je ka yama ka intalk'i siupa ja woyi.”
+41014036	
+41015006	Kiajatak'i'ni ti yiyetaja siojona inlakijnieye Pascua, Pilato jikio' ilie'ne'ni ni ijwienjli inkipinik, yi'i siupa iyo jla'am napo i'nio' ka inojwanis kisie'e. Ijiatjliyi, japo i'nio' yama'nijpe ti ijioyi ja Pilato ka jla'm iwoni'ni 'ate ka woyi siupa iniwoni'ni. Sekyi'i Pilato i'yasa'm peyit ti iyo'ate: —¿Ma 'nak isio' jalie'ne 'ni aska anechiyas ti asa'am ti Judíojosts'ase'm? Lapakawo ti 'yijene pi iyone ti siojopo pa'yijis jika anechiyasas ti nak it'imina ti yikial ja Jesús, ni t'a'ti ti yinits'i ti 'yakawoyisie. 'Yina 'yijijienits'i japo i'nio' ka ijwejla'm ja Pilato ka jak jikio' inla'ne siojo i'nio' jle' iyo'ate Barrabás, ti jiliaye iniuyi wita'm siojopo jla'yis jla'am ti yi' insat jiweje. Kajeyepa ti pak titiajlataja siupa ti inilanajen'ni papo i'nio' siu'neje ti takalankijyi'n.
+41015007	
+41015008	
+41015009	
+41015010	
+41015011	
+41015042	Pope ja i'nio' jle' iyo'ate José, ji'wet jlaja isi' jle' iyo'ate Arimatea, jikijmaye siunie ti yiji papo Judíojos jlosikis jiwos, 'yina kia'iyo je iliyi ti inijijwijyink'iye siupa Sinia' jika anechijiayas. Jlampa k'iejli ajnalis wujwak'i'ni siojokia jloma ti siunapo i'nio' iniwakajlanitis k'iye janak jloma ti i'nio 'wanjlijyi'n, José yam'ne ti ijioyi ja Pilato, je iyo ka ijnots'ina ti ti'yasane ki t'ajwes masa ki Jesús, ka intejk'iye.
+41015043	
+42002022	Jlampa yiyek'i siupuwa jlomas ininenisi, ti ini'notatisiji jitieyi'i pa Sinia', iyot'iyipi jla'am pa inka'neyasajnaye ka woyi napo asejnia, ti kia'iyo ti tijwayetaja puwa jlomas cuarenta, japa asejnia jlas yiyetaja'n. María jla'yi pa José yamat'i'nijpe ti ijioyis Jerusalenne, ti yamisi pa kia'le. 'Yina yamisi siupuwa janekiajlisi pa Sinia', iyo jla'am niwa inamtis ti iyo'ate, “Times puwa sipopis jilisa', ni'ne ka ojwos jilisa.” Isimayisi pa kia'le ti ijwilisi pa Sinia', lapakawo ti kiak iyo kiwa jlamtis pa Sinia' ti iyo'ate, “Kia'lepe pa janejyi'n, siuti ja ayinieja', siunie jlas inia'an jla'a asejnia, nak ti'wenakitije pet pa Sinia'.”
+42002023	
+42002024	
+42008027	Sekyiyet'i'yijpe pak i'nio' ti jitiej je 'es, je ink'ie' siupa jiwet'ia iyo, paj ti ik'alitie'ni siupuwa iliaki, jlam sek yik'i'ni puwakata jla'am puwa a'no'ol ti iyo 'weta'. 'Wanjlijinijpe ti wikijnies tilie'nitietaja puwa jisietis siu'neje puwa jikioye, ka je inek, 'yina je to'm ilia'm lapakawo ti imosik iyo jijweyeja'. Paka jla'am siupa yiji ti yajmajne'n, it'imina'ne ti yajme'n ojk'i pa i'nio'. Jesús yiji wek ajnat'e ti tisiojmajiet'ijyimpe, iyoyet'ipi 'ate pak jitiej je 'es, ti i'winayi pa Jesús, sekyi'i ti namat'iyipi, yiyi wekie'e ti t'akosat'iyijpe kiajwe. Jesús tamtiyet'i'yipe siupa yiji ti iliaki ti iyo'ate: —¡Tajli 'ni i'nio'! Sekyi'i ti tajwiyet'i'nijpe ti iyo'ate: —¿Yot'iyi'ni ti je se'nate, Jesús Ina' wuj jlas? Anip'elisi'na, ¡ke k'iejliyeyijna'a paka awonk'i!
+42008028	
+42008029	
+42018029	Jesús isiujlie'ne ti iyo'ate: —I'nio' ni jlam sek iliyi'i wek japa ji'wuk, siojopa jik'iemjla, siu'neje napo ji'niayi ijwienjliyi, jinia' jlet kia'iyojliyi, siunapo jilis, ti ijiate ti iniuyeje ni Sinia' jika anechijiayas, jajwi'lase'm ti ja ke piniye siuniwa jan'we'en 'ne ajnat'e, 'yina janeyi pet siojona jloma jana'am, siojona ji'wasankiye ti laj jlaja, ja poye.
+42018030	
+42023050	Pojompe pa i'nio' jle' iyo'ate José, ji'wet japa Arimatea yiji jlaja ajnat Judea. Wuj ti jlosik po' pa i'nio', 'es jitieyi'i pa Sinia', jla'yi ti je iliyi inijijwijyink'iye pa jika anechijiayas pa Sinia'. 'Yina pakayeta siupapo ijnosikis jiwos, lapakawo ti je iniuyeje siupi iyoyi papo ijia siupa iyo kanwonisi pa Jesús, 'yaka je yimink'i.
+42023051	
+42024010	'Yina siojopo injlojwajnas 'yakakiuyeyits'iji pet. Iyonat'iyisijpe 'ate japo asejnia ti takajwejlanistaja: —Ma 'es pi jiwoyeyi, jlajmi woyeyi. Siojopo asejnia japokajimpe japo María Magdala jleliki, siu'neje jlaja Juana, siujlieja María 'neje Santiago jlet. Po' 'neje papo ijia jla'yispe.
+42024011	
+42024022	Asejnia siojopa talts'e awak'i kaskelit siukia motk'i ti 'nesa'ni ti tajlis a'noyi, ti ijwilts'e je i'winis ka nejyi pa a'no'. Ijwilts'e ti po' papo injlojwajnas poli jlele inikajanitia'm, ti iyoyi pet jika'niyejayi japoka asejnia ti Jesús iniu kisie'e, 'wasa'n.
+42024023	
+43001043	Siukia ti jlomaye'eje Jesús iyoye'ijyi ka inta 'niji yi'i jlaja ajnat jle' iyo'ate Galilea. Sek ini'wene'e'ne siojo i'nio' jle' iyo'ate Felipe, Betsaida jlele, siujlieja isi' taj'le siojopo Andrés jla'yi ja Pedro. Iyonayi 'ate ti tanayi: —Na'm ijyik'i.
+43001044	
+43004007	Jlampa yama'ni japo t'eyasajnas ti iyoyisijyi'n jlaka isija'm, 'nesa siujlieja i'nioki Samaria jleliki ti it'iejliu. Jesús iyone'ne 'ate jlajaka i'nioki: —Joni pet pi jwamjla'aja ni i'niat.
+43004008	
+43009013	Siukia jloma ti Jesús its'iatiti ki ajnat ti jlats'ilis ijline, ti i'wijnajne'n jak talok, jakiak jloma ti i'nio 'wanjlijyi'n. It'imina'ne ti tokiji japo Fariséojos jak i'nio',
+43009014	
+43010014	“Ya'am siunie sontas jiwok'i'm siunie ti 'es. Iyoye'ate ni Inia' ti itiant'iek'i, jla'yi ti ya'am sitiant'ieje. 'Yina kiak awone niwa iliajwas sitiant'ieje jla'yi ti itiant'iejesk'i peyit. Aniwe'n ape'e niwa iliajwas.
+43010015	
+43012012	Je pini' japo i'nio' ijioyisi siojokia inlakijnieye Pascua ti yi' Jerusalenne. Siukia ti jlomaye'eje Jesús yi' ape'e ja malekiatiok jlas ti teje 'niji yi'i jlajak isi'. 'Yina siojopo i'winaja siukia iyone ja Lázaro, ti tane ti iniujwa'n kisie'e ti tajla'm ja a'no'. Japok iyo jika'niyejayi pet japok sekyi'i, siukia iyone ja Lázaro ti yikial pijia'm. It'imina'ne japo i'nio' ti t'ijieyeyisi ti Jesús sek jano'we, iniakasajats'i jawa wisiuk ji'wole, ti yamayis ilia'm, sekyi'i'ne ti tanisi ape'e, ti iyo'ate: —¡Inwunitieye tena'a pi Sinia'! ¡'Esiji ka Saka'niona inlesa'n, jla'am ti ji'lij iwijna'm Sinia' janoyeje, ti jlam ti Israel jika anechiyas! Iyo niwa inamtis t'ipi, ti iyo'ate: “Sion jlele, jweyetajyits'i. 'Yena' ilia'm ni aska anechiyas, 'nes yi' ape'e ni malekiatiok jlas.” Ti 'nelanjie'e t'eyasajnas je itijnisisk'i siukia iyo. 'Yina ijiatjliyi jla'am ti yiyeyi siojokia jloma ti Sinia' yikiajle pi jijweye, jiwekie'aja ti jitiej wujwisk'i siukia iyoyi, siuniwa inamtis t'ipi ti ijwi'il jla'am. Jlam'ne pet japo Fariséojos, ti i'winayis ti kia'iyo, iyoyis'ne 'ate, ti jitiej ijiutisie: —¡'Wanjliyi, lajk'iyipa kayoki! ¡'Ye'en napo i'nio' ti 'yakapajlisk'i!
+43012013	
+43012014	
+43012015	
+43012016	
+43012017	
+43012018	
+43012019	
+43013002	Jlampa itimayi pi imosik ja Judas Iscariote ti iwijna'm pi jlosik je 'es, ti iyo ka inla'an ja Jesús. Jesús 'yijene ti tal Siniayi, siu'neje ti janapili pi Sinia', siu'neje ti Jinia' pajk'i ti jijweye yikiajle. Jlajmiliet, siuti ti'yekiujni'n, Jesús iliejni'ni ja ji'wu' tomi pijia'm, isimayi siojo intokio' tilijiki'i'ni, ti its'ijwane jlajap.
+43013003	
+43013004	
+43014016	Siuti ya'am ja'yasejeje'n ni Inia' siojopa ka inoye'ase'm janak Sinia' jikimet ti ijiatk'i, ka ine'yasap wikie'eyi niwa jlomas. Siunapo yi'i ni ajnat, je yiyi, 'yaka je intant'ieje, jla'yi ti je i'wi'in. 'Yina asa'am intant'iejayi, kajeyepa ti yiye asap, jla'yi ti ja ke pajana ka intaj'lase'm.
+43014017	
+44001016	—I'lijwas, lapakawo ti yiyi jana jloma tenat'iyipi, Sinia' jikimet ti 'es iyont'iyijipi pa David ti ijwi'il pet, ti yi'i ni ji'wet, ti ijwi'il kia Judas masa. Kiak sa'yitape, ti iniutiejeje ja Jesús kawo jlamtikie' niwa Sinia' jlamtis. 'Yina je pajtaja ti iyoyeyi siunie iyo, ti iniank'iye japo i'nio' ti isimisie'e ja Jesús.
+44001017	
+44001021	“'Yina awo'ate, lapakawo ti 'esiji siuti japoye pa, siojopo sa'yispe, ti i'wi'in ki iyo ti je taljli'ijyi sajap ja Saka'niona jla'yi ti 'nelanjie'e ti Juan iniejienaja'n napo i'nio', pajpe ti yiyeyi ti tikiniejayi pijia'm ja Saka'niona Jesús. Ka ne siwa'm ka noyets'e'm ti jayoki samtikie', ti jla'am Saka'niona iniu kisie'e ti tajla'm niwa a'no'l.”
+44001022	
+44007048	“Kajeyepa ti Sinia', ti lajk'ipa ka into'm ilia'm, iyo napo jijwejlanawos ti je yiji siuniwa i'nio' jilisajna': “Siunie poli janak i'wit ti 'es, jlampet ni ajnat isiet e'ne'ni. ¿Tepat'e ja k'iejliyeyi japa i'yuk ja lesanayi its'ioye?”, iyo pa Saka'niona. “¿Tepat'e jayi'i siuti janinop'it? Awo ka yamjliye ilisajnaye wikie'eyi siu'niwa wask'i'nelaja.”
+44007049	
+44007050	
+44008001	Saulo jitienkiujnieye iyone'ate, “'Esiji ti 'ya'al.” Po' papo i'nio' ti ijiatt'iyijipe ti iyoyi puwa Sinia' jlamtis, papoka'ne siupapo itijisk'iye jla'yi ti yapits'i ape'e pa Esteban. Pakayi siupa ti wuj ti inilayiti papo Sinia' jilis yiji jlaja Jerusalén, ti tisiejek'i'yi. Wikie'eyi papoka ti netiank'iji'n ape'e siupuwa ajnatis Judea siu'neje japa Samaria. Japokata japo injlojwajnas sek 'wanjle'e yi'i jlaja Jerusalén.
+44008002	
+44011028	Ijwienjli'ne siupa jle' iyo'ate Agabo, paka'ne ti takasit, Sinia' jikimet ti 'es yamtijie'n, sekyi'i iyo'ne 'ate: —Siu'niwa jlomas nel'lia japoye, jantejw ape'e 'ni ajnat. Ijiate, ti yiyeyi puwak jlomas po' pa nel'lia ape'e pa ajnat, pakayi ti Claudio iyo anechiyas wujwa' yi'i japa ajnat Roma. Jlajmiliet ti Sinia' jilis 'yijenayi pa iyone, iyo'ni ka inoyeje papo ijia yi'i Judéaja, k'iejliyi pi i'wi'in ti iyo ka nene. Sekyi'i siupa k'ie puwa ijiutis wita'm, iwinisiam'ne ja Bernabé jla'yi ja Saulo, ti ijliuyisi papo Sinia' jilis yi' Judéaja, ka tekiajlaja papo kijilas kanwenk'i papo ijia.
+44011029	
+44011030	
+44013032	“'Nak anamaja'a siunie Sinia' jika'niye ti 'es, ti iyo'ate: Sinia' iyonat'iyipi papo sitise'l, ti ijwijla'm, ijiatp'aneje siuti je pete, siunie iyo ti iniujwa'n kisie'e ni jlas Jesús, ti tajli na a'no'. Siunie iyo niwa inamtis ti yi'i na salmo jijwukis timejts'i, ti iyo'ate: “A'am ti yajts'a'm. Siu'niwa jlomas yam ti Anak'i'm.” 'Yina kasts'isisi ti atomajak'i pijia'm.
+44013033	
+44016001	Pablo ijioyis 'niji yi'i japa Derbe, siu'neje japa Listra, sek i'winits'i'ne siojo i'nio' jle' iyo'ate Timoteo. Kia'iyo inamtik jiwo, jlet japa Judía ti iyoyi pa inamtik. Sinia' jilis siupapo sekyi'i i'winis jak jwemik ti 'es, 'yijen jlosiki, jak je iyoyiji'ni ja Pablo ti iyo ka ina'asi. Siupapo Judíojos ti 'yijenayi pa iyone ti je Judío pa jinia', it'imina'ne ja Pablo ti iyo ka tejwak'i pa t'isie'n jiwa ja Timoteo, ka ijiatayiji ka Judíoja'.
+44016002	
+44016003	
+44017002	Pablo siupa iniwone, ti yiyetaja japa isi', 'yuyi'ni japa 'najla'wet, ti yiyetaja siojopa jloma ti i'nio 'wanjlijyi'n. Kiajatak'i'ni puwa jlomas paj ti itijwa isia'm puwa i'nio 'wanjlijiyis najape, iyone'ne 'ate papo i'nio': —Sinia' jlamtis yi'i 'ni ji'wet ijwi'il pa Sinia' jijliujwanik ti Injwajieti, ti ja wujwa ti janilayiti siupa ja tiwonaja ti ja tiliana. 'Yina jano kisie'e ti jantajli pa a'no'. Siunie Jesús ti je pajk'i ajwel'ni, nak Injwajieti ti Sinia' jijliujwanik.
+44017003	
+44018015	'Yina ti inamtis jiwekie'e, jla'yi niwa inkeyis, siu'neje niwa aska'neyasajnayejes, it'imina siunie jiwoyeyi ti asamtis 'loj, 'yena'yasa'm. Je ani'noti 'niwaka. ¡Maye'ni!
+44018016	
+44020001	Ti nojwa isia'm siukia iyo papo i'nio', ti jlampa iyoyisits'i'ni, Pablo tanayi papo Sinia' jilis, ti ijliuye ti ijwijla'm siupa 'es ka iniwonisi. Itime ti inijwelayi papo ti iyoyeyi ka inek ti ijio Macedóniaja, itioyi'i ki iyo ti tamti ti 'yakela papo i'nio'. Paj ti yiye Gréciaja,
+44020002	
+44020018	Iyone'ne 'ate ti 'nesa'ni: —Mejla'ala ka je 'najanayi siunie awo ti a'yi aska kiowe'e, ti 'nelanjie'e a'nesape Ásiaja. 'Yejne'n ki k'iek'i'ni ti je aleyi ti anoyeje pa Sinia' ni jikijmaye, 'yina ka kia'iwo ka iyo ka initoniti, je'e. Yi'i na jloma ap, kajeyepa ti a'we'en siunie inkajejlasaye ti iyotaja ka wonk'iji napo Judíojos.
+44020019	
+44023033	Ti 'nesa'ni, yikiajlayisi ja anechiyas siukia imp'esinik titiunkinieje. Yamtijiena ja anechiyas, itime ti jiwekie'aja ti tekiajlaja ja anechiyas ja Pablo. Sekyi'i ti i'yasayiji'n siojopa ajnat ji'wet yi'i ja Pablo. Ti 'yijenayi ti tal Cilíciaja iyo'ne 'ate siojo anechiyas: —Je ijiat ka je ipi'ya ka 'nesta'nina'a siupapo 'yijene siupa ates iyo. Takajlunieyi ka tokiji siupa anechiyas t'ipi Herodes ji'wet ka sek tena'a, ka wujwa ka ti'yenaja.
+44023034	
+44023035	
+44024002	Ti tokis yamayiji, siojo tamti ape'e napo jitis po' jak iniane ti ijwijla'm ja anechiyas siupa ijwil ka jitis iwo ja Pablo, ti iyo'ate: —'Na 'yaka anechiyas Félix, siunie e'e ijiok'i'ni ape'e 'ni ajnat ti ajweye po', ti sa'am siu'neje napo saka kia'lis jlam je awoki ti kasts'isichia, 'yina it'imina ti akajmak. Kasts'ajka'm ti 'naja'n, it'imina ti yamjli'ijyi wekie'e ti je netiajni siuniwa wask'i'nelaja yiji jla'a saka ajnat. Ijiate 'ni 'yaka anechiyas Félix, ti e'e ijiok'i'ni, sa'am anamaja'a siu'nie iyo 'ni yits'e ti wuj ti kasts'ajkase'n.
+44024003	
+44024017	“Siukiwa najkapis yamts'iji, wuj ti askiujni'n ti atejwits'i niwa ajnatis, 'yina pa k'iet'iyik'ipe ti apilie'eje ika ajnate ti ekiajle japo i'lijwas siojokia ijiutis wita'm japo ijia ti iyo 'wajietiye. Sekyi'i ajo 'najla'wet wujwe ti ani'notatiji k'iye pa Sinia', iyo ki Moisés jika'neyasajnaye iyo ka tiwoki, jla'yi ti ekiajle siukia a'we'en pa Sinia'. Lajatak'iyipe papo i'nioye, jla'yi ti lajk'ipa k'iejliyeyi, ti iyo ti kijlami, ti jlam pak iyots'i'ni. 'Yina jlampa iyoyep'ampe 'ate siojopo Judíojos tal Ásiaja si'wenis'ne ti a 'najla'wete. Japoka'ne siojopo ti 'esiji'ne ti nam'ni ka injwelis siupa itiajlatisk'i'm ti tejeyis ijyilia'm.
+44024018	
+44024019	
+44028010	Sekyi'i ti ijiatayiji ti ti'yenats'e'm. Najape kiwa we'lajas atejwa isia'm ti sek awak'i, ti akinieja'nijne. Akiniek'i siujlieja kasejkana tal Alejandríaja, ti sek yajap'eje'n ti wi'yitipat'ipi, siojowa tewitanajak'i puwa diosis jle' iyo'ate Castor, siupa jikiecha jle' Pólux.
+44028011	
+45001003	'Yina je 'wena paka injwe'el, naka jlas Sijwajieti Jesús ni Saka'niona, siunie ti je istiejenit ti kia'iyo i'nio', naka ti je 'wena papo ka intajle, tajla'm papok David jilis ti tomik'i pijia'm. Jlampet siunie ti 'yakajanit'i ape'e ti jla'am ti Sinia' jlas, naka pet ti Sinia' jikimet yijap, siu'neje ti iniu kisie'e ti tajli ki a'no', je lajk'i 'ni iyo ni Sinia' jijweye ti je jlase'.
+45001004	
+45001006	Jlampet ti asa'am ti as'wet jana Roma, napok as'wet ijwienjliyi ni jiwoyeyi Sinia' wuj ti 'nama'ase, 'yina ti jla'am ti ta'nase ka ni'nopijietayiji ni Sijwajieti Jesús ka woye jika kia'lisa'ase'm. 'Esiji ka Sinia', jla'yi pa Saka'niona Jesús ti Sijwajieti imp'elisinape, jla'yi ka noye'asempe ka kamaja.
+45001007	
+45001022	Kajeyepa ti ijiut 'nijiye siunie Sinia' ti je paj ka inetia'n, siu'neje ni jiwunitieye, niwakataja jla'am siuniwa jitiej iyoma ti iyo jika diosisa', siunie i'nio' ti ji'niayi je itio'yi, ni'ne ti niwaka ajwejnas, siu'neje niwa pini 'lan jlele pet, siu'neje niwa pini' t'ot yilisi'n ajnatk'i jipelis. Jak je iyoyiji 'wanjliyi ka inijwelis ka 'najanis jwajla'aja, 'yina napoka napo ti 'ne'lias.
+45001023	
+45009002	Ti yamjliyi siu'nie awoyi ti a'tiek'i siunie itienkiujnieye ti wuj ti awoyi ijliak'aliye ape'e siunapo i'lijwas, ti i'lijijwase Israel jika kia'lis pet, 'yina ti a'we'en ti je tijwajyi'n. Sekyi'i awo'ate, ¡jlam'ne pa Sinia' ka yama ya'am kanwenk'i'm pa iwit'iaye, 'yina sek jane'yi ka Sinia' iwenataja'm pet siunie 'es ka imp'elisijne'n! ¡'Estieje ka Sijwajieti sot kiu 'niji ka sek ne'yi ka ink'iuyetajats'i ni i'wit!
+45009003	
+45009011	Siuti je yijlik'ijij'ne 'yina lajk'ipa ka je 'esie ni'ne ka 'esie paka woyisi, Sinia' iyone'ne 'ate japa Rebeca, “Siunie isijli nak ji'yini jawo jikawoye.” Nak kia'iyo siunie Sinia' iyot'iyipi'iji ti iyo'ate, “Jacob nak emi'n, jlampet ni Esaú se'waja'm.” 'Yina naka ti a'wena ti Sinia' jla'am ti 'yijene siupa iyo ka inki'me, siupa ti iyo ka intane, siupa iyo ti itiliaja kanwone, 'yina je naka ka in'yene siupa ka 'esi pi jikijmaye.
+45009012	
+45009013	
+45010006	Jlampet ti ijwil siunie i'nio' ti je takakiu'n siunie ka 'esieyi iyo'ate, “Ajosik ká awone 'ate, ¿Tempa jankajli ka ijno poliyi? ni'ne ka wone'ate pa ajosik, ¿Tempa jankajli ka ijno ajnat kiajwe?” (Kajeyepa ti siuti kia'iyo 'yiniye ka iyo pa Sijwajieti ka ina'm ajnat'e, siu'neje ti 'yiniye 'neje ka iyo ka inekiajle'e pa Sijwajieti ka ino kisie'e ka intajli pa a'no'.)
+45010007	
+45016001	Siujlieja sikiecha Febe, 'esiji ka ijiatayiji pet ka kima'yi ilia'm, siunie iyotaja ka iyoki ti sa'am Sinia' jilists'e'm, jlajak tijna'yi pet ti i'yena japo ijia Sinia' jilis yi' Cencréaja. Ja k'iejliyeyijpe pa jansetia'n 'esiji ka noyeyeje, kajeyepa ti kia'iyoyi je pini' napo iniuyeje'ni pet, je japokata jla'yi ti ya'am wuj ti iniuyijk'i'm.
+45016002	
+45016025	¡Jajnotk'i'ni ti ja tiwunitie ni Sinia', etijnape pa Sijwajieti Jesús ti kia'iyo! 'Yina Sinia' jijweye po' kanoye'ase'm pet, ka wo asjweyeja', iyo siuniwa amtiyi siunie ti ijwi'il pa Sijwajieti Jesús. Nak siunie ti je tak'emisie'n siunie Sinia' ti je paj ka netia'n, je 'yakajanit'i ape'e talk'i'ni ti kia'iyo. 'Yina 'nakayi jiwekie'aja ti yin kisie'e pakayi ti jijliujwajnas jla'am ti yi'ik'i niwa jip'esijna'. 'Yina siunapo i'nio' itiant'ieje, kajeyepa ti Sinia' iyotajank'iye ka tijwelaja wikie'eyi niwa ajnatis, 'nakayi ti ja ke inkakiu jla'yi ti jank'iuye niwa jlamtis. ¡'Esiji ka jiwunitieyi tena'a ni Sinia' ti ijwienjli jla'am ti 'yije'en!
+45016026	
+45016027	
+46001001	Asampey, i'lijwas ti as'wet jana Corinto. Ya'am Pablok'i'm jla'yi 'ni sikiecha Sóstenes, sa'am wuj ti atejwila'ase. 'Yina ya'am ti Sinia' ijniejietk'i'm pet ka kia'iyo, ti iyo jikawoyek'i'm, ti awoyi siunie iyo kawoyi, ti siwojwa'n Sijwajieti Jesús jijliujwanikiek'i'm ti atajla'm siunapo ti ijiate ti jikawose. Siupet ti paka Sinia' ti ta'nasepi pet, jla'am ti inlesana' ti jleyejiap ni Sijwajieti Jesús. 'Yina je asamkata, siu'neje napo i'nio' yi' ape'e 'ni ajnat ti kia'iyo jilis ti yite'n pa Saka'niona siu'neje ti jika'nionajas pet.
+46001002	
+46005003	Siuti ya'am, 'wanjliyi ka je yi' aska kiowe'e, 'yina siu'nie isiowe yi' aska kiowe'e. 'yiniye ka ijiatayiji ka yama ti i'niok'i'm ka yi' aska kiowe'e, 'yina ya'am ti Saka'niona ji'lij iwink'i'm ka ijliuye siunie i'nio' ti kiak iniwone, jak je iyoyiji ti kiak awo ti pajk'i ti i'lij ateme ti ajloye. Siuti janitotieyik'i wita'm naka, siunie ijiusik jane'yasap, siunie jijweye ni Saka'niona Jesús ti Sijwajieti kia'iyojliyi jane'yasap.
+46005004	
+46005012	'Yina je ya'am ka'ye'en siupa kawoyi siunapo ti Sinia' je lis, jan'wenayi jla'am pa Sinia' ti jan'ye'en siupa iyo. Siuti asa'am kiak jiwonayi siunapo yi' aska kiowe'e ti ji'yena' siunie iyoyisi, 'esiji. Kajeyepa ti siuniwa Sinia' jlamtis yiji ni ji'wet iyo'ate, “Siuti po' ni i'nio' yi' aska kiowe'e kiak iyo ti iyoyi ni siunie je 'esk'i, tajlana aska kiowe'e, lenkinayi siupa jikijmaye iyo”.
+46005013	
+46010003	'Yina ijniul wita'm siupa jlak iyot'iyipi papo i'nio', jlak siupa tajle pi Sinia'. Kajeyepa ti Sinia' iwijna'm siupa i'niat ti tajla'm japa sisaj, 'yina ti Sinia' yamk'iji'ni papo i'nio' t'ipi ti yiji pi ji'niayi. Paka Sijwajieti ti ti'yenajap japak sisaj ti i'niat tajlam'ni.
+46010004	
+46011017	Po'neje siunie awo ka ijwi'lase'm. Ti siuti jinitotieyetak'i wita'm asa'am ti Sinia' jilists'ase'm, wuj ti je 'es siupa jiwoyeyi, 'yina ti inkajyina jlam'ne ka inoye'ase'm. Siunie inia'an ti ajieyi, naka ti je ijnojlie wita'm siupa k'iejliyi ti jiwoyeyi, ajwel'ni ijiate kiaka.
+46011018	
+46015051	'Yina 'yena siunie Sinia' je 'yakajanitk'i ti 'yakajanitk'i'm ya'am: awo'ate, ja ke kaswikie'eyi ti jaliki 'ni ajnat. Jawo'ate iyo ni i'nio' ti i'wisi'n niwa jitiase', ti je 'yakaja pi iyo ti i'wisi'n, ka jla'm iyokiena wek 'ate siupi ja kask'iejliyi ti ja ke iyok'iate siupa paj ts'isie'n. Pakayi ti ja pesiejayi siojopa 'woso' trompeta ti japakatajayiji ti ja pesiejayi. Sekjane'yi ka inoyek'ina'a kisie'e siunapo i'nio mases, ja ke inekiajlayi'ina'a ka wo'ate ti iliyi 'ni ajnat. Ts'isie'n ja ke iwoyena'a 'ate iyo ti 'nelanjie'e, 'wena ja kask'iejliyi.
+46015052	
+47001010	Ijiatjliyi kasjwajiete'ne ki siliaye iyo. Je 'nakataje, ts'iji kiak jawo ja kasjwajiete, siuti janoyeyits'e'm kasts'ajlan'ni pet. Itiej awoma pa Sinia' ti ja ke ileyi ti janoyits'e'm ti ja kasjwajiete siupi siliaye jawo. 'Yina siuti ja 'lojwa napo i'nio' ti ja kasts'ajlan'ni, Sinia' jankiujli ni t'ajlaye, sek jane'yi ka wenats'imna'a siunie 'es. Sek jane'yi ja ke piniye napo i'nio' ti kiak jawoyisi pit ti jawoyis jinikanitieyejayi pa Sinia', ti jan'wenis siuniwa isis tajle pi Sinia' ti yikialts'e.
+47001011	
+47001013	Siuti ajloyeta'ase 'ni ip'isinik akajanitk'i ask'ioye, ijiatjliyi 'najanayi. 'Yina awotajank'iye ka ijiatayi ka 'najanayi, jak je iyoyiji siuti ja'nes pi Saka'niona Jesús ja wujwa ti ja inkasak'i wita'm sitipe'e, jlam pet ti sa'am kiak jayoki ja kasts'akask'i wita'm astepe'e.
+47001014	
+47012003	Ekiajlayi'iji ti awo'ate, jlam ti'wenkinaja wek pa Sinia' ji'wet ti 'es yi 'niji sitipe'e. (Najata wek jla'am ti ts'ajane pi awone, jlampet ka tiniayeje wita'm ni'ne ka jisiak'ala wek pa ti tikiniejayipe nak je ts'ajane; Sinia' jla'am ti 'yijene naka). 'Yina sekyi'ipe ti tipechiyeyi siuniwa inamtis ti je tiwenaja'm ka i'nio' 'najane paka wone ka injwele pijia'm.
+47012004	
+48004012	I'lijwas, wuj ti anip'elisi'niase ka woye 'ate siu'nie aniwone. Ka woye pet 'ate siunie aniwone ti anitewitani asek'i. 'Yina 'najanayi pi jiwonayi ti ijiate ti je lajk'ipe ki awo ti je ts'es ti 'nelanjie'e, it'iminape ti awo yamtikie'ase ti ajwel niwa Sinia' jlamtis.
+48004013	
+51001001	Asampey i'lijwas ti jleyejyi jana Colósas, asa'am ti Sinia' jilists'ase'm ti je kak'emisiena. Ya'am Pablok'i'm, Sijwajieti Jesús jijliujwanikk'i'm jayo'ate, ti ajyi siunapo ti jlamt'iyijipe ti jikawos, 'yina tajle jla'am pa Sinia' ti kia'iyo. Ya'am jla'yi 'ni isiecha Timoteo ti ajlok'iase 'ni sip'esinik. 'Esiji ka Sinia' jikap'ijliuskiye siu'neje ni jikamankiye ine'yasap.
+51001002	
+52002011	Jla'yi ti 'najanayi ti wuj ti iniuye'ase'm pet siukiwa samtis iyo ti akela'ase'm, yi'i japo ti asa'am, awoye 'ate ni i'nio' ti po' napo jilis. Je aleyi ti 'ejie'nase'm ka woyeyi siunie 'es iyo napo Sinia' jilis, kajeyepa ti naka ti Sinia' tajnap'ase ni jika anechijiayas jla'yi ni jiwunitieye iyo, ka awayejyi pit.
+52002012	
+52003001	'Yina je atayeyiji ki itienkiujnieye ti awo ka ts'ajaneje paka yone pi jiwoyeyi ka insisie ni'ne ka jeye, it'iminape ti awoyeyi ka ijliu'wase ja sikiecha Timoteo ka ijno'wase. Sikiecha ti kia'iyo wuj ti jlosik po' ijwil niwa Sinia' jlamtis, ti iniuyeje pi Sinia' ti ijwil pa Sijwajieti. 'Yina jlam pet ti ya'am si'wanjle'e 'ne pet Aténasse. Jla'm ajlo'wase ka inoye'ase'm 'nakayi ti ja asjweye japoye ka je paja ka leyeyi ni siunie astankiujnieye ti 'es ti jiwoyeyi.
+52003002	
+53001009	Siuti janeyi siojona jloma ti ja'nesi pi Saka'niona, 'yina napoka ti Sinia' jansa'a, napo kia'iyo ka kiak inwonayijinie'e ti jikio' jajnotie. Sek jane'yi ka intonitieyinie'e siupi janjlojwi ti jantajla'n jitieyi'i, jla'yi ti jantajlajni siunie iyo ti iyo anechiyasa' jajnok'i'ni ti kiak janwo pi jiwet'ia. Ja jlama pet napoka Sinia' jilis ti je 'yakakiuyis, ka jla'm iwonie'e ti jajnonitis, 'yina ti janesi'liet siupi janwoyi. Lapakawo ti je jikakiunieyi siunie ajwela'asepi.
+53001010	
+53002001	'Nakayi, 'napo i'lijwas, siojona jloma ti ja'nes pi Saka'niona, jla'yi ti janiojokiji wita'm ti sek jane'yi, po' napo i'nio' ijwil ka 'nakaye siu'nie jloma ti awaki. 'Yina awok'iate ti sam pet ti anip'elisina'ase, ti siuti ja ajieyeyi ti japoye pa jajwel ka japakaye Sinia' jikimet ka intajle siupi ijwi'il, ni'ne ka imp'esinikie pa kanjwel ka intalts'e, ká aninenayi 'ate. Ka inwats'ilati niwa asosikis, 'yina ast'otale t'onitie.
+53002002	
+54001001	Ampey isiecha Timoteo, ya'am Pablok'i'm, yam ti ajlo'wase 'ni ip'isinik. Ti Sijwajieti jijliujwanikk'i'm, ka iyot'e 'ate siunie Sinia' ti Sijwajieti jikawo siunie jlame ti je toj'we ti jla'am ti kiak siwoneje siu'neje pa Saka'niona Jesús ti jlam ti sinijijwiye. A'am ti jiwoye 'ate ka yasa'a'm ti tajle ki iyo ni sitienkiujnieye ti 'es ti wuj ti emina. 'Esiji ka Sinia' jla'yi pa Sijwajieti Jesús ti Saka'niona, 'esiji ka inwe'na'm ni siunie 'es, siu'neje ka imp'elisimpe, jla'yi ka inlesa'n.
+54001002	
+54006011	A'm ti Sinia' jlasts'a'm ti inwakal, joskiye niwaka. Katate ka woye ni siunie 'es ti je tak'emiyeje wek; katate ti ani'neti pi Sinia'; woyi ni atankiujnieye ti 'es; siunie emijnaye kia'iyojliyi; je paj ka leyi naka; ke injwesie. Ni'net siuti jitie'yi ilia'm ni je 'es, 'yina ti po' 'ni atankiujnieye ti 'es. Akio' et'i janak a'wasankiye ti laj jlaja, 'yina siuti Sinia' tana'api jiwoyepe 'ate, “Sijwajieti Jesús naka ti 'Yaka'niona pet”, ti jlene jitieyi'i japo i'nio' ti 'loj.
+54006012	
+55001001	Ampey ja isiecha Timoteo, ya'am Pablok'i'm ti Sijwajieti Jesús jijliujwanikk'i'm, 'yina ti awoyi siunie Sinia' jlam ti ijliuyijk'i'm ka iyo. Jla'yi ti yikialk'i ka ijwijla'm ti ji'wasankiye po' napoka ti ini'nopijiete pi Sijwajieti Jesús, ya'am ti ika jwukis siu'niwa. A'am ti awo yasa'a'm ti wuj ti emi'n, Timoteo, 'esiji ka Sinia', jla'yi pi Sijwajieti Jesús ti Saka'niona ka we'na'm ni 'es, jla'yi ka imp'elisimpe, siu'neje ka akama.
+55001002	
+57001008	Ijiate ts'ajane pi awone ti emijnaye po'. Ijiatataja wek ti, siu'nie ka iyo ka ijliuye'a'm, “Ja k'iuk'i'm”, ti ya'am ti Sijwajieti jijliujwanik'i'm. 'Yina kijilak'i'm ti ajyi jla'a insat jiwe, lapakawo ti naka Sijwajieti Jesús ti it'imink'i 'ni awo.
+57001009	
+58002003	'yina, ¿tepit'e awokt'iyi pit sa'am ti po' siojona sijwajieti ti je jlase', ti Saka'niona iniane ti ijwile pijia'm? 'Yina siunapo ipi'yayis ti kia'iyo, i'winis ti ijiatk'i, sekyi'i ti ijliasatats'ejyi pet. Siuti Sinia' ikajanitieyi pet, siunie iyoyi ji'niayija', ti po' siuniwa i'winkina napo i'nio', siu'neje niwa kassesi'lietk'i'ni, siu'neje ti i'winkints'e'm siunie ti je jlase' ni jijweye iyo. Siu'neje niwa in'wajietis ti tajle jana Sinia' jikimet ti 'es, siojona Sinia' iwijna'm siupa iyo jla'am ka wejna'm. 'Yina awo'ate, ¿siuti kia'iyo tepa awokt'iyi pit? ¿Tepa jawo ka ijwieyeje siunie siwet'ia, 'yina ti je alesanajaje siujlie'e sijwajieti ti je jlase'?
+58002004	
+58006004	Kajeyepa siunapo ti pajk'i ti iyo jlosik ink'ieye, jloma 'yakaja'n k'iye, siu'neje ti ijyijlita'm siunie t'ajka iyo siunie Sinia' tajle. 'Yina yi' kiojyi siojona Sinia' jikimet ti 'es, siuniwa Sinia' jlamtis kia'iyojliyi, ijyijlita'm siunie t'ajka iyo ti 'es, siu'neje ti itiant'ieje ta'a siunie jijweye jawo janaka siojona jloma atayeje. Jlampet ti janapilisiji'ijyi siunie je 'es, 'yina je ti'niejenaja pa ka tiwonaja ka talasa ka tiwok kiu'ujwe jlosik ink'ieye. Siuti kia'iyo 'yiniye ka inekiajlisi'ni pijia'm ti its'iejwatits'i japa cruz pak Sinia' jlas, sekyi'i ti yinayis jitiejk'i wikie'eyi papo i'nio' ti iliakiyis.
+58006005	
+58006006	
+58006013	Ti Sinia' iwijninampe pa ji'lij pa Abraham, ti ijwijla'm ti iyo'ate, “Ijiatk'i siunie awoyi ti ja ke inwo piniye siunie jayo'na ti jasiayi atepe'e ni siunie 'es, 'yina paj ka 'lojwana'a siunapo ti jantaj'l awa'm ti ja alesa'.” 'Yina siuti lajk'i pa ka int'a'n ape'e ti jla'am ka intaj tiwomaja, siu'neje kan'wenaja siupa iyoyisi, jak je iyoyiji'ni ti jlam jiwek jla'am ti yapi'li ti kiak iniwone ti ininetijnape.
+58006014	
+58006019	Siu'nie sinijijwiye, 'naka ti 'yit pijia'm niwa sosikis, 'yina je tikiwitajayi. Iyoye 'ate siojona kasejkana ti po' siojona tejeye pet ti yajapajne'n 'yina janaka ti 'yit pijia'm ti titietajatajaja'm ni i'niat. Siunie sinijijwiye enaja naka ni Jesús, jla'am ti tojmap ts'iji ji'wechaja siupa tip'onajaja'm siojopa 'najla 'wet yi' poliyi. Jla'am ti iyo si'niayija' 'nakayi, kajeyepa jla'am ti pa'yijis jika anechiyas wuj ti ja ke paja kant'eki, iyot'iyipi pak Melquisedec t'ipi.
+58006020	
+58007001	Pak siupa Melquisedec ti ajwel'ni anechiyas wujjimpe ti tijna'yi siojopa isi' Salem, siu'neje ti Sinia' siupa ti lajk'i pa ka ijnojli jika pa'yijimpe. Siupa jle' t'ipi ti iyo'ate Melquisedec siuniwa inamtis ti iyo'ate, “Anechiyas ti tijnajyi”. Siojopa ajnat yi' ti iyo anechiyasa' jle' iyo'ate Salem siuniwa inamtis ti iyo'ate, “Inkamankiye”. Jak je iyoyi 'neje ti jle' iyo 'ate “Anechiyas ti inkamankiye tajle”. 'Yina lajk'ipa ka 'najane paka iwone siupa jinia' t'ipi, siu'neje japa jlet t'ipi, siu'neje papo jika kijilas t'ipi, ka janakaye wek siojopa jloma yit'iyijimpe, siu'neje japa jloma 'yalt'ijyipi paka. 'Yina kiak iyoyi siunie Sinia' jlas, talk'i'ni ti jla'am ti pa'yi, 'yina jajnotk'i'ni 'neje ti kiak jawoyi. Ti Abraham itimat'iyijpe ti inila'an pakayi ti siupapo ijniujlits'i anechiyasas wus je itieyi, 'yina Melquisedec yisitat'ipi k'iye ti jikio' yi'n ape'e ti iwijna'm pa 'es. 'Yina Abraham iwijnam'ne pet pa Melquisedec siojopa ti ijiuti ti iyo ji'wajieta' ti tajla'm siupuwa tajlane papok anechiyasas t'ipi.
+58007002	
+58007003	
+58007009	Pakayi ti Abraham iwijna'm japa itijwa'm niwa sikioye tajlaja'm siojopa i'yakan'ni ti Melquisedec t'ajla ti yisitk'iye, 'yiniye ka kia'iwo siupa Leví siu'neje papo jilis ka iwejna'm siojopa itijwa'm niwa sikioye tajlaja'm siojopa i'yakanis'ni pet, 'wanjliyi je ti'wenajata ka poye ta'a pakayi, 'yina lapakawo ti 'yiniye ka inejyi jla'am pa Abraham siupapo jantajla'm.
+58007010	
+58010019	Ijiatjliyi, i'lijwas, 'nakayi akajlaja ti ajok jik'ioyi janak Sinia' ji'wuk jitiowe siojona ti ijiate ti t'otata, je 'es ka kaskip'e ni Sinia'. Lapakawo ti paka jla'am siupa Jesús ti iniwe'n ti ijioyi japa 'najlati, 'yina ti isia'ni pi ji'woyis, sekyi'i ti iyo si'niayija', siunie ti ijioyi janaka si'wasankiye, siunie 'nayi ti tejeye siunie Sinia' ji'wet ti to'm ilia'm ti jla'am, ji'wechaja ni siunie tip'onajaja'm.
+58010020	
+58011017	Siupa Abraham ti je 'yakakiu pa Sinia', Sinia' ijyijlit pakayi ti isime pak jlas Isaac ti jota ka ila'an ti iyotaja ka inekiajle pa Sinia'. 'Yina jlam'ne Sinia' pajk'i ti ijwijla'm ti iyo'ate, “Jantajle napo Isaac jilis siunapo akichasa'”. 'Yina pajk'i ti inite'em ti kiak iyotaja ka woyi ka inekial pa jlas ijwienjli.
+58011018	
+58013020	'Esiji ka Sinia' siunie inkamankiye tajle ka noye'asempe pet, ka we'nase'm ni siunie 'es 'nakayi ti jawoyeyi siunie iyo ka woyi. 'Esiji ka woyi siupa iyo ka wonts'e jla'am, 'yina jawoyeyipe ji'niayi siupa Sijwajieti Jesús iyo. Sinia' siunie ti kia'iyo iniujwa'n kisie'e ti tajli pi a'no' ti yikial pijia'm pi Saka'niona Jesús, siunie ti ijiate ti sontas jiwo, ti iyoyi pet ji'niayija' ti 'yakajk'i ti jla'am ti iniwe'n siupa iyo pi jiwet'ia ti 'ya'al. Sekyi'i siupa ji'woyis ti tisa'ni paka'ne ti 'yakajanitk'i ti jlam je iyoyi siupa iyone pi ji'lij ti iliyi ti iwiets'ilati siupa iyo ti pajk'i, 'yina siuti ink'ie' ni iyoyi nak laj'ne jlaja. ¡'Esiji ka laja jlaja siunie jiwunitieye ti tena'a! Amén.
+58013021	
+60001001	Atejwi'lase i'lijwas, asa'am ti inetianajyi'n ape'e ni ajnat, ti jiwaye'yi niwa ajnatis ti je as'wet, ti jleyejyits'i niwa ajnatis ti jayitink'i'ni: Ponto, Galacia, Capadocia, Asia, janaka 'neje jana Bitinia. Ya'am Pedrok'i'm, Sijwajieti Jesús jijliujwanik'i'm, asa'am ti atajiet'ase ni ip'isinik. Asa'am ti Sinia' pajk'i ti isi'mase'm, lapakawo ti jlam jla'am ti tajle siunie iyo'nase, jla'yi ti ilesana ti inlejayi jana jikimet ti 'es ka k'iuyeyi ti jla'am pa Sinia', jla'yi ti ka lajak'i pa Saka'niona 'woyis ti insisieyi ti ilij ki iyo niwa askeyis. 'Esiji ka Sinia' wujwa ka imp'elisina', 'nakayipe ti ja akamaja.
+60001002	
+60003001	Siupet ti asa'am ti asejnia'ase'm, ti asjwa'yis po', 'esiji ka k'iuyeyi napo asjwa'yis, lapakawo ti jleye kiajwe napo asjwa'yis. Ja 'nakayeyijna'a siunapo je iyoyi kiwa Sinia' jlamtis jaleyeyijna'a ti 'yakakiu pa Sinia', 'wanjliyi ka je amtiye'yi napo asjwa'yis. Jansets'ia kajeyepa ti jan'wena ti jiwoyeyi ni 'es, jla'yi ti jik'iuyeyi.
+60003002	
+61001013	'Yina ts'ajane pi awone ti ja ke pajayi wata'a ja sinitia'n, iyonk'i ja Saka'niona Jesús ti Sijwajieti ti ijwilk'i'm. 'Yina ti si'wasanjli kiu', naka isimet ti jayoyi ka 'yiyasanajyi'n ka je inkiwaliyeyi'i siu'niwa ajwe'el.
+61001014	
+61001017	Kajeyepa ti sampe ti awakiap ti ijio ape'e jlajak tikijnaki ti toj pijia'm, jlaja Sinia' 'yotat. A'wenajaja ti Sinia' yikiajlayi ni iyo ni jijweye, ape'yak 'neje pi Sinia' jla'lap ti tojma'm ni poli, ti je kia'iyo paka tipe'yak ti wuj ti 'es, ti iyo'ate, “'Nak yas ti ts'amaja. Wuj ti ajonit.”
+61001018	
+65001024	¡Jayunitie pa Sinia' ti ijwienjli, Sijwajieti, jla'am ti 'yijene pi iyone kan'ye'nase'm, 'nakayi ti siunie ti je 'es ja ke inkajlajyi pet, siu'neje ti ja laja ast'ojliye, 'yina 'wenajliyijna'a pet ti jampo'ase siunie asnikanitieyi jitieyi'i ni jijweye iyo! ¡'Esiji ka siunie iyo ti 'es, siu'neje ni jiwunitieye, siu'neje ni jijweye, siu'neje ni jika anechijiayas, ja ke intajlap ti jla'am, ja titiajlataje pa Saka'niona Jesús ti Sijwajieti, siunie ti 'nelanjie'e t'ipi, siu'neje ti 'nakayi, 'yina jajnok'i'ni! Amén.
+65001025	
+66002022	It'imina ti ja ijia'neje'n ni jlo'wet ti ja'wijnank'i siunie ja jlajlasa, sekjane'yi ka isimayinie'e napo jilis ti jaliajne'n. Jlampet siunapo i'nio' ti iniuyeje naka ni siunie jloski'la iyone siuti kiak jawo ja ke inleyisiji, 'yina siuti ya'am ja a'tiejak'i siunie jayone. Ja 'nakayeyi ti siunapo Sinia' jilis jan'wenis ti je ajla'an naka siunie jik'ioyiyi ni siunie i'nio' jlosik a'we'en, jla'yi ti ts'ajane pi awone siunie jitienkiujnieye. Jak je iyoyiji siupa k'ie' pa iniwone, 'yina pak ijniujlietayijinie'e siunie jayone pit.
+66002023	
+66002024	“Jlampet ti asa'am pa inojwajia'm pet ti jleye'yi janak Tiatira je jlekiets'i nak jika'neyasajnaye janak Jezabel, 'yina ti kia'iyo ti je intant'iejayi siuniwa ijwilis ti jlameje ti tajle ni sitiejiejwa imosik, 'yina ajwe'lase'm ti lajk'ipa jikiechaye ka itilki'nase ka 'yijie'nase'm 'etsaka. Najata jla'am ti awotajank'iye ka 'otatiji ni siunie yi'a, paj ka neyeyinie'e siojona jloma ti ja'nis ti jayapimet.
+66002025	
+66002027	Iyo pet 'ate ni awo ti Inia' iwink'i'm siunie ika anechijiayas. Ijia jika anechiyasa' 'yina ja ke lajak'i siunie ja jijweyeja' ti je jlase', jawonayijna'a 'ate siuniwa ta'aski ti isat tiwok jijwala' ti tajakiamk'i. 'Yina jawijna'm 'neje siojona kates jloma jla'yiki.
+66002028	
+66004009	Jak je iyoyiji siuti iyo jawak pini' Sinia' jilisajna' ti ijniujlits'i, ti iyunitietajas jak siojo ti yi'iji'n jlajak anechiyas ji'wet, siu'neje ti kia'iyo jinikanitieyi iwinatajasi siu'nie ti jajnok'i'ni ti 'wasa'n, sekyi'i siojopo veinticuatro ti jwajla iyoyisits'i'ni i'nio' t'akosjlete'l itiyeyisiji'n kiajwe, sekyi'i ti iliena'ak'i siojowa yinis jleti'le ti yinis jitieyi'i jlajak anechiyas ji'wet, sekyi'i iyoyisie 'ate:
+66004010	
+66009017	'Yina t'ot jip'otis wikijnies jikie' jla'am ni inwak, ni siunie k'iejliyiji'n iyo'ate ni jwat, siunie jla'al lasaje ijlijni'ni ni majajyi 'ate iyo ni azufre. Jlampet siojowa a'lentas jlete'l jawa iyo'ate niwa k'iwajla niwa jlete'l, jwat tal jikiwitk'i, tosie siu'neje ja azufre. 'Yina ijliena kajnewita'm jikiowe'e napo i'nio' yi' ape'e 'ni ajnat ti no'we ti 'yajle'n itij'we niwak inwet'ia, siunie jwat siu'neje ni tosie siu'neje ni azufre tal jikiwitk'i jawa a'lentas. Kajeyepa ti siojowa a'lentas jijweye yijits'i jawa jikiwitawa, siu'neje jawa jikiase'l. 'Yina siojowa jikiase'l jlete'l po' iyo'ate iyo niwa injlajas ti siuniwa je ijwietanit ti yokie pa. 'Yina jawaka ti isiene napo i'nio' ti iliajne'n. Kiak iyo ki si'wenkinaja.
+66009018	
+66009019	
+66020002	Sekyi'i injlojwanik poli jlele isime ti ilie'nit'ne jaka siojo ajliutietiok, naka'neje 'ni injlatiok ti 'nelanjie'e t'ipi, naka Imosik siu'neje ti Sitiejiejwa. Ilie'niti siojo itiun'ni wikijnies, sekyi'i ti 'yumajak'i isia'm siujlieja kiawe ti je ti'wena k'ioyi, sekyi'i ip'ionayi ti 'yite ape'e ti 'yilina ape'e siojo je ik'asinit'i ape'e, kajeyepa ti ja ke inets'e paka inkajli ka i'najlinit'i ape'e jajnok'i'ni paj ka mílana'a niwa najkapis ni siuniwa tenaje. Jak je iyoyiji jankama'ne napo i'nio' yi' ape'e 'ni ajnat, ti ja lajak'i'ne paka ink'emijietk'i paj ka ineyek'ina'a siuniwa tenaje. Janek 'niji niwaka ka jiwekie'ajana'a ka tiwejnana kiu wat kisie'e, 'yina ja ke paja kisie'e.
+66020003	

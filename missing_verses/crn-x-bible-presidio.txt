@@ -1,7 +1,7 @@
 ### Remarks: there are no capital letters in the paralleltext version, but in the pdf on gospelgo.com and the version on bible.com
 ### Remarks: there is always a space after the letter ɨ́ in the paralleltext version, which is mostly  not the case in the original pdf on gospelgo.com and on bible.com
 
-43005003
-46001015
-46001017
+43005003	
+46001015	
+46001017	
 46005013	
