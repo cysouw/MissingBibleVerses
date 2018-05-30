@@ -1,42 +1,45 @@
-01001028
-01001029
-01001030
-01001031
-01002024
-01003016
-01003017
-01005003
-01005004
-01005005
-01005006
-01005007
-01005008
-01005009
-01005010
-01005011
-01005012
-01005013
-01005014
-01005015
-01005016
-01005017
-01005018
-01005019
-01005020
-01005021
-01005022
-01005023
-01005024
-01005025
-01005026
-01005027
-01005028
-01005029
-01005030
-01005031
-01005032
-01009007
-01009026
+### Remarks: 01003015 contains parts of following verses, corrected: Byddi di a'r wraig yn elynion. Bydd dy had di a'i had hi bob amser yn elynion. Bydd e'n sathru dy ben di, a byddi di'n taro ei sawdl e.”
+### 01009025 contains parts of following verse, corrected: ac meddai, “Melltith ar Canaan! Bydd fel caethwas dibwys i'w frodyr.”
+
+01001028	A dyma Duw yn eu bendithio nhw, a dweud wrthyn nhw, “Dw i eisiau i chi gael plant, fel bod mwy a mwy ohonoch chi. Llanwch y ddaear a defnyddiwch ei photensial hi; a bod yn feistr i ofalu am y pysgod sydd yn y môr, yr adar sy'n hedfan yn yr awyr, a'r holl greaduriaid sy'n byw ar y ddaear.”
+01001029	Dwedodd Duw, “Edrychwch. Dw i wedi rhoi'r planhigion sydd â hadau a'r ffrwythau ar y coed i gyd, i fod yn fwyd i chi.
+01001030	A dw i wedi rhoi'r holl blanhigion yn fwyd i'r bywyd gwyllt a'r adar a'r holl greaduriaid bach eraill sydd ar y ddaear – ie, pob un creadur byw.” A dyna ddigwyddodd.
+01001031	Edrychodd Duw ar bopeth roedd wedi'i wneud, a gweld fod y cwbl yn dda iawn. Ac roedd nos a dydd ar y chweched diwrnod.
+01002024	Dyna pam mae dyn yn gadael ei dad a'i fam ac yn cael ei uno â'i wraig. Byddan nhw'n dod yn uned deuluol newydd.
+01003016	Yna dyma fe'n dweud wrth y wraig: “Bydd cael plant yn waith llawer anoddach i ti; byddi'n diodde poenau ofnadwy wrth eni plentyn. Byddi di eisiau dy ŵr, ond bydd e fel meistr arnat ti.”
+01003017	Wedyn dyma fe'n dweud wrth Adda: “Rwyt ti wedi gwrando ar dy wraig a bwyta ffrwyth y goeden rôn i wedi dweud amdani, ‘Paid bwyta ei ffrwyth hi.’ Felly mae'r ddaear wedi'i melltithio o dy achos di. Bydd rhaid i ti weithio'n galed i gael bwyd bob amser.
+01005003	Pan oedd Adda yn 130 oed, cafodd fab a'i alw'n Seth. Roedd Seth yr un ffunud â'i dad.
+01005004	Buodd Adda fyw am 800 mlynedd ar ôl i Seth gael ei eni, a chafodd blant eraill.
+01005005	Felly roedd Adda yn 930 oed yn marw.
+01005006	Pan oedd Seth yn 105 oed cafodd ei fab Enosh ei eni.
+01005007	Buodd Seth fyw am 807 o flynyddoedd ar ôl i Enosh gael ei eni, a chafodd blant eraill.
+01005008	Felly roedd Seth yn 912 oed yn marw.
+01005009	Pan oedd Enosh yn 90 oed cafodd ei fab Cenan ei eni.
+01005010	Buodd Enosh fyw am 815 mlynedd ar ôl i Cenan gael ei eni, a chafodd blant eraill.
+01005011	Felly roedd Enosh yn 905 oed yn marw.
+01005012	Pan oedd Cenan yn 70 oed cafodd ei fab Mahalal-el ei eni.
+01005013	Buodd Cenan fyw am 840 mlynedd ar ôl i Mahalal-el gael ei eni, a chafodd blant eraill.
+01005014	Felly roedd Cenan yn 910 oed yn marw.
+01005015	Pan oedd Mahalal-el yn 65 oed cafodd ei fab Iered ei eni.
+01005016	Buodd Mahalal-el fyw am 830 mlynedd ar ôl i Iered gael ei eni, a chafodd blant eraill.
+01005017	Felly roedd Mahalal-el yn 895 oed yn marw.
+01005018	Pan oedd Iered yn 162 oed cafodd ei fab Enoch ei eni.
+01005019	Buodd Iered fyw am 800 mlynedd ar ôl i Enoch gael ei eni, a chafodd blant eraill.
+01005020	Felly roedd Iered yn 962 oed yn marw.
+01005021	Pan oedd Enoch yn 65 oed cafodd ei fab Methwsela ei eni.
+01005022	Roedd gan Enoch berthynas agos gyda Duw, a buodd fyw am 300 mlynedd ar ôl i Methwsela gael ei eni, a chafodd blant eraill.
+01005023	Felly dyma Enoch yn byw i fod yn 365 oed.
+01005024	Roedd ganddo berthynas agos gyda Duw, ond yn sydyn doedd e ddim yna. Roedd Duw wedi'i gymryd i ffwrdd.
+01005025	Pan oedd Methwsela yn 187 oed cafodd ei fab Lamech ei eni.
+01005026	Buodd Methwsela fyw am 782 o flynyddoedd ar ôl i Lamech gael ei eni, a chafodd blant eraill.
+01005027	Felly roedd Methwsela yn 969 oed yn marw.
+01005028	Pan oedd Lamech yn 182 oed cafodd fab,
+01005029	a'i alw yn Noa. Dwedodd, “Bydd hwn yn rhoi gorffwys i ni o'r gwaith caled o drin y tir mae'r ARGLWYDD wedi'i felltithio.”
+01005030	Buodd Lamech fyw am 595 mlynedd ar ôl i Noa gael ei eni, a chafodd blant eraill.
+01005031	Felly roedd Lamech yn 777 oed yn marw.
+01005032	Pan oedd Noa yn 500 mlwydd oed roedd ganddo dri mab – Shem, Cham a Jaffeth.
+01009007	Dw i eisiau i chi gael plant, fel bod mwy a mwy ohonoch chi drwy'r byd i gyd.”
+01009026	Wedyn dwedodd Noa, “Bendith yr ARGLWYDD Dduw ar Shem! Bydd Canaan yn gaethwas iddo.
 01010002
 01010003
 01010004
