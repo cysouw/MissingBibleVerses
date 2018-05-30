@@ -1,13 +1,16 @@
-40007019
-40007020
-41008008
-41008009
-41015042
-41015043
-41016003
-41016004
-42001031
-42001032
+### Remarks: indented lines are missing in the whole document (e.g. many phrases from 42001046 to 42001080)
+
+
+40007019	Te thaeehooy a thaeeleipaw thingku tuh ngete maei lungkhu lang ah phaung hae. Tuhawte, lingthya profethae kha cyisanawte nae nyh thya cih oh.
+40007020	
+41008008	Mih balynte ae haeza ah byn hae, ccungccaw tuh thungpalei loukaw ah cih hae. Tuinte a zuituhae nynh ah aebanghaepaw shua sari kha ah khuin hae. Jesuh nynh mibuupi kha a kisah hae,
+41008009	
+41015042	Zetesang khe Arimathea khuapaw Josef oun thua. Amaw tuh Bapiatuhae lungkhuze sawtuapaw lukheit thuaza oun thualangpaw Pachia Peenaw kha kou a ngaehoitu nynh athua. Tuh ccyh nin tuh paccyngninza (Sabbath nin maw ccaccung ninpangaw nin nynh athua.) Tukeiccuze Josef nynh rhawhooyte Pilat kalan cceiza Jesuh ruaa kha a ngia.
+41015043	
+41016003	Laanpi ah ccia lya hae khe, “Hum nynh mou ssaw athuhfu lungphepi kha oun hongpah ci?” cite lukheit te lukheit kha ah hokuh hae. (Tuh e lung tuh myarya leepaw lungphepi nynh athua.) Tuinte ah do hae tuh a nawekuvaepaw lungphepi kha ah muih hae.
+41016004	
+42001031	Ccaw na poi ciza A Hanghua Pachia Ccapaw cite ko athua ci. Bawipaw Pachia nynh amaw tuh a mingpaw David hawte siangpahranglang a rae ciza,
+42001032	
 42001073
 42001074
 42002036
