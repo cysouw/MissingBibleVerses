@@ -1,5 +1,11 @@
-### Remarks: 01003015 contains parts of following verses, corrected: Byddi di a'r wraig yn elynion. Bydd dy had di a'i had hi bob amser yn elynion. Bydd e'n sathru dy ben di, a byddi di'n taro ei sawdl e.”
+### Remarks: THE TEXT OF BIBLE.COM VERSION IS PARTLY DIFFERENT!!! NEW DOWNLOAD?
+### 01003015 contains parts of following verses, corrected: Byddi di a'r wraig yn elynion. Bydd dy had di a'i had hi bob amser yn elynion. Bydd e'n sathru dy ben di, a byddi di'n taro ei sawdl e.”
 ### 01009025 contains parts of following verse, corrected: ac meddai, “Melltith ar Canaan! Bydd fel caethwas dibwys i'w frodyr.”
+### 01011010 lacks parts at the end, corrected: Dyma hanes teulu Shem: Pan oedd Shem yn gant oed, cafodd ei fab Arffacsad ei eni. (Roedd hyn ddwy flynedd ar ôl y dilyw.)
+### 01024062 is a little different on bible.com, corrected: Un noson roedd Isaac yn dod o gyfeiriad Beër-lachai-roi. (Roedd yn byw yn ardal y Negef yn y de.)
+### 01025013 is a little different on bible.com, corrected: Enwau meibion Ishmael, mewn trefn (o'r hynaf i'r ifancaf): Nebaioth oedd ei fab hynaf, wedyn Cedar, Adbe-el, Mifsam,
+### 01025019 contains parts of following verses, corrected: Dyma hanes teulu Isaac, mab Abraham: Abraham oedd tad Isaac.
+### 01025034 is a little different on bible.com
 
 01001028	A dyma Duw yn eu bendithio nhw, a dweud wrthyn nhw, “Dw i eisiau i chi gael plant, fel bod mwy a mwy ohonoch chi. Llanwch y ddaear a defnyddiwch ei photensial hi; a bod yn feistr i ofalu am y pysgod sydd yn y môr, yr adar sy'n hedfan yn yr awyr, a'r holl greaduriaid sy'n byw ar y ddaear.”
 01001029	Dwedodd Duw, “Edrychwch. Dw i wedi rhoi'r planhigion sydd â hadau a'r ffrwythau ar y coed i gyd, i fod yn fwyd i chi.
@@ -40,68 +46,68 @@
 01005032	Pan oedd Noa yn 500 mlwydd oed roedd ganddo dri mab – Shem, Cham a Jaffeth.
 01009007	Dw i eisiau i chi gael plant, fel bod mwy a mwy ohonoch chi drwy'r byd i gyd.”
 01009026	Wedyn dwedodd Noa, “Bendith yr ARGLWYDD Dduw ar Shem! Bydd Canaan yn gaethwas iddo.
-01010002
-01010003
-01010004
-01010005
-01010006
-01010007
-01010008
-01010009
-01010010
-01010011
-01010012
-01010013
-01010014
-01010015
-01010016
-01010017
-01010018
-01010019
-01010020
-01010021
-01010022
-01010023
-01010024
-01010025
-01010026
-01010027
-01010028
-01010029
-01010030
-01010031
-01011011
-01011012
-01011013
-01011014
-01011015
-01011016
-01011017
-01011018
-01011019
-01011020
-01011021
-01011022
-01011023
-01011024
-01011025
-01011026
-01016013
-01016014
-01023001
-01023002
-01024061
-01025003
-01025004
-01025009
-01025010
-01025014
-01025015
-01025016
-01025020
-01025021
-01025022
-01025023
+01010002	Meibion Jaffeth: Gomer, Magog, Madai, Iafan, Twbal, Meshech, a Tiras.
+01010003	Disgynyddion Gomer oedd pobl Ashcenas, Riffath, a Togarma.
+01010004	Disgynyddion Iafan oedd pobl Elisha, Tarshish, Cittim, a Dodanîm, 
+01010005	sef pobloedd yr arfordir a'r ynysoedd. Rhannodd y rhain yn genhedloedd gwahanol gyda'u tiroedd, a phob grŵp ethnig gyda'i iaith ei hun.
+01010006	Meibion Cham: Cwsh, Mitsraïm, Pwt, a Canaan.
+01010007	Disgynyddion Cwsh oedd pobl Seba, Hafila, Sabta, Raama, a Sabtecha. Disgynyddion Raama oedd pobl Sheba a Dedan.
+01010008	Cafodd Cwsh fab arall o'r enw Nimrod. Nimrod oedd y concwerwr cyntaf. 
+01010009	Fe oedd yr heliwr gorau yn y byd i gyd. Dyna pam mae'r hen ddywediad yn dweud, “Mae fel Nimrod, yr heliwr gorau welodd yr ARGLWYDD.” 
+01010010	Dechreuodd ei ymerodraeth gyda dinasoedd Babel, Erech, Accad a Calne yng ngwlad Babilonia. 
+01010011	Wedyn lledodd ei ymerodraeth i Asyria, ac adeiladodd ddinasoedd Ninefe, Rehoboth-ir, Cala, 
+01010012	a Resen (sydd rhwng Ninefe a dinas fawr Cala).
+01010013	Disgynyddion Mitsraïm oedd y Lydiaid, Anamiaid, Lehabiaid (pobl Libia), Nafftwiaid, 
+01010014	Pathrwsiaid, Caslwchiaid (y daeth y Philistiaid ohonyn nhw), a'r Cafftoriaid.
+01010015	Disgynyddion Canaan oedd pobl Sidon (o'i fab hynaf), yr Hethiaid, 
+01010016	y Jebwsiaid, Amoriaid, Girgasiaid, 
+01010017	Hefiaid, Arciaid, Siniaid, 
+01010018	Arfadiaid, Semariaid, a phobl Chamath. Cafodd llwythau'r Canaaneaid eu gwasgaru 
+01010019	nes bod eu ffiniau nhw yn estyn o Sidon yr holl ffordd i Gerar ac i fyny i Gasa, ac wedyn yr holl ffordd i Sodom, Gomorra, Adma, a Seboïm, mor bell â Lesha.
+01010020	Felly dyna ddisgynyddion Cham yn ôl eu llwythau, ieithoedd, tiroedd a chenhedloedd.
+01010021	Cafodd Shem, brawd hynaf Jaffeth, feibion hefyd. Shem oedd tad disgynyddion Eber i gyd.
+01010022	Meibion Shem: Elam, Ashŵr, Arffacsad, Lwd, ac Aram.
+01010023	Disgynyddion Aram oedd pobl Us, Chwl, Gether, a Mash.
+01010024	Arffacsad oedd tad Shelach, a Shelach oedd tad Eber. 
+01010025	Roedd gan Eber ddau fab – cafodd un ei alw'n Peleg, am mai dyna pryd y cafodd ieithoedd y byd eu rhannu. Yna enw ei frawd oedd Ioctan. 
+01010026	Disgynyddion Ioctan oedd pobl Almodad, Sheleff, Chatsar-mafeth, Ierach, 
+01010027	Hadoram, Wsal, Dicla, 
+01010028	Obal, Abima-el, Sheba, 
+01010029	Offir, Hafila, a Iobab. Roedd y rhain i gyd yn ddisgynyddion i Ioctan. 
+01010030	Roedden nhw'n byw ar y tir rhwng Mesha a bryniau Seffar yn y dwyrain.
+01010031	Felly dyna ddisgynyddion Shem, yn ôl eu llwythau, ieithoedd, tiroedd a chenhedloedd.
+01011011	Buodd Shem fyw am 500 mlynedd ar ôl i Arffacsad gael ei eni, a chafodd blant eraill.
+01011012	Pan oedd Arffacsad yn 35 oed, cafodd ei fab Shelach ei eni. 
+01011013	Buodd Arffacsad fyw am 403 o flynyddoedd ar ôl i Shelach gael ei eni, a chafodd blant eraill.
+01011014	Pan oedd Shelach yn 30 oed, cafodd ei fab Eber ei eni. 
+01011015	Buodd Shelach fyw am 403 o flynyddoedd ar ôl i Eber gael ei eni, a chafodd blant eraill.
+01011016	Pan oedd Eber yn 34 oed, cafodd ei fab Peleg ei eni. 
+01011017	Buodd Eber fyw am 430 mlynedd ar ôl i Peleg gael ei eni, a chafodd blant eraill.
+01011018	Pan oedd Peleg yn 30 oed, cafodd ei fab Reu ei eni. 
+01011019	Buodd Peleg fyw am 209 o flynyddoedd ar ôl i Reu gael ei eni, a chafodd blant eraill.
+01011020	Pan oedd Reu yn 32 oed, cafodd ei fab Serwg ei eni. 
+01011021	Buodd Reu fyw am 207 o flynyddoedd ar ôl i Serwg gael ei eni, a chafodd blant eraill.
+01011022	Pan oedd Serwg yn 30 oed, cafodd ei fab Nachor ei eni. 
+01011023	Buodd Serwg fyw am 200 mlynedd ar ôl i Nachor gael ei eni, a chafodd blant eraill.
+01011024	Pan oedd Nachor yn 29 oed, cafodd ei fab Tera ei eni. 
+01011025	Buodd Nachor fyw am 119 mlynedd ar ôl i Tera gael ei eni, a chafodd blant eraill.
+01011026	Pan oedd Tera yn 70 oed, roedd ganddo dri mab – Abram, Nachor a Haran. ddisgynyddion Shem, yn ôl eu llwythau, ieithoedd, tiroedd a chenhedloedd.
+01016013	Dyma Hagar yn galw'r ARGLWYDD oedd wedi siarad â hi yn El-roi (sef ‛y Duw sy'n edrych arna i‛). “Ydw i wir wedi gweld y Duw sy'n edrych ar fy ôl i?” meddai. (
+01016014	A dyna pam y cafodd y ffynnon ei galw yn Beër-lachai-roi. Mae hi rhwng Cadesh a Bered.)
+01023001	Bu farw Sara yn 127 oed, yn Ciriath-arba (sef Hebron), yn Canaan. A buodd Abraham yn galaru ac yn wylo drosti.
+01023002	
+01024061	Felly i ffwrdd â Rebeca a'i morynion ar gefn y camelod gyda gwas Abraham.
+01025003	Iocsan oedd tad Sheba a Dedan. A disgynyddion Dedan oedd yr Ashwriaid, y Letwshiaid a'r Lewmiaid.
+01025004	Wedyn meibion Midian oedd Effa, Effer, Chanoch, Abida ac Eldaä. Roedd y rhain i gyd yn ddisgynyddion i Cetwra.
+01025009	Cafodd ei gladdu gan ei feibion Isaac ac Ishmael yn ogof Machpela (ar y darn tir oedd i'r dwyrain o Mamre – sef y tir roedd Abraham wedi'i brynu gan Effron, un o ddisgynyddion Heth). Cafodd Abraham ei gladdu yno gyda'i wraig Sara.
+01025010	
+01025014	Mishma, Dwma, Massa,
+01025015	Hadad, Tema, Ietwr, Naffish a Cedema.
+01025016	Y rhain oedd meibion Ishmael, a chafodd y pentrefi ble roedden nhw'n byw eu henwi ar eu holau. Roedd y deuddeg ohonyn nhw yn benaethiaid ar eu llwythau.
+01025020	Roedd Isaac yn 40 oed pan briododd Rebeca (sef merch Bethwel yr Aramead o Padan-aram, a chwaer Laban yr Aramead).
+01025021	Roedd Rebeca'n methu cael plant, felly dyma Isaac yn gweddïo ar yr ARGLWYDD drosti, a dyma hi'n beichiogi.
+01025022	Roedd hi'n disgwyl gefeilliaid, ond roedden nhw'n gwthio ac yn taro ei gilydd yn ei chroth. “Pam mae hyn yn digwydd i mi?” gofynnodd. Aeth i ofyn i'r ARGLWYDD.
+01025023	A dyma ddwedodd yr ARGLWYDD wrthi: “Bydd dwy wlad yn dod o'r bechgyn yn dy groth. Dau grŵp o bobl fydd yn erbyn ei gilydd. Bydd un yn gryfach na'r llall, a bydd y mab hynaf yn was i'r ifancaf.”
 01035023
 01035024
 01035025
