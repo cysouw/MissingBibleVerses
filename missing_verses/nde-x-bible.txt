@@ -1,5 +1,5 @@
 40001002  U-Abrahamu wabeletha u-Isaka, u-Isaka wabeletha uJakopo, uJakopo wabeletha uJuda nabafowabo.
-40001003  UJuda wabeletha uPerezi1:3 ) uPerezi: amanye amabizo erhelweneli akakatlolwa ngokwesiHebheru eTestamendeni eliDala noZara kuTamara, uPerezi wabeletha uHesromu, uHesromu wabeletha u-Aramu,
+40001003  UJuda wabeletha uPerezi noZara kuTamara, uPerezi wabeletha uHesromu, uHesromu wabeletha u-Aramu,
 40001004  u-Aramu wabeletha u-Aminadaba, u-Aminadaba wabeletha uNarhitjhoni, uNarhitjhoni wabeletha uSalmoni,
 40001005  uSalmoni wabeletha uBhowazi kuRarhabi, uBhowazi wabeletha u-Obede kuRute, u-Obede wabeletha uJese,
 40001006  uJese wabeletha ikosi uDavida. UDavida wabeletha uSolomoni kumka-Uriya,
@@ -36,13 +36,13 @@
 42003024  umsa kaMathati omsa kaLevi, umsa kaMelirhi omsa kaJanayi, umsa kaJosefa 
 42003025  omsa kaMatathiyasi, umsa ka-Amosi omsa kaNawumi, umsa ka-Esili omsa kaNagayi,
 42003026  umsa kaMathi omsa kaMatathiyasi, umsa kaSimeyini omsa kaJoserha, umsa kaJoda
-42003027  omsa kaJowanani, umsa kaResa omsa kaZerubhabheli,3:27 ) kaZerubhabheli: amanye amabizo erhelweneli akakatlolwa ngokwesiHebheru eTestamendeni eliDala umsa kaTjhaltiyeli omsa kaNeri,
+42003027  omsa kaJowanani, umsa kaResa omsa kaZerubhabheli, umsa kaTjhaltiyeli omsa kaNeri,
 42003028  umsa kaMelirhi omsa ka-Adi, umsa kaKosamu omsa ka-Elimadamu, umsa ka-Eri 
 42003029  omsa kaJotjhuwa, umsa ka-Eliyezeri omsa kaJorima, umsa kaMathati omsa kaLevi
 42003030  umsa kaSimiyoni omsa kaJuda, umsa kaJosefa omsa kaJonamu, umsa ka-Eliyakimu
 42003031  omsa kaMeleya, umsa kaMena omsa kaMatatha, umsa kaNathani omsa kaDavida,
-42003032  umsa kaJese omsa ka-Obede, umsa kaBhowazi omsa kaSala,3:32 ) omsa kaSala: eminye imitlolo yakade ithi omsa kaSalmoni umsa kaNarhitjhoni
-42003033  omsa ka-Aminadaba, umsa ka-Adimini omsa ka-Areni,3:33 ) omsa ka-Aminadaba ... ka-Areni: eminye imitlolo yakade ithi omsa ka-Aminadaba, umsa ka-Aramu umsa kaHesromu omsa kaPerezi, umsa kaJuda
+42003032  umsa kaJese omsa ka-Obede, umsa kaBhowazi omsa kaSala, umsa kaNarhitjhoni
+42003033  omsa ka-Aminadaba, umsa ka-Adimini omsa ka-Areni, umsa kaHesromu omsa kaPerezi, umsa kaJuda
 42003034  omsa kaJakopo, umsa ka-Isaka omsa ka-Abrahamu, umsa kaTerarhi, omsa kaNarhori,
 42003035  umsa kaSerugu omsa kaRewu, umsa kaPelegi omsa ka-Ebhere, umsa kaTjhelarhi 
 42003036  omsa kaKenamu, umsa ka-Aripakitjhadi omsa kaTjhemu, umsa kaNowa omsa kaLemeki,
