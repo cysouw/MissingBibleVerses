@@ -1,204 +1,239 @@
-40006014
-40006015
-40011011
-40011012
-40011013
-40011014
-40011015
-40011018
-40011019
-40013014
-40013016
-40013017
-40022045
-40022046
-40026032
-41001004
-41001005
-41001006
-41001007
-41001008
-41007008
-41009049
-41012037
-41014028
-41016009
-41016010
-41016011
-42007028
-42007033
-42007034
-42007035
-42020018
-42020044
-42023031
-43012014
-43012041
-43017002
-43017003
-43017004
-43017005
-43017006
-43017007
-43017008
-43017009
-43017010
-43017011
-43017012
-43017013
-43017014
-43017015
-43017016
-43017017
-43017018
-43017019
-43017020
-43017021
-43017022
-43017023
-43017024
-44001021
-44001022
-44004012
-44004027
-44004028
-44004029
-44004030
-44013034
-44013035
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023027
-44023028
-44023029
-44023030
-45008037
-45008038
-45008039
-45009016
-45009017
-45009018
-45009026
-45010019
-45010020
-45010021
-45011009
-45012021
-45014012
-45015010
-45015011
-45015012
-45015022
-45016003
-45016004
-45016005
-45016006
-45016007
-45016008
-45016009
-45016010
-45016011
-45016012
-45016013
-45016014
-45016015
-45016016
-46002010
-46015033
-46015034
-46015056
-46015057
-47009010
-47009011
-49004009
-49004010
-49004011
-49004012
-49004013
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002009
-58002013
-58004004
-58004005
-58004008
-58004009
-58004010
-58004011
-58005006
-58007022
-58010008
-58010009
-58010010
-58010017
-58010018
-58010039
-58013006
-60002007
-60002008
-60002023
-60002024
-60002025
-60005006
-60005007
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002009
-66002010
-66002011
-66002013
-66002014
-66002015
-66002016
-66002017
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
-66004009
-66004010
-66005014
-66007011
-66007012
-66011016
-66011017
-66016007
-66017006
-66019003
+### 40013013 contains parts of following verses, corrected: Anĩ nigin, aya yaab od nem arokenẽdif, ere nigin, “Idi meledim diledig, anĩ ere, idi meleid fokõya sã, idi wederedim karĩ dedig, anĩ ere, idi wedereid fokõya sã, to keleik.
+### 41012036 contains parts of following verses, corrected: Dawid ĩ yogo Awa Uur Fateul bunem wogõ ye fen, kurõ falaisin: “‘Negur, neu Odug irokenen, “Imau biya melem ubod mog, ogon kiwai tar on yẽ farumẽ gõ afalauf.” ’
+### 43017001 lacks end of verse, corrected: Jesus od enei wogõ yel fen, saa ilun itad fen, kosẽ yen: “Dei, naa mogo isil, fula fiya medeĩya õ Naal wenẽ, ago di, õ Naal õ selĩ kulõ fouf.
+### 44001020 lacks parts, corrected: Pita wogõ tobol fe, irokeneg iron, “Buk Sam bun eig ye itoton, “‘Yogon modoũ are fonou inouf, an taka nem to ibodõf,’ takag, “‘Taka nem ĩ fotokar yogon kabĩ yalouf.’
+### 44013033 contains parts of following verses, corrected: Jesus kel turĩ fiyen anĩ bunem, amã idi gereneid tar kisi fel naman. Sam tu bun itotoya yenek kilei: “‘Õ neu Kesu, aya gama õ Tamã wõ aul.’
+### 45009025 contains parts of following verses, corrected: Are Hosia nẽ itotoya buneg Negur wogõ yef kilei, “Aya idi neu tamo kayau sã anidi, neu tamo kayau auf, age afe fen, aya neu oboiyou sã anĩ, neu oboiyou auf,”
+### 45010018 contains parts of following verses, corrected: Anĩ ere, aya to afef; Idi to karĩ dedig de? Momoi, idi karĩ den, are Negur nẽ Itotoya bun ibodok kilei, “Neu arũ tamo neid aiteid, teneub ganan bun iyokelen, dogo neid od teneub idikeleya bun ilen.”
+### 45011008 contains parts of following verses, corrected: Are Negur nẽ Itotoya bun ibodok kilei, “Negur, idi kisi kurã fiya sã nẽ uur, meleid to dilouf nẽ ado, wedereid to karĩ douf nẽ anĩ ifenẽdin, anĩ bunem isi gama naa enei bun.”
+### 45015009 contains parts of following verses, corrected: haiden idi Negur nẽ wau yũya nigin, Negur fula fiya medeĩya difenẽf nigin age fen, are Negur nẽ Itotoya bun ibodok kilei, “Anĩ nigin, aya haiden atun õ yanã alesauf, aya õ yanã bun seg alouf.”
+### 46002009 contains parts of following verses, corrected: Anĩ ere, Negur nẽ Itotoya eig ye irok kilei: “Negur nigin waud laa fedig idi nigin Negur dodok fen anĩ, malam taka to ilen, weder takam to karĩ yen, kisi takam to fokõ yen.”
+### 58001005 contains parts of following verses, corrected: Ere nigin, Negur ĩ yogon engel taka to eig ye irokenen, “Õ neu Kesu, gama aya õ Tamã wõ aul.” Takag, Negur ĩ engel taka nigin to eig ye iron, “Aya yogon Tama abodõf, ĩ neu Kesu ibodõf.”
+### 58001009 contains parts of following verses, corrected: Õ tobonunã madur bagai nigin waũ laaf fen, tobonunã sane anĩ sese wedig, anĩ nigin, Negur, ogon Negur kulĩya nẽ moul õ bun fi felen, anĩ bunem, nẽ tã tar wal feid fen, ilun inenon.”
+### 58001012 contains parts of following verses, corrected: Õ idi saket gen kori wediyouf, idi kolos gen falei wediyouf. Anĩ ere, õ ubodok gen ago ubodõf, ogon sain to idikalauf.”
+### 58002008 lacks end of verse, corrected: ye farumen ereb ereb ganan gõ welen.” Negur ĩ farumen ereb ereb ganan gõ felen, are ereb taka ĩ farumen sã anĩ taka to ibodok. Anĩ ere, gama ada ereb ereb ganan ĩ farumen ifaref anĩ to tailef.
+### 58002012 contains parts of following verses, corrected: Ĩ irok, “Aya õ yanã neu turau tar bun kurõ afalaisiyouf, tamo kayau guru difef meleid bun, aya õ selĩ abiyouf nigin seg alouf.”
+### 58004003 lacks end of verse, corrected: Gama ada mogo momoi taun, are si inoya anĩ bun telef. Are idi to momoi den nigin Negur eig ye iron kilei, “Aya seye ise fen, wau kuturol fen, oron, ‘Idi neu si inoya bun to bagai dilauf.’” Negur nẽ kabĩ teneub kare fiya sain bun mogo bure felen, anĩ ere, ĩ od agef iron.
+### 58005005 contains parts of following verses, corrected: Age fiya gen, Kristus ĩg pris mudur ibodõf nẽ fula fiya medeĩya yogo bouwa bun to inon. Anĩ ere, Negur ĩ irokenen, “Õ neu Kesu, gama aya õ Tamã wõ aul.”
+### 58010016 contains parts of following verses, corrected: “Odug irok, sain anĩ dumen, aya idi geid bar itenẽya enei anouf. Aya neu lo idi waud bun ano fen, idi neid kisi bun atotauf.”
+### 58013005 contains parts of following verses, corrected: Moni nigin kisi fatuk to unogouf, safina ã adof anĩ, are eĩ de gouf, ere nigin, Negur ĩ iron, “Aya to bagai atorneĩf, aya to bagai folõ ayeikalauf.”
+### 60002006 contains parts of following verses, corrected: Are Negur nẽ Itotoya eig ye irok kilei, “Lo weleg, aya Saion oun meein taka, monog tor aya agirnen, biya bagai anĩ anof, age afe di, taka ĩ, ĩ nigin momoi yef, ĩ mama to bagai yalouf.”
+### 66002001 lacks end of verse, corrected: “Efesus sios nẽ engel bun utot: Od enei are, ĩ barisa sewen ima biyalẽ irou mog, sewen gol lam tutur difaren atun iyok ilen nẽ od:
+### 66002008 lacks end of verse, corrected: “Smerna sios nẽ engel bun utot: Od enei are, ĩ gariya ado idikeleya, ĩ laaf fen, baban mata fã yen nẽ od.
+### 66002012 lacks end of verse, corrected: “Pergamum sios nẽ engel bun utot: Od enei are, ĩ dimig bala waila si sitakã ado nẽ od.
+### 66002018 lacks end of verse, corrected: “Taiataira sios nẽ engel bun utot: Od enei are Negur Naal nẽ od, yogon mala are yã mala fitotoleya gen, yogon ye are bras yã malan ifalegeya medeĩya gen.
+### 66002027 lacks end of verse, corrected: ‘Ĩ ain manig nem ulum irokenẽdiyouf, ĩ mis gen daũ fedi di, urud falaisiyouf,’ are aya neu Dei bunem megeir alen gen.
+### 66003001 lacks end of verse, corrected: “Sardis sios nẽ engel bun utot: Od enei are, ĩ Negur nẽ uur sewen ado barisa sewen irouf anĩ nẽ od. Õ ereb agof, are aya keleĩ. Õ mata ubodok dedig, anĩ ere, õ laa yon.
+### 66003007 lacks end of verse, corrected: “Filadelfia sios nẽ engel bun utot: Od enei are, ĩ fateul bagai ado momoi nẽ od, ĩ Dawid nẽ ki irouf. Ereb ĩ kã fef, taka nem to inolalauf, agef fen, ereb ĩ inolelef, taka nem to kã falauf.
+### 66003014 lacks end of verse, corrected: “Laodisia sios nẽ engel bun utot: Od enei are Momoi Barikã nẽ od, ĩ dõ fiya biya ado, momoi bagai Negur nẽ od wogõ yedig, ĩ ereb ereb Negur inodin ganan nẽ gariya.
+### 66004008 lacks end of verse, corrected: Ereb mata ibodõya aiwa adodo idi mugu mugu wayeid sigis ado fen, bouweid ganan bun meleid barikã, wayeid farumẽg meleid ado. Bõ ado gaa ado, idi eig yeya to folõ difeledig: “Fateul, fateul, fateul are Odug Negur saa ilun nẽ kusĩ tamo guri feid uyu iroudig anĩ, ĩ kulu ibodon, ĩ gama ibodok, ĩ dumen isiyouf.”
+### 66007010 contains parts of following verses, corrected: Age de fen, idi aiteid odugem diweig diron: “Kel gei fiya are neda Negur king nẽ sia bun ibodok ado Sipsip Naal nẽ.”
+### 66011015 contains parts of following verses, corrected: Engel namba sewen anĩ yogon taur wese fe di, saa ilun ait odug wowã ye fen, diron: “Tenebur nẽ tano are, neda Odug ado yogon Kristus nẽ tano wõ yen, age fe di, ĩ gai gai lo fiya nigin anĩ nẽ mudur ibodõf.”
+### 66016006 contains parts of following verses, corrected: Idi ogon tamo kayau ado ogon profet didenkeis fen, dogo neid naud fi difelen, anĩ nigin, õ idi naud yõya nigin wenẽdin, are idi yõya kisin bagai wenẽdin.”
+### 66017005 lacks end of verse, corrected: Waa nẽ yana are, yogon dama bun ditoton: BABILON ODUG KAYAU BOUWEID NA SUR FIYA ADO TENEBUR NINIR IBODOK ANIDI NEID SINA.
+### 66019002 contains parts of following verses, corrected: Yogon es fiya are, momoi fen madur bagai. Ĩ kayau bouwa na sur fedig odug, ĩ yogon seseirã tobonunã bunem teneub daũ fen anĩ, es fiyen. Ĩ yogon ferfer neid naudeid, anĩ mala solo ĩ bun ifenen.”
+
+40006014	Tamo idi ã bun mosor dinoyeĩf, ã idi neid mosor nigin wedereĩ tu kalauf are, ãgenei Temeĩ saa ilun ibodok, ĩg ãgenei mosor nigin weder tu kalauf.
+40006015	Anĩ ere, ã tamo idi neid mosor nigin wedereĩ to tu kalauf are, ãgenei Temeĩ, ĩg ãgenei mosor nigin weder to tu kalauf.
+40011011	Aya ã momoi arokeneik, kayau onoudi kesu dalen idi atun an, taka nem Jon naan igunẽdiya tamo to wal difiyen, anĩ ere, aib taka saa tanon yana naal bagai ado ĩ Jon wal fiya.
+40011012	Jon naan igunẽdiya tamo in sain bunem isi gama, saa tano, megeir ado bilalaũ fedig, megeir ado tamom saa tano anĩ irou irouledig.
+40011013	Profet ganan Moses nẽ Lo ado, saa tano nigin profet od wogõ def disin, isi Jon bun daun.
+40011014	Ã walogou fenẽ wauĩ oroĩf are, ĩ Eliya, ĩ fau isif ya anĩ.
+40011015	Aib ĩ weder adouf, karĩ youf.
+40011018	Anĩ Jon isin, saaf to yon, wain to yon, idi dirõdig, ‘Ĩ kaa sane ado.’
+40011019	Tamo Naal isin, saaf yon, wain yon, idi dirõdig, ‘Eĩ saaf wan, wainei yedig, dobu irãya tamal, ĩ, takis yaleya tamo, mosor tamo ado geid nigal difedig.’ Anĩ ere, kisi biya ĩ in tobonunã anĩ bunem, biya yaoref.”
+40013014	Idi bun, Asaia nẽ profet od kisi felef: “‘Ã wedereim karĩ gouf, anĩ ere, wedereĩ to fokõ youf, ã meleim ulogouf, anĩ ere, meleĩ to fokõ youf.
+40013016	Anĩ ere, ãgenei meleĩ nigin el fedif, ere nigin, ã ulegef, ãgenei wedereĩ nigin el fedif, ere nigin, ã karĩ gef.
+40013017	Anĩ aya ã momoi arokeneik, profet musei, madur tamo geid, ã ulegef anĩ dilou fenẽ nigin waud yenen, anĩ ere, idi meledim to dilen, takag, karĩya ã karĩ gef anĩ karĩ dou fenẽ nigin waud yenen, anĩ ere, idi wederedim to karĩ den.
+40022045	Dawid ĩ nigin ‘Odug’ yen ouf are, naig fe di, Kristus ĩ Dawid naal ouf?”
+40022046	Taka nem, ĩ aiten yale solof irõya kisi feleya san, naa anĩ bunem ilen ganan, takam baban ĩ to fiyẽya nigin kumĩ den.
+40026032	Anĩ ere, aya, laa bun tamal kel fã au fen, aya ket Galili uyu alauf.”
+41001004	Age fiya nigin, Jon isin, tamo kayau gerere tuan od irokenẽdi di, waud falei del, nedi mosor yaleleya nigin naan igunẽdin.
+41001005	Judia kalilĩ fiya, Jerusalem tamo kayau ganan, ĩ garan dilen. Idi neid mosor kurõ difesi di, idi im Jordan naanũ naan igunẽdin.
+41001006	Jon kamel siwi nem gabar diwan anĩ ifonũdig. Agef fen, gaar gabar nem lũ diwan anim luwa gu fedig. Ĩ totobi nin te ado yõdig.
+41001007	Eĩ enĩ yogon od iron, “Taka ĩ aya dumeun dõ fiyauf, anĩ ere, in megeir neu wal fiya. Aya to biya nigin, iborou bobou fe fen, in ye su nẽ malũ biru fiya kisi feleya sã.
+41001008	Aya naan nem aguneik, anĩ ere, ĩ Awa Uur Fateulem iguneĩf.”
+41007008	Jesus idi irokenẽdin, “Ã Negur nẽ ĩtãfiya utorõg fen, tamo nẽ tobonunã anĩ urougef.”
+41009049	Tamo ganan, yã tetedin sol gen tu difouf.
+41012037	Dawid yogo, ĩ nigin ‘Odug’ yef, naig fe di, ĩ Dawid naal ouf?” Tamo kayau musei waud el fiya ado karĩ difiyen.
+41014028	Anĩ ere, aya kel fã auf bun, aya ket Galili uyu alauf.”
+41016009	Jesus, uub nẽ naa matu bun bonimei bagai, fã ye fen, ĩ Maria Magdala bun ketem wõ yen, kulu Jesus kaa sesen sewen kayau anĩ bun irudin.
+41016010	Ĩ ile, idi Jesus geid diyon anidi, waud gudũf fen, marudim difen anĩ irokenẽdin.
+41016011	Idi, Jesus mata fã yel, kayau ĩ ilel ya anĩ karĩ de fen, waud to momoi den.
+42007028	Aya ã arokeneik, kayau onudi kesu dalen idi atun, taka nem Jon to wal difiyen, anĩ ere, aib taka Negur nẽ tanon yana naal bagai ado, ĩ Jon wal fiya.”
+42007033	Aya enei wogõ auf, ere nigin, Jon naan igunẽdiya tamo isin, bret to yon, wain to yon, ã urõgef, ‘Ĩ kaa sane ado.’
+42007034	Tamo Naal isin, saaf yon, naan yon, ã urõgef, ‘Eĩ dobu irãya tamal, ĩ, takis yaleya tamo, mosor tamo adodo geid, uyu kũ difedig.’
+42007035	Anĩ ere, kisi biya ĩ, in dõ fiya ganan bunem, biya yaorouf.”
+42020018	Aib taka meein anĩ teten kubũ youf, mereb fe fisik fouf, takag, aib taka meein anĩ ĩ teten kubũ youf, ĩ danĩf aas lauf.”
+42020044	Dawid ĩ nigin ‘Odug’ yef, age fiyauf are, naig fe di, ĩ Dawid naaluouf?”
+42023031	Tamo, aa mata mog, enei age difedif are, meti youf sain bun, ere wõ youf?”
+43012014	Jesus donki naal fotou fe fen, teten ibodon, are Negur nẽ Itotoya eig ye irok kilei,
+43012041	Asaia od enei iron, ere nigin, ĩ Jesus nẽ fula fiya medeĩya ile fen, ĩ nigin iron.
+43017002	Are õ Naal, idi ganan õ wenen bun, mata faimud ibodkeleya ifenẽdiyouf nigin, tamo kayau ganan lo fediya nẽ megeir õ wenen. 
+43017003	Mata faimud ibodkeleya are yeir, õ momoi Negur tekelei ado Jesus Kristus õ sur won anĩ, idi keleĩ youf anĩ. 
+43017004	Kabĩ õ wanan anĩ adikelen bunem, tenebur ein aya õ bun fula fiya medeĩya arou asin. 
+43017005	Dei, teneub kare fiya sã mog, ada urom fula fiya medeĩya adon anĩ, õ malã bun fula fiya medeĩya anĩ gama wana.
+43017006	“Aya teneub enei bun tamal õ wanan idi bun, õ yaor ayon. Idi ogon, anĩ ere, õ idi wanan, ago di, idi ogon od dõ difedig. 
+43017007	Gama idi keleĩ, ereb ereb ganan aya wanan are õ bun tamal. 
+43017008	Aya od wanan anĩ afenẽdi di, idi dalen. Aya õ bun tamal asin anĩ, idi momoi bagai kelein, idi onom aya sur wiyan anĩ momoi den. 
+43017009	Aya idi nigin kosẽ auf. Aya teneub enei nẽ tamo kayau nigin to kosẽ auf, anĩ ere, idi õ wanan anidi nigin kosẽ auf, ere nigin, idi ogon. 
+43017010	Neu ganan are ogon, ogon are neu. Idi bunem, aya fula fiya medeĩya alel. 
+43017011	Aya tenebur ein to abodõf, anĩ ere, idi fau tenebur dibodok, aya õ gein esef. Dei Fateul, õ yanã wanan nẽ megeir bunem, kulatun wediyouf, anĩ bunem, ada tekelei gen idig tekelei youf. 
+43017012	Sain aya idi geid mabodon, õ aya yanã wanan anĩ bunem, kulatun afeid el afen. Taka to fõ yelen, tamo ĩ fõ yalauf nẽ dogol fõ yelen, are Negur nẽ Itotoya kisi falauf nigin.
+43017013	“Gama aya õ gein esef, neu kulĩya idi namedin barikãf nigin, tenebur ein fau abod ken, od enei arok. 
+43017014	Aya ogon od afenẽdi di, teneub enei nẽ tamo kayau idi kiwai difenẽdin, ere nigin, gama aya teneub enei nẽ sã, age fiya gen, idig teneub enei nẽ sã. 
+43017015	Aya teneub enei bun tamal walelnẽdiyouf nigin to kosẽ auf, anĩ ere, wadãgen tamo sane isi fen, daũ fediya nigin, kulatun wediyouf anĩ kosẽ auf. 
+43017016	Aya teneub enei nẽ sã, age fiya gen, idig teneub enei nẽ sã. 
+43017017	Momoi bunem fateul unenẽdiyouf, ogon od are momoi. 
+43017018	Õ teneubur ein sur wiyan gen, ayag teneub enei bun sur afiyẽdin. 
+43017019	Idi nigin, aya yug adok bagai afonok, are idig momoi bagai dogo adok Negur difenẽf nigin.
+43017020	“Aya neu kosẽya are idi nigin dogol sã, idi neid od bunem, aya nigin momoi douf anidi nigineg, aya kosẽ auf, 
+43017021	idi ganan tekelei youf nigin kosẽ auf, Dei õ aya bun ubodok, aya õ bun abodok gen, idig ada bun dibodõ di, teneub enei nẽ tamo kayau, onom aya sur wiyan anĩ, momoi douf nigin. 
+43017022	Fula fiya medeĩya õ wanan anĩ, idi afenẽdin, are ada tekelei gen, idig tekelei youf nigin. 
+43017023	Aya idi bun, õ aya bun, are idi tekelei youf nigin, anĩ bunem, onom aya sur wiya fen, aya nigin waũ laa fedig gen, idi nigineg waũ laa fedig anĩ, teneub enei nẽ tamo kayau keleĩ youf.
+43017024	“Dei, idi õ aya wanan anidi, aya abodok nẽ an, aya geid mabodõf anĩ orouf, are idi neu fula fiya medeĩya dilouf nigin, fula fiya medeĩya anĩ teneub kare fiya sã mog, õ aya nigin waũ laaf fen, wanan anĩ.
+44001021	Anĩ nigin, Odug Jesus ada atun kabĩ yale ilef isif mog,
+44001022	Jon naan igunẽdin sain bunem ile, Jesus ada bun tamal, yale irou iselen sain bun, sain ganan ada weim tabodon anidi taka tagirnẽf. Are idi eneidi atun, takam Jesus mata kel fãya nigin, ada geid od wogõ tauf.”
+44004012	Taka bun tamo kel gei fiya to ibodok, ere nigin, ada kel gei fadauf nigin, saa farumen yana taka to tamo ifenẽdin.”
+44004027	Momoi, Herod, Pontius Pailat idim, haiden, Israel tamo kayau geid, taun enei bun guru de fen, ogon kabĩ tamo fateul Jesus õ ogo ugirin ĩ kiwai difenen.
+44004028	Õ ogon megeir ado oroya bunem agef wõ youf wo fen, tetun ufon anĩ kilei, idi age difen.
+44004029	Odug, gama idi dogo neid kumĩ od dinon anĩ kisi fen, amã ogon ferfer, ogon od kumĩ sã megeir ado wogõ mauf nigin megeir wanamã.
+44004030	Imã ura ken, dagi el wo, ago fen, ogon kabĩ tamo fateul Jesus yana bunem memelik uris ado unodiyouf.”
+44013034	Negur ĩ laa bun tamal kel turĩ fiyẽ di, ĩ to bagai bura lauf nigin, Negur eig ye iron: “‘Aya momoi bagai nẽ ado fateul nẽ el fiya, are aya Dawid afenẽf aun anĩ, ã afeneĩf.’
+44013035	Negur nẽ Itotoya taka buneg eig ye irok: “‘Õ ogon Fateul Tamo to utorõ di, bura lauf.’
+44015024	Amã nemã tamo tunĩ, yoya to dale fen, dile, idi neid wogõya bunem gelele diyei ken, wauĩ morõ difenein anĩ, amã karĩ maun. 
+44015025	Anĩ nigin, amã ganan kisi tekelei mano fen, tamo tunĩ magirneĩd fen, nemã oboimã tar bagai Banabas Pol ado geid ã gein sur mafedif. 
+44015026	Banabas Pol ado idi, neda Odug Jesus Kristus yana nigin, dogo neid mata itorõya nigin to fese den. 
+44015027	Anĩ nigin, amã matotkeneik anĩ sigoredim megeir fiya nigin, Judas Sailas ado sur mafedif. 
+44015028	Awa Uur Fateul, amã geid, kisi tekelei fen, ã bun nun enei teten baban morõ taka to mafeneĩf nigin yo maun: 
+44015029	Ã saaf idegẽya waitou bun sesewi difen anĩ to wãgauf, yaro naud adodo to wãgauf, yaro uleid kakã difeid fen, didenkesif anĩ to wãgauf ado, noli tobonunã bun to ulagauf. Ã enei adok irok kilei sese gouf are, ã nigin deuf. Dabuo.
+44023027	Tamo enei Juda tamom dale fen, dukesiyou fenẽ age difen, anĩ ere, aya neu kusĩ tamo geid masi masennen, ere nigin, aya ĩ nigin kelein, ĩ Rom tamo. 
+44023028	Idi ĩ bun od dun anĩ, aya gariya keleĩ youf nigin, ĩ dogo neid uyu irouya guru fiya bun aroulen. 
+44023029	Ĩ bun od dun are dogo neid lo nigin age difen, anĩ ere, ĩ laa fiya nẽ be, kalabus ilauf nẽ ereb taka to age fen anĩ aya kelein. 
+44023030	Aya ĩ dukesiyouf nigin naab dimirek ya anĩ karĩ au fen, aya kaisã bagai ĩ, õ gein sur afiyen. Ĩ bou bun od dun idig, õ malã bun nedi morõ yaor difouf nigin arokenẽdin.
+45008037	Anĩ ere, enei ganan bun, ada, ĩ ada nigin wau laa fen bunem, ada kusĩ wal difen anidi wal fediya tabodok.
+45008038	Aya momoi auf, laa, mata, engel, kaa sesen, ereb gama nẽ, ereb dumen nẽ, ereb megeir taka,
+45008039	ilun, kuren bagai be, ereb ereb ganan inodin bun ereb takam, Negur nẽ wau laa fiya, neda Odug Kristus Jesus bun ibodok anĩ bun tamal, ada fara fadaya nigin kisi feleya sã.
+45009016	Anĩ nigin, are, tamo nẽ oroya be kabĩ totol yaleya bunem sã, Negur nẽ wau yũya bunem.
+45009017	Negur nẽ Itotoya bun, Isip nẽ king Farao nigin eig ye irok, “Aya õ enei nigin bagai king anenon, are aya õ bun neu megeir yaor afe di, teneub ganan bun, neu yanau kurõ difalaisiyouf nigin age afen.”
+45009018	Anĩ nigin, Negur aib ĩ wau yũya ifenẽya nigin orof bun, ĩ wau yũya ifenẽdig, agef fen, ĩ aib nẽ wau katĩ feleya nigin orof bun, ĩ katĩ feledig.
+45009026	takag, “Negur ‘Ã neu tamo kayau sã’ yen nẽ modoũ anĩ bun, idi anĩ ‘Negur mata ibodõya nẽ gere tar’ youf.”
+45010019	Baban aya to afef: Israel idi to kelein de? Uruwa bun, Negur Moses bunem iron, “Aya tamo kayau yeneid sã idi bun age afe di, idi nigin ã kiyeĩ unogouf. Aya tamo kayau keleĩ sã idi bun age afe di, idi nigin ã nameĩ saneuf.”
+45010020	Takag, Asaia kukĩya sã eig ye iron, “Idi aya to dimirnan, aya dileyauf. Idi aya nigin to fiya san anidi bun, aya yug yaor afouf.”
+45010021	Anĩ ere, Israel nigin ĩ eig ye iron, “Naa tekelei adok, aya tamo kayau dõ fiya sã, fe temeleid bun imau dõ au fen, tari afedif abodon.”
+45011009	Takag, Dawid eig ye iron, “Neu kiwai tar, idi neid sifa nẽ tebol bun, saaf dokon waud kulĩ yen sain bun, idi suk bun gei difediyouf, idi kor bun gei difediyouf, idi neid el fiyam, dogo yeid tũ difouf nigin ado, mala solo fiya nẽ darau, idi bun wõ youf nigin aya orouf.
+45012021	Ã sane anim to wal yeĩf, anĩ ere, ãgem biya bunem sane anĩ wal gouf.
+45014012	Age fiya nigin, ada mugu mugu, ada dug nigin Negur kurõ tafeis tarokenẽf.
+45015010	Baban ĩ irok, “O haiden ã, in tamo kayau geid wauĩ kulĩ ye.”
+45015011	Baban, “Haiden ã ganan, Odug yana waleseg! Tamo kayau ã ganan, ĩ yana waleseg fen, seg waleg!”
+45015012	Baban, Asaia iron, “Jesi nẽ warumutei bun bali mata fokũ youf, ĩ wõ ye fen, teneub ganan nẽ mudur ibodõf, haiden idi ĩ nigin waud isauf.”
+45015022	Aya biya od modoũ age fediyan wogõya nigin sain musei aledig anim, aya ã gein isiya nigin sain musei naaburau gudũ fedig.
+45016003	Kristus Jesus bun, neu kabĩ turau tar, Prisila Akwila ado, neu aanya wenẽdigouf. 
+45016004	Idi aya nigin laa uyu ditoron. Aya dogol sã, haiden neid sios gananeg idi de difiyẽdif.
+45016005	Sios idi neid fõ bun guru difedig anidig, neu aanya wenẽdigouf. Neu oboiyou Epenetus, Asia provins bun Kristus nigin ĩ ketem momoiya tamo wõ yen anĩ, neu aanya wenẽgouf.
+45016006	Maria ã nigin kabĩ totol yalen anĩ, neu aanya wenẽgouf.
+45016007	Neu sirag tar, Andronikus ado Junia16:7 Yana enĩ kayau nẽ yana. Itotoya tunĩ dum ditoton, are Junias den. Junias are tamo nẽ yana. idi aya geid kalabus bun mabodon anidi, neu aanya wenẽdigouf. Aposel atun idi ilun bagai difaref, aya momoiya sã mog, idi ketem Kristus nigin momoi den.
+45016008	Ampliatus, Odug bun neu oboiyou, neu aanya wenẽgouf.
+45016009	Urbanus, Kristus bun neda kabĩ turada ado, neu oboiyou Stakis, neu aanya wenẽdigouf.
+45016010	Apeles ĩ nigin Kristus bun, tamo kayau biya difiyẽdig anĩ, neu aanya wenẽgouf. Idi Aristobulus nẽ ibor anidi, neu aanya wenẽdigouf.
+45016011	Herodion, neu sirag, neu aanya wenẽgouf. Idi Narsisus nẽ ibor Odug bun dibodok anidi, neu aanya wenẽdigouf.
+45016012	Trifena ado Trifosa, kayau idi Odug bun kabĩ totol daledig anidi, neu aanya wenẽdigouf. Neu oboiyou Persis, kayau taka Odug bun kabĩ totol yaledig anĩ, neu aanya wenẽgouf.
+45016013	Rufus Odug bun igirnen ado, yogon sina, ĩg aya neu naai, neu aanya wenẽdigouf.
+45016014	Asinkritus, Flegon, Hermes, Patrobas, Hermas ado, turada tar idi geid difaref anidi, neu aanya wenẽdigouf.
+45016015	Filologus, Julia, Nereus ĩ main ado, Olimpas ado, Negur nẽ tamo kayau ganan idi geid difaref anidi, neu aanya wenẽdigouf.
+45016016	Abob fateul bunem umã wiyẽg fen, aan wiyẽgouf. Kristus nẽ sios ganan ã bun aanya sur difef.
+46002010	Anĩ ere, Negur yogon Awa Uurem ada bun anĩ yaor fen. Awa Uur ĩ ereb ereb ganan fai yeledig, Negur nẽ ereb ereb ilon bagaig fai yeledig.
+46015033	Ã taka nem to idegneĩf. “Sane geid nigal yũya bun, tobonunã biya daũ fedig.”
+46015034	Kisi biya bun kel usig ufareg fen, mosor inoya utorõg, ere nigin, ã atun tunĩ Negur nigin keleĩ sã difaref. Aya ã mama yeĩf nigin enei wogõ auf.
+46015056	Laa nẽ waila are mosor, mosor nẽ megeir are lo.
+46015057	Anĩ ere, Negur de tafiyẽf! Ĩ neda Odug Jesus Kristus bunem kusĩ wal fiya ifanadadig.
+47009010	Negur ĩ, faat irarãya tamo, faat ado yõya nẽ bret ifenẽdig, ĩ ãgenei faat irarãya nigineg ifen ken, musei inouf, agef fen, ĩ ãgenei madur bagai nẽ kusu fiya odug inouf.
+47009011	Negur ĩ ereb ereb ganan bun, ã safina ado inoyeĩf, anĩ bunem, ã sain ganan wau ifenẽya bunem musei wenẽdigouf, ago ge di, idi amã bunem ãgenei ege luwa dale fen, Negur de difiyẽf.
+49004009	(“Ĩ ilun iselen” ya nẽ gariya are ere? Anĩ nẽ gariya are, ĩ tenebur farumen bagai buneg isilen.
+49004010	Ĩ isilen are, ĩ anĩ saa ilun ganan wal fiya iselen, are owõ ganan inolauf nigin age fen.)
+49004011	Inim anĩ, tunĩ aposel kabĩ, tunĩ profet kabĩ, tunĩ soosi kabĩ, tunĩ pastor kabĩ ado tise kabĩ ifenẽdin,
+49004012	are Negur nẽ tamo kayau, aruna yaleya kabĩ dalouf nigin dodok fedi di, Kristus nẽ bouwa odugouf nigin age fen.
+49004013	Agef ile ile, ada ganan, momoiya tekelei ado Negur Naal nigin keleĩ tekelei bun tasi fen, tamo kisi feleya bagai wõ tau fen, Kristus nẽ kisi feleya bagai bun talauf.
+58001006	Takag, Negur ĩ yogon kesu matu tenebur ein irou isif sain bun, ĩ baban irok, “Negur nẽ engel ganan ĩ seli dalouf.”
+58001007	Negur ĩ engel nigin irok, “Ĩ yogon engel yau gen wowã douf nigin inodif, ĩ yogon kabĩ tamo yã bale gen wowã douf nigin inodif.”
+58001008	Anĩ ere, Negur ĩ Naal nigin irok, “O Negur, ogon tano gai gai ibodkalauf, õ ogon tano tobonunã madur bagai bun lo wouf.
+58001010	Takag, ĩ irok, “O Odug, gariya bun õ teneub nẽ gariya kare won, õ imam saa unon.
+58001013	Negur ĩ yogon engel taka to eig ye irokenen, “Imau biyalẽ ubod mog, ogon kiwai tar õ yẽ inoya nẽ sawa anouf.”
+58001014	Age fiyauf are, engel idi ere? Idi uur Negur nẽ kabĩ daledig, tamo kayau isennẽya dalouf anidi disennẽdiyouf nigin Negurem idi sur fedidig.
+58002009	Anĩ ere, Jesus Negurem ĩ sain naal engel farumedin inene ken, ĩ darau yale laa fen nigin, gama ĩ fula fiya medeĩya yana ado anĩ nẽ teter kurũ fiyen anĩ ada tailef, are Negur nẽ wau ifenẽya bunem, ĩ tamo kayau ganan nigin laa ilen.
+58002013	Ĩ baban irok, “Aya ĩ bun neu momoiya anouf.” Takag, ĩ baban irok, “Aya yeir, Negur ĩ gere tar ifanan geid.”
+58004004	Negur nẽ Itotoya bun, Negur naa sewen nigin eig ye wogõ yen, “Naa sewen bun, Negur ĩ yogon kabĩ ganan bun si inon.”
+58004005	Baban Negur nẽ Itotoya enei bun, ĩ eig ye irok, “Idi neu si inoya bun to bagai dilauf.”
+58004008	Josua ĩ si inoya anĩ to ifenẽdin, ĩ si inoya anĩ ifenẽdim are, Negur anĩ dumen naa taka nigin to wogõ yem.
+58004009	Anĩ nigin, Negur nẽ tamo kayau neid Sabat si inoya fau ibodok.
+58004010	Ere nigin, Negur ĩ yogon kabĩ bun si inon kilei, taka ĩ Negur nẽ si inoya bun ilef, ĩg yogon kabĩ bun si inof.
+58004011	Are, taka nem, od to dõ difen anidi to dõ feid fen, kubũ youf nigin, si inoya anĩ bun ileya nigin kabĩ totol bagai talouf.
+58005006	Ĩ taka bun eig ye irok, “Õ faimud ubodkalauf nẽ pris, Melkisedek nẽ gĩ bun.”
+58007022	Wau kuturoleya od enei nigin, Jesus ĩ bar itenẽya tubu wal fiya nẽ megeir fiya wõ yen.
+58010008	Ĩ uruwa iron, “Sesewi fiya ado ofa, ofa yã bun ifaleg isaikeleya anĩ ado, mosor yaleleya nẽ ofa anĩ õ to oroyon, anĩ nigin waũ to iron” (anĩ ere, lo are, idi age difouf nigin iron).
+58010009	Age ye fen, ĩ iron, “Aya yeir, aya ogon oroya dõ afouf nigin asin.” Ĩ mata anĩ inouf nigin uruwa nẽ anĩ yalelen.
+58010010	Oroya anĩ bun, Jesus Kristus ĩ yogo bouwa sesewi fe, tekelei felen, anĩ bunem, ada fateul wõ taun.
+58010017	Age ye fen, ĩ tobol fe irok: “Dogo neid mosor ado sane age difedig are, aya to karĩ aulauf.”
+58010018	Mosor enei weder tu kelen ouf are, baban mosor nigin sesewi fiya taka to yenek.
+58010039	Anĩ ere, ada, idi dumelem soso de fen, fõ delef gen sã, anĩ ere, ada, idi momoi de fen, isennẽya dalef gen.
+58013006	Anĩ nigin, ada kumĩ sã torõf, “Odug ĩ neu isennẽya, aya to kumĩ auf. Aya tamom ere naig fiyauf?”
+60002007	Momoi gef ã bun, meein enei are biya bagai. Anĩ ere, idi to momoi def anidi bun, “Meein fõ inoya tamom sane de fen, ditoron anĩ, gama monog tor wõ yen.”
+60002008	Agef fen, “Ĩ, tamo yeid tũ fiya nẽ meein wõ ye fen, idi kuku douf nẽ sa tuwa anĩ wõ yen.” Idi yeid tũ fef, ere nigin, idi od anĩ to dõ difef, areg Negurem idi age difouf nigin igirin.
+60002023	Sain idi ĩ kono difiyen, ĩ idi to solo fedin. Sain ĩ darau yalen, ĩ kumĩ to ifenẽdin. Age fiya ban, ĩ yogo Negur tutuk es fedig ĩ ima bun inon.
+60002024	Neda mosor ĩ yogo bouwam aa tetek bun faali fen, are ada mosor bun gare tau fen, madur bagai bun mata tabodõf nigin age fen. Yogon gudũ fiyam ã el yein.
+60002025	Ã sipsip gen fõ yeleyan ulegen, anĩ ere, gama ã sipsip marau, ãgenei meleĩkanon nẽ lo fiya tamo bun keg usigen.
+60005006	Anĩ nigin, Negur nẽ ima megeir barikã farumen wauĩ ukalaisileg ubodõgouf, ago ge di, ĩ ã yogon sain bun yalesneĩf.
+60005007	Ãgenei suwẽya ganan ĩ bun unogouf, ere nigin, ĩ ã nigin suwẽ yedig.
+66002002	Ereb õ ago wof, are aya keleĩ, ogon kabĩ totol yaleya ado ogon feseya sã ifareya anĩ. Aya keleĩ, õ tamo sesen to loloum weid fen, idi dogo anĩ aposel dedig, anĩ ere, aposel sã anidi es wiyeĩd fen, idi neid idegẽya anĩ ulen.
+66002003	Õ totol ufar fen, neu yanau nigin morõ faali won, anĩ ere, õ to fõ yon.
+66002004	Anĩ ere, aya õ nigin od enei ado: Õ uruwa aya nigin waũ laa fen anĩ utoron.
+66002005	Anĩ nigin, õ nainenem kubũ won anĩ kisi wo! Falei wo fen, ereb uruwa agon anĩ agouf. Õ to falei wouf are, aya õ gein asi fen, ogon lam tutur ado yogon modoũ bun tamal alelauf.
+66002006	Anĩ ere, tobonunã biya enei õ ado: Õ Nikolas dõ difiyek neid tobonuneid to oroyõdig, are ayag to oroudig.
+66002007	Taka ĩ weder adouf, utornẽg len, ĩ Awa Uur sios irokenẽdif anĩ karĩ youf. Aib ĩ kusĩ anĩ wal fouf, aya ĩ mata ifenẽya nẽ aa Negur nẽ paradis bun ibodok anĩ bun tamal, yõya nigin yo afiyẽf.
+66002009	Ogon darau ado ogon maleg nigin aya keleĩ, anĩ ere, õ safina musei ado. Aya idi dogo nigin Juda tamo dedig, anĩ ere, idi Juda tamo sã, Satan nẽ guru fiya anidi neid bou yũya od nigin keleĩ.
+66002010	Ereb mogo õ darau ifonõf nigin to kumĩ wo. Aya õ arokonok, Satan ĩ mogo ã tunĩ kisi yeĩya nigin kalabus bun ineneĩf. Age fe di, ã naa ten darau walogouf. Õ laa bun dinenõfeg, ogon momoiya urou kafĩ walauf, ago di, aya õ mata nẽ teter kurũ ayõf.
+66002011	Taka ĩ weder adouf, utornẽg len, ĩ Awa Uur sios irokenẽdif anĩ karĩ youf. Aib ĩ kusĩ anĩ wal fouf, namba tu nẽ laa ĩ to daũ fiyẽf.
+66002013	Õ ubodok nẽ an aya keleĩ, an Satan nẽ sia ibodok. Anĩ ere, õ neu yanau urou kafĩ welef. Antipas, neu dõ fiya biya, aya nigin od wogõ yedig, ĩ Satan ibodok nẽ ãgenei taun an dukesin sain anĩ buneg, õ aya nigin ogon momoiya to folõ welen.
+66002014	Anĩ ere, aya õ nigin od tunĩ ado: Õ tamo tunĩ an Balam nẽ keleĩ dirouf anidi ado, Balam ĩ Balak ifelnẽ di, Balak ĩ Israel tamo kayau yeid tũ fiya nẽ meein ino fen, idegnẽdi di, Israel idi saaf idegẽya waitou bun sesewi difen anĩ dokon, noli tobonunã dinon.
+66002015	Age fiya gen, õ aneg tunĩ Nikolas nẽ ifelnẽya dirouf anidi ado.
+66002016	Anĩ nigin, waũ falei wo! Sãf are, aya kaisã bagai õ gein asi fen, neu sigorou nẽ dimig ado idi geid kusĩ auf.
+66002017	Taka ĩ weder adouf, utornẽg len, ĩ Awa Uur sios irokenẽdif anĩ karĩ youf. Aib ĩ kusĩ anĩ wal fouf, aya ĩ mana iminẽyan ibodok tunĩ afenẽf. Aya ĩ meein lalau takag, yana mata teten itoton anĩ afenẽf. Aib ĩ anĩ yalef dogol yana anĩ keleĩ youf.
+66002019	Aya keleĩ, õ ereb agof, ogon waũ laa fiya ado momoiya, ogon aruna yaleya ado feseya sã ifareya. Aya keleĩ, õ uruwa bun ago won anĩ wal fiya gama õ agodig.
+66002020	Anĩ ere, aya õ nigin od enei ado: Õ kayau Jesebel, ĩ yogo nigin profet kayau yef anĩ, loloum wedig. Ĩ yogon ifelnẽya bunem neu ferfer idegnẽdi di, idi noli tobonunã bun dile fen, saaf idegẽya waitou sesewi difen anĩ dõdig.
+66002021	Aya ĩ yogon mosor nigin wau falei youf nigin sain afenen, anĩ ere, ĩ to orof.
+66002022	Anĩ nigin, aya ĩ darau nẽ fatar bun ara ken, idi ĩ geid seseirã dinodig anidi, kayau anĩ nẽ naab nigin waud to falei youf are, aya idi darau fatuk bagai afenẽdiyouf.
+66002023	Aya ĩ gere tar adenkesiyouf. Age afe di, sios ganan, aya waud ado kisi es afedig anĩ keleĩ youf. Age afe fen, aya ã mugu mugu ereb ereb ã ago gef kilei, mala solo afeneĩf.
+66002024	Anĩ ere, aya ã tunĩ ganan Taiataira ufaregef anĩ arokeneik, ã kayau anĩ nẽ ifelnẽya to uroug fen, Satan nẽ waa namen bagai dedig anĩ to kelein anĩ arokeneik (aya ã bun ereb morõ taka to afeneĩf).
+66002025	Ereb ã urougef anĩ dogol urougef uleg mog, asiyouf.
+66002026	Aib ĩ kusĩ anĩ wal fe fen, neu oroya dõf ile, idikeleya bun ouf, aya ĩ teneub lo fediya nigin megeir afenẽf.
+66002028	Aya ĩ bonimei nẽ barisa kilokilog afenẽf.
+66002029	Taka ĩ weder adouf, utornẽg len, ĩ Awa Uur sios irokenẽdif anĩ karĩ youf.
+66003002	Fã wale! Ereb mogo laa fou fenẽ anĩ megeir wenẽ, ere nigin, aya õ ereb agof are neu Negur nẽ mala bun tutuk bagai sã ailef.
+66003003	Anĩ nigin, ereb õ walen, ereb õ karĩ won anĩ karĩ walauf. Anĩ dõ wo fen, waũ falei wo. Õ to fã walouf are, aya bẽ tamo gen asiyouf. Aya sain nanĩ be, õ gein asiyouf anĩ, õ to keleĩ youf.
+66003004	Anĩ ere, õ, Sardis an tamo kayau tunĩ, idi neid kolos amuyẽ fiya sã difaref anidi ado. Idi kolos lalau difoun ken, aya geid mayõf, ere nigin, idi kisi feleya bagai.
+66003005	Aib ĩ kusĩ anĩ wal fouf, ĩ idi gen kolos lalau ifonũf. Aya yogon yana, mata ibodõya nẽ buk bun tamal to alelauf, age afe fen, yogon yana neu Dei ado yogon engel meleid bun kurõ afesiyouf.
+66003006	Taka ĩ weder adouf, utornẽg len, ĩ Awa Uur sios irokenẽdif anĩ karĩ youf.
+66003008	Õ ereb agof, are aya keleĩ. Ulef, aya, sukar kã feleya taka nem inoleleya kisi felya sã anĩ, õ wagen anon. Aya keleĩ, õ megeir naal bagai ado, anĩ ere, õ neu od dõ wo fen, neu yanau to wa won. 
+66003009	Ulef, idi Satan nẽ guru fiya namen temeleid, idi dogo nigin Juda tamo dedig, anĩ ere, idi Juda tamo sã, idegẽya tamo anĩ, ayam age afe di, idi disi, õ yẽ gariyan kubũ de fen, aya õ nigin wau laa fedig anĩ idi keleĩ youf. 
+66003010	Õ feseya sã ufarauf nigin neu od urou kafĩ welen anĩ nigin, ayag idi tenebur dibodok kisi fediya nigin teneub ganan bun darau isiyouf sain bun, aya õ ahaha ayõf.
+66003011	Aya kaisã bagai asiyouf. Õ ereb urouf anĩ kafĩ walauf, ago di, taka nem ogon kurũ fiya nẽ teter anĩ to yalouf. 
+66003012	Aib ĩ kusĩ anĩ wal fouf, aya, neu Negur nẽ tempel bun, ĩ monog tor atennẽf. Ĩ anĩ baban to bagai itorõf. Aya ĩ bun, neu Negur nẽ yana ado, neu Negur nẽ taun yana, Jerusalem mata, are saa ilun tamal neu Negur bunem isiyouf anĩ atotauf. Age afe fen, aya neu yanau matag ĩ bun atotauf. 
+66003013	Taka ĩ weder adouf, utornẽg len, ĩ Awa Uur sios irokenẽdif anĩ karĩ youf.
+66003015	Õ ereb agof anĩ aya keleĩ, are õ medir sã, uruwag sã. Aya õ medir be, uruwa anĩ taka ubodok nigin orouf. 
+66003016	Anĩ nigin, õ laigog, medir sã, uruwag sã nigin, aya õ mogo awau bun tamal atigil arãyõf. 
+66003017	Õ urõdig, ‘Aya safina ganan kisi feleya, aya safina musei alen nigin, aya ereb taka to lau afedig,’ wodig. Anĩ ere, õ keleĩ sã, õ gai sane bagai, malalon ado, maleg, malã ifofakeleya ado, gemũ ubodok. 
+66003018	Aya õ arokonok, õ aya bun gol bagai, gol yã bun difalegen anĩ, õ safina ganan kisi feleya bagai wõ wouf nigin, na walouf, õ kolos lalaug ufonũ di, ogon gemũ mama dede wouf nigin na walouf, õ mala marasin malã bun uno fen, kelẽ walauf nigin na walouf.
+66003019	Aya idi nigin wau laa fedig anidi, aya ou afeid fen, tai afedidig. Anĩ nigin, kabĩ totol wale fen, mosor utor ken, waũ falei wouf. 
+66003020	Lo weleg, aya bobogẽ afar fen, godu afef. Taka ĩ aitou karĩ ye fen, sukar kã fouf are, aya ĩ namen asi fen, ĩ ado saaf mãf, age afe di, ĩ aya ado saaf mãf.
+66003021	Aib ĩ kusĩ anĩ wal fouf, aya kusĩ wal afe fen, neu Dei nẽ king nẽ sia bun, neu Dei ado mabodok gen, ĩg neu king nẽ sia bun, aya ado mabodõf nigin yo afiyẽf. 
+66003022	Taka ĩ weder adouf, utornẽg len, ĩ Awa Uur sios irokenẽdif anĩ karĩ youf.”
+66004009	Ereb sain ereb mata ibodõya idi, taka ĩ king nẽ sia bun ibod ken, mata faimud ibodkeleya anĩ bun, fula fiya medeĩya, yana odug ado, de fiyẽya difenẽdig bun,
+66004010	mudur adodo tuwenti-fo, ĩ king nẽ sia bun ibod mog, ĩ wagen kuku de fen, ĩ mata faimud ibodkeleya anĩ seli dalesedig. Idi king nẽ sia wagen dogo neid teter gõ difel fen, dirõdig:
+66005014	Ereb mata ibodõya aiwa adodo diron, “Momoi,” age de di, mudur adodo kuku de fen, yana dalesen.
+66007011	Engel ganan, king nẽ sia ado, mudur adodo ado, ereb mata ibodõya aiwa adodo salili difiyeĩd difar fen, king nẽ sia wagen neweid lẽ kuku de fen, Negur yana dalesen.
+66007012	Idi diron: “Momoi! Yana yaleseya, fula fiya medeĩya, kisi biya, de fiyẽya, yana odug, megeir ado, totol are neda Negur bun gai gai ibodkalauf. Momoi!”
+66011016	Age de di, tuwenti-fo mudur adodo, Negur wagen dogo neid king nẽ sia bun dibodon wageidlẽ kuku de fen, Negur yana dales,
+66011017	diron: “Odug Negur saa ilun nẽ kusĩ tamo guri weid uyu uroudig anĩ, õ gama ubodok, kulu ubodon, amã õ de mayok, ere nigin, õ ogon megeir odug wale fen, lo fiya nigin king wõ won.
+66016007	Age ye di, aya alta eig ye mog, karĩ aun: “Momoi, Odug Negur saa ilun nẽ kusĩ tamo guri weid uyu uroudig anĩ, ogon es fiya are, momoi fen madur bagai.”
+66017006	Aya, kayau, Negur nẽ tamo kayau neid naudeid ado, idi Jesus nẽ od kurõ difesin anidi, nedi naudeid yokon, mala waĩ ye mog, ailen. Aya kayau anĩ ail fen, fatuk bagai terẽ aun.
+66019003	Idi baban diweig diron: “Halleluya! Ĩ bunem kaau faimud gai gai iselauf.”
