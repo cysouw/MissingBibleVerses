@@ -1,11 +1,17 @@
+### Albrecht's 44007055 is actually 44007055+44007056 compared to King James Bible
+### Albrecht's 44007056 is actually 44007057 compared to KJB
+### Albrecht's 44007057 is actually 44007058 compared to KJB
+### 44007059 & 44007060 aren't existing in the Albrecht version on bible.com
+### 48006018 isn't existing in the Albrecht version on bible.com
+
 40013035	
-40016028
-41005019
-41008002
-42015032
-44007058
+40016028	
+41005019	
+41008002	
+42015032	
+44007058	
 44007059
 44007060
-47013013
+47013013	
 48006018
-49003021
+49003021	
