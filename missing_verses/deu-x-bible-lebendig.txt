@@ -1,39 +1,44 @@
-40013014
-40013016
-40013017
-40022045
-40022046
-40026032
-41001004
-41001005
-41001006
-41001007
-41001008
-41007008
-41007009
-41009049
-41012037
-41014028
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
-42007033
-42007034
-42007035
-42020018
-42020044
+### 40013013 contains parts of following verse, corrected: Deshalb rede ich in Gleichnissen. Denn sie sehen, aber sie erkennen nicht; sie hören, aber sie verstehen es nicht.
+### 41007007 contains parts of following verse, corrected: Ihr Gottesdienst ist wertlos, weil sie ihre menschlichen Gesetze als Gebote Gottes ausgeben.'
+### 41012036 contains parts of following verse, corrected: David selbst hat doch, geleitet vom Heiligen Geist, gesagt: 'Gott sprach zu meinem Herrn: Setze dich auf den Ehrenplatz an meiner rechten Seite, bis ich dir alle deine Feinde unterworfen habe.'
+### 42003023 lacks end of verse, corrected: Jesus trat zum ersten Mal öffentlich auf, als er ungefähr dreißig Jahre alt war. Die Leute kannten ihn als den Sohn Josefs. Josefs Vater war Eli, und dessen Vorfahren waren:
+
+40013014	Damit erfüllt sich an ihnen, was der Prophet Jesaja vorausgesagt hat: 'Ihr werdet hören und nicht verstehen, sehen und nicht erkennen.
+40013016	Aber ihr könnt glücklich sein, denn eure Augen können sehen und eure Ohren können hören.
+40013017	Ich sage euch: Viele Propheten und Menschen, die Gott dienten, hätten gern gesehen, was ihr seht, und gehört, was ihr hört, aber die Zeit war noch nicht da.«
+40022045	Wenn David ihn also 'Herr' nennt, wie kann er dann Davids 'Sohn' sein?«
+40022046	Darauf wussten sie keine Antwort. Und von da an wagte niemand mehr, ihm weitere Fragen zu stellen.
+40026032	Aber nach meiner Auferstehung werde ich nach Galiläa gehen, und dort werdet ihr mich wiedersehen.«
+41001004	Dieser Bote war Johannes der Täufer. Er lebte in der Wüste, taufte und verkündete den Menschen, die zu ihm kamen: »Kehrt um zu Gott, und lasst euch von mir taufen! Dann wird er euch eure Sünden vergeben.«
+41001005	Viele Menschen aus der ganzen Provinz Judäa und aus Jerusalem kamen zu ihm. Sie bekannten ihre Sünden und ließen sich von ihm im Jordan taufen.
+41001006	Johannes trug ein aus Kamelhaar gewebtes Gewand, das von einem Lederriemen zusammengehalten wurde. Er ernährte sich von Heuschrecken und wildem Honig.
+41001007	Johannes rief den Leuten zu: »Nach mir wird ein anderer kommen, der viel mächtiger ist als ich. Ich bin nicht einmal würdig, ihm die Schuhe auszuziehen.
+41001008	Ich taufe euch mit Wasser, aber er wird euch mit dem Heiligen Geist taufen.«
+41007008	Ja, ihr beachtet Gottes Gebote nicht, sondern ersetzt sie durch eure Vorschriften! Dabei geht ihr sehr geschickt vor.
+41007009	
+41009049	Niemand kann sich dem Feuer der Prüfung Gottes entziehen. Es gehört zum Leben so wie das Salz zum Opfer.
+41012037	Wenn David ihn also 'Herr' nennt, wie kann er dann Davids 'Sohn' sein?« Alle im Tempel hörten ihm gespannt zu.
+41014028	Aber nach meiner Auferstehung werde ich nach Galiläa gehen, und dort werdet ihr mich wiedersehen.«
+42003024	Mattat - Levi - Melchi - Jannai - Josef -
+42003025	Mattitja - Amos - Nahum - Hesli - Naggai -
+42003026	Mahat - Mattitja - Schimi - Josech - Joda -
+42003027	Johanan - Resa - Serubbabel - Schealtiël - Neri -
+42003028	Melchi - Addi - Kosam - Elmadam - Er -
+42003029	Joschua - Eliëser - Jorim - Mattat - Levi -
+42003030	Simeon - Juda - Josef - Jonam - Eljakim -
+42003031	Melea - Menna - Mattata - Nathan - David -
+42003032	Isai - Obed - Boas - Salmon - Nachschon -
+42003033	Amminadab - Admin - Arni - Hezron - Perez - Juda -
+42003034	Jakob - Isaak - Abraham - Terach - Nahor -
+42003035	Serug - Regu - Peleg - Eber - Schelach -
+42003036	Kenan - Arpachschad - Sem - Noah - Lamech -
+42003037	Metuschelach - Henoch - Jered - Mahalalel - Kenan -
+42003038	Enosch - Set. Set war ein Sohn Adams, und Adam stammte von Gott.
+42007033	Johannes der Täufer fastete oft und trank keinen Wein. Da habt ihr gesagt: 'Der ist ja von einem bösen Geist besessen!'
+42007034	Nun ist der Menschensohn gekommen, isst und trinkt wie jeder andere, und ihr beschimpft ihn: 'Er frisst und säuft, und seine Freunde sind die Zolleinnehmer und anderes Gesindel!'
+42007035	Doch wie Recht die Weisheit Gottes hat, zeigt sich an denen, die sie annehmen.«
+42020018	Und er fügte hinzu: »Wer auf diesen Stein fällt, wird sich zu Tode stürzen, und auf wen der Stein fällt, der wird zermalmt.«
+42020044	Wenn David ihn also 'Herr' nennt, wie kann er dann Davids 'Sohn' sein?«
 42023031
 43012014
 43012041
