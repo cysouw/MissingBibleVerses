@@ -1,30 +1,34 @@
-40022045
-41006003
-41012037
-42020018
-42020044
-44002032
-44002033
-44002034
-44004012
-44004027
-44004028
-44004029
-44004030
-44007044
-44007045
-44007046
-44007047
-44013034
-44013035
-44013036
-44013037
-44013038
-44013039
-44013040
-44013042
-44013043
-44028028
+### 41012036 contains parts of following verse, corrected: Dot i Daud piya --- do notudukan di Rusod do Kinorohingan nga' minomoros i' do poingkaa, ‘Boros kad Tuhan dot id Tuhan ku; irikau no dot id dawananan ku, gisom do poinsiribaon ku dot id diya' i piro-piro o pisangod nu,’ ka.
+### 44002031 contains parts of following verse, corrected: om koilo nogi' iyau do nunu i wonsoyon do Kinorohingan dot id dabantalan. Om nokoboros mantad no di Daud dot apasi indo kawagu i Raja' do Gampamasi, i pinabatos do Kinorohingan diri, do mantad id kapatayon. Boros kad i Daud, ‘A' i' iyau pologoson do potimporon dot id pomogunan di tulun di nangapatai; a' i' apasa' o tinan dau do hiri'd lobong,’ ka.
+### 44013033 contains parts of following verse, corrected: om nowonsoi no dau dot id dati' tu' napasi no kawagu dau i Yesus do mantad id kapatayon. Tu' haro i' o nokotulis dot id Buuk do Sinding di koduwo do poingkaa, ‘Iya' no o Tanak ku, om tadau nod baino' do nosiliu oku do Tapa' nu,’ ka.
+
+40022045	Om ondung roitan di Daud do ‘Tuhan’ i Raja' do Gampamasi, om poingkuro'ddi do sinakagon iyau di Daud?” ka dau.
+41006003	Okon toi ko' i tukang kayu ilo', i tanak di Maria om i tobpinai di Yakub om i Yosis om i Yudas om i Simun? Om poundorong i' do hiti i tobpinai dau do tongoondu'?” ka. Om iri noddi ot a' diyolo' kinoponongkuyaan dau.
+41012037	Om ondung rinoitan di Daud do, ‘Tuhan’, i Raja' do Gampamasi, om poingkuro'ddi iyau do sinakagon di Daud!” ka di Yesus. Angasanangan ngai' nopo do mokinongou di ponudukan di Yesus i tulun dot ogumu' di hiri'd Walai'd Sasambayangan dot Agayo.
+42020018	Om oinsanan nopo i tulun dit aratu' do kootung di watu'ddi dot angapatai; om it ootungan di watu nga' oruta' nopondo do miagal pod pupuk,” ka di Yesus.
+42020044	Om ondung roitan di Daud do ‘Tuhan’, i Raja' do Gampamasi, om poingkuro'ddi do sinakagon iyau di Daud?” ka di Yesus.
+44002032	Om i Yesus no i komoyon diri di pinasi kawagu'd Kinorohingan do mantad id kapatayon. Om nongkokito ngai' toko'ddi.
+44002033	Om pinoinsawat do Kinorohingan o pangkat dau om nonuan iyau do kuasa' om kaanu noddi iyau do Rusod do Kinorohingan di pinabatos mantad di Tapa'. Om iti nopo it orongou dokoyu om iti tokito dokoyu do baino'dti om iri i Rusod di pinotuntug dau dot id dahai.
+44002034	I Daud nopo om a' i' pinoinsawat do hilo'd surga, nga' minomoros i' iyau do poingkaa, ‘Boros kad Tuhan dot id Tuhan ku: Irikau no dot id dawananan ku,
+44004012	I Yesus noo o milo'd mamasi'd tulun. Tu' pointongkop nopo diti pomogunan dot id pogialatan do tulun om aiso' no ot ongoiso' piya'd tulun do suwai do nakaanu do kuasa' do mantad id Kinorohingan do mamasi dati',” ka di Pitrus.
+44004027	Tu' otopot id nokopogiboro-boros no i Horudis om i Pontius Pilatus di tulun dit okon ko' Yohudi om i tulun dot Israil di hiti'd bandar diti. Om mogiupakat iyolo' do sumaap di Yesus i susuhuon nu dit olidang, i nopili' nu do sumiliu'd Raja' do Gampamasi. 
+44004028	Om mogisosokodung nopo iyolo' do momonsoi do koinsanai'ddi, i natantu' mantad nu no di gulu po dot ongosiliu. Om tinantu' nu'ri do mikuwo'd kuasa' nu om id suang do korohian nu. 
+44004029	Intangai pogi' o pomorolosi diyolo' dahai do baino'dti, oi Tuhan. Om pologoso' no iyahai i susuhuon nu dot a' moddosi do popinsusui di boros nu. 
+44004030	Om tulungo' no iyahai om olingasan i' i tulun dot ongkitoruol om kointalang i' i kongoimayaan om i kongosuayan do mikuwo'd kuasa' om kokorisan dot id suang do ngaran di Yesus, i susuhuon nu dit olidang,” ka diyolo'.
+44007044	Om haro o kiim di taki-aki toko' do hilo'd tana' do kowotuan, i Koropohon do Kinorohingan do tontok di rumikot iyau dot id tulun. Om pinomonsoi nopoddi kiim diri om tumanud di pinonuhuan do Kinorohingan di Musa, om pinoomit di pinokitanan do Kinorohingan dot id di Musa. 
+44007045	Om nigitan nogi' di taki-aki toko' i kiim diri do tontok di winoyo' iyolo' di Yosua do minongoi pagahau do pomogunan toko'dti do mantad id kuasa' do piro-piro bansa'd suwai di momorinta' mantad do pomogunan diti, i nuyung do Kinorohingan di ruminikot iyolo'. Om hiri kasai' po i kiim diri do gisom di hino no i Daud. 
+44007046	I Daud nopo om kohubayaan do Kinorohingan. Om pokionuon no dau do pologoson iyau'd Kinorohingan do popoingkakat iyau dot iso' o walai do dong Kinorohingan di tukuon di Yakub.
+44007047	Nga' i Suliman iddi o pinopoingkakat di walai do Kinorohingan diri.
+44013034	Om napasi no iyau kawagu'd Kinorohingan do mantad id kapatayon, om a' noddi iyau apatai kawagu, om a' olobong. Om poingkaa o nokoboros do Kinorohingan do pasal diri, ‘Patahakon ku nondo dot id diya' i batos dit olidang dit atantu' no do bayaanon, i nakabatos mantad ku dot id di Daud,’ ka.
+44013035	Om miagal nogiddi o nokoboros dot id ayat do suwai, ‘A' nu i' pologoson dot apasa' do hiri'd lobong i susuhuon nu dit otorodok,’ ka.
+44013036	Om kowonsoi poddi di Daud i pinonuhuan do Kinorohingan dot id dau, om kapatai nogiddi iyau. Om lobongo' no iyau do hiri'd toning di pinamalabangan di taki-aki dau. Om kapasa' noddi i rata' di Daud.
+44013037	Nga' i Yesus nopo i pinasi kawagu'd Kinorohingan do mantad id kapatayon, om a' i' napasa'.
+44013038	Om iyo nopoddi om mositi' no do koilo kou oi tobpinai-tobpinai dot i Yesus no o pinawayaan di habar do pasal do koompunan do dusa di pinosusui dot id dokoyu. Om mositi' no do koilo kou dot isai-isai nopo o tulun dot otumbayaan di Yesus om koidu' no do mantad id koinsanai'd dusa, nga' iri nopo Tourat di Musa om amu' i' milo'd popoidu' dokoyu do mantad id dusa.
+44013039	
+44013040	Om iyo nopoddi om antaan-taan no kopio dokoyu om a' i' osiliu dot id dokoyu o miagal di nokoboros di piro-piro nabi do poingkaa,
+44013042	Om tontok di sumoliwan no i Paulus om i Barnabas do hiri'd walai'd sasambayangan diri, om pomoros po i tulun di hiri'd sasambayangan do popoguli' kawagu diyolo' do hiri dot orikot kawagu o tadau'd Sabat do mongoi popotuduk kawagu diyolo' di sinusui diyolo'ddi.
+44013043	Om kosoliwan poddi i tulun do mantad hiri'd walai'd sasambayangan diri, om ogumu'ddi o tulun do Yohudi om i tulun dit okon ko' Yohudi di nokosuang do tugama' do Yohudi, do tuminanud di Paulus om i Barnabas. Om sunudai noddi iyolo' di piro-piro rasul do tumilombus do sumondiu kopio di kosonongo'd Kinorohingan.
+44028028	Om pomoros poddi kawagu i Paulus do poingkaa, “Ilaai no dokoyu, oi tobpinai-tobpinai, dot iri nopo habar do pasal do koposion do mantad id Kinorohingan om nokosusui no dot id tulun dit okon ko' Yohudi. Om tumanud indo iyolo'ddi!” ka dau.
 45008037
 45008038
 45008039
