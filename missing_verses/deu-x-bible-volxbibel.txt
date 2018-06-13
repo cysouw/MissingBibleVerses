@@ -1,26 +1,30 @@
-40005047
-40006008
-40012047
-40013003
-40015038
-40016003
-40017023
-40020012
-40020018
-40022013
-40022035
-40025003
-40025004
-40025008
-40025027
-41002023
+### 40013002 corrected: Es dauerte nicht lange, da sammelte sich wieder eine große Menschenmenge um ihn herum. Weil er zu ihnen reden wollte, setzte er sich in ein Ruderboot und fuhr so weit auf den See aus, dass ihn von dort aus alle hören konnten.
+### 42009008 corrected: Ein anderes Gerücht war, dass er der alte Elia wäre oder irgendein anderer großer Prophet, der wieder lebendig geworden war.
+### 42009009 isn't existing in the online version
+
+40005047	
+40006008	
+40012047	
+40013003	
+40015038	
+40016003	
+40017023	
+40020012	
+40020018	
+40022013	
+40022035	
+40025003	
+40025004	
+40025008	
+40025027	
+41002023	An dem religiösen Feiertag, dem Sabbat, gingen Jesus und seine Leute durch die Getreidefelder spazieren. Auf dem Weg pflückten sie ein paar Getreidekörner, um darauf rumzukauen.
 42009009
-43002008
-44004037
-44014006
-44017015
-45007025
-58013021
-66007006
-66007007
-66007008
+43002008	
+44004037	
+44014006	
+44017015	
+45007025	
+58013021	
+66007006	
+66007007	
+66007008	
