@@ -1,5 +1,0 @@
-### The text in 40021044 should be moved to 40021045, the text of 40021045 should be moved to 40021046 and 40021044 should get a tabstop
-
-40021044	
-40021045	Und als die Hohenpriester und die Pharisäer seine Gleichnisse hörten, merkten sie, daß er von ihnen redete.
-40021046	Und sie suchten ihn zu ergreifen, fürchteten aber das Volk, weil es ihn für einen Propheten hielt.
