@@ -1,24 +1,46 @@
-40003004
-40004007
-40008018
-40008019
-40008020
-40010036
-40011011
-40013014
-40013036
-40013037
-40021010
-40026032
-41001003
-41004013
-41011010
-41012011
-41012037
-41014028
-43012014
-43012039
-45003005
+### This version seems to have quite some issues, many incomplete verses.
+
+### 40003004 corrected:	This is he who was spoken of through the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for him.’ ”
+### 40004006 corrected: “If you are the Son of God,” he said, “throw yourself down. For it is written: “ ‘He will command his angels concerning you, and they will lift you up in their hands, so that you will not strike your foot against a stone.’”
+### 40008017 corrected:	This was to fulfill what was spoken through the prophet Isaiah: “He took up our infirmities and bore our diseases.”
+### 40010035 corrected:	For I have come to turn “ ‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law —
+### 40011010 corrected:	This is the one about whom it is written: “ ‘I will send my messenger ahead of you, who will prepare your way before you.’
+### 40013013 corrected:	This is why I speak to them in parables: “Though seeing, they do not see; though hearing, they do not hear or understand.
+### 40013035 corrected:	So was fulfilled what was spoken through the prophet: “I will open my mouth in parables, I will utter things hidden since the creation of the world.”
+### 40021009 corrected: The crowds that went ahead of him and those that followed shouted, “Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!”
+### 40026031 corrected: Then Jesus told them, “This very night you will all fall away on account of me, for it is written: “ ‘I will strike the shepherd, and the sheep of the flock will be scattered.’
+### 41001002 corrected: as it is written in Isaiah the prophet: “I will send my messenger ahead of you, who will prepare your way”  — 
+### 41004012 corrected:	so that, “ ‘they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven!’”
+### 41011009 corrected:	Those who went ahead and those who followed shouted, “Hosanna!” “Blessed is he who comes in the name of the Lord!”
+### 41012010 corrected: Havenʼt you read this passage of Scripture: “ ‘The stone the builders rejected has become the cornerstone;
+### 41012036 corrected:	David himself, speaking by the Holy Spirit, declared: “ ‘The Lord said to my Lord: “Sit at my right hand until I put your enemies under your feet.” ’
+### 41012027 corrected: “You will all fall away,” Jesus told them, “for it is written: “ ‘I will strike the shepherd, and the sheep will be scattered.’
+### 43012013 corrected:	They took palm branches and went out to meet him, shouting, “Hosanna!” “Blessed is he who comes in the name of the Lord!” “Blessed is the king of Israel!”
+### 43012015 corrected:	“Do not be afraid, Daughter Zion; see, your king is coming, seated on a donkeyʼs colt.”
+### 43012038 corrected:	This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message and to whom has the arm of the Lord been revealed?”
+### 43012040 corrected: “He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn — and I would heal them.”
+
+40003004	Johnʼs clothes were made of camelʼs hair, and he had a leather belt around his waist. His food was locusts and wild honey.
+40004007	Jesus answered him, “It is also written: ‘Do not put the Lord your God to the test.’”
+40008018	When Jesus saw the crowd around him, he gave orders to cross to the other side of the lake.
+40008019	Then a teacher of the law came to him and said, “Teacher, I will follow you wherever you go.”
+40008020	Jesus replied, “Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.”
+40010036	a manʼs enemies will be the members of his own household.’
+40011011	Truly I tell you, among those born of women there has not risen anyone greater than John the Baptist; yet whoever is least in the kingdom of heaven is greater than he.
+40013014	In them is fulfilled the prophecy of Isaiah: “ ‘You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
+40013036	Then he left the crowd and went into the house. His disciples came to him and said, “Explain to us the parable of the weeds in the field.”
+40013037	He answered, “The one who sowed the good seed is the Son of Man.
+40021010	When Jesus entered Jerusalem, the whole city was stirred and asked, “Who is this?”
+40026032	But after I have risen, I will go ahead of you into Galilee.”
+41001003	“a voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for him.’ ”
+41004013	Then Jesus said to them, “Donʼt you understand this parable? How then will you understand any parable?	
+41011010	“Blessed is the coming kingdom of our father David!” “Hosanna in the highest heaven!”
+41012011	the Lord has done this, and it is marvelous in our eyes’?”
+41012037	David himself calls him ‘Lord.’ How then can he be his son?” The large crowd listened to him with delight.
+41014028	But after I have risen, I will go ahead of you into Galilee.”
+43012014	Jesus found a young donkey and sat on it, as it is written:
+43012039	For this reason they could not believe, because, as Isaiah says elsewhere:
+45003005	
 45003011
 45008037
 45009016
