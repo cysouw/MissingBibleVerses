@@ -1,4 +1,4 @@
-### This version seems to have quite some issues, many incomplete verses.
+### This version seems to have quite some issues, many incomplete verses, missing parts after each line break.
 
 ### 40003004 corrected:	This is he who was spoken of through the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for him.’ ”
 ### 40004006 corrected: “If you are the Son of God,” he said, “throw yourself down. For it is written: “ ‘He will command his angels concerning you, and they will lift you up in their hands, so that you will not strike your foot against a stone.’”
@@ -33,14 +33,14 @@
 40021010	When Jesus entered Jerusalem, the whole city was stirred and asked, “Who is this?”
 40026032	But after I have risen, I will go ahead of you into Galilee.”
 41001003	“a voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for him.’ ”
-41004013	Then Jesus said to them, “Donʼt you understand this parable? How then will you understand any parable?	
+41004013	Then Jesus said to them, “Donʼt you understand this parable? How then will you understand any parable?
 41011010	“Blessed is the coming kingdom of our father David!” “Hosanna in the highest heaven!”
 41012011	the Lord has done this, and it is marvelous in our eyes’?”
 41012037	David himself calls him ‘Lord.’ How then can he be his son?” The large crowd listened to him with delight.
 41014028	But after I have risen, I will go ahead of you into Galilee.”
 43012014	Jesus found a young donkey and sat on it, as it is written:
 43012039	For this reason they could not believe, because, as Isaiah says elsewhere:
-45003005	
+45003005
 45003011
 45008037
 45009016
