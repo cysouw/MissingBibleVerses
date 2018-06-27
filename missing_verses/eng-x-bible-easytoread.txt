@@ -1,152 +1,165 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40006014
-40006015
-40009005
-40009006
-40010003
-40010004
-40011018
-40011019
-40013016
-40013017
-40022045
-40026032
-40027010
-41002009
-41002010
-41003017
-41003018
-41003019
-41005007
-41005008
-41007008
-41012037
-41014028
-42001026
-42001027
-42003002
-42003003
-42003004
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
-42004011
-42004025
-42004026
-42005008
-42005009
-42005023
-42005024
-42006014
-42006015
-42006016
-42007028
-42007033
-42007034
-42007035
-42008028
-42008029
-42008041
-42008042
-42011005
-42011006
-42020018
-42020044
-42022039
-42022040
-42023050
-42023051
-42024047
-42024048
-43001032
-43001033
-43001034
-43012039
-43012041
-44001016
-44001017
-44001021
-44001022
-44001024
-44001025
-44002032
-44002033
-44002034
-44003009
-44003010
-44004012
-44004021
-44004022
-44004027
-44004028
-44004029
-44004030
-44005005
-44005006
-44008001
-44008002
-44008003
-44011023
-44011024
-44013034
-44013035
-44013036
-44013037
-44013038
-44013039
-44013040
-44015021
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44019013
-44019014
-44020037
-44020038
-44021035
-44021036
-44023026
-44023027
-44023028
-44023029
-44023030
-44024002
-44024003
-44024006
-44024008
-44024017
-44024018
-44028010
-44028011
+### 40010002 corrected:	These are the names of the twelve apostles: Simon (also called Peter), Andrew, the brother of Peter, James, the son of Zebedee, John, the brother of James,
+### 40027009 corrected:	This showed the full meaning of what Jeremiah the prophet said: “They took 30 silver coins. That was how much the people of Israel decided to pay for his life.
+### 41003016 corrected: These are the names of the twelve men Jesus chose: Simon (the one Jesus named Peter),
+### 42003001 corrected: It was the 15th year of the rule of Tiberius Caesar. These men were under Caesar: Pontius Pilate, the governor of Judea; Herod, the ruler of Galilee; Philip, Herod’s brother, the ruler of Iturea and Trachonitis; Lysanias, the ruler of Abilene.
+### 42003023 corrected: When Jesus began to teach, he was about 30 years old. People thought that Jesus was Joseph’s son. Joseph was the son of Eli.
+### 44001020 corrected: Peter said, “In the book of Psalms, this is written about Judas: ‘People should not go near his land; no one should live there.’ And it is also written: ‘Let another man have his work.’ 
+### 44002031 corrected: David knew this before it happened. That is why he said this about that future king: ‘He was not left in the place of death. His body did not rot in the grave.’ David was talking about the Messiah rising from death.
+### 44013033 corrected: We are their descendants, and God has made this promise come true for us. God did this by raising Jesus from death. We also read about this in Psalm 2: ‘You are my Son. Today I have become your Father.’
+### 44015020 corrected: Instead, we should send a letter telling them only the things they should not do: Don’t eat food that has been given to idols. This makes the food unclean. Don’t be involved in sexual sin. Don’t eat meat from animals that have been strangled or any meat that still has the blood in it.
+### 44015023 corrected:	The group sent the letter with these men. The letter said: From the apostles and elders, your brothers, To all the non-Jewish brothers in the city of Antioch and in the countries of Syria and Cilicia. Dear Brothers:
+### 44021025 corrected: “In regard to the non-Jewish believers, we have already sent a letter to them saying what we think they should do: ‘Don’t eat food that has been given to idols. Don’t eat meat from animals that have been strangled or any meat that still has the blood in it. Don’t be involved in sexual sin.’”
+
+
+40001002	Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and his brothers.
+40001003	Judah was the father of Perez and Zerah. (Their mother was Tamar.) Perez was the father of Hezron. Hezron was the father of Ram.
+40001004	Ram was the father of Amminadab. Amminadab was the father of Nahshon. Nahshon was the father of Salmon.
+40001005	Salmon was the father of Boaz. (His mother was Rahab.) Boaz was the father of Obed. (His mother was Ruth.) Obed was the father of Jesse.
+40001006	Jesse was the father of King David. David was the father of Solomon. (His mother had been Uriah’s wife.)
+40001007	Solomon was the father of Rehoboam. Rehoboam was the father of Abijah. Abijah was the father of Asa.
+40001008	Asa was the father of Jehoshaphat. Jehoshaphat was the father of Jehoram. Jehoram was the father of Uzziah.
+40001009	Uzziah was the father of Jotham. Jotham was the father of Ahaz. Ahaz was the father of Hezekiah.
+40001010	Hezekiah was the father of Manasseh. Manasseh was the father of Amon. Amon was the father of Josiah.
+40001011	Josiah was the grandfather of Jehoiachin and his brothers, who lived during the time that the people were taken away to Babylon.
+40001012	After they were taken to Babylon: Jehoiachin was the father of Shealtiel. Shealtiel was the grandfather of Zerubbabel.
+40001013	Zerubbabel was the father of Abiud. Abiud was the father of Eliakim. Eliakim was the father of Azor.
+40001014	Azor was the father of Zadok. Zadok was the father of Achim. Achim was the father of Eliud.
+40001015	Eliud was the father of Eleazar. Eleazar was the father of Matthan. Matthan was the father of Jacob.
+40001016	Jacob was the father of Joseph. Joseph was the husband of Mary, and Mary was the mother of Jesus, who is called the Messiah.
+40006014	Yes, if you forgive others for the wrongs they do to you, then your Father in heaven will also forgive your wrongs.
+40006015	But if you don’t forgive others, then your Father in heaven will not forgive the wrongs you do.
+40009005	The Son of Man has power on earth to forgive sins. But how can I prove this to you? Maybe you are thinking it was easy for me to say, ‘Your sins are forgiven.’ There’s no proof that it really happened. But what if I say to the man, ‘Stand up and walk’? Then you will be able to see that I really have this power.” So Jesus said to the paralyzed man, “Stand up. Take your mat and go home.”
+40009006	
+40010003	Philip, Bartholomew, Thomas, Matthew, the tax collector, James, the son of Alphaeus, Thaddaeus,
+40010004	Simon, the Zealot, Judas Iscariot (the one who handed Jesus over to his enemies).
+40011018	Why do I say people are like that? Because John came, not eating like other people or drinking wine, and people say, ‘He has a demon inside him.’
+40011019	The Son of Man came eating and drinking, and people say, ‘Look at him! He eats too much and drinks too much wine. He’s a friend of tax collectors and other sinners.’ But wisdom is shown to be right by what it does.”
+40013016	But God has blessed you. You understand what you see with your eyes. And you understand what you hear with your ears.
+40013017	I can assure you, many prophets and godly people wanted to see what you now see. But they did not see it. And many prophets and godly people wanted to hear what you now hear. But they did not hear it.
+40022045	David calls the Messiah ‘Lord.’ So how can he be David’s son?”
+40026032	But after I am killed, I will rise from death. Then I will go into Galilee. I will be there before you go there.”
+40027010	They used those 30 silver coins to buy the potter’s field, as the Lord commanded me.”
+41002009	The Son of Man has power on earth to forgive sins. But how can I prove this to you? Maybe you are thinking it was easy for me to say to the crippled man, ‘Your sins are forgiven.’ There’s no proof it really happened. But what if I say to the man, ‘Stand up. Take your mat and walk’? Then you will be able to see if I really have this power or not.” So Jesus said to the paralyzed man,
+41002010	
+41003017	James and his brother John, the sons of Zebedee (the ones Jesus named Boanerges, which means “Sons of Thunder”),
+41003018	Andrew, Philip, Bartholomew, Matthew, Thomas, James, the son of Alphaeus, Thaddaeus, Simon, the Zealot,
+41003019	Judas Iscariot (the one who handed Jesus over to his enemies).
+41005007	As Jesus was saying, “You evil spirit, come out of this man,” the man shouted loudly, “What do you want with me, Jesus, Son of the Most High God? I beg you in God’s name not to punish me!”
+41005008	
+41007008	You have stopped following God’s commands, preferring instead the man-made rules you got from others.”
+41012037	David himself calls the Messiah ‘Lord.’ So how can the Messiah be David’s son?” Many people listened to Jesus and were very pleased.
+41014028	But after I am killed, I will rise from death. Then I will go to Galilee. I will be there before you come.”
+42001026	During Elizabeth’s sixth month of pregnancy, God sent the angel Gabriel to a virgin girl who lived in Nazareth, a town in Galilee. She was engaged to marry a man named Joseph from the family of David. Her name was Mary.
+42001027	
+42003002	Annas and Caiaphas were the high priests. During this time, John, the son of Zechariah, was living in the desert, and he received a message from God.
+42003003	So he went through the whole area around the Jordan River and told the people God’s message. He told them to be baptized to show that they wanted to change their lives, and then their sins would be forgiven.
+42003004	This is like the words written in the book of Isaiah the prophet: “There is someone shouting in the desert: ‘Prepare the way for the Lord. Make the road straight for him.
+42003024	Eli was the son of Matthat. Matthat was the son of Levi. Levi was the son of Melchi. Melchi was the son of Jannai. Jannai was the son of Joseph.
+42003025	Joseph was the son of Mattathias. Mattathias was the son of Amos. Amos was the son of Nahum. Nahum was the son of Esli. Esli was the son of Naggai.
+42003026	Naggai was the son of Maath. Maath was the son of Mattathias. Mattathias was the son of Semein. Semein was the son of Josech. Josech was the son of Joda.
+42003027	Joda was the son of Joanan. Joanan was the son of Rhesa. Rhesa was the son of Zerubbabel. Zerubbabel was the son of Shealtiel. Shealtiel was the son of Neri.
+42003028	Neri was the son of Melchi. Melchi was the son of Addi. Addi was the son of Cosam. Cosam was the son of Elmadam. Elmadam was the son of Er.
+42003029	Er was the son of Joshua. Joshua was the son of Eliezer. Eliezer was the son of Jorim. Jorim was the son of Matthat. Matthat was the son of Levi.
+42003030	Levi was the son of Simeon. Simeon was the son of Judah. Judah was the son of Joseph. Joseph was the son of Jonam. Jonam was the son of Eliakim.
+42003031	Eliakim was the son of Melea. Melea was the son of Menna. Menna was the son of Mattatha. Mattatha was the son of Nathan. Nathan was the son of David.
+42003032	David was the son of Jesse. Jesse was the son of Obed. Obed was the son of Boaz. Boaz was the son of Salmon. Salmon was the son of Nahshon.
+42003033	Nahshon was the son of Amminadab. Amminadab was the son of Admin. Admin was the son of Arni. Arni was the son of Hezron. Hezron was the son of Perez. Perez was the son of Judah.
+42003034	Judah was the son of Jacob. Jacob was the son of Isaac. Isaac was the son of Abraham. Abraham was the son of Terah. Terah was the son of Nahor.
+42003035	Nahor was the son of Serug. Serug was the son of Reu. Reu was the son of Peleg. Peleg was the son of Eber. Eber was the son of Shelah.
+42003036	Shelah was the son of Cainan. Cainan was the son of Arphaxad. Arphaxad was the son of Shem. Shem was the son of Noah. Noah was the son of Lamech.
+42003037	Lamech was the son of Methuselah. Methuselah was the son of Enoch. Enoch was the son of Jared. Jared was the son of Mahalaleel. Mahalaleel was the son of Cainan.
+42003038	Cainan was the son of Enos. Enos was the son of Seth. Seth was the son of Adam. Adam was the son of God.
+42004011	It is also written, ‘Their hands will catch you so that you will not hit your foot on a rock.’”
+42004025	“During the time of Elijah it did not rain in Israel for three and a half years. There was no food anywhere in the whole country. There were many widows in Israel during that time. But the fact is, Elijah was sent to none of those widows in Israel. He was sent only to a widow in Zarephath, a town in Sidon.
+42004026	
+42005008	The fishermen were all amazed at the many fish they caught. When Simon Peter saw this, he bowed down before Jesus and said, “Go away from me, Lord. I am a sinful man!”
+42005009	
+42005023	The Son of Man has power on earth to forgive sins. But how can I prove this to you? Maybe you are thinking it was easy for me to say, ‘Your sins are forgiven.’ There’s no proof that it really happened. But what if I say to the man, ‘Stand up and walk’? Then you will be able to see that I really have this power.” So Jesus said to the paralyzed man, “I tell you, stand up! Take your mat and go home!”
+42005024	
+42006014	Simon (Jesus named him Peter), Andrew, brother of Peter, James, John, Philip, Bartholomew,
+42006015	Matthew, Thomas, James, the son of Alphaeus, Simon, called the Zealot,
+42006016	Judas, the son of James, Judas Iscariot (the one who turned against Jesus).
+42007028	I tell you, no one ever born is greater than John. But even the least important person in God’s kingdom is greater than John.”
+42007033	John the Baptizer came and did not eat the usual food or drink wine. And you say, ‘He has a demon inside him.’
+42007034	The Son of Man came eating and drinking. And you say, ‘Look at him! He eats too much and drinks too much wine! He is a friend of tax collectors and other sinners!’
+42007035	But wisdom is shown to be right by those who accept it.”
+42008028	The demon inside the man had often seized him, and he had been put in jail with his hands and feet in chains. But he would always break the chains. The demon inside him would force him to go out to the places where no one lived. Jesus commanded the evil spirit to come out of the man. When the man saw Jesus, he fell down before him, shouting loudly, “What do you want with me, Jesus, Son of the Most High God? Please, don’t punish me!”
+42008029	
+42008041	A man named Jairus came to him. He was a leader of the synagogue. He had only one daughter. She was twelve years old, and she was dying. So Jairus bowed down at the feet of Jesus and begged him to come to his house. While Jesus was going to Jairus’ house, the people crowded all around him.
+42008042	
+42011005	Then Jesus said to them, “Suppose one of you went to your friend’s house very late at night and said to him, ‘A friend of mine has come into town to visit me. But I have nothing for him to eat. Please give me three loaves of bread.’
+42011006	
+42020018	Everyone who falls on that stone will be broken. If that stone falls on you, it will crush you!”
+42020044	David calls the Messiah ‘Lord.’ So how can the Messiah also be David’s son?”
+42022039	Jesus left the city and went to the Mount of Olives. His followers went with him. (He went there often.) He said to his followers, “Pray for strength against temptation.”
+42022040	
+42023050	A man named Joseph was there from the Jewish town of Arimathea. He was a good man, who lived the way God wanted. He was waiting for God’s kingdom to come. Joseph was a member of the Jewish council. But he did not agree when the other Jewish leaders decided to kill Jesus.
+42023051	
+42024047	You saw these things happen—you are witnesses. You must go and tell people that they must change and turn to God, which will bring them his forgiveness. You must start from Jerusalem and tell this message in my name to the people of all nations.
+42024048	
+43001032	Then John said this for everyone to hear: “I also did not know who the Messiah was. But the one who sent me to baptize with water told me, ‘You will see the Spirit come down and rest on a man. He is the one who will baptize with the Holy Spirit.’ I have seen this happen. I saw the Spirit come down from heaven like a dove and rest on this man. So this is what I tell people: ‘He is the Son of God.’”
+43001033	
+43001034	
+43012039	This is why the people could not believe. Because Isaiah also said,
+43012041	Isaiah said this because he saw Jesus’ divine greatness. So he spoke about him.
+44001016	“Brothers and sisters, in the Scriptures the Holy Spirit said through David that something must happen. He was talking about Judas, one of our own group. Judas served together with us. The Spirit said that Judas would lead men to arrest Jesus.”
+44001017	
+44001021	“So now another man must join us and be a witness of Jesus’ resurrection. He must be one of those men who were part of our group during all the time the Lord Jesus was with us. He must have been with us from the time John was baptizing people until the day when Jesus was carried up from us into heaven.”
+44001022	
+44001024	They prayed, “Lord, you know the minds of all people. Show us which one of these two men you choose to do this work. Judas turned away from it and went where he belongs. Lord, show us which man should take his place as an apostle!”
+44001025	
+44002032	So Jesus is the one God raised from death. We are all witnesses of this. We saw him.
+44002033	Jesus was lifted up to heaven. Now he is with God, at God’s right side. The Father has given the Holy Spirit to him, as he promised. So Jesus has now poured out that Spirit. This is what you see and hear.
+44002034	David was not the one who was lifted up to heaven. David himself said, ‘The Lord God said to my Lord: Sit at my right side,
+44003009	All the people recognized him. They knew he was the crippled man who always sat by the Beautiful Gate to beg for money. Now they saw this same man walking and praising God. They were amazed. They did not understand how this could happen.
+44003010	
+44004012	Jesus is the only one who can save people. His name is the only power in the world that has been given to save anyone. We must be saved through him!”
+44004021	The Jewish leaders could not find a way to punish the apostles, because all the people were praising God for what had been done. This miracle was a sign from God. The man who was healed was more than 40 years old. So the Jewish leaders warned the apostles again and let them go free.
+44004022	
+44004027	That’s what actually happened when Herod, Pontius Pilate, the other nations, and the people of Israel all came together against Jesus here in Jerusalem. He is your holy Servant, the one you made to be the Messiah.
+44004028	These people who came together against Jesus made your plan happen. It was done because of your power and your will.
+44004029	And now, Lord, listen to what they are saying. They are trying to make us afraid. We are your servants. Help us to say what you want us to say without fear.
+44004030	Help us to be brave by showing us your power. Make sick people well. Cause miraculous signs and wonders to happen by the authority of Jesus, your holy servant.”
+44005005	When Ananias heard this, he fell down and died. Some young men came and wrapped his body. They carried it out and buried it. And everyone who heard about this was filled with fear.
+44005006	
+44008001	Saul agreed that the killing of Stephen was a good thing. Some godly men buried Stephen and cried loudly for him. On that day the Jews began to persecute the church in Jerusalem, making them suffer very much. Saul was also trying to destroy the group. He went into their houses, dragged out men and women, and put them in jail. All the believers left Jerusalem. Only the apostles stayed. The believers went to different places in Judea and Samaria.
+44008002	
+44008003	
+44011023	Barnabas was a good man, full of the Holy Spirit and faith. When he went to Antioch and saw how God had blessed the believers there, he was very happy. He encouraged them all, saying, “Always be faithful to the Lord. Serve him with all your heart.” Many more people became followers of the Lord.
+44011024	
+44013034	God raised Jesus from death. Jesus will never go back to the grave and become dust. So God said, ‘I will give you the true and holy promises that I made to David.’
+44013035	But in another Psalm it says, ‘You will not let your Holy One rot in the grave.’
+44013036	“David did God’s will during the time he lived. Then he died and was buried like all his ancestors. And his body did rot in the grave!
+44013037	But the one God raised from death did not rot in the grave.
+44013038	Brothers, understand what we are telling you. You can have forgiveness of your sins through this Jesus. The Law of Moses could not free you from your sins. But you can be made right with God if you believe in Jesus.
+44013039	
+44013040	So be careful! Don’t let what the prophets said happen to you:
+44015021	They should not do any of these things, because there are still men in every city who teach the Law of Moses. The words of Moses have been read in the synagogue every Sabbath day for many years.”
+44015024	We have heard that some men have come to you from our group. What they said troubled and upset you. But we did not tell them to do this.
+44015025	We have all agreed to choose some men and send them to you. They will be with our dear friends, Barnabas and Paul.
+44015026	Barnabas and Paul have given their lives to serve our Lord Jesus Christ.
+44015027	So we have sent Judas and Silas with them. They will tell you the same things.
+44015028	We agree with the Holy Spirit that you should have no more burdens, except for these necessary things:
+44015029	Don’t eat food that has been given to idols. Don’t eat meat from animals that have been strangled or any meat that still has the blood in it. Don’t be involved in sexual sin. If you stay away from these, you will do well. We say goodbye now.
+44019013	Some Jews also were traveling around forcing evil spirits out of people. The seven sons of Sceva, one of the leading priests, were doing this. These Jews tried to use the name of the Lord Jesus to make the evil spirits go out of people. They all said, “By the same Jesus that Paul talks about, I order you to come out!”
+44019014	
+44020037	They cried and cried. They were especially sad because Paul had said they would never see him again. They hugged him and kissed him. Then they went with him to the ship to say goodbye.
+44020038	
+44021035	The whole crowd was following them. When the soldiers came to the steps, they had to carry Paul. They did this to protect him, because the people were ready to hurt him. The people were shouting, “Kill him!”
+44021036	
+44023026	From Claudius Lysias, To the Most Honorable Governor Felix. Greetings:
+44023027	Some Jews had taken this man and planned to kill him. But I learned that he is a Roman citizen, so I went with my soldiers and saved him.
+44023028	I wanted to know why they were accusing him. So I brought him before their council meeting.
+44023029	This is what I learned: The Jews said this man did some things that were wrong. But these charges were about their own Jewish laws, and there was nothing worthy of jail or death.
+44023030	I was told that some of the Jews were making a plan to kill him. So I decided to send him to you. I also told those Jews to tell you what they have against him.
+44024002	Paul was called into the meeting, and Tertullus began to make his accusations. Tertullus said, “Most Honorable Felix, our people enjoy much peace because of you, and many wrong things in our country are being made right through your wise help. For this we all continue to be very thankful.
+44024003	
+44024006	Also, he was trying to make the Temple unclean, but we stopped him. You can decide if all this is true. Ask him some questions yourself.”
+44024008	
+44024017	“I was away from Jerusalem for many years. I went back there to take money to help my people. I also had some gifts to offer at the Temple. I was doing this when some Jews saw me there. I had finished the cleansing ceremony. I had not made any trouble, and no one was gathering around me.
+44024018	
+44028010	The people on the island gave us many honors. And after we had been there three months and were ready to leave, they provided us everything we needed for our trip. We got on a ship from Alexandria that had stayed on the island of Malta during the winter. On the front of the ship was the sign for the twin gods.
+44028011	
 45001003
 45001004
 45001009
