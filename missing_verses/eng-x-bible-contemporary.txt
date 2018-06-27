@@ -1,200 +1,212 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40003008
-40003009
-40003010
-40003011
-40003012
-40005011
-40005012
-40005013
-40005014
-40005015
-40005016
-40005017
-40005018
-40005019
-40005020
-40005021
-40005022
-40005023
-40005024
-40005025
-40005026
-40005027
-40005028
-40005029
-40005030
-40005031
-40005032
-40005033
-40005034
-40005035
-40005036
-40005037
-40005038
-40005039
-40005040
-40005041
-40005042
-40005043
-40005044
-40005045
-40005046
-40005047
-40005048
-40006001
-40006002
-40006003
-40006004
-40006005
-40006006
-40006007
-40006008
-40006009
-40006014
-40006015
-40006016
-40006017
-40006018
-40006019
-40006020
-40006021
-40006022
-40006023
-40006024
-40006025
-40006026
-40006027
-40006028
-40006029
-40006030
-40006031
-40006032
-40006033
-40006034
-40007001
-40007002
-40007003
-40007004
-40007005
-40007006
-40007007
-40007008
-40007009
-40007010
-40007011
-40007012
-40007013
-40007014
-40007015
-40007016
-40007017
-40007018
-40007019
-40007020
-40007021
-40007022
-40007023
-40007024
-40007025
-40007026
-40007027
-40009016
-40009017
-40010006
-40010007
-40010008
-40010009
-40010010
-40010011
-40010012
-40010013
-40010014
-40010015
-40010016
-40010017
-40010018
-40010019
-40010020
-40010021
-40010022
-40010023
-40010024
-40010025
-40010026
-40010027
-40010028
-40010029
-40010030
-40010031
-40010032
-40010033
-40010034
-40010035
-40010036
-40010037
-40010038
-40010039
-40010040
-40010041
-40010042
-40011008
-40011009
-40011010
-40011011
-40011012
-40011013
-40011014
-40011015
-40011016
-40011018
-40011019
-40011021
-40011022
-40011023
-40011024
-40011026
-40011027
-40011028
-40011029
-40011030
-40012004
-40012005
-40012006
-40012007
-40012008
-40012026
-40012027
-40012028
-40012029
-40012030
-40012031
-40012032
-40012033
-40012034
-40012035
-40012036
-40012037
-40012040
-40012041
-40012042
-40012043
-40012044
-40012045
+### 1700 missing phrases
+### 40003007 corrected: Many Pharisees and Sadducees also came to be baptized. But John said to them: You bunch of snakes! Who warned you to run from the coming judgment?
+### 40009015 corrected: Jesus answered: The friends of a bridegroom aren't sad while he is still with them. But the time will come when he will be taken from them. Then they will go without eating.
+### 40010005 corrected: Jesus sent out the twelve apostles with these instructions: Stay away from the Gentiles and don't go to any Samaritan town.
+### 40011007 corrected: As John's followers were going away, Jesus spoke to the crowds about John: What sort of person did you go out into the desert to see? Was he like tall grass blown about by the wind?
+### 40012003 corrected: Jesus answered: You surely must have read what David did when he and his followers were hungry.
+### 40012025 corrected: Jesus knew what they were thinking, so he said to them: Any kingdom where people fight each other will end up ruined. And a town or family that fights will soon destroy itself.
+### 40012039 corrected: But Jesus replied: You want a sign because you are evil and won't believe! But the only sign you will get is the sign of the prophet Jonah.
+
+40001002	From Abraham to King David, his ancestors were: Abraham, Isaac, Jacob, Judah and his brothers (Judah's sons were Perez and Zerah, and their mother was Tamar), Hezron; Ram, Amminadab, Nahshon, Salmon, Boaz (his mother was Rahab), Obed (his mother was Ruth), Jesse, and King David.
+40001003	
+40001004	
+40001005	
+40001006	From David to the time of the exile in Babylonia, the ancestors of Jesus were: David, Solomon (his mother had been Uriah's wife), Rehoboam, Abijah, Asa, Jehoshaphat, Jehoram; Uzziah, Jotham, Ahaz, Hezekiah, Manasseh, Amon, Josiah, and Jehoiachin and his brothers.
+40001007	
+40001008	
+40001009	
+40001010	
+40001011	
+40001012	From the exile to the birth of Jesus, his ancestors were: Jehoiachin, Shealtiel, Zerubbabel, Abiud, Eliakim, Azor, Zadok, Achim; Eliud, Eleazar, Matthan, Jacob, and Joseph, the husband of Mary, the mother of Jesus, who is called the Messiah.
+40001013	
+40001014	
+40001015	
+40001016	
+40003008	Do something to show you have really given up your sins.
+40003009	And don't start telling yourselves that you belong to Abraham's family. I tell you that God can turn these stones into children for Abraham.
+40003010	An ax is ready to cut the trees down at their roots. Any tree that doesn't produce good fruit will be chopped down and thrown into a fire.
+40003011	I baptize you with water so you will give up your sins. But someone more powerful is going to come, and I am not good enough even to carry his sandals. He will baptize you with the Holy Spirit and with fire.
+40003012	His threshing fork is in his hand, and he is ready to separate the wheat from the husks. He will store the wheat in a barn and burn the husks in a fire that never goes out.
+40005011	God will bless you when people insult you, mistreat you, and tell all kinds of evil lies about you because of me. 
+40005012	Be happy and excited! You will have a great reward in heaven. People did these same things to the prophets who lived long ago.
+40005013	You are the salt for everyone on earth. But if salt no longer tastes like salt, how can it make food salty? All it is good for is to be thrown out and walked on.
+40005014	You are the light for the whole world. A city built on top of a hill cannot be hidden, 
+40005015	and no one lights a lamp and puts it under a clay pot. Instead, it is placed on a lampstand, where it can give light to everyone in the house. 
+40005016	Make your light shine, so others will see the good you do and will praise your Father in heaven.
+40005017	Don't suppose I came to do away with the Law and the Prophets. I did not come to do away with them, but to give them their full meaning. 
+40005018	Heaven and earth may disappear. But I promise you not even a period or comma will ever disappear from the Law. Everything written in it must happen.
+40005019	If you reject even the least important command in the Law and teach others to do the same, you will be the least important person in the kingdom of heaven. But if you obey and teach others its commands, you will have an important place in the kingdom. 
+40005020	You must obey God's commands better than the Pharisees and the teachers of the Law obey them. If you don't, I promise you will never get into the kingdom of heaven.
+40005021	You know our ancestors were told, “Do not murder” and “A murderer must be brought to trial.” 
+40005022	But I promise you if you are angry with someone, you will have to stand trial. If you call someone a fool, you will be taken to court. And if you say that someone is worthless, you will be in danger of the fires of hell.
+40005023	So if you are about to place your gift on the altar and remember that someone is angry with you, 
+40005024	leave your gift there in front of the altar. Make peace with that person, then come back and offer your gift to God.
+40005025	Before you are dragged into court, make friends with the person who has accused you of doing wrong. If you don't, you will be handed over to the judge and then to the officer who will put you in jail. 
+40005026	I promise you will not get out until you have paid the last cent you owe.
+40005027	You know the commandment which says, “Be faithful in marriage.” 
+40005028	But I tell you if you look at another woman and want her, you are already unfaithful in your thoughts. 
+40005029	If your right eye causes you to sin, poke it out and throw it away. It is better to lose one part of your body, than for your whole body to end up in hell. 
+40005030	If your right hand causes you to sin, chop it off and throw it away! It is better to lose one part of your body, than for your whole body to be thrown into hell.
+40005031	You have been taught that a man who divorces his wife must write out divorce papers for her. 
+40005032	But I tell you not to divorce your wife unless she has committed some terrible sexual sin. If you divorce her, you will cause her to be unfaithful, just as any man who marries her is guilty of taking another man's wife.
+40005033	You know our ancestors were told, “Don't use the Lord's name to make a promise unless you are going to keep it.” 
+40005034	But I tell you not to swear by anything when you make a promise! Heaven is God's throne, so don't swear by heaven. 
+40005035	The earth is God's footstool, so don't swear by the earth. Jerusalem is the city of the great king, so don't swear by it. 
+40005036	Don't swear by your own head. You cannot make one hair white or black. 
+40005037	When you make a promise, say only “Yes” or “No.” Anything else comes from the devil.
+40005038	You know you have been taught, “An eye for an eye and a tooth for a tooth.” 
+40005039	But I tell you not to try to get even with a person who has done something to you. When someone slaps your right cheek, turn and let that person slap your other cheek. 
+40005040	If someone sues you for your shirt, give up your coat as well. 
+40005041	If a soldier forces you to carry his pack one kilometer, carry it two kilometers. 
+40005042	When people ask you for something, give it to them. When they want to borrow money, lend it to them.
+40005043	You have heard people say, “Love your neighbors and hate your enemies.” 
+40005044	But I tell you to love your enemies and pray for anyone who mistreats you. 
+40005045	Then you will be acting like your Father in heaven. He makes the sun rise on both good and bad people. And he sends rain for the ones who do right and for the ones who do wrong. 
+40005046	If you love only those people who love you, will God reward you for this? Even tax collectors love their friends. 
+40005047	If you greet only your friends, what's so great about this? Don't even unbelievers do that? 
+40005048	But you must always act like your Father in heaven.
+40006001	When you do good deeds, don't try to show off. If you do, you won't get a reward from your Father in heaven.
+40006002	When you give to the poor, don't blow a loud horn. That's what show-offs do in the synagogues and on the street corners, because they are always looking for praise. I can assure you that they already have their reward.
+40006003	When you give to the poor, don't let anyone know about it. 
+40006004	Then your gift will be given in secret. Your Father knows what is done in secret and will reward you.
+40006005	When you pray, don't be like those show-offs who love to stand up and pray in the synagogues and on the street corners. They do this just to look good. I can assure you that they already have their reward.
+40006006	When you pray, go into a room alone and close the door. Pray to your Father in private. He knows what is done in private and will reward you.
+40006007	When you pray, don't talk on and on as people do who don't know God. They think God likes to hear long prayers. 
+40006008	Don't be like them. Your Father knows what you need even before you ask.
+40006009	You should pray like this: Our Father in heaven, help us to honor your name.
+40006014	If you forgive others for the wrongs they do to you, your Father in heaven will forgive you.
+40006015	But if you don't forgive others, your Father will not forgive your sins.
+40006016	When you go without eating, don't try to look gloomy as those show-offs do when they go without eating. I can assure you that they already have their reward.
+40006017	Instead, comb your hair and wash your face.
+40006018	Then others won't know you are going without eating. But your Father sees what is done in private, and he will reward you.
+40006019	Don't store up treasures on earth! Moths and rust can destroy them, and thieves can break in and steal them.
+40006020	Instead, store up your treasures in heaven, where moths and rust cannot destroy them, and thieves cannot break in and steal them.
+40006021	Your heart will always be where your treasure is.
+40006022	Your eyes are a window for your body. When they are good, you have all the light you need.
+40006023	But when your eyes are bad, everything is dark. If the light inside you is dark, you surely are in the dark.
+40006024	You cannot be the slave of two masters! You will like one more than the other or be more loyal to one than the other. You cannot serve both God and money.
+40006025	I tell you not to worry about your life. Don't worry about having something to eat, drink, or wear. Isn't life more than food or clothing?
+40006026	Look at the birds in the sky! They don't plant or harvest. They don't even store grain in barns. Yet your Father in heaven takes care of them. Aren't you worth much more than birds?
+40006027	Can worry make you live longer?
+40006028	Why worry about clothes? Look how the wild flowers grow. They don't work hard to make their clothes.
+40006029	But I tell you that Solomon with all his wealth wasn't as well clothed as one of them.
+40006030	God gives such beauty to everything that grows in the fields, even though it is here today and thrown into a fire tomorrow. God will surely do even more for you! Why do you have such little faith?
+40006031	Don't worry and ask yourselves, “Will we have anything to eat? Will we have anything to drink? Will we have any clothes to wear?”
+40006032	Only people who don't know God are always worrying about such things. Your Father in heaven knows you need all of these.
+40006033	But more than anything else, put God's work first and do what he wants. Then the other things will be yours as well.
+40006034	Don't worry about tomorrow. It will take care of itself. You have enough to worry about today.
+40007001	Don't condemn others, and God won't condemn you.
+40007002	God will be as hard on you as you are on others! He will treat you exactly as you treat them.
+40007003	You can see the speck in your friend's eye, but you don't notice the log in your own eye.
+40007004	How can you say, “My friend, let me take the speck out of your eye,” when you don't see the log in your own eye?
+40007005	You're nothing but show-offs! First, take the log out of your own eye; then you can see how to take the speck out of your friend's eye.
+40007006	Don't give to dogs what belongs to God. They will only turn and attack you. Don't throw pearls down in front of pigs. They will trample all over them.
+40007007	Ask, and you will receive. Search, and you will find. Knock, and the door will be opened for you.
+40007008	Everyone who asks will receive. Everyone who searches will find. And the door will be opened for everyone who knocks.
+40007009	Would any of you give your hungry child a stone, if the child asked for some bread?
+40007010	Would you give your child a snake if the child asked for a fish?
+40007011	As bad as you are, you still know how to give good gifts to your children. But your heavenly Father is even more ready to give good things to people who ask.
+40007012	Treat others as you want them to treat you. This is what the Law and the Prophets are all about.
+40007013	Go in through the narrow gate. The gate to destruction is wide, and the road that leads there is easy to follow. A lot of people go through that gate.
+40007014	But the gate to life is very narrow. The road that leads there is so hard to follow that only a few people find it.
+40007015	Watch out for false prophets! They dress up like sheep, but inside they are wolves who have come to attack you.
+40007016	You can tell what they are by what they do. No one picks grapes or figs from thornbushes.
+40007017	A good tree produces good fruit, and a bad tree produces bad fruit.
+40007018	A good tree cannot produce bad fruit, and a bad tree cannot produce good fruit.
+40007019	Every tree producing bad fruit will be chopped down and burned.
+40007020	You can tell who the false prophets are by their deeds.
+40007021	Not everyone who calls me their Lord will get into the kingdom of heaven. Only the ones who obey my Father in heaven will get in.
+40007022	On the day of judgment many will call me their Lord. They will say, “We preached in your name, and in your name we forced out demons and worked many miracles.”
+40007023	But I will tell them, “I will have nothing to do with you! Get out of my sight, you evil people!”
+40007024	Anyone who hears and obeys these teachings of mine is like a wise person who built a house on solid rock.
+40007025	Rain poured down, rivers flooded, and winds beat against that house. But it was built on solid rock, and so it did not fall.
+40007026	Anyone who hears my teachings and doesn't obey them is like a foolish person who built a house on sand.
+40007027	Rain poured down, rivers flooded, and the winds blew and beat against that house. Finally, it fell with a crash.at against that house. Finally, it fell with a crash.
+40009016	No one uses a new piece of cloth to patch old clothes. The patch would shrink and tear a bigger hole.
+40009017	No one pours new wine into old wineskins. The wine would swell and burst the old skins. Then the wine would be lost, and the skins would be ruined. New wine must be put into new wineskins. Both the skins and the wine will then be safe.
+40010006	Go only to the people of Israel, because they are like a flock of lost sheep.
+40010007	As you go, announce that the kingdom of heaven will soon be here.
+40010008	Heal the sick, raise the dead to life, heal people who have leprosy, and force out demons. You received without paying, now give without being paid.
+40010009	Don't take along any gold, silver, or copper coins.
+40010010	And don't carry a traveling bag or an extra shirt or sandals or a walking stick. Workers deserve their food.
+40010011	So when you go to a town or a village, find someone able and willing to have you as their guest and stay with them until you leave.
+40010012	When you go to a home, give it your blessing of peace.
+40010013	If the home is deserving, let your blessing remain with them. But if the home doesn't accept you, take back your blessing of peace.
+40010014	If someone won't welcome you or listen to your message, leave their home or town. And shake the dust from your feet at them.
+40010015	I promise you the day of judgment will be easier for the towns of Sodom and Gomorrah than for that town.
+40010016	I am sending you like lambs into a pack of wolves. So be as wise as snakes and as innocent as doves.
+40010017	Watch out for people who will take you to court and have you beaten in their synagogues.
+40010018	Because of me, you will be dragged before rulers and kings to tell them and the Gentiles about your faith.
+40010019	But when someone arrests you, don't worry about what you will say or how you will say it. At that time you will be given the words to say.
+40010020	But you will not really be the one speaking. The Spirit from your Father will tell you what to say.
+40010021	Brothers and sisters will betray one another and have each other put to death. Parents will betray their own children, and children will turn against their parents and have them killed.
+40010022	Everyone will hate you because of me. But if you remain faithful until the end, you will be saved.
+40010023	When people mistreat you in one town, hurry to another one. I promise you before you have gone to all the towns of Israel, the Son of Man will come.
+40010024	Students are not better than their teacher, and slaves are not better than their master.
+40010025	It is enough for students to be like their teacher and for slaves to be like their master. If people call the head of the family Satan, what will they say about the rest of the family?
+40010026	Don't be afraid of anyone! Everything is hidden will be found out, and every secret will be known.
+40010027	Whatever I say to you in the dark, you must tell in the light. And you must announce from the housetops whatever I have whispered to you.
+40010028	Don't be afraid of people. They can kill you, but they cannot harm your soul. Instead, you should fear God who can destroy both your body and your soul in hell.
+40010029	Aren't two sparrows sold for only a penny? But your Father knows when any one of them falls to the ground.
+40010030	Even the hairs on your head are counted.
+40010031	So don't be afraid! You are worth much more than many sparrows.
+40010032	If you tell others you belong to me, I will tell my Father in heaven you are my followers.
+40010033	But if you reject me, I will tell my Father in heaven you don't belong to me.
+40010034	Don't think I came to bring peace to the earth! I came to bring trouble, not peace.
+40010035	I came to turn sons against their fathers, daughters against their mothers, and daughters-in-law against their mothers-in-law.
+40010036	Your worst enemies will be in your own family.
+40010037	If you love your father or mother or even your sons and daughters more than me, you are not fit to be my disciples.
+40010038	And unless you are willing to take up your cross and follow me, you are not fit to be my disciples.
+40010039	If you try to save your life, you will lose it. But if you give it up for me, you will surely find it.
+40010040	Anyone who welcomes you welcomes me. And anyone who welcomes me also welcomes the one who sent me.
+40010041	Anyone who welcomes a prophet, just because that person is a prophet, will be given the same reward as a prophet. Anyone who welcomes a good person, just because that person is good, will be given the same reward as a good person.
+40010042	And anyone who gives one of my most humble followers a cup of cool water, just because that person is my follower, will be rewarded.
+40011008	What kind of man did you go out to see? Was he someone dressed in fine clothes? People who dress like that live in the king's palace.
+40011009	What did you really go out to see? Was he a prophet? He certainly was. I tell you that he was more than a prophet.
+40011010	In the Scriptures God says about him, “I am sending my messenger ahead to get things ready for you.”
+40011011	I tell you no one ever born on this earth is greater than John the Baptist. But whoever is least in the kingdom of heaven is greater than John.
+40011012	From the time of John the Baptist until now, violent people have been trying to take over the kingdom of heaven by force.
+40011013	All the Books of the Prophets and the Law of Moses told what was going to happen up to the time of John.
+40011014	And if you believe them, John is Elijah, the prophet you are waiting for.
+40011015	If you have ears, pay attention!
+40011016	You people are like children sitting in the market and shouting to each other,
+40011017	“We played the flute, but you would not dance! We sang a funeral song, but you would not mourn!”
+40011018	John the Baptist did not go around eating and drinking, and you said, “That man has a demon in him!”
+40011019	But the Son of Man goes around eating and drinking, and you say, “That man eats and drinks too much! He is even a friend of tax collectors and sinners.” Yet Wisdom is shown to be right by what it does.
+40011020	In the towns where Jesus had worked most of his miracles, the people refused to turn to God. So Jesus was upset with them and said:
+40011021	You people of Chorazin are in for trouble! You people of Bethsaida are in for trouble too! If the miracles that took place here had happened in Tyre and Sidon, the people there would have turned to God long ago. They would have dressed in sackcloth and put ashes on their heads.
+40011022	I tell you on the day of judgment the people of Tyre and Sidon will get off easier than you will.
+40011023	People of Capernaum, do you think you will be honored in heaven? You will go down to hell! If the miracles that took place in your town had happened in Sodom, it would still be standing.
+40011024	So I tell you on the day of judgment the people of Sodom will get off easier than you.
+40011025	At that moment Jesus said: My Father, Lord of heaven and earth, I am grateful that you hid all this from wise and educated people and showed it to ordinary people.
+40011026	Yes, Father, this is what pleased you.
+40011027	My Father has given me everything, and he is the only one who knows the Son. The only one who truly knows the Father is the Son. But the Son wants to tell others about the Father, so they can know him too.
+40011028	If you are tired from carrying heavy burdens, come to me and I will give you rest.
+40011029	Take the yoke I give you. Put it on your shoulders and learn from me. I am gentle and humble, and you will find rest.
+40011030	This yoke is easy to bear, and this burden is light.
+40012004	He went into the house of God, and then they ate the sacred loaves of bread that only priests are supposed to eat. 
+40012005	Haven't you read in the Law of Moses that the priests are allowed to work in the temple on the Sabbath? But no one says they are guilty of breaking the law of the Sabbath. 
+40012006	I tell you there is something here greater than the temple. 
+40012007	Don't you know what the Scriptures mean when they say, “Instead of offering sacrifices to me, I want you to be merciful to others?” If you knew what this means, you would not condemn these innocent disciples of mine. 
+40012008	So the Son of Man is Lord over the Sabbath.
+40012026	So if Satan fights against himself, how can his kingdom last?
+40012027	If I use the power of Beelzebul to force out demons, whose power do your own followers use to force them out? Your followers are the ones who will judge you.
+40012028	But when I force out demons by the power of God's Spirit, it proves that God's kingdom has already come to you.
+40012029	How can anyone break into a strong man's house and steal his things, unless he first ties up the strong man? Then he can take everything.
+40012030	If you are not on my side, you are against me. If you don't gather in the harvest with me, you scatter it.
+40012031	I tell you any sinful thing you do or say can be forgiven. Even if you speak against the Son of Man, you can be forgiven. But if you speak against the Holy Spirit, you can never be forgiven, either in this life or in the life to come.
+40012032	
+40012033	A good tree produces good fruit, and a bad tree produces bad fruit. You can tell what a tree is like by the fruit it produces.
+40012034	You are a bunch of evil snakes, so how can you say anything good? Your words show what is in your hearts.
+40012035	Good people bring good things out of their hearts, but evil people bring evil things out of their hearts.
+40012036	I promise you on the day of judgment, everyone will have to account for every careless word they have spoken.
+40012037	On that day they will be told they are either innocent or guilty because of the things they have said.
+40012040	He was in the stomach of a big fish for three days and nights, just as the Son of Man will be deep in the earth for three days and nights.
+40012041	On the day of judgment the people of Nineveh will stand there with you and condemn you. They turned to God when Jonah preached, and yet here is something far greater than Jonah.
+40012042	The Queen of the South will also stand there with you and condemn you. She traveled a long way to hear Solomon's wisdom, and yet here is something much greater than Solomon.
+40012043	When an evil spirit leaves a person, it travels through the desert, looking for a place to rest. But when the demon doesn't find a place,
+40012044	it says, “I will go back to the home I left.” When it gets there and finds the place empty, clean, and neat,
+40012045	it goes off and finds seven other evil spirits even worse than itself. They all come and make their home there, and the person ends up in worse shape than before. That's how it will be with you evil people of today.
 40013004
 40013005
 40013006
