@@ -29,6 +29,8 @@
 ### 58013005 corrected: Keep your lives free from the love of money. And be satisfied with what you have. God has said, “I will never leave you; I will never run away from you.”
 ### 60002006 corrected: The Scriptures say, “Look, I have chosen a cornerstone of great value, and I put that stone in Zion. Anyone who trusts in him will never be disappointed.”
 ### 66001003 corrected: Great blessings belong to the person who reads the words of this message from God and to those who hear this message and do what is written in it. There is not much time left.
+### 66011015 corrected:	The seventh angel blew his trumpet. Then there were loud voices in heaven. The voices said, “The kingdom of the world has now become the kingdom of our Lord and of his Messiah. And he will rule forever and ever.”
+### 66016006 corrected:	The people have spilled the blood of your holy people and your prophets. Now you have given those people blood to drink. This is what they deserve.”
 
 40001002	Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and his brothers.
 40001003	Judah was the father of Perez and Zerah. (Their mother was Tamar.) Perez was the father of Hezron. Hezron was the father of Ram.
@@ -297,10 +299,10 @@
 62003020	
 66001004	From John, To the seven churches in the province of Asia: Grace and peace to you from the one who is, who always was, and who is coming; and from the seven spirits before his throne;
 66005014	The four living beings said, “Amen!” And the elders bowed down and worshiped.
-66007005
-66007006
-66007007
-66007008
-66011016
-66011017
-66016007
+66007005	from the tribe of Judah: 12,000 from the tribe of Reuben: 12,000 from the tribe of Gad: 12,000
+66007006	from the tribe of Asher: 12,000 from the tribe of Naphtali: 12,000 from the tribe of Manasseh: 12,000
+66007007	from the tribe of Simeon: 12,000 from the tribe of Levi: 12,000 from the tribe of Issachar: 12,000
+66007008	from the tribe of Zebulun: 12,000 from the tribe of Joseph: 12,000 from the tribe of Benjamin: 12,000
+66011016	Then the 24 elders bowed down on their faces and worshiped God. These are the elders who sit on their thrones before God.
+66011017	The elders said, “We give thanks to you, Lord God All-Powerful. You are the one who is and who always was. We thank you because you have used your great power and have begun to rule.
+66016007	And I heard the altar say, “Yes, Lord God All-Powerful, your judgments are true and right.”

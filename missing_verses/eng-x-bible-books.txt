@@ -19,6 +19,8 @@
 ### 43012015 corrected:	“Do not be afraid, Daughter Zion; see, your king is coming, seated on a donkeyʼs colt.”
 ### 43012038 corrected:	This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message and to whom has the arm of the Lord been revealed?”
 ### 43012040 corrected: “He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn — and I would heal them.”
+### 45003004 corrected:	Not at all! Let God be true, and every human being a liar. As it is written: “So that you may be proved right when you speak and prevail when you judge.”
+### 45003010 corrected:	As it is written: “There is no one righteous, not even one;
 
 40003004	Johnʼs clothes were made of camelʼs hair, and he had a leather belt around his waist. His food was locusts and wild honey.
 40004007	Jesus answered him, “It is also written: ‘Do not put the Lord your God to the test.’”
@@ -40,8 +42,8 @@
 41014028	But after I have risen, I will go ahead of you into Galilee.”
 43012014	Jesus found a young donkey and sat on it, as it is written:
 43012039	For this reason they could not believe, because, as Isaiah says elsewhere:
-45003005
-45003011
+45003005	But if our unrighteousness brings out Godʼs righteousness more clearly, what shall we say? That God is unjust in bringing his wrath on us? (I am using a human argument.)
+45003011	there is no one who understands; there is no one who seeks God.
 45008037
 45009016
 45009026
