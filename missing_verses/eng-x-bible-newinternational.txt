@@ -1,105 +1,113 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40006014
-40006015
-40011011
-40011012
-40011013
-40011014
-40011015
-40011018
-40011019
-40013014
-40013016
-40013017
-40022045
-40022046
-40026032
-41001004
-41001005
-41001006
-41001007
-41001008
-41007008
-41009049
-41012037
-41014028
-42001047
-42001048
-42001049
-42001050
-42001051
-42001052
-42001053
-42001054
-42001055
-42001068
-42001069
-42001070
-42001071
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002029
-42002030
-42002031
-42002032
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
-42007033
-42007034
-42007035
-42020018
-42020044
-42023031
-43012014
-43012041
-44001021
-44001022
-44004012
-44004027
-44004028
-44004029
-44004030
-44013034
-44013035
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
+### 40013013 corrected:	This is why I speak to them in parables: ‘Though seeing, they do not see; though hearing, they do not hear or understand.
+### 41012036 corrected:	David himself, speaking by the Holy Spirit, declared: ‘ “The Lord said to my Lord: ‘Sit at my right hand until I put your enemies under your feet.’ ”
+### 42001046 corrected:	And Mary said: ‘My soul glorifies the Lord
+### 42003023 corrected:	Now Jesus himself was about thirty years old when he began his ministry. He was the son, so it was thought, of Joseph, the son of Heli,
+### 42044020 corrected:	‘For,’ said Peter, ‘it is written in the Book of Psalms: ‘ “May his place be deserted; let there be no-one to dwell in it,” and, ‘ “May another take his place of leadership.”
+### 44013033 corrected:	he has fulfilled for us, their children, by raising up Jesus. As it is written in the second Psalm: ‘ “You are my son; today I have become your father.”
+### 44015023 corrected:	With them they sent the following letter: The apostles and elders, your brothers, To the Gentile believers in Antioch, Syria and Cilicia: Greetings.
+
+40001002	Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,
+40001003	Judah the father of Perez and Zerah, whose mother was Tamar, Perez the father of Hezron, Hezron the father of Ram,
+40001004	Ram the father of Amminadab, Amminadab the father of Nahshon, Nahshon the father of Salmon,
+40001005	Salmon the father of Boaz, whose mother was Rahab, Boaz the father of Obed, whose mother was Ruth, Obed the father of Jesse,
+40001006	and Jesse the father of King David. David was the father of Solomon, whose mother had been Uriah’s wife,
+40001007	Solomon the father of Rehoboam, Rehoboam the father of Abijah, Abijah the father of Asa,
+40001008	Asa the father of Jehoshaphat, Jehoshaphat the father of Jehoram, Jehoram the father of Uzziah,
+40001009	Uzziah the father of Jotham, Jotham the father of Ahaz, Ahaz the father of Hezekiah,
+40001010	Hezekiah the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,
+40001011	and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon.
+40001012	After the exile to Babylon: Jeconiah was the father of Shealtiel, Shealtiel the father of Zerubbabel,
+40001013	Zerubbabel the father of Abihud, Abihud the father of Eliakim, Eliakim the father of Azor,
+40001014	Azor the father of Zadok, Zadok the father of Akim, Akim the father of Elihud,
+40001015	Elihud the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob,
+40001016	and Jacob the father of Joseph, the husband of Mary, and Mary was the mother of Jesus who is called the Messiah.
+40006014	For if you forgive other people when they sin against you, your heavenly Father will also forgive you.
+40006015	But if you do not forgive others their sins, your Father will not forgive your sins.
+40011011	Truly I tell you, among those born of women there has not risen anyone greater than John the Baptist; yet whoever is least in the kingdom of heaven is greater than he.
+40011012	From the days of John the Baptist until now, the kingdom of heaven has been subjected to violence, and violent people have been raiding it.
+40011013	For all the Prophets and the Law prophesied until John.
+40011014	And if you are willing to accept it, he is the Elijah who was to come.
+40011015	Whoever has ears, let them hear.
+40011018	For John came neither eating nor drinking, and they say, “He has a demon.”
+40011019	The Son of Man came eating and drinking, and they say, “Here is a glutton and a drunkard, a friend of tax collectors and sinners.” But wisdom is proved right by her deeds.’
+40013014	In them is fulfilled the prophecy of Isaiah: ‘ “You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
+40013016	But blessed are your eyes because they see, and your ears because they hear.
+40013017	For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.
+40022045	If then David calls him “Lord”, how can he be his son?’
+40022046	No-one could say a word in reply, and from that day on no-one dared to ask him any more questions.
+40026032	But after I have risen, I will go ahead of you into Galilee.’
+41001004	And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.
+41001005	The whole Judean countryside and all the people of Jerusalem went out to him. Confessing their sins, they were baptised by him in the River Jordan.
+41001006	John wore clothing made of camel’s hair, with a leather belt round his waist, and he ate locusts and wild honey.
+41001007	And this was his message: ‘After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.
+41001008	I baptise you with water, but he will baptise you with the Holy Spirit.’
+41007008	You have let go of the commands of God and are holding on to human traditions.’
+41009049	Everyone will be salted with fire.
+41012037	David himself calls him “Lord”. How then can he be his son?’ The large crowd listened to him with delight.
+41014028	But after I have risen, I will go ahead of you into Galilee.’
+42001047	and my spirit rejoices in God my Saviour,
+42001048	for he has been mindful of the humble state of his servant. From now on all generations will call me blessed,
+42001049	for the Mighty One has done great things for me – holy is his name.
+42001050	His mercy extends to those who fear him, from generation to generation.
+42001051	He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.
+42001052	He has brought down rulers from their thrones but has lifted up the humble.
+42001053	He has filled the hungry with good things but has sent the rich away empty.
+42001054	He has helped his servant Israel, remembering to be merciful
+42001055	to Abraham and his descendants for ever, just as he promised our ancestors.’
+42001068	‘Praise be to the Lord, the God of Israel, because he has come to his people and redeemed them.
+42001069	He has raised up a horn of salvation for us in the house of his servant David
+42001070	(as he said through his holy prophets of long ago),
+42001071	salvation from our enemies and from the hand of all who hate us –
+42001072	to show mercy to our ancestors and to remember his holy covenant,
+42001073	the oath he swore to our father Abraham:
+42001074	to rescue us from the hand of our enemies, and to enable us to serve him without fear
+42001075	in holiness and righteousness before him all our days.
+42001076	And you, my child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for him,
+42001077	to give his people the knowledge of salvation through the forgiveness of their sins,
+42001078	because of the tender mercy of our God, by which the rising sun will come to us from heaven
+42001079	to shine on those living in darkness and in the shadow of death, to guide our feet into the path of peace.’
+42002029	‘Sovereign Lord, as you have promised, you may now dismiss your servant in peace.
+42002030	For my eyes have seen your salvation,
+42002031	which you have prepared in the sight of all nations:
+42002032	a light for revelation to the Gentiles, and the glory of your people Israel.’
+42003024	the son of Matthat, the son of Levi, the son of Melki, the son of Jannai, the son of Joseph,
+42003025	the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,
+42003026	the son of Maath, the son of Mattathias, the son of Semein, the son of Josek, the son of Joda,
+42003027	the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,
+42003028	the son of Melki, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,
+42003029	the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,
+42003030	the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,
+42003031	the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,
+42003032	the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,
+42003033	the son of Amminadab, the son of Ram, the son of Hezron, the son of Perez, the son of Judah,
+42003034	the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,
+42003035	the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,
+42003036	the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,
+42003037	the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Kenan,
+42003038	the son of Enosh, the son of Seth, the son of Adam, the son of God.
+42007033	For John the Baptist came neither eating bread nor drinking wine, and you say, “He has a demon.”
+42007034	The Son of Man came eating and drinking, and you say, “Here is a glutton and a drunkard, a friend of tax collectors and sinners.”
+42007035	But wisdom is proved right by all her children.’
+42020018	Everyone who falls on that stone will be broken to pieces; anyone on whom it falls will be crushed.’
+42020044	David calls him “Lord.” How then can he be his son?’
+42023031	For if people do these things when the tree is green, what will happen when it is dry?’
+43012014	Jesus found a young donkey and sat upon it, as it is written:
+43012041	Isaiah said this because he saw Jesus’ glory and spoke about him.
+44001021	Therefore it is necessary to choose one of the men who have been with us the whole time the Lord Jesus was living among us,
+44001022	beginning from John’s baptism to the time when Jesus was taken up from us. For one of these must become a witness with us of his resurrection.’
+44004012	Salvation is found in no-one else, for there is no other name under heaven given to mankind by which we must be saved.’
+44004027	Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed.
+44004028	They did what your power and will had decided beforehand should happen.
+44004029	Now, Lord, consider their threats and enable your servants to speak your word with great boldness.
+44004030	Stretch out your hand to heal and perform signs and wonders through the name of your holy servant Jesus.’
+44013034	God raised him from the dead so that he will never be subject to decay. As God has said, ‘ “I will give you the holy and sure blessings promised to David.”
+44013035	So it is also stated elsewhere: ‘ “You will not let your holy one see decay.”
+44015024	We have heard that some went out from us without our authorisation and disturbed you, troubling your minds by what they said.
+44015025	So we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul –
+44015026	men who have risked their lives for the name of our Lord Jesus Christ.
+44015027	Therefore we are sending Judas and Silas to confirm by word of mouth what we are writing.
+44015028	It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements:
+44015029	You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things. Farewell.
 44023026
 44023027
 44023028
