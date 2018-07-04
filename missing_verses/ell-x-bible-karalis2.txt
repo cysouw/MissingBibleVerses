@@ -1,5 +1,5 @@
 ### 44018xxx, 44019xxx, 44020xxx and 44021xxx are missing completely in our version, but can be found in the online PDF of the first link
-### the second source link is a slightly different translation
+### only the first source link (https://www.academia.edu/11579792/New_Testament_in_Modern_Greek._Metaglottisis) is correct
 ### it seems to be a mixture of different sources
 
 ### 44018001	Μετά από αυτά αναχώρησε από την Αθήνα και ήρθε στην Κόρινθο.
