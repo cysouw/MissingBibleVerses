@@ -1,6 +1,6 @@
 ### ell-x-bible-karalis doesn't seem to be coming from the two given sources
 ### https://www.wordpocket.com/gk/40/1.htm is a correct source found on the web, which is identical to this text
-### the verses 44018xxx-44027xxx are missing completely
+### the verses 44018xxx-44027xxx are missing completely and are added below
 
 44017022	Και ο Παύλος, αφού στάθηκε όρθιος, στο μέσον τού Αρείου Πάγου, είπε: Άνδρες Αθηναίοι, σας βλέπω, από κάθε πλευρά, στο έπακρον θεολάτρες. 
 44017023	Επειδή, ενώ περνούσα, και πρόσεχα τα σεβάσματά σας, βρήκα και έναν βωμό, στον οποίο υπάρχει η επιγραφή: ΣΤΟΝ ΑΓΝΩΣΤΟ ΘΕΟ. Εκείνον, λοιπόν, που αγνοώντας λατρεύετε, αυτόν εγώ σας κηρύττω. 
