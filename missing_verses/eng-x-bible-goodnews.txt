@@ -1,164 +1,182 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40002009
-40002010
-40022045
-41008008
-41008009
-41012037
-41015042
-41015043
-41016003
-41016004
-42001073
-42001074
-42002036
-42002037
-42020018
-42020044
-42023044
-42023045
-42023050
-42023051
-44001021
-44001022
-44002032
-44002033
-44002034
-44004012
-44004027
-44004028
-44004029
-44004030
-44008027
-44008028
-44013032
-44013033
-44013034
-44013035
-44013036
-44013037
-44013038
-44013039
-44013040
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44017029
-44017030
-44017031
-45003025
-45003026
-45008037
-45008038
-45008039
-45009011
-45009012
-45009027
-45009028
-45009029
-45010019
-45010020
-45010021
-45011028
-45011029
-45011030
-45011031
-45011032
-45011036
-45014012
-45015010
-45015011
-45015012
-46001020
-46002010
-46002011
-46002012
-46005003
-46005004
-46005012
-46005013
-46014022
-46015051
-46015052
-46015056
-46015057
-47006017
-47008013
-47008014
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-47012003
-47012004
-49002008
-49002009
-49004009
-49004010
-49004011
-49004012
-49004013
-49004014
-49004015
-49004016
-51001011
-51001012
-56001012
-56001013
-58001006
-58001008
-58001010
-58001013
-58002009
-58002010
-58002013
-58004004
-58004005
-58004006
-58004007
-58005006
-58007022
-58008013
-58010008
-58010009
-58010010
-58010017
-58010018
-58010039
-58012007
-58012008
-58012009
-58012010
-58012011
-58013020
-58013021
-59001007
-59001008
-60002007
-60002008
-60004019
-66005013
-66005014
-66007005
-66007006
-66007007
-66007008
+### 41012036 corrected:	The Holy Spirit inspired David to say: ‘The Lord said to my Lord: Sit here at my right side until I put your enemies under your feet.’
+### 44001020 corrected:	“For it is written in the book of Psalms, ‘May his house become empty; may no one live in it.’ It is also written, ‘May someone else take his place of service.’
+### 44002031 corrected:	David saw what God was going to do in the future, and so he spoke about the resurrection of the Messiah when he said, ‘He was not abandoned in the world of the dead; his body did not rot in the grave.’
+### 44015023 corrected:	and they sent the following letter by them: “We, the apostles and the elders, your brothers, send greetings to all our brothers of Gentile birth who live in Antioch, Syria, and Cilicia.
+### 44017028 corrected:	as someone has said, ‘In him we live and move and exist.’ It is as some of your poets have said, ‘We too are his children.’
+### 45010018 corrected:	But I ask: Is it true that they did not hear the message? Of course they did—for as the scripture says: “The sound of their voice went out to all the world; their words reached the ends of the earth.”
+### 45015009 corrected:	and to enable even the Gentiles to praise God for his mercy. As the scripture says, “And so I will praise you among the Gentiles; I will sing praises to you.”
+### 47006016 corrected:	How can God's temple come to terms with pagan idols? For we are the temple of the living God! As God himself has said, “I will make my home with my people and live among them; I will be their God, and they shall be my people.”
+### 58001005 corrected:	For God never said to any of his angels, “You are my Son; today I have become your Father.” Nor did God say about any angel, “I will be his Father, and he will be my Son.”
+### 58001007 corrected:	But about the angels God said, “God makes his angels winds, and his servants flames of fire.”
+### 58001009 corrected:	You love what is right and hate what is wrong. That is why God, your God, has chosen you and has given you the joy of an honor far greater than he gave to your companions.”
+### 58001012 corrected:	You will fold them up like a coat, and they will be changed like clothes. But you are always the same, and your life never ends.”
+### 58002008 corrected:	and made them rulers over all things.” It says that God made them “rulers over all things”; this clearly includes everything. We do not, however, see human beings ruling over all things now.
+### 58004003 corrected:	We who believe, then, do receive that rest which God promised. It is just as he said, “I was angry and made a solemn promise: ‘They will never enter the land where I would have given them rest!’” He said this even though his work had been finished from the time he created the world.
+### 58005005 corrected: In the same way, Christ did not take upon himself the honor of being a high priest. Instead, God said to him, “You are my Son; today I have become your Father.”
+### 60002006 corrected:	For the scripture says, “I chose a valuable stone, which I am placing as the cornerstone in Zion; and whoever believes in him will never be disappointed.”
+### 66005012 corrected:	and sang in a loud voice: “The Lamb who was killed is worthy to receive power, wealth, wisdom, and strength, honor, glory, and praise!”
+
+40001002	From Abraham to King David, the following ancestors are listed: Abraham, Isaac, Jacob, Judah and his brothers; then Perez and Zerah (their mother was Tamar), Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz (his mother was Rahab), Obed (his mother was Ruth), Jesse, and King David.
+40001003	
+40001004	
+40001005	
+40001006	
+40001007	From David to the time when the people of Israel were taken into exile in Babylon, the following ancestors are listed: David, Solomon (his mother was the woman who had been Uriah's wife), Rehoboam, Abijah, Asa, Jehoshaphat, Jehoram, Uzziah, Jotham, Ahaz, Hezekiah, Manasseh, Amon, Josiah, and Jehoiachin and his brothers.
+40001008	
+40001009	
+40001010	
+40001011	
+40001012	From the time after the exile in Babylon to the birth of Jesus, the following ancestors are listed: Jehoiachin, Shealtiel, Zerubbabel, Abiud, Eliakim, Azor, Zadok, Achim, Eliud, Eleazar, Matthan, Jacob, and Joseph, who married Mary, the mother of Jesus, who was called the Messiah.
+40001013	
+40001014	
+40001015	
+40001016	
+40002009	And so they left, and on their way they saw the same star they had seen in the East. When they saw it, how happy they were, what joy was theirs! It went ahead of them until it stopped over the place where the child was.
+40002010	
+40022045	If, then, David called him ‘Lord,’ how can the Messiah be David's descendant?”
+41008008	Everybody ate and had enough—there were about four thousand people. Then the disciples took up seven baskets full of pieces left over. Jesus sent the people away
+41008009	
+41012037	David himself called him ‘Lord’; so how can the Messiah be David's descendant?” A large crowd was listening to Jesus gladly.
+41015042	It was toward evening when Joseph of Arimathea arrived. He was a respected member of the Council, who was waiting for the coming of the Kingdom of God. It was Preparation day (that is, the day before the Sabbath), so Joseph went boldly into the presence of Pilate and asked him for the body of Jesus.
+41015043	
+41016003	On the way they said to one another, “Who will roll away the stone for us from the entrance to the tomb?” (It was a very large stone.) Then they looked up and saw that the stone had already been rolled back.
+41016004	
+42001073	With a solemn oath to our ancestor Abraham he promised to rescue us from our enemies and allow us to serve him without fear,
+42001074	
+42002036	There was a very old prophet, a widow named Anna, daughter of Phanuel of the tribe of Asher. She had been married for only seven years and was now eighty-four years old. She never left the Temple; day and night she worshiped God, fasting and praying.
+42002037	
+42020018	Everyone who falls on that stone will be cut to pieces; and if that stone falls on someone, that person will be crushed to dust.”
+42020044	David called him ‘Lord’; how, then, can the Messiah be David's descendant?”
+42023044	It was about twelve o'clock when the sun stopped shining and darkness covered the whole country until three o'clock; and the curtain hanging in the Temple was torn in two.
+42023045	
+42023050	There was a man named Joseph from Arimathea, a town in Judea. He was a good and honorable man, who was waiting for the coming of the Kingdom of God. Although he was a member of the Council, he had not agreed with their decision and action.
+42023051	
+44001021	“So then, someone must join us as a witness to the resurrection of the Lord Jesus. He must be one of the men who were in our group during the whole time that the Lord Jesus traveled about with us, beginning from the time John preached his message of baptism until the day Jesus was taken up from us to heaven.”
+44001022	
+44002032	God has raised this very Jesus from death, and we are all witnesses to this fact.
+44002033	He has been raised to the right side of God, his Father, and has received from him the Holy Spirit, as he had promised. What you now see and hear is his gift that he has poured out on us.
+44002034	For it was not David who went up into heaven; rather he said, ‘The Lord said to my Lord: Sit here at my right side
+44004012	Salvation is to be found through him alone; in all the world there is no one else whom God has given who can save us.”
+44004027	For indeed Herod and Pontius Pilate met together in this city with the Gentiles and the people of Israel against Jesus, your holy Servant, whom you made Messiah.
+44004028	They gathered to do everything that you by your power and will had already decided would happen.
+44004029	And now, Lord, take notice of the threats they have made, and allow us, your servants, to speak your message with all boldness.
+44004030	Reach out your hand to heal, and grant that wonders and miracles may be performed through the name of your holy Servant Jesus.”
+44008027	So Philip got ready and went. Now an Ethiopian eunuch, who was an important official in charge of the treasury of the queen of Ethiopia, was on his way home. He had been to Jerusalem to worship God and was going back home in his carriage. As he rode along, he was reading from the book of the prophet Isaiah.
+44008028	
+44013032	And we are here to bring the Good News to you: what God promised our ancestors he would do, he has now done for us, who are their descendants, by raising Jesus to life. As it is written in the second Psalm, ‘You are my Son; today I have become your Father.’
+44013033	
+44013034	And this is what God said about raising him from death, never to rot away in the grave: ‘I will give you the sacred and sure blessings that I promised to David.’
+44013035	As indeed he says in another passage, ‘You will not allow your faithful servant to rot in the grave.’
+44013036	For David served God's purposes in his own time, and then he died, was buried with his ancestors, and his body rotted in the grave.
+44013037	But this did not happen to the one whom God raised from death.
+44013038	All of you, my fellow Israelites, are to know for sure that it is through Jesus that the message about forgiveness of sins is preached to you; you are to know that everyone who believes in him is set free from all the sins from which the Law of Moses could not set you free.
+44013039	
+44013040	Take care, then, so that what the prophets said may not happen to you:
+44015024	We have heard that some who went from our group have troubled and upset you by what they said; they had not, however, received any instruction from us.
+44015025	And so we have met together and have all agreed to choose some messengers and send them to you. They will go with our dear friends Barnabas and Paul,
+44015026	who have risked their lives in the service of our Lord Jesus Christ.
+44015027	We send you, then, Judas and Silas, who will tell you in person the same things we are writing.
+44015028	The Holy Spirit and we have agreed not to put any other burden on you besides these necessary rules:
+44015029	eat no food that has been offered to idols; eat no blood; eat no animal that has been strangled; and keep yourselves from sexual immorality. You will do well if you take care not to do these things. With our best wishes.”
+44017029	Since we are God's children, we should not suppose that his nature is anything like an image of gold or silver or stone, shaped by human art and skill.
+44017030	God has overlooked the times when people did not know him, but now he commands all of them everywhere to turn away from their evil ways.
+44017031	For he has fixed a day in which he will judge the whole world with justice by means of a man he has chosen. He has given proof of this to everyone by raising that man from death!”
+45003025	God offered him, so that by his blood he should become the means by which people's sins are forgiven through their faith in him. God did this in order to demonstrate that he is righteous. In the past he was patient and overlooked people's sins; but in the present time he deals with their sins, in order to demonstrate his righteousness. In this way God shows that he himself is righteous and that he puts right everyone who believes in Jesus.
+45003026	
+45008037	No, in all these things we have complete victory through him who loved us!
+45008038	For I am certain that nothing can separate us from his love: neither death nor life, neither angels nor other heavenly rulers or powers, neither the present nor the future,
+45008039	neither the world above nor the world below—there is nothing in all creation that will ever be able to separate us from the love of God which is ours through Christ Jesus our Lord.
+45009011	But in order that the choice of one son might be completely the result of God's own purpose, God said to her, “The older will serve the younger.” He said this before they were born, before they had done anything either good or bad; so God's choice was based on his call, and not on anything they had done.
+45009012	
+45009027	And Isaiah exclaims about Israel: “Even if the people of Israel are as many as the grains of sand by the sea, yet only a few of them will be saved;
+45009028	for the Lord will quickly settle his full account with the world.”
+45009029	It is as Isaiah had said before, “If the Lord Almighty had not left us some descendants, we would have become like Sodom, we would have been like Gomorrah.”
+45010019	Again I ask: Did the people of Israel not understand? Moses himself is the first one to answer: “I will use a so-called nation to make my people jealous; and by means of a nation of fools I will make my people angry.”
+45010020	And Isaiah is even bolder when he says, “I was found by those who were not looking for me; I appeared to those who were not asking for me.”
+45010021	But concerning Israel he says, “All day long I held out my hands to welcome a disobedient and rebellious people.”
+45011028	Because they reject the Good News, the Jews are God's enemies for the sake of you Gentiles. But because of God's choice, they are his friends because of their ancestors.
+45011029	For God does not change his mind about whom he chooses and blesses.
+45011030	As for you Gentiles, you disobeyed God in the past; but now you have received God's mercy because the Jews were disobedient.
+45011031	In the same way, because of the mercy that you have received, the Jews now disobey God, in order that they also may now receive God's mercy.
+45011032	For God has made all people prisoners of disobedience, so that he might show mercy to them all.
+45011036	For all things were created by him, and all things exist through him and for him. To God be the glory forever! Amen.
+45014012	Every one of us, then, will have to give an account to God.
+45015010	Again it says, “Rejoice, Gentiles, with God's people!”
+45015011	And again, “Praise the Lord, all Gentiles; praise him, all peoples!”
+45015012	And again, Isaiah says, “A descendant of Jesse will appear; he will come to rule the Gentiles, and they will put their hope in him.”
+46001020	So then, where does that leave the wise? or the scholars? or the skillful debaters of this world? God has shown that this world's wisdom is foolishness!
+46002010	But it was to us that God made known his secret by means of his Spirit. The Spirit searches everything, even the hidden depths of God's purposes.
+46002011	It is only our own spirit within us that knows all about us; in the same way, only God's Spirit knows all about God.
+46002012	We have not received this world's spirit; instead, we have received the Spirit sent by God, so that we may know all that God has given us.
+46005003	And even though I am far away from you in body, still I am there with you in spirit; and as though I were there with you, I have in the name of our Lord Jesus already passed judgment on the man who has done this terrible thing. As you meet together, and I meet with you in my spirit, by the power of our Lord Jesus present with us,
+46005004	
+46005012	After all, it is none of my business to judge outsiders. God will judge them. But should you not judge the members of your own fellowship? As the scripture says, “Remove the evil person from your group.”
+46005013	
+46014022	So then, the gift of speaking in strange tongues is proof for unbelievers, not for believers, while the gift of proclaiming God's message is proof for believers, not for unbelievers.
+46015051	Listen to this secret truth: we shall not all die, but when the last trumpet sounds, we shall all be changed in an instant, as quickly as the blinking of an eye. For when the trumpet sounds, the dead will be raised, never to die again, and we shall all be changed.
+46015052	
+46015056	Death gets its power to hurt from sin, and sin gets its power from the Law.
+46015057	But thanks be to God who gives us the victory through our Lord Jesus Christ!
+47006017	And so the Lord says, “You must leave them and separate yourselves from them. Have nothing to do with what is unclean, and I will accept you.
+47008013	I am not trying to relieve others by putting a burden on you; but since you have plenty at this time, it is only fair that you should help those who are in need. Then, when you are in need and they have plenty, they will help you. In this way both are treated equally.
+47008014	
+47009010	And God, who supplies seed for the sower and bread to eat, will also supply you with all the seed you need and will make it grow and produce a rich harvest from your generosity.
+47009011	He will always make you rich enough to be generous at all times, so that many will thank God for your gifts which they receive from us.
+47009012	For this service you perform not only meets the needs of God's people, but also produces an outpouring of gratitude to God.
+47009013	And because of the proof which this service of yours brings, many will give glory to God for your loyalty to the gospel of Christ, which you profess, and for your generosity in sharing with them and everyone else.
+47009014	And so with deep affection they will pray for you because of the extraordinary grace God has shown you.
+47009015	Let us thank God for his priceless gift!
+47012003	I repeat, I know that this man was snatched to Paradise (again, I do not know whether this actually happened or whether it was a vision—only God knows), and there he heard things which cannot be put into words, things that human lips may not speak.
+47012004	
+49002008	For it is by God's grace that you have been saved through faith. It is not the result of your own efforts, but God's gift, so that no one can boast about it.
+49002009	
+49004009	Now, what does “he went up” mean? It means that first he came down to the lowest depths of the earth.
+49004010	So the one who came down is the same one who went up, above and beyond the heavens, to fill the whole universe with his presence.
+49004011	It was he who “gave gifts to people”; he appointed some to be apostles, others to be prophets, others to be evangelists, others to be pastors and teachers.
+49004012	He did this to prepare all God's people for the work of Christian service, in order to build up the body of Christ.
+49004013	And so we shall all come together to that oneness in our faith and in our knowledge of the Son of God; we shall become mature people, reaching to the very height of Christ's full stature.
+49004014	Then we shall no longer be children, carried by the waves and blown about by every shifting wind of the teaching of deceitful people, who lead others into error by the tricks they invent.
+49004015	Instead, by speaking the truth in a spirit of love, we must grow up in every way to Christ, who is the head.
+49004016	Under his control all the different parts of the body fit together, and the whole body is held together by every joint with which it is provided. So when each separate part works as it should, the whole body grows and builds itself up through love.
+51001011	May you be made strong with all the strength which comes from his glorious power, so that you may be able to endure everything with patience. And with joy give thanks to the Father, who has made you fit to have your share of what God has reserved for his people in the kingdom of light.
+51001012	
+56001012	It was a Cretan himself, one of their own prophets, who spoke the truth when he said, “Cretans are always liars, wicked beasts, and lazy gluttons.” For this reason you must rebuke them sharply, so that they may have a healthy faith
+56001013	
+58001006	But when God was about to send his first-born Son into the world, he said, “All of God's angels must worship him.”
+58001008	About the Son, however, God said: “Your kingdom, O God, will last forever and ever! You rule over your people with justice.
+58001010	He also said, “You, Lord, in the beginning created the earth, and with your own hands you made the heavens.
+58001013	God never said to any of his angels: “Sit here at my right side until I put your enemies as a footstool under your feet.”
+58002009	But we do see Jesus, who for a little while was made lower than the angels, so that through God's grace he should die for everyone. We see him now crowned with glory and honor because of the death he suffered.
+58002010	It was only right that God, who creates and preserves all things, should make Jesus perfect through suffering, in order to bring many children to share his glory. For Jesus is the one who leads them to salvation.
+58002013	He also says, “I will put my trust in God.” And he also says, “Here I am with the children that God has given me.”
+58004004	For somewhere in the Scriptures this is said about the seventh day: “God rested on the seventh day from all his work.”
+58004005	This same matter is spoken of again: “They will never enter that land where I would have given them rest.”
+58004006	Those who first heard the Good News did not receive that rest, because they did not believe. There are, then, others who are allowed to receive it.
+58004007	This is shown by the fact that God sets another day, which is called “Today.” Many years later he spoke of it through David in the scripture already quoted: “If you hear God's voice today, do not be stubborn.”
+58005006	He also said in another place, “You will be a priest forever, in the priestly order of Melchizedek.”
+58007022	This difference, then, also makes Jesus the guarantee of a better covenant.
+58008013	By speaking of a new covenant, God has made the first one old; and anything that becomes old and worn out will soon disappear.
+58010008	First he said, “You neither want nor are you pleased with sacrifices and offerings or with animals burned on the altar and the sacrifices to take away sins.” He said this even though all these sacrifices are offered according to the Law.
+58010009	Then he said, “Here I am, O God, to do your will.” So God does away with all the old sacrifices and puts the sacrifice of Christ in their place.
+58010010	Because Jesus Christ did what God wanted him to do, we are all purified from sin by the offering that he made of his own body once and for all.
+58010017	And then he says, “I will not remember their sins and evil deeds any longer.”
+58010018	So when these have been forgiven, an offering to take away sins is no longer needed.
+58010039	We are not people who turn back and are lost. Instead, we have faith and are saved.
+58012007	Endure what you suffer as being a father's punishment; your suffering shows that God is treating you as his children. Was there ever a child who was not punished by his father?
+58012008	If you are not punished, as all his children are, it means you are not real children, but bastards.
+58012009	In the case of our human fathers, they punished us and we respected them. How much more, then, should we submit to our spiritual Father and live!
+58012010	Our human fathers punished us for a short time, as it seemed right to them; but God does it for our own good, so that we may share his holiness.
+58012011	When we are punished, it seems to us at the time something to make us sad, not glad. Later, however, those who have been disciplined by such punishment reap the peaceful reward of a righteous life.
+58013020	God has raised from death our Lord Jesus, who is the Great Shepherd of the sheep as the result of his blood, by which the eternal covenant is sealed. May the God of peace provide you with every good thing you need in order to do his will, and may he, through Jesus Christ, do in us what pleases him. And to Christ be the glory forever and ever! Amen.
+58013021	
+59001007	If you are like that, unable to make up your mind and undecided in all you do, you must not think that you will receive anything from the Lord.
+59001008	
+60002007	This stone is of great value for you that believe; but for those who do not believe: “The stone which the builders rejected as worthless turned out to be the most important of all.”
+60002008	And another scripture says, “This is the stone that will make people stumble, the rock that will make them fall.” They stumbled because they did not believe in the word; such was God's will for them.
+60004019	So then, those who suffer because it is God's will for them, should by their good actions trust themselves completely to their Creator, who always keeps his promise.
+66005013	And I heard every creature in heaven, on earth, in the world below, and in the sea—all living beings in the universe—and they were singing: “To him who sits on the throne and to the Lamb, be praise and honor, glory and might, forever and ever!”
+66005014	The four living creatures answered, “Amen!” And the elders fell down and worshiped.
+66007005	twelve thousand from each tribe: Judah, Reuben, Gad, Asher, Naphtali, Manasseh, Simeon, Levi, Issachar, Zebulun, Joseph, and Benjamin.
+66007006	
+66007007	
+66007008	
