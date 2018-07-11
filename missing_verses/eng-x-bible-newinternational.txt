@@ -5,6 +5,19 @@
 ### 42044020 corrected:	‘For,’ said Peter, ‘it is written in the Book of Psalms: ‘ “May his place be deserted; let there be no-one to dwell in it,” and, ‘ “May another take his place of leadership.”
 ### 44013033 corrected:	he has fulfilled for us, their children, by raising up Jesus. As it is written in the second Psalm: ‘ “You are my son; today I have become your father.”
 ### 44015023 corrected:	With them they sent the following letter: The apostles and elders, your brothers, To the Gentile believers in Antioch, Syria and Cilicia: Greetings.
+### 45009025 corrected:	As he says in Hosea: ‘I will call them “my people” who are not my people; and I will call her “my loved one” who is not my loved one,’
+### 45009028 corrected:	For the Lord will carry out his sentence on earth with speed and finality.’
+### 45010018 corrected:	But I ask: did they not hear? Of course they did: ‘Their voice has gone out into all the earth, their words to the ends of the world.’
+### 45011008 corrected:	as it is written: ‘God gave them a spirit of stupor, eyes that could not see and ears that could not hear, to this very day.’
+### 45015009 corrected:	and, moreover, that the Gentiles might glorify God for his mercy. As it is written: ‘Therefore I will praise you among the Gentiles; I will sing the praises of your name.’
+### 46002009 corrected:	However, as it is written: ‘What no eye has seen, what no ear has heard, and what no human mind has conceived’ – the things God has prepared for those who love him –
+### 46002016 corrected:	for, ‘Who has known the mind of the Lord so as to instruct him?’ But we have the mind of Christ.
+### 47006016 corrected:	What agreement is there between the temple of God and idols? For we are the temple of the living God. As God has said: ‘I will live with them and walk among them, and I will be their God, and they will be my people.’
+### 58001005 corrected:	For to which of the angels did God ever say, ‘You are my Son; today I have become your Father’? Or again, ‘I will be his Father, and he will be my Son’?
+### 58001009 corrected:	You have loved righteousness and hated wickedness; therefore God, your God, has set you above your companions by anointing you with the oil of joy.’
+### 58001012 corrected:	You will roll them up like a robe; like a garment they will be changed. But you remain the same, and your years will never end.’
+### 58002008 corrected:	and put everything under their feet.’, In putting everything under them, God left nothing that is not subject to them. Yet at present we do not see everything subject to them.
+### 58002012 corrected:	He says, ‘I will declare your name to my brothers and sisters; in the assembly I will sing your praises.’
 
 40001002	Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,
 40001003	Judah the father of Perez and Zerah, whose mother was Tamar, Perez the father of Hezron, Hezron the father of Ram,
@@ -108,53 +121,53 @@
 44015027	Therefore we are sending Judas and Silas to confirm by word of mouth what we are writing.
 44015028	It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements:
 44015029	You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things. Farewell.
-44023026
-44023027
-44023028
-44023029
-44023030
-45008037
-45008038
-45008039
-45009016
-45009017
-45009018
-45009026
-45009027
-45009029
-45010019
-45010020
-45010021
-45011009
-45012021
-45014012
-45015010
-45015011
-45015012
-45015022
-46002010
-46015033
-46015034
-46015056
-46015057
-47006017
-47006018
-47009010
-47009011
-49004009
-49004010
-49004011
-49004012
-49004013
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002009
-58002013
-58004004
+44023026	Claudius Lysias, To His Excellency, Governor Felix: Greetings.
+44023027	This man was seized by the Jews and they were about to kill him, but I came with my troops and rescued him, for I had learned that he is a Roman citizen.
+44023028	I wanted to know why they were accusing him, so I brought him to their Sanhedrin.
+44023029	I found that the accusation had to do with questions about their law, but there was no charge against him that deserved death or imprisonment.
+44023030	When I was informed of a plot to be carried out against the man, I sent him to you at once. I also ordered his accusers to present to you their case against him.
+45008037	No, in all these things we are more than conquerors through him who loved us.
+45008038	For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers,
+45008039	neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.
+45009016	It does not, therefore, depend on human desire or effort, but on God’s mercy.
+45009017	For Scripture says to Pharaoh: ‘I raised you up for this very purpose, that I might display my power in you and that my name might be proclaimed in all the earth.’
+45009018	Therefore God has mercy on whom he wants to have mercy, and he hardens whom he wants to harden.
+45009026	and, ‘In the very place where it was said to them, “You are not my people,” there they will be called “children of the living God.” ’
+45009027	Isaiah cries out concerning Israel: ‘Though the number of the Israelites be like the sand by the sea, only the remnant will be saved.
+45009029	It is just as Isaiah said previously: ‘Unless the Lord Almighty had left us descendants, we would have become like Sodom, we would have been like Gomorrah.’
+45010019	Again I ask: did Israel not understand? First, Moses says, ‘I will make you envious by those who are not a nation; I will make you angry by a nation that has no understanding.’
+45010020	And Isaiah boldly says, ‘I was found by those who did not seek me; I revealed myself to those who did not ask for me.’
+45010021	But concerning Israel he says, ‘All day long I have held out my hands to a disobedient and obstinate people.’
+45011009	And David says: ‘May their table become a snare and a trap, a stumbling-block and a retribution for them.
+45012021	Do not be overcome by evil, but overcome evil with good.
+45014012	So then, each of us will give an account of ourselves to God.
+45015010	Again, it says, ‘Rejoice, you Gentiles, with his people.’
+45015011	And again, ‘Praise the Lord, all you Gentiles; let all the peoples extol him.’
+45015012	And again, Isaiah says, ‘The Root of Jesse will spring up, one who will arise to rule over the nations; in him the Gentiles will hope.’
+45015022	This is why I have often been hindered from coming to you.
+46002010	these are the things God has revealed to us by his Spirit. The Spirit searches all things, even the deep things of God.
+46015033	Do not be misled: ‘Bad company corrupts good character.’
+46015034	Come back to your senses as you ought, and stop sinning; for there are some who are ignorant of God – I say this to your shame.
+46015056	The sting of death is sin, and the power of sin is the law.
+46015057	But thanks be to God! He gives us the victory through our Lord Jesus Christ.
+47006017	Therefore, ‘Come out from them and be separate, says the Lord. Touch no unclean thing, and I will receive you.’
+47006018	And, ‘I will be a Father to you, and you will be my sons and daughters, says the Lord Almighty.’
+47009010	Now he who supplies seed to the sower and bread for food will also supply and increase your store of seed and will enlarge the harvest of your righteousness.
+47009011	You will be enriched in every way so that you can be generous on every occasion, and through us your generosity will result in thanksgiving to God.
+49004009	(What does ‘he ascended’ mean except that he also descended to the lower, earthly regions?
+49004010	He who descended is the very one who ascended higher than all the heavens, in order to fill the whole universe.)
+49004011	So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers,
+49004012	to equip his people for works of service, so that the body of Christ may be built up
+49004013	until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.
+58001006	And again, when God brings his firstborn into the world, he says, ‘Let all God’s angels worship him.’
+58001007	In speaking of the angels he says, ‘He makes his angels spirits, and his servants flames of fire.’
+58001008	But about the Son he says, ‘Your throne, O God, will last for ever and ever; a sceptre of justice will be the sceptre of your kingdom.
+58001010	He also says, ‘In the beginning, Lord, you laid the foundations of the earth, and the heavens are the work of your hands.
+58001013	To which of the angels did God ever say, ‘Sit at my right hand until I make your enemies a footstool for your feet’?
+58001014	Are not all angels ministering spirits sent to serve those who will inherit salvation?
+58002009	But we do see Jesus, who was made lower than the angels for a little while, now crowned with glory and honour because he suffered death, so that by the grace of God he might taste death for everyone.
+58002013	And again, ‘I will put my trust in him.’ And again he says, ‘Here am I, and the children God has given me.’
+58004004	
 58004005
 58004008
 58004009
