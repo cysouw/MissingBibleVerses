@@ -18,6 +18,24 @@
 ### 58001012 corrected:	You will roll them up like a robe; like a garment they will be changed. But you remain the same, and your years will never end.’
 ### 58002008 corrected:	and put everything under their feet.’, In putting everything under them, God left nothing that is not subject to them. Yet at present we do not see everything subject to them.
 ### 58002012 corrected:	He says, ‘I will declare your name to my brothers and sisters; in the assembly I will sing your praises.’
+### 58004003 corrected:	Now we who have believed enter that rest, just as God has said, ‘So I declared on oath in my anger, “They shall never enter my rest.” ’ And yet his works have been finished since the creation of the world.
+### 58005005 corrected:	In the same way, Christ did not take on himself the glory of becoming a high priest. But God said to him, ‘You are my Son; today I have become your Father.’
+### 58010016 corrected:	‘This is the covenant I will make with them after that time, says the Lord. I will put my laws in their hearts, and I will write them on their minds.’
+### 58010037 corrected:	For, ‘In just a little while, he who is coming will come and will not delay.’
+### 58013005 corrected:	Keep your lives free from the love of money and be content with what you have, because God has said, ‘Never will I leave you; never will I forsake you.’
+### 60002006 corrected:	For in Scripture it says: ‘See, I lay a stone in Zion, a chosen and precious cornerstone, and the one who trusts in him will never be put to shame.’
+### 66002001 corrected:	‘To the angel of the church in Ephesus write: These are the words of him who holds the seven stars in his right hand and walks among the seven golden lampstands.
+### 66002008 corrected:	‘To the angel of the church in Smyrna write: These are the words of him who is the First and the Last, who died and came to life again.
+### 66002012 corrected:	‘To the angel of the church in Pergamum write: These are the words of him who has the sharp, double-edged sword.
+### 66002018 corrected:	‘To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like blazing fire and whose feet are like burnished bronze.
+### 66003001 corrected:	‘To the angel of the church in Sardis write: These are the words of him who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation of being alive, but you are dead.
+### 66003007 corrected:	‘To the angel of the church in Philadelphia write: These are the words of him who is holy and true, who holds the key of David. What he opens no-one can shut, and what he shuts no-one can open.
+### 66003014 corrected:	‘To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true witness, the ruler of God’s creation.
+### 66005013 corrected:	Then I heard every creature in heaven and on earth and under the earth and on the sea, and all that is in them, saying: ‘To him who sits on the throne and to the Lamb be praise and honour and glory and power, for ever and ever!’
+### 66007010 corrected:	And they cried out in a loud voice: ‘Salvation belongs to our God, who sits on the throne, and to the Lamb.’
+### 66011015 corrected:	The seventh angel sounded his trumpet, and there were loud voices in heaven, which said: ‘The kingdom of the world has become the kingdom of our Lord and of his Messiah, and he will reign for ever and ever.’
+### 66016006 corrected:	for they have shed the blood of your holy people and your prophets, and you have given them blood to drink as they deserve.’
+### 66017005 corrected:	The name written on her forehead was a mystery: babylon the great the mother of prostitutes and of the abominations of the earth.
 
 40001002	Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,
 40001003	Judah the father of Perez and Zerah, whose mother was Tamar, Perez the father of Hezron, Hezron the father of Ram,
@@ -167,84 +185,84 @@
 58001014	Are not all angels ministering spirits sent to serve those who will inherit salvation?
 58002009	But we do see Jesus, who was made lower than the angels for a little while, now crowned with glory and honour because he suffered death, so that by the grace of God he might taste death for everyone.
 58002013	And again, ‘I will put my trust in him.’ And again he says, ‘Here am I, and the children God has given me.’
-58004004	
-58004005
-58004008
-58004009
-58004010
-58004011
-58005006
-58007022
-58010008
-58010009
-58010010
-58010017
-58010038
-58010039
-58013006
-60002007
-60002008
-60002023
-60002024
-60002025
-60005006
-60005007
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002009
-66002010
-66002011
-66002013
-66002014
-66002015
-66002016
-66002017
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002027
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
-66004009
-66004010
-66005014
-66007005
-66007006
-66007007
-66007008
-66007011
-66007012
-66011016
-66011017
-66016007
-66016015
-66016016
-66017006
+58004004	For somewhere he has spoken about the seventh day in these words: ‘On the seventh day God rested from all his works.’
+58004005	And again in the passage above he says, ‘They shall never enter my rest.’
+58004008	For if Joshua had given them rest, God would not have spoken later about another day.
+58004009	There remains, then, a Sabbath-rest for the people of God;
+58004010	for anyone who enters God’s rest also rests from their works, just as God did from his.
+58004011	Let us, therefore, make every effort to enter that rest, so that no-one will perish by following their example of disobedience.
+58005006	And he says in another place, ‘You are a priest for ever, in the order of Melchizedek.’
+58007022	Because of this oath, Jesus has become the guarantor of a better covenant.
+58010008	First he said, ‘Sacrifices and offerings, burnt offerings and sin offerings you did not desire, nor were you pleased with them’ – though they were offered in accordance with the law.
+58010009	Then he said, ‘Here I am, I have come to do your will.’ He sets aside the first to establish the second.
+58010010	And by that will, we have been made holy through the sacrifice of the body of Jesus Christ once for all.
+58010017	Then he adds: ‘Their sins and lawless acts I will remember no more.’
+58010038	And, ‘But my righteous one will live by faith. And I take no pleasure in the one who shrinks back.’
+58010039	But we do not belong to those who shrink back and are destroyed, but to those who have faith and are saved.
+58013006	So we say with confidence, ‘The Lord is my helper; I will not be afraid. What can mere mortals do to me?’
+60002007	Now to you who believe, this stone is precious. But to those who do not believe, ‘The stone the builders rejected has become the cornerstone,’
+60002008	and, ‘A stone that causes people to stumble and a rock that makes them fall.’ They stumble because they disobey the message – which is also what they were destined for.
+60002023	When they hurled their insults at him, he did not retaliate; when he suffered, he made no threats. Instead, he entrusted himself to him who judges justly.
+60002024	‘He himself bore our sins’ in his body on the cross, so that we might die to sins and live for righteousness; ‘by his wounds you have been healed.’
+60002025	For ‘you were like sheep going astray,’ but now you have returned to the Shepherd and Overseer of your souls.
+60005006	Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time.
+60005007	Cast all your anxiety on him because he cares for you.
+66002002	I know your deeds, your hard work and your perseverance. I know that you cannot tolerate wicked people, that you have tested those who claim to be apostles but are not, and have found them false.
+66002003	You have persevered and have endured hardships for my name, and have not grown weary.
+66002004	Yet I hold this against you: you have forsaken the love you had at first.
+66002005	Consider how far you have fallen! Repent and do the things you did at first. If you do not repent, I will come to you and remove your lampstand from its place.
+66002006	But you have this in your favour: you hate the practices of the Nicolaitans, which I also hate.
+66002007	Whoever has ears, let them hear what the Spirit says to the churches. To the one who is victorious, I will give the right to eat from the tree of life, which is in the paradise of God.
+66002009	I know your afflictions and your poverty – yet you are rich! I know about the slander of those who say they are Jews and are not, but are a synagogue of Satan.
+66002010	Do not be afraid of what you are about to suffer. I tell you, the devil will put some of you in prison to test you, and you will suffer persecution for ten days. Be faithful, even to the point of death, and I will give you life as your victor’s crown.
+66002011	Whoever has ears, let them hear what the Spirit says to the churches. The one who is victorious will not be hurt at all by the second death.
+66002013	I know where you live – where Satan has his throne. Yet you remain true to my name. You did not renounce your faith in me, not even in the days of Antipas, my faithful witness, who was put to death in your city – where Satan lives.
+66002014	Nevertheless, I have a few things against you: there are some among you who hold to the teaching of Balaam, who taught Balak to entice the Israelites to sin so that they ate food sacrificed to idols and committed sexual immorality.
+66002015	Likewise, you also have those who hold to the teaching of the Nicolaitans.
+66002016	Repent therefore! Otherwise, I will soon come to you and will fight against them with the sword of my mouth.
+66002017	Whoever has ears, let them hear what the Spirit says to the churches. To the one who is victorious, I will give some of the hidden manna. I will also give that person a white stone with a new name written on it, known only to the one who receives it.
+66002019	I know your deeds, your love and faith, your service and perseverance, and that you are now doing more than you did at first.
+66002020	Nevertheless, I have this against you: you tolerate that woman Jezebel, who calls herself a prophet. By her teaching she misleads my servants into sexual immorality and the eating of food sacrificed to idols.
+66002021	I have given her time to repent of her immorality, but she is unwilling.
+66002022	So I will cast her on a bed of suffering, and I will make those who commit adultery with her suffer intensely, unless they repent of her ways.
+66002023	I will strike her children dead. Then all the churches will know that I am he who searches hearts and minds, and I will repay each of you according to your deeds.
+66002024	Now I say to the rest of you in Thyatira, to you who do not hold to her teaching and have not learned Satan’s so-called deep secrets, “I will not impose any other burden on you,
+66002025	except to hold on to what you have until I come.”
+66002026	To the one who is victorious and does my will to the end, I will give authority over the nations –
+66002027	that one “will rule them with an iron sceptre and will dash them to pieces like pottery” – just as I have received authority from my Father.
+66002028	I will also give that one the morning star.
+66002029	Whoever has ears, let them hear what the Spirit says to the churches.
+66003002	Wake up! Strengthen what remains and is about to die, for I have found your deeds unfinished in the sight of my God.
+66003003	Remember, therefore, what you have received and heard; hold it fast, and repent. But if you do not wake up, I will come like a thief, and you will not know at what time I will come to you.
+66003004	Yet you have a few people in Sardis who have not soiled their clothes. They will walk with me, dressed in white, for they are worthy.
+66003005	The one who is victorious will, like them, be dressed in white. I will never blot out the name of that person from the book of life, but will acknowledge that name before my Father and his angels.
+66003006	Whoever has ears, let them hear what the Spirit says to the churches.
+66003008	I know your deeds. See, I have placed before you an open door that no-one can shut. I know that you have little strength, yet you have kept my word and have not denied my name.
+66003009	I will make those who are of the synagogue of Satan, who claim to be Jews though they are not, but are liars – I will make them come and fall down at your feet and acknowledge that I have loved you.
+66003010	Since you have kept my command to endure patiently, I will also keep you from the hour of trial that is going to come on the whole world to test the inhabitants of the earth.
+66003011	I am coming soon. Hold on to what you have, so that no-one will take your crown.
+66003012	The one who is victorious I will make a pillar in the temple of my God. Never again will they leave it. I will write on them the name of my God and the name of the city of my God, the new Jerusalem, which is coming down out of heaven from my God; and I will also write on them my new name.
+66003013	Whoever has ears, let them hear what the Spirit says to the churches.
+66003015	I know your deeds, that you are neither cold nor hot. I wish you were either one or the other!
+66003016	So, because you are lukewarm – neither hot nor cold – I am about to spit you out of my mouth.
+66003017	You say, “I am rich; I have acquired wealth and do not need a thing.” But you do not realise that you are wretched, pitiful, poor, blind and naked.
+66003018	I counsel you to buy from me gold refined in the fire, so that you can become rich; and white clothes to wear, so that you can cover your shameful nakedness; and salve to put on your eyes, so that you can see.
+66003019	Those whom I love I rebuke and discipline. So be earnest and repent.
+66003020	Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.
+66003021	To the one who is victorious, I will give the right to sit with me on my throne, just as I was victorious and sat down with my Father on his throne.
+66003022	Whoever has ears, let them hear what the Spirit says to the churches.’
+66004009	Whenever the living creatures give glory, honour and thanks to him who sits on the throne and who lives for ever and ever,
+66004010	the twenty-four elders fall down before him who sits on the throne and worship him who lives for ever and ever. They lay their crowns before the throne and say:
+66005014	The four living creatures said, ‘Amen’, and the elders fell down and worshipped.
+66007005	From the tribe of Judah 12,000 were sealed, from the tribe of Reuben 12,000, from the tribe of Gad 12,000,
+66007006	from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,
+66007007	from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,
+66007008	from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, from the tribe of Benjamin 12,000.
+66007011	All the angels were standing round the throne and round the elders and the four living creatures. They fell down on their faces before the throne and worshipped God,
+66007012	saying: ‘Amen! Praise and glory and wisdom and thanks and honour and power and strength be to our God for ever and ever. Amen!’
+66011016	And the twenty-four elders, who were seated on their thrones before God, fell on their faces and worshipped God,
+66011017	saying: ‘We give thanks to you, Lord God Almighty, the One who is and who was, because you have taken your great power and have begun to reign.
+66016007	And I heard the altar respond: ‘Yes, Lord God Almighty, true and just are your judgments.’
+66016015	‘Look, I come like a thief! Blessed is the one who stays awake and remains clothed, so as not to go naked and be shamefully exposed.’
+66016016	Then they gathered the kings together to the place that in Hebrew is called Armageddon.
+66017006	I saw that the woman was drunk with the blood of God’s holy people, the blood of those who bore testimony to Jesus. When I saw her, I was greatly astonished.
