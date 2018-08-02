@@ -1,20 +1,23 @@
-40002006
-40002009
-40002010
-40002018
-40004015
-40004016
-40006010
-40006011
-40006012
-40006013
-40012018
-40012019
-40012020
-40012021
-40013015
-40015008
-40015009
+40002006	Eta zu, Judako Belen, ez zara, ez, Judako hirietan txikiena; zuregandik aterako baita buruzagia, Israel nire herria gobernatuko duena.
+40002009	Erregearen hitz hauek entzunik, abiatu egin ziren. Bidean, sortaldean ikusitako izarra agertu zitzaien eta biziki poztu ziren. Izarra aurretik joan zitzaien, haurra zegoen toki gainean gelditu arte.
+40002010	
+40002018	Entzun! Aieneak eta negar samina Raman! Rakel ari da bere haurrengatik negarrez: ez du kontsolatu nahi, ez baitira bizi.
+40004015	Zabulonen lurraldea eta Neftaliren lurraldea, itsas ondoko bidea, Jordanez haranzko lurraldea, jentilen Galilea!
+40004016	Ilunpetan zegoen herriak argi handia ikusi du. Itzalpean bizi zirenei argiak egin die distira.
+40006009	Zuek, egizue otoitz honela: «Gure Aita zerukoa, agertu santu zeure izena,
+40006010	etorrarazi zeure erregetza; betearazi lurrean zeure nahia, zeruan betetzen den bezala.
+40006011	Emaguzu gaur egun honetako ogia,
+40006012	eta barkatu gure erruen zorra, guk ere geure zordunei barkatu diegunez gero;
+40006013	ez utzi gu tentaldian erortzen, eta gorde gaitzazu gaiztoarengandik.
+40012018	Hona hemen nire zerbitzaria, nik hautatua, nire maitea, atsegin dudana. Beronen gain ezarriko dut neure espiritua: nazioei justizia iragarriko die.
+40012019	Ez du haserrerik sortuko, ez du oihu egingo, ez da kaleetan haren mintzoa entzungo.
+40012020	Kanabera printzatua ez du hautsiko, ahulduriko argi-metxa ez du itzaliko, justizia nagusi ezar dezan arte.
+40012021	Bera izango dute itxaropen nazioek.
+40013014	«Horrela, Isaias profetak esana betetzen da horiengan: «Entzungo duzue, bai, baina ulertu ez; ikusiko duzue, bai, baina ohartu ez.
+40013015	Izan ere, herri honek gogortu egin ditu buru-bihotzak, gortu belarriak, itsutu begiak. Ez bezate beren begiez ikus, ez belarriez entzun, ezta buruaz ulertu ere, horrela niregana bihur ez daitezen eta salba ez ditzadan.
+40013035	Honela bete zen Jainkoak profetaren bidez esana: Parabola bidez mintzatuko naiz, munduaren hasieratik gordea zegoena azalduko.
+40015008	Herri honek ezpainez ohoratzen nau, baina niregandik urrun du bihotza;
+40015009	alferrik naute gurtzen; hauen irakaspena giza agindu hutsa.
 40021005
 40022044
 41001003
