@@ -1,4 +1,8 @@
-### 40010004 corrected->	40010004	
+### this crawl seems to have some half complete verses and missing parts, e.g. 47002011 or 47008015
+### 40010004 corrected:	40010004	
+### 42003038 corrected: 42003038
+### Luke 24 in this version has different numbering compared to KJV as verses 42024011, 42024040 and 42024041 aren't translated in this version, numbering corrected below.	
+### 44005037 corrected: 44005037	Then after that, at tax time, another man named Judas from Galilee made trouble. Many people followed him. He also was killed and all of his followers were scattered.
 
 40001003	
 40001004	
@@ -33,38 +37,147 @@
 42003035	
 42003036	
 42003037	
-42006015
-42006016
-42024051
-42024052
-43006032
-43019008
-44001025
-44002010
-44002011
-44002024
-44002027
-44002035
-44004009
-44004030
-44004035
-44005002
-44005028
-44005039
-44010047
-44020008
-44021038
-44022003
-44028015
-45008038
-46006010
-46012030
-46014034
-47001023
-47002015
-47002016
-47008023
-47011029
+42006015	
+42006016	
+42024011
+42024012	But Peter got up and ran to the grave . He bowed down and looked in . He saw the linen clothes lying there , but nothing more . Then he left , wondering about what had happened .
+42024013	That same day , two of the disciples were going to the town called Emmaus . It was about two hours walk from Jerusalem .
+42024014	They were talking together about all the things that had happened .
+42024015	While they were talking and asking each other questions , Jesus himself came and walked with them .
+42024016	But even though they saw him , they did not know who he was .
+42024017	Jesus asked them , What is this that you are talking about as you walk along looking so sad ?
+42024018	One of them named Cleophas answered him . He said , Are you a stranger in Jerusalem and do not know what has happened there these last days ?
+42024019	Jesus said , What things ? " They said , All that has happened to Jesus of Nazareth . He was a prophet of God . He had power to do big works and to teach the people . He was respected by God and all the people .
+42024020	Our chief priests and rulers gave him over to be punished by death , and they nailed him to a cross .
+42024021	But we were hoping that he was the one who would free the people of Israel . But that is not all . This is the third day since they did it .
+42024022	Some of our women told us things that surprised us . Early this morning they were at the grave .
+42024023	They did not find his body there . They came back and said that they saw angels . The angels told them that Jesus was living .
+42024024	Some of us went to the grave . And they found everything just as the women said . But they did not see Jesus .
+42024025	Then he said to them , You foolish men ! Your hearts are slow to believe all that the prophets of God have said long ago .
+42024026	Christ had to have this trouble and go to the place where he will be great , did he not ?
+42024027	Then he told them the meaning of all that Moses and all the prophets of God long ago had written about him .
+42024028	They came near the village to which they were going . It looked as if he was going on further .
+42024029	But they begged him not to go further . They said , Stay with us . It will soon be night . The day is almost finished . So he went in to stay with them .
+42024030	He sat down at the table with them . Then he took the bread and thanked God for it . He broke it and gave it to them .
+42024031	Then they saw who he was . They knew him . And then suddenly they could not see him any more .
+42024032	They said to each other , It was like a fire burning in our hearts when he talked to us on the road and told us the meaning of the holy writings !
+42024033	They got up right then and went back to Jerusalem . There they found the eleven disciples together . Some other people were with them .
+42024034	These people said , The Lord has really risen ! He came to Simon !
+42024035	Then the men from Emmaus told them what had happened on the road . They told how they knew Jesus when he broke bread and gave it to them .
+42024036	While they were telling them this , Jesus himself stood there with them . He said to them , Peace to you !
+42024037	They were troubled and afraid . They thought they were seeing a spirit .
+42024038	He said to them , Why are you troubled ? Why do you wonder about these things in your hearts ?
+42024039	Look at my hands and my feet . You can see that it is I myself . Touch me with your hands and see . A spirit does not have a body and bones as you see I have .
+42024040
+42024041
+42024042	They gave him a piece of cooked fish .
+42024043	He took the fish and ate it in front of them .
+42024044	Then he said , I told you this while I was with you . I told you that things were written about me in the books of Moses , the Prophets , and the Psalms . And I told you that all of these things must come true .
+42024045	Then he taught them so that they understood the things in the holy writings .
+42024046	He said , It is written that the Christ must have trouble . On the third day he will rise from death .
+42024047	Men will talk in his name to people in all countries . They will tell them to stop their wrong ways and ask to be forgiven . They will begin in Jerusalem .
+42024048	You are the men who have seen these things , and will tell people about them .
+42024049	I will send you what the Father has promised to give you . So wait in the city of Jerusalem until you have been given power from God .
+42024050	Jesus led the disciples out as far as the town of Bethany . He put up his hands and blessed them .
+42024051	While he was blessing them , he left them . He was taken up into heaven .
+42024052	They bowed down and worshipped him . They were very happy and went back to Jerusalem .
+42024053	Every day they were in the temple praising God .
+43006032	
+43019008	
+44001025	
+44002010	
+44002011	
+44002024	
+44002027	
+44002035	
+44004009	
+44004030	
+44004035	
+44005002	
+44005028	
+44005039	
+44010047	
+44020008	
+44021038	
+44022003	
+44028015	
+45008038	I know this. Death, life, angels, rulers, things happening now, things that will happen,
+45008039	high things, low things; nothing else in all the world can come between us and Gods love in Christ Jesus our Lord.
+46006010	
+46012024	
+46012025	He did this so that the body would not be divided into groups, but all the parts would help each other.
+46012026	If one part has trouble, then all the other parts are troubled too. If one part is praised, then all the other parts are glad with it.
+46012027	Now, all of you together are the body of Christ, and each one of you is a part of it.
+46012028	God has given each person their right place in the church. First, there are the apostles.  Second, there are prophets who speak words from God. Third, there are those who teach. Then there are those who do big works. Then there are those who have the gifts to heal people, those who help in the work of the church people, those who lead and guide others, and those who speak Gods words in different kinds of tongues or languages.
+46012029	Are all the people apostles? Can they all speak words from God? Can they all teach? Can they all do big works?
+46012030	Do they all have the gifts to heal the sick people? Can they all speak in different tongues?  Can they all tell the meaning of these tongues?
+46012031	You should seek after the best gifts. But I will show you a way that is much better than any of them!
+46014034	
+47001002	May God our Father and the Lord Jesus Christ bless you with their loving kindness and peace . Father of our Lord Jesus Christ ! He is a very , very kind Father to us . He is a God who always comforts and helps people .
+47001003	
+47001004	He helps us every time we have trouble . Then we are able to be strong and help other people every time they have trouble . We can do this with the same comfort that God gives us .
+47001005	We have plenty of the same troubles that Christ had . But we also have plenty of comfort and help from him .
+47001006	When we have trouble , it is for your sake so that you will be helped and saved . When we are comforted , this helps you . Then you will stand strong when you have the same troubles we have .
+47001007	Our hope for you is strong . If you have the same trouble we have had , then you will also have the same comfort and help we have . This we know .
+47001008	Brothers , we want you to know about the trouble we had in the country of Asia Minor . We were not strong enough to carry such a load of trouble . It was so heavy we thought we would die .
+47001009	Yes , we really felt our time had come to die . This was to make us trust , not in ourselves , but in God . He brings people back to life .
+47001010	He saved us from the death that was so near , and he still saves us . We believe that God will keep on saving us .
+47001011	But you must help us also . You must talk to God about us . When many people ask God to help us , then many people will thank God for the way he has blessed us . ourselves . Our hearts tell us that we have lived the right way in the world , and even more so toward you . We have lived a clean and true life as God wants us to . We have not trusted in the wise things of men , but in the blessing of God .
+47001012	
+47001013	We write you nothing but what you have been reading out to the people , and what you all know . I hope that you will really know what is right even to the end .
+47001014	You already know something about us . I hope that you will come to know us fully . On the day when the Lord Jesus comes you will be proud of us . So too will we be proud of you .
+47001015	Because I was sure of this , I wanted to visit you before . Then you would have had a double blessing .
+47001016	I wanted to visit you and then go to Macedonia . I wanted to visit you again when I was on my way back from Macedonia . Then you would send me on my way to Judea .
+47001017	That was what I wanted to do . Now then , did I act as if I did not know what I wanted ? When I make my plans , do you think I make them like a man of this world ? Do I say Yes when I mean to say No ?
+47001018	As surely as God is true , our message to you was not Yes and No at the same time .
+47001019	Silvanus and Timothy and I told you about the Son of God , Jesus Christ . His word was not Yes and No . It was always Yes .
+47001020	To the many promises God has made Christ can say Yes . He can make them all come true . So then , it is because of Christ that we can say , Yes , it is so ! when we praise God .
+47001021	It is God who makes us stand strong with you in Christ . God has chosen us and put his mark on us .
+47001022	He has put his Spirit in our hearts . This is the first part of what we are to receive , and it proves that we will receive all God has promised .
+47001023	Let God take my life if what I say is not true . I did not go to Corinth because I did not want to make you sad .
+47001024	We do not rule over what you believe . But we work with you to make you glad . You are strong already by believing as you do .
+47002004	When I wrote to you , I was in great trouble and my heart was very heavy . I cried with many tears . I did not want you to be sad , but I just wanted to let you know that I love you very much who made me sad . It was not only me that he made sad . It was every one of you , in a way . I say in a way because I do not want to be too strong in what I say .
+47002005	
+47002006	That man has been punished enough by what most of you did to him .
+47002007	So now , you ought to forgive him and comfort him . If you do not , then he may be so sad he cannot bear it .
+47002008	So I beg you , show your love to him again .
+47002009	Here is why I wrote to you . I wanted to test you to find out if you obey me in all matters .
+47002010	Anyone whom you forgive , I also forgive . And if I have had anything to forgive , I have already forgiven it for your sakes , just as if we were standing before Christ .
+47002011	I have done this so that Satan will not get ahead of us . We know his tricks . of Troas to tell the good news of Christ , the door was open for me to work for the Lord .
+47002012	
+47002013	But my mind was troubled because I did not find my brother Titus there . So I said goodbye to the people there and went on to the country of Macedonia . Christ . And Christ leads us to victory every time . To know Christ is like a sweet smell . And God lets us carry that sweet smell of his truth everywhere .
+47002014	
+47002015	We are like a sweet smell to God . It is the smell of Christ we have . We have this sweet smell among the people who are saved and among those who are lost .
+47002016	To some it smells like death and brings death to those who are lost . To others it smells like life and it brings life to those who are saved . Who is good enough for such things ?
+47002017	We are not like some people . They tell Gods message to make money . But we tell it with a true heart just as God told it to us . We tell it as if we stood before God . And we tell it with Christs help .
+47008015	The holy writings say , The person who had plenty did not have too much . And the person who did not have much , had enough . care for you into the heart of Titus that I have .
+47008016	
+47008017	He was glad to go when I asked him , but he is also coming to you because he himself wants to come .
+47008018	We are sending another brother with him . This brother has a good name in all the churches because he tells the good news .
+47008019	Not only that , but the churches have chosen him to travel with us as we take care of this gift . We are doing this so that the Lord will be praised . We want to help others .
+47008020	We do not want anyone to say that we have not done the right thing . So we are taking care of this big gift in the right way .
+47008021	We want to do what the Lord says is right , but also what people say is right .
+47008022	And we are also sending another brother with them . We have found him to be glad to help us in many matters , many times . And now he is much more glad to help because he trusts you very much .
+47008023	I want to say this . Titus is my close friend and he works with me . And about our other brothers , they have been sent by the churches . They bring praise to Christ .
+47008024	Now then , prove that you love them . Prove that what we have said about you is true . Then the churches will know it .
+47011015	So it is not strange if his workers also try to make themselves look like Gods workers who do right . They will come to an end like the work they do !
+47011016	think that I am foolish . But if you do , then please listen to me as if I were foolish . I also want to do a little talking about myself .
+47011017	I am not talking like the Lord when I say this . It seems foolish to say so much about myself .
+47011018	Many people talk about themselves in the world . So I will too .
+47011019	Since you are wise , you still agree to listen to foolish people .
+47011020	You listen to a man even if he makes slaves of you , even if he spends all your money , even if he catches you in a trap , even if he is proud of himself , even if he slaps you in the face .
+47011021	I am ashamed , but I must say that we were too weak to be like that ! Anything that others want to be proud of , I can talk about too . And yet it is really foolish to do so .
+47011022	Are they Hebrew people ? So am I . Are they Israels people ? So am I . Is Abraham their father ? He is mine too .
+47011023	Are they workers for Christ ? ( I talk like one who is not in his right mind . ) I am a better worker . I have worked much harder . I have been in prison more often . I have been beaten many , many times . Often I have almost died .
+47011024	The Jewish leaders five times gave me thirty nine strikes with the rope .
+47011025	Three times people beat me with sticks , and once they threw rocks at me . Three times I was in a boat when it broke in the sea . I have been in the water all one night and day .
+47011026	I have travelled much . I have crossed bad rivers . I have gone where men might steal my things . The Jews and those who are not Jews have troubled me . I have been in hard places in the city . I have had hard times in the desert . I have had hard times on the water . I have had hard times among those who should have been my brothers and were not .
+47011027	I have worked hard . I have been tired out . I have often had no sleep at night . I have been hungry and thirsty . I have often had nothing to eat . I have been cold and did not have enough clothes to wear .
+47011028	Beside all other things , my heart is troubled about the churches . That is a load I carry every day .
+47011029	When anyone is weak , I am weak too . When anyone is made to fall away , my heart burns within me
+47011031	God knows I am not telling lies . He is the Father of our Lord Jesus Christ and he is to be praised forever .
+47011032	In the city of Damascus a man ruled for king Aretas . He had the gates of the city guarded because he wanted to catch me .
+47011033	But I sat in a basket . Then it was put out through a window in the wall and was let down . And so I got away from him .
 49003020
 52005026
 52005027
