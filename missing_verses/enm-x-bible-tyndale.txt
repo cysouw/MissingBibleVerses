@@ -1,11 +1,25 @@
-40005047
-41002020
-41002021
-41002022
-41011027
-42017037
-45001022
-46003021
-48005021
-58011040
-66021027
+### Verse 40005048 contains verse 40005047 as well, split below according to KJV
+### Verses 42017036 and 66021026 are missing
+### Verse 45001023 contains verse 45001022 as well, split below according to KJV
+### Verse 46003022 contains verse 46003021 as well, split below according to KJV
+### Verse 48005021 contains verse 48005020 as well, split below according to KJV
+### Verse 58011040 contains verse 58011039 as well, split below according to KJV
+
+40005047	And yf ye be frendly to youre brethren onlye: what singuler thynge doo ye? Do not the Publicans lyke wyse?
+40005048	ye shall therfore be perfecte eve as youre father which is in heauen is perfecte.
+41002020	But the dayes will come when the brydgrome shalbe taken from them and then shall they faste in those dayes.
+41002021	Also no ma soweth a pece of newe cloth vnto an olde garmet for then taketh he awaye ye newe pece fro the olde and so is the rent worsse.
+41002022	In lyke wyse no man poureth newe wyne into olde vessels: for yf he do the newe wyne breaketh the vessels and the wyne runneth out and the vessels are marred. But new wyne must be poured into new vessels.
+41011027	And they came agayne to Hierusalem. And as he walked in the teple ther came to him ye hye prestes and the Scribes and the elders
+42017036
+42017037	And they answered and sayde to him: wheare Lorde? And he sayd vnto the: whersoever ye body shalbe thyther will the egles resoorte.
+45001022	When they couted them selves wyse they became foles
+45001023	and turned the glory of the immortall god vnto the similitude of the ymage of mortall man and of byrdes and foure foted beastes and of serpentes.
+46003021	Therfore let no ma reioyce in men. For all thinges are youres
+46003022	whether it be Paul other Apollo other Cephas: whether it be ye worlde other lyfe other deeth whether they be present thinges or thinges to come: all are youres
+48005020	ydolatrye witchecraft hatred variaunce zele wrath stryfe sedicion sectes
+48005021	envyinge murther dronkenes glottony and soche lyke: of the which I tell you before as I have tolde you in tyme past that they which comit soche thinges shall not inherite ye kyngdome of God.
+58011039	And these all thorow fayth obtayned good reporte and receaved not the promes
+58011040	God provydinge a better thinge for vs that they with out vs shuld not be made parfecte.
+66021026
+66021027	And there shall entre into it none vnclene thynge: nether what soever worketh abhominacion: or maketh lyes: but they only which are wrytten in the lambes boke of lyfe.
