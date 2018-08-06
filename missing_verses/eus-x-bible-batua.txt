@@ -18,237 +18,314 @@
 40013035	Honela bete zen Jainkoak profetaren bidez esana: Parabola bidez mintzatuko naiz, munduaren hasieratik gordea zegoena azalduko.
 40015008	Herri honek ezpainez ohoratzen nau, baina niregandik urrun du bihotza;
 40015009	alferrik naute gurtzen; hauen irakaspena giza agindu hutsa.
-40021005
-40022044
-41001003
-41007007
-41012011
-42001047
-42001048
-42001049
-42001050
-42001051
-42001052
-42001053
-42001054
-42001055
-42001068
-42001069
-42001070
-42001071
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002029
-42002030
-42002031
-42002032
-42003005
-42003006
-42004018
-42004019
-42009030
-42009031
-42011003
-42011004
-42020030
-42020031
-42020043
-43001001
-43001002
-43001003
-43001004
-43001005
-43001009
-43001010
-43001011
-43001012
-43001013
-43001014
-43001016
-43001017
-43001018
-43004007
-43004008
-43009013
-43009014
-43012015
-43012040
-43013002
-43013003
-44001001
-44001002
-44001021
-44001022
-44002017
-44002018
-44002019
-44002020
-44002021
-44002026
-44002027
-44002028
-44002035
-44004026
-44007043
-44007049
-44007050
-44008033
-44011002
-44011003
-44013041
-44015016
-44015017
-44015018
-44024002
-44024003
-44028026
-44028027
-45001001
-45001002
-45001003
-45001004
-45001006
-45001007
-45003011
-45003012
-45003013
-45003014
-45003015
-45003016
-45003017
-45003018
-45003025
-45003026
-45004007
-45004008
-45009011
-45009012
-45009013
-45009026
-45009028
-45011010
-45011027
-45011034
-45011035
-46002016
-46005012
-46005013
-46013004
-46013005
-46013006
-46013007
-46013008
-46013009
-46013010
-46013011
-46013012
-46013013
-46015055
-47006017
-47006018
-47012003
-47012004
-48001015
-48001016
-49001003
-49001004
-49001005
-49001006
-49001007
-49001008
-49001009
-49001010
-49001011
-49001012
-49001013
-49001014
-49001019
-49001020
-50002006
-50002007
-50002008
-50002009
-50002010
-50002011
-51001015
-51001016
-51001017
-51001018
-51001019
-51001020
-52001002
-52001003
-54003014
-54003015
-54006016
-55002012
-55002013
-55003006
-55003007
-56001001
-56001002
-58001009
-58001011
-58001012
-58002007
-58002008
-58003008
-58003009
-58003010
-58003011
-58008009
-58008010
-58008011
-58008012
-58010006
-58010007
-58010016
-58010017
-58010038
-58012006
-59001019
-59001020
-60001025
-60002008
-60002010
-60002022
-60002023
-60002024
-60002025
-60003011
-60003012
-66001007
-66002027
-66002028
-66004011
-66005010
-66007005
-66007006
-66007007
-66007008
-66011018
-66012011
-66012012
-66013010
-66015004
-66016006
-66018003
-66018005
-66018006
-66018007
-66018008
-66018014
-66018017
-66018020
-66018022
-66018023
-66018024
-66019002
-66019007
-66019008
+40021005	Esan Sion hiri ederrari: Hara, badatorkizu zeure erregea, apal eta astotxo baten gainean, astakume baten gainean.
+40022044	Hona Jaunak ene Jaunari esana: «Eseri nire eskuinean, zeure etsaiak oinazpian jartzen dizkizudan bitartean».
+41001002	Isaias profetak idatzia zuen: Begira, neure mezularia bidaltzen dut zure aurretik zuri bidea moldatzera.
+41001003	Ahots bat oihuka ari da basamortuan: Prestatu bidea Jaunari, zuzendu bidexkak hari.
+41007006	Jesusek erantzun zien: —Itxurazaleok halakook! Ederki asko esan zuen zuetaz Isaias profetak, honako hau idatzi zuenean: Herri honek ezpainez ohoratzen nau, baina niregandik urrun du bihotza;
+41007007	alferrik naute gurtzen; hauen irakaspena giza agindu hutsa.
+41012010	Ez al duzue irakurri Liburu Santuetako hura: «Etxegileek bazterturiko harria giltzarri gertatu da.
+41012011	Jaunak egin du hori, gure begien harrigarri?»
+42001047	«Jaunaren handitasuna dut goresten, pozaren pozez daukat barrena, Jainkoa baitut salbatzaile.
+42001048	Bere mirabe ezerez honengan jarri ditu begiak; horregatik, dohatsu deituko naute guztiek gaurdanik.
+42001049	Gauza handiak egin ditu nire alde Ahalguztidunak. Santua da
+42001050	eta gizaldiz gizaldi errukitsua begirune diotenentzat.
+42001051	Bere indar guztiaz jokatu du: buru-harroak suntsitu ditu,
+42001052	ahaltsuak goi-postuetatik bota eta ezerezak gora jaso;
+42001053	ondasunez bete ditu gose zeudenak, eta esku-hutsik bidali aberatsak;
+42001054	lagun etorri zaio bere herri Israeli, bere errukiaz oroiturik:
+42001055	hala hitzemana zien gure arbasoei, Abrahami eta ondorengoei betiko».
+42001068	«Bedeinkatua Jauna, Israelen Jainkoa, bere herriarengana etorri eta askatu duena!
+42001069	Salbatzaile indartsua sortu digu bere zerbitzari Daviden ondorengoen artean.
+42001070	Hala hitzemana zuen antzinatik bere profeta santuen ahoz:
+42001071	salbatuko gintuela gure etsaien menpetik, gorroto gaituzten guztien eskutik;
+42001072	horrela agertu du gure gurasoenganako errukia eta oroitu da bere itun santuaz,
+42001073	gure arbaso Abrahami egindako zin-hitzaz: berak emango zigula,
+42001074	etsaien menpetik libraturik, beldur gabe bera zerbitzatzea,
+42001075	santutasun eta justiziaz, beraren aurrean geure bizitza guztian.
+42001076	Eta zuri, haurtxo horri, Goi-goikoaren profeta deituko dizute, Jaunaren aurretik joango baitzara hari bidea prestatuz,
+42001077	haren herriari salbamena, bekatuen barkamena iragarriz.
+42001078	Gure Jainkoaren barru errukitsuari esker, goiz-argia agertuko zaigu zeru goitik,
+42001079	ilunperik beltzenean daudenei argi egitera, gure pausoak bake-bidetik zuzentzera».
+42002029	«Orain bai, Jauna, zeuk hitzeman bezala, utz diezaiokezu zeure morroi honi bakean hiltzen!
+42002030	Ikusi dute nire begiok zure Salbatzailea,
+42002031	herri guztien aurrean zuk aurkeztua:
+42002032	nazioak argitzeko argi eta zure herri Israelen ospe».
+42003004	Horrela, Isaias profetaren liburuan idatzirik dagoena gertatu zen: Ahots bat oihuka ari da basamortuan: Prestatu bidea Jaunari, zuzendu bidexkak hari.
+42003005	Bete daitezela sakanak, beheratu mendi-muinoak; bihur bitez zelai eta lautada paraje latz eta malkarrak.
+42003006	Orduan, gizaki guztiek ikusiko dute Jainkoak ematen duen salbamena.
+42004018	Jaunaren espiritua nire gainean dago, berak bainau sagaratu behartsuei berri ona adierazteko; berak nau bidali gatibuei askatasuna eta itsuei ikusmena hots egitera eta zapalduak askatzera,
+42004019	Jaunak onginahia azalduko duen urtea hots egitera .
+42009030	Hartan, bi gizon azaldu ziren, aintzaz distiratsu: Moises eta Elias, eta Jesusekin mintzo ziren Jerusalemen gertatzekoa zen honen heriotzaz.
+42009031	
+42011002	Jesusek esan zien: «Otoitz egitean, esazue: «Aita, agertu santu zeure izena, etorrarazi zeure erregetza;
+42011003	emaguzu egunean eguneko ogia,
+42011004	eta barkatu gure bekatuak, guk ere zor diguten guztiei barkatzen baitiegu, eta ez utzi gu tentaldian erortzen».
+42020017	Baina Jesusek, begira-begira jarririk, esan zien: —Zer esan nahi du, bada, Liburu Santuak dioen honek: Etxegileek bazterturiko harria giltzarri gertatu da?
+42020030	Bigarrena eta hirugarrena alarguntsarekin ezkondu ziren, eta zazpiak berdin. Eta denak seme-alabarik gabe hil ziren.
+42020031	
+42020042	Izan ere, Davidek berak dio Salmoen liburuan: «Hona Jaunak ene Jaunari esana: “Eseri nire eskuinean,
+42020043	zeure etsaiak oinazpian jartzen dizkizudan bitartean”.
+43001001	Hasieran bazen Hitza. Hitza Jainkoarekin zegoen eta Hitza Jainko zen.
+43001002	Hasieran Jainkoarekin zegoen Hitza.
+43001003	Gauza guztiak beronen bidez egin ziren, eta egindakotik ezer ez da berau gabe egin.
+43001004	Hitzarengan zegoen bizia, eta bizia gizakien argia zen;
+43001005	argi horrek ilunpetan egiten du argi, baina ilunpeek ez zuten onartu.
+43001009	Hitza zen egiazko argia, mundura etorriz gizaki guztiak argitzen dituena.
+43001010	Munduan zegoen eta, mundua haren bidez egina izan arren, mundukoek ez zuten onartu.
+43001011	Bere etxera etorri zen, baina beretarrek ez zuten onartu.
+43001012	Onartu zuten guztiei, ordea, berarengan sinesten dutenei, alegia, Jainkoaren seme-alaba izateko ahalmena eman zien.
+43001013	Hauek ez dira giza odolekoak, ezta gizakiaren borondatez sortuak ere, Jainkoarengandik jaioak baizik.
+43001014	Eta Hitza gizon egin zen eta gure artean jarri bizitzen. Ikusi dugu haren Jainko-aintza, Aitarengandik maitasun eta egiaz betea datorren Seme bakarrari dagokion aintza.
+43001016	Izan ere, guztiok hartu dugu haren betearen betetik, eta maitasuna maitasunaren gain hartu ere.
+43001017	Legea Moisesen bidez eman zen; maitasuna eta egia, berriz, Jesus Mesiasen bidez.
+43001018	Jainkoa ez du inork inoiz ikusi; Aitaren baitan dagoen eta Jainko den Seme bakarrak eman digu haren berri.
+43001023	Joanek, Isaias profetaren hitzak aipatuz, esan zuen: —Ni, «Prestatu bidea Jaunari» basamortuan oihuka ari denaren ahotsa naiz.
+43004007	Ikasleak hirira joanak ziren janaria erostera. Hortan, Samariako emakume bat etorri zen putzura ur bila. Jesusek esan zion: —Emadazu edaten.
+43004008	
+43009013	Larunbata zen Jesusek lohia egin eta begiak ireki zizkion eguna. Horregatik, fariseuengana eraman zuten itsu izandako hura,
+43009014	
+43012015	Ez beldur izan, Sion hiri eder! Hara, badatorkizu zeure erregea, astakume baten gainean eseria.
+43012038	horrela, Isaias profetak esana bete zen: Jauna, nork sinetsi du gure mezua? Eta nori agertu dio Jaunak bere ahalmena?
+43012040	Itsutu egin ditu haien begiak, gogortu haien buru-bihotzak. Ez bezate beren begiez ikus, ezta buruaz ulertu ere, horrela niregana bihur ez daitezen eta salba ez ditzadan.
+43013002	Deabruak Simon Iskarioteren seme Judasi sartua zion buruan Jesus saltzeko asmoa. Jesusek bazekien dena bere esku jarri ziola Aitak, eta Jainkoarengandik etorria zela eta Jainkoarengana zihoala. Afaltzen ari zela,
+43013003	
+44001001	Teofilo maitea: Neure lehen liburuan, hasieratik zerura jasoa izan zen eguna arte Jesusek egin eta irakatsi zuen guztiaz idatzi nuen. Zerura igo aurretik, Espiritu Santuaren eraginez azken aginduak eman zizkien berak aukeratutako apostoluei.
+44001002	
+44001020	Hau dago idatzia, hain zuzen, Salmoen liburuan: «Bihur bedi haren bizilekua basamortu, geldi bedi inor gabe. «Eta beste hau ere bai: «Har beza beste batek haren kargua.
+44001021	«Beharrezkoa da, beraz, norbait gure taldeari elkartzea. Jesus Jauna gure artean bizi izan den denbora guztian —Joanek bataiatu zuenetik zerura jasoa izan den arte, alegia— gurekin ibili direnetakoa izan behar du, gurekin batera haren piztueraren lekuko izan dadin».
+44001022	
+44002017	«Hau dio Jainkoak: Azken egunetan neure espiritua isuriko diet gizaki guztiei. Zuen seme-alabek profetizatu egingo dute, zuen gazteek ikuskariak izango, zuen zaharrek ametsak egingo.
+44002018	Neure morroi eta mirabeei ere neure espiritua isuriko diet egun haietan eta profetizatu egingo dute.
+44002019	Gauza harrigarriak egingo ditut goian, zeruan, eta mirariak behean, lurrean: odola eta sua eta ke-lainoa.
+44002020	Eguzkia ilunpe bihurtuko da, ilargiak odol-itxura hartuko du, Jaunaren eguna, egun handi eta ospetsua, iritsi baino lehen.
+44002021	Orduan, Jaunari dei egin diezaiona salbatuko da.
+44002025	Izan ere, honela dio Davidek hartaz: «Begi aurrean dut Jauna etengabe; bera ondoan dudala, ez naiteke koloka.
+44002026	Horregatik, alai daukat bihotza, pozez kantari mihia, itxaropenean lasai gorputza.
+44002027	Ez bainauzu Herio Leizera botako, zure fededuna ez duzu hilobian galtzen utziko.
+44002028	Bizirako bidea erakutsiko didazu: zeure aurrean alaitasunez beteko.
+44002034	David ez zen zerura igo; hala ere, hau dio: «Hona Jaunak ene Jaunari esana: “Eseri nire eskuinean,
+44002035	zeure etsaiak oinazpian jartzen dizkizudan bitartean”.
+44004025	zuk esan zenuen Espiritu Santuaren bidez eta gure aita David zeure zerbitzariaren ahoz: «Zergatik dabiltza iskanbilan nazioak, eta asmo ustelak asmatzen herriak?
+44004026	Mundu honetako erregeak altxatu dira, eta agintedunek elkar hartu dute Jaunaren eta berak aukeraturiko Mesiasen aurka.
+44007042	Horregatik, Jainkoak bizkarra eman zien, eta, beren kasa utzi zituelarik, ortziko izarrak gurtu zituzten, profeten liburuan idatzia dagoen bezala: «Israelherria, basamortuan berrogei urtez abererik hil eta oparitzat eskaini ote zenidan?
+44007043	Ez! Molok-en oihal-etxola eta zeuen jainko Refanen izarra eraman zenituzten zeuekin, gurtzeko zeuek eginiko irudiak. Bada, Babiloniaz haraindi erbesteratuko zaituztet.
+44007049	«Neure tronu dut zerua, neure oin-aulki lurra. Hala diot nik, Jaunak: Zer etxe egingo didazue, bada, edo zein toki nire atsedenerako?
+44007050	Ez ote dira neuk eginak gauza guztiok?
+44008032	Irakurtzen ziharduen pasartea honako hauxe zen: Hiltzera daramaten arkumeak bezala, moztaileen aurrean isilik dagoen ardiak bezala, ez zuen ahorik zabaldu.
+44008033	Gizon ezereza zelako ez zioten justiziarik egin. Nork aipatuko du haren ondorengotza? Erauzi egin baitzuten haren bizia lurretik.
+44011002	Pedro Jerusalemera itzuli zenean, erdainkuntzaren aldeko fededun juduek erdaingabeen etxean sartu eta beraiekin jan zuela bota zioten aurpegira.
+44011003	
+44013033	guretzat, haien ondorengoontzat, bete duela Jainkoak, Jesus hildakoen artetik piztuz. Hala dago idatzia bigarren Salmoan: «Nire semea zara zu, gaur zaitut nik sortu.
+44013041	«Ikusazue , harro sinesgogorrok, harri zaitezte eta desagertu betiko! Egintza harrigarri bat egingo baitut zuen egunotan, inork kontatuko balizue sinetsiko ez zenuketena».
+44013047	Honela esan baitigu Jaunak: «Nazioen argitzat ezarri zaitut, salbamena lurraren bazterreraino eraman dezazun».
+44015016	«Ondoren, itzuli egingo naiz eta Daviden etxola eroria berreraikiko dut; horma hondatuak berreraikiko dizkiot, eta zutik jarriko dut berriro;
+44015017	gainerako gizakiek Jauna bila dezaten, nireak diren nazio guztiek. Hala diot nik, Jaunak, hori guztia
+44015018	antzinatik jakinarazi duenak.
+44024002	Deitu zioten Paulori, eta Tertulok honela hasi zuen salakuntza: «Felix agurgarria, zuri esker eta zuk zeure arduraz nazio honen onerako egin dituzun hobekuntzei esker, bakerik ederrenean bizi gara. Eta esker onez beterik gaude guztiarengatik beti eta nonahi.
+44024003	
+44028026	«Zoaz eta esaiozu herri honi: Entzungo duzue, bai, baina ulertu ez; ikusiko duzue, bai, baina ohartu ez.
+44028027	Izan ere, herri honek gogortu egin ditu buru-bihotzak, gortu belarriak, itsutu begiak. Ez bezate beren begiez ikus, ez belarriez entzun, ezta buruaz ulertu ere, horrela niregana bihur ez daitezen eta salba ez ditzadan.
+45001001	Nik, Paulok, Jesu Kristoren zerbitzari honek, idazten dizuet. Jainkoak deitu ninduen apostolu izateko eta Liburu Santuetan profeten ahoz aurrez agindua zeukan berri ona hots egiteko.
+45001002	
+45001003	Berri on hau Jainkoaren Semeari buruzkoa da, Jesu Kristo gure Jaunari buruzkoa, alegia: berau giza jatorriz Daviden hazitik jaio zen; baina, hildakoen artetik piztu zenez gero, santu egiten duen Espirituaz Jainkoaren Seme ahaltsu egina izan da.
+45001004	
+45001006	Hauetakoak zarete zuek ere, Erroman bizi zaretenok. Jainkoak maite izan zaituzte eta Jesu Kristoren elkarteko eta bere herri santu izateko deitu. Jainko gure Aitak eta Jesu Kristo Jaunak eman biezazkizuete grazia eta bakea.
+45001007	
+45003004	Ez horixe! Garbi aitortu beharra dago Jainkoa egiatia dela; gizon-emakume guztiak, berriz, hitz ustelekoak, Liburu Santuak dioen bezala: Horrela, leial zarela agertuko dute zure hitzek, eta auzian garaile aterako zara.
+45003010	Eta honelaxe diote Liburu Santuek: Ez da bat bera ere zuzenik,
+45003011	ez zentzu onekorik, ez Jainkoa bilatzen saiatzen denik.
+45003012	Denak okertu dira, bat egin dute galdukerian. Ez da inor on dagienik, bat bera ere ez.
+45003013	Haien eztarria hilobi zabaldua, haien mihian azpikeria, haien ezpainetan sugegorri-pozoia.
+45003014	Betea dute ahoa madarikazioz eta mingostasunez.
+45003015	Arinak dituzte oinak odola isurtzeko;
+45003016	hondamendia eta zoritxarra uzten dute pasatzen diren tokian;
+45003017	ez dute ezagutzen bake-bidea.
+45003018	Haiengan ez da Jainkoarenganako beldurrik.
+45003025	Jesu Kristok bere odola isuri zuen, eta Jainkoak barkamen-bide egin du Kristo beronengan sinesten dutenentzat. Horrela, garbi erakusten du Jainkoak zuzen jokatu zuela bere eroapenaz lehengo bekatuak zigortu gabe utzi zituenean, eta zuzen jokatzen duela orain ere, bera salbatzaile azaldu eta Jesusengan sinesten dutenak onartzen dituenean.
+45003026	
+45004007	Zoriontsua Jainkoak hobena kendu eta bekatuak barkatu dizkiona.
+45004008	Zoriontsua Jainkoak bekatua egozten ez diona.
+45009011	Eta seme haiek jaio aurretik, artean ez onik, ez gaitzik egiteko gai ez zirela, Jainkoak esan zion Rebekari: Zaharrena gazteenaren morroi izango da, edo beste pasarte batek dioen bezala, Jakob izan nuen maite, eta ez Esau . Eta hori guztia, Jainkoak aukeratzeko duen askatasuna berresteko eta Jainkoak, aukera egiterakoan, giza jokabidea ez, baizik eta bere dei hutsa hartzen duela kontuan adierazteko izan zen.
+45009012	
+45009013	
+45009015	berak esana baitio Moisesi: Nik mesede egin nahi diodanari egiten diot mesede, eta gupida izan nahi diodanari izaten gupida.
+45009025	Hori da Oseasen liburuan esaten dena: «Ez-nire-herria»ri «Zu-nire-herria» esango diot; eta «Ez-maitea»ri «Maitea» .
+45009026	Eta, «Zuek ez zarete nire herria» esan beharrean, «Jainko biziaren seme-alaba» deituko ditu Jainkoak.
+45009027	Isaiasek, berriz, hau dio Israeli buruz: Israeldarrak itsasoko hondarrak bezain ugariak izango balira ere, bakar batzuk besterik ez dira salbatuko.
+45009028	Beteko du erabakia Jaunak, oso-osorik eta luzapenik gabe bete ere lurrean.
+45009029	Baina Isaiasek beste hau ere esan zuen aurrez: Jaun ahalguztidunak gutariko batzuk bizirik utzi ez balitu, Sodomaren eta Gomorraren azkena izango genukeen guk ere.
+45009033	Liburu Santuak dioen bezala: Hona nik Sionen behaztopa-harria ipini, erorarazteko harkaitza. Baina harengan sinesten duenak ez du huts egingo.
+45011008	Liburu Santuak dioen bezala: Jainkoak adimena itsutu egin zien. Begiak eman zizkien, baina ez ikusteko, belarriak ere bai, baina ez entzuteko Eta horrela gaur arte.
+45011009	Eta Davidek honela dio: Gerta bekizkie beren otorduak tranpa eta sare, erorbide eta zigor.
+45011010	Lauso bitez haien begiak, ez dezaten ikus, makur bekie bizkarra betiko.
+45011026	orduan, Israel osoa salbatuko da, Liburu Santuak dioenez: Siondik etorriko da askatzailea, eta sinesgogorkeria kenduko du Jakoben ondorengoengandik.
+45011027	Hona haiekin egingo dudan ituna, bekatuak barkatuko dizkiedanean.
+45011034	Nork ezagutu du Jaunaren pentsamendua? Nor izan da haren aholkulari?
+45011035	Nork eman dio hari lehenengo, gero hark itzuli behar izateko?
+46002016	Nork ezagutu du Jaunaren pentsamendua? Nork irakats diezaioke? Guk, ordea, Kristoren pentsamendua dugu.
+46005012	Ez dagokit niri kanpokoak epaitzea; horiek Jainkoak epaituko ditu. Zuek elkartekideak epaitu behar dituzue. Liburu Santuak dio: Bota gaiztoa zeuen artetik.
+46005013	
+46013004	Maitasuna eraman onekoa eta bihozbera da; ez du bekaizkeriarik, ez handiusterik, ez harropuzkeriarik.
+46013005	Ez da lotsagabea, ez berekoia, ez haserrekorra; kaltea ez du gogoan hartzen.
+46013006	Ez da bidegabekeriaz pozten, baizik eta egian pozten da.
+46013007	Maitasunak dena barkatzen du, dena sinesten, dena itxaroten, dena ongi eramaten.
+46013008	Maitasuna ez da behin ere itzaltzen. Profezi dohaina desagertu egingo da, hizketa arrotzez mintzatzea amaituko, ezaguera ere amaituko.
+46013009	Erdizkakoa baita orain gure ezaguera, erdizkakoa gure profezia;
+46013010	eta, bete-betekoa iristean, desagertu egingo da erdizkakoa.
+46013011	Haur nintzenean, haur bezala mintzo nintzen, haur bezala sentitzen nuen, haur bezala juzgatzen. Gizon egin naizenean, utzi egin ditut haur-gauzak.
+46013012	Orain dena ilun ikusten dugu, ispiluan bezala; gero aurrez aurre ikusiko dugu; orain erdizka ezagutzen dut; gero oso-osoan ezagutuko dut dena, Jainkoak neu ezagutzen nauen bezala.
+46013013	Hiru gauza ditugu oraindanik, iraunkor direnak: sinesmena, itxaropena eta maitasuna; baina hiruretan handiena maitasuna da.
+46015032	Efeson basapiztien kontra borroka egin nuen hartan, giza helburu hutsez ari izan banintz, zer irabaziko nukeen horrekin? Hilak pizten ez badira, jan dezagun eta edan, bihar hil behar dugu eta.
+46015054	Gure izate ustelkorra bizi ustelezinez jantziko denean, eta izate hilkorra hilezkortasunez, orduan beteko da Liburu Santuak dioena: Behin betiko galdua gertatu da heriotza.
+46015055	Non duk , Herio, heure garaipena? Non heure eztena?
+47006016	Zein kidetasun izan dezake Jainkoaren tenpluak sasijainkoekin? Zeren gu Jainko biziaren tenplu baikara, Jainkoak berak esan bezala: Haiekin biziko naiz eta haiekin ibiliko, haien Jainko izango naiz eta haiek nire herri.
+47006017	Horregatik, hau dio Jaunak: Irten haien artetik, urrundu, ez ukitu ezer kutsaturik, eta neuk hartuko zaituztet.
+47006018	Aita izango naiz zuentzat, eta zuek seme-alaba niretzat. Hau dio Jaun ahalguztidunak.
+47012003	Eta badakit gizon hori paradisura eraman zutela —gorputzarekin ala gorputzik gabe ez dakit, Jainkoak daki—, eta han, gizakiak ezin esan ditzakeen hitzak entzun zituela.
+47012004	
+48001015	Baina Jainkoak, jaio baino lehen aukeratu eta bere onginahiaz dei egin zidanak, gogoko izan zuen bere Semea niri agertzea, beronen berri ona jentilei adieraz niezaien. Nik, orduan, ez nion hezur-mamizko inori aholkurik eskatu,
+48001016	
+49001003	Goretsia izan bedi Jainkoa, Jesu Kristo gure Jaunaren Aita, zeruan, Kristoren bitartez, Espirituaren ondasun oroz bedeinkatu gaituena!
+49001004	Kristorengan aukeratu gintuen mundua mundu izan baino lehen, haren aurrean santu eta akats gabe izan gaitezen maitasunez.
+49001005	Bere onginahiak eraginda, ordutik zuen erabakia Jesu Kristoren bitartez gu seme-alabatzat hartzea,
+49001006	bere Seme maitearengan eskuzabal eman digun dohain zoragarria berarentzat gorespen-kantu bihur dadin.
+49001007	Semeak bere heriotzaz askapena eta bekatuen barkamena lortu dizkigu, Jainkoaren eskuzabaltasun agorrezinaren erakusgarri;
+49001008	bere eskuzabaltasunaren dohainak oparo isuri ditu gure gainera, jakinduria eta ezaguera oroz gu hornituz.
+49001009	Bere asmo ezkutua, bere onginahiaz erabakia zuen asmoa, ezagutarazi digu:
+49001010	historia bere betetasunera eramatea, gauza guztiak, nola zerukoak hala lurrekoak, Kristo buru dela, batean bilduz.
+49001011	Honen bitartez gara oinordeko gu ere, lehendik Mesiasengan itxaropen genuenok, gauza guztiak berak nahi bezala egiten dituen Jainkoak aurrez aukeratu baikaitu bere asmoaren arabera, bere aintzaren gorespen-kantu izan gaitezen.
+49001012	
+49001013	Eta zuek ere egiaren mezua, salbatzen zaituzten berri ona, entzun eta Kristorengan sinetsi duzuenok, aginduriko Espiritu Santuak zigiluz bezala markatu zaituzte;
+49001014	Espiritua da hartuko dugun ondarearen garantia, harik eta Jainkoak bere egin duen herria askapen osora iritsi arte eta haren aintzaren gorespen-kantu izan gaitezen arte.
+49001019	eta zein handia den sinestedunen alde erabiltzen duen bere ahalmena. Indar ahaltsu hori Kristorengan erakutsi zuen Jainkoak, hura hildakoen artetik piztu eta zeruan bere eskuinaldean eserarazi zuenean.
+49001020	
+50002006	Kristo Jesusek, jainkozko izaerako izanik, ez zion gogor eutsi nahi izan
+50002007	jainkozko bere mailari; bestela baizik, hustu egin zen bere handi-izateaz eta esklabo-izaera hartu zuen, gizakien antzeko eginez. Gizaki huts bezala agertuz,
+50002008	apaldu egin zuen bere burua, heriotzaraino menpeko eginez, gurutzean hiltzeraino.
+50002009	Horregatik, denen gainetik goratu zuen Jainkoak eta izen guztietan bikainena eman zion,
+50002010	Jesusen izenaren omenez, zeruan, lurrean eta lur azpian, guztien belaunak makur daitezen,
+50002011	eta mihi orok aitor dezan Jesu Kristo dela Jauna, Jainko Aitaren aintzarako.
+51001015	Jainko ikusezinaren irudi da Kristo, izaki guztietan lehen-sortua.
+51001016	Beraren bidez sortu zituen Jainkoak zeru-lurretan diren gauza guztiak, ageri direnak eta ez direnak: munduan agintzen duten ahalmen, nagusi, aginte eta botereak. Kristo da sortua izan den guztiaren eredu eta helburu.
+51001017	Gauza guztiak baino lehenago da bera, eta berari esker diraute elkarloturik.
+51001018	Kristo da gorputzaren burua, Elizarena alegia. Bera da hasiera, hildakoen artetik lehen piztua, eta gauza guztietan lehentasuna dagokio;
+51001019	Jainkoak nahi izan baitu bere izaeraren betea Kristorengan egotea,
+51001020	eta honen bitartez gauza guztiak berekin adiskidetzea, bai zerukoak eta bai lurrekoak, berak gurutzean isuritako odolaz bakea ekarriz.
+52001002	Eskerrak ematen dizkiogu beti Jainkoari zuek guztiongatik, gure otoitzetan gogoan zaituztegula. Jainko gure Aitaren aurrean gogora dakartzagu etengabe zuen sinesmen ekintzailea, zuen maitasun saiatua eta Jesu Kristo gure Jaunarengan duzuen itxaropen iraunkorra.
+52001003	
+54003014	Zu ikustera laster joango naizela espero dut; hala ere, badaiteke luzatzea eta horregatik idazten dizut, jakin dezazun nola jokatu Jainkoaren etxean, egiaren zutoin eta oinarri den Jainko biziaren elizan.
+54003015	
+54003016	Ezbairik gabe, handia da gure erlijioaren misterioa: Kristo, gizaki bezala agertua, Espirituak zintzotzat aitortua, aingeruek ikusia, herriei hots egina, munduan sinetsia, Jainkoak aintzan hartua.
+54006015	bere garaian agerraraziko baitu Jainkoak. Berau da nagusi bakar eta zoriontsua, erregeen Erregea eta jaunen Jauna;
+54006016	bera bakarrik da hilezkorra, eta iritsezineko argitan bizi da: ez du inoiz gizakik ikusi, eta ezin du ikusi ere. Berari aintza eta agintea betiko! Amen.
+55002011	Sinesgarria da doktrina hau: Harekin hiltzen bagara, harekin biziko gara;
+55002012	harekin sufritzen badugu, harekin izango gara errege; ukatzen badugu, hark ere ukatu egingo gaitu;
+55002013	gu leialak ez bagara ere, hark leial dirau, ez baitezake bere burua uka.
+55003006	Horien artean badira batzuk, etxeetan sarturik, bekatuz beteak eta era askotako grina txarren menpe dauden emakume kaskarinak liluratzen dituztenak; emakume horiek jakin-minez daude beti, baina ez dira inoiz egiaren ezagutzara iristeko gauza.
+55003007	
+56001001	Ni, Paulo, Jainkoaren zerbitzari eta Jesu Kristoren apostolu naiz, Jainkoak hautatuak sinesmenera ekartzeko eta betiko biziaren itxaropenean oinarritzen den egiazko erlijioaren egia ezagutarazteko. Gezurrik ez dioen Jainkoak mundua izaten hasi baino lehen agindua zuen betiko bizi hori,
+56001002	
+56001012	Herrialde horretako igarle batek, hain zuzen, hauxe esan zuen: Kretarrak beti gezurti, piztia txar eta tripazain alfer.
+58001005	Izan ere, Jainkoak ez dio sekula inongo aingeruri esan: Nire semea zara zu, gaur zaitut nik sortu; eta beste hau ere ez: Aita izango nau hark ni, eta seme izango dut nik hura.
+58001006	Jainkoak bere lehen-semea munduan sarraraztean, berriz, honela esaten du: Adora dezatela bera Jainkoaren aingeru guztiek.
+58001007	Aingeruei buruz hau dio Jainkoak: Haizearen antzeko egiten ditu bere aingeruak, sugarraren antzeko bere zerbitzariak .
+58001008	Baina bere Semeaz hau esaten du: Zure tronua, oi Jainko, betikoa da, zure erregetza zuzentasun-erregetza.
+58001009	Zuzen dena izan duzu maite eta oker dena gorroto; horregatik, Jainkoak, zeure Jainkoak , gantzutu zaitu, jai-giro pozgarrian, lagunen artean aukeraturik.
+58001010	Eta beste hau ere badio: Jauna, hasieratik sendo ezarri zenuen lurra, zure eskuek egina da zerua;
+58001011	haiek galduko dira, baina zuk iraungo; jantzia bezala gastatuko dira,
+58001012	soinekoa bezala tolestuko dituzu, jantzia bezala aldatuko. Zu, ordea, beti bera, zure urteak amaigabeak.
+58001013	Jainkoak ez dio sekula inongo aingeruri esan: Eseri tronuan nire eskuinean: etsaiak oin-aulkitzat jarriko dizkizut.
+58002006	Liburu Santuetan, hain zuzen, hauxe esana du norbaitek: Zer da gizona, zu hartaz oroitzeko, zer gizakia, zu hartaz arduratzeko?
+58002007	Ia aingeruen pareko egin duzu, ohorez eta aintzaz koroatu;
+58002008	dena haren menpean jarri duzu. Beraz, Jainkoak gizakiaren menpean jarri badu dena, ez du ezer utzi haren menpe jarri gabe. Hala ere, ez dugu ikusten oraindik gauza guztiak gizakiaren menpe daudenik.
+58002012	Liburu Santuak dioenez: Hitz egingo diet zutaz neure senideei, goretsiko zaitut batzarraren erdian.
+58002013	Beste hau ere badio: Jainkoarengan jarriko dut nik konfiantza. Baita ere: Hona ni eta hona Jainkoak eman dizkidan haurrak.
+58003007	Horregatik, Espiritu Santuak dioen bezala: Gaur Jaunaren mintzoa entzuten baduzue,
+58003008	ez gogortu bihotzak, errebelde izan zinetenean bezala, tentaldi-egunean basamortuan bezala.
+58003009	Han tentatu ninduten zuen arbasoek, ni aztertu nahirik, nik haien alde eginak berrogei urtez ikusi arren. Horregatik, belaunaldi hark gogait eragin zidan, eta esan nuen: «Bihotzez desleialak dira beti, nire bidetik ibili nahi ez dutenak».
+58003010	
+58003011	Orduan, zin egin nuen haserre: «Ez, ez dira sartuko atsedenerako eman nien lurraldera».
+58003015	esan zaigunaren arabera: Gaur Jaunaren mintzoa entzuten baduzue, ez gogortu bihotzak, errebelde izan zinetenean bezala.
+58008008	Baina Jainkoak haserre egin zion herriari, esanez: Jaunak dio: «Begira, badator Israel herriarekin eta Juda herriarekin itun berria egingo dudan garaia.
+58008009	Itun hau ez da izango, Egiptotik ateratzeko eskutik hartu nituenean beraien arbasoekin egin nuena bezalakoa. Haiek hautsi egin zuten nire ituna, eta nik ere bertan behera utzi nituen. Hala diot nik, Jaunak.
+58008010	Hona hemen etorkizunean Israelekin egingo dudan ituna: Buruan ezarriko dizkiet neure legeak, bihotzean idatziko; ni beraien Jainko izango naiz, eta haiek nire herri. Hala diot nik, Jaunak.
+58008011	Ez dute elkarri irakatsi beharrik izango, “Ezagutu Jauna” esanez, guzti-guztiek, txiki nahiz handi, ezagutuko bainaute.
+58008012	Barkatu egingo baitiet beren gaiztakeria, beraien bekatua ez dut gehiago gogoratuko».
+58010005	Horregatik, Kristok, mundu honetan sartzerakoan, Jainkoari esan zion: Ez zenuen nahi izan opari eta eskaintzarik; baina gorputza eratu zenidan.
+58010006	Erre-opari eta bekatuen barkamen-oparirik ez duzu atsegin izan.
+58010007	Horregatik diot: «Hemen nauzu». Liburuan agintzen zait zure nahia betetzeko, ene Jainko.
+58010016	Hona hemen etorkizunean haiekin egingo dudan ituna: Bihotzean ezarriko dizkiet neure legeak, buruan idatziko. Hala diot nik, Jaunak.
+58010017	Eta haien bekatuak eta gaiztakeriak ez ditut gehiago gogoratuko.
+58010030	Ongi ezagutzen dugu hau esan zuena: Niri dagokit mendekua, neuk emango dut ordaina. Eta beste hau ere esan zuen: Jaunak epaituko du bere herria.
+58010037	Izan ere: Laster, bai, oso laster etorriko da etortzekoa, ez du luzatuko.
+58010038	Nire zintzoa fedeari esker biziko da, baina atzera egiten badu, ez dut atsegin izango .
+58012005	Ahaztu egin duzue seme-alabei bezala ematen zaizuen aholkua: Ene seme, ez baztertu Jaunaren zentzarazpena, ezta adorea galdu ere agiraka egiten badizu,
+58012006	maite duena baitu Jaunak zentzarazten eta semetzat hartzen duena du zigortzen.
+58012026	Orduan bere ahotsaz lurra dardararazi zuen Jainkoak hau hots egiten digu orain: Oraindik beste behin, lurrari ez ezik, zeruari ere dar-dar eragingo diot.
+59001019	Izan hau gogoan, senide maiteok: gizaki orok izan behar du entzuteko bizkor, hitz egiteko nagi eta haserretzeko ere nagi. Izan ere, haserreturik dagoen gizakiak ezin du Jainkoarentzat zuzen dena egin.
+59001020	
+60001024	Honelaxe dio Liburu Santuak ere: Gizaki oro belarraren pareko da, haren edertasuna landako lorearena bezalakoa: ihartzen da belarra, erortzen lorea;
+60001025	Jaunaren hitzak, ordea, betiko dirau. Hitz hau, berriz, zuei hots egin zaizuen berri ona da.
+60002006	Hau dio, izan ere, Liburu Santuak: Hona nik Sionen harri bat ipini, giltzarri aukeratu eta bikaina. Horretan sinesten duenak ez du huts egingo.
+60002007	Zuentzat, beraz, sinesten duzuenontzat, harri hori balio handikoa da; sinesten ez dutenentzat, berriz, Liburu Santuak dioenez, etxegileek bazterturiko harria kantoi-harri bihurtu da;
+60002008	eta baita behaztopa-harri ere, erorarazteko harkaitz. Behaztopa egiten dute mezua onartu nahi ez dutelako: hori da ezarri zaien zoria.
+60002010	Garai batean herri ere ez zinetenok, orain Jainkoaren herri zarete; errukirik gabe zeundetenok, orain errukia iritsi duzue.
+60002022	Hark ez zuenbekaturik egin, ez zen haren ahoan maltzurkeriarik;
+60002023	iraintzen zutenean, ez zuen irainez erantzuten; sufriarazten ziotenean, ez zuen mehatxurik egiten; aitzitik, zuzen epaitzen duenaren eskuetan jartzen zuen bere burua.
+60002024	Gure bekatuak bere gain hartu eta gurutzeraino eraman zituen, gu ere, bekatuzko bizierari uko eginez, zuzentasunaren arabera bizi gaitezen. Haren zauriek sendatu zaituztete.
+60002025	Galdurik zenbiltzaten, ardiak bezala; baina orain zeuen artzain eta zaintzaileagana itzuli zarete.
+60003010	Izan ere, bizia maite duenak , luzaroan bizi eta zoriontsu izan nahi duenak, mihia gorde behar du gaitzetik eta ezpainak engainutik.
+60003011	Gaitzetik aldendu behar du eta on dena egin, bakea bilatu eta haren bidetik ibili.
+60003012	Zintzoengan baititu Jaunak begiak, haien deiak entzuteko adi belarriak; baina gaizkileei aurpegi ematen die Jaunak.
+66001007	Hara, hodei artean dator! Guztiek ikusiko dute, baita zulatu zutenek ere, eta lurreko arraza guztiek hileta-negarra egingo dute harengatik. Bai. Amen.
+66002027	nik neure Aitarengandik hartu dudan agintea; burdinazko makilaz gobernatuko ditu, buztinezko ontzia bezala puskatuko. Gainera, goizeko artizarra emango diot.
+66002028	
+66004008	Lau izakiok seina hego zituzten, begiz beteak kanpotik eta barrutik. Gau eta egun honela ari dira etengabe: «Santu, santu, santua Jauna, Jainko ahalguztiduna, zena, dena eta etortzekoa».
+66004011	«Gure Jaun eta Jainko hori, zu bazara nor aintza, ohorea eta ahalmena hartzeko, zeuk baitzenituen gauza guztiak egin eta, zuk nahi izan duzulako, baitira sortu eta dira oraindik».
+66005009	Eta kantu berri hau abesten zuten: «Bazara nor liburua hartu eta beronen zigiluak irekitzeko; hila izan baitzara, eta zeure heriotzaz Jainkoarentzat irabazi dituzu arraza, hizkuntza, herri eta nazio guztietako gizon-emakumeak;
+66005010	eta gure Jainkoarentzat errege-herri eta apaiz egin dituzu, eta lur osoan errege izango dira».
+66005012	eta ozenki zioten: «Hila izan zen Bildotsa bada nor ahalmena, aberastasunak, jakinduria, indarra, ohorea, aintza eta gorespena hartzeko».
+66005013	Eta zeruan, lur gainean, lur azpian eta itsasoan dauden sorkari guztiei, hau esaten entzun nien: «Tronuan eseria dagoenari eta Bildotsari gorespena, ohorea, aintza eta agintaritza, menderen mendetan».
+66007005	Judaren leinutik hamabi mila zigilatu; Rubenen leinutik hamabi mila; Gaden leinutik hamabi mila;
+66007006	Aserren leinutik hamabi mila; Neftaliren leinutik hamabi mila; Manasesen leinutik hamabi mila;
+66007007	Simeonen leinutik hamabi mila; Lebiren leinutik hamabi mila; Isakarren leinutik hamabi mila;
+66007008	Zabulonen leinutik hamabi mila; Joseren leinutik hamabi mila; Benjaminen leinutik hamabi mila zigilatu.
+66007010	Eta ahots handiz egiten zuten deiadar: «Tronuan eseria dagoen gure Jainkoari eta Bildotsari zor diegu salbamena».
+66007012	esanez: «Amen. Bedeinkazioa, aintza, jakinduria, esker ona, ohorea, ahalmena eta indarra gure Jainkoari menderen mendetan. Amen».
+66011017	esanez: «Eskerrak zuri, Jauna, Jainko ahalguztiduna, zarena eta zinena, zeure indar handia hartu eta errege izaten hasi zarelako.
+66011018	Haserretu egin ziren herriak, baina iritsi da zure haserrea, eta hilak epaitzeko garaia; etorri da zure zerbitzari profetei, fededunei eta zure izenari begirune diotenei, txiki nahiz handi, saria emateko garaia, eta lurra hondatzen dutenak hondatzeko garaia».
+66012010	Orduan, ahots handia entzun nuen zeruan esaten: «Orain etorri da gure Jainkoaren salbamena, indarra eta erregetza eta beraren Mesiasen agintea; bota baitute gure senideen salatzailea, gau eta egun Jainkoaren aurrean salatzen zituena.
+66012011	Bildotsaren odolaz eta aitortu duten mezuaz garaitu dute gure senideek: ez dute beren bizitza maite izan heriotzaren aurrean atzera egiteko beste.
+66012012	Poztu, beraz, zeruak eta bertan bizi zaretenok. Errukarriak, ordea, zuek, lur-itsasook, zuengana jaitsi baita deabrua amorru biziz, denbora gutxirako dela jakinik».
+66012018	Herensugea itsasertzeko hondarretan gelditu zen zutik.
+66013010	«Gatibualdirako dena gatibualdira doa. Ezpataz hil beharrekoa ezpataz hilko da». Hor agertuko dira fededunen eroapena eta sinesmena.
+66015003	eta Jainkoaren zerbitzari Moisesen eta Bildotsaren kantua abesten zuten: «Bai handi eta harrigarriak zuk eginak, oi Jauna, Jainko ahalguztiduna! Bai zuzen eta leiala zure jokabidea, oi herrien Errege!
+66015004	Nork ez zuri begirune, Jauna? Nork ez goretsi zure izena? Zu bakarrik zara santu! Herriak oro etorri eta zure aurrean ahuspeztuko dira, zure salbamen-asmoak denen aurrean agertu baitira».
+66016005	Eta uretako aingeruari entzun nion esaten: «Zuzena zara eta justizia egin duzu, Santu horrek, zaren eta zinen horrek:
+66016006	fededun eta profeten odola isuri zuten, eta zuk odola eman diezu edaten. Ez zuten besterik merezi!»
+66016007	Orduan, aldaretik esaten entzun nuen: «Bai, Jauna, Jainko ahalguztiduna, zure epaiak egiazkoak eta zuzenak dira!»
+66018002	Ahots indartsuz egin zuen oihu: «Erori da erori Babilonia handia! Deabruen bizileku bihurtu da, espiritu gaizto guztien zulo, piztia kutsatu eta nazkagarri guztien zulo.
+66018003	Herri guztiek edan dute haren prostituzio sutsuaren ardotik; munduko erregeak prostituzioan ibili dira berarekin eta lurreko merkatariak aberastu egin dira haren neurrigabeko luxuari esker».
+66018004	Beste ahots bat entzun nuen zerutik esaten: «Irten Babiloniatik, ene herri, haren bekatuekin bat egin ez dezazun, eta beraren zigorrak harrapa ez zaitzan;
+66018005	haren bekatu-pila zeruraino iritsi baita eta Jainkoak gogoan ditu haren gaiztakeriak.
+66018006	Eman berari berak besteei emandako tratua, ordaindu berari berak egin halako bi; emaiozue edaten ontzian, berak besteei edanarazi halako bi.
+66018007	Zenbatekoak izan diren haren ospea eta luxua, emazkiozue hainbateko oinazea eta negarra, honela baitio bere baitan: “Erregina bezala nago tronuan eseria, ez naiz alargun, ezta dolutan izango ere”.
+66018008	Horregatik, egun berean etorriko zaizkio gainera merezitako zigorrak: heriotza, dolua eta gosea, eta kiskali egingo da sutan; ahaltsua baita bera epaitu duen Jainko Jauna».
+66018010	Haren oinazearen izu-ikaraz urruti geldituko dira, esanez: «Ai zu, ai hiri handia, Babilonia, hiri ahaltsua! Une batean burutu da zure zigorra!»
+66018014	«Hainbeste irrikatzen zenuen fruitua urrundu egin zaizu; galdu dituzu zeure luxua eta ospea, sekula ez berreskuratzeko».
+66018016	esanez: «Ai zu, ai hiri handia, liho, purpuraz eta eskarlataz jantzia, urrez, harribitxiz eta perlaz apaindua!
+66018017	Une bat aski izan da hainbesteko aberastasuna errausteko!» Itsasontzietako kapitan-pilotu guztiek, marinelek eta itsasoa lanbide duten guztiek, urruti gelditu
+66018019	Eta, nork bere burura hautsa botaz, oihu egiten zuen negarrez eta aieneka: «Ai zu, ai hiri handia! Zure aberastasunei esker aberastu ziren itsasontziak zituzten guztiak. Horra orain une batean erraustua!»
+66018020	Poztu, oi zeru, horren zoriaz, eta zuek ere bai, fededun, apostolu eta profetak, hori kondenatzean justizia egin baitizue Jainkoak.
+66018021	Orduan, aingeru ahaltsu batek harri bat, errotarri handi baten antzekoa, jaso eta itsasora jaurti zuen, esanez: «Honelaxe jaurtiko dute Babilonia, hiri handia, eta betiko desagertuko da.
+66018022	Ez da sekula entzungo zitara-soinu edo kanturik, ez txirula edo turutarik zure baitan; ez da sekula artisaurik izango, ezta errota-hotsik entzungo ere zure baitan;
+66018023	ez da sekula kriseilu-argirik izango, ezta entzungo senar-emaztegaien kanturik ere zure baitan; zeren eta zure merkatariak lurreko ahaltsuenak baitziren, eta zeure sorginkeriez herri guztiak engainatu baitituzu.
+66018024	Zikindua zaude profeta, fededun eta lurrean hilak izan diren guztien odolaz».
+66019001	Ondoren, jendetza handiarena bezalako zarata-hotsa entzun nuen zeruan, esanez: «Aleluia! Salbamena, aintza eta indarra gure Jainkoarenak,
+66019002	haren epaiak egiazkoak eta zuzenak baitira. Kondenatu du emagaldu handia, bere prostituzioaz mundua usteltzen zuena, eta beraren bizkar mendekatu du bere zerbitzarien heriotza».
+66019003	Berriro esan zuten: «Aleluia! Haren sutearen kea menderen mendetan gorantz doa».
+66019005	Eta tronutik ahotsa atera zen: «Goretsazue gure Jainkoa, begirune diozuen zerbitzari guztiok, txiki eta handi».
+66019006	Eta jendetza handiarena bezalako zarata-hotsa, ur handien eta trumoi indartsuen burrunba zirudiena, entzun nuen esaten: «Aleluia! Errege izaten hasia da Jauna, gure Jainko ahalguztiduna.
+66019007	Poz gaitezen eta egin festa, eman diezaiogun aintza, heldu baitira Bildotsaren ezteiak. Apaindurik dago beraren emaztegaia:
+66019008	jantzi zoragarria eman diote, liho garbiz eta distiratsuz egina —lihoa, fededunen egintza onak dira—».
