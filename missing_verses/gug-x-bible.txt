@@ -1,59 +1,63 @@
-42003023
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
-42012035
-42012036
-42017037
-42023050
-42023051
-43004007
-43004008
-43010014
-43010015
-44008036
-44013038
-44013039
-44024018
-44024019
-45001003
-45001004
-45001006
-45001007
-45008038
-45008039
-45009011
-45009012
-45009013
-46001001
-46001002
-46005012
-46005013
-46006009
-46006010
-49001007
-49001008
-49006002
-49006003
-50001013
-50001014
-52002011
-52002012
-54001018
-54001019
-66002027
-66002028
-66004009
-66004010
+### source: https://www.bible.com/bible/66/MAT.1.gpc2006
+
+42003023	Jesús oguereko vaekue 30 áño rupi omoñepyrũ ramo guare hembiapo. Oje'e vaekue hese ha'e José ra'yha. Ko'ãva hína Jesús ypy kuerakue: José, Elí, Matat, Leví, Melquí, Janai, José, Matatías, Amós, Nahúm, Eslí, Nagai, Máhat, Matatías, Simí, Josec, Joiadá, Johanán, Resá, Zorobabel, Salatiel, Nerí, Melquí, Adí, Cosam, Elmadam, Er, Jesús, Eliézer, Jorim, Matat, Leví, Simeón, Judá, José, Jonam, Eliaquim, Meleá, Matatá, Natán, David, Jesé, Obed, Booz, Sélah, Nahasón, Aminadab, Admín, Arní, Hesrón, Fares, Judá Jacob, Isaac, Abraham, Térah, Nahor, Serug, Ragau, Péleg, Éber, Sélah, Cainán, Arfaxad, Sem, Noé, Lámec, Matusalén, Henoc, Jéred, Mahalalel, Cainán, Enós, Set ha Adán. Adán Tupã ra'y vaekue.
+42003024	
+42003025	
+42003026	
+42003027	
+42003028	
+42003029	
+42003030	
+42003031	
+42003032	
+42003033	
+42003034	
+42003035	
+42003036	
+42003037	
+42003038	
+42012035	“Peime vaerã umi tembiguáicha, oha'arõva ijárape ou jey pe karu guasu menda rehe guápe oho haguégui, tataindy rendy reheve, okẽ oipe'a haguã chupe ombota vove oguahẽvo.,
+42012036	
+42017036	Aipórõ oporandu chupe hikuái: --Moõ piko upéva oikóta, ore Jára? Ha ha'e he'i chupe kuéra: --Te'õngue oĩháme, ijaty yryvu.
+42017037	
+42023050	Oiko vaekue peteĩ kuimba'e heko joja ha imba'e porãva hérava José, Arimateagua, peteĩ táva Judá pegua. Ha'e niko peteĩva umi judío ruvicha kuéra atyha pegua. Ko José, oha'arõva Tupã sãmbyhy ha noĩriva pe mburuvicha aty ojapóvare,
+42023051	
+43004007	ha Jesús remimbo'e kuéra oho távape ojogua haguã hembi'urã kuéra. Upe jave, oguahẽ peteĩ kuña Samariagua y rekávo, ha Jesús he'i chupe: --Eme'ẽmona chéve nde ymi.
+43004008	
+43010014	Che ha'e pe ovecha rerekua imba'e porãva. Che Ru che kuaaháicha chéve, che aikuaa che Rúpe. Péicha avei, che aikuaaháicha che ovechápe, ha'e kuéra che kuaa chéve. Che aĩ ame'ẽ haguãicha che rekove hese kuéra.
+43010015	
+44008036	Upéi ohasávo hikuái peteĩ hi'yha rupi, pe mburuvicha he'i: —Ápe oĩ y, ikatúpa che añemongarai?
+44008037	
+44013038	Aipórõ, che pehẽngue kuéra, peikuaa vaerã Jesús rupi oñemyerakuãha peẽme peñepysyrõ haguã pene angaipágui, ha ikatu'ỹ vaekue guive oñembohekojoja Moisés rembiapoukapy rupive Jesús rehe ojeroviáva guive hekojoja.
+44013039	
+44024018	Ajapo hína ko'ã mba'e, añemopotĩ rire ojejapoháicha, aty guasu'ỹ ha ayvu'ỹ reheve, ha Israelgua kuérava Asiagua che juhu Tupaópe. Umíva oĩ vaerã mo'ã ko'ápe, he'i haguã oimérõ oguereko he'i vaerã che rehe.
+44024019	
+45001003	Upe marandu upéva hína pe oñe'ẽva Ta'ýra Ñandejára Jesucristo rehe, yvypóraicha ou vaekue, David ñemoñarégui. Oikove jey guive katu, ha'e oiko Tupã Ra'y ramo, opa ipokatu reheve, ha Espíritu Santo rupi.
+45001004	
+45001006	Umíva apytépe peime avei peẽ, peikóva Rómape. Tupã pende rayhu ha pende poravo peime haguã Jesucristo ndive, peẽ hína Tupã mba'e. Tupã ñande Ru ha Ñandejára Jesucristo tohekuavo imba'e porãngue ha ipy'a guapy pende ári.
+45001007	
+45008038	Arovia che py'aite guive mba'eve na ñande pe'a mo'ãiha Tupã mborayhúgui: ñemano, jeikove, Tupã remimbou kuéra, mba'eveichagua pokatu ha pu'aka, ko'agãgua térã ou vaerãva, pu'aka yvategua ha yvy pegua, mba'eve Tupã rembiapokuéva. Mba'eve ndaikatu mo'ãi ñande pe'a pe mborayhu Tupã ohechauka vaekuégui ñandéve, Ñandejára Cristo Jesús rupi.
+45008039	
+45009011	Ha ha'e kuéra oikove mboyve, ne'ĩrarõ gueteri ojapo mba'eve, iporãva térã ivaíva, Tupã he'i Rebécape: “Pe ijypykue, imitãvéva rembiguáita.” Ha upéva avei oĩ Ñandejára Ñe'ẽme he'íva: “Ahayhu vaekue Jacóbpe, ha ndacha'éi Esaú rehe.” Upéicha opyta, Tupã ikatuha oiporavo, ojerureháicha pe ojaposéva, umi ohenói vaerãme, oma'ẽ'ỹre mba'épa ojapo ra'e.
+45009012	
+45009013	
+46001001	Che Pablo, Tupã oipota rupi Jesucristo apóstol, Sóstenes ndive romomaitei umi Tupã iglésia Corinto peguápe. Romomaitei ave opa umi oñehenóiva oiko haguã Tupã mba'évarõ, ha umi opa rupi omomba'e guasúva Ñandejára Jesucrístope, Ñandejára ha umi Tupã mba'éva Jára.
+46001002	
+46005012	Ndachéi ambojovake vaerã umi okápe oĩvape. Tupã ombojavake vaerã chupe kuéra. Peẽ katu pembojovakéma hína pende apyte peguápe. Upévare, peipe'a pe mba'e vai apoha pende apytégui.
+46005013	
+46006009	Ndapeikuaái piko peẽ, umi nda heko jojáiva ndaikatu mo'ãiha oike Tupã sãmbyhýpe? Ani peñembotavy, Tupã sãmbyhýpe ndaija mo'ãi umi ojeitýva teko vaípe, umi omomba'éva ta'ãnga rei, umi omyakãratĩva hembirekópe, umi heko kuñáva ha oikóva kuña ramo, umi oikóva omonda, umi hakate'ỹva, umi ika'úva, umi oñe'ẽ reíva hapicháre, umi mondaha.
+46006010	
+49001007	Cristo rupi, ha reiete huguy oñohẽ haguére, ñane pysyrõ ha ojeheja rei ñandéve ñane angaipa. Tupã niko imba'e porã eterei ñane ndive ha ohekuavo ñande ári imborayhu. Ome'ẽ ñandéve arandu ha akã porã,
+49001008	
+49006002	Tupã rembiapoukapy tenondegua niko he'i: “Emomba'e nde ru ha nde sýpe”, ha upéva jajapo ramo he'i: “Reikove puku haguã ha revy'a haguã ko yvy ári.”
+49006003	
+50001013	Opa umi tahachi mburuvicha guasu róga pegua ha ambue kuérava avei, ohecha kuaa aimeha koty ypytũme Jesucristo rayhupápe, ha upéva omokyre'ỹ haimete opavave ñane pehẽngue kuéravape omyerakuã haguã Ñandejára Ñe'ẽ kyhyje'ỹre ha ojeroviave pype Ñandejárare.
+50001014	
+52002011	Peikuaa avei, ore pene myakã raku ha pene mombytu'u hague, peteĩ-teĩme, ojapoháicha peteĩ túva ta'ýra kuéra ndive. Ro'e peẽme peiko haguã peiko vaerãháicha Tupã reroviaha rekoitépe, pene renóiva peike haguã hetã teépe ha heko mimbipápe.
+52002012	
+54001018	Timoteo, che ra'y, ame'ẽ ndéve ne rembiaporã, reñorãirõ porã haguã hese, jeroviápe ha akã porãme, ohechaukaháicha umi ñe'ẽ marandupy rehegua oje'e vaekue nde rehe ymave. Oime umi omboyke rupi iñakãme oguerekóva, oity vaekue yvýre ijerovia.
+54001019	
+66002027	che Ru ome'ẽ haguéicha chéve pu'aka. Mbaretépe oisãmbyhýta ha kambuchi jekakuéicha ohejáta. Ha ame'ẽta avei chupe kuéra mbyja ko'ẽ.
+66002028	
+66004009	Umi oikovéva ombotuicha ha omomba'e guasu ha me'ẽ jave jepi ijaguije pe guapyha verápe oĩvape, pe oikovéva opa ára guarã, umi 24 karai myakãhára oñesũ henondépe ha omomba'e guasu chupe, ha oity iñakã rehegua jeguaka pe guapyha renondépe, ha he'i:
+66004010	
