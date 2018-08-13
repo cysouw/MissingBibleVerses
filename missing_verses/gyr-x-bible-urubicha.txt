@@ -1,42 +1,42 @@
-40021024
-40021025
-41011029
-41011030
-42012035
-42012036
-42023050
-42023051
-43004007
-43004008
-43007037
-43007038
-43009013
-43009014
-43010014
-43010015
-43013002
-43013003
-43013004
-43014016
-43014017
-44013038
-44013039
-44024018
-44024019
-45001006
-45001007
-45009011
-45009012
-45009013
-46001001
-46001002
-46005012
-46005013
-46006009
-46006010
-54001018
-54001019
-59002002
-59002003
-65001024
-65001025
+40021024	Jesús rumo omboyevɨ chupe:–Che avei aporandura mba'e rese peü: ¿Ava vo Juan ombou ava apirämo agwä, Tüpä pi'ä ava tëi tie? Pemboyevɨse che porandusa, a'ese che avei amombe'ura ava porokwaita rupi ete pi'ä ayapo ko mba'e vichiko.Omboɨpɨ oñemoñeta aipo e'i oyeupe yuvɨreko: “Yamboyevɨse chupe Tüpä ombou ya'ese, a'e omboyevɨra yandeu: ‘Evokoiyase, ¿ma'erä ru ndaperoyai?’
+40021025	
+41011029	Jesús omboyevɨ aipo e'i chupe:–Che avei aporandura ñepëi mba'e rese peü: ¿Ava vo Juan ombou ava apirämo agwä; Tüpä pi'ä ava tëi tie? Pemboyevɨse cheu, a'ese che avei amombe'ura peü ava porokwaita rupi ete pi'ä ayapo ko mba'e vichiko.
+41011030	
+42012035	“Peikora mbigwai gwerekwar osärö va'e nungar mendasa sui iyevɨ agwä, oyemoigätu voi ete tataendɨ reseve imoendɨ senoï, okenda motase omboi voi etera chupe.
+42012036	
+42023050	Oime mbɨa avɨye eteprɨ va'e a'e serer José, tekwa Arimatea pendar, a'e tekwa ɨvɨ Judea pɨpendar. Judío rerekwar ñemonu'äsa ɨvate katu va'e pendar sekoi. A'e José, vɨroya va'e ite Tüpä ombou va'erä omborerekwasa pɨpe mba'e moigätu agwä, sese nda'ei ipɨ'a ñemoñeta rupi ko mborerekwar oyapo va'e mba'e yuvɨreko,
+42023051	
+43004007	Semimbo'e eta rumo opakatu yuvɨraso tekwave mba'e tembi'u rerokwa. A'eseve ñepëi kuña Samaria pendar oyepota ɨgwave ɨ renose agwä, a'ese Jesús aipo e'i chupe:–Emboumi chi'ï nde ɨ taɨ'u.
+43004008	
+43007037	Pieta ipa arɨ pɨpe imboeteisa katu va'e yepi. A'e arɨ pɨpe Jesús oñe'ë pirätä o'ä aipo e'i:–Akoi i'usei va'e, a'e touño cheu, iyavei akoi ava che yeroyasar, a'e touño avei cheu. Inungar Ikwachiaprɨ pɨpe aipo e'i, a'e ɨpɨ'a pɨpe sui osëra inungar ɨai ndopai va'e yepi.
+43007038	
+43009013	Mbɨtu'usa arɨ pɨpe aipo Jesús omoakɨ̇ gwendɨ pɨpe ɨvɨ ndasesapɨsoi va'e mbogwera agwä. Sese vɨraso ndasesapɨsoi va'ekwer fariseo eta rovai yuvɨreko,
+43009014	
+43010014	“Che ava rärösar avɨye va'e aiko. Inungar che Ru chekwa ite oiko che avei aikwa che Ru, egwë a'e avei che aikwa che reimba ovesa eta, a'e avei chekwa yuvɨreko. Che amondo che rekokwer sepɨrä yuvɨreko.
+43010015	
+43013002	Karugwar oike ite Judas pɨ'a pɨpe, Simón Iscariote ra'ɨrɨ rese, imondo agwä Jesús yamotare'ɨ̇mbar upe. Jesús rumo oikwa ite ouse Tüpä sui, oikwa avei oyevɨ iri agwä Tüpä pɨri iyavei Tu omondo opakatu omborerekwasa chupe; sese okaruse öi opü'a karusa renda sui, osekɨi oturukwar yo'asa ipare omonde ambuae turukwar vumbɨkwasa rese.
+43013003	
+43013004	
+43014016	Iyavei che aporandura che Ru upe ombou va'erä ambuae Pepɨtɨ̇vɨï agwä, a'e Espíritu sekoi supiete va'e, a'e sekoi va'erä ite perese yepi. Akoi yuvɨrekoi va'e ko ɨvɨ pɨpe a'e ndoikatui chietera ipɨsɨ yuvɨreko, esepia ndosepiai iyavei ndoikwai ete yuvɨreko; pe rumo peikwa ite, esepia a'e sekoi ete pe rese iyavei a'e sekoi ñoitera pereseve yepi.”
+43014017	
+44013038	Supiete, che mu eta, pe rumo peikwa ite evokoi Jesús sui oime ñeröisa angaipa upe. A'e ichui avei, opakatu seroyar vɨrekora ñeröisa yuvɨreko iyavei ndoikatui va'e oñepɨsɨrö agwä Moisés porokwaita rupi yuvɨreko.
+44013039	
+44024018	Evokoiyase movɨrö judío Asia pendar che repia yuvɨreko tüpäro pɨpe judío porokwaita rupi che ñemoatɨrö pare, ndipoi a'ese ava re'ɨi che rupi namboaɨvu gwasu ukai avei ava, a'e che repia va'e rumo iya yugweru ndeu che mombe'u agwä, vɨrekose che amotare'ɨ̇sa yuvɨreko.
+44024019	
+45001006	Pe Roma pendar peiko va'e, pe avei senoiprɨ ipa'üve peiko Jesucristo rese peiko va'erä, pe ni'ä Tüpä rembiaɨsu peiko oipota avei pe reko katuprɨ agwä oyeupe narä. Peipɨsɨ katu porovasasa teko tuprɨsa yande Ru Tüpä suindar, yande Yar Jesucristo suindar avei.
+45001007	
+45009011	iyavei a'e ndoyuvɨro'a vɨteise, ndoyapo vɨteise mba'e avɨye va'e, naporäi va'e yuvɨreko, Tüpä aipo e'i ichɨ Rebeca upe: “Yɨpɨndar o'a va'e nde membrɨ a'e omboyeroyara ipandar.” Ko oyoya ite Ikwachiaprɨ rese akoi aipo e'i va'e: “Che asaɨsu ite Jacob Esaú rumo añamotare'ɨ̇.” Egwë e'i Tüpä ava poravo gwemimbotar rupi, nda'ei seko avɨye va'e rese.
+45009012	
+45009013	
+46001001	Tüpä oiporavo Pablo yande Cristo Jesús ñe'ë mombe'usar sekoi agwä, a'e omondo oma'endu'asa oyoya tuprɨ yande rɨvrɨ Sóstenes reseve yuvɨreko, Corinto ve yuvɨrekoi va'e Tüpä reroyasar upe avei, yande Yar Cristo Jesús rer pɨpe sovasaprɨ iyavei iporavoprɨ tekwa maräne'ɨ̇ pɨpe narä, iyavei opakatu rupi osenoi va'e yande Yar Jesucristo rer yuvɨreko, a'e yande Yar sekoi opakatu tekwa maräne'ɨ̇ upendar avei.
+46001002	
+46005012	Cheu ndiyai ete ava ndoyuvɨrekoi va'e Tüpä rese rekokwer rese porandu agwä; Tüpä a'e ava yuvɨrekoi va'e rekokwer opara oikwa koiye. Pe rumo pe kwaita ite Tüpä rese yuvɨrekoi va'e upe pe porandu agwä sekokwer rese. Sese pemboyepepɨño ite osɨ rekoyar rese sekoi va'e pe pa'ü sui.
+46005013	
+46006009	¿Ndapeikwai vo akoi ava mba'e-mba'e tëi aposar ndoyuvɨroikei chietera Tüpä mborerekwasa pɨpe kuri? Ndapeyembopa ukai chira, yemboagwasasa angaipa pɨpe iyavei oyerure va'e mba'e ra'anga upe tëi, oyemboagwasa tëi va'e, iyavei kuimba'e yuvɨrekoi va'e kuña rekokwer nungar pɨpe, iyavei kuimba'e yuvɨrekoi va'e oyese ae, iyavei mba'e ñomisar, iyavei ava nomombe'ui va'e mba'e supi, iyavei kagwar, iyavei ava iñe'ë-ñe'ë tëi va'e, iyavei ava imondarai va'e yuvɨreko, a'e ndoyuvɨroikei chietera Tüpä mborerekwasave kuri.
+46006010	
+54001018	Che ra'ɨrɨ Timoteo, ko amondo nde kwaitära nde reko movɨräkwä agwä mba'e tëi rekopɨ agwä Cristo rese nde yeroyasa pɨpe nde pɨ'a ñemoñeta katuprɨsa pɨpe avei, supi tuprɨ Tüpä reroyasar oñe'ë yuvɨreko nde rese serer pɨpe. Amove ava opɨ'añemoñeta tuprɨ reroya e'ɨ̇save, omokañɨ uka Tüpä rese oyeroyasa.
+54001019	
+59002002	Inungar-ra ava mba'e yar oikese pe ñemonu'äsave viña, a'e ikwä penda oro va'e, iturukwar katuprɨai va'e, pe añeko tuprɨai sese iyavei aipo peye chupe: “Egwapɨ ko tenda avɨye katu va'esave”, a'e pɨpeve avei oikese pe pa'üve ñepëi ava iparaɨsu va'e oturukwar oyemondesa kwakwami va'e reseve ou, aipo peye chupe: “Nde eipe peve epɨtaño ë'a, anise egwapɨ ɨvɨve e'ï ”;
+59002003	
+65001024	Yande Ru Tüpä ñepëi, Pɨsɨrösar yandeundar, vɨreko pirätäsa pe rärö agwä angaipa pɨpe pe vɨapi e'ɨ̇ agwä, iyavei pemboyekwara perekokwer porañetesa perovapɨpo avei pevɨ'aretesa pɨpe opakatu rovake. A'e imboeteiprɨ tasekoi, egwë te'i timboyeroyasa seko pirätäsa iyavei imborerekwasa, yande Yar Jesucristo sui, yɨpɨsui, kurïtëi apɨre'ɨ̇ va'erä. Amén.
+65001025	
