@@ -1,27 +1,34 @@
-43012037
-43012038
-43012039
-43012040
-43012041
-43012042
-43012043
-43016005
-43016006
-43016007
-43016008
-43016009
-43016010
-43016011
-44008002
-44008003
-44009020
-44009021
-44009022
-54006003
-54006004
-54006005
-54006006
-54006007
-54006008
-59001007
-59001008
+### source: https://www.bible.com/de/bible/71/MAT.1.HAU
+
+43012036	Ku gaskata da hasken, tun kuna tare da shi, domin ku zama mutanen haske.” Yesu ya faɗi haka, sa'an nan ya tafi ya ɓuya musu.
+43012037	Amma ko da yake ya sha yin mu'ujizai da yawa a gabansu, duk da haka, ba su gaskata shi ba,
+43012038	domin a cika faɗar Annabi Ishaya cewa, “Ya Ubangiji, wa ya gaskata jawabinmu? Ga wa kuma aka bayyana ikon Ubangiji?”
+43012039	Shi ya sa ba su iya ba da gaskiya ba. Domin Ishaya ya sāke cewa,
+43012040	“Ya makantar da su, ya kuma taurarar da zuciya tasu, Kada su gani da idanunsu, su kuma gane a zuci, Har su juyo gare ni in warkar da su.”
+43012041	Ishaya ya faɗi haka saboda ya ga ɗaukakar Almasihu, ya kuma ba da labarinsa.
+43012042	Duk da haka, da yawa har daga cikin shugabanni ma suka gaskata da shi, amma saboda tsoron Farisiyawa, ba su bayyana ba, don kada a fisshe su daga jama'a. 
+43012043	Don sun fi ƙaunar girmamawar mutane da girmamawar Allah.
+43016004	Na faɗa muku waɗannan abubuwa ne, domin in lokacinsu ya yi ku tuna na faɗa muku.” “Ban faɗa muku abubuwan nan tun da farko ba, domin ina tare da ku.
+43016005	Yanzu kuwa za ni wurin wanda ya aiko ni, duk da haka a cikinku, ba wanda ya tambaye ni, ‘Ina za ka?’
+43016006	Amma saboda na faɗa muku waɗannan abubuwa, ga shi baƙin ciki ya cika zuciyarku.
+43016007	Duk da haka ina gaya muku gaskiya, zai fiye muku in tafi, domin in ban tafi ba, Mai Taimakon nan ba zai zo gare ku ba. In kuwa na tafi, zan aiko shi gare ku.
+43016008	Sa'ad da kuwa ya zo zai faɗakar da duniya a kan zunubi, da adalci, da kuma hukunci.
+43016009	Wato a kan zunubi, domin ba su gaskata da ni ba,
+43016010	a kan adalci, don za ni wurin Uba, ba kuwa za ku ƙara ganina ba.
+43016011	a kan hukunci kuma, domin an yanke wa mai mulkin duniyar nan hukunci.
+44008001	Shawulu kuwa yana goyon bayan kisan Istifanas. A ran nan kuwa wani babban tsanani ya auko wa Ikkilisiyar da take Urushalima. Duk aka warwatsa su a lardin Yahudiya da na Samariya, sai dai manzannin kawai.
+44008002	Sai waɗansu mutane masu bautar Allah suka binne Istifanas, suka yi masa kuka ƙwarai.
+44008003	Amma Shawulu ya yi ta yi wa Ikkilisiya ɓarna ƙwarai da gaske, yana shiga gida gida, yana jan mata da maza, yana jefa su a kurkuku.
+44009019	Sai ya ci abinci, ƙarfinsa kuma ya komo. Shawulu kuwa ya yi 'yan kwanaki tare da masu bi da suke Dimashƙu.
+44009020	Nan da nan ya fara wa'azin Yesu a majami'unsu, cewa shi ne Ɗan Allah.
+44009021	Duk waɗanda suka ji shi, suka yi ta al'ajabi, suka ce, “Ashe, ba wannan ne ya watsa masu yin addu'a da sunan nan a Urushalima ba? Ya zo nan ne ma da niyyar ya kai su gaban manyan firistoci a ɗaure.”
+44009022	Sai Shawulu ya ƙara ƙarfafa, yana ta dama hankalin Yahudawan da suke zaune a Dimashƙu, yana tabbatarwa, cewa Yesu shi ne Almasihu.
+54006002	Waɗanda suke da iyayengiji masu ba da gaskiya, kada su raina su, domin su 'yan'uwa ne a gare su. Sai ma su ƙara bauta musu, tun da yake waɗanda suke moron aikin nan nasu masu ba da gaskiya ne, ƙaunatattu kuma a gare su. Ka koyar da waɗannan abubuwa, ka kuma yi gargaɗinsu.
+54006003	Duk wanda yake wata koyarwa dabam, bai kuwa yarda da sahihiyar maganar Ubangijinmu Yesu Almasihu, da kuma koyarwar da ta dace da bautar Allah ba,
+54006004	girmankai ya ciccika shi ke nan, bai san kome ba, yana da muguwar jarabar gardama da jayayya a kan maganganu kawai, waɗanda suke jawo hassada, da husuma, da yanke, da mugayen zace-zace,
+54006005	da kuma yawan tankiya a cikin mutane masu ɓataccen hankali, waɗanda har gaskiya ta ƙaurace musu, suna tsammani bin Allah hanya ce ta samu.
+54006006	Bin Allah a game da wadar zuci kuwa riba ce mai yawa.
+54006007	Don ba mu zo duniya da kome ba, ba kuwa za mu iya fita da kome ba.
+54006008	To, in muna da abinci da sutura, ai, sai mu dangana da su.
+59001007	Kada irin mutumin nan mai zuciya biyu, wanda bai tsai da zuciyarsa a gu ɗaya a dukan al'amuransa ba, ya sa rai da wani abu a gun Ubangiji.
+59001008	
