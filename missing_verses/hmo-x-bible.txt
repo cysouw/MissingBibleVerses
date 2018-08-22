@@ -1,157 +1,205 @@
-06015022
-06015023
-06015024
-06015025
-06015026
-06015027
-06015028
-06015029
-06015030
-06015031
-06015032
-06015034
-06015035
-06015036
-06015037
-06015038
-06015039
-06015040
-06015041
-06015042
-06015043
-06015044
-06015045
-06015046
-06015047
-06015049
-06015050
-06015051
-06015052
-06015053
-06015054
-06015055
-06015056
-06015057
-06015058
-06015059
-06015060
-06015062
-06018022
-06018023
-06018024
-06018026
-06018027
-06018028
-06019003
-06019004
-06019005
-06019006
-06019007
-06019008
-06019011
-06019012
-06019013
-06019014
-06019015
-06019019
-06019020
-06019021
-06019022
-06019026
-06019027
-06019028
-06019029
-06019030
-06019033
-06019034
-06019035
-06019036
-06019037
-06019038
-06019042
-06019043
-06019044
-06019045
-06019046
-06021011
-06021012
-06021013
-06021014
-06021015
-06021016
-06021017
-06021018
-06021021
-06021022
-06021023
-06021024
-06021025
-06021029
-06021031
-06021035
-06021037
-06021039
-13025005
-15001002
-15001003
-15001004
-15004009
-15004010
-15004012
-15004013
-15004014
-15004015
-15004016
-15004018
-15004019
-15004020
-15004021
-15004022
-15005008
-15005009
-15005010
-15005011
-15005012
-15005013
-15005014
-15005015
-15005016
-15005017
-15006003
-15006004
-15006005
-15006007
-15006008
-15006009
-15006010
-15006011
-15006012
-15007012
-15007013
-15007014
-15007015
-15007016
-15007017
-15007018
-15007019
-15007020
-15007021
-15007022
-15007023
-15007024
-15007025
-15007026
-15010019
-15010032
-15010035
-15010036
-15010037
-15010039
-15010040
-15010041
-15010042
-16006007
-27005025
-27005026
-27005027
-27005028
+### source:	http://pngscriptures.org/hmo/index.htm
+### the crawling loses track after each line break ending with a colon
+
+06015021	Iuda taudia edia hanua, Negebe kahanai, Edoma ena tano hetoana ena badinai, edia ladana be inai: Kabisele, Edere, Iaguru,
+06015022	Kina, Dimona, Adaba,
+06015023	Kedesi, Hasoro, Itinana,
+06015024	Sipi, Teleme, Bealoto,
+06015025	Hasoro Hadata, Kerioto Hesarona (ena ladana ta be Hasoro),
+06015026	Amama, Sema, Molada,
+06015027	Hasara Gado, Hesemona, Bete Pelete,
+06015028	Hasara Suala, Bere Sieba, Bisiotaia,
+06015029	Bala, Imi, Eseme,
+06015030	Elitolada, Kesili, Horoma,
+06015031	Sikilaga, Madamana, Sanisana,
+06015032	Lebaoto, Silihima, Aina, Rimono. Inai be hanua ibounai 29, mai edia hanua maragidia 7 danu.
+06015033	Bona dina ia diho kahanai tano palaka dekenai hanua be inai: Esetaoli, Sora, Asina,
+06015034	Sanoa, Ene Ganima, Tapua, Enama,
+06015035	Iaramutu, Adulama, Soko, Aseka,
+06015036	Saraimi, Aditaimi, Gedera, Gederotaimi. Inai be hanua ibounai 14, mai edia hanua maragidia danu.
+06015037	Senana, Hadasa, Migidala Gado,
+06015038	Dileana, Misipa, Iokotele,
+06015039	Lakisi, Bosikata, Egalona,
+06015040	Kabona, Lahamama, Kitilisi,
+06015041	Gederoto, Bete Dagona, Namaha, Makeda. Inai be hanua ibounai 16, mai edia hanua maragidia danu.
+06015042	Libina, Etere, Asana,
+06015043	Ipita, Asina, Nesiba,
+06015044	Keila, Akisiba, Maresa. Inai be hanua ibounai 9, mai edia hanua maragidia danu.
+06015045	Ekarona, mai ena hanua, bona iena hanua maragidia,
+06015046	bona Ekarona dekena amo, Iuda ena tano ena hetoa ia lao ela bona Davara Badana. Inai hetoa lalonai be Asadoda kahana hanua ibounai, mai edia hanua maragidia danu.
+06015047	Asadoda hanua korikori, bona iena hanua maragidia. Bona Gasa, mai ena hanua, bona iena hanua maragidia, ela bona sinavai maragina, Aigupito ena tano hetoana gabuna, bona Davara Badana ena kone.
+06015048	Ororo kahadia dekenai: Samiri, Iatiri, Soko,
+06015049	Danaha, Kiriata Sana (ena ladana ta be Debiri).
+06015050	Anaba, Esetemo, Anima,
+06015051	Gosena, Holona, Gilo. Inai be hanua ibounai 11, mai edia hanua maragidia danu.
+06015052	Araba, Duma, Esana,
+06015053	Ianima, Bete Tapua, Apeka,
+06015054	Humuta, Kiriata Araba, (ena ladana ta be Heberona), Sioro. Inai be hanua ibounai 9, mai edia hanua maragidia danu.
+06015055	Maono, Karamele, Sipi, Iuta,
+06015056	Ieserele, Iokodeama, Sanoa,
+06015057	Kaina, Gibea, Timuna. Inai be hanua ibounai 10, mai edia hanua maragidia danu.
+06015058	Halahulu, Bete Suru, Gedoro,
+06015059	Marata, Bete Anoto, Eletekone. Inai be hanua ibounai 6, mai edia hanua maragidia danu.
+06015060	Kiriata Bala, (ena ladana ta be Kiriata Iearimi), bona Raba. Inai be hanua rua, mai edia hanua maragidia danu.
+06015061	Tano kaukau dekenai: Bete Arabaha, Midina, Sekaka.
+06015062	Nibisana, Damena Hanua, Ene Gedi. Inai be hanua 6, mai edia hanua maragidia danu.
+06018021	Beniamina taudia edia hanua, edia bese ta ta totona idia abia, edia ladana be inai: Ieriko, Bete Hogila, Emekesi,
+06018022	Bete Arabaha, Semaraimi, Betele,
+06018023	Avima, Para, Opera,
+06018024	Keparamoni, Opini, Geba. Inai be hanua ibounai 12, mai edia hanua maragidia danu.
+06018025	Inai hanua danu: Gibeona, Rama, Beroto,
+06018026	Misipa, Kepira, Mosa,
+06018027	Rekema, Iripele, Tarala,
+06018028	Sela, Haelepa, Iebusu (ena ladana ta be Ierusalema), Gibea, Kiriata Iearimi. Inai be hanua ibounai 14, mai edia hanua maragidia danu. Beniamina iduhu taudia edia hanua, mai edia tano be unai, edia bese ta ta ibounai edia huanai idia haria.
+06019002	Inai tano ena lalonai be inai hanua: Bere Sieba, Sieba, Molada,
+06019003	Hasasuala, Bala, Eseme,
+06019004	Eletolada, Betulu, Horoma,
+06019005	Sikilaga, Bete Makaboto, Hasa Susa,
+06019006	Bete Lebaoto, Saruhene. Inai be hanua ibounai 13, mai edia hanua maragidia danu.
+06019007	Inai danu: Aina, Rimono, Etere, Asana. Inai be hanua ibounai 4, mai edia hanua maragidia danu.
+06019008	Hanua maragidia ibounai danu, unai hanua idia hagegea gaudia, be Simeona taudia edia, ela bona Balata Bere, ena ladana ta be Rama, Negebe kahana dekenai. Simeona iduhu taudia edia hanua, mai edia tano be unai, edia bese ta ta ibounai edia huanai idia haria.
+06019010	Iosua ese tano ia abia hidi iduhu ihatoina totona be Sebuluno, iena bese ta ta dekenai: Edia tano ena hetoana gabuna ta be Saridi.
+06019011	Saridi dekena amo hetoana be dina diho kahanai ia lao, ela bona Mareala, ma ela bona Dabesete. Dabesete dekena amo sinavai maragina ena isena dekenai ia lao, Iokoneama ena dina daekau kahana dekenai.
+06019012	Ma Saridi ena dina daekau kahana dekenai, tano hetoana ia lao, ela bona Kisaloto Taboro.
+06019013	Ma Kisaloto Taboro dekena amo ela bona Daberata. Vadaeni ia daekau lao, ela bona Iapia. Iapia dekena amo dina daekau kahanai ia lao, ela bona Gata Hepere bona Ete Kasino. Ma ia lao, ela bona Rimono bona Nea.
+06019014	Mirigini kahana dekenai, tano hetoana be Hanatoni dekena amo ia lao, ela bona Ipitahele Koura dekenai ia doko.
+06019015	Inai hanua danu be Sebuluno taudia edia: Katata, Nahalala, Simarona, Idala, bona Betelehema. Edia hanua ibounai be 12, mai edia hanua maragidia danu.
+06019018	Edia tano lalonai inai hanua idia noho: Ieserele, Kesuloto, Suneme,
+06019019	Haparaimi, Sihono, Anaharata,
+06019020	Rabiti, Kisiono, Ebese,
+06019021	Remete, Ene Ganima, Ene Hada, Bete Pase.
+06019022	Edia tano hetoana danu ia lao, ela bona Taboro, Sahasuma, bona Bete Semese. Vadaeni tano hetoana be Ioridane Sinavai dekenai ia doko. Hanua ibounai be 16, mai edia hanua maragidia danu.
+06019025	Edia tano lalonai inai hanua idia noho: Helekata, Hali, Betene, Akasapa.
+06019026	Alamaleka, Amada, Misala. Dina diho kahana dekenai, Asere ena tano hetoana be ia lao, Karamele bona Sihoro Libinata hanua ruaosi dekenai ia kamokau.
+06019027	Unai gabu dekena amo dina daekau kahana dekenai ia lao, ela bona Bete Dagona bona Sebuluno bona Ipitahele Koura, ma mirigini kahanai ia lao, ela bona Bete Emeka bona Neiele. Ma mirigini kahana ia lao, ela bona Kabulu dekenai.
+06019028	Tano hetoana ma ia lao, ela bona Eberona, bona Rehoba, bona Hamona, bona Kana, ma ia lao, ela bona hanua badana Sidono.
+06019029	Sidono dekena amo tano hetoana ma ia lao, ela bona Rama, ela bona magu badana hanua, Turo. Turo dekena amo ia lao, ela bona Hosa, bona Davara Badana ena kone dekenai ia doko. Inai hanua danu be Asere ena: Mahalaba, Akasiba,
+06019030	Umaha, Apeka, Rehoba. Asere edia hanua ibounai be 22, mai edia hanua maragidia danu.
+06019032	Iosua ese tano ia abia hidi iduhu namba 6 totona be Napatali, iena bese ta ta dekenai:
+06019033	Edia tano hetoana be Helepe dekenai ia matamaia, ouki auna Sananima dekena amo, bona Adami Nekebe, Iabinele, bona Lakumu ia hanaia, bona Ioridane Sinavai dekenai ia doko.
+06019034	Tano hetoana be dina diho kahana dekenai ia lao, ela bona Asinoto Taboro, ma unuseni dekena amo ela bona Hukoko. Diho kahana dekenai Napatali ena tano hetoana be Sebuluno ena hetoa hegeregerena, bona dina diho kahanai, ena tano hetoana bona Asere be hetoa tamona. Ioridane Sinavai be Napatali ena dina daekau kahanai tano hetoana.
+06019035	Napatali ena hanua mai magudia danu be inai: Sidima, Sere, Hamata, Rakata, Kinerete,
+06019036	Adama, Rama, Hasoro,
+06019037	Kedesi, Ederei, Ene Hasoro,
+06019038	Irono, Migidalele, Horeme, Bete Anata, Bete Seme. Ena hanua ibounai be 19, mai edia hanua maragidia danu.
+06019041	Edia tano lalonai inai hanua idia noho: Sora, Esetaoli, Iri Semese,
+06019042	Salabina, Aialono, Itila,
+06019043	Elona, Timuna, Ekarona,
+06019044	Eleteke, Gibetona, Balata,
+06019045	Iehuda, Beneberaka, Gata Rimono,
+06019046	Meiakono, Rakono, bona Iopa kahana ena tano.
+06021011	Kiriata Araba hanua, ena ladana ta be Heberona, mai ena rei gabudia danu, Iuda ena ororo tano dekenai. Araba be Anaki besena ena tamana. 
+06021012	To inai hanua ena uma gabudia, bona hanua maragidia be Kaleba Iepune dekenai idia henia vadaeni guna, iena tano.
+06021013	Vadaeni hahelagaia tauna Arona ena tubuna taudia dekenai idia henia tano be inai: Heberona, (ala-ala kava taudia edia heau mauri hanua ta), Libina, mai ena rei gabudia danu, 
+06021014	Iatiri, mai ena rei gabudia danu, Esetemoa, mai ena rei gabudia danu. 
+06021015	Bona Holona, mai ena rei gabudia danu, bona Debiri, mai ena rei gabudia danu. 
+06021016	Bona Aina, bona Iuta, bona Bete Semese, mai edia rei gabudia danu. Unai iduhu ruaosi Iuda bona Simeona, dekena amo idia abia hanua be 9.
+06021017	Ma Beniamina iduhu dekena amo idia abia hanua be Gibeona bona Geba, mai edia rei gabudia danu, 
+06021018	bona Anatoto, bona Alamono, mai edia rei gabudia danu, hanua 4.
+06021021	Eparaima ese ia henidia hanua be inai: Sekema, mai ena rei gabudia danu, Eparaima ororo tano lalonai (Sekema be ala-ala kava taudia edia heau mauri hanua ta), bona Gesere, mai ena rei gabudia danu,
+06021022	bona Kibesaimi, bona Bete Horono, mai edia rei gabudia danu, hanua 4.
+06021023	Dano iduhu taudia dekena amo idia abia hanua be Eliteke bona Gibetona, mai edia rei gabudia danu,
+06021024	bona Aialono bona Gata Rimono, mai edia rei gabudia danu, hanua 4.
+06021025	Manase iduhu kahana taudia dekena amo idia abia hanua be Tanaka bona Gata Rimono, mai edia rei gabudia danu, hanua rua.
+06021027	Geresone bese taudia, Levi taudia, ese Manase iduhu kahana taudia dekena amo idia abia hanua be inai: Golana, Basana lalonai. (Ia be ala-ala kava taudia idia heau mauri hanua ta,) bona Be Esitera, mai edia rei gabudia danu, hanua rua.
+06021028	Isakara iduhu taudia dekena amo idia abia hanua be inai: Kisiona, mai ena rei gabudia danu, bona Daberata, mai ena rei gabudia danu,
+06021029	bona Iaramutu, mai ena rei gabudia danu, bona Ene Ganima, mai ena rei gabudia danu, hanua 4.
+06021030	Asere iduhu taudia dekena amo idia abia hanua be inai: Misala, mai ena rei gabudia danu, bona Abadona, mai ena rei gabudia danu,
+06021031	bona Helikati, mai ena rei gabudia danu, bona Rehoba, mai ena rei gabudia danu, hanua 4.
+06021032	Napatali iduhu taudia dekena amo idia abia hanua be inai: Kedesi, Galilea tano lalonai, mai ena rei gabudia danu. Kedesi danu be ala-ala kava taudia edia heau mauri hanua ta. Bona Hamoto Doro, mai ena rei gabudia danu, bona Karatana, mai ena rei gabudia danu, hanua toi.
+06021034	Levi taudia oredia, Merari bese taudia, ese Sebuluno iduhu taudia dekena amo idia abia hanua be inai: Iokoneami bona Karata, mai edia rei gabudia danu,
+06021035	bona Dimina bona Nahalala, mai edia rei gabudia danu, hanua 4.
+06021036	Rubena iduhu taudia dekena amo idia abia hanua be inai: Besere bona Iahasa, mai edia rei gabudia danu,
+06021037	bona Kedemoto, bona Mepata, mai edia rei gabudia danu, hanua 4.
+06021038	Gado iduhu taudia dekena amo idia abia hanua be inai: Ramoto, Gileada tano lalonai mai ena rei gabudia danu. (Ramoto be ala-ala kava taudia edia heau mauri hanua ta.) Bona Mahanaimi, mai ena rei gabudia danu,
+06021039	bona Hesebona bona Iasere, mai edia rei gabudia danu, hanua 4.
+13025002	Asapa ena natuna tau dekena amo: Sakuru, Iosepa, Netanaia bona Asarela. Idia be Asapa ena natuna, bona Asapa ese idia ia biagua. Asapa ese Dirava ena hereva ia gwauraia, king ese ia oda henia negadia ibounai.
+13025003	Iedutunu ena natuna tau dekena amo: Gedalaia, Seri, Iesaia, Simei, Hasabaia, bona Matitaia, ibounai be 6. Edia tamana ese idia ia gunalaia, bona idia ese Lohiabada hanamoa totona, Dirava ena hereva idia gwauraia hedinarai, mai ane abia, bona mai gita badadia edia regena namona danu.
+13025004	Hemana ena natuna tau dekena amo: Bukaia, Matanaia, Usiele, Sebuele, Ierimoto, Hananaia, Hanani, Eliata, Gidaloti, Romamati Esere, Iosobekasa, Maloti, Hotiri bona Mahasioto.
+13025005	Unai ibounai be Hemana, king ena peroveta tauna, ena natuna. Dirava ese Hemana dekenai inai natuna tau 14 bona natuna kekeni 3 ia henia, iena gwauhamata hegeregerena, Hemana dekenai siahu do ia henia totona.
+15001002	“Inai be Sairasi, Parasa ena king ena oda: Lohiabada, guba ena Dirava ese tanobada basileia ibounai lau dekenai ia henia, lau biagua. Bona Lohiabada ese lau ia oda henia, iena Dubu ta Ierusalema, Iuda tano dekenai do lau haginia.
+15001003	“Lau ura Dirava ese umui, iena bese taudia ta ta ibounai dekenai do ia noho. Umui be Ierusalema, Iuda tano dekenai do umui lao, unuseni Lohiabada, Israela ena Dirava, ena Dubu Helaga do umui haginia lou. Dirava be Ierusalema dekenai ia noho.
+15001004	Bona Ierusalema dekenai do idia lao lasi Iuda taudia ese edia varavara do idia durua, Ierusalema do idia lao totona. Do idia lao lasi taudia ese Ierusalema idia lao taudia dekenai inai gaudia do idia henia: Siliva, golo, kohu idauidau, kohu huaia totona hosi bona doniki, bona ubua gaudia, harihari gaudia, Dirava ena Dubu Helaga dekenai henia totona.”
+15001009	Kohudia be inai: golo uro, bona mereki	30 siliva uro, bona mereki	1000 siliva sosipani	29 golo uro maragidia	30 siliva uro maragidia	410 kohu namodia idauidau	1000
+15004009	“Inai revareva ai siaia taudia be, Rehumu, tuari orea biaguna, bona Simisai, toretore tauna, bona aiemai gaukara bamona taudia danu, kota biaguna taudia, lohia taudia, gaukara naria taudia, bona Parasa bona Ereke bona Babulonia bona Susa taudia (unai be Elama taudia).
+15004010	Bona lohia tauna badana, mai ladana bada, Osonopara ese edia gabudia dekena amo Samaria hanua dekenai, bona Euperate Sinavai ena dina diho kahanai idia abidia lao taudia danu dekena amo, inai revareva ia mai.”
+15004011	Idia siaia revareva lalonai idia torea hereva be inai: “Revareva be king Aratasaseta ena. King e, oiemu hesiai taudia, Euperate Sinavai ena dina diho kahanai ai noho ese oi ai hanamoa henia inai:
+15004012	“King e, ai ura oi diba, oiemu tano dekena amo iniseni idia mai Iuda taudia be Ierusalema dekenai idia lao vadaeni. Idia ese unai dagedage bona kara dika hanua be ma idia haginia lou noho. Hanua ena magu idia haginia noho, bona nega sisina lalonai do idia haorea.
+15004013	King e, namona be oi diba, bema inai hanua idia haginia lou, bona ena magu bema idia haorea neganai, inai Iuda taudia ese edia takisi moni oi dekenai do idia hadokoa, bona oi dekenai ia noho kohu be do ia maragi lao.
+15004014	Oi be aiemai king, bona oiemu moni ai abia noho dainai, ai ura lasi mai hemarai danu oiemu kohu do idia maragi lao. Unai dainai inai revareva, oi king dekenai ai siaia inai,
+15004015	vadaeni oiemu sene taudia edia sivarai buka lalonai do idia tahua. Unai sivarai buka lalonai do idia davaria, inai hanua Ierusalema be dagedage hanua, king bona basileia lohia taudia hadikaia gabuna. Nega gunadia dekena amo taravatu utua karadia be inai hanua lalonai idia tubu, unai dainai inai hanua idia hadikaia ore.
+15004016	Unai dainai ai ese oi dekenai ai hadibaia, bema inai hanua idia haginia lou, bona bema hanua ena magu idia haginia haorea neganai, oi ese Euperate Sinavai ena dina diho kahanai gau ta do oi biagua lasi.”
+15004017	King Aratasaseta ese iena haere ia siaia. Iena haere be inai: “Inai revareva be Rehumu, tuari orea biaguna, bona Simisai, toretore tauna, mai edia gaukara bamona taudia Samaria bona Euperate Sinavai ena dina diho kahana basileia taudia ibounai dekenai ai siaia inai. Ai ese oi ai hanamoa henia inai:
+15004018	“Umui ese umui siaia revareva, be egu vairana dekenai idia duahia hedinarai vadaeni.
+15004019	Vadaeni oda lau gwauraia, bona buka gunadia idia tahua. Momokani idia davaria nega gunadia dekena amo unai hanua ese king taudia ia tuari henia, bona unai hanua lalonai dagedage bona taravatu negea karadia idia karaia vadaeni.
+15004020	Ierusalema dekenai danu be king goadadia ese edia taunimanima idia biagua, bona idia ese Euperate ena dina diho kahanai basileia ibounai idia biagua danu, bona unai basileia noho taudia dekena amo takisi moni bona kohu idia gogoa.
+15004021	Unai dainai umui ese oda do umui gwauraia, unai Iuda taudia ese Ierusalema haginia lou gaukara do idia hadokoa, ela bona lau ese oda hereva ta ma do lau gwauraia.
+15004022	Inai haginia lou gaukara do umui koua haraga. Do umui manoka lasi. Lau ura lasi inai gari gauna do ia tubu noho ela bona ia bada, egu king siahuna do ia hadikaia garina.”
+15005007	Edia revareva ena anina be inai: “Inai revareva be king Dariuse ena. King e, maino do oi abia.
+15005008	“King e, namona be oi diba ai be Iuda basileia dekenai ai lao, Dirava badana ena Dubu dekenai, bona inai Dubu be Iuda lohia taudia ese idia haginia lou noho. “Nadi badadia, bona au, haba lalonai atoa gaudia, dekena amo idia haginia noho. Inai gaukara be mai goada danu idia karaia noho, bona edia gaukara ena anina ia vara noho.
+15005009	“Vadaeni ai ese unai Iuda lohia taudia ai nanadaia, ai gwau, ‘Daika ese umui ia oda henia, inai Dubu bona magu umui haginia lou totona?’
+15005010	“Ma ai nanadaidia, edia ladadia be daika, unai gaukara edia gunalaia taudia be oi dekenai do ai hamaoroa totona.
+15005011	“Idia ese ai dekenai idia haere, idia gwau, ‘Ai be guba bona tanobada ena Dirava ena hesiai taudia, bona lagani momo idia lao vadaeni, Israela ena king badana ta ese inai Dubu Helaga ia haginia bona ia haorea.
+15005012	To aiemai sene taudia ese Guba ena Dirava idia habadua dainai ia ese Nebukanesa, Babulonia ena king, Kaledea tauna, ena siahu henunai ia atodia. Unai king ese inai Dubu ia hadikaia ore, bona aiemai bese taudia be Babulonia kahana dekenai ia abidia lao.
+15005013	“ ‘To Sairasi, Babulonia ena king ena lohia lagani ginigunana lalonai, Sairasi ese oda ia gwauraia, inai Dirava ena Dubu do ai haginia lou totona
+15005014	Bona golo bona siliva gaudia, unai Dirava ena Dubu ena kohu, Nebukanesa ese Ierusalema Dubu dekena amo ia abia, bona Babulonia dubu lalonai ia atoa gaudia, be king Sairasi ese Babulonia dubu dekena amo ia abia, tau ta ladana Sesebasara dekenai ia henia. Sairasi ese Sesebasara be Iuda ena lohia tauna badana ia halaoa.
+15005015	“ ‘Sairasi ese Sesebasara ia hamaoroa, ia gwau: Inai gaudia do oi abia, bona Ierusalema ena Dubu Helaga lalonai do oi atoa. Bona Dirava ena Dubu Helaga be ena gabu korikori dekenai ma do oi haginia lou.
+15005016	“ ‘Vadaeni inai Sesebasara be ia mai, bona Dirava ena dubu Ierusalema dekenai ena badina nadidia ia haginia. Bona unai negana ia mai bona hari, ai ese Dubu haginia totona ai gaukara vadaeni, to do ia ore lasi.’
+15005017	“Unai dainai, king e, bema oi ura neganai, king ena sivarai buka idia haboua ruma Babulonia lalonai mani do idia tahua, do idia diba king Sairasi ese momokani ia oda, inai Dirava ena Dubu Ierusalema dekenai do idia haginia lou o lasi. Unai murinai, mani emu kara oiemu ura inai Dubu totona do oi hadibaia ai dekenai.”
+15006003	“King Sairasi ese iena king dagi ia hamatamaia lagani ginigunana lalonai, oda ia gwauraia, Dubu Helaga be Ierusalema dekenai do idia haginia lou, boubou, bona Lohiabada dekenai henia gaudia, do idia gabua ena gabu totona. Dubu Helaga ena ataiai latana be 27 mita, ma iena lababana danu be 27 mita.
+15006004	Dubu ena haba be nadi metaudia laini toi, bona edia latanai au badadia laini tamona do idia atoa. Ma idia edia latanai nadi ma haida laini toi, bona au ma laini tamona do idia atoa. Inai bamona do idia karaia, ela bona haba ena ataiai maka idia abia. Haginia gaukara ena davana, be Parasa king ese iena moni dekena amo do ia henia.
+15006005	Inai danu, Dirava ena Dubu Helaga ena golo bona siliva gaudia, king Nebukanesa ese Ierusalema dekena amo ia abia, bona Babulonia dekenai ia abia mai gaudia, be do idia henia lou. Ierusalema ena Dubu Helaga matamata dekenai, edia gabu ta ta dekenai unai golo bona siliva gaudia ma do idia atoa lou.”
+15006006	Vadaeni king Dariuse ese Parasa taudia edia revareva davana ia siaia, ia gwau, “Tatenai, Euperate Sinavai ena dina diho kahanai ena gavana, bona Setara Bosenai, mai emui tau badadia danu Euperate ena dina diho kahana dekenai umui noho taudia e, umui kamonai:
+15006007	“Inai Dirava ena Dubu Helaga gaukara be do idia karaia noho. Iuda lohia taudia bona tau badadia ese Dirava ena Dubu be iena gabu korikori dekenai do idia haginia.
+15006008	Inai danu, lau ese umui lau oda henia, edia Dubu haginia totona Iuda taudia do umui durua. Dubu haginia gaukara ena davana be dina ta ta ibounai do umui henia, vadaeni gaukara do ia metaira lasi. Inai moni be emui Euperate Sinavai kahana taudia dekena amo takisi dekenai do umui gogoa.
+15006009	Dina ta ta ibounai, dina ta do umui misi lasi, Ierusalema ena hahelagaia taudia edia ura gaudia do umui henia, hegeregere boromakau natuna tau, o mamoe, o mamoe natuna, Guba dekenai ia noho Dirava dekenai do idia boubou henia totona. Uiti, damena, uaina bona olive dehoro danu do umui henia.
+15006010	Inai gaudia do umui henia, idia ese Guba dekenai noho Dirava do idia boubou henia totona, bona lau, bona lauegu natuna hanamoa totona, Dirava dekenai do idia guriguri.
+15006011	Bona ma lau oda inai: Tau ta ese inai oda bema ia kamonai henia lasi neganai, egu hesiai taudia ese au ta iena ruma dekena amo do idia kokia, iena duduna ta do idia segea, bona unai au dekena amo unai tau do idia gwadaia mase. Ma unai tau ena ruma be momoru negea gabuna do idia halaoa.
+15006012	Inai hereva do ia haidaua, o Dubu Helaga ia hadikaia king ta, o bese ta, be Dirava ese do ia halusia momokani. Badina be Dirava ese Ierusalema hanua ia abia hidi, iena Dubu Helaga haginia gabuna totona. Lau Dariuse ese egu oda lau gwauraia inai. Do umui karaia namonamo.”
+15007012	“Lau inai, Aratasaseta, king taudia edia king ese inai revareva, Esera, hahelagaia tauna, Guba ena Dirava ena Taravatu hadibaia tauna dekenai lau torea inai:
+15007013	“Lau oda, lauegu basileia lalonai noho Israela taudia, o edia hahelagaia taudia, o Levi taudia, idia ura lao taudia ibounai be Ierusalema dekenai do idia lao diba.
+15007014	Lau, bona lauegu kaunsolo taudia 7 ese umui lau siaia inai, Ierusalema do umui itaia, bona do umui henanadai, unuseni umui emui Dirava ena Taravatu idia kamonai henia namonamo o lasi.
+15007015	Umui ese harihari gaudia, golo bona siliva, lau bona lauegu kaunsolo taudia ese Israela ena Dirava dekenai ai henia gaudia do umui abia lao. Inai Dirava ena Dubu Helaga be Ierusalema dekenai ia noho.
+15007016	Umui ese danu Babulonia dekenai umui gogoa siliva bona golo do umui abia lao Ierusalema dekenai. Unai be Babulonia dekenai noho Israela taudia bona edia hahelagaia taudia ese idia henia, edia Dirava edia Dubu Helaga, Ierusalema dekenai totona.
+15007017	“Inai moni do umui gaukaralaia namonamo. Ia dekena amo boromakau tau, bona mamoe tau, bona mamoe natuna, bona paraoa boubouna, bona uaina boubouna, do umui hoia. Bona Ierusalema dekenai Dubu Helaga ena boubou patana dekenai, Dirava dekenai inai gaudia ibounai do umui henia.
+15007018	“Bona siliva bona golo, umui do gaukaralaia lasi gaudia, be oi bona oiemu tadikaka taudia do umui gaukaralaia diba, emui Dirava ena ura hegeregere.
+15007019	Ai ese umui dekenai ai henia vadaeni gaudia, emui Dubu Helaga lalonai do umui gaukaralaia totona gaudia, be Ierusalema ena Dirava dekenai do umui henia.
+15007020	Bona dahaka gaudia, dahaka gaudia umui dekenai idia noho lasi, oiemu Dirava ena Dubu ena, do umui abia diba, vadaeni king ese iena moni dekena amo edia davana do ia karaia.
+15007021	“Inai danu, lau king Aratasaseta ese moni naria taudia ibounai Euperate Sinavai ena dina diho kahanai lau oda henia inai: Gau ibounai hahelagaia tauna Esera, Guba ena Dirava ena Taravatu hadibaia tauna ese umui dekenai ia gwauraia gaudia, be do umui henia haraga.
+15007022	Umui henia diba ela bona siliva ena metau 3400 kilogaram, uiti ena metau 1000 kilogaram, uaina ena metau 2000 lita, bona olive dehoro ena metau 2000 lita, bona damena momo, iena ura hegeregere do umui henia.
+15007023	Dahaka bona dahaka Guba ena Dirava ese ia ura iena Dubu Helaga lalonai do idia noho, gaudia ibounai do umui henia momokani. Inai bamona do umui karaia namonamo, emui Dirava ena badu be lau, o lauegu natuna dekenai do ia ginidae garina.
+15007024	Umui ese takisi moni hahelagaia taudia, Levi taudia, Dubu ena miusiki taudia, Dubu gimaia taudia, Dubu Helaga ena gaukara karaia taudia, ibounai dekena amo do umui gogoa lasi.
+15007025	“Oi danu, Esera e, oiemu Dirava ena aonega, oi dekenai ia noho gauna dekena amo, kota biagudia badadia bona maragidia do oi abia hidi, idia ese Euperate Sinavai ena dina diho kahanai taudia, oiemu Dirava ena Taravatu idia diba taudia ibounai, edia kota do idia naria. Bona Dirava ena Taravatu idia diba lasi taudia, be oi, Esera ese idia dekenai do oi hadibaia.
+15007026	Bema tau ta ese oiemu Dirava ena Taravatu, o king ena taravatu ia kamonai lasi neganai, iena kerere davana do oi henia haraga. Oi ese iena kerere davana, mase oi gwauraia diba, o iena tano dekena amo do oi siaia lao, idau tanobada ta dekenai do ia noho, o iena kohu do oi kokia lao, o dibura ruma dekenai do oi atoa, ia noho.”
+15010018	Idau bese hahine idia adavaia vadaeni taudia edia ladadia bona edia iduhu be inai: Hahelagaia taudia: Iosua Iosadaka bona iena tadikakana edia natudia: Maseaia, Eliesere, Iaribi, bona Gedalaia.
+15010019	Idia be idia gwauhamata, edia adavadia do idia negea. Bona edia kara dika boubouna be mamoe tau ta, edia kara dika kokia totona.
+15010020	Imere iduhu dekena amo: Hanani bona Sebadaia.
+15010021	Harimi iduhu dekena amo: Maseaia, Elia, Semaia, Iehiele, bona Usaia.
+15010022	Pasahuru iduhu dekena amo: Elioenai, Maseaia, Isamaela, Netanele, Iosabada, bona Elasa.
+15010023	Levi taudia: Iosabada, Simei, Kelaia (ena ladana ta be Kelita), Petahaia, Iuda, bona Eliesere.
+15010024	Ane abia taudia: Eliasibi. Dubu Helaga gimaia taudia: Salumu, Teleme bona Uri.
+15010025	Israela besena taudia ma haida: Paroso iduhu dekena amo: Ramaia, Isia, Malekaia, Miamini, Eleasara, Hasabaia, Benaia.
+15010026	Elama iduhu dekena amo: Matanaia, Sekaraia, Iehiele, Abidi, Ieremoto bona Elia.
+15010027	Satu iduhu dekena amo: Elioenai, Eliasibi, Matanaia, Ieremoto, Sabada, bona Asisa.
+15010028	Bebai iduhu dekena amo: Iehohanana, Hananaia, Sabai, bona Atalai.
+15010029	Bani iduhu dekena amo: Mesulama, Maluku, Adaia, Iasubu, Seala, bona Ieremoto.
+15010030	Pahata Moaba ena iduhu dekena amo: Adina, Kelala, Benaia, Maseaia, Matanaia, Besalele, Binui, bona Manase.
+15010031	Harimi ena iduhu dekena amo: Eliesere, Isihaia, Malekaia, Semaia, Simeona,
+15010032	Beniamina, Maluku, Semaraia.
+15010033	Hasumu ena iduhu dekena amo: Matenai, Matata, Sabada, Elipelete, Ieremai, Manase, bona Simei.
+15010034	Bani ena iduhu dekena amo: Madai, Amarama, Uele,
+15010035	Benaia, Bedeia, Keluhi,
+15010036	Vanaia, Meremoto, Eliasibi,
+15010037	Matanaia, Matenai, bona Iasu.
+15010038	Binui ena iduhu dekena amo: Simei,
+15010039	Selemaia, Natana, Adaia.
+15010040	Makenadebai, Sasai, Sarai,
+15010041	Asarele, Selemaia, Semaraia,
+15010042	Salumu, Amaraia bona Iosepa.
+15010043	Nebo ena iduhu dekena amo: Ieiele, Matitaia, Sabada, Sebina, Iadai, Ioela bona Benaia.
+16006006	Revareva ena hereva anina be inai: “Bese idauidau edia huanai idia herevalaia noho, bona Geseme ese danu ia gwauraia noho, oi bona Iuda taudia ese do umui dagedage, bona unai dainai magu umui haginia noho, bona oi ura Iuda edia king dagi do oi abia.
+16006007	Bona idia gwau danu oi ese peroveta taudia haida danu be Ierusalema dekenai oi haginia vadaeni, idia ese oi do idia gwauraia hedinarai, oi be Iuda ena king totona. Harihari inai hereva be king Aratasaseta ese do ia kamonai. Unai dainai inai kara be oi bona lau do ita herevalaia hebou be namo.”
+27005025	Ia torea herevadia be inai: {MENE, MENE, TEKELE, PARASINI}.
+27005026	“Unai hereva edia anina be inai: {MENE} (Namba): Oiemu basileia ena nega be Dirava ese ia duahia vadaeni, bona ia hadokoa gwauraia.
+27005027	“{TEKELE} (Metau): Oiemu kara be metau ena sikele dekenai Dirava ese ia tohoa vadaeni, bona ia itaia, oiemu kara ena namo be hegeregere lasi.
+27005028	“{PARASINI} (Haria): Oiemu basileia ia haria vadaeni, bona Mede bona Parasa taudia dekenai ia henia.”
