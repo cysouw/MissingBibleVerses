@@ -1,72 +1,73 @@
-40001022
-40001023
-40006003
-40006004
-40007028
-40007029
-40011021
-40011022
-40028017
-40028018
-41006017
-41006018
-41006019
-42001054
-42001055
-42010013
-42010014
-42012035
-42012036
-42012037
-42019020
-42019021
-42023050
-42023051
-44001021
-44001022
-44008027
-44008028
-44013040
-44013041
-45007024
-45007025
-45009011
-45009012
-45010003
-45010004
-45013011
-45013012
-47001015
-47001016
-47003004
-47003005
-47005006
-47005007
-47008019
-47008020
-48002001
-48002002
-48002007
-48002008
-48002009
-48004024
-48004025
-49002014
-49002015
-49003010
-49003011
-49006021
-49006022
-56003005
-56003006
-58007013
-58007014
-58009011
-58009012
-60002007
-60002008
-64001014
-64001015
-66012017
-66020005
-66020006
+40001022	Ura Tutuyqawhqa lavay’ayay ahpiy yan lavayhti: Meh, nāt qanawhvalni’taqa māna nö’yiltini; nen tiyohyat tihtani. Noqw puma put Emmanuel yan tuṅwáyani, pam hapi Tutuyqawhqa itamuma, i’nihqe pam’i. Noqw īi yantaqa sohsoy yaniwhtiqw, i’ hisat lavaytiwhqa aw antsaniwa.
+40001023	
+40006003	Uma qa panyuṅwt nanauyve hihta kuwahtotimantani. Uma haqawa hakiy hihta akw ōkwatuwnik hikis pas aw uh’unaṅway uhkwatsiy qa āawnani. Noqw Una sohsok hihta qamātaqpuvenihqat tuway’taqa pas nāp uṅ nuhtutpik tuwat tayawnamantani.
+40006004	
+40007028	Noqw Jesus pas öqalat pasiwk̇aṅw, pan pumuy tutuqayna, tutavot tūtutuqaynayaqamuy qa amun’i. Noqw pam yan yuaataqe yukuqw, sinom put hin tutuqaynaqat ep aw k̇ātayuṅwa.
+40007029	
+40011021	Nihqe paṅqawu: Is ohi, úmaa, Chorazin ep sínomu! Is ohi úmaa, Bethsaidat ep sínomu! Taq nu as umuhpa’ qatsá’ k̇ātatayhpit tumaltaqw uma nāp umuhtunatyay aṅqw qa lasya. Nu umumi paṅqawni: Hisat hin yukiltiniqat aw pituqw, umuṅem pas is óhini! Pep pu’ imuy Tyre ep sinmuy amuṅem‐nik̇aṅw pu Sidon ep sinmuy amuṅem umuhpenihqe pay soon pas nuhtsel’ewayni. Pi nu as pumuy amuhpa’ hisat k̇ātatayhpit tumaltaqw, puma soon qa anahaat yūyaht, qöhtsaptsomova yesvani; pan puma namtaknayani nāp tunatyay aṅqw lasyaniqeyu.
+40011022	
+40028017	Noqw Jesus pumuy amumi pituqw, puma put aw yórikyaqe pas hihtatota. Noqw pay haqawat soq pēvewinhtoti. Noqw pam amumi paṅqawu: Ina sohosk hihta ōveqatsit ep‐nik̇aṅw pu tūwaqatsit epnihqat aw nuy moṅwtavi.
+40028018	
+41006017	I’ Herod pi ura tupkoy Philip nȫmayat hakiy Herodias amum qatuptuqw, John put aw paṅqawu: Um uhtupkoy nömanawhkiqw pam pas qa suanta. Noqw ōviy Herodias pas John ṅȫyi’ta. Noqw Herod put unaṅwve hinhtiniqe, John aw hakimuy hōnaqw, puma put ṅúayaqe, sivikimi panaya. Noqw Herodias as John nīnaniqey ank̇aṅw, Herod atsviy kurs hin panhtini.
+41006018	
+41006019	
+42001054	Pam tumal’ayay Israel aw unaṅwtavi, Itanamuy amumi hin lavayhtiqey hapi panhti. Pam Abraham timuyatuy ōkwatuwa, Pu ahpiy aniwhtotiqamuy sohsokmuyu, Nihqe pam yūmosa panmani.
+42001055	
+42010013	Nihqe pam paṅqawu: Is ohi, úmaa, Chorazin ep sínomu! Is ohi úmaa, Bethsaidat ep sínomu! Nu as umuhpa’ qatsá’ k̇ātatayhpit tumaltaqw, uma nāp umuhtunatyay aṅqw qa lasya. Oviy hisat hin yukiltiniqat aw pituqw umuṅem pas is óhini! Pep pu’ imuy Tyre ep sinmuy amuṅem‐nik̇aṅw pu Sidon ep sinmuy amuṅem umuhpenihqe pay soon pas nuhtsel’ewayni. Pi nu as pumuy amuhpa’ hisat k̇ātatayhpit tumaltaqw, puma soon qa anahaat yūyaht, qöhtsaptsomove yesvani. Pan puma namtaknayani, nāp tunatyay aṅqw lasyaqeyu.
+42010014	
+42012035	Hakim tahtaqt moṅwiy haqam nāṅuiwhqat aṅqw áhoyniqat nuhtayyuṅqamuy amún uma kwewk̇ahk̇aṅw, umuhqöhiy úwikni’yuṅwni. Noqw ason pam ahoy pite’, pöṅö́ṅöykinaqw, puma nuhtayyuṅwe’, eṅem súhötaye’, pas hahlayhpit epyani. Pas antsa nu umumi paṅqawni: Soon pam qa hihta akw namuptat, amumi tunösvoñahtat, pumuy nopni’tani.
+42012036	
+42012037	
+42019020	Pu piw suhk̇a pítuhqe put aw paṅqawu: Moṅwi, taay, yep uhsiva. Nu uṅ mamqasqe, ōviy nu it höhönpit ep put mōki’ta. Um pi a’nö unaṅway’taqe, haqam hihta qa tavit ep kwúsuṅwu; pu um hihta qa uyht put höqṅwu.
+42019021	
+42023050	Noqw piw hak tāqa, Joseph yan mātsiwhqa, Aramathaea‐kitsókit ep ki’taqa, sinmuy amumi moṅw’iwta. Pam hak tāqa lolma, piw súantaqe, nuhtum God moṅwtunatyayat kwaṅwtoynak̇aṅw nuhtayta. Pam hak momṅwituy pasiwniyamuy, pu hintsakpiyamuy ep qa amumum pan yuki’ta.
+42023051	
+44001021	Imuy yep yesqamuy amuṅaqw haqawat Jesus qatsíyat aṅ ahsupoq itamum hinnumya, John hisat Jesus kūyit akw tuvoylataqat ahpiy’o, pu put itamuṅaqw ōmiq wīkiwhqat aw pahsavoo. Noqw ōviy itam pumuy amuṅaqw haqawat namorstotaqw, pam itamum Jesus mokiwuy aṅqw ahoy tātayhqat yuaatani.
+44001022	
+44008027	Noqw pam wunuptut aqw’a. Noqw meh, hak Ethiopiat aṅqw tāqa okiwlawniqe Jerusalem epeq pitumaqa paṅqe’ áhoynik̇aṅw, karētay aṅqw tsokiwma. Pam nömaqtsit aw qa awiwa, Ethiopiat epeq sinmuy moṅwíyamuy wuhtit Candacet aṅqw öqalat qaöwívasiwk̇aṅw, put sohsok hihta nukṅwayat aw tunatyawta. Pu pam God lavay’ayayat Esaias pēniyat aṅ túṅwanma.
+44008028	
+44013040	Ura God lavay’aymuyatuy pēniyamuy aṅ yan pey’ta: Kurs huvam yórikyaa, hihta aṅ tutsiw’unaṅway’yuṅqamu. Nen uma k̇ātayuṅwt, súlawhtini. Nu hapi umuhqatsiy ep hihta hintsakni; noqw soon uma put tūtuptsiwani, nāmahin pi as hak umuy put āwintani. Taay, noqw ōviy uma tunatyaltotini; taq nāphisat sen uma put lavayit an súlawhtini.
+44013041	
+45007024	Nu iunaṅṅaqw God eṅem tumalay’taniqey nāwakna, nīk̇aṅw nu itokoy akw qaanhtiput eṅem tumalay’ta. Is ohi, okiw himu nūu! Ya sen hak itokoy tuṅlayiyat mokiwuy aw nuy wīki’maqat aṅqw nuy ayo távini? Pas nu God aw hahlayhti, Jesus Christ nuy ayo táviq’ö.
+45007025	
+45009011	Noqw ura tsāyom nāt qa tihtiwhqe hihta lolmat, piw qalolmat qa haqam hinhtiqw Rebeccat aw yan lavayhtiwa: Wūyoqwa hapi tsākwwat eṅem tumalay’tani, kita. Pi God hin tunatyawtaqey pan hakiy namorstaṅwu, hakiy hintsakpiyat qa ahpiynit, pas nāp tunatyay ahpiy’o.
+45009012	
+45010003	Pi hak Christ aw tuptsiwhq Christ hakiy qenivo tave’ tutavot aṅqw hakiy mātapṅwu. Yan hapi hak God aw súantaṅwu. Noqw pay puma it qa navoti’yuṅqe Moses tutavoyat aṅ hinwisniqey akw God unaṅwveyaniqey aṅ ö’qalya, nihqe Christ pöhuyat aṅ hinwisniqey qa nānawakna.
+45010004	
+45013011	Itam navoti’yuṅqw hisat God itamuy ayo oye’ itahtokoy alöṅtaniqat aw hayiṅwiwta. Pay as qa pas itamuhaypniqw itam tūtuptsiwa. Soñawnen pi tōkila haqruhpa pay talhayiṅwti. Noqw ōviy itam soon qa havivok̇alyani, nen qatalpuve hintsatskiwhqat ayo yúkuyani, piw talpuve hintsatskiwhqat God tunipiyat antaqat ömahtotani.
+45013012	
+47001015	Noqw it yantaqat nu qapēvewnaqe as ōviy pay mohti umumiqniqey pan unaṅwti, pu umuhpiy Macedoniat awnit, Macedoniat aṅqw umumi piw áhoyniqeyu; nen nu lȫs umuy paaṅwani. Noqw nu umuṅaqw Judeat aqwniqw uma nuy paaṅwayani.
+47001016	
+47003004	Itam qa nāmi yantat, God aw yank̇aṅw Christ aṅ yan yuaata. Pi itam nahpiy qa hihta aṅ aptsiwta, pas God öqalayat‐sa ahpiy’o.
+47003005	
+47005006	Pi itam qa hihta tuway’k̇ahk̇aṅw, qapēvewnit aṅ hinwisa. Nihqe ōviy itam wuko’naṅway’yuṅwa, it navoti’yuṅqee: Tutuyqawhqat haqam qátuhqat itam qa pep amum yēse, ispi itam nāto itahtokoy aṅ tanawtaqee.
+47005007	
+47008019	Piw God aw tōnawtaqam put namorstaqw, pam itamum hinnumqe, itam hihta tsovalayaqat kima. Pi itam aṅ ahsupoq suan hinwisniqey nānawakna. Taq k̇a hak itamuy hihta tsovalayaqat ep itamuy ōvelani, as pam put ep God pas hihtatanik̇aṅwo, itamuy hin nāvaaṅwantotaniqey suhtaq’ewyaqat aw yórikqee.
+47008020	
+48002001	Pu ahpiy pakwt nālöq sihk̇ay’taqat yahsaṅwuy aṅ ruhpakq, paṅqw nu piw Jerusalem aqw’a, Barnabas ámuma, God pas nāp nuy paṅsoqniqat nuy ayataq’ö. Nihqe nu Titus enaṅ wīki. Noqw pepeq itam hakimuy pávanyaqamuy amumum tsovaltiqw, nu imuy qa‐Jew‐sinmuy amumi hihta yuaataqey pumuy āawna, taq k̇a nu hihta pay hintsakq, sen nāto hintsakniqw pay haktonsaniniq’ö.
+48002002	
+48002007	Noqw pay James, pu Cephas‐niqw, pu John, puma sumataq God aw tōnawtaqamuy amuṅaqw mohpeqyaqam nuy qa tumalmewaya. Qa panhtotit, puma tumalsuṅwamuy amún itamuy pās taviya, Barnabus‐nik̇aṅw, pu nūyu, Nihqe puma māmatsyaqw, kurs God nuy imuy qa‐Jew‐sinmuy amumi lomatuawit yuaataniqat aw nuy ayataqe, inuhpiy pumuy amuhpa’ qaöwítumalta, pam Peter imuy Jew‐sinmuy amumi yuaataniqat aw put ayataqey pan’i. Piw pam Peter ahpiy Jew‐sinmuy amuhpa’ a’nö tumalay’ta. Noqw ōviy puma kurs yan yukuya: Itam imuy qa‐Jew‐sinmuy amumi yuaataniqw, puma Jew‐sinmuy amumi yuaatotaniqeyu.
+48002008	
+48002009	
+48004024	Noqw ima lȫyöm hapi lȫqmuy pasiwnit tuawi’ta. I’ tūwiki, Hagar yan mātsiwhqa, Moses tutavoyat tuawi’ta. Pam tutavo Arabia‐tutskat ep tūkwit Sinait aṅqw mātaviwhqa sinmuy tūwikmuy’ta. Pam wuhti piw yep qatsit ep Jerusalem tuawi’ta; noqw put timat tūtuwiktu.
+48004025	
+49002014	Pi Christ hapi Jew‐sinmuy, imuy qa‐Jew‐sinmuy enaṅ namivöhikna. Ura as hin hinwisniqa tutavo pey’taqa tuhpelat an pumuy amuhtsave wunu. Noqw pay Christ God aw nātapqe, tutavot ayo yúkuhqe, soñawnen tuhpelat sahpukna. Ura as itam lȫyöm sinoiwtaqamu. Noqw pam itamuy namivöhiknat itamuy sūk̇a sinoiwtaniqat itamuṅem pan yuku.
+49002015	
+49003010	Pam ōveqatsit ep aṅ öqalay’yuṅqamuy amumi‐nik̇aṅw, pu nuhtumi moṅw’iwyuṅqamuy amumi put suan wuwniy qaöwíhintaqat poñahtaniqey nāwakna; nihqe ōviy pam tunatyay sūs yúkuhqey mahtaknaqe, Itahtutuyqawhqay Christ Jesus aṅ itamuy sohsokmuy sumitsovala.
+49003011	
+49006021	Nu pas aw iunaṅway itupkoy Tychicus, God eṅem qaatsáy’mak̇aṅw tumalay’taqat, umumi távini. Noqw pam nuy hin hintaqat, piw nuy hihta hintsakqat sohsok umuy āawnani. Noqw ason uma put nanapte’ suyan unaṅwtotini.
+49006022	
+56003005	Pam qa itahlomahintsakpiy ahpiy itamuy ayo oya, pas nāp núokway ahpiy’o. Noqw itam put tímatniwhtoti, pam Qahováriwtaqat Hikwsit itamuy qaöwíhuytaq’ö, Jesus Christ aṅ’a. Noqw Hikwsiy aṅ pam itamuy kwaṅw’ewakwtat, itamuy pūhuta.
+56003006	
+58007013	Pi itam navoti’yuṅqw, Jesus qa Levit ahpiynit, Judat ahpiy’o. Puma hapi as qa wimmoṅwnamorstiwya; pu Moses qa pumuy put tumalmaqa.
+58007014	
+58009011	Noqw pay God itamumi hihta lolmat pasiwnaqw, Christ itamuṅem God awwat móṅwiniqe ōviy wunuptu; nihqe soñawnen mötsápkit aṅ kuyvaqe sūs haqam susqahováriwhput aw paṅso paki. Pam mötsápki hin hintaniqey pasiwtaqe, mohtiwat epnihqe pas pavan nukṅwa, ōviy pi pam qa tūwaqatsit ep wunu, piw qa sinmuy māyamuy ahpiy yukiwa. Noqw Christ nāp uṅway yank̇aṅw paṅso paki, hīhihtuy uṅwáyamuy qa put yank̇aṅwo, sen kapīrat uṅwáyata, sen wakashoyat uṅwáyata. Pam paṅso pákihqe itamuy sūs qenivo oya.
+58009012	
+60002007	Noqw ōviy uma tuptsiwyaqw, pam úmuyniqw pas hihk̇ay’ta. Nīk̇aṅw hakim aṅ qa tuptsiwyaqam, pu God lavayiyat aw qa tuqayvastotaqam put aqw múnukya. Sam pi pan amuṅem yúkiwhq’ö, ōviy pi yan hapi pey’ta: I’ owa kīlalwaqamuy amuhpiy ayo tūviwhqa kīhut ep tuyqaveq páki, yan’i. Pu piw yan’i: Puma it owat ep tönökyat, put aqw múnukyani, yan’i.
+60002008	
+64001014	Nīk̇aṅw pay hisnen nu qa pas wūyavotiqw ūmi yórikni; noqw itam pas nāmi tayk̇aṅw yuaatani. Nam kwakwhaunaṅwa umum yantaa. Ima itahkwatsim uṅ öqalaya. Um itahkwatsmuy nanāpwat öqalantani.
+64001015	
+66012017	Noqw ōviy lölöqaṅw wuhtit aw tuyvanaqe a’nö itsívutiqe, aṅqw ahpiynihqe, put tímuyatuy amumi kikihpoktiva, hakimuy God tutavoyat aṅ hinwisqe, Jesus Christ pumuy hin amuṅen hihta hinhtiqat nuhtumi yuaatotaqamuy amumii.
+66012018	
+66020005	Ima hapi mohti ahoy yesva. Pas i’ hak mohti ahoy yesvaniqamuy amumum ahoy tātayhqa hahlayhpit epni. Pi mokiwu qa lȫs put aw öqalay’tani. Pi mohti ahoy yesvaniqam hapi God awwat‐nik̇aṅw pu Christ awwat wimmomṅwitni; nen sūp sōmorit yahsaṅwuy aṅ put amum moṅw’iwyuṅwni. Noqw pay ahpiy mímawat so’pum pay ason pas sūp sōmorit yahsaṅwuy súlawhtiniqat pahsavo pay hāk qa yesvani.
+66020006	
