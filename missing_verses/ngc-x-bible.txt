@@ -1,9 +1,11 @@
+### some phrases seem to be missing in bible.com as well, some are part of the preceding phrase
+
 41015047
 43010040
 43010041
 43010042
-43012011
+43012011	
 44014028
-45008033
-49002006
-53002017
+45008033	
+49002006	
+53002017	
