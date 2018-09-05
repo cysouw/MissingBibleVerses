@@ -1,131 +1,133 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40009020
-40009021
-40010003
-40010004
-40013055
-40013056
-40027009
-40027010
-41005007
-41005008
-42001026
-42001027
-42008028
-42008029
-42008031
-42008032
-42009030
-42009031
-42023050
-42023051
-42024047
-42024048
-43001032
-43001033
-43004007
-43004008
-43010014
-43010015
-43010017
-43010018
-43018001
-43018002
-43019019
-43019020
-44001016
-44001017
-44001021
-44001022
-44001024
-44001025
-44008001
-44008002
-44008003
-44008027
-44008028
-44009023
-44009024
-44013027
-44013028
-44013032
-44013033
-44013038
-44013039
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44019009
-44019010
-44023012
-44023013
-44023027
-44023028
-44023029
-44023030
-44024006
-44024008
-44028010
-44028011
-45008038
-45008039
-45009011
-45009012
-45015023
-45015024
-46005012
-46005013
-46006009
-46006010
-47008010
-47008011
-47010004
-47010005
-49001015
-49001016
-49002004
-49002005
-53002016
-53002017
-58006004
-58006005
-58006006
-58009016
-58009017
-58011017
-58011018
-58013020
-58013021
-61001017
-61001018
-61002007
-61002008
-62003019
-62003020
-66007005
-66007006
-66007007
-66007008
-66014004
-66014005
-66016013
-66016014
-66020004
-66020005
+40001002	Ábrahám fia Izsák volt, Izsák fia Jákób, Jákób fiai pedig Júda és testvérei voltak.
+40001003	Júda gyermekei Fáresz és Zerah voltak, akik Támártól születtek. Fáresz fia Heszrón, Heszrón fia pedig Arám volt.
+40001004	Arám fia Aminádáb, Aminádáb fia Nahson, Nahson fia pedig Szalmón volt.
+40001005	Szalmón fia Boáz volt, akit Ráháb szült. Boáz fia Óbéd volt, akit Ruth szült. Óbéd fia Isai volt.
+40001006	Isai fia Dávid király volt. Dávid fia pedig Salamon, akit Úriás felesége szült neki.
+40001007	Salamon fia Roboám volt, Roboám fia Abijjá, Abijjá fia pedig Ászá.
+40001008	Ászá fia Jósafát, Jósafát fia Jórám, Jórám fia Uzziás volt,
+40001009	Uzziás fia Jótám, Jótám fia Áház, Áház fia pedig Ezékiás volt.
+40001010	Ezékiás fia Manassé, Manassé fia Ámón, Ámón fia Jósiás volt.
+40001011	Jósiásnak a babiloni fogságbavitel idején született gyermekei: Jekonjás és testvérei.
+40001012	A babiloni fogságbavitel után Jekonjásnak fia született: Sealtiél. Sealtiél fia Zerubbábel volt.
+40001013	Zerubbábel fia Abihud, Abihud fia Eljákim, Eljákim fia pedig Azzur volt.
+40001014	Azzur fia Cádók, Cádók fia Jákin, Jákin fia Elihud volt.
+40001015	Elihud fia Eleázár, Eleázár fia Mattán, Mattán fia pedig Jákób volt.
+40001016	Jákób fia József volt, annak a Máriának a férje, akitől Jézus, a Krisztus született.
+40009020	Eközben egy asszony Jézus közelébe férkőzött, és hátulról megérintette a ruhája szélét. Ezt gondolta magában: „Ha csak a ruháját megérinthetem, meggyógyulok.” Ez az asszony ugyanis már tizenkét éve olyan betegségben szenvedett, amely állandó vérzéssel járt.
+40009021	
+40010002	Ez a tizenkét apostol neve: az első Simon, akinek a másik neve Péter, és a testvére, András; Jakab, Zebedeus fia és a testvére, János;
+40010003	Fülöp és Bertalan; Tamás és Máté, a vámszedő; Jakab, Alfeus fia, és Taddeus;
+40010004	Simon, a zélóta, és Iskáriótes Júdás, aki később elárulta Jézust.
+40013055	Hiszen ez csak az ács fia! Ismerjük az egész családját: anyját, Máriát, és a testvéreit: Jakabot, Józsefet, Simont és Júdást, meg a húgait, akik itt élnek közöttünk! Honnan vette hát ezt a bölcsességet és a csodatevő erőt?”
+40013056	
+40027009	Így teljesedett be, amit Jeremiás próféta mondott:„Izráel fiai megegyeztek, hogy harminc ezüstöt fizetnek az életéért, mert ennyire becsülték őt. Fogták ezt a harminc ezüstöt, és megvették rajta a Fazekas-mezőt, ahogyan azt megparancsolta nekem az Úr.”
+40027010	
+41005007	Jézus megparancsolta neki: „Gonosz szellem, menj ki ebből az emberből!” Az pedig így kiabált: „Mi közöd hozzám, Jézus, a Magasságos Isten Fia? Esküdj meg Istenre, hogy nem fogsz kínozni engem!”
+41005008	
+42001026	Hat hónappal később, amikor Erzsébet már terhessége hatodik hónapjában volt, Isten a galileai Názáret városába küldte Gábriel angyalt egy szűzhöz. Ezt a leányt Máriának hívták, és egy József nevű férfi már eljegyezte, mert feleségül akarta venni. József Dávid családjából származott.
+42001027	
+42008028	Mivel a gonosz szellemek már régóta uralkodtak rajta, kezét-lábát vas láncokkal kötözték meg. De hiába próbálták fogva tartani, mindig letépte magáról a láncokat, és a gonosz szellemek a pusztába űzték. Amikor ez az ember meglátta Jézust, a lába elé borult, és így kiabált: „Mi közöd hozzám, Jézus, Magasságos Isten Fia?! Kérlek, ne kínozz engem!” Jézus ugyanis megparancsolta a gonosz szellemnek, hogy menjen ki az emberből.
+42008029	
+42008031	A közelben, a hegyoldalon nagy sereg disznó legelészett. A gonosz szellemek kérlelték Jézust, hogy ne küldje őket a mélységbe, hanem engedje meg nekik, hogy a disznókba menjenek, és ő megengedte nekik.
+42008032	
+42009030	Ezután két férfi jelent meg dicsőségben: Mózes és Illés, akik Jézussal a haláláról beszélgettek, amelynek Jeruzsálemben kell megtörténnie.
+42009031	
+42023050	Volt ott egy József nevű férfi is, a Főtanács egyik tagja, aki a júdeai Arimátia városából származott. Jó és igazságos ember volt, aki maga is várta Isten Királyságának eljövetelét, és ellenezte, amikor a Főtanács halálra ítélte Jézust.
+42023051	
+42024047	Ti láttátok, hogy ez megtörtént! Tanúk vagytok erre. Ezért menjetek és hirdessétek mindenkinek, hogy bűneikre bocsánatot nyerhetnek. Mondjátok meg nekik, hogy változtassák meg gondolkodásukat és életüket, és akkor Isten megbocsát nekik. Kezdjétek itt, Jeruzsálemben, és mondjátok el ezeket mindenkinek az én nevemben! Ezt az örömhírt minden népnek hallania kell az egész világon!
+42024048	
+43001032	Ezután János így tanúskodott: „Láttam a Szent Szellemet, amint leszállt a Mennyből, mint egy galamb, és megnyugodott őrajta. Én magam nem ismertem őt, de aki elküldött, hogy vízbe merítsem az embereket, azt mondta nekem: »Látni fogod, hogy a Szent Szellem leszáll, és megnyugszik egy férfin. Ő az, aki majd Szent Szellembe merít be.«
+43001033	
+43004007	A tanítványok éppen a városba mentek, hogy valami ennivalót vegyenek. Ekkor ért a kúthoz egy samáriai asszony, aki a városból jött, hogy vizet merítsen. Jézus megszólította: „Kérlek, adj nekem inni!”
+43004008	
+43010014	Én vagyok a jó pásztor, aki gondot visel a juhaira. Ismerem a juhaimat, ahogyan az Atya ismer engem. Juhaim is ismernek engem, ahogyan én ismerem az Atyát. Én az életemet adom a juhokért.
+43010015	
+43010017	Az Atya szeret engem, mert odaadom az életemet. Senki nem veheti el tőlem: önként adom oda. Azután majd újra visszaveszem. Jogom van arra, hogy odaadjam, és arra is, hogy visszavegyem. Ezt a parancsot kaptam Atyámtól.”
+43010018	
+43018001	Miután Jézus befejezte az imádkozást, tanítványaival együtt átment a Kidron-patak túlsó partjára, egy kertbe, ahol máskor is gyakran megfordultak. Ezt a helyet ismerte Júdás is, aki Jézust az ellenségei kezébe akarta adni.
+43018002	
+43019019	Pilátus készített egy feliratot is, amelyet rászögeztek Jézus keresztfájára. Ez állt rajta héber, latin és görög írással: „názáreti jézus a zsidók királya”. Az a hely, ahol Jézust megfeszítették, közel volt a városhoz, ezért a zsidók közül sokan elolvasták ezt a feliratot. A zsidó főpapok azt mondták Pilátusnak:
+43019020	
+44001016	„Testvéreim, be kellett teljesednie az Írásnak, amit a Szent Szellem Dávid által már régen megmondott Júdásról, aki közénk tartozott, és velünk együtt szolgált. Ő vezette azokat, akik Jézust letartóztatták.
+44001017	
+44001021	Ezért választanunk kell valakit, aki velünk együtt tanúskodik Jézus feltámadásáról. Olyan valakit, aki közénk tartozott egész idő alatt, amíg az Úr Jézus velünk volt: attól fogva, amikor János elkezdte az embereket bemeríteni, egészen addig, amíg Jézust a Mennybe felvitték.”
+44001022	
+44001024	Azután így imádkoztak: „Urunk! Te mindenki szívét ismered. Mutasd meg, hogy e kettő közül melyiket választottad, hogy azt az apostoli munkát végezze, amit Júdás elhagyott, hogy arra a helyre jusson, ahová való. Urunk, mutasd meg, melyikük foglalja el Júdás helyét!”
+44001025	
+44008001	Azután néhány istenfélő férfi eltemette, és megsiratta Istvánt. Saul is helyeselte, hogy Istvánt megölték. Azon a napon a nép a jeruzsálemi gyülekezet ellen fordult, és üldözni kezdte őket. Ezért Jeruzsálemből a hívők mind elmenekültek Júdea és Samária vidékére, csak az apostolok maradtak ott. Saul is igyekezett a jeruzsálemi gyülekezetet elpusztítani: házról házra járt, a gyülekezethez tartozó férfiakat és nőket erőszakkal elvitte otthonukból, és börtönbe zárta őket.
+44008002	
+44008003	
+44008027	Fülöp tehát felkészült, és elindult. Útközben látott egy etióp férfit, aki eunuch volt, Kandakénak, Etiópia királynőjének nagy hatalmú minisztere. Őrá bízta a királynő az ország összes kincsét és pénzét. Éppen útban volt hazafelé, Etiópiába. Azért járt Jeruzsálemben, hogy ott Istent imádja. A hintóján ült, és Ézsaiás próféta könyvét olvasta.
+44008028	
+44009023	Ezután sok nappal a damaszkuszi zsidók elhatározták, hogy megölik Sault. Éjjel-nappal figyelték a város kapuit, hogy ha arra jön, meggyilkolják.
+44009024	
+44013027	Jeruzsálem lakói és a nép vezetői nem értették meg, hogy Jézus a Megmentő, és elítélték őt. Bár nem tudtak Jézus ellen semmi olyat mondani, amiért meg kellett volna halnia, mégis azt kérték Pilátustól, hogy ítélje halálra, és öljék meg. Így azután megtörtént minden, amit a próféták előre megmondtak és leírtak, és amit a zsidók minden szombaton felolvasnak a zsinagógákban.
+44013028	
+44013032	Isten ígéreteket tett a mi ősapáinknak. Mi azt az örömhírt mondjuk nektek, hogy ezeket az ígéreteket Isten most nekünk, az ő gyermekeiknek teljesítette be. Még pedig azzal, hogy Jézust a halálból feltámasztotta, ahogyan ez meg van írva a második zsoltárban: »Te vagy az én fiam, ma lettem az édesapád.«
+44013033	
+44013038	Testvéreim, kérlek, értsétek meg, azt hirdetjük nektek, hogy Isten Jézus által kínálja fel nektek a bűneitek megbocsátását. És hirdetjük, hogy Jézus az, aki megszabadítja azokat, akik hisznek benne. Igen, megszabadítja őket mindazokból a dolgokból, amikből Mózes Törvénye nem tudott bennünket megszabadítani.
+44013039	
+44015024	Megtudtuk, hogy hozzátok ment közülünk néhány férfi, és olyan dolgokat mondtak, amelyekkel megzavartak és nyugtalanítottak benneteket. De nem mi küldtük őket.
+44015025	Ezért egy akarattal elhatároztuk, hogy kiválasztunk néhány férfit, és elküldjük őket hozzátok: együtt mennek szeretett Pál és Barnabás testvérünkkel,
+44015026	akik életüket is odaadták Urunk, Jézus Krisztusért.
+44015027	Elküldjük tehát hozzátok Júdást és Szilászt, akik majd személyesen is elmondják nektek ugyanezt.
+44015028	A Szent Szellem úgy látja jónak, és mi is egyetértünk vele, hogy ne terheljünk benneteket semmi mással, csak ezeket a dolgokat tartsátok be:
+44015029	ne egyetek olyan ételt, amit a bálványoknak ajánlottak fel, ne egyetek megfulladt állatok húsából készült ételt, se olyan húst, amelyben benne maradt a vér, és ne kövessetek el semmilyen szexuális bűnt,
+44019009	Közülük néhányan makacsul ellenkeztek Pállal, és nem akartak hinni. Sőt, mindenkinek rossz dolgokat mondtak Isten útjáról. Ekkor Pál végleg otthagyta a zsidókat, de magával vitte azokat, akik Jézus tanítványai lettek. Két éven keresztül minden nap tanította őket egy Tirannosz nevű férfi iskolájában. Ezért az Ázsiában lakó zsidók és nem zsidók mind hallották és megismerték Isten üzenetét.
+44019010	
+44023012	Másnap a zsidók közül negyvenen összegyűltek, és azt tervezték, hogy meggyilkolják Pált. Megfogadták, hogy addig sem nem esznek, sem nem isznak, amíg ez nem sikerül.
+44023013	
+44023027	Ezt a férfit a zsidók elfogták, és meg akarták ölni, de én katonáimmal kiszabadítottam, mert megtudtam, hogy római állampolgár.
+44023028	Tudni akartam, mivel vádolják, ezért levittem őt a Főtanácsuk elé.
+44023029	Kiderült, hogy csak a saját törvényükkel kapcsolatban vádolják, és nincs ellene semmi olyan vád, amely alapján halált, vagy börtönt érdemelne.
+44023030	Amikor megtudtam, hogy titokban meg akarják ölni, azonnal elküldtem őt hozzád. Vádlóinak pedig megparancsoltam, hogy mondják el neked, amivel őt vádolni akarják.”
+44024006	Még a Templomot is meg akarta szentségteleníteni, de ebben megakadályoztuk. Ha kikérdezed, te is meggyőződhetsz azokról a dolgokról, amelyekkel vádoljuk.”
+44024007	
+44024008	
+44028010	Sok ajándékot kaptunk tőlük. Így fejezték ki a tiszteletüket irántunk. Amikor ismét hajóra szálltunk, mindenfélét adtak, amire szükségünk volt. Három hónappal később felszálltunk egy alexandriai hajóra, amely a szigeten várta, hogy elmúljon a tél. A hajó címere az alexandriai iker-isteneket ábrázolta.
+44028011	
+45008038	Mert Isten szeretetétől semmi, de semmi nem tud minket elválasztani — ebben egészen biztos vagyok! Sem halál, sem élet, sem angyalok, sem az uralkodó szellemek, sem ami most van, vagy ami ezután következik, sem azok, akiknek hatalmuk van, sem semmi, ami a magasságban, vagy a mélységben van, sem semmiféle más teremtmény nem választhat el bennünket Isten irántunk való szeretetétől, amely Urunkban, Jézus Krisztusban mutatkozott meg.
+45008039	
+45009011	Mielőtt azonban ez a két fiú megszületett volna, Isten azt mondta Rebekának: „Az idősebb fiú szolgálni fog a fiatalabbnak”. Ez a születésük előtt történt, ezért a két fiú még semmi jót, vagy rosszat nem tehetett. Azért történt így, hogy Isten megmutassa: választása nem attól függ, hogy az emberek mit tesznek, hanem egyedül tőle, magától.
+45009012	
+45015023	De most már befejeztem a munkámat ezekben az országokban. Így az a tervem, hogy amikor Hispániába utazok, akkor titeket is meglátogatlak. Hiszen már évek óta szeretnélek látni benneteket. Bizonyára segíteni fogtok nekem, hogy tovább is utazhassak, ha már egy kis időt eltöltöttem nálatok.
+45015024	
+46005012	Mert nem az én dolgom, hogy ítéletet mondjak azokról, akik a gyülekezeten kívül élnek. Ti is csak azok felett bíráskodhattok, akik a gyülekezethez tartoznak. A többieket majd Isten fogja megítélni. Ahogy az Írás mondja: „Űzzétek ki magatok közül a gonosz embert!”
+46005013	
+46006009	Vagy talán nem tudjátok, hogy igazságtalan emberek nem vehetnek részt Isten Királyságában?! Ne csapjátok be magatokat! Isten Királyságában nem vehetnek részt a szexuális bűnökben élők, vagy akik bálványokat imádnak, vagy házasságtörők, vagy prostituáltak, vagy homoszexuálisok, vagy tolvajok, vagy pénzimádók, vagy részegesek, vagy káromkodók, vagy csalók.
+46006010	
+47008010	Hadd adjak nektek tanácsot. Tavaly ti voltatok az elsők, akik adni akartak — és adtatok is. Most pedig jó lenne, ha befejeznétek, amit tavaly elkezdtetek. Ne csak a jó szándék legyen bennetek, hanem tegyétek is meg, amit elhatároztatok! Tehát gyűjtsétek össze, amit adni akartok — mindenki annak megfelelően, amennyi pénze van.
+47008011	
+47010004	A mi fegyvereink különböznek a közönséges fegyverektől! Ezekben Isten ereje működik! Le tudunk rombolni velük minden büszke erődítményt, amelyet az ellenség azért épített, hogy Isten igazi megismerését akadályozza. Igen, lerombolunk minden emberi okoskodást és vitatkozást, és foglyul ejtünk minden gondolatot, hogy engedelmeskedjen a Krisztusnak!
+47010005	
+49001015	Hallottam, hogy hisztek az Úr Jézus Krisztusban, és szeretitek mindazokat, akik Istenhez tartoznak. Ezért állandóan hálát adok értetek Istennek, amikor imádkozás közben eszembe juttok.
+49001016	
+49002004	Isten azonban tele van irgalommal, és nagyon szeret bennünket! Ezért, amikor még halottak voltunk a bűneink miatt, Krisztussal együtt új életet adott nekünk. Bizony, Isten kegyelme mentett meg benneteket!
+49002005	
+53002016	Azért imádkozunk, hogy Urunk, Jézus Krisztus és Isten, mennyei Édesapánk bátorítsa szíveteket, és erősítsen meg benneteket minden jóra, szóban és tettekben egyaránt. Hiszen Isten megmutatta, hogy szeret bennünket, és irántunk való jóindulatából örökké tartó vigasztalást, bátorítást és biztos reményt adott nekünk.
+53002017	
+58006004	Ha valaki elhagyja Krisztus útját, vajon visszatérhet-e hozzá megint? Olyanokról beszélek, akiket az igazság egyszer már megvilágosított, meg is kóstolták Isten ajándékát, megkapták a Szent Szellemet, hallották Isten beszédét, megtapasztalták a következő korszak erejét, mégis elhagyták Krisztus útját. Ezek szinte ismét megfeszítik Isten Fiát, és szégyent hoznak rá az emberek előtt. Vajon az ilyen emberek ismét megváltoztatják a gondolkodásukat és életüket? Nem, ez lehetetlen!
+58006005	
+58006006	
+58009016	Mielőtt valaki meghal, végrendeletet készít, amely azonban csak a halála után lesz érvényes. Amíg él, addig a végrendelete nem lép életbe. Ezért meg kell bizonyosodni arról, hogy a végrendelkező valóban meghalt-e.
+58009017	
+58011017	Ábrahámot a hite tette képessé arra, hogy feláldozza a fiát, Izsákot. Isten ezzel tette próbára Ábrahámot, hiszen azt mondta neki: „Izsákon keresztül fognak származni az utódaid.” Isten valóban ezt ígérte Ábrahámnak, aki ennek ellenére mégis kész volt, hogy egyetlen fiát feláldozza.
+58011018	
+58013020	A Békesség Istene feltámasztotta a halálból nyája nagy Pásztorát, Urunkat, Jézust. Igen, az Örökkévaló Szövetség vére által támasztotta fel! Most pedig a Békesség Istene adja meg nektek mindazt a jót, amire szükségetek van ahhoz, hogy akaratát véghez vigyétek. Azért imádkozom, hogy Jézus Krisztus segítségével Isten maga tegye meg bennetek mindazt, ami neki tetszik! Jézusnak legyen dicsőség örökké! Ámen.
+58013021	
+61001017	Hiszen Jézussal együtt ott voltunk a szent hegyen, amikor az Atya-Istentől dicsőséget és megtiszteltetést kapott. Ugyanis, a Felséges Dicsőség hangja így szólt hozzá: „Ez az én Fiam, akit nagyon szeretek! Őbenne gyönyörködöm!” Mi valóban hallottuk ezt a Mennyből jövő hangot!
+61001018	
+61002007	Ugyanakkor Isten kimentette Sodomából Lótot, akit elfogadott. Lót istenfélő és igaz ember volt, és szenvedett a körülötte élő istentelenek gonoszsága miatt. Nap mint nap látta és hallotta, milyen gonosz dolgokat művelnek a többiek, és ez gyötörte Lót igaz lelkét.
+61002008	
+62003019	Így lehetünk benne biztosak, hogy az igazsághoz tartozunk! Így nyugtathatjuk meg a szívünket Isten előtt, akkor is, amikor a lelkiismeretünk vádol bennünket. Hiszen Isten sokkal hatalmasabb, mint a lelkiismeretünk, és mindent jól lát.
+62003020	
+66007005	Tizenkétezret Júda törzséből, tizenkétezret Rúben törzséből, tizenkétezret Gád törzséből,
+66007006	tizenkétezret Ásér törzséből, tizenkétezret Naftáli törzséből, tizenkétezret Manassé törzséből,
+66007007	tizenkétezret Simeon törzséből, tizenkétezret Lévi törzséből, tizenkétezret Issakár törzséből,
+66007008	tizenkétezret Zebulón törzséből, tizenkétezret József törzséből és tizenkétezret Benjámin törzséből.
+66014004	Ők azok, akik nem követtek el bűnt az asszonyokkal, megőrizték a tisztaságukat, és követik a Bárányt, akárhová megy. Ők azok, akiket az emberek közül szabadítottak meg, akik nem hazudtak, és hibátlanok. Ők az elsők, akiket Isten és a Bárány számára kiválogattak.
+66014005	
+66016013	Ezután ismét láttam. Három gonosz szellem jött ki a sárkány, a szörnyeteg és a hamis próféta szájából. Ezek a gonosz szellemek békákhoz hasonlítottak, és csodatévő hatalmuk volt. A Föld összes királyához elmentek, hogy összegyűjtsék őket a Mindenható Isten nagy napjának csatájára.
+66016014	
+66020004	Azután trónokat láttam. Akik rajtuk ültek, hatalmat kaptak, hogy ítéljenek. Láttam azoknak az embereknek a lelkeit is, akiket lefejeztek a Jézusról való tanúskodásuk és Isten üzenetének hirdetése miatt. Ezek nem imádták a szörnyeteget, sem annak szobrát, és nem engedték a homlokukra vagy a kezükre tenni a szörnyeteg jelét. Ezek az emberek feltámadtak, és ezer évig együtt uralkodtak Krisztussal. Ez az első feltámadás. A többi halott még nem támad fel, amíg le nem telik az ezer év.
+66020005	
