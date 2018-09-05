@@ -1,49 +1,53 @@
-43019001
-43019002
-43019003
-43019004
-43019005
-43019006
-43019007
-43019008
-43019009
-43019010
-43019011
-43019012
-43019013
-43019014
-43019015
-43019016
-44008001
-44022002
-44022003
-44022004
-44022005
-44023001
-44023002
-44023003
-44023004
-44023005
-44023006
-44023007
-44023008
-44023009
-44023010
-44023011
-45003001
-45003002
-45003003
-45003004
-45003005
-45003006
-45003007
-45003008
-45010001
-45010002
-45010003
-45010004
-46011001
-46012012
+### in the crawled version <Għ, għ> is written as <Ç, ç>
+### indented phrases are missing
+
+43019001	Mbagħad Pilatu ordna li jieħdu lil Ġesù u jagħtuh is-swat.
+43019002	Is-suldati nisġu kuruna tax-xewk u qegħduhielu fuq rasu, u libbsuh mantar aħmar skur.
+43019003	U bdew ġejjin quddiemu u jgħidulu: "Is-sliem għalik, ja sultan tal-Lhud!" U bdew jagħtuh  bil-ħarta.
+43019004	Għal darb' oħra Pilatu ħareġ barra jgħidilhom: "Araw, se nġibhulkom quddiemkom hawn barra, biex tkunu tafu li jien ma nsib ebda ħtija fih."
+43019005	U Ġesù ħareġ hemm barra, liebes il-kuruna tax-xewk u l-mantar aħmar; u Pilatu qalilhom: "Arawh, hawn hu  l-bniedem!"
+43019006	X'ħin rawh, il-qassisin il-kbar u l-għases bdew jgħajjtu u jgħidu: "Sallbu! Sallbu!" Pilatu qalilhom: "Ħuduh u sallbuh intom; jiena ma nsib ebda ħtija fih."
+43019007	Il-Lhud weġbuh: "Aħna għandna liġi, u skond din il-liġi għandu jmut, għax għamel lilu nnifsu Bin Alla."
+43019008	Meta sama' dan, Pilatu aktar baża'.
+43019009	Raġa' daħal fil-Pretorju u qal lil Ġesù: "Int mnejn int?" Imma Ġesù ma wieġbu xejn.
+43019010	Għalhekk Pilatu qallu: "Lili ma tkellimx? Ma tafx li jiena għandi s-setgħa neħilsek u għandi s-setgħa nsallbek?"
+43019011	Ġesù wieġbu: "Ma kien ikollok ebda setgħa fuqi kieku ma ġietx mogħtija lilek minn fuq; għalhekk min ta lili f'idejk għandu ħtija akbar."
+43019012	Minn dak il-ħin 'il quddiem Pilatu beda jfittex kif jeħilsu; imma l-Lhud issuktaw jgħajjtu u jgħidu: "Jekk teħles lil dan, tiksirha ma' Ċesari, għax kull min jagħmel lilu nnifsu sultan ikun qiegħed jeħodha kontra Ċesari."
+43019013	Meta semagħhom jgħidu dan, Pilatu ġieb lil Ġesù barra u qiegħdu fuq sedja għolja, fil-post imsejjaħ Litòstrotos, bil-Lhudi Gabbatà.
+43019014	Kien Jum it-Tħejjija ta' l-Għid, għall-ħabta tas-sitt siegħa. Pilatu qal lil-Lhud: "Arawh is-sultan tagħkom!",
+43019015	Dawk infexxew jgħajjtu: "Għall-mewt! Għall-mewt! Sallbu!" Pilatu qalilhom: "Jien se nsallab lis-sultan tagħkom?" Imma l-qassisin il-kbar weġbuh: "Aħna ma għandniex sultan ħlief lil Ċesari!"
+43019016	Fl-aħħar tahulhom f'idejhom biex isallbuh. U huma ħadu lil Ġesù.
+44008001	Sawl kien fehma waħda magħhom fil-mewt li tawh.
+44022002	Malli semgħuh ikellimhom bil-Lhudi, aktar qagħdu bi kwiethom. U hu ssokta jgħid:
+44022003	"Jiena Lhudi; twelidt f'Tarsu taċ-Ċiliċja, imma trabbejt f'din il-belt f'riġlejn Gamaljel u tħarriġt bir-reqqa fil-ħarsien tal-Liġi ta' missirijietna; jien mimli ħeġġa għal Alla, kif ukoll intom ilkoll illum.
+44022004	Jien ħadtha sal-mewt kontra min qabad din it-Triq tal-Mulej, u rbatt u tfajt il-ħabs irġiel u nisa,
+44022005	kif jista' jixhidli l-qassis il-kbir u l-Kunsill kollu tax-xjuħ. Kien mingħandhom li jien ħadt ittri għal ħutna, u mort Damasku biex lil dawk ukoll li kienu hemm inġibhom marbutin Ġerusalemm u jkunu kkastigati.
+44023001	Pawlu ta ħarsa lejn is-Sinedriju u qal: "Ħuti, jien sa llum imxejt quddiem Alla b'kuxjenza safja għalkollox."
+44023002	Imma Ħananija,  il-qassis il-kbir, ordna lil dawk li kienu ħdejh biex jagħtuh daqqa fuq ħalqu.
+44023003	Mbagħad Pawlu qallu: "Din id-daqqa Alla għad jagħtiha lilek, ja ħajt imbajjad! Int, li qiegħed hemm biex tagħmel ħaqq minni skond il-Liġi, tordna li niġi msawwat kontra l-Liġi?"
+44023004	Dawk li kienu ħdejh qalulu: "Int hekk tkasbru lill-qassis il-kbir ta' Alla?"
+44023005	Pawlu wieġeb: "Ma kontx naf, ħuti, li hu l-qassis il-kbir; għax hemm miktub, 'Tgħidx il-ħażin fuq il-kap tal-poplu tiegħek.' "
+44023006	Issa Pawlu kien jaf li xi wħud kienu min-naħa tas-Sadduċej u oħrajn min-naħa tal-Fariżej. Għalhekk għajjat fis-Sinedriju: "Ħuti, jien Fariżew u bin il-Fariżej; hu għalhekk li qiegħed isir ħaqq minni, minħabba t-tama fil-qawmien minn bejn l-imwiet."
+44023007	Kif qal hekk, qamet tilwima bejn il-Fariżej u s-Sadduċej, u l-ġemgħa nqasmet.
+44023008	Għax is-Sadduċej jgħidu li la hemm qawmien minn bejn l-imwiet, la anġli u lanqas spirti; waqt li l-Fariżej jistqarru dan kollu.
+44023009	Mbagħad qam storbju kbir; xi kittieba tan-naħa tal-Fariżej qamu u bdew jeħduha  bil-qawwa kollha ma' l-oħrajn u jgħidu: "Aħna ma nsibu xejn ħażin f'dan il-bniedem. Min jaf kellmux xi spirtu jew anġlu?"
+44023010	It-tilwim aktar kiber, u għalhekk il-fizzjal, billi beża' li se jtertqu lil Pawlu, ordna lis-suldati jinżlu jaħtfuh minn nofshom u jeħduh il-fortizza.
+44023011	Fil-lejl ta' wara, il-Mulej deherlu u qallu: "Agħmel il-qalb! Kif tajt xhieda għalija f'Ġerusalemm, hekk ukoll jeħtieġ li tagħti xhieda f'Ruma."
+45003001	Mela x'għandhom iktar il-Lhud, jew x'tiswielhom iċ-ċirkonċiżjoni?
+45003002	Ħafna u b'kull mod. Qabel xejn, għax lilhom kienu fdati l-orakli ta' Alla.
+45003003	X'jimporta jekk xi wħud minnhom ma emmnux? Jaqaw l-infedeltà tagħhom sa ġġib fix-xejn il-fedeltà ta' Alla?
+45003004	Ma jkun qatt! Ħa jkun jaf kulħadd li Alla hu sinċier u kull bniedem giddieb. Hekk hemm miktub: “Sabiex int tkun iġġustifikat fi kliemek, u tirbaħ meta tkun iġġudikat.”
+45003005	Jekk l-inġustizzja tagħna sservi biex tidher il-ġustizzja ta' Alla, x'għandna ngħidu? Forsi Alla hu inġust jekk jikkastigana? Qiegħed nitkellem ta' bniedem li jien.
+45003006	Ma jkun qatt. Inkella kif jista' Alla jagħmel ħaqq mid-dinja?
+45003007	Jekk il-verità ta' Alla tidher aktar minħabba l-gidba tiegħi għall-glorja tiegħu stess, għaliex isir ħaqq minni bħala midneb?
+45003008	Għaliex ma ngħidux - bħalma ħafna jgħajjruna u jgħidu li aħna qegħdin ngħidu: Ħa nagħmlu l-ħażin, ħalli joħroġ it-tajjeb? Dawn ħaqqhom il-kundanna.
+45009033	skond ma hu miktub: "Arawni! Jien inqiegħed f’Sijon ġebla għat-tfixkil u blata tat-tiġrif, u min jemmen fiha ma jitħawwadx.”
+45010001	Ħuti, nixtieq tassew minn qalbi nitlob quddiem Alla li niesi jsalvaw.
+45010002	Jien xhud għalihom li huma għandhom il-ħeġġa għal Alla, iżda din m'hijiex ħeġġa skond l-għerf veru.
+45010003	Għax m'għarfux il-ġustizzja ta' Alla, imma fittxew il-ġustizzja tagħhom, u għalhekk ma qagħdux għall-ġustizzja ta' Alla.
+45010004	L-iskop tal-Liġi hu Kristu għall-ġustizzja għal min jemmen fih.
+46011001	Ixbhu lili bħalma jien nixbah lil Kristu.
+46012012	
 46012013
 46012014
 46012015
