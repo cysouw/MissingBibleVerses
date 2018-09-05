@@ -1,9 +1,9 @@
-40005003
-40005004
-40005005
-40005006
-40005007
-40005008
-40005009
-40005010
-47011033
+40005003	“Wumb Gos Gui Ka nge simin nik wii mulnjung wumb, ei ka piyangin. Gos konu ełe tep er mołum epi ei eim nge.
+40005004	“Wumb eipi oł kis erangin kin wumb ei ke nik mułngii wumb ei ka piingii. Gos wumb ombu kin noman er ka ermba.
+40005005	“Wumb en enim embe ambił tonu kindnanmin wumb, ei ka piingii. Ei en enim Ernjing Gos epi ka pei ngumba nirim mił, ei pei singii.
+40005006	“Wumb kombur en enim noman ełe kunum kunum ei oł kun ka er mułngii wumb ei, en enim ka piingii. Gos en enim epi pei ngang kapłi ermba.
+40005007	“Wumb kombur en enim wumb eipi kin kaimb singii ei ka piingii. Gos en enim kin kaimb simba ku.
+40005008	“Wumb noman tuk kun ka simba wumb ei, en enim ka piingii. En enim Gos kapłi keningii.
+40005009	“Wumb kombur en enim wumb eipi kin noman ende pimba nik kongun dinga enmin wumb, ei ka piingii. Gos wumb ei kin yi nimba. ‘Enim nanim kingam noł,’ pa nimba.
+40005010	“Pe wumb en enim Gos nge oł kun erangin, wumb eipi ok en enim kin oł embin tui erngii, ei en enim ka piingii. Gos sinim tep ełim konu ei en enim nge konu simba.
+47011033	
