@@ -3,9 +3,9 @@
 
 43019001	Mbagħad Pilatu ordna li jieħdu lil Ġesù u jagħtuh is-swat.
 43019002	Is-suldati nisġu kuruna tax-xewk u qegħduhielu fuq rasu, u libbsuh mantar aħmar skur.
-43019003	U bdew ġejjin quddiemu u jgħidulu: "Is-sliem għalik, ja sultan tal-Lhud!" U bdew jagħtuh  bil-ħarta.
+43019003	U bdew ġejjin quddiemu u jgħidulu: "Is-sliem għalik, ja sultan tal-Lhud!" U bdew jagħtuh bil-ħarta.
 43019004	Għal darb' oħra Pilatu ħareġ barra jgħidilhom: "Araw, se nġibhulkom quddiemkom hawn barra, biex tkunu tafu li jien ma nsib ebda ħtija fih."
-43019005	U Ġesù ħareġ hemm barra, liebes il-kuruna tax-xewk u l-mantar aħmar; u Pilatu qalilhom: "Arawh, hawn hu  l-bniedem!"
+43019005	U Ġesù ħareġ hemm barra, liebes il-kuruna tax-xewk u l-mantar aħmar; u Pilatu qalilhom: "Arawh, hawn hu l-bniedem!"
 43019006	X'ħin rawh, il-qassisin il-kbar u l-għases bdew jgħajjtu u jgħidu: "Sallbu! Sallbu!" Pilatu qalilhom: "Ħuduh u sallbuh intom; jiena ma nsib ebda ħtija fih."
 43019007	Il-Lhud weġbuh: "Aħna għandna liġi, u skond din il-liġi għandu jmut, għax għamel lilu nnifsu Bin Alla."
 43019008	Meta sama' dan, Pilatu aktar baża'.
@@ -23,14 +23,14 @@
 44022004	Jien ħadtha sal-mewt kontra min qabad din it-Triq tal-Mulej, u rbatt u tfajt il-ħabs irġiel u nisa,
 44022005	kif jista' jixhidli l-qassis il-kbir u l-Kunsill kollu tax-xjuħ. Kien mingħandhom li jien ħadt ittri għal ħutna, u mort Damasku biex lil dawk ukoll li kienu hemm inġibhom marbutin Ġerusalemm u jkunu kkastigati.
 44023001	Pawlu ta ħarsa lejn is-Sinedriju u qal: "Ħuti, jien sa llum imxejt quddiem Alla b'kuxjenza safja għalkollox."
-44023002	Imma Ħananija,  il-qassis il-kbir, ordna lil dawk li kienu ħdejh biex jagħtuh daqqa fuq ħalqu.
+44023002	Imma Ħananija, il-qassis il-kbir, ordna lil dawk li kienu ħdejh biex jagħtuh daqqa fuq ħalqu.
 44023003	Mbagħad Pawlu qallu: "Din id-daqqa Alla għad jagħtiha lilek, ja ħajt imbajjad! Int, li qiegħed hemm biex tagħmel ħaqq minni skond il-Liġi, tordna li niġi msawwat kontra l-Liġi?"
 44023004	Dawk li kienu ħdejh qalulu: "Int hekk tkasbru lill-qassis il-kbir ta' Alla?"
 44023005	Pawlu wieġeb: "Ma kontx naf, ħuti, li hu l-qassis il-kbir; għax hemm miktub, 'Tgħidx il-ħażin fuq il-kap tal-poplu tiegħek.' "
 44023006	Issa Pawlu kien jaf li xi wħud kienu min-naħa tas-Sadduċej u oħrajn min-naħa tal-Fariżej. Għalhekk għajjat fis-Sinedriju: "Ħuti, jien Fariżew u bin il-Fariżej; hu għalhekk li qiegħed isir ħaqq minni, minħabba t-tama fil-qawmien minn bejn l-imwiet."
 44023007	Kif qal hekk, qamet tilwima bejn il-Fariżej u s-Sadduċej, u l-ġemgħa nqasmet.
 44023008	Għax is-Sadduċej jgħidu li la hemm qawmien minn bejn l-imwiet, la anġli u lanqas spirti; waqt li l-Fariżej jistqarru dan kollu.
-44023009	Mbagħad qam storbju kbir; xi kittieba tan-naħa tal-Fariżej qamu u bdew jeħduha  bil-qawwa kollha ma' l-oħrajn u jgħidu: "Aħna ma nsibu xejn ħażin f'dan il-bniedem. Min jaf kellmux xi spirtu jew anġlu?"
+44023009	Mbagħad qam storbju kbir; xi kittieba tan-naħa tal-Fariżej qamu u bdew jeħduha bil-qawwa kollha ma' l-oħrajn u jgħidu: "Aħna ma nsibu xejn ħażin f'dan il-bniedem. Min jaf kellmux xi spirtu jew anġlu?"
 44023010	It-tilwim aktar kiber, u għalhekk il-fizzjal, billi beża' li se jtertqu lil Pawlu, ordna lis-suldati jinżlu jaħtfuh minn nofshom u jeħduh il-fortizza.
 44023011	Fil-lejl ta' wara, il-Mulej deherlu u qallu: "Agħmel il-qalb! Kif tajt xhieda għalija f'Ġerusalemm, hekk ukoll jeħtieġ li tagħti xhieda f'Ruma."
 45003001	Mela x'għandhom iktar il-Lhud, jew x'tiswielhom iċ-ċirkonċiżjoni?
@@ -57,8 +57,8 @@
 46012019	Kieku kollha kellhom ikunu membru wieħed, fejn hu l-ġisem?
 46012020	Imma ħafna, iva, huma l-membri, iżda wieħed hu l-ġisem.
 46012021	L-għajn ma tistax tgħid lill-id: "Jiena ma għandix bżonnok,” anqas ir-ras ma tgħid lis-saqajn: "Ma għandix bżonnkom.”
-46012022	Mhux hekk biss, imma  l-membri tal-ġisem li jidhru l-aktar dgħajfa, huma l-aktar meħtieġa;
-46012023	u dawk li nqisu bl-inqas ġieħ fil-ġisem, lil dawn  l-aktar li nieħdu ħsiebhom; u 'l dawk li ma għandhomx ġmiel, nlibbsuhom b'aktar ġmiel;
+46012022	Mhux hekk biss, imma l-membri tal-ġisem li jidhru l-aktar dgħajfa, huma l-aktar meħtieġa;
+46012023	u dawk li nqisu bl-inqas ġieħ fil-ġisem, lil dawn l-aktar li nieħdu ħsiebhom; u 'l dawk li ma għandhomx ġmiel, nlibbsuhom b'aktar ġmiel;
 46012024	għax il-membri sbieħ ma għandhom bżonn xejn. Alla imma bena l-ġisem b'mod li żejjen b'aktar ġieħ lil dawk li jeħtiġuh l-aktar.
 46012025	B'hekk ma jkunx hemm firda fil-ġisem, imma l-membri kollha jaħsbu f'xulxin;
 46012026	jekk membru jbati, ibatu lkoll miegħu; jekk membru jingħata l-ġieħ, jifirħu lkoll miegħu.
@@ -68,7 +68,7 @@
 46012030	Lkoll għandhom id-don tal-fejqan? Lkoll jitkellmu bl-ilsna? Lkoll ifissru?
 46012031	Intom ħabirku għal doni ogħla. Imma jien nurikom triq li tgħaddihom ilkoll.
 47005001	Aħna nafu li jekk din it-tinda ta' l-għamara tagħna fl-art tiġġarraf, aħna għandna dar oħra, maħduma mhux bl-idejn, imma xogħol ta' Alla, għal dejjem fis-sema.
-47005002	Aħna f'din nitniehdu, mxennqa li nilbsu fuq din l-għamara tal-ġisem l-għamara l-oħra  tas-sema.
+47005002	Aħna f'din nitniehdu, mxennqa li nilbsu fuq din l-għamara tal-ġisem l-għamara l-oħra tas-sema.
 47005003	Għax jekk nilbsu din ma ninstabux għarwenin.
 47005004	Aħna, li qegħdin f'din it-tinda, nitniehdu, mgħobbija kif aħna; għalhekk ma rridux ninżgħu, iżda nilbsu oħra minn fuq biex il-ġisem li jmut jinxtorob mill-ħajja.
 47005005	Alla stess sawwarna għal dan, hu li tana r-rahan ta' l-Ispirtu.
@@ -76,7 +76,7 @@
 47005007	aħna ngħixu bil-fidi u mhux bil-viżjoni ...
 47005008	Aħna qalbna qawwija u persważi li aħjar noħorġu minn dan il-ġisem u mmorru noqogħdu għand il-Mulej.
 47005009	Għalhekk fuq kollox aħna nfittxu li nogħġbu lilu, sew jekk nibqgħu hawn, sew jekk noħorġu minn dan il-ġisem.
-47005010	Jeħtieġ li lkoll kemm aħna nidhru quddiem it-tribunal ta' Kristu, ħalli kulħadd jieħu skond  it-tajjeb jew il-ħażin li jkun għamel meta kien għadu ħaj fil-ġisem.
+47005010	Jeħtieġ li lkoll kemm aħna nidhru quddiem it-tribunal ta' Kristu, ħalli kulħadd jieħu skond it-tajjeb jew il-ħażin li jkun għamel meta kien għadu ħaj fil-ġisem.
 47006001	Ladarba qegħdin naħdmu flimkien ma' Alla, aħna mela nħeġġukom biex ma tirċevux il-grazzja tiegħu għal xejn.
 47006002	Għax hu jgħid: "Fiż-żmien it-tajjeb smajtek, f’jum is-salvazzjoni għentek." Araw, issa hu ż-żmien tajjeb, araw, issa hu jum is-salvazzjoni!
 47007001	Meta għandna dawn il-wegħdiet, għeżież tiegħi, ħa nitnaddfu minn kull tidnis tal-ġisem u tar-ruħ, u ntemmu l-qdusija tagħna fil-biża' ta' Alla.
@@ -84,7 +84,7 @@
 48004002	iżda jkun taħt il-ħarsien tat-tuturi u ta' l-amministraturi, sa ma jasal iż-żmien magħżul mill-missier.
 48004003	Hekk ukoll aħna: meta konna tfal, konna lsiera taħt l-elementi tad-dinja.
 48004004	Iżda meta waslet il-milja taż-żmien, Alla bagħat lil Ibnu, mwieled minn mara, mwieled taħt il-Liġi,
-48004005	biex jifdi lil dawk li kienu taħt il-Liġi, biex ikollna  l-adozzjoni ta' wlied.
+48004005	biex jifdi lil dawk li kienu taħt il-Liġi, biex ikollna l-adozzjoni ta' wlied.
 48004006	U għax intom ulied, Alla bagħat l-Ispirtu ta' Ibnu f'qalbna jgħajjat: Abbà! Missier!
 48004007	U hekk m'intix iżjed ilsir, iżda iben; u jekk iben, werriet ukoll bil-grazzja ta' Alla.
 48005001	Kristu ħelisna biex ngħixu ta' nies ħielsa. Żommu sħiħ, u terġgħux tmiddu għonqkom għall-madmad tal-jasar.
@@ -95,78 +95,78 @@
 51003005	Mewwtu ġo fikom dak kollu li hu ta' l-art: żína, faħx, ġibdiet, xewqat ħżiena, u r-regħba li hi idolatrija.
 51003006	Minħabba dan tilħaq il-korla ta' Alla lil dawk li ma jobdux.
 51003007	Hekk intom kontu timxu wkoll meta kontu tgħixu fihom.
-51003008
-51003009
-51003010
-51003011
-51003012
-51003013
-51003014
-51003015
-51003016
-51003017
-52005001
-52005002
-52005003
-52005004
-52005005
-52005006
-52005007
-52005008
-52005009
-52005010
-52005011
-55004001
-55004002
-55004003
-55004004
-55004005
-55004006
-55004007
-55004008
-58004001
-58004002
-58004003
-58004004
-58004005
-58004006
-58004007
-58004008
-58004009
-58004010
-58004011
-58004012
-58004013
-58005001
-58005002
-58005003
-58005004
-58005005
-58005006
-58005007
-58005008
-58005009
-58005010
-58010001
-58010002
-58010003
-58010004
-58010005
-58010006
-58010007
-58010008
-58010009
-58010010
-58010011
-58010012
-58010013
-58010014
-58010015
-58010016
-58010017
-58010018
-66022001
-66022002
-66022003
-66022004
-66022005
+51003008	Iżda issa intom ukoll ħallu kollox: korla, passjoni, ħażen, dagħa, u l-kliem mhux xieraq warrbuh minn fommkom.	
+51003009	Tigdbux lil xulxin, intom li nżajtu l-bniedem il-qadim bl-għemil kollu tiegħu,
+51003010	u lbistu l-bniedem il-ġdid, li jiġġedded dejjem skond ix-xbieha ta' min ħalqu u jikber fl-għerf.
+51003011	Fih ma hemmx Grieg jew Lhudi, ċirkonċiż jew mhux, Barbaru jew Skita, lsir jew ħieles, iżda Kristu f'kollox u f'kulħadd.
+51003012	Intom il-magħżulin ta' Alla, il-qaddisin u l-maħbubin tiegħu. Ilbsu mela sentimenti ta' ħniena, tjieba, umiltà, ħlewwa u sabar.
+51003013	Stabru b'xulxin, u, jekk xi ħadd minnkom ikollu xi jgħid ma' ħaddieħor, aħfru lil xulxin; bħalma l-Mulej ħafer lilkom, hekk agħmlu intom ukoll.
+51003014	U fuq kollox ilbsu l-imħabba, li hi l-qofol tal-perfezzjoni.
+51003015	Ħalli s-sliem ta' Kristu jsaltan fi qlubkom, dak is-sliem li għalih kontu msejjħa biex issiru ġisem wieħed. U ta' dan roddu ħajr lil Alla.
+51003016	Ħalli l-kelma ta' Kristu tgħammar sħiħa fikom; għallmu bl-għerf kollu u widdbu lil xulxin b'salmi u innijiet u b'għana spiritwali, u b'radd il-ħajr kantaw f'qalbkom innijiet lil Alla.
+51003017	Kull ma tagħmlu jew tgħidu, agħmlu kollox f'isem il-Mulej Ġesù, u roddu ħajr lil Alla l-Missier permezz tiegħu.
+52005001	Dwar il-ħin u ż-żmien, ħuti, ma għandix bżonn niktbilkom.
+52005002	Intom tafu sewwa li Jum il-Mulej jiġi għal għarrieda bħal ħalliel billejl.
+52005003	Meta kulħadd jibda jgħid: "Sliem u mistrieħ," dak il-ħin stess, bħall-uġigħ fuq mara li tkun waslet għall-ħlas, tiġi fuqhom għal għarrieda l-qerda u ma jeħilsu b'xejn.
+52005004	Ħuti, intom m'intomx fid-dlam biex Jum il-Mulej jeħodkom għal għarrieda bħal ħalliel.
+52005005	Intom ilkoll ulied id-dawl u wlied il-jum; aħna m'aħniex ulied il-lejl, anqas ulied id-dlam.
+52005006	Għalhekk ma għandniex norqdu bħall-oħrajn, iżda nishru u ngħixu bil-qjies.
+52005007	Għax min jorqod, jorqod billejl; u min jisker, jisker billejl.
+52005008	Ladarba aħna wlied il-jum, ejjew ngħixu bil-qjies, nilbsu l-kurazza tal-fidi u l-imħabba, u l-elmu tat-tama tas-salvazzjoni.
+52005009	Għax Alla ma għażilniex għall-għadab, imma biex niksbu s-salvazzjoni permezz ta' Sidna Ġesù Kristu,
+52005010	li miet għalina, sabiex sew jekk inkunu nishru u sew jekk inkunu rieqda meta jiġi, ngħixu ħaġa waħda miegħu.
+52005011	Għalhekk farrġu lil xulxin u ibnu lil xulxin, kif qegħdin tagħmlu.
+55004001	Nitolbok bil-ħerqa, quddiem Alla u Kristu Ġesù, li għandu jagħmel ħaqq mill-ħajjin u mill-mejtin, f'isem id-Dehra tiegħu u s-Saltna tiegħu:
+55004002	xandar il-kelma, insisti f'waqtu u barra minn waqtu, ċanfar, widdeb, wissi, bis-sabar kollu u bit-tagħlim.
+55004003	Għax għad jiġi żmien meta għat-tagħlim tajjeb ma jibqgħalhomx sabar, iżda widnejhom jikluhom u jiġbru madwarhom qabda mgħallmin skond ma jixtiequ,
+55004004	u jwarrbu widnejhom mis-sewwa biex jiġġerrew wara l-ħrejjef.
+55004005	Imma int oqgħod dejjem b'għajnejk miftuħa, stabar fit-tiġrib, agħmel ħidma ta' evanġelista, aqdi sewwa l-ministeru tiegħek.
+55004006	Ngħid għalija, demmi ġa mxerred b'sagrifiċċju, u żmien it-tluq tiegħi wasal.
+55004007	Tqabadt it-taqbida t-tajba, temmejt il-ġirja, ħarist il-fidi.
+55004008	Mill-bqija hemm merfugħa għalija l-kuruna tal-ġustizzja, li biha f'dak il-Jum iħallasni l-Mulej, l-Imħallef ġust, u mhux lili biss, imma wkoll lil dawk kollha li jkunu għexu fl-imħabba tad-Dehra tiegħu.
+58004001	Ħa jkollna mela l-biża' li, waqt li l-wegħda li nidħlu fil-mistrieħ tiegħu għadha hemm, ma jkunx hemm xi ħadd minnkom li jibqa' lura.
+58004002	Għax aħna wkoll, bħalhom irċevejna l-aħbar tajba. Imma lilhom ma switilhom xejn il-kelma li semgħu, għax meta semgħuha ma emmnux.
+58004003	Aħna, li nemmnu, nidħlu fil-mistrieħ, kif qal hu: “Hekk ħlift fil-għadab tiegħi, ‘Ma jidħlux fil-mistrieħ tiegħi.’” Madankollu l-għemil ta’ Alla kien mitmum fil-ħolqien tad-dinja,
+58004004	kif jingħad x'imkien fl-Iskrittura fuq is-seba' jum: "Strieħ Alla fis-seba' jum mix-xogħol kollu tiegħu."
+58004005	Mbagħad hawn jgħid ukoll, "Ma jidħlux fil-mistrieħ tiegħi."
+58004006	Min-naħa l-oħra xi wħud għandhom jidħlu f'dan il-mistrieħ; u, billi dawk li kienu l-ewwel li ħadu l-bxara t-tajba ma daħlux ħtija ta' l-ebusija ta' rashom,
+58004007	Alla għażel mill-ġdid jum ieħor - "illum" - meta wara ħafna żmien qal b'fomm David il-kliem li semmejna, “Jekk illum tisimgħu leħnu, la twebbsux qalbkom.”
+58004008	Kieku kien Ġożwè li tahom il-mistrieħ, Alla ma kienx jitkellem minn jum wara dan.
+58004009	Mela għad baqa' mistrieħ tas-Sibt għall-poplu ta' Alla.
+58004010	Għax min jidħol fil-mistrieħ ta' Alla jistrieħ hu wkoll mix-xogħol kif Alla strieħ minn tiegħu.
+58004011	Nfittxu mela li nidħlu f'dan il-mistrieħ, biex ma jkunx hemm min jaqa' bħalhom fuq l-eżempju ta' l-ebusija tagħhom.
+58004012	Il-kelma ta' Alla hi ħajja u qawwija, taqta' aktar minn xabla b'żewġt ixfar; hija tinfed sa tifred minn xulxin ir-ruħ u l-ispirtu u l-ġogi u l-mudullun; u tgħarbel il-ħsibijiet u l-fehmiet tal-qalb.
+58004013	Xejn ma hemm fil-ħolqien li hu moħbi għalih, imma kollox hu miftuħ għal għajnejn Alla, li lilu rridu nagħtu kont.
+58005001	Kull qassis il-kbir meħud minn fost il-bnedmin, hu mqiegħed għall-bnedmin f'dak li għandu x'jaqsam ma' Alla, biex joffri doni u sagrifiċċji għad-dnubiet.
+58005002	Hu dak li jista' jagħder 'il dawk li ma jafux u li jiżbaljaw, għax huwa mlibbes bid-dgħufija;
+58005003	u minħabba f'hekk għandu joffri sagrifiċċji għad-dnubiet tiegħu wkoll, bħalma joffrihom għad-dnubiet tal-poplu.
+58005004	Ħadd m'għandu jieħu b'idejh dal-ġieħ għalih innifsu, imma biss min hu msejjaħ minn Alla, sewwasew kif kien imsejjaħ Aron.
+58005005	Għax hekk ukoll Kristu ma tax lilu nnifsu l-ġieħ li jkun il-qassis il-Kbir, imma dan tahulu Alla, li qallu: “Ibni int; illum jien nissiltek.”
+58005006	U kif jgħid ukoll band'oħra: “Int qassis għal dejjem skond l-ordni ta’ Melkisedek.”
+58005007	Meta kien jgħix fuq din l-art, Kristu offra talb u suppliki b'leħen għoli u bid-dmugħ lil dak li seta' jsalvah mill-mewt. U kien mismugħ minħabba fil-qima tiegħu lejn Alla.
+58005008	Għad li kien Iben, tgħallem minn dak li bata xi tfisser l-ubbidjenza.
+58005009	U, billi laħaq il-perfezzjoni, sar awtur tas-salvazzjoni ta' dejjem għal kull min jisma' minnu,
+58005010	wara li Alla għamlu l-qassis il-kbir skond l-ordni ta' Melkisedek.
+58010001	Il-Liġi ta' Mosè, billi għandha biss id-dell tal-ġid li għandu jiġi, u mhux dan l-istess ġid, lil dawk li jersqu qrib lejn Alla ma tista' qatt tagħmilhom perfetti bis-saħħa ta' dawk is-sagrifiċċji li huma joffru bla waqfien minn sena għal sena.
+58010002	Għax kieku kien hekk, dawk li jagħtu l-kult lil Alla ma kinux forsi jwaqqfuhom dawn is-sagrifiċċji kieku kienu jħossu ruħhom bla dnubiet u mnaddfin minnhom darba għal dejjem?
+58010003	Għall-kuntrarju, b'dawn l-istess sagrifiċċji ssir it-tifkira tad-dnubiet minn sena għal oħra.
+58010004	Għax ma jistax ikun li d-demm tal-gniedes u tal-mogħoż ineħħi d-dnubiet.
+58010005	Għalhekk Kristu meta daħal fid-dinja qal: “Sagrifiċċju u offerta int ma ridtx, imma ġisem int ħejjejt għalija;
+58010006	vittmi maħruqa u vittmi għad-dnubiet lilek ma għoġbukx.
+58010007	Jien imbagħad għedt: 'Hawn jien, ġejt biex nagħmel ir-rieda tiegħek, O Alla, kif fil-ktieb hemm miktub fuqi.”
+58010008	L-ewwel qal: "Sagrifiċċji u offerti, vittmi maħruqa u vittmi għad-dnubiet, la ridthom u lanqas għoġbuk", għalkemm dawn titlobhom il-Liġi.
+58010009	Mbagħad qal: "Hawn jien, ġejt biex nagħmel ir-rieda tiegħek." B'hekk Alla neħħa s-sagrifiċċji ta' l-ewwel biex iqiegħed flokhom tat-tieni.
+58010010	Bis-saħħa ta' din ir-rieda aħna konna mqaddsin, permezz ta' l-offerta tal-ġisem ta' Ġesù Kristu magħmula darba għal dejjem.
+58010011	Kull qassis ieħor imur kuljum biex jaqdi l-ministeru tiegħu, u joffri u jerġa' joffri l-istess sagrifiċċju, bla ma jistgħu qatt ineħħu d-dnubiet.
+58010012	Imma Kristu, wara li offra sagrifiċċju wieħed għad-dnubiet, qagħad għal dejjem fuq in-naħa tal-lemin ta' Alla,
+58010013	fejn qiegħed jistenna sa ma l-għedewwa tiegħu jitqiegħdu mirfes taħt riġlejh.
+58010014	Għax hu b'offerta waħda għamel perfetti għal dejjem lil dawk li huwa jqaddes.
+58010015	Dan jixhdulna l-Ispirtu s-Santu nnifsu, għax wara li qal:
+58010016	"Dan hu l-patt li jien għad nagħmel magħhom wara dawk il-jiem, jgħid il-Mulej; Nqiegħed il-liġijiet tiegħi f’qalbhom, u f’moħħhom niktibhom." Qal ukoll:
+58010017	"Dnubiethom u ħtijiethom ma niftakarhomx aktar."
+58010018	Issa, fejn hemm il-maħfra tad-dnubiet, ma hemmx għalfejn issir aktar l-offerta għad-dnubiet.
+66022001	Mbagħad l-anġlu wrieni x-xmara ta' l-ilma tal-Ħajja, ċara daqs il-kristall, tgelgel mit-tron ta' Alla u tal-Ħaruf.
+66022002	F'nofs il-pjazza tal-Belt, fuq naħa u oħra tax-xmara, hemm siġra tal-Ħajja tagħmel frott ta' tnax-il xorta, trodd il-frott tagħha darba fix-xahar; il-weraq tas-siġra huma duwa tajba għall-ġnus.
+66022003	Ebda saħta ma jkun hemm iżjed. Fiha jkollha t-tron ta' Alla u tal-Ħaruf, u l-qaddejja tiegħu jaqduh,
+66022004	jaraw wiċċu, u jkollhom ismu fuq ġbinhom.
+66022005	Lejl ma jkunx hemm iżjed, u ma jkunux jeħtieġu dawl ta' musbieħ u dawl tax-xemx, għax il-Mulej Alla jkun jiddi fuqhom, u huma jsaltnu għal dejjem ta' dejjem.
