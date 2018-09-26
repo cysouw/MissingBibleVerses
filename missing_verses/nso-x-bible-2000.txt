@@ -1,53 +1,54 @@
-40002009
-40002010
-40022045
-41015042
-41015043
-42001073
-42001074
-42006022
-42006023
-42006026
-42020018
-42023044
-42023045
-42023050
-42023051
-43004037
-43004038
-43008001
-43008002
-43008003
-43008004
-43008005
-43008006
-44001021
-44001022
-44002032
-44002033
-44002034
-44004012
-44004027
-44004028
-44004029
-44004030
-44010036
-44010037
-44013032
-44013033
-44013034
-44013035
-44013036
-44013037
-44013038
-44013039
-44013040
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
+40002009	Ge ba seno kwa tša kgoši ba tloga, gomme ba bona naledi yela ba e bonego ka bohlabela. Ba rile ge ba e bona ba thaba kudukudu. Ya ba eta pele ya ba ya yo ema ka godimo ga moo ngwana a bego a le gona.
+40002010	
+40022045	“Bjale ge Dafida a bitša Mesia ‘Morena’, Mesia e ka ba setlogolo sa gagwe bjang?”
+41015042	E rile ge e šetše e le mantšiboa gwa tla monna yo mongwe wa go tšwa Arimathea, leina la gagwe e le Josefa. E be e le molekgotla yo a tsebegago, yo le yena a bego a letetše go hlongwa ga mmušo wa Modimo. E be e le letšatši le le tlago pele ga Sabatha, leo ka lona go bego go lokišetšwa yona Sabatha. Ka gona Josefa a beta pelo a ya go Pilato mme a kgopela setopo sa Jesu.
+41015043	
+42001073	“O enetše rakgolokhukhu wa rena, Abrahama, gore o tla re hlakodiša manabeng a rena, a re kgontšha go mo hlankela re sa boife,
+42001074	
+42006022	“Ba lehlogonolo ke lena ge le hloilwe ke batho, ba le tšwa, ba le roga, ba le šišingwa, e le ka baka la Morwamotho.
+42006023	Ge tšeo di le hlagela, le bine le thabile, ka gobane moputso wa lena ke wo mogolo legodimong. Gape borakgolokhukhu ba bona le bona ba be ba dira baprofeta tšona tšeo ba le dirago tšona.
+42006026	“Ba madimabe ke lena ge le retwa ke bohle, gobane seo ke sona se borakgolokhukhu ba bona ba bego ba se dira baprofeta ba maaka.”
+42020018	“Yo a ka welago leswika leo godimo o tla pšhatlagana; le yo leswika leo le ka mo welago godimo le tla mo šila.”
+42023044	E rile ka nako ya mosegare wo mogolo letšatši la fifala, naga ka moka ya aparelwa ke leswiswi go fihla ka nako ya boraro mathapama. Seširo sa ka Tempeleng sa gagoga ka bogare.
+42023045	
+42023050	Go be go na le monna yo mongwe yo leina la gagwe e bego e le Josefa wa go tšwa Arimathea, e lego motse wo mongwe wa Bajuda. Yena e be e le monna wa go loka, wa morapedi, yo a bego a letetše go bona mmušo wa Modimo o hlongwa. Le ge e be e le wa Kgorokgolo ya Bajuda, o be a se a kwana le bona morerong woo wa bona le go tšeo ba bego ba di dirile.
+42023051	
+43004037	Go na le polelo ye e rego: ‘Go bjala yo, gwa buna yola.’ Nna ke le romile go yo buna se le se la kago la itapiša ka sona, go itapišitše ba bangwe, gomme lena la holega ka mošomo wa bona. Ya ba gona go bonagalago gore polelo yeo e a rereša.”
+43004038	
+43008001	eupša Jesu yena a ya Thabeng ya Mehlware.
+43008002	Ya re mosong wa le le latelago a ya Tempeleng gape. Batho bohle ba mo kgobokanela, gomme yena a dula fase a ba ruta.
+43008003	Boramangwalo le Bafarisei ba tliša mosadi yo mongwe go yena yo a bego a swerwe a otswa, gomme ba mo emiša pele ga batho.
+43008004	Ba re go Jesu: “Moruti, mosadi yo o swerwe a le gare a otswa.
+43008005	Mo molaong Moshe o re laetše gore basadi ba mohuta wo ba bolawe ka maswika. Bjale wena o reng?”
+43008006	Ge ba realo ba be ba mo leka gore ba be le se ba kago mo phara molato ka sona. Fela yena a inama, a ngwala fase ka monwana.
+44001021	“Ka gona, yo mongwe o swanetše gore e be hlatse le rena ya gore Morena Jesu o tsogile bahung. E swanetše go ba yo mongwe wa ba ba bego ba sepela le rena nakong ka moka ya ge Morena Jesu a be a šika le rena, go tloga ka nako yela Johanese a mo kolobetša, go fihlela mohla wola a tlošwa go rena a rotošetšwa legodimong.”
+44001022	
+44002032	“Yena Jesu yo Modimo o mo tsošitše bahung, gomme rena ka moka re dihlatse tša taba ye.
+44002033	O rotošeditšwe madulong a bogoši, kgauswi le Modimo, Tatagwe, yo a mo amogedišitšego Moya wo Mokgethwa, bjalo ka ge a be a mo holofeditše. Se bjale le se bonago gape le se kwago ke wona Moya wo Mokgethwa wo a re tšhetšego wona.
+44002034	Gobane ga se Dafida yo a ilego a rotogela legodimong; se a se boletšego o rile: “ ‘Morena o rile go Morena wa ka: Dula ka mo letsogong la ka la go ja,
+44004012	“Ke yena fela yo a kgonago go phološa; lefaseng lohle ga go yo mongwe yo rena batho re mo filwego mme re kago phološwa ke yena.”
+44004027	“Gape ka kgonthe Heroda le Pontiose Pilato le baditšhaba le setšhaba sa Israele ba ile ba kopana gona motseng, ba lakana Jesu, mohlanka wa gago yo mokgethwa yo o mo dirilego Motlotšwa.
+44004028	Ba kopana go tlo dira tšohle tše o bego o šetše o itherile go di dira ka bowena ka maatla a gago le ka peakanyo ya gago.
+44004029	Bjale, Morena, šetša ditšhošetšo tša bona, gomme o re kgontšhe, rena bahlanka ba gago, go bega molaetša wa gago ka go se boife.
+44004030	Otlolla letsogo la gago o fodiše batho, gomme mehlolo le dika di dirwe ge go bitšwa leina la Jesu, mohlanka wa gago yo mokgethwa.”
+44010036	Molaetša wo a o rometšego Baisraele le a o tseba, wa ge ba begelwa Taba ye Botse ya go boelanywa le yena ka Jesu Kriste, yena Morena wa bohle. Le tseba taba yela e ilego ya hlaga nageng yohle ya Bajuda, ya go thoma Galilea ge Johanese a seno bega molaetša wa gagwe wa kolobetšo.
+44010037	
+44013032	Gomme bjale rena re le begela Taba ye Botse, e lego gore se Modimo a ilego a se holofetša borakgolokhukhu ba rena bjale o se diretše ditlogolo tša bona ka go tsoša Jesu bahung, bjale ka ge go ngwadilwe ka Pesalomeng ya bobedi gwa thwe: “ ‘O Morwa wa ka, lehono ke go tswetše.’
+44013033	
+44013034	“Mabapi le go mo tsoša bahung gore a se ke a bola, Modimo o rile: “ ‘Ke tla le fa ditšhegofatšo tše dikgethwa tše di tshepagalago tše ke di holofeditšego Dafida.’
+44013035	“Ke ka baka leo a boletšego le ka temaneng ye nngwe a re: “ ‘O ka se lese mohlanka wa gago yo a botegago a eya boyabahu.’
+44013036	“Ge e le Dafida yena mehleng ya gagwe o rile go phetha thato ya Modimo a ithobalela, a bolokwa le borakgolokhukhu ba gagwe, mme setopo sa gagwe sa bola.
+44013037	Kganthe yo Modimo a mo tsošitšego bahung yena ga se a bola.
+44013038	Bjale ge, tsebang, lena banna ba gešo, gore ke ka Jesu mo le begelwago molaetša wa tshwarelo ya dibe, le gore mang le mang yo a dumelago o lokollwa dibeng tšohle tše melao ya Moshe o bego o šitwa ke go le lokolla go tšona.
+44013039	
+44013040	Ka gona, le hlokomele gore tše di boletšwego ke baprofeta di se le hlagele, mola ba re:
+44015023	gomme ba ba roma gore ba iše lengwalo le le rego: “Rena baapostola gotee le bagolo ba phuthego re lego bana ba bolena, re a le dumediša, lena bana ba borena ba go tšwa boditšhabeng, ba ba dulago Antiokia le Siria le Tsilitsia.
+44015024	Re kwele gore ba bangwe ba go tšwa mo go rena ba tlile ba le ferehla maikutlo ba le ferekanya ka tše ba di boletšego. Fela ba be ba se ba rongwa ke rena.
+44015025	Ka gona, re ile ra kwana gore re ntšhe banna ba bangwe re ba rome go lena. Bona ba tla tla ba na le Barnabase le Paulose, bagwera ba rena ba bagolo,
+44015026	ba ba ilego ba itsenya kotsing ya go bolawa, ka baka la Morena wa rena, Jesu Kriste.
+44015027	Bjale re roma Judase le Silase go lena, bona ba tlago le laodišetša ka molomo tšona ditaba tše re di ngwalago tše.
+44015028	Rena le Moya wo Mokgethwa re kwane gore re se le imetše morwalo wo mongwe, ntle le melao ye bohlokwa ye e rego:
+44015029	Le se ke la ja didimo, goba bobete, goba nama ya phoofolo ye e kgamilwego; le gona le ile go nyalana ga lešika. Le tla be le dira gabotse ge le ka se dire dilo tše. Le dumele kudu.”
 44023026
 44023027
 44023028
