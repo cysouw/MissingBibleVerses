@@ -1,127 +1,127 @@
-41003001
-41003002
-41003003
-41003004
-41003005
-41003006
-41009001
-43008001
-43008002
-43008003
-43008004
-43008005
-43008006
-43008007
-43008008
-43008009
-43008010
-43008011
-43016001
-43016002
-43016003
-43016004
-43019001
-43019002
-43019003
-43019004
-43019005
-43019006
-43019007
-44007001
-44007002
-44008001
-44023001
-44023002
-44023003
-44023004
-44023005
-44026001
-45003001
-45003002
-45003003
-45003004
-45015001
-45015002
-45015003
-46011001
-46013001
-46013002
-46013003
-47005001
-47005002
-47005003
-47005004
-47005005
-47005006
-47005007
-47005008
-47005009
-47005010
-48004001
-48004002
-48004003
-48004004
-48004005
-48004006
-48004007
-49005001
-49005002
-49005003
-49005004
-49005005
-49005006
-49005007
-49006001
-49006002
-49006003
-49006004
-50002001
-50002002
-50002003
-50002004
-50002005
-51002001
-51002002
-51002003
-51002004
-51002005
-51004001
-52005001
-52005002
-52005003
-52005004
-52005005
-52005006
-52005007
-52005008
-52005009
-52005010
-52005011
-54006001
-54006002
-58005001
-58005002
-58005003
-58005004
-58006001
-58006002
-58006003
-59005001
-59005002
-59005003
-59005004
-59005005
-59005006
-60004001
-60004002
-60004003
-60004004
-60004005
-60004006
-62002001
-62002002
-62003001
-62003002
-62003003
-66016001
-66016002
+41003001	Han gikk igjen inn i en synagoge. Der var det en mann med en hånd som var helt vissen.
+41003002	Og de holdt øye med Jesus for å se om han ville helbrede mannen på sabbaten, så de kunne få noe å anklage ham for.
+41003003	Men han sa til mannen med den syke hånden: «Reis deg og kom fram!»
+41003004	Så spurte han dem: «Hva er tillatt på sabbaten? Å gjøre godt eller å gjøre ondt, å berge liv eller å ta liv?» Men de tidde.
+41003005	Da så han på alle omkring seg, harm og bedrøvet over deres harde hjerter, og sa til mannen: «Rekk ut hånden!» Han gjorde det, og hånden ble frisk. 
+41003006	Men fariseerne gikk ut og begynte straks å legge planer mot ham sammen med herodianerne, for å få ryddet ham av veien.
+41009001	Og han la til: «Sannelig, jeg sier dere: Noen av dem som står her, skal ikke smake døden før de ser at Guds rike er kommet med kraft.»
+43008001	og Jesus gikk ut til Oljeberget.
+43008002	Tidlig neste morgen kom han til templet igjen. Folkemengden samlet seg om ham, han satte seg ned og begynte å undervise dem.
+43008003	Da kom de skriftlærde og fariseerne med en kvinne som var grepet i ekteskapsbrudd, og de stilte henne fram
+43008004	og sa: «Mester, denne kvinnen er grepet på fersk gjerning i ekteskapsbrudd.
+43008005	I loven har Moses påbudt at slike kvinner skal steines. Hva sier så du?»
+43008006	Dette sa de for å sette ham på prøve, så de kunne få noe å anklage ham for. Jesus bøyde seg ned og skrev på jorden med fingeren.
+43008007	Men da de fortsatte å spørre, rettet han seg opp og sa: «Den av dere som er uten synd, kan kaste den første steinen på henne.»
+43008008	Så bøyde han seg ned igjen og skrev på jorden.
+43008009	Da de hørte dette, gikk de bort, den ene etter den andre, de eldste først. Til slutt var Jesus igjen alene med kvinnen som stod der.
+43008010	Da rettet han seg opp og spurte: «Kvinne, hvor er de? Har ingen fordømt deg?»
+43008011	Hun svarte: «Nei, Herre, ingen.» Da sa Jesus: «Heller ikke jeg fordømmer deg. Gå bort, og synd ikke mer fra nå av!»
+43016001	Dette har jeg sagt for at dere ikke skal bli ført til fall.
+43016002	De skal utstøte dere av synagogen. Ja, det kommer en tid da enhver som slår dere i hjel, skal tro at han utfører en tjeneste for Gud.
+43016003	Det skal de gjøre fordi de verken kjenner Faderen eller meg.
+43016004	Dette har jeg sagt dere for at dere, når den tiden kommer, skal huske at jeg sa det.
+43019001	Pilatus grep nå Jesus og lot ham piske.
+43019002	Soldatene flettet en krone av torner og satte den på hans hode, og de la en purpurkappe om ham.
+43019003	Så trådte de fram for ham og sa: «Vær hilset, du jødenes konge!» Og de slo ham i ansiktet.
+43019004	Pilatus gikk igjen ut av borgen og sa til jødene: «Jeg fører ham nå ut til dere for at dere skal forstå at jeg ikke finner noen skyld hos ham.»
+43019005	Så kom Jesus ut, og han bar tornekronen og purpurkappen. Og Pilatus sa til dem: «Se det mennesket!»
+43019006	Men da overprestene og deres menn fikk se ham, ropte de: «Korsfest! Korsfest!» Pilatus sa: «Korsfest ham dere! Jeg finner ingen skyld hos ham.»
+43019007	Jødene svarte: «Vi har en lov, og etter loven er han skyldig til å dø, fordi han har gjort seg selv til Guds Sønn.»
+44007001	Da spurte øverstepresten: «Er dette sant?»
+44007002	Og Stefanus svarte: Hør på meg, brødre og fedre! Herlighetens Gud viste seg for vår far Abraham mens han bodde i Mesopotamia, før han slo seg ned i Karan.
+44008001	Saulus var enig i mordet på ham. Samme dag brøt det løs en kraftig forfølgelse mot menigheten i Jerusalem. Alle unntatt apostlene ble spredt omkring i Judea og Samaria.
+44023001	Paulus så rett på rådsmedlemmene og sa: «Brødre, det er med helt god samvittighet for Gud jeg har levd mitt liv like til i dag.»
+44023002	Øverstepresten Ananias gav da ordre til dem som stod nærmest om å slå ham på munnen.
+44023003	Da sa Paulus til ham: «Gud skal slå deg, du kalkede vegg! Du sitter her og skal dømme meg etter loven, og så bryter du loven ved å befale at jeg skal bli slått.»
+44023004	De som stod der, sa: «Skjeller du ut Guds øversteprest?»
+44023005	«Brødre, jeg visste ikke at han er øversteprest,» sa Paulus, «for det står skrevet: Du skal ikke bruke skjellsord mot en høvding i ditt folk.»
+44026001	Agrippa sa da til Paulus: «Du har tillatelse til å legge fram saken din.» Paulus hevet hånden og begynte sitt forsvar:
+45003001	Hvilket fortrinn har da jøden, eller hva gagn er det i omskjærelsen?
+45003002	Mye, på alle måter! Først og fremst at Guds ord ble betrodd dem.
+45003003	Men hva så om noen av dem har vist seg utro? Kan deres utroskap oppheve Guds troskap?
+45003004	Slett ikke! La det stå fast at Gud taler sannhet, men hvert menneske er en løgner. Slik står det skrevet: For at du skal få rett når du taler, og vinne når du fører sak.
+45015001	Vi som er sterke, må bære svakhetene hos dem som er svake, og ikke bare tenke på oss selv.
+45015002	Hver og en av oss skal tenke på sin neste og gjøre det som er til beste for ham, og som tjener til å bygge opp.
+45015003	For Kristus tenkte ikke på seg selv; han oppfylte det som står skrevet: På meg falt hånsordene fra dem som håner deg.
+46011001	Følg mitt eksempel, slik jeg følger Kristi eksempel.
+46013001	Om jeg taler med menneskers og englers tunger, men ikke har kjærlighet, da er jeg bare drønnende malm eller en klingende bjelle.
+46013002	Om jeg har profetisk gave, kjenner alle hemmeligheter og eier all kunnskap, om jeg har all tro så jeg kan flytte fjell, men ikke har kjærlighet, da er jeg intet.
+46013003	Om jeg gir alt jeg eier til brød for de fattige, ja, om jeg gir meg selv til å brennes, men ikke har kjærlighet, da gagner det meg intet.
+47005001	For vi vet at om vårt jordiske hus, vårt telt, rives ned, så har vi i himmelen en bygning som er av Gud, et evig hus, som ikke er gjort med hender.
+47005002	Mens vi er her, sukker og lengter vi etter å bli kledd med vår bolig fra himmelen som en overkledning.
+47005003	For når vi er blitt kledd i den, blir vi ikke stående nakne.
+47005004	Så lenge vi bor i det jordiske telt, er vi nedtrykt og sukker. For vi vil ikke bli avkledd, men overkledd, så dette dødelige kan bli oppslukt av livet.
+47005005	Den som har gjort oss ferdige nettopp til dette, er Gud, for han har gitt oss Ånden som pant.
+47005006	Derfor er vi alltid ved godt mot, selv om vi vet at vi er borte fra Herren så lenge vi har hjemme i kroppen.
+47005007	For vi lever i tro, uten å se.
+47005008	Men vi er ved godt mot, og helst vil vi være borte fra kroppen og hjemme hos Herren.
+47005009	Derfor setter vi vår ære i å være ham til glede, enten vi er hjemme eller borte.
+47005010	For vi skal alle fram for Kristi domstol, for at hver og en skal få igjen for det han har gjort i sitt liv i legemet, enten godt eller ondt.
+48004001	La meg forklare dette. Så lenge en arving er umyndig, står han i samme stilling som en slave, enda han er herre over hele eiendommen.
+48004002	Han står under formyndere og forvaltere helt til den tid hans far har bestemt.
+48004003	Slik er det også med oss. Da vi var umyndige, levde vi som slaver under grunnkreftene i verden.
+48004004	Men i tidens fylde sendte Gud sin Sønn, født av en kvinne og født under loven.
+48004005	Han skulle kjøpe dem fri som stod under loven, så vi kunne få barnekår.
+48004006	Fordi dere er barn, har Gud gitt sin Sønns Ånd i våre hjerter, og Ånden roper «Abba, Far!»
+48004007	Derfor er du ikke lenger slave, men sønn. Og er du sønn, er du også arving, innsatt av Gud.
+49005001	Ha Gud som forbilde, dere som er hans elskede barn.
+49005002	Lev i kjærlighet, slik som også Kristus elsket oss og gav seg selv for oss som en offergave, et velluktende offer for Gud.
+49005003	Hor, all slags urenhet og pengejag må det ikke engang være tale om hos dere; slikt sømmer seg ikke for kristne.
+49005004	Rått snakk, dumt prat og grove vittigheter er også upassende. Si heller takk til Gud!
+49005005	For dere skal vite at ingen som driver hor, lever i umoral eller er pengegrisk og altså dyrker en avgud, skal få del i Guds og Kristi rike.
+49005006	La ingen narre dere med tomme ord! For det er slikt som gjør at Guds vrede rammer de ulydige.
+49005007	Gjør ikke felles sak med dem!
+49006001	Dere barn skal være lydige mot foreldrene deres for Herrens skyld, for det er rett.
+49006002	Du skal hedre din far og din mor, det er det første av budene som har et løfte:
+49006003	så det kan gå deg godt og du kan leve lenge i landet.
+49006004	Dere fedre, vekk ikke sinne og trass hos barna, men gi dem den oppdragelse og rettledning som er etter Herrens vilje.
+50002001	Når det da er trøst i Kristus, oppmuntring i kjærligheten, fellesskap i Ånden, og så sant det finnes medfølelse og barmhjertighet,
+50002002	så gjør nå min glede fullkommen: Vis enighet, stå sammen i kjærlighet, vær ett i sjel og sinn.
+50002003	Gjør ikke noe av selvhevdelse og tom ærgjerrighet, men vær ydmyke og sett de andre høyere enn dere selv.
+50002004	Tenk ikke bare på deres eget beste, men på de andres.
+50002005	Vis det samme sinnelag som Kristus Jesus!
+51002001	Jeg vil dere skal vite hvor hardt jeg kjemper for dere og for dem i Laodikea og for alle de andre som ikke selv har sett meg.
+51002002	Det jeg ønsker for dem, er at de skal få nytt mot, bli knyttet sammen i kjærlighet og nå fram til hele rikdommen av overbevisning og innsikt, så de kan fatte Guds hemmelighet, som er Kristus.
+51002003	For i ham er alle visdommens og kunnskapens skatter skjult til stede.
+51002004	Dette sier jeg nå for at ingen skal lure dere med sine overtalelseskunster.
+51002005	For jeg er hos dere i tankene, selv om jeg er borte fra dere, og jeg gleder meg over å se den orden og den fasthet i troen på Kristus som rår blant dere.
+51004001	Dere som er herrer over slaver, skal behandle dem rett og rettferdig, for dere vet at også dere har en herre i himmelen.
+52005001	Men om tider og tidspunkt behøver vi ikke å skrive til dere, brødre.
+52005002	For dere vet godt at Herrens dag kommer som en tyv om natten.
+52005003	Når de sier: «Fred og ingen fare», da kommer plutselig undergangen over dem, brått som veer over en kvinne som skal føde. Og de skal ikke slippe unna.
+52005004	Men dere, brødre, er ikke i mørket, så dagen skulle overrumple dere som en tyv.
+52005005	For dere er alle lysets barn og dagens barn; vi hører ikke natten eller mørket til.
+52005006	Så la oss da ikke sove som de andre, men våke og være edrue.
+52005007	De som sover, sover om natten, og de som drikker seg fulle, gjør det om natten.
+52005008	Men vi som hører dagen til, la oss være våkne, ha tro og kjærlighet som brynje og håpet om frelse som hjelm.
+52005009	For Gud har ikke bestemt oss til vrede, men til å vinne frelse ved vår Herre Jesus Kristus.
+52005010	Han døde for oss for at vi, enten vi våker eller sover, skal leve sammen med ham.
+52005011	Derfor må dere oppmuntre og oppbygge hverandre, som dere også gjør.
+54006001	Alle som er slaver og er under åket, skal vise sine herrer den respekt de har krav på, for at ikke Guds navn og læren skal bli spottet.
+54006002	Og de slaver som har troende herrer, skal ikke vise dem mindre aktelse fordi de er brødre. Nei, de skal tjene dem desto ivrigere, fordi de er trofaste og elskede brødre som legger vinn på å gjøre godt. Slik må du lære og formane.
+58005001	En øversteprest blir alltid tatt blant mennesker og innsatt for å gjøre tjeneste for Gud på vegne av mennesker. Han skal bære fram gaver og offer for synder.
+58005002	Han kan vise mildhet mot dem som feiler og farer vill, fordi han selv har menneskelig svakhet
+58005003	og derfor må bære fram syndoffer også for seg selv, ikke bare for folket.
+58005004	Ingen tiltar seg denne verdighet selv, men han blir kalt av Gud, slik som Aron.
+58006001	Derfor skal vi nå legge bak oss det vi først lærte om Kristus, og søke å nå fram til modenhet. Vi vil ikke på ny legge grunnvollen og tale om omvendelse fra døde gjerninger og om tro på Gud,
+58006002	eller undervise om renselsesbad og håndspåleggelse, om de dødes oppstandelse og den evige dom.
+58006003	Slik vil vi gå fram, om Gud så vil.
+59005001	Og nå, dere rike! Gråt og klag over all den ulykke som skal komme over dere!
+59005002	Rikdommen deres råtner, og klærne blir møllspist;
+59005003	gullet og sølvet ruster bort, og rusten skal vitne mot dere og fortære kroppen deres som ild. Dere har brukt endetiden til å samle rikdom.
+59005004	Men hør: Den lønn dere holdt igjen for arbeiderne som skar åkrene deres, roper høyt, og høstfolkenes nødrop har nådd fram til Herren Sebaot.
+59005005	Dere har levd i luksus og overflod på jorden og gjort hjertene fete til slaktedagen.
+59005006	Den uskyldige har dere dømt skyldig og drept, uten at noen gjør motstand.
+60004001	Når Kristus altså har lidd under sitt jordeliv, så skal dere væpne dere med denne tanken: Den som har lidd her i livet, er ferdig med synden.
+60004002	Derfor skal han ikke lenger følge menneskelige lyster, men leve resten av sitt liv etter Guds vilje.
+60004003	Det er nok at dere i den tid som er gått, har levd på hedensk vis i utsvevelser og sanselighet, i drikk, festing og fyll, og har drevet med forkastelig avgudsdyrkelse.
+60004004	Nå undrer de seg fordi dere ikke lenger løper med dem ut i denne strøm av utskeielser, og de spotter dere.
+60004005	Men de skal få avlegge regnskap for ham som står klar til å dømme både levende og døde.
+60004006	Også for døde er jo evangeliet blitt forkynt, for at de ved Ånden skulle leve, likesom Gud lever, selv om de her i verden var kommet under den dom som rammer alle mennesker.
+62002001	Mine barn, dette skriver jeg til dere for at dere ikke skal synde. Men om noen synder, har vi en som taler vår sak hos Faderen, Jesus Kristus, Den Rettferdige.
+62002002	Han er en soning for våre synder, ja, ikke bare for våre, men for hele verdens.
+62003001	Se, hvor stor kjærlighet Faderen har vist oss: Vi får kalles Guds barn, og vi er det. Verden kjenner oss ikke, fordi den ikke kjenner ham.
+62003002	Mine kjære, nå er vi Guds barn, og det er ennå ikke blitt åpenbart hva vi skal bli. Vi vet at når han åpenbarer seg, skal vi bli ham lik, for vi skal se ham som han er.
+62003003	Enhver som har dette håp til ham, renser seg, likesom Kristus er ren.
+66016001	Så hørte jeg fra templet en høy røst som sa til de sju englene: «Gå av sted og tøm de sju skålene med Guds vrede ut over jorden!»
+66016002	Da gikk den første bort og tømte sin skål ut over jorden. Og vonde og farlige byller slo ut på de mennesker som bar dyrets merke og tilbad bildet av det.
