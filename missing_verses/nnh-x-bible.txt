@@ -1,177 +1,239 @@
-40001023
-40002006
-40002018
-40004015
-40004016
-40005003
-40005004
-40005005
-40005006
-40005007
-40005008
-40005009
-40005010
-40006010
-40006011
-40006012
-40006013
-40012019
-40012020
-40012021
-40013015
-40015008
-40015009
-40021005
-40021009
-41001003
-41006008
-41006009
-41007007
-41010007
-41010008
-41010009
-41011010
-41012011
-41013025
-41014057
-41014058
-41015042
-41015043
-42001047
-42001048
-42001049
-42001051
-42001052
-42001053
-42001054
-42001055
-42001068
-42001069
-42001070
-42001071
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002030
-42002031
-42002032
-42003001
-42003002
-42003005
-42003006
-42004018
-42004019
-42006021
-42006022
-42006023
-42006024
-42006025
-42006026
-42011003
-42011004
-42011031
-42011032
-42020043
-42023050
-42023051
-43012039
-43012040
-43012041
-44001021
-44001022
-44002017
-44002018
-44002019
-44002020
-44002021
-44002026
-44002027
-44002028
-44004026
-44007043
-44007049
-44007050
-44008033
-44013038
-44013039
-44013041
-44015017
-44015018
-44028027
-45003011
-45003012
-45003013
-45003014
-45003015
-45003016
-45003017
-45003018
-45009011
-45009012
-45009026
-45010019
-45011010
-45011027
-45011034
-45011035
-45011036
-46006009
-46006010
-46014022
-47006017
-47006018
-47012003
-47012004
-49005015
-49005016
-49005017
-50002006
-50002007
-50002008
-50002009
-50002010
-50002011
-55002011
-55002012
-55002013
-58001006
-58001007
-58001008
-58001009
-58001010
-58001011
-58001012
-58001014
-58002007
-58002008
-58003008
-58003009
-58003010
-58003011
-58005006
-58006004
-58006005
-58006006
-58008009
-58008010
-58008011
-58008012
-58010006
-58010007
-58010016
-58010018
-58010038
-58012006
-60001025
-60002008
-60003011
-60003012
-66004011
-66005010
-66011018
-66015004
+### maybe there are more indented phrases which are not fully crawled from the original
+
+40001023	Mé ge lá’ gwaa gyá, mùɔ ngùɔ nyé té zsé mámbàŋa ńgwɔ́ shwoŋ, ńzyé múɔ mbàŋa, mè tsẅi lezíŋ sé lê Emanuel, e lɔgɔ ńgɔɔn ngie: «E Ssé ee nùɔ pege».
+40002006	«Á gʉa ná gù Mbetélehem, á tsɛ̀ɛ pàga ngwòŋ Jẅidea, ɔ̀ tè tsetsɛ̀ɛ metÿǒsoŋ pà Yuda ńdeen ńgwɔ́ pɔ́ nzsònzèm wɔ́, á nue àfùɔ gẅie à ge lá’ sá’ pʉ̀a pɔ́ɔn pà Israel ge lá’ kẅɛ pɔ́ tsetsɛ̀ɛ pi».
+40002018	«Mé jǔ’ mé gwɔ́ tÿǒsoŋo Rama ńcÿo ngwòŋ, ńně ńkɔ́’ɔ legwé, ńdʉa. Á gwɔ́ Rashɛl gẅie à lʉa penkʉ́ pé, mélà’mie pɔ́ kweté. Á pú tè né ńkwoŋo ngie mé tsí’i ntse nÿɔ́g mé wɔ́».
+40004015	«Pi pà Zabuloŋ mbɔ́ɔ pi pà Neftali, pi pie pi ee ngʉ̀ŋe ntse, ńgwɔ́ nà yetsɔ̌ nzǐŋ ntse Jurdeŋ, pi pʉ̀a Galilea, pi pie pi lâ pʉ̀a pie e té Ssé zsé neŋé
+40004016	Pi pie pi ka neŋé tsɛ̀ɛ nzěm, gi njÿó kwǎ’ ńdʉ́a. Nèm sǎ’ tà ne ńtʉ́a ná pʉ̀a pie e ka neŋé tsɛ̀ɛ ngwòŋ gẅie ssé nzěm we legwé à kaa wó».
+40005003	Pàshÿó mbòŋo ee pʉ̀a pie pɔ́ zsé ngie pɔ́ ee mvfò Ssé pɔ́ té tsɔ́ mmó ku’, mélà’mie pɔ́ ge gÿo jÿó pì *lefùɔ Ssé.
+40005004	Pàshÿó mbòŋo ee pʉ̀a pie e ne ńdʉa, mélà’mie Ssé ge gÿo tsí’i ntse nÿɔ́g mɔ́b
+40005005	Pàshÿó mbòŋo ee pʉ̀a pie e té gÿo ga’ ga’ wɔ́, «mélà’mie pɔ́ ge gÿo jÿó ngwòŋ».
+40005006	Pàshÿó mbòŋo ee pʉ̀a pie pɔ́ ne ńkwa’a ńtsɔ́ɔn légÿo mmó gie Ssé kwoŋ, «mélà’mie Ssé ge gÿo pɔ́ gÿo yɛ̌ mmó».
+40005007	Pàshÿó mbòŋo ee pʉ̀a pie pɔ́ ne ńtsɔ́ɔn mezìŋe petsɔ́ pʉ̀a, «mélà’mie e Ssé ge gÿo tsɔ́ɔn mezìŋe mɔ́b yɔ́b».
+40005008	Pàshÿó mbòŋo ee pʉ̀a pie tsɔ́ nkwaŋá té pòŋ té ntʉ́m pɔ́b wɔ́, «mélà’mie pɔ́ ge gÿo gyá Ssé».
+40005009	Pàshÿó mbòŋo ee pʉ̀a pie pɔ́ ne ńdɔgɔ mbʉ́lè ńtáŋte menò, «mélà’mie mé ge lá’ tóŋo wɔ́b lê púɔ Ssé».
+40005010	Pàshÿó mbòŋo ee pʉ̀a pie mé ne ńkʉ́e wɔ́b ńtí nue pɔ́ ne ńgÿo pá’ Ssé ne ńzɛ́te, «mélà’mie pɔ́ ge gÿo jÿó pì *lefùɔ Ssé».
+40006009	Pi lɔɔn ne sẅíŋte Ssé pi gɔɔn ngie: Tá weg, gù gẅie ɔ́ɔ tÿǒ lepwó. Gÿo pʉ̀a mesoŋ zsé ngie ee ndà’ gú ńgwɔ́ Ssé.
+40006010	Gÿo lefùɔ shú tó. Gÿo mé ne ńjú’u ncwò gú ndùmo ssé tsetsá’, pá’ mé ne jú’u tÿǒ lepwó.
+40006011	Náa yég mmó léjÿó gie á ge ku’u ná peg nà lyɛ̌’ɔɔn,
+40006012	lege mefʉa még, ńná né peg, pá’ peg ne ńdege yég ńnáa mbwó pʉ̀a pie pɔ́ fʉ̌a nò mbwó peg la.
+40006013	Tè zẅíŋ ngie peg kúu tsɛ̀ɛ nkwà’te, kẅé wég mbwó Sátà. [Á nue gù zɔɔ fùɔ, metʉ̀ ntsèm piŋ ńgwɔ́ pɔ́ mú, mé ne ńgu’te pɔ́ ndà’ gú mengù’u mengù’. Ameŋ].
+40012018	À la gɔɔn ngie: «Wɔ̀ɔn aa ngàŋa fà’ wɔ̀ɔn mie n deen ńtsɔ́’. N kwoŋo yé tɛ’, yé zɔ gÿo ntʉ́m wɔ̀ɔn kág. Mèŋ n ge gÿo ńnéŋe Zẅìge yɔ́ɔn ná yé, à gÿo ńnyɛ ntí lesá’a lá’ gie ee ndʉŋ ndʉŋ mbwó melá’ mie e té pà Israel wɔ́.
+40012019	À tè gÿo fa’ ntsaŋ wɔ́, é ké le gɔɔn nò tà ngyè yé kwɔ́’ɔ tÿǒ wɔ́. Mé ké le jú’ á tyé metwó nzsè ńnáa shwóŋò wɔ́.
+40012020	À tě ńdá’a ḿbwɔ́’ɔ kekà’a gie á tʉ́ŋe wɔ́, é ké le pyág mmɔ̌g nà lâm gẅie à gee ḿbyě wɔ́, é ké lá’ gÿo pɔ́ pú’u, tà ntí lesá’a lá’ gie ee ndʉŋ ndʉŋ e jÿó mânyìŋ ntsèm.
+40012021	Mengwòŋ ntsèm tsɛ̀ɛ njÿó cʉ́’ʉ ńdɔgɔ pɔ́ yé ńnéŋe».
+40013014	Á lɔgɔ ḿbumte pá’ *ntsẅì nkʉ̀ Ssé Esǎya la gɔɔn ngie: «Pi ge gÿo ne jú’u jʉ’ é ké le jú’ tà ńjú’ wɔ́, ńne líe jʉ’ é ké le mmó gyá
+40013015	Á nue ntʉ́m pà lá’ pɛ̂ leen shÿɔg pɔ́ leen ńziŋe metuŋó mɔ́b, ńkábte menÿɔ́g mɔ́b, ńdɔgɔ tě ńkwoŋo lélɔg menÿɔ́g mɔ́b ńgyá jʉ’ wɔ́, lélɔg metuŋó mɔ́b ńjú’u nò wɔ́, lélɔg legye sɔ́b ńkwaŋa nò wɔ́. Pɔ́ té kwoŋo lékube mà wɔ́b gwɔ́, ńdɔgɔ tě ńkwoŋo ngie n gÿo pɔ́ zeŋe wɔ́».
+40015008	«Pʉ̀a pɛ̂ lɔgɔ pɔ́ ndà’ ncwò wɔ́b ńgu’te wɔ̀ɔn, ntʉ́m wɔ́b té ná mèŋ wɔ́.
+40015009	Pɔ́ ne ńgu’te wɔ̀ɔn tá ànò té mǒ wɔ́, ńtí nò gie pɔ́ ńnéŋe twó ńzí’i pʉ̀a mmó tɛ’ tá’, á gwɔ́ pɔ́ ye pʉ̀a mesoŋ».
+40021005	«Pi tsẅii mbwó pʉ̀a pie ée tsɛ̀ɛ tÿǒsoŋo Sioŋ ngie: Pɔ́ líe ńgyá pá’ fùɔ wɔ́b ne ńtóo né lejʉ́ŋ pɔ́b, ńgwɔ́ ngàŋ mbʉ́lè, ńnéŋe ndùm nzìkásè, á gwɔ́ mùɔ nzìkásè».
+40021009	Àlá’ gwɔ́ mvfò, yetsɔ́ gwɔ́ nzèm, ńgiŋe ńgɔɔn ngie: “Gugẅî”! Mbwó nyìŋ na ngẅɛ fùɔ Ndavíd Mbʉ́lè gwɔ́ né nyìŋ gẅie à tóo ná lezíŋ Cʉ̀apʉ̀a. Gugẅî mbwó Ssé tàa tÿǒ lepwó
+41001002	E la zye pá’ Ssé la gɔɔn tsɛ̀ɛ ŋwà’ne *ntsẅì nkʉ̀ we Esǎya ngie: «Jú’u, mèŋ n ge túmo mántúm wɔ̀ɔn à gwɔ́ mvfò ńně ńkɔ́’ɔ nzsè jù, ɔ ne ńtóo.
+41001003	Ngyè nyìŋ kwɔ̌’ fó nkwòŋo tsẅɛ, ńgɔɔn ngie: Pi nyɛte mánzsè Cʉ̀apʉ̀a, ńgÿo melyěen nzsè mé e tyé ndʉŋ ndʉŋ»!
+41006008	ńtsẅi né pɔ́b ngie: Tà pi gwɔ gʉa, ḿbíi tsɔ́ mmó, tà ńdí’ ndà’ léshÿɔ́g *mengùb mí, ḿbíi tÿǒ ńtẅi’. Tà pi tsẅág shúm léjÿó, ḿbɔ́ɔn nyìŋ lépíi pɔ̀ɔn. Tà nyìŋ gẅiin kà pɔ́ nkáb wɔ́, kà pɔ́ kúbe nzsǒ wɔ́.
+41006009	
+41007006	Yěsô tsɔ́’ɔ mbwo pɔ́b ngie: Pi ee pà nkwòŋ menÿɔ́g. Esǎya, *ntsẅì nkʉ̀ Ssé lɔ̌ɔn fóon ńgɔɔn pá’a shwóŋó nò, pá’ à la ŋwe’e ńtí mà gẅi ńgɔɔn ngie: Epʉ̀a pɛ̂ lɔgɔ pɔ́ ndà’ ncwò wɔ́b ńgu’te wɔ̀ɔn, ntʉ́m wɔ́b té ná mèŋ wɔ́.
+41007007	Pɔ́ ne ńgu’te wɔ̀ɔn, tá nò té mǒ wɔ́, ńtí nò gie pɔ́ ne ńzí’i menò pʉ̀a mesoŋ mbwo pʉ̀a ngie áa nò yɔ́ɔn
+41010007	Áa mmó gie á gÿo, nyìŋ ńnéŋe tà fag nnɛ́ ná tá we pɔ́ má we, ńgʉa ńda nnɛ́ nà we manzwě.
+41010008	Pɔ́ ye temte ńcʉ́’ʉ tà’ nyìŋ Á cʉa pú’u, pɔ́ le gíŋe ńgwɔ́ pʉ̀a mépʉ́a wɔ́, pɔ́ cʉ́’ʉ tà’ nyìŋ.
+41010009	Pú’u la, nyìŋ mesoŋ pɔ́ɔn léfege mmó gie Ssé temté.
+41011009	Alá’ gwɔ́ mvfò, ńgwɔ́ nzèm yé ńzɔbɔ ngie: Gùugẅî mbʉ́lè gwɔ́ né nyìŋ gẅie, à tóo nà lezíŋ Cʉ̀apʉ̀a.
+41011010	Mbʉ́lè gwɔ́ né nyìŋ gẅie à tóo ńjÿó lefùɔ tá wege fùɔ Ndavíd. Gùugẅî gwɔ́ mbwo Ssé tàa tÿǒ lepwó!
+41012010	Á lɔɔn tè kɔ́ wɔ́, mbà pi léen ńtóŋo jʉ’e ŋwà’ne Ssé gie á gɔɔn ngie: «Tóon gẅie pàpwóon ndá la gwá’ léen ńcʉ́’ʉ tóon gẅie yé zɔ pi’ ndá».
+41012011	Cʉ̀apʉ̀a zɔ la gÿo pú’u. Á gwɔ́ máa nò mbòŋo menÿɔ́g pege
+41013024	Tá’, á ge lá’ gwɔ́ nà mɛ̌ melyɛ̌’, tà mbà yɔɔn ngʉ̀ngʉ̀ tɔ̌g, mé gyá nèm sele síŋ, saŋ le gíŋe ńtʉ́a wɔ́.
+41013025	Mecÿɔ́’ saŋ fóo tÿǒ lefaŋ ńgwete ssé, Yɛ̌ mmó ntʉ̀ tʉ̀ wɔ́ gie áa lefaŋ pú ńtága
+41014057	Petsɔ́ pʉ̀a lu yɔ́b ssé, ńnéŋ wɔ́b ncwò mǒ ngie: Peg la jú’ á gɔɔn ngie: À ge lá’ keme *jʉ’ʉ Ssé gie pʉ̀a mesoŋ la lɔg mbwó mɔ́b ńkwɛ́, é lɔg lyɛ̌’ sétá kwɛ́ ye ndyɛ̀’ɛ, tà é le gíŋe ńgwɔ́ gie pʉ̀a mesoŋ zɔ̌ lɔ̌g mbwó mɔ́b ńkwɛ́ wɔ́.
+41014058	
+41015042	Á gÿo ńgwɔ́ ncwò nzém, atsɔ̌ ndÿò tó. Lezíŋ sé gwɔ́ le Yesyɛ̂b. Á gwɔ́ nyìŋ Arimaté. À laa yé nyìŋ nà nùɔ pàsá’a lá’, ńgwɔ́ nyìŋ mé gÿo mekù’ mé tɛ’. Á ńnéŋe yé ńne ḿbyɛ́bɛ fʉ̀’ gie Ssé yé máŋwɛ́ zɔ ge cʉ́’ʉ sá’a njÿó. Pá’ á la gwaa gwɔ́ mé ne ńtáŋte nnɛ́ tá *lyɛ’ɛ́ nzsè pà Yuda zye mbÿɛ̀ njÿó ŋwɛ́ la, Yesyɛ̂b ŋwɛ́ shÿɔg, ńgʉa ńgyá *Pilato, ńdúɔ pfó Yěsô légʉa ńde’e.
+41015043	
+42001046	Malîɛ jú’ ńgɔɔn ngie: M bǔ ne ńnáa legú’ mbwo Cʉ̀apʉ̀a,
+42001047	Ntʉ́m wɔ̀ɔn ne ńkága tɛ’ ńtí pá’ à gÿǒ mèŋ n tsẅɛ́.
+42001048	À kimté wɔ̀ɔn, tá mèŋ n ke ńgwɔ́ pɔ́ nzèm nà pʉ̀a pie é jú’u ncwò wé Pʉ̀a mesoŋ nà mejwoŋó mejwoŋó ge lá’a cʉ́’ʉ tóŋo wɔ̀ɔn lé shÿó mbòŋo,
+42001049	mélà’mie Ssé ngàŋa tʉ̀ ntsèm kéen ńgÿo nkʉ̀’ʉ nò mbòŋo ná mèŋ. E Ssé ee Ssé
+42001050	À gÿo nò mbòŋo ná pʉ̀a pie pɔ́ kwoŋo yé ḿbiŋ ńgu’te ye, ńgíŋe ńgÿo ná púɔ pɔ́b á ná mejwoŋó mejwoŋó
+42001051	À nyɛ metʉ̀ mé, ńgÿo memáa menò À tǎg pàŋá’te nnɛ́ ńdɔg sáa tsẅɛ
+42001052	À sẅe’é méfùɔ nà lʉŋ sɔ́b ńkaa mepóŋ ńnéŋe mǒ
+42001053	À kéen ńdɔg shúm mbòŋo ńjÿɔ́g megàŋa nzyè, ńjwoŋ megàŋa mmó pɔ́ gʉa mbwo mesẅɛ̀ɛ
+42001054	À tóo ńkẅéte pʉ̀a Israel, é megàŋa fà’ pé À kaa lege lényɛɛ pòŋo ntʉ́m yé wɔ́,
+42001055	Áa mmó gie à la ka’a mbwo pàmangʉa njʉ̀’ pégè, Á mbwo Ábalam pɔ́ ngẅɛ̀ ndá yé mejwoŋó mejwoŋó
+42001068	Pege zɔb ntse ńgú’te Cʉ̀apʉ̀a Ssé pà Israel, à tǒ ńkẅéte pʉ̀a pé, ńcu’u wɔ́b ndá nkwɔ̀ɔn.
+42001069	À tumó *Nzà’nkÿo we lÿò né pege. À kẅɛɛ nà ngẅɛ̀ nda ngàŋa fà’ wé, fùɔ Ndavid,
+42001070	Á gwɔ́ nò gie à la lá’ ńtsẅi tà ntyě sagá, oon, à la lɔg ncwò *pàntsẅì nkʉ̀ pé ńgɔɔn ngie:
+42001071	Mèŋ n ge lá’ kẅé gẅi mbwo megàŋ mbù pí, mbɔɔ nà mbwo pʉ̀a pie pɔ́ té ne ńkwoŋo légyá gẅi wɔ́.
+42001072	Wɔɔn aa pá’ poŋo ntʉ́m Ssé la zye ná pàmangʉa njʉ̀’ pégè, à giŋé ńgwɔ́ lyɛ̌’ɔɔn, ńkímte *kʉ̀a ndʉalʉ̌a gie pâ pɔ́ la gwa,
+42001073	ńkímte pá’ à la gɔɔn tà ńkʉa mbwo Ábalam, á mangʉa njʉ̀’ wege. À lɔ̌ɔn ńgɔɔn ńtíi wege ngie:
+42001074	N ge lá’ kẅé penkʉ́ pú, á nà mbwo megàŋ mbù pɔ́b, tá pɔ́ lêen ńké ńku’u léfa’a mbwo mèŋ té pɔ́g.
+42001075	Pɔ́ cʉ́’ pʉ̀a pɔ́ɔn, é gÿo pɔ́ wɔɔn lékwoŋ nà mengwòŋ melyɛ̌’ɛ lá’ mɔ́b ndùmo Ssé tsetsá’.
+42001076	Sakarîɛ gíŋe ńgɔɔn ngie: Á gʉa ná gù míŋ wɔ̀ɔn, mbà mé ge lá’a tóŋo ɔ́ lé *ntsẅì nkʉ̀ Ssé, e Ssé gẅie à pi’i kɔ̀ɔkɔ́ɔ Cʉ̀apʉ̀a gwaa tó, mbà ɔ̀ vɔ̌g ńgwɔ́ mvfò ńnyɛte mánzsé we.
+42001077	Ɔ̀ ge táa gÿo pʉ̀a pé zsé ngie á tsoté tà ḿbɔ́ɔnte pá’ à ge lege menò tepòŋ mɔ́b, é gÿo pɔ́ tsẅɛ́,
+42001078	mélà’mie à ne ńdíe wégè mboŋó, ḿbiŋ ne ńtsɔ́ɔn mezìŋe mégè tɛ’. À ge túmo Nyìŋ gẅie à ge gÿo pege gwɔ́ wó, angàŋ fó tÿǒ ńtó ńgwɔ́ nkà’,
+42001079	ńkyɛ’ pʉ̀a pie é ńnéŋe tsɛ̀ɛ nzěm, legwé piŋ ńne nÿɔgɔ wɔ́b, é tsege wɔ́b ńnéŋe tsɛ̀ɛ sẅétè.
+42002029	Cʉ̀apʉ̀a, áa fʉ̀’ɔɔn pá’ɔɔn, ngwɔ́ ɔ̀ nyé ngàŋa fà’ gù á pʉ́lè ńkwé pá’ ɔ̀ la gɔɔn.
+42002030	Oon n dɔ̌g nÿɔ́g mɔ́ɔn ńgyá pá’ ɔ̀ ge gÿo pʉ̀a mesoŋ tsẅɛ́.
+42002031	Aa letsẅɛ́ gẅie ɔ̀ la lá’ nyɛte ńzáb lényɛɛ mbwo ngwòŋo ngwòŋ.
+42002032	Á gwɔ́ kyɛ̀’ gie á ge gÿo mé zsé ɔ́ tsɛ̀ɛ njÿó ntsèm. Pú’u, ɔ̀ lɔg ńnáa legú’ mbwo Israel, á lá’ ɔ́.
+42003001	Jâŋ míŋ Sakarîɛ lá’ ńtsẅé nkwòŋo tsẅɛ tà Ssé túmo yé ngie à gʉa shwóŋó nò yé. Á gwɔ́ ngù’ ayɛ̌, mbà Kása Tibɛr gẅie à la ne sá’a ngwòŋo ngwòŋ, mbà à neŋé nà lʉŋ ngù’ ntsɔ̀b tʉ̀a lê legém. Ponte *Pilato á gwɔ́ ngúmnɔ́ɔn pàga ngwòŋ Jẅidea, *Herôd á né sá’a pàga ngwòŋ Galilea, afɛ̌ we Filib á ně sá’a Itẅiria pɔ́ Telakonid, Lisanias á ně sá’a Abilɛn. Ánɔ́ɔn pɔ́ Kaifa gwɔ́ *metándá pànùŋe pwɔ́’.
+42003002	
+42003004	Á lɔgɔ ńtswé’e nà nò gie Esǎya, *ntsẅì nkʉ̀ Ssé la ŋwe’e ngie: «Ngyè nyìŋ kwɔ̌’ fóo nkwòŋo tsẅɛ ńgɔɔn ngie: Pi nyɛte mánzsé Cʉ̀apʉ̀a, ńgÿo melyěen nzsé mé e tyé ndʉŋ ndʉŋ.
+42003005	ńdẅíŋe mefú’ ntsèm mie ée mǒ, ńkwɔg mekwɛ́ lâ mekwɔ’ɔ́ ntsèm, ésiŋte meŋwɔ’ɔ́ nzsé e tyé ndʉŋ ndʉŋ, ńkwɔg melu’ú mie ée ná mánzsé ésaŋte
+42003006	Tá à cʉa pú’u, pʉ̀a metsèm gyá pá’ Ssé ge gÿo pege tsẅɛ́».
+42004018	À Zẅìge Cʉ̀apʉ̀a áa ná mèŋ, mélà’mie à la zɔ́’ɔ wɔ̀ɔn, ńtúmo wɔ̀ɔn ngie n gʉa, ńtsẅi Nkʉ̀ Mbòŋo á mbwo megàŋ ngɔ́’, ńtúmo wɔ̀ɔn ngie n gʉa ńtsẅii mbwo megàŋa tsáŋa ncù ngie: Mé ge kẅile wɔ́b, ńtúmo wɔ̀ɔn ngie n gʉa, ńgÿo mefʉ̀ menÿɔ́g gyá jʉ’, ngie n gʉa, ńtág nzèm pʉ̀a pie mé ne sẅɛ́ɛ wɔ́b,
+42004019	ńgíŋ, ńtúmo wɔ̀ɔn ngie n gʉa sá’a mbwo lá’ ngie yɔɔn ee ngù’ gie Cʉ̀apʉ̀a ge tsɔ́ɔn mezìŋe pʉ̀a pé Á nyɛ́’ɛ nà jʉ’ gie?
+42006020	Yěsô ńnéŋe tà ḿbʉ’ʉ twó yé, ńdíe *ngàŋa nkwò ye, ńgɔɔn ne pɔ́b ngie: Pi ee pàshÿó mbòŋo, pi pie pi ee mepóŋ, mélà’mie *lefùɔ Ssé gwɔ́ pɔ́ sí.
+42006021	Pi ee pàshÿó mbòŋo pi pie pi ne ńkwé nzyè fʉ̀’ɔɔn, mélà’mie e Ssé ge gÿo jÿɔ́gɔ gẅí, pi zẅɛ́. Pi ee pàshÿó mbòŋo pi pie pi ee fʉ̀’ɔɔn ńne ńdʉa, mélà’mie pi ge gÿo gẅe.
+42006022	Pi ee pàshÿó mbòŋo, á na fʉ̀’ gie pi cʉmé nzèm *Míŋ Nyìŋ, mé piŋ ne ḿbʉa gẅí, ńne ńkʉ́e gẅí, ńne ńzoonte gẅí, ńne ńcʉŋte lezíŋ sí.
+42006023	Yɔɔn nò lɔɔn ńgwɔ́ tà ne ńgÿo gẅí, pi kág, ńzɔb ńzíŋ, mélà’mie e Ssé nyɛté máamáa ntsɔ’ɔ́ fà’ ńne ńdɔgɔ ńzẅí’te gẅí. Pi zɔɔn ńzsé ngie á gíŋe ńgwɔ́ pɔ́ ndʉŋ ndʉŋ pá’ metá pɔ́b lɔ́ɔn ńgÿo yɔ́b ná *Pàntsẅì nkʉ̀ Ssé.
+42006024	Tá’, pi ee kwà’ pàshÿó tepòŋ pi pie pi ee megàŋa mmó, mélà’mie pi lêen ńgẅiin léjÿó sî shúm mbòŋo pɔ́ ndà’ fʉ̀’ɔɔn.
+42006025	Pi ee pàshÿó tepòŋ, pi pie pi ee fʉ̀’ɔɔn ḿpfɛ́ɛ ńzẅɛ́ɛ, mélà’mie pi ge lá’ kwé nzyè. Pi ee pàshÿó tepòŋ pi pie pi ne ńgẅe fʉ̀’ɔɔn, mélà’mie pi ge lá’ cʉ́’ʉ ńnéŋe pɔ́ tsɛ̀ɛ lemÿɔg é piŋ ne lʉa.
+42006026	Pi ee pàshÿó tepòŋ pá’ à lɔɔn ńgwɔ́ epʉ̀a ne ńkíme gẅi pɔ́ mboŋó, mélà’mie á zɔ́ɔn ńgwɔ́ pɔ́ pá’ metá pɔ́b lɔ́ɔn ńgÿo ná *pàntsẅì nkʉ̀ Ssé pe cÿɔ̌ nò.
+42011002	Yěsô lêen ńké ńgɔɔn mbwo *ngàŋa kwò yé ngie: Pi lɔɔn ne sẅíŋte Ssé, pi gɔɔn ngie: Tá weg, gÿǒ ngie pʉ̀a mesoŋ gu’te lezíŋ shú, ḿbiŋ ńgÿo *lefùɔ shú tó
+42011003	ńgwɔ́ lyɛ̌’ ntsèm, ńnáa yég mmó léjÿó gie á ge ku’u ná peg á nà lyɛ̌’ɔɔn
+42011004	lege menò tepòŋ még ńná né peg, Mélà’mie peg ne ńdege yég ńnáa mbwo pʉ̀a pie pɔ́ fʉ̌a nò mbwo peg. Tè zẅíŋ ngie peg kúu tsɛ̀ɛ nkwà’te.
+42011031	Epʉ̀a Ninive la jú’u shwóŋè Jonase, ńkúbe mà wɔb, nyìŋ gẅie à piŋe shwóŋó gẅi nò lyɛ̌’ɔɔn pi tě ńjú’u wɔ́, à cʉa Jonase. Áa pú’u, tá mèŋ shwóŋó gẅi ngie Ssé ge lá’ gwɔ́ tà ně ŋaga pʉ̀a mesoŋ, epʉ̀a Ninive apɛ̌ tó ńtyé ńzába nò twó pʉ̀a pie ée tsɛ̀ɛ njÿó fʉ̀’ɔɔn. Anò Mafùɔ pʉ̀a Shéba gíŋe ńgwɔ́ pɔ́ pú’u. À la jú’ ngie legyè fùɔ Salomo pú ńcʉa se mânyìŋ ntsèm, éfóo tàa lá’ yé, ńdu ssé ńtó, ńdɔg nÿɔ́g mé ńgyá yé. Nyìŋ gẅie à piŋe shwóŋó gẅi nò lyɛ̌’ɔɔn pi tě ńzẅíŋe wɔ́, esé legyè cʉ́a se fùɔ Salomo. Áa pú’u, tá mèŋ shwóŋó gẅi ngie, e Ssé ge lá’ gwɔ́ tà ne ŋaga pʉ̀a mesoŋ, mafùɔ pʉ̀a lá’a Sheba ŋwɛ́ tó ńtyé ńzába nò twó pʉ̀a pie ée tsɛ̀ɛ njÿó fʉ̀’ɔɔn.
+42011032	
+42020042	Fùɔ Ndavíd yé máŋwɛ́ gɔɔn tsɛ̀ɛ ŋwà’ne mezɔ́bɔ ntse ngie: Cʉ̀apʉ̀a Ssé gɔ̌ɔn mbwo wɔɔn Ndè ngie: Tóo ńnéŋe nà gwoŋó pwó yɔ́ɔn ye tʉ̀,
+42020043	ńzẅí’te mèŋ n dɔg megàŋ mbù pú, ńgÿo ntÿɔgɔ́ mekwò mú
+42023050	Atsɔ̌ nyìŋ gwɔ́ yé jʉ’ó, mé tóŋo yé le Yesyɛ̂b, mbà mé la zyé yé nà tsɔ́ tÿǒsoŋ pà Yuda gie mé tóŋo le Arimaté, ńgwɔ́ nyìŋ mbòŋo, ńkíbe *lepʉ̌ Ssé tɛ’, ḿbiŋ ńtsẅé ne ńzẅí’te fʉ̀’ gie Ssé ge sá’ njÿó. À laa mbɔɔ tsetsɛ̀ɛ melÿò pie pɔ́ lɔ́ɔn sá’a lá’. À la tè zẅíŋe nò gie petsɔ́ melÿò la záb ḿbiŋ ńgÿo nà Yěsô wɔ́.
+42023051	
+43012038	Á lɔgɔ ḿbumte ná nò gie *ntsẅì nkʉ̀ Ssé Esǎya la gɔɔn ngie: «Cʉ̀apʉ̀a, awɔ̌ la ké ńzáb ntʉ́m nà nò gie peg la gɔɔn? Tà Cʉ̀apʉ̀a kɔ̌ɔn ńnyɛ metʉ̀ mé pɔ́ mbwo pà wɔ̌»?
+43012039	Esǎya la gíŋe ńgɔɔn mmó gie á ge gÿo tá pà Yuda le záb ntʉ́m nà Ssé wɔ́, à la gɔɔn ngie:
+43012040	«E Ssé kéen ńgÿo menÿɔ́g mɔ́b fʉ. À kéen ńjÿɔ́’ legyè sɔ́b, légwɔ́ gie pɔ́ té lɔg menÿɔ́g gyá jʉ’ wɔ́, pɔ́ le lɔg legyè sɔ́b ńzsé nò wɔ́; à cʉa pú’u, pɔ́ le kúbe mà wɔb à gÿo pɔ́ zeŋe wɔ́».
+43012041	Esǎya gɔɔn nò jʉ’ɔɔn ná Yěsô, á nue à la tʉ́ njÿó ńgyá legú’ Yěsô.
+44001020	Á zɔɔn ńgwaa gwɔ́ mbà mé la ńŋwe’e tsɛ̀ɛ ŋwà’ne me zɔ́bɔ ntse ngie: Á poŋ ndá ye cʉ́’ʉ fòmo ndá Mbɔ́ɔn nyìŋ lelá’ ńgíŋe ńnéŋe tsoló, ńgíŋe ńcʉ́me ngie tsɔ̌ nyìŋ ndyɛ’ɛ jÿó jʉ’ yé.
+44001021	Áa yɛ̌ tá á ne ńzɛ́te ngie pege gʉa tsetsɛ̀ɛ pʉ̀a pie pega pɔ̌ kɔ̌ɔn ńzɔ́gɔ ńgiŋe nzèm Cʉ̀apʉ̀a Yěsô, tà fó fʉ̀’ gie Jâŋ la ne ńnu’u pʉ̀a ntse ńkúu nà lyɛ̌’ gie mé la lɔgɔ Yěsô éfó tsetsɛ̀ɛ pege ńgʉa, éfa’a tà’ nyìŋ, pega pɔ́ púte métsèm éshwóŋó mmó gie pege zsé nà Ndè wege Yěsô. Á ná pá’ à la zíme nà legwé.
+44001022	
+44002017	À la gɔɔn ngie Cʉ̀apʉ̀a gɔ̌ɔn ngie: Alyɛ’ɛ́ nzsònzèm ge lá’ ně ku’u, n ńnéŋe Zẅìge yɔ́ɔn ná nyìŋ mésoŋ ntsèm; gubé gí yé mbàŋa mbɔɔ yé pànzwě ge lá’ cʉ́’ pà Ntsẅì nkʉ̀ pɔ́ɔn. Mèŋ n ge gÿo púɔ ngwàshùm pí gyá menkʉ̀’ʉ nò, n dɔg njÿòon ńgɔɔn nò mbwo mezẅìŋe pʉ̀a pie ée tsetsɛ̀ɛ pi.
+44002018	Oon, mèŋ n ge táa ná mɛ̌ melyɛ̌’, é gÿó Zẅìge yɔ́ɔn kúu na menkwɔɔn pɔ́ɔn pe mbàŋa mbɔɔ pe pànzwě. Pɔ́ cʉ́’ pà ntsẅì nkʉ̀ pɔ́ɔn.
+44002019	Mèŋ n ge lá’ gÿo ndàa gyá nò kẅɛɛ lefàŋ. Menò mmɔɔn mmɔɔn kẅɛɛ ndùmo ssé tsetsá’. Mé gyá metse, ńgyá mmɔ̌g, ńgyá pá’ ndyé fu’u,
+44002020	Alyɛ’ɛ́ lá’ Cʉ̀apʉ̀a ge lá’ gwaa tó, lejÿɔ́g nèm zɔɔn sele síŋ, lejÿɔ́g saŋ sele mbaŋ pá’ metse lá. Yɛ̌ lyɛ’ɛ́ lá’ ge lá’ gwɔ́ kwà’ lyɛ’ɛ́ nò, é gwɔ́ lyɛ̌’ gie e Ssé nyɛɛ mmó gie aa yɛ̌.
+44002021	À ké ńgwɔ́ pú’u, mânyìŋ ntsèm gẅie à ga’te ńtóŋo Cʉ̀apʉ̀a, à tsẅɛ́.
+44002025	Pi zɔɔn ńju’u nò gie fùɔ Ndavíd la gɔɔn ńtí ye, à la gɔɔn ngie: N da ne ńgyá Cʉ̀apʉ̀a, à gwɔ́ mvfò mèŋ fʉ̀’ ntsèm, Á gwɔ́ nà gwǒŋo pwó yɔ́ɔn yé tʉ̀, nně ńtóonte wɔ̀ɔn, légwɔ́ gie ntʉ́m wɔ̀ɔn té vege wɔ́.
+44002026	Áa yɛ̌ tá ntʉ́m wɔ̀ɔn ńnéŋe ńjú’ mboŋó, ngyè lekág zɔ kẅɛɛ ncwò mèŋ. N zɔɔn fó ńkwé kwé, mbà pfó yɔ́ɔn ge nuŋe ne pyɛ́bɛ pyɛ̌b,
+44002027	mélà’mie à lɔɔn ńgwɔ́ ɔ́ légwá’a wɔ̀ɔn lá’ mepfó wɔ́, ḿbiŋ ké lezẅíŋ ngie nyìŋ gẅie ɔ̀ la tsɔ́’ɔ yé à lʉ́ʉ tsɛ̀ɛ lesyè wɔ́.
+44002028	Ɔ̀ ka nyɛɛ wɔ̀ɔn memánzsè mie n ge pfó mǒ tá tsẅɛ́. Mèŋ n ge tó gwɔ́ jʉ’ gie ɔ́ɔ wó, anò poŋo wɔ̀ɔn. M bú ńkág tɛ’.
+44004025	Ɔ̀ la gÿo Zẅìge Ndʉalʉ̌a jÿó mangʉa njʉ̀’ wég fùɔ Ndavíd gẅie à laa ngàŋa fà’ gù, á gɔɔn ngie: Atúmo túm kwé’e mekẅi mɔ́b mvfò Ssé mélà’a kɔ́? Melá’ melá’ fa’a nò pá’ɔɔn á gwɔ́ mélà’a kɔ́?
+44004026	Mefùɔ ndùmo ssé tsetsá’ ne ńtáŋte ncù, pàsá’a lá’ gíŋe ne ńcú’te yɔ́b ńtáŋa ngie pɔ́ ge lÿɔ́’ɔ Cʉ̀apʉ̀a Ssé le ncù, mbɔɔ nyìŋ gẅie à la zɔ́’ɔ yé ńdɔg ńgÿo fùɔ
+44007042	Pɔ́ la gÿo pú’u, e Ssé tém nzèm yɔb, ńnyé wɔ́b. Pɔ́ zye légu’te shúm sie ée lefaŋ. Ndʉŋ ndʉŋ pá’ mé la ŋwe’e tsɛ̀ɛ ŋwà’ne pà *ntsẅì nkʉ̀ Ssé ngie: Púɔ pà Israel, pi la giŋe nkwòŋo tsẅɛ ngù’u lá’ móm lekùa pé’e, ńgwa menɔ̀ɔn ńdɔg ńgu’te wɔ̀ɔn mɔɔn ka?
+44007043	Ngǎŋ! Tá’ pi la ké ńkaa pɔ́ ntàb ssé Molog ńgíŋ ńkaa cÿɔ́’ saŋ, á gẅie mé lɔgɔ fʉ’ʉ ssé gi gie mé tóŋo lê Refaŋ é gwɔ́ shúm sie pi zɔ la nyɛte pá’ pi ge gu’te. Áa mmó gie á ge gÿo mèŋ fó lá’ ńjwoŋo gẅí pi gʉa tà ńtɔ́g ngwòŋ Mbabilonia.
+44007049	Cʉ̀apùa gɔ̌ɔn ngie: Atÿǒ lepwó áa lʉŋe lefùɔ yɔ́ɔn atsetsá’ gwɔ́ ntÿɔgɔ́ mekwò mɔ́ɔn pi ge kwɛ́ɛ jʉ’ yɔ́ɔn à gwá’a la? ajʉ’ gie á lɔɔn ńgwɔ́ n zẅɛte wó, áa wó?
+44007050	Mèŋ n zɔ la tè nyɛte shúm ntsèm wâ?
+44008032	Á gwaa gwɔ́, mbà jʉ’e ŋwà’ne gie á ké ne ńtóŋo áa gie á gɔɔn ngie: Mé la ne ńdɔgɔ yé ńgee, á pú tè kẅág, ńgiŋ yé pɔ́ pá’ *njʉ̀njÿò gie mé lɔgɔ yé ńgee legwǎ mbab ńzẅe ńdáŋte pɔ́ pá’ mûɔ *njʉ̀njÿò gẅie mé ne ńkwóon menòŋ mé.
+44008033	Mé la tém shʉ́ twó yé, ńzá’ ye ntsaŋ té poŋ. Ngwɔ́ mé kè ńgwaa kím ngẅɛ̀ yé, éfóo nzɔ̌ pá’ mé la zá’a yé zǎ’ ńzẅé.
+44013033	À kéen ńgÿo yɛ̌ nò pumte twó pege pie pege ee gubé yɔ́b. À ka gÿó Yěsô zíme nà legwé pá’ mé la ŋwe’e tsɛ̀ɛ ŋwà’ne mezɔ́bɔ ntse, á nà mbɔ́ɔntè pàg pʉ́a ngie: Ɔ̀ɔ Míŋ wɔ̀ɔn tà fó lyɛ̌’ɔɔn, mèŋ n cʉ’ʉ́ tá gù.
+44013034	Áa pú’u, tá Ssé ka gÿo Yěsô zíme nà legwé. À těen ńdá’a ńgíŋe ḿbiŋe tsɛ̀ɛ lesyè pá’ ńgwɔ́ á lʉ́ wɔ́. Á gwɔ́ nò gie à la zɔɔn ntʉ́ njÿó ńgɔɔn ngie: Mèŋ, n ge gÿo néŋ mbʉ́lè yɔ̀ɔn ná pi e gwɔ́ kwà’ yɛ̌ gie n da pÿé mbwo fùɔ Ndavíd.
+44013035	Áa yɛ̌ tá mé la gíŋe ŋwe’e tsɛ̀ɛ tsɔ́ jʉ’e ŋwà’ne Ssé ngie: Ɔ̀ tè lá’ nyé nyìŋ gẅie ɔ̀ la tsɔ́’ɔ yé, à lʉ́ʉ tsɛ̀ɛ lesyè wɔ́
+44013038	Mefɛ́ mefɛ́, pi zsé ngie mé shwóŋó gẅi lyɛ̌’ɔɔn ngie e Ssé e lege menò tepòŋ pʉ̀a pá’ɔɔn ńzẅɛ́’ɛ Yěsô. Awɔ̌wɔ́ɔ gẅie à zǎb ntʉ́m wé ná Yěsô ŋwɛ́ wɔ́, e Ssé líe yé á gwɔ́ mvfò yé ńgwɔ́ ndʉŋ ndʉŋ. Yɔɔn piŋ ńgwɔ́ mmó gie *lepʉ̌ Mǒsê la tè ku’u légÿo wɔ́.
+44013039	
+44013041	Pi pàgwága wɔ̀ɔn, pi líe tá ńgyá. Anò ge kʉ’ʉ gẅi tà pi syeente! Pi ge zɔɔn nyé gwɔ́ pɔ́ ndùmo ssé tsetsá’, mèŋ n gÿo tsɔ̌ máa nò, tà ńgwɔ́ gie mé gwɔ́ pé’e shwóŋó gẅi shwóŋ, mbà à lɔɔn ńgwɔ́ pi le zẅíŋ.
+44015016	Ntyě ge gÿo sag, mèŋ n gíŋe ńtó. É gíŋe kwɛ́ ndá fùɔ Ndavíd gie e la gwe. Mèŋ n ge lá’ gíŋe pʉ’ʉ ndá ye gie mé la tágte tà è tyé tyé.
+44015017	Pʉ̀a pie é té pà Yuda wɔ́ pɔ́ gyá, éfa’a Cʉ̀apʉ̀a. Oon, mèŋ n gɔɔn túmo túm gie mèŋ n ge gÿo tóŋo wɔ́b ngie pɔ́ cʉ́’ pʉ̀a pɔ́ɔn. Cʉ̀apʉ̀a Ssé zɔ gɔɔn pú’u. À lɔgɔ pá’ɔɔn ńgÿo menò mie à la záb.
+44015018	É gwɔ́ menò mie aa ńzsé zsě.
+44028026	Gʉa ńgɔɔn mbwo lá’ yɛ ngie: Mé ge gÿo gɔɔn nò, pi jú’ mboŋó, é ké le zsé mmó gie mé gɔɔn wɔ́; é cwoŋo náŋte, é ké le gyá
+44028027	Oon, álá’ yɔɔn pú tè ne ńkwoŋo lé jú’u tsɔ́ mmó wɔ́. Pɔ́ kéen ńziŋe metuŋó mɔ́b, pɔ́ kéen ńtsɛ́ nÿɔ́g mɔ́b. Pɔ́ ka tè ne ńkwoŋo lélɔg nÿɔ́g mɔ́b ńgyá jʉ’ wɔ́, ńké tè ne ńkwoŋo lélɔg metuŋó mɔ́b ńjú’ wɔ́. Pɔ́ té kwoŋ ngie à kúu tsɛ̀ɛ ntʉ́m pɔ́b wɔ, ńké ńgÿote pɔ́ pú’u, ńzsé ngie pɔ́ té piŋe mbwo mèŋ Ssé, n zeŋe wɔ́b gwɔ́.
+45003004	Ngǎŋ, ńgwɔ́ á le pú’u gÿo. Tà mbɔɔ pá’ pʉ̀a mesoŋ metsèm pú ńgwɔ́ pɔ́ ngàŋa cÿɔ̌ nò, yé Ssé à tè gɔɔn nò ḿbiŋ ńkúbe wɔ́. Áa ndʉŋ ndʉŋ pá’ mé la ŋwe’e tsɛ̀ɛ ŋwà’ne Ssé ngie: Gù Ssé gwɔ̌ tà ńgɔɔn nò mé gẅiin lézsé ngie ashwóŋè jú àa ndʉŋ ndʉŋ, Ńgwɔ́ gie nyìŋ ŋaga gú á le gú jÿó.
+45003010	Á lɔgɔ ńcʉ́me ná pá’ mé la ŋwe’e tsɛ̀ɛ ŋwà’ne Ssé ngie. Atsɔ̌ nyìŋ mesoŋ gẅie aa ndʉŋ ndʉŋ à tè wó wɔ́. Tà tsǒon tà’.
+45003011	Atsɔ̌ nyìŋ gẅie à gẅiin legyè à tè wó wɔ́. Atsɔ̌ nyìŋ gẅie à kwa’ ne ńtsɔ́ɔn lézsé mánzsè Ssé à tè wó wɔ́.
+45003012	Pɔ́b metsèm léen ńgwá’a mánzsè Ssé. Pɔ́b metsèm léen ḿbú ńcʉŋte. Nyìŋ mesoŋ tè nò mbòŋo gÿo tà tsǒon tà’.
+45003013	Ncwò wɔ́b pú ńdem pá’ gyě lesyè sie mé fwɔ̌’. Pɔ́ lɔgɔ lʉ́me yɔ́b ḿbab pʉ̀a mesoŋ pab. Anò gie á kẅɛɛ nà mekùb ncwò mɔ́b gwɔ́ pɔ́ pá’ sesìŋ nnú.
+45003014	Ncwò wɔ́b zoon pʉ̀a zoon, ńnéŋ pɔ́ ndòon.
+45003015	Akwò yɔ́b zeŋe pɔ́ nà lénɔ̌ɔn pʉ̀a, ḿpfɛte metse mɔ́b.
+45003016	Pɔ́ cʉa nzɔ̌ wɔ́, ńcʉŋte shúm pɔ̀ ntsèm, mé cʉ́’ ńdʉa.
+45003017	Ńgwɔ́ pɔ́ lélɔg mbʉ́lè ńtóo jʉ’ wɔ́.
+45003018	Pɔ́ gÿo yɔ́b nò pɔ́ tè pɔ̌g Ssé.
+45009011	E Ssé la gɔɔn mbwo Rebéka ngie, mvfò múɔ ge gÿo fa’a mbwo nzèm. E Ssé la gwɔ́ gɔɔn pá’ɔɔn, má wɔ́b nyé pɔ́ shwòŋ pɔ́b, mbà à kaa zyé wɔ́b tà pɔ́ zsé nò mbòŋo kà ye tepòŋ wɔ́ wɔ́. E Ssé la gÿo pá’ɔɔn lélɔg ńnyɛ ngie à ńnéŋe ńgÿo pɔ́ mmó gie yé Ssé ne ńkwoŋo. À gwɔ́ gʉa nùɔ pʉ̀a é tsɔ́’ɔ nyìŋ we, à tè fó pɔ́ nà nò mbòŋo gie ngàŋ gÿǒ wɔ́.
+45009012	
+45009025	Á gwɔ́ kwà’ mmó gie à la gɔ́ɔn tsɛ̀ɛ ŋwà’ne Ozé ngie: Epʉ̀a pie é la tè pʉ̀a pɔ́ɔn mɔ́, Mèŋ n ge gÿo tóŋo wɔ́b lê pʉ̀a pɔ́ɔn. Epʉ̀a lá’ gie n dɔ̌ɔn tě ńnyɛɛ ngie n kwoŋo wɔ́b gwɔ́ Mèŋ n ge gÿo tóŋo wɔ́b lê pʉ̀a pie n kwoŋo wɔ́b tɛ’.
+45009026	A gwɔ́ pú’u, ajʉ’ gie pɔ́ lɔ́ɔn ńtyé wó mé gɔɔn né pɔ́b ngie pɔ́ té pʉ̀a pɔ́ɔn mɔ́, pɔ́ ge gÿo tyé jʉ’ó, mé gɔɔn né pɔ́b ngie: Pi ee púɔ Ssé gẅie aa ntentʉ́.
+45009033	Aa tóon gẅie mé la ŋwe’e nò mǒ tsɛ̀ɛ ŋwà’ne Ssé ngie: Ssé gɔ̌ɔn ngie: Mèŋ n ně ńnuŋe tà’ tóon á tÿǒsoŋo Sioŋ, Á gwɔ́ gẅie mé ge kwɔɔnte mǒ. Á máamáa tóon gẅie à ge gÿo mé gwe. Tá’ nyìŋ gẅie à ge záb ntʉ́m wé ná yé, eshʉ́ té ge lá’ kúu yé wɔ́.
+45010018	Á fó ńgwɔ́ tà ńgwɔ́ gie ńgwɔ́ mèŋ n zɛ́te ngie tà pà Yuda la zɔɔn ńkwa’ ńjú’ wɔɔn nkʉ̀ wɔ́? N gyǎ ngie pɔ́ la jú’ jǔ’. Á gwɔ́ pá’ mé la ŋwe’e tsɛ̀ɛ ŋwà’ne Ssé ngie: Mé jǔ’ ngyè yɔb, pɔ́ ne shwóŋó nò Ssé á jʉ’ ntsèm ndùmo ssé tsetsá’. Anò gie pɔ́ gɔ̌ɔn gǐŋ giŋ tà ńkúu nzsòte tsetsá’.
+45010019	Pú’u n gíŋe ńzɛ́te ngie: Pà Yuda ée pá’ɔɔn, mbà pɔ́ la jú’u yɔɔn nò pɔ́ té liŋ keen? Pɔ́ la liŋ tá ńdʉ’ lʉ’. Á gwɔ́ pá’ Mǒsê la ŋwe’e ngie e Ssé gɔ̌ɔn né pà Yuda ngie: Mèŋ n ge gÿo gÿo lóŋ gẅi kwɔ́’ Ńtí pʉ̀a lá’ pie mèŋ n tè lɔgɔ wɔ́b ńtóŋo tsɔ́ mmó wɔ́ Mèŋ n ge lá’ gÿo nò gyáŋa gẅí Ńtí pà túm pie pi gɔɔn ngie legyè sɔ́b té wó wɔ́
+45011008	Á lɔgɔ ńcʉ́me ná nò gie mé la ŋwe’e tsɛ̀ɛ ŋwà’ne Ssé ngie: E Ssé kéen ńjÿɔ́’ legyè sɔ́b Ńtsɛ́ nÿɔ́g mɔ́b, ńtɔ’ɔ wɔ́b légyá jʉ’ Ńziŋe metuŋó mɔ́b, ńtɔ’ɔ wɔ́b lé jú’u nò Tà ńkú lyɛ̌’ɔɔn.
+45011009	Fùɔ Ndavíd la gíŋe ńgɔɔn yé ngie: Á poŋ ngie shúm sie pɔ́ pfɛ́ɛ é sele ńcʉ́’ lejÿɔ’, Ńcʉ́’ lekÿo sie é ge gwoon wɔ́b. Á poŋ ngie Ssé néŋ ngʉ̀ngʉ̀ twó pɔ́b.
+45011010	Á poŋ ngie e Ssé tsɛ́ nÿɔ́g mɔ́b tà pɔ́ le gíŋe jʉ’ ńgyá wɔ́, Ńgÿó pɔ́ gyá ngɔ́’ tà nkà’ wɔ́b cʉ́’ ńŋwé’e ŋwé’e fʉ̀’ ntsèm.
+45011026	À leen ńké ńgwɔ́ fʉ̀’ó e Ssé gÿo pà Israel metsèm pú ńtsẅɛ́. À lɔg ńcʉ́me ná pá’ mé la ŋwe’e tsɛ̀ɛ ŋwà’ne Ssé ngie: A *Nzà’nkÿo ge lá’ fó tÿǒsoŋo Sioŋ. E sele ngẅɛ̀ Yakwɔ́b pɔ́ le gíŋe ńtʉʉ twó mbwo Ssé wɔ́.
+45011027	Yɔɔn aa kʉa gie pega pɔ̌ ge lá’ gwa, á fʉ̀’ gie n ge lá’ kẅile menò tepòŋ mɔ́b.
+45011034	Á lɔgɔ ńtsẅé’e ná pá’ ŋwà’ne Ssé gɔɔn ngie: Awɔ́ ku’u lézsé mmó gie Cʉ̀apʉ̀a ne ńkwaŋte, Awɔ́ lɔɔn ńgwɔ́ á náa yé ntÿɔgɔ́,
+45011035	Awɔ́ lǎ vɔg ńnáa mmó mbwo Ssé Légwɔ́ gie e Ssé ge gẅiin létsɔ́’ ńnáa mbwo yé.
+45011036	Kɔ̀ɔkɔ́ɔ zɔɔn fóo pɔ́ mbwo ye. Kɔ̀ɔkɔ́ɔ gwaa gwɔ́ wó yé zɔ̌ gÿo tá á gwɔ́ wó, á piŋ ńgwɔ́ pɔ́ yé. Mé gu’te yé, é mengù’u mengù’. *Amen.
+46006009	Pi tè ne ńzsé ngie pʉ̀a pie pɔ́ gẅiin mà tepòŋ pɔ́ téen ńdá’a ńgẅiin yɔ́b jʉ’ tsɛ̀ɛ nò *lefùɔ Ssé wɔ́ ka? N gɔɔn pʉ̀a pá’ pie pɔ́ pumte wɔ̌wɔ́ɔ pâ pɔ̌ nuŋe nuŋe, mbɔɔ pʉ̀a pie é gu’te shúm ngie ee messé, mbɔɔ mbàŋa lâ pànzwě pie pɔ́ gÿo gÿɛ́, mbɔɔ pàgÿo menò sẅile sẅile, mbɔɔ mbàŋa gie é sele ńgÿo nò mámbàŋa pɔ́ manzwě tsetsɛ̀ɛ pɔ́b kà pànzwě wɔ́, mbɔɔ metsǒŋ, là pàkwoŋ nkáb tɛ’, lâ mepʉ̀a melù’, lâ pàshwóŋó tepòŋ nà mezíŋ pʉ̀a, lâ pàgwoon ńkẅé, ndyɛ̌’ pi fʉte mbùm gi nà mɔɔn menò ka, pɛ̌ pʉ̀a pɔ́ téen ńdá’a ńkúu nà nò *lefùɔ Ssé wɔ́.
+46006010	
+45014021	Áa tsɛ̀ɛ ŋwà’ne Ssé, Cʉ̀apʉ̀a gɔɔn ngie: Mèŋ n ge gÿo cʉ́’ʉ légɔɔn nò mbwo pʉ̀a Israel É lɔg pʉ̀a méndyɛ̀’ɛ Pie pɔ́ shwóŋó meshwóŋè ndyɛ̀’ɛ. Tà mbɔɔ pú’u, pɔ́ le kwoŋo lé jú’u nò gie mèŋ n gɔɔn wɔ́.
+46014022	Á lɔg pú’u, ńgwɔ́ ngie, e Ssé cʉa nà leshwoŋó meshwóŋè mie mé la tè zí’i, ńda’te tsɔ́ liŋé pɔ́ mbwo pʉ̀a pie é té záb ntʉ́m ná ye wɔ́, à ké tè la’te pú’u, mbwo pʉ̀a pie é záb ntʉ́m ná ye wɔ́. Letsẅi nkʉ̀ gẅie é fóo mbwo Ssé, à la’te tsɔ́ mmó pɔ́ mbwo pʉ̀a pie pɔ́ záb ntʉ́m nà Ssé, á ké tè mbwo pʉ̀a pie pɔ́ té záb ntʉ́m nà Ssé wɔ́ wɔ́.
+47006002	E Ssé la zɔɔn ńgɔɔn ngie: Afʉ̀’e lékẅéte gú la gwɔ́ tà ńku’, n jú’ ngyè jù, alyɛ’ɛ́ légÿo pʉ̀a mesoŋ tsẅɛ́ la ku’, n tó ńkẅéte gú. Pi zsé ngie yɔɔn ké ńgwɔ́ fʉ̀’ɔɔn pá’ɔɔn ńgwɔ́ fʉ̀’ʉ mbòŋo, yɔɔn áa lyɛ̌’ gie ńgwɔ́ nyìŋ tsẅɛ́.
+47006016	Ńgwɔ́ mé lɔgɔ jʉ’e Ssé pɔ́ shúm sie mé gu’te ngie ee messé ńdɔg ńtóŋo tà’a mmó lêkɔ́? Pege pɔɔn zɔ zɔɔn ńgwɔ́ jʉ’e Ssé gẅie aa ńgwɔ́ pɔ́ wó, pá’ kwà’ yé la gɔɔn ngie: Mèŋ n ge gÿo cʉ́’ʉ ńnéŋe pɔ́ tsetsɛ̀ɛ pɔ́b, é ne giŋe tsetsɛ̀ɛ pɔ́b. Mèŋ n ge gÿo gwɔ́ Ssé yɔ́b, pɔ́ gwɔ́ pʉ̀a pɔ́ɔn.
+47006017	Áa mmó gie á gÿo yé Cʉ̀apʉ̀a gɔɔn ngie: Pi fó tsetsɛ̀ɛ pɔ́b ńkẅɛ, éfag gi nnɛ́, Tà pi kíbe mmó gie *lɔ̌’ áa mǒ, Mèŋ n deen ńké ńkúe gẅí.
+47006018	Mèŋ n ge gÿo gwɔ́ mbwo pi é gwɔ́ tá gẅi, Pi gwɔ́ mbwo mèŋ, ńgwɔ́ púɔ pɔ́ɔn pe mbàŋa mbɔɔ pe pànzwě, Cʉ̀apʉ̀a, ngàŋa tʉ̀ ntsèm zɔ gɔɔn.
+47012003	Mèŋ n ne ńzsé ngie mé la kaa ngàŋ ńdɔg ńkwɔ́’ tà ńkúu jʉ’ gie e Ssé ee wó, à tóo wó ńjú’u nò á gwɔ́ gie à lɔɔn ńgwɔ́ nyìŋ mesoŋ á le fʉ̀’ʉ légɔɔn wɔ́, nyìŋ mesoŋ piŋ ńzɔɔn tè gẅiin légɔɔn wɔ́. Kà á laa pú’u, kwà’ ngàŋ zɔ̌ gʉa wó wɔ́, ka à la lyé pɔ́ njÿòon wɔ́, mbà mèŋ n kaa zsé. E Ssé zɔ ne ńzsé,
+47012004	
+49005014	Á zɔɔn tè gwɔ́ pɔ́ ndà’ pú’u wɔ́, ammó vɔg tà ńkẅɛɛ jʉ’e fɔ̌g, ńkúbe, ńcʉ́’ ńkyɛ’ pɔ́ jʉ’. Áa yɛ̌ tá mé gɔɔn ngie: Gù gẅie ɔ̀ ne ńdyé, zyeen, Fó tsetsɛ̀ɛ mepfó ńdu ssé, Pú’u, Kristo ńnéŋe kyɛ̀’ yé ná gù.
+49005015	Pú’u la pi gwaa gÿo kɔ̀ɔkɔ́ɔ gí wɔ́, ńdaga twó gí mboŋó. Pi pɔ́ɔn léńnéŋe we megʉ̀gʉ̀, pi ńnéŋe pá’ megàŋa zsě nò
+49005016	pie pɔ́ zsé lézẅɛ́’ melyɛ’ɛ́ lá’ mie Ssé náa mbwo pɔ́b, éfa’ mefà’ mbòŋo, á nue afʉ̀’e njÿó yɔɔn té poŋ.
+49005017	Pú’u, tà pi gwɔ́ megʉ̀gʉ̀. Pi ta’ menò lézsé mie é poŋo mvfò Cʉ̀apʉ̀a.
+50002006	À la tè lɔg pá’ à gwɔ́ pɔ́ Ssé tà ḿmag, ńcʉŋe nà légwɔ́ gie pɔ́ Ssé ge ké ńnéŋe pɔ́ tà’a jʉ’ wɔ́.
+50002007	Tà ńcʉ́’ pú’u, mbà à la zẅíŋe légwɔ́ ngàŋa fà’, ńnyé kɔ̀ɔkɔ́ɔ gie á laa yé, ńcʉ́’ʉ nyìŋ mesoŋ. Mé zyé yé pá’ mé zyé pʉ̀a mesoŋ.
+50002008	À la zẅíŋe lésẅí’i mbùm yé ńnáa ssé, ḿbiŋ ńzẅíŋe lé jú’ ncwò Ssé, tà mé kíme yé nà tÿǒ nkǐ, á kwé.
+50002009	Áa mmó gie á la gÿo tá e Ssé ńnéŋe yé jʉ’e lÿò, ńná lezíŋ sie é cʉa mezíŋ ntsèm né yé,
+50002010	légwɔ́ gie nyìŋ lɔɔn ńjú’ lezíŋ ŋwɛ́, kà ńgwɔ́ nyìŋ gẅie à gwɔ́ pɔ́ tÿǒ lepwó wɔ́, kà ndùmo tsetsá’ wɔ́, kà nzèm ssé tsetsá’ wɔ́, á ná mekù’ cʉa mefùɔ né yé.
+50002011	Á piŋ ne ńzɛ́te ngie mbàa wɔ̌wɔ́ɔ sá’ ngie Yěsô Kristo aa Cʉ̀apʉ̀a. Mé ge gɔ́ɔn pú’u, é lɔg ná mekù’ á mbwo Ssé Tá.
+55002011	Menò mie mèŋ n gee ngɔ̌ɔn lɔɔn ée jʉ’ó ńgwɔ́ pú’u. Á lɔɔn ńgwɔ́ gie pege lâ Kristo la púte ńkwé, mbà pege lâ pɔ̌ ge gÿo púte gwɔ́ wó.
+55002012	Pege lɔɔn ńké ńne shÿɔgɔ tsɛ̀ɛ ngɔ́’ shÿɔg, mbà pege lâ pɔ̌ ge gÿo púte sá’a lá’ Tá pege ké ńgwá’a yé, mbà à ge gÿo gwá’a wégè yé.
+55002013	Á lɔɔn ńgwɔ́ gie pege neŋé ḿmoŋo yé, mbà à ké tè wégè moŋe Á nue à lɔɔn ńgwɔ́ á le gÿo mmó té gwɔ́ gie áa nà we mà wɔ́
+58001005	E Ssé laa zɔɔn ńgɔɔn mbwo tsɔ̌ cÿɔ́’ we ngie: Ɔ̀ɔ míŋ wɔ̀ɔn tà fó lyɛ̌’ɔɔn n gwɔ́ tá gù wɔ́. À ké laa zɔɔn ńgɔɔn mbɔɔ ná tsɔ̌ ngie: Mèŋ n ge gÿo gwɔ́ mbwo yé é gwɔ́ tá we à gwɔ́ mbwo mèŋ ńgwɔ́ míŋ wɔ̀ɔn mɔ́.
+58001006	Tá á la ké ńgʉa fʉ̀’ gie e Ssé lɔ̌ɔn ńge gÿo Míŋ we gẅie yé zɔɔ twó mvfò nà kɔ̀ɔkɔ́ɔ à tóo tsɛ̀ɛ njÿó, yé Ssé gɔɔn ngie: Á poŋ ngie mecÿɔ́’ pé, yé Ssé, métsèm gu’te yé,
+58001007	ńgʉa nà mecÿɔ́’ pé ńgɔɔn ngie: À gÿo mecÿɔ́’ pé gwɔ́ pɔ́ pá’ fefà la ńgíŋe ńgÿo megàŋa fà’ pé ŋwɛ́ gwɔ́ pɔ́ pá’ melʉ́me mmɔ̌g la.
+58001008	Tá ńké ńgʉa ná míŋ we, á gɔɔn ngie: Gù Ssé, à lʉŋe lefùɔ jú áa lá’a gwɔ́ pɔ́ wó. MÀbɔ́ɔnte ngie: Ntí gie ɔ̀ ne ńdɔgɔ sá’a lá’ jú ee ndʉŋ ndʉŋ.
+58001009	Ɔ̀ kwoŋo nò gie á tyé ndʉŋ ndʉŋ, ḿbʉa gie á té tyé. Áa mmó gie á gÿo me Ssé, mèŋ Ssé jù la zɔ́’ɔ gú ńdɔgɔ gú ńgÿo mmó, mbùm jù poŋo mǒ tɛ’ Mèŋ n da cÿó gʉme jú ńcʉa ye *ngàŋa kwò jú.
+58001010	Ńgíŋe ńgɔɔn ngie: Aa gù Cʉ̀apʉ̀a gẅie ɔ̀ laa nzyeté, ńnyɛte tsetsá’. Lepwó gíŋe ńgwɔ́ pɔ́ mefà’ mú.
+58001011	Sɛ̌ shúm ge gÿo mag, tá ńgʉa ná gù, ɔ̀ gwɔ́ pɔ́ wó. Sɛ̌ shúm ge gÿo zẅìŋ pá’ nzsǒ la
+58001012	Ɔ̀ ge gÿo káte wɔ́b pá’ mé káte nzsǒ fÿɔ́g la Mé ge gÿo kúbe wɔ́b pá’ mé kúbe nzsǒ la Tá ńgʉa ná gù, mbà ɔ̀ ge lá’a gwɔ́ pɔ́ pá’ ɔ̀ gwɔ̌, agù le gwɔ́ wó à tě ńdá’a ḿmaga wɔ́
+58001013	E Ssé laa zɔɔn ńgɔɔn nê tsɔ̌ cÿɔ́’ we ngie: Tóo ńnéŋe nà gwoŋó pwó yɔ́ɔn ye tʉ̀ ńzẅí’te mèŋ n dɔg megàŋ mbù pú, ńgÿo ntÿɔgɔ́ mekwò mú wɔ́?
+58001014	Anò *mecÿɔ́’ Ssé zɔɔn pá’a ńgwɔ́ kɔ́? Pɔ́ gwɔ́ pɔ́ mezẅìge mie é fa’a mbwo Ssé, á ne ńtúmo wɔ́b ngie pɔ́ gʉa fa’a fà’ gie á ge kẅéte pʉ̀a pie yé Ssé ge tâ gÿo pɔ́ tsẅɛ́.
+58002006	Tsɔ̌ nyìŋ la zɔɔn ńŋwe’e mmó ná yɔɔn nò á tsɛ̀ɛ tsɔ́ jʉ’ʉ ŋwà’ne Ssé ngie: E Ssé, nyìŋ mesoŋ aa pá’ɔɔn ńgwɔ́ kɔ́ tà ɔ̀ ńnéŋe ńkwaŋte yé? Múɔ gẅie nyìŋ mesoŋ zyě á gwɔ́ kɔ́ tà ɔ̀ ńnéŋe ńtÿɔ́’te yé?
+58002007	Ɔ̀ la gʉa ná pá’ *mecÿɔ́’ Ssé gwɔ́, ésẅé’e yé ńnáa ssé pɔ́ méjʉ’ ńcÿó gʉm yé, ńtɔ’ɔ cÿɔ́’ɔ lefùɔ twó yé, á gie á gÿo á gẅiin legú’.
+58002008	Ɔ̀ la lɔgɔ yé ńgÿo nyìŋ gẅie à sá’a shúm ntsèm sie ɔ̀ la nyɛte, ńgÿo ngie kɔ̀ɔkɔ́ɔ à jú’ ncwò wé. E Ssé la gwaa ye à kɔ̀ɔkɔ́ɔ jú’ ncwò nyìŋ mesoŋ pá’ɔɔn à těen ńgɔɔn ńtsẅe tsɔ́ gie á ge nyé té jú’ ncwò wé wɔ́. Á ké ńgwɔ́ fʉ̀’ɔɔn pá’ɔɔn, pege tè ne ńgyá ngie shúm ntsèm ne ńjú’u ncwò nyìŋ mesoŋ ŋwɛ́ wɔ́.
+58002012	À la zɔɔn ńgɔɔn mbwo Ssé ngie: Mèŋ n ge gÿo shwóŋ mefɛ́ pɔ́ɔn nyìŋ gẅie ɔ́ɔ wɛ̌. Mèŋ n ge gÿo tyé tsɛ̀ɛ cú’tè é gu’te gú.
+58002013	Ńgíŋe ńgɔɔn ngie: Mèŋ n ge záb ntʉ́m wɔ̀ɔn nà Ssé. ńgíŋe ńgɔɔn ngie: Wɔ́ɔn wɔɔn, mbà pega gubé gie e Ssé la náa wɔ́b né mèŋ tǒ.
+58003007	Áa mmó gie á gÿo a Zẅìge Ndʉalʉ̌a gɔɔn ngie: Pi lɔɔn ńjú’ ngyè Ssé lyɛ̌’ɔɔn
+58003008	Tà pi ziŋe metuŋó mí pá’ pà mangʉa njʉ’ pi la ziŋe nà lyɛ̌’ gie pɔ́ la ne ńtʉʉ twó mbwo yé Á lyɛ̌’ gie pɔ́ la tsóte yé nkwòŋo tsẅɛ̀ ngie à gÿo mmó né pɔ́b
+58003009	E Ssé gɔɔn ngie: Pà mangʉa njʉ’ pi la tsóte wɔ̀ɔn nkwòŋo tsẅɛ̀, ńgie mèŋ n gÿo mmó né pɔ́b ńdɔgɔ fa’a légyá pá’ mèŋ n ge gÿo, ńtsóte wɔ̀ɔn pá’ɔɔn tà mbɔɔ pá’ pɔ́ gyǎ mmǒ gie mèŋ n gÿǒ gyá ngù’u lá’ móm lekùa.
+58003010	Áa mmó gie á la gÿo anò yɛ̌ kwò pʉ̀a mesoŋ pÿɔ́gɔ wɔ̀ɔn. Tà mèŋ n gɔɔn ngie: Pɔ́ ée fʉ̀’ ntsèm ntʉ́m wɔ́b fó ná mèŋ ńzyɛ́bɛ zyɛ́bɛ. Pɔ́ la lá’ tè lɔgɔ tsɔ̌ tà’ ná menò mie n da ne ńtsẅii mbwo pɔ́b, ńtóŋo tsɔ́ nò wɔ́.
+58003011	Áa mmó gie á la gÿo n dɔgɔ lóŋ ńkʉa ngie: Pɔ́ téen ńdá’a ńkúu tsɛ̀ɛ sẅétè gie n da ka’a mbwo pɔ́b wɔ́.
+58005005	Á la gʉa ná Kristo ńgíŋe ńgwɔ́ pɔ́ pú’u. Yé zɔ la tè ńnéŋe tà ńgɔɔn ngie à gẅiin legú’ we *nùŋe pwɔ́’ we lÿò wɔ́. À la gwaa cʉ́’ʉ wɛ̌ á fó pɔ́ ne Ssé gwie à la gɔɔn né ye ngie: «Ɔ̀ɔ Míŋ wɔ̀ɔn, tà fó lyɛ̌’ɔɔn n gwɔ́ tá gù».
+58005006	Á gíŋe ńgwɔ́ pɔ́ ndʉŋ ndʉŋ pá’ à la gíŋe ńgɔɔn tsɔ́ jʉ’ ngie: «Ɔ̀ɔ nùŋe pwɔ́’, tà ké lá’a gwɔ́ pɔ́ wɛ̌, á nà ntí gie Melekisedeg la gwɔ́ yé».
+58006004	Mé gẅiin lényé nue pʉ̀a pie e Ssé gÿo, pɔ́ gyá jʉ’ʉ fɔ̌g, ńgÿo ńtém nzèm Ssé, á tʉ pá’ à lɔɔn ńgwɔ́ nyìŋ shwóŋó wɔ́b nò tà pɔ́ gíŋe ḿbiŋe mbwo Ssé. Mé gɔɔn pʉ̀a pá’ pie pɔ́ la zẅí’i mmó gie e Ssé fǒ tÿǒ lepwó ńná pɔ́ sẅɛ̀ɛ sẅɛ̀ɛ. E Ssé náa Zẅìge Ndʉalʉ̌a né pɔ́b, pɔ́ zẅí’i shwóŋè Ssé tà ńjú’ pá’ á poŋ pú’u, ńgíŋ ńzsé mbɔɔ pá’ metʉ̀ mie é ge lá’ tá tó ée pú’u. Pɔ́ lɔɔn ńkÿo Ssé, mbà á tʉ pá’ à lɔɔn ńgwɔ́ mé gÿo tà pɔ́ gíŋe ḿbiŋe mbwo Ssé, mélà’mie pɔ́ lɔgɔ légÿo pú’u, ńgíŋe ńkíme Míŋ Ssé nà tÿǒ nkǐ, ńtsɔ́’ɔ yé ńtÿɔ́g mé zoonte yé.
+58006005	
+58006006	
+58008008	Mé la gẅiin lékúbe, á nue e Ssé la kag pʉ̀a pé ńgɔɔn ngie: Á ké yɔɔn, atsɔ́ fʉ̀’ ne ńtóo, mèŋ Cʉ̀apʉ̀a zɔ gɔɔn ńgwɔ́ fʉ̀’ gie mèŋ n ge gÿo gwa *kʉ̀a sẅé á tsetsɛ̀ɛ pega pʉ̀a Israel lâ pʉ̀a Jẅida.
+58008009	Á té ge gÿo gwɔ́ pá’ *kʉ̀a gie n da gwaa tsetsɛ̀ɛ pega pà mangʉa njʉ’ pɔ́b, á nà lyɛ̌’ gie n da kíbe pwó yɔ́b, ńgÿo pɔ́ fó tsɛ̀ɛ ngwòŋ Egipto ńkẅɛ wɔ́. Pɔ́ la tè zsé pɔ́ ndà’ *lepʉ̌ *kʉ̀a gie n da gwaa tsetsɛ̀ɛ pega pɔ̌ wɔ́. Mèŋ yɔ́ɔn, n da tè gíŋe sáŋa wɔ́b nà tsɔ́ nò wɔ́, mèŋ Cʉ̀apʉ̀a zɔ gɔɔn.
+58008010	Tá *akʉ̀a gie mèŋ n ge gwaa tsetsɛ̀ɛ pega pʉ̀a Israel á yɔɔn. Yɛ̌ fʉ̀’ ge gÿo gwɔ́ tà tɔ́g, mèŋ Cʉ̀apʉ̀a zɔ gɔɔn Mèŋ n gÿo legyè sɔ́b ńnéŋe ńtyé pɔ́ nà mbʉ̌ mɔ́ɔn mbɔɔ ntʉ́m wɔ́b tyé pɔ́ mǒ Mèŋ n gwɔ́ Ssé yɔb pɔ́ gwɔ́ pʉ̀a pɔ́ɔn
+58008011	À gwɔ́ fʉ̀’ó, atsɔ̌ nyìŋ le gíŋe ńzí’i nyìŋ lá’ gwɔb mmó zí’i wɔ́ nyìŋ ké le gíŋe ńzí’i fɛ́ we zí’i ngie: Zsé jú nò Cʉ̀apʉ̀a wɔ́. Á nue mânyìŋ ntsèm ge lá’ gwɔ́ fʉ̀’ó ne zsé wɔ̀ɔn. Á léfóo ná mûɔ mémúɔ gẅie aa tsetsɛ̀ɛ pɔ́b, ńgʉa ńkúu ná nzẅìŋe ndÿò.
+58008012	Mèŋ n zɔɔn ńge gÿo lege mefʉa mɔ́b náa mbwo pɔ́b. N te gÿo gíŋe kímte menò tepòŋ mɔ́b wɔ́.
+58010005	Áa mmó gie á la gÿo Kristo gwaa tóo tsɛ̀ɛ njÿó, ńgɔɔn mbwo Ssé ngie: Ɔ̀ la tè shúm pwɔ́’ kwoŋ, ńké tè menɔ̀ɔn pie mé zẅé ńdɔgɔ ńgu’te gú kwoŋ. Tá ńké ńná mbùm nnɛ́ né mèŋ
+58010006	Ɔ̀ tè kwoŋ pwɔ́’ gẅie mé pǔ ńtuɔ nɔ̀ɔn pɔ́ ntsèm wɔ́, ńké tè kwoŋ pwɔ́’ gẅie mé nuŋe mvfò gù ńtí nò tepòŋ wɔ́.
+58010007	Á cʉa pú’u, mèŋ n gɔɔn ngie: Wɔ́ɔn wɔɔn, mbà Ssé, n ne ńtóo légÿo mmó gie ɔ̀ ne ńkwoŋo. Á gwɔ́ ndʉŋ ndʉŋ mmó gie mé la ŋwe’e tsɛ̀ɛ lepu’ú ŋwà’ne jú ńtí wɔ̀ɔn.
+58010016	Cʉ̀apʉ̀a gɔ̌ɔn ngie: Mɛ̌ melyɛ’ɛ́ lá’ ge lá’ gwɔ́ tà tɔ́g, À lii *kʉ̀a gie n ge lá’ gwaa tsetsɛ̀ɛ pega pɔ́, à yɔɔn, Mèŋ n ge lá’ gÿo letʉ́m sɔ́b tyé pɔ́ ná mbʉ̌ mɔ́ɔn. Mbɔɔ nkwaŋá wɔ́b tyé pɔ́ nà mbʉ̌ mɔ́ɔn
+58010017	Ńgíŋ ḿbɔ́ɔnte ńgɔɔn ngie: «Á gʉa nà menò tepòŋ mɔ́b mbɔɔ nà menò mɔ́b mie é té tyé, n de lá’ ńgíŋ ńkímte wɔ́».
+58010018	Á ké ńzɔɔn ńgʉa nà fʉ̀’ gie, e Ssé vɔ̌g tà ńdege mefʉ̀a nyìŋ ńnáa mbwo ye, agàŋ tè gíŋe ńtóo mvfò Ssé ńnáa tsɔ́ mmó ńtí menò tepòŋ wɔ́.
+58010037	Á zɔɔn ńgwɔ́ tsɛ̀ɛ ŋwà’ne Ssé, mbà mé la ŋwe’e ngie: Á cʉ́’ʉ méjʉ’, á kwà’ mûɔ méjʉ’ nyìŋ gẅie à ne ńtóo, à tó. À tè láte wɔ́.
+58010038	Awɔ̀ɔn nyìŋ gẅie n gyǎ ngie aa ndʉŋ ndʉŋ mvfò mèŋ, ge gwɔ gwɔ́ wó, éfó ná pá’ à zǎb ntʉ́m ná mèŋ. Tá ńké ńgwɔ́ gie à lɔɔn ḿbiŋ nzèm, anò yé le gíŋe ḿboŋo wɔ̀ɔn mɔ́.
+58012005	Tsye pi legé pá’ e Ssé ne ńkẅiŋte gẅi pɔ́ pá’ nyìŋ kẅiŋte gubé yé ka? Áa tsɛ̀ɛ ŋwà’ne Ssé mé gɔɔn ngie: Míŋ wɔ̀ɔn Cʉ̀apʉ̀a lɔɔn ne ńkaga gú, Ɔ̀ pɔ́ɔn légwága nò mǒ, À lɔɔn ńcÿɔ́gɔ gú ɔ̀ pɔ́ɔn létsyɛte nnɛ́
+58012006	Á nue Cʉ̀apʉ̀a kag pɔ́ nyìŋ gẅie yé Cʉ̀apʉ̀a ne ńkwoŋo yé Á lɔgɔ tsemé mmó ńcúa wɔ̌wɔ́ɔ gwie yé Ssé zsě ngie aa míŋ we.
+60001024	Mé la ŋwe’e tsɛ̀ɛ ŋwà’ne Ssé ngie: Nyìŋ mesoŋ ntsèm gwɔ́ pɔ́ pá’ legǐ We legú’ ntsèm gwɔ́ pɔ́ pá’ tootǒ legǐ gẅie aa nká’. Legǐ jǔm, à tootǒ tsɔ́’ɔ ńgwe ssé.
+60001025	Tá’, ashwóŋè Cʉ̀apʉ̀a á ge lá’a tyé pɔ́ pú’u, é mengù’u mengù’. Yɛ̌ shwóŋè áa gie pi ka jú’u tsɛ̀ɛ nkʉ̀ mbòŋo gẅie mé ka tsẅii mbwo pi.
+60002006	Mé la ŋwe’e tsɛ̀ɛ ŋwà’ne Ssé ngie: Pi gyá, mèŋ n kǎ tóon lezẅé ndá, ńnuŋe tÿǒsoŋ Sioŋ, á gwɔ́ tóon ńgẅiin shÿó ḿbiŋ ńgwɔ́ tʉ̀ nzẅìŋ ńgwɔ́ gẅie nyìŋ lɔɔn ńzáb ntʉ́m ná yé, eshʉ́ le lá’ ńkúu ngàŋ wɔ́.
+60002007	Àa mbwo pi pàzáb ntʉ́m ná yé, ńgwɔ́ mmó mekù’. Tá ńgʉa ná pʉ̀a pie pɔ́ té ne ńzába ntʉ́m nà wɛ̌ tóon wɔ́, mbà mé la ŋwe’e ngie: Tóon gẅie pàpwóon ndá la gwá’ léen ńcʉ́’ʉ tóon lezẅé ndá.
+60002008	Ńgíŋe ńgwɔ́ tóon gẅie à ge gÿo mé gwe ssé, á máa tóon gẅie mé ge kwɔɔnte mǒ. Pɔ́ kwɔɔnte mǒ, mélà’mie pɔ́ lʉ’ʉ lé jú’u shwóŋè Ssé. Á ké ńgwɔ́ pɔ́ pá’ Ssé la záb ngie á ge lá’ gwɔ́ pɔ́ pú’u, ná pɔ́b.
+60003010	Mé la zɔɔn ńŋwe’e tsɛ̀ɛ ŋwà’ne Ssé ngie: Nyìŋ lɔɔn ńne ńkwoŋo léńnéŋe mboŋó, ḿbiŋ ńgẅiin melyɛ̌’ lá’ mbòŋo, á poŋ ngie ngàŋ sele lʉ́m yé tá ńgɔɔn nò, ḿbɔ́gɔ nò tepòŋ, ḿbɔ́ɔn ncwò we, ḿbɔ́g cÿɔ̌ nò.
+60003011	Á poŋ ngie à lÿɔ́’ɔ nò tepòŋ, ńgÿo pɔ́ nò mbòŋo, é fa’ mbʉ́lè, ńzsete nzèm yé.
+60003012	Á nue menÿɔ́g Cʉ̀apʉ̀a tyé nà pʉ̀a pie pɔ́ gÿo mmó gie áa ndʉŋ ndʉŋ mvfò yé. Metuŋó mé ne ńzẅí’te pá’ pɔ́ sẅíŋte yé. Tá’ Cʉ̀apʉ̀a kě ńtém pɔ́ nzèm pʉ̀a pie pɔ́ gÿo nò tepòŋ.
+66004008	Mbɔɔ wɛ̌ wɔ́ nà menɔ̀ɔn ŋwɛ́ lekùa la gẅiin mbabá mé ntɔgɔ́, menÿɔ́g gwɔ́ mǒ jʉ’ ntsèm, á nzème pǐ mbɔɔ nzème tsoló. Pɔ́ ne ńzɔbɔ té kʉ́a á fʉ̀’ʉ zsó mbɔɔ tsẅɛ́’, ńgɔɔn ngie: Ndʉalʉ̌a, Ndʉalʉ̌a, Ndʉalʉ̌a, aa Cʉ̀apʉ̀a Ssé Ngàŋa tʉ̀ ntsèm, á gẅie à laa wó, aa wó, à piŋ ńne ńtóo.
+66004011	Ɔ̀ɔ nyìŋ gẅie ɔ̀ ku’ me Cʉ̀apʉ̀a weg, ńgwɔ́ Ssé yeg, ɔ̀ ku’ pá’ à lɔɔn ńgwɔ́ mé náa legú’ mbwo gù, ńná mekù’ mbwo gù, pá’ à lɔɔn ńgwɔ́ gù zɔ̌ gẅiin metʉ̀. Á nue ɔ̀ la gÿo kɔ̀ɔkɔ́ɔ á gwɔ́ wó, gù zɔ la kwoŋ tá sɛ̌ shúm kẅɛɛ tsɛ̀ɛ njÿó, gù zɔ piŋ ńne ńkwoŋo tá é gwɔ́ wó.
+66005009	Melÿò pá, pâ menɔ̀ɔn pá ne ńzɔbɔ zɔ́bɔ ntsè ye sẅé ńgɔɔn tsoló ngie: Ɔ̀ ku’u nyìŋ gẅie ńgwɔ́ ɔ̀ kẅé ŋwà’ne, ńku’u nyìŋ gẅie ńgwɔ́ ɔ̀ nyɛ́’te lìi nŋwá’ gie mé la lɔg ńdyɛte. Mé la zẅé gú ńdɔg ńnuŋe pwɔ́’ Ɔ̀ la pfɛte metse mú ńdɔg ńcu’ pʉ̀a, ńcu’ tà mbɔɔ pʉ̀a pie ée ná yɛ̌ ngẅɛ̀ ndá wɔ́, tà mbɔɔ pʉ̀a pie é shwóŋó yɛ̌ shwóŋè wɔ́, tà mbɔɔ yɛ̌ ntí wɔ́, tà mbɔɔ pe wɛ̌ ngwòŋ wɔ́, ńcu’u wɔ́b pú’u, pɔ́ piŋe mbwo Ssé.
+66005010	Ɔ̀ la lɔgɔ wɔ́b ńgÿo pʉ̀a pie ée tsɛ̀ɛ nò *lefùɔ Ssé, ńgíŋe ńdɔgɔ wɔ́b ńgÿo pànuŋe pwɔ́’ pá’ pɔ́ ge fa’a mbwo Ssé yege. Mbɔɔ pá’ pɔ́ ge gÿo sá’ pʉ̀a ndùmo ssé tsetsá’.
+66005012	ńne ńzɔbɔ ńgɔɔn ngie; Mûɔ *Njʉ̀njÿò gẅie mé la zẅé yé la, à ku’u nyìŋ gẅie à lɔɔn ńgwɔ́ mé ná metʉ̀ né yé, ńná shúm né yé, ńnáa zse nò né ye, ńná ngʉ̀’ né yé, ńná mekù’ né yé, ńnáa legú’ né yé, ńzɔb lezíŋ sé.
+66005013	Mèŋ n gíŋe ńjú’, akɔ́ɔkɔ́ɔ gie e Ssé la nyɛte, á gie áa tÿǒ lepwó, á gie áa ndùmo ssé tsetsá’, á gie áa tsɛ̀ɛ tsetsá’, á gie áa tsɛ̀ɛ ntse té pàa tà mbɔɔ kɔ̀ɔkɔ́ɔ gie áa tsɛ̀ɛ njÿó wɔ́, á ne ńzɔbɔ ńgɔɔn ngie: Mé zɔb lezíŋ, ńgÿo mekù’ ńnáa legú’, ńnáa lesá’ njÿó á mbwo nyìŋ gẅie à ńnéŋe nà lʉŋe lefùɔ, mbɔɔ mbwo mûɔ *Njʉ̀njÿò á nà ngù’ nkɔ́ɔn nê nkɔ̌ɔn.
+66011017	ńgɔɔn ngie: Peg nǎ ndǎg mbwo gù me Cʉ̀apʉ̀a Ssé Ngàŋa tʉ̀ ntsèm, Ɔ̀ɔ wó, mbà ɔ̀ laa wó, peg nǎ ndǎg nue ɔ̀ la’té metʉ̀ mú mie é fáŋ tɛ’, mbɔɔ nue gù zɔ cʉ’ʉ́ sá’a njÿó á nà fʉ̀’ɔɔn.
+66011018	Ngwòŋo ngwòŋ é ka gyáŋa lóŋ, tá’, á júu fʉ̀’ gie ɔ̀ ge nyɛɛ jú gyáŋa lóŋ tǒ, ńgíŋe ńgwɔ́ fʉ̀’ gie ɔ̀ ge tsɔ́’te ntsaŋ mepfó ssé, ńgwɔ́ fʉ̀’ gie ɔ̀ gee ńtsɔ́’ɔ fà’ ngàŋa fà’ jú, é pà ntsẅì nkʉ̀ pú, é tsɔ́’ɔ fà’ pʉ̀a pú, é pʉa pie pɔ́ gu’te lezíŋ Shú, é penkʉ́ mbɔɔ melÿò, ńgíŋe ńgwɔ́ fʉ̀’ gie ɔ̀ ge cÿɔ́gte pʉ̀a pie pɔ́ zɔ́gɔ ńtágte ndùmo ssé tsetsá’.
+66015003	Pɔ́ ne ńzɔbɔ mezɔ́bɔ ntse mie, Mǒsê, ngàŋa fà’ Ssé la zɔb, ńgíŋe ńne ńzɔbɔ mie Mûɔ *Njʉ̀njÿò la zɔb, ńne ńgɔɔn tsɛ̀ɛ mɛ̌ mezɔ́b ngie: Cʉ̀apʉ̀a Ssé Ngàŋa tʉ̀ ntsèm, mefà’ mú ée wó tɛ’, mé gyá ḿvege vege. Gù Fùɔ gẅie ɔ̀ sá’a ngwòŋo ngwòŋ. Ammó gie ɔ̀ ka’á légÿo áa ndʉŋ ndʉŋ, ńgwɔ́ nò gie áa nénʉ́.
+66015004	Cʉ̀apʉ̀a, ńgwɔ́ wɔ̌ nyé té pɔ́gɔ gú? Ńgwɔ́ wɔ̌ nyé té gu’te lezíŋ shú. Ndà’ gú zɔɔ ndʉalʉ̌a; Mengwòŋ ntsèm ge gÿo tó é kẅí’te mvfò gù á nue wɔ̌wɔ́ɔ kéen ńgyá mefà’ mú pá’ é tyé ndʉŋ ndʉŋ.
