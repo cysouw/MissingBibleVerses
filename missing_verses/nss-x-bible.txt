@@ -1,19 +1,62 @@
-01010005
-01010014
-01010016
-01010017
-01010018
-01010027
-01010028
-01010029
-01036012
-01036016
-01036021
-01036030
-01036032
-01036041
-01036042
-01036043
-01046015
-01046018
-01046020
+### crawling script loses track of text at indented phrases. maybe more half-complete phrases can be found in the text
+
+01010002	Iye ara ngala noru Yapet hu kamai: Komer, Makok, Matai, Yawan, Tupal, Mesek, pe Tiras.
+01010003	Pe iye ara ngala noru Komer hu kamai: Askenas, Ripat, pe Tokarmah.
+01010004	Iye ara ngala noru Yawan hu kamai: Elisah, Tarsis iyapolo hu ndramat para Saiprus pe hu Totan.
+01010005	Pe ndraye noru Yapet hu, hu masumbuwe iya leng pe mbuson. Pe huyempwan kolohu hakol-hakol pe nongna kolohu ara handra-handra.
+01010006	Iye ara ngala noru Ham hu kamai: Kus, Misrayim, Put, pe Kanaan.
+01010007	Iye ara ngala noru Kus hu kamai: Sepa, Hawilah, Saptah, Raamah, pe Sapteka. Pe Raamah ara, ngala norun hilu malmou ara Siepa pe Tetan.
+01010009	Yapan iyki pwoke iya kili Nimrot pe irayah ndramat hamou pwokeyan para poya yohou. Pwen mahapo kapa hamou kisikiye hamou andre kipa, “Wou tehe Nimrot imwonen, yiy ndramat para kahaya yohou mbulmara Yapan.”
+01010013	Hu noru Misrayim ara hu ndramat para Litiya, Anam, Lehap, Naptu,
+01010014	pe iyapolo Patrus, Kasluh, pe hu para Kaptor. (Hu ndramat para Pilistiya ara husarayah ndrayehu Kasluh.)
+01010015	Kanaan ara iyki norun ndrihou ngalan Siton. Pe Kanaan ara tumbuhu Hit,
+01010016	hu Yepus, hu Amor, hu Kirkas,
+01010017	iyapolo hu Hiwi, hu Ark, hu Sini,
+01010018	pe iyapolo hu Arwat, hu Semar, pe hu Hamat. Iyamulan hu tumbu Kanaan ara hu masumbuwe.
+01010022	Iye ara ngala noru Sem hu kamai: Elam, Assur, Arpaksat, Litiya, pe Aram.
+01010023	Pe ngala noru Aram hu ara Us, Hul, Keter, pe Mesek.
+01010024	Arpaksat iyki norun Selah, pe Selah iyki norun Eper.
+01010025	Eper ara iyki norun malmou kamai: Pelek pe Yoktan. Iro tandrohonga Pelek isarayah iro, hu ndramat masih para kol pwan hu masumbuwe huya marakol. Pwen pe huyoh ngalan Pelek, paratesah, mbulundroyi nongan para ngalan “Pelek” iya nongna kolohu ara ipa “masumbuwe.”
+01010026	Yoktan ara iyki norun hu kamai, ngalahu ara iye: Almotat, Selep, Hasarmawet,
+01010027	iyapolo Yerah, Hatoram, Usal,
+01010028	iyapolo Tikla, Opal, Apimayel,
+01010029	iyapolo Sepa, Opir, Hawilah, pe Yopap. Ariyo kene ara ngala noru Yoktan hu.
+01036010	Pe iye ara ndraye noru Esau hilu kamai malmou, ngala hilu ara Elipas noru Atah pe Ruwel noru Pasemat.
+01036011	Pe Elipas ara, norun hu kamai mayimou ngalahu ara iye: Teman, Omar, Sepo, Katam, pe Kenas.
+01036012	Pe Timna ara pihin hamou iya paiwa Elipas. Pe Timna ara ikuni Amalek. Yihu ara tumbu Esau husarayah iro kili Atah.
+01036013	Pe noru Ruwel hu kamai mahamou ngalahu ara iye: Nahat, Serah, Samah, pe Missah. Yihu ara husarayah iro kili Pasemat, pihin ta Esau.
+01036014	Oholipamah ara nambuyu Esau, pe norun hu ara matimou, ngalahu ara iye kene: Yewus, Yalam, pe Korah. Oholipamah ara noru Anah, pe Anah ara noru Sipeyon.
+01036015	Pe iye ara ngala ndraye noru Esau hu, nepo husarayah pohon tahu. Pe hu noru Elipas, mepo ndrihou ta Esau, ara husarayah pohon para pwaimwa wum hawum-hawum tahu; ngalahu ara iye: Teman, Omar, Sepo, Kenas,
+01036016	Korah, Katam pe Amalek. Yihu masih husarayah pohon, pe hu masih ara ndraye Elipas opu, hunimnim iya kol namandran Etom. Pe yihu ara mangmbu Atah, nambuyu Esau.
+01036017	Pe noru Ruwel hu, ngalahu ara iye: Nahat, Serah, Sammah, pe Missah. Yihu sarayah pohon para pwaimwa wum hawum-hawum pe hunimnim iya kili yowehu tora Etom. Yihu ara mangmbu Pasemat nambuyu Esau.
+01036018	Pe hu noru Oholipamah SuAnah, nambuyu Esau, ngalahu ara iye kene: Yewus, Yalam, pe Korah. Yihu ara husarayah pohon para pwaimwa wum tahu hawum-hawum.
+01036020	Pe iye ara ndromweya ngala hu mbunah kamai noru Seyir. Yihu noru Seyir ara husarayah pohon para pwaimwa wum Hor ita kol Etom. Pe ngalahu ara iye kene: Lotan, Sopal, Sipeyon, Anah,
+01036021	Tison, Eser, pe Tisan. Yihu ara hu noru Seyir kamai, pe husarayah pohon para pwaimwa wum Hor ita nondriya kol namandran Etom.
+01036022	Pe noru Lotan hilu malmou kamai, ngala hilu ara iye: Hori pe Hemam. Pe pisu Lotan hamou ara ngalan Timna.
+01036023	Pe noru Sopal hu kamai, ngalahu ara iye: Alpan, Manahat, Epal, Sepo, pe Onam.
+01036024	Pe noru Sipeyon hilu malmou kamai, ngala hilu ara iye: Aiyah pe Anah. Anah ara ngara kiro nimnim kiyatahu tongki ta taman Sipeyon, pe ngara kiro kol ndrohoyin. Pwen inime hu ngat ndrikou hayah ara ndran ngandrahan iho aliy.
+01036025	Pe noru Anah hilu malmou, ngala hilu ara iye: Tison pe Oholipamah. Oholipamah, ara noru Anah pihin.
+01036026	Pe noru Tison hu kamai, ngalahu ara iye: Hemtan, Espan, Yitran pe Keran.
+01036027	Pe noru Eser hu kamai, ngalahu ara iye: Pilhan, Saapan, pe Akan.
+01036028	Pe noru Tisan hilu kamai, ngala hilu ara iye: Us pe Aran.
+01036029	Pe hu ndramat nepo husarayah pohon para pwaimwa wum Hor, ita nondriya kol namandran Etom, ngalahu ara iye kene: Lotan, Sopal, Sipeyon, Anah,
+01036030	Tison, Eser, pe Tisan.
+01036032	Pela NdraPeyor; yiy ara isarayah Kenon para Etom. Pe hupohowe ngala kolon ara Tinhapah.
+01036040	Pe hu ndramat iye kene ara husarayah pohon para pwaimwa wum hawum-hawum ta Esau: Timna, Alpah, Yetet,
+01036041	Oholipamah, Elah, Pinon,
+01036042	Kenas, Teman, Mipsar,
+01036043	Maktiyel, pe Iram. Yihu sarayah pohon para kol Etom. Pe Esau ara tumbuhu Etom masih. Pe aro ara ndraye Etom hu masih husarayah pohon para pwaimwa wum hawum-hawum pe kolohu hakol-hakol.
+01046009	Pe noru Rupen hu kamai, ngalahu ara iye: Hanok, Pallu, Hesron pe Karmi.
+01046010	Pe noru Simeyon hu kamai, ngalahu ara iye:Yemuwel, Yamin, Ohat, Yakin, Sohar, pe Sawul — yiy ara noru pihi Kanaan hamou.
+01046011	Pe noru Lepi hu kamai, ngalahu ara iye: Kerson, Kohat, pe Merari.
+01046012	Pe noru Yutah hu kamai, ngalahu ara iye: Er, Onan, Selah, Peres pe Serah, (hapeko Er pe Onan ara hilu kanmat irondron kol Kanaan. Pe ngala noru Peres hilu kamai, ngala hilu ara iye: Hesron pe Hamul.
+01046014	Pe noru Sepulun hu kamai, ngalahu ara iye: Seret, Elon pe Yahleel.
+01046015	Ariya kene ara ngala noru Yakop hu mwaniye husarayah iro kili Leyah mepo ikuni hu irondron kol Pattan Aram. Pe Leyah ara ikuni mbunah hamou pihin i, ngalan Tainah. Pwen pe noru Yakop hu pe tumbun hu masih husarayah kili Leyah ara, ndromweyahu masikene iyawule ara tingui pe timou (33).
+01046016	Pe noru Kat hu kamai ngalahu ara iye: Sepon, Hakki, Suni, Espon, Eri, Aroti pe Areli.
+01046017	Pe noru Aser hu kamai, ngalahu ara iye: Yimnah, Yispah, Yispi pe Periyah, pe pisuhu ara Serah. Pe noru Periyah hilu kamai, ngala hilu ara iye: Heper pe Malkiyel.
+01046018	Ariya kene ara ngala noru Yakop hu pe tumbun hu masih husarayah iro kili Silpah mepo Lepan iykiy iya kili norun Leyah. Ndromweyahu masih iyawule ara songui pe anomou (16).
+01046019	Pe noru Yakop hilu hilsarayah iro kili nambuyun Rahel ngala hilu ara iye: Yosep pe Penyamin.
+01046020	Yosep ara iro Yisip pe iwiri Asenat SuPotipera pe iyki Manasseh hilu Eparayim. (Potipera ara yiy hamou pris para kol Heliyopolis.)
+01046021	Pe noru Penyamin hu kamai, ngalahu ara iye: Pela, Peker, Aspel, Kera, Naaman, Ehi, Ros, Muppim, Huppim, pe Art.
+01046023	Pe noru Tan kamai, ngalan ara iye: Husim.
+01046024	Pe noru Naptali hu kamai, ngalahu ara iye: Yahsiyel, Kuni, Yeser, pe Sillem.
