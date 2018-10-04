@@ -1,2 +1,14 @@
-40020034
-66004010
+### source: https://ia600500.us.archive.org/23/items/kekitchemanitom00tanngoog/kekitchemanitom00tanngoog.pdf (scanned PDF)
+### many source say the language is rather Chippewa (code: ciw), the southern version of the ojibwe dialect cluster
+### comparing it with KJV it seems that 40020026 comprises verses 40:20:26 and 40:20:27
+
+40020026	Kaween keenowâ tuh izzhewabusinōn, owwagwandush owushema ga apetandummogwan weow, keguh pemetágowâ, owwagwandush ga ogemakâzogwan tuh unnoketága.
+40020027	
+40020028	Mego eu aninne oguisun kâween bekitche ogemákâzose unishigo koshá be unnoketágat, che megewâtdush obemátizewin che we nojemoát nebená.
+40020029	Nagutumowât Jerichoink kitche nebená anishanâban onopenuhnigowân.
+40020030	Binnádush, neezh kagebeengwajig aninewug cheegekuhnuh námátábewug, nōndumowâtdush Jesus bamosanit, ázhequawug ekettowug, neendogemám David oguisun shâwanemeshinâng.
+40020031	Kokkinnádush anishanâbag; onishkâzomigowân, pezán ábig otigowân, owushemadush anegōk ázhequawug Neendogemám David oguisun shâwanemeshinâng.
+40020032	Jesusdush nōgegâbowe oguhnonán otinân, wagonan gatotonuhgōk?
+40020033	Otináwân, Neendogemám, tōskâbenishenâng neenskezhigonanin.
+40020034	Jesusdush ogeshâwanemán, otângenumowân oskezhigowân, bâbegadush oskezhigowân gewâbewug, onopenuhnáwândush.
+66004010	
