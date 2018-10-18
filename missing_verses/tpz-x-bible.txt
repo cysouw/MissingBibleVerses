@@ -1,3 +1,8 @@
-40019019
-50002010
-65001015
+### the crawled version has " ß " instead of original " ꞌ " in the online version
+
+40019018	Ka teꞌ pamëh hi en pe Ieesuꞌ pan, “A taateꞌ poanheh?” Ke Ieesuꞌ piun, pareꞌ soe pan, “Koe a ip vamët a meh teꞌ, koe a nok a taateꞌ rëhrëh, koe a kaveo, koe a piuk a meh teꞌ pën manih po vahutët,
+40019019	parën ta nom e tamömah pen e sinömah, ko iu a meh teꞌ vamanih pö nën to iu hah va ka nom.”
+50002009	Ivëh, ke Sosoenën vasunön poan, keꞌ vamomoaan non. E Sosoenën to heꞌ poan o ëhnan to apuh oah e non, pa ma moeh ëhnan kurus,
+50002010	ivëh, ka ma napan kurus se vatokon manih pa ëhnan e Ieesuꞌ, ka ma napan va pa vöön va kin, me manih po oeh, me manih paan o oeh se vatokon manih pa ëhnan e Ieesuꞌ.
+65001014	E Inök a vatönim me paeh pau teꞌ to suk voh maꞌ e Adam. Eꞌ to vanënën soe suk voh e non pa napan poë varih, “Ep öm e Sunön to nönö non maꞌ, me a ma ususoan ankeroꞌ vivihan peꞌ,
+65001015	pa kiiki a ma napan kurus. Eꞌ to nönö non maꞌ pa vakmis a nap nonok hat varih to heꞌ tonun voh e Sosoenën pa ma taateꞌ hat kurus nee to nok voh manih peꞌ. Pareꞌ vakmis a nap nonok hat varih to heꞌ tonun voh e Sosoenën pa ma tah hat nee to soe voh manih peꞌ.”
