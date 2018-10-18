@@ -1,12 +1,14 @@
-43003024
-43009014
-43009023
-43011002
-43012040
-48003013
-48003014
-58011003
-58013021
-66001005
-66006016
-66006017
+43003024	
+43009014	
+43009023	
+43011002	
+43012040	
+48003012	Pani malele leu mo sopo sohena malele mata rasua, matan Retiulia mo verea mara, ‘Vara tea mo opoia vara i tapai na mauri matan mo lo usuri na leu, i pa oloolo vevuhi na leu tari na maurina’.
+48003013	Kr̃isto mo volituhur̃a hin lesati atu leu mo lo silea, ale enia mo mai lesati matar̃a, sohena Retiulia mo verea mara, ‘Lesati mo lo toho na tamlohi tari sei la taua mo sevu aulu na vipahai mata talai’.
+48003014	Matan vara hin Kr̃isto Iesu ler̃uhu God mo retitauhi hinia isan Abraham, i pa pala isana tamlohi r̃or̃oha, matan vara r̃a er̃i lavi na Tanume Tapu sei God mo retitauhi hinia na rasua.
+58011003	
+58013021	
+66001005	
+66006015	Ale supe mata varama peresi na tamlohi la lo lavi na hija tavera, patu tamlohi mata vuro peresi haratu la tavtav peresi la haratu la suiha, ale tamlohi tari, slev peresi tamlohi materi la luhu na papa peresi na patumalo na vutivuti.
+66006016	La ulo isana vutivuti peresi na patumalo lara, “Ha jovi, ha tatavuhi kamam, ale ha jarohi kamam na nahon haratu mo lo sakele na jara sakele non supe peresi na talai lolokoru mata hehe non Natu Sipsip,
+66006017	matan rani tavera atu mata talai lolokoru non God mata hehe peresi non Natu Sipsip mo mai, ale hare natu, i pa er̃i turu hinia?”
