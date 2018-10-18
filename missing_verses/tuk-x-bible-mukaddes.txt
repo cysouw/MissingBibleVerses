@@ -1,8 +1,35 @@
-03014057
-08004020
-08004021
-08004022
-19116010
-22001017
-23003026
-47011033
+### titles of the chapters are crawled too!
+
+03014057	
+08004020	
+08004021	
+08004022	
+19116010	Howsala düşen wagtymda:
+19116011	«Ähli ynsanlar ýalançy» diýdim.
+22001001
+22001002	Dodaklary bilen, goý, meni öpsün! Çünki şerapdan datlydyr söýgiň!
+22001003	Müşki-anbarlaryň neneňsi hoşboý, adyň-da dökülen atyr deý, şonuň üçin gyzlar söýýärler seni.
+22001004	Meni özüň bilen alaý, howlugaly. Şazadam meni içki otagyna getirdi. Seniň üçin şatlanaly we guwanaly; şerapdanam zyýada taryplaly seniň yşkyňy. Sen olaryň söýgüsine mynasyp!
+22001005	Eý, Iýerusalim gyzlary, garaýagyz-da bolsam, görmegeýdirin, gara men Kedaryň çadyrlary deý, owadan men Süleýmanyň perdeleri deý.
+22001006	Garaýagyzlygyma bakmaň, Gün garaltdy meni. Enemiň ogullary maňa gaharlandylar; üzüm bagyna meni sakçy goýdular, ýöne öz üzüm bagyma bakyp bilmedim.
+22001007	Eý, köňlümiň aşygy, aýtsana maňa, nirede bakýaň süriňi? Günorta çagy olara nirede dynç berýäň? Ýoldaşlaryňyň sürüleriniň ýanynda näme üçin sergezdan zenan dek bolaýyn?
+22001008	Eý, gözelleriň soltany! Eger bilmeseň, süriniň yzy bilen git, çopanlaryň çadyrynyň ýanynda owlaklaryňy bak.
+22001009	Faraonyň söweş arabasyna goşulan baýtala meňzedýän seni, eý, meniň magşugym!
+22001010	Şelpeli ýaňaklaryň, hünjüli boýnuň ne gözel!
+22001011	Kümüş düwmeli tylla şelpeler ýasarys saňa.
+22001012	Şazadam suprasynda otyrka, nard atyrym hoşboý ysyny saçdy.
+22001013	Aşygym meniň üçin göwüslerimiň arasynda ýatýan mür bogdajygydyr.
+22001014	Aşygym meniň üçin Eýngedi üzüm baglaryndaky hyna gülleriniň çogdamydyr.
+22001015	Sen neneňsi gözel, Söýgüli dildarym, meniň! Sen neneňsi gözel, gögerçin gözlim!
+22001016	Gör, nähili syratly sen, eý, meniň söýgüli ýarym, neneňsi hoşroý sen! Gök maýsalykdyr ýatýan ýerimiz.
+22001017	Kedrdendir diregleri öýmüziň, arçadandyr üçegi.
+23003019	gulakhalkalaryny, bileziklerini we ýaglyklaryny, börüklerini, topuk-halkalaryny, guşaklaryny, atyr çüýşejiklerini we doga-tumarlaryny,
+23003020	
+23003021	ýüzüklerini we burun halkalaryny,
+23003022	toý lybaslaryny, kürtelerini, çabytlaryny we el gapjyklaryny,
+23003023	ýüz aýnalaryny, ýüpek lybaslaryny, börüklerini we bürençeklerini aýrar.
+23003024	Atyryň deregine porsy ys, bil guşagyň deregine ýüp, buýra zülpleriň deregine kellik, bezemen lybasyň deregine jul, gözelligiň deregine utanç bolar.
+23003025	Erkekleriň gylyçdan gyrlarlar, edermen urşujylaryň söweşde ölerler.
+23003026	Sionyň derwezeleri ah çekip, ýas tutar, şäher çolaryp, gury ýerde oturar».
+47011032	Damask şäherinde Areta patyşanyň welaýat häkimi meni tussag etmek üçin, şäheri gözegçilik astynda saklaýardy.
+47011033	Emma meni sebede salyp, şäheriň diwaryndaky penjireden aşak salladylar. Şeýdip, onuň elinden halas boldum.
