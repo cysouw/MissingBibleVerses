@@ -1,6 +1,3 @@
-### source:	http://pngscriptures.org/hmo/index.htm
-### the crawling loses track after each line break ending with a colon
-
 06015021	Iuda taudia edia hanua, Negebe kahanai, Edoma ena tano hetoana ena badinai, edia ladana be inai: Kabisele, Edere, Iaguru,
 06015022	Kina, Dimona, Adaba,
 06015023	Kedesi, Hasoro, Itinana,

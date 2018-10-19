@@ -1,7 +1,3 @@
-### source: https://ia600500.us.archive.org/23/items/kekitchemanitom00tanngoog/kekitchemanitom00tanngoog.pdf (scanned PDF)
-### many source say the language is rather Chippewa (code: ciw), the southern version of the ojibwe dialect cluster
-### comparing it with KJV it seems that 40020026 comprises verses 40:20:26 and 40:20:27
-
 40020026	Kaween keenowâ tuh izzhewabusinōn, owwagwandush owushema ga apetandummogwan weow, keguh pemetágowâ, owwagwandush ga ogemakâzogwan tuh unnoketága.
 40020027	
 40020028	Mego eu aninne oguisun kâween bekitche ogemákâzose unishigo koshá be unnoketágat, che megewâtdush obemátizewin che we nojemoát nebená.
