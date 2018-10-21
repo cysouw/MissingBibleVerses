@@ -136,7 +136,7 @@ def main(args):
     key_list = sorted(to_seperate + to_keep)
 
     for s in key_list[:]:
-        if s not in always_seperate and (to_seperate[s] *5 < to_keep[s] or s in keep):
+        if s not in always_seperate and (to_seperate[s] *3 < to_keep[s] or s in keep):
             key_list.remove(s)
         name = unicodedata.name(s, 'Unknown codepoint')
         print '%s %6i %6i %5s U+%04x %s' % (s.encode('utf8'), to_seperate[s], to_keep[s],

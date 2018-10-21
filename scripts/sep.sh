@@ -1,8 +1,13 @@
-#! /bin/bash
+#!/usr/bin/env bash
 
-for file in ach-x-bible.txt afr-x-bible-1953.txt afr-x-bible-1983.txt agg-x-bible.txt afr-x-bible-lewende.txt
+# use with dir 'ready' to produce complete bible, separate punctuation, and produce stats for checking
+
+for file in $@
 
 do
-	../scripts/separate_punctuation.py $file > ../punctuation/$file
+
+	../scripts/merge.py $file
+	../scripts/separate_punctuation.py ../complete/$file > ../stats/${file%.*}_separation.txt
+	../../corpus/scripts/makeStats -o ../stats ../complete/$file
+
 done
-	

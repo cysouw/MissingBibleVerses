@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
-# more than a hundred differences in the tradition of verse numbering exist. This script harmonizes the numbering across all different attested traditions. All bibles are harmonized to the most frequent variant, not necessarily the most original one.
-
-# simple apply this script on a translation, and all corrections will be made directly. A list of changes will be in stdout.
+# merge complete bible with addition, overwriting verses with new versions
+# output a copy into ../complete
 
 import sys
 import re
