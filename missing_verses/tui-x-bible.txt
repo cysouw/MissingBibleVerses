@@ -1,63 +1,121 @@
-19003001
-19004001
-19005001
-19006001
-19007001
-19008001
-19009001
-19012001
-19013001
-19018001
-19019001
-19020001
-19021001
-19022001
-19030001
-19031001
-19034001
-19036001
-19038001
-19039001
-19040001
-19041001
-19042001
-19044001
-19045001
-19046001
-19047001
-19048001
-19049001
-19051001
-19052001
-19053001
-19054001
-19055001
-19056001
-19057001
-19058001
-19059001
-19060001
-19061001
-19062001
-19063001
-19064001
-19065001
-19067001
-19068001
-19069001
-19070001
-19075001
-19076001
-19077001
-19080001
-19081001
-19083001
-19084001
-19085001
-19088001
-19089001
-19092001
-19102001
-19108001
-19140001
-19142001
+### new source: this bible can be found on https://www.bible.com/bible/892/PRO.1.TUPB as well
+
+19003001	Siñ ma Dafidi, ti wur maga se go ti ëee do weel äe Absalom mo caw no.
+19004001	Ne wañ siñ no. De feçeçre joçoç ma de saale wo. Siñ ma Dafidi.
+19005001	Ne wañ siñ no. De siili wo. Siñ ma Dafidi.
+19006001	Ne wañ siñ no. De feçeçre joçoç ma de saale wo. Ti dilna ma saale nenma'a. Siñ ma Dafidi.
+19007001	Siñ lawge maga Dafid 'waan ne Manwur ti ree Kus je ma ti wer mani Benjamen mono.
+19008001	Ne wañ siñ no, Ti gittid Siñ ma Dafidi.
+19009001	Ne wañ siñ no. “Alamud laben” Siñ ma Dafidi.
+19011001	Ne wañ siñ no. Siñ ma Dafidi. Ndi wo yaçaç wañ mono diñ see Manwuri. Nday kaçaç ge ma waçaçge me waçaçge gana: Ëee wo go ciñ ti huuli äayn wo do weedwee nono mono waçaçge la?
+19012001	Ne wañ siñ no. De dilna ma saale nenma'a. Siñ ma Dafidi.
+19013001	Ne wañ siñ no. Siñ ma Dafidi.
+19014001	Ne wañ siñ no. Siñ ma Dafidi. Je dogjagn waçaç de äil äe ga: Baa bay wa hase! AÀ glub wo see äaara go, day joñ wo joñre ma hoor see wora. Je maga joñ de el no kay bay boñ wa hase.
+19015001	Siñ ma Dafidi. Manwuri, wose hay ge yañ äil mburyug äon mo la? Wose hay ge yañ ti huuli äo ma bay ëagn mo la?
+19016001	Siñ mbaga jaw ma Dafidi. O Baa, koë me! Werga ndi wo yaçaç wañ diñ see äo
+19017001	Tosge ma Dafidi. Manwuri! Co' sug fen ma keëed no, hay laa sug ro äin ëegede. Kañ sug laa tosge äi maga bay go jag äi la fadda tawa wa mono.
+19018001	Ne wañ siñ no. Ma Dafid weejoçoç Manwur no, maga fer waçaçre ma äil siñ sen mokay la ne Manwuri, de maga Manwur hay yaçaçn go do jar hee äen wo äuy, do Sawul lay mono.
+19019001	Ne wañ siñ no. Siñ ma Dafidi.
+19020001	Ne wañ siñ no. Siñ ma Dafidi.
+19021001	Ne wañ siñ no. Siñ ma Dafidi.
+19022001	Ne wañ siñ no. Al ayyeled has sahar. Siñ ma Dafidi.
+19023001	Siñ ma Dafidi. Manwur diñ je koë me ge no: Mopo gwa' ge go see äi gaa so hase.
+19024001	Siñ ma Dafidi. Sir diñ ma Manwur de feçeçre ma äil äen wo äuy, Tamsir de jar ma äil äen wo äuy lay!
+19025001	Siñ ma Dafidi. Manwuri, tenen äin wo de ngië nen diñ see äo
+19026001	Siñ ma Dafidi Manwuri, caa kiida äi go! Werga ndi de seege pel äo keëede. Ndi hay de kañ ëiggi äi diñ ti Manwuri, ndi ma' ge äaale gaè.
+19027001	Siñ ma Dafidi Manwur diñ poëag äin wo de peçeçge äi no: Ndi joñ ge heçeçne do wose pala? Manwur diñ ngeel yaçaç wañ tenen äi no. Ndi joñ ge heçeçne do wose pala?
+19028001	Siñ ma Dafidi. Manwuri, ndi ngar jag diñ ne ndo ti. Huuli äi no, hay go ndigriñ see äi wa. Do heçeçne maga hayga ndo hay we go see äi la ba' no, Ndi mo kol de mañ jar maga cwaa wo wo äi tu mo wa.
+19029001	Siñ ma Dafidi Jar ni Baa wo, togoë wee Manwuri, Togoë wee Manwur de 'waage äay go ti togoëge äen wo de eegre äe no.
+19030001	Siñ. Siñ ma bul jag tiñ Baa. Siñ ma Dafidi.
+19031001	Ne wañ siñ no, siñ ma Dafidi.
+19032001	Siñ ma Dafidi. Je maga älagge äen go de mañge mono de da' see äe, Je maga de da' fuggi äil go ti älagge äen mono.
+19034001	Siñ ma Dafidi. Ti maga aà hay kol see äe pel Abimeleg do je loëge no mono. Blam maga aè niin wo go mo lay no, aà kal fer waçaçre ma kay no.
+19035001	Siñ ma Dafidi. Manwuri, yiñ jar maga leë wo ndi mono, Dur jar maga dur wo ndi mono!
+19036001	Ne wañ siñ no. Ma weejoçoç mani Manwur no. Siñ ma Dafidi.
+19037001	Siñ ma Dafidi. Soçoç äil ne jar joñ älaggen wo ti wa, Slag nen ti jar joñ älaggen wo wa.
+19038001	Siñ ma Dafid ma ëig ti.
+19039001	Ne wañ siñ no, Ne Yedutun. Siñ ma Dafidi.
+19040001	Ne wañ siñ no. Siñ ma Dafidi.
+19041001	Ne wañ siñ no. Siñ ma Dafidi.
+19042001	Ne wañ siñ no, siñ ma jar ni Kore wora.
+19044001	Ne wañ siñ no. Siñ ma jar ni Kore wo.
+19045001	Ne wañ siñ no. Do fuëgi sañgu wo. Siñ jar ni Kore wo. Siñ dage.
+19046001	Ne wañ siñ no. Siñ ma jar ni Kore wo. Alamod
+19047001	Ne wañ siñ no. Siñ ma jar ni Kore wo.
+19048001	Siñ. Siñ ma jar ni Kore wo.
+19049001	Ne wañ siñ no. Siñ ma jar ni Kore wo.
+19051001	Ne wañ siñ no. Siñ ma Dafidi.
+19051002	De maga je ndar nen waçaçre Baa Natan hay nduu äiñ äe, blam maga se suu de Bat-Seba mono.
+19052001	Ne wañ siñ no. Siñ ma Dafid.
+19052002	Ti maga Doweg je Edomn nduu wii Sawul ga: Dafid go de rawge liñ ni Abimeleg mono.
+19053001	Ne wañ siñ no. De siili. Siñ ma Dafidi.
+19054001	Ne wañ siñ no. De feçeçre joçoç ma de saale wo. Siñ ma Dafidi.
+19054002	De maga jar Sif nduu wo wii Sawul ga: Dafid yañ go de hulgi yoo wuur la mono.
+19055001	Ne wañ siñ no. De feçeçre joçoç ma de saale wo. Siñ ma Dafidi.
+19056001	Ne wañ siñ no. Al yona elem rehokim Siñ mbaga jaw ma Dafidi. De maga jar Filisteçeç hay ba wo ne Gad mono.
+19057001	Ne wañ siñ no, “Älag go wa” Siñ mbaga jaw ma Dafidi. De maga aà dañ do Sawul äi rum mono.
+19058001	Ne wañ siñ no. “Blag go wa” Siñ mbaga jaw ma Dafidi.
+19059001	Ne wañ siñ no. “Blag go wa” Siñ mbaga jaw ma Dafidi De maga Sawul laa jar wo gor tiñ no maga ni 'warn go mono.
+19060001	Ne wañ siñ no. Ti fen suuli sedewa no. Siñ mbaga jaw ma Dafidi, se diñ ma hadge.
+19060002	De maga aà joñ wo jaw de jar Siri ma Mesopotami, de jar Siri ma Soba, day Jowab fer le id jar Edom wo ndar hwal ti äog äi log cuu mono.
+19061001	Ne wañ siñ no. Ti feçeçre joçoç ma de saale wora. Siñ ma Dafidi.
+19062001	Ne wañ siñ no. Siñ ma Dafidi. Ne Yedutun.
+19063001	Siñ ma Dafidi, ti maga aà hay wo ti puuli ma Judan mono.
+19064001	Ne wañ siñ no. Siñ ma Dafidi.
+19065001	Ne wañ siñ no. Siñ ma Dafidi, Siñ
+19066001	Ne wañ siñ no. Siñ, Siñ. 'Waa wee war wo nen see Baa, Jar ma ti tamsir wo äuy.
+19067001	Ne wañ siñ no. De feçeçre joçoç ma de saale wora, Siñ.
+19068001	Ne wañ siñ no. Siñ ma Dafidi. Siñ.
+19069001	Ne wañ siñ no. Siñ ma Dafidi.
+19070001	Ne wañ siñ no. Siñ ma Dafidi. Ma ferge ëig ti.
+19071001	Manwuri! ndi wo yaçaç wañ diñ see äo. Nen daga ndi mo joñ nen soçoçre wa hase!
+19072001	Siñ ma Salomoñ. O Baa, haç kiida äon wo ne wañ, Haç joñre äo ma keëedn ne je ni wañ!
+19073001	Siñ ma Asafe. Dosen nono, Baa de el see Israyele, See jar maga jiili äaara go de façaçge mono.
+19074001	Siñ ma Asafe. Diñ wer may gano, Baa! Ndo go tum srog jar la? Diñ wer may ga äil de wañ äon do' wuu Ti horog maga wo de reege ti ngeel koëgen mo la?
+19075001	Ne wañ siñ no. Älag go wa. Siñ ma Asafe. Siñ.
+19076001	Ne wañ siñ no. De feçeçre joçoç ma de saale wo. Siñ ma Asafe. Siñ.
+19077001	Ne wañ siñ no. Ti jag Yedutun. Siñ ma Asafe.
+19078001	Siñ ma Asafe. Jar äin wo no, kañ wee sug äay laa hadge äi no! Coñ wee sug äay laa waçaçre ma jag äi no.
+19079001	Siñ ma Asafe. O Baa! wer sir nduu wo go yaçaç tabul ma hoorge äo no AÀ kol wo tiñ Baa äo ma bay ëagn go de demge AÀ kol wo Jerusalem go diñ huuli ma de co' ëugul ti keçeç.
+19080001	Ne wañ siñ no. Siñ ma Asafe.
+19081001	Ne wañ siñ no. Ti gitidi. Ma Asafe.
+19082001	Siñ ma Asafe. Baa de hayle yoo tayge jar mani Baan wo no, AÀ de caa kiida ti holañ baa wora.
+19083001	Siñ. Siñ ma Asafe.
+19084001	Ne wañ siñ no. Ti gittidi. Siñ ma jar ni Kore wora.
+19085001	Ne wañ siñ no. Siñ ma jar ni Kore wora.
+19086001	Tosge ma Dafidi. Manwuri, kañ sug äo, ni ndo fer waçaçre me! Werga ndi diñ je ma nen bone, je coocoo lay.
+19087001	Siñ ma jar ni Kore wora. Siñ. AÀ de äo' wer ciñ ti huuli ma bay ëag wora.
+19088001	Siñ ma jar ni Kore wora. Ne wañ siñ no. Ma mañ wer de siili. Siñ ma Heman je Esrabid no.
+19089001	Siñ ma Etan je Esrahid no.
+19090001	Tosge ma Moyisi, je mani Baa no. Wañkluu! ndo hay see wuur diñ ngeel yaçaç wañ wuuri, See wer jar maga ndar ge wo wer sar sar mono.
+19092001	Siñ ma wur Saba.
+19100001	Siñ ma joñ suse'e. Tamsir äuy! 'Waa war fruygi wo ne Manwuri,
+19101001	Siñ ma Dafidi. Ndi 'waa ge siñ äil de eln wo yañ de dedeele no, Ndi 'waa ge siñ yañ diñ ma haç togoëge ne ndo Manwuri!
+19102001	Tosge ma je coocoo, de maga aà gay we go äuy no se ya' äo' gaali äen ne Manwur pele.
+19103001	Siñ ma Dafidi. Tenen äin joñ suse' ne Manwuri! Daga ndi de see äi äuy ndi mo joñ suse' ne ëu äe ma bay ëag no.
+19108001	Siñ. Siñ ma Dafidi.
+19109001	Ne wañ siñ no. Siñ ma Dafidi. Baa äi maga ndi togoë ndo mono, hay go ba' wa!
+19110001	Siñ ma Dafidi. Kay diñ jag Manwuri, ne Wañ äi no: Hay go ti äañ war äi lam no, Haçaç nen maga ndi kañ äaale äo go ne jar hee äon wo ti.
+19120001	Siñ ma ëiigi wo ti few wora. Nen coocoo äin mono, ndi hay ngar jag Wo diñ ne Manwuri, day se hay fer waçaçre me lay.
+19121001	Siñ ma ëiigi wo ti few wora. Ndi mañ nen äi wo ti huuli wora... Kayge äin nduu gi le na gen so la?
+19122001	Siñ ma ëiigi wo ti few wora. Ma Dafidi. Ndi de fruygi, de maga aè waçaç me ga: Naa see äi tiñ mani Manwur non mono!
+19123001	Siñ ma ëiigi wo ti few wora. Ndi mañ nen äi wo nen see äo. Ndo je maga wo go de hayle ciñ mono.
+19124001	Siñ ma ëiigi wo ti few wora. Ma Dafidi. Hayga Manwur de hay we diñ je ma naa gaa no... Daga Israyel mo hay dogge äe!
+19125001	Siñ ma ëiigi wo ti few wora. Jar maga wo de kañ ëiggi ti Manwur mono, Wo do huuli ma Siyon maga le' gaa mono. AÀ mbe ka' tumtum.
+19126001	Siñ ma ëiigi wo ti few wora. De maga Manwur fer naa le de jar Siyon Maga hay wo le ti dañgay mono, Naa hay do jar po maga lwa' wo lwa'ge nono.
+19127001	Siñ ma ëiigi wo ti few wora. Ma Salomoñ. Hayga boo tiñn we diñ Manwur gaa no, Jar maga boon wo mokay gay wo see äaara de koë koëe. Hayga Manwur bay we gor ti äi leegen wa no, Je maga de gor ti äe mokay naa tenen de koë koëe.
+19128001	Siñ ma ëiigi wo ti few wora. Je tabay ma honla äuy maga joñ heçeçne do Manwur mono, De da' see äe, maga see ti faage mani äen wo mono!
+19129001	Siñ ma ëiigi wo ti few wora. AÀ hay wo leë mege tumtum le äaa ti klee äi, Israyel mo waçaç mbe ne
+19130001	Siñ ma ëiigi wo ti few wora. Le äi tu ma kuëum wo no, ndi ëe ndo Manwuri!
+19131001	Siñ ma ëiigi wo ti few wora. Ma Dafidi. Manwuri! ndi bay diñ je maga jiili äi kee ti see Äe wa, ndi bay diñ je maga da far ti see äe ciñ wa Ndi bay diñ je ma yoorge nen waçaçre ma de raw ti see äi wa, Ndi bay de kañ ëiggi ti ree ma de raw see äi ciñ wa lay.
+19132001	Siñ ma ëiigi wo ti few wora. Manwuri, fer ëig ti ti Dafidi, ti gaali äen wo äuy lay!
+19133001	Siñ ma ëiigi wo ti few wora. Ma Dafidi. Koëa, aà de ele, aà de coçoçre, maga heçeçrebe mo hay Wo de lagge de tiñ, de tayge see kaçaçra!
+19134001	Siñ ma ëiigi wo ti few wora. Koëa, joñ wee suse' ne Manwuri, nday äuy weere Joçoçre Manwur wo no, nday maga nday lag äi tiñ Mani Manwurn de suñ wo mono!
+19138001	Siñ ma Dafidi. Ndi mañ ti äo go ciñ de jiili äi äuy, Ndi togoë Baa pel äe deñe.
+19139001	Ne wañ siñ no. Siñ ma Dafidi. Manwuri! ndo er me, ndo de ko mege,
+19140001	Ne wañ siñ no. Siñ ma Dafidi.
+19141001	Siñ ma Dafidi. Manwuri, ndi de ëe ndo: AÀ le äiñ äi deparday! Kañ sug äo laa geçeçge äi, de maga ndi de ëe ndo mono!
+19142001	Siñ ma Dafidi. De maga aà hay äi rum mono. Diñ tosge.
+19143001	Siñ ma Dafidi. Manwuri, co' sug tosge äi no. Kañ sug äo ëeged laa kamkam äin wo no! Fer waçaçre me de debay ndarge gog äo no, de keëed äo no!
+19144001	Siñ ma Dafidi. Suse' ne Manwuri, huuli äi no, maga wal do äi go jag durgi, Wal weere do äi go jag jaw mono.
+19145001	Togoëge. Ma Dafidi. Ndi togoë ndo yañe, Baa äi no, Wañ äi no! Ndi joñ ge Suse' yañ ne ndo tumtum, haçaç bay tawge,
