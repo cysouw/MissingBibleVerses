@@ -1,5 +1,4 @@
-### 44015023 corrected:	They sent this letter with them: From the apostles and elders, your brothers, to the Gentile brothers and sisters in Antioch, Syria, and Cilicia, greetings!
-
+44015023	They sent this letter with them: From the apostles and elders, your brothers, to the Gentile brothers and sisters in Antioch, Syria, and Cilicia, greetings!
 44015024	Since we have heard that some have gone out from among us with no orders from us and have confused you, upsetting your minds by what they said,
 44015025	we have unanimously decided to choose men to send to you along with our dear friends Barnabas and Paul,
 44015026	who have risked their lives for the name of our Lord Jesus Christ.
