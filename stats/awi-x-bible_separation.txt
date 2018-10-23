@@ -1,0 +1,2 @@
+'      0      1 False U+0027 APOSTROPHE
+¥      1      0  True U+00a5 YEN SIGN
