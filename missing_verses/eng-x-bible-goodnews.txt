@@ -1,21 +1,3 @@
-### 41012036 corrected:	The Holy Spirit inspired David to say: ‘The Lord said to my Lord: Sit here at my right side until I put your enemies under your feet.’
-### 44001020 corrected:	“For it is written in the book of Psalms, ‘May his house become empty; may no one live in it.’ It is also written, ‘May someone else take his place of service.’
-### 44002031 corrected:	David saw what God was going to do in the future, and so he spoke about the resurrection of the Messiah when he said, ‘He was not abandoned in the world of the dead; his body did not rot in the grave.’
-### 44015023 corrected:	and they sent the following letter by them: “We, the apostles and the elders, your brothers, send greetings to all our brothers of Gentile birth who live in Antioch, Syria, and Cilicia.
-### 44017028 corrected:	as someone has said, ‘In him we live and move and exist.’ It is as some of your poets have said, ‘We too are his children.’
-### 45010018 corrected:	But I ask: Is it true that they did not hear the message? Of course they did—for as the scripture says: “The sound of their voice went out to all the world; their words reached the ends of the earth.”
-### 45015009 corrected:	and to enable even the Gentiles to praise God for his mercy. As the scripture says, “And so I will praise you among the Gentiles; I will sing praises to you.”
-### 47006016 corrected:	How can God's temple come to terms with pagan idols? For we are the temple of the living God! As God himself has said, “I will make my home with my people and live among them; I will be their God, and they shall be my people.”
-### 58001005 corrected:	For God never said to any of his angels, “You are my Son; today I have become your Father.” Nor did God say about any angel, “I will be his Father, and he will be my Son.”
-### 58001007 corrected:	But about the angels God said, “God makes his angels winds, and his servants flames of fire.”
-### 58001009 corrected:	You love what is right and hate what is wrong. That is why God, your God, has chosen you and has given you the joy of an honor far greater than he gave to your companions.”
-### 58001012 corrected:	You will fold them up like a coat, and they will be changed like clothes. But you are always the same, and your life never ends.”
-### 58002008 corrected:	and made them rulers over all things.” It says that God made them “rulers over all things”; this clearly includes everything. We do not, however, see human beings ruling over all things now.
-### 58004003 corrected:	We who believe, then, do receive that rest which God promised. It is just as he said, “I was angry and made a solemn promise: ‘They will never enter the land where I would have given them rest!’” He said this even though his work had been finished from the time he created the world.
-### 58005005 corrected: In the same way, Christ did not take upon himself the honor of being a high priest. Instead, God said to him, “You are my Son; today I have become your Father.”
-### 60002006 corrected:	For the scripture says, “I chose a valuable stone, which I am placing as the cornerstone in Zion; and whoever believes in him will never be disappointed.”
-### 66005012 corrected:	and sang in a loud voice: “The Lamb who was killed is worthy to receive power, wealth, wisdom, and strength, honor, glory, and praise!”
-
 40001002	From Abraham to King David, the following ancestors are listed: Abraham, Isaac, Jacob, Judah and his brothers; then Perez and Zerah (their mother was Tamar), Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz (his mother was Rahab), Obed (his mother was Ruth), Jesse, and King David.
 40001003	
 40001004	
@@ -36,6 +18,7 @@
 40022045	If, then, David called him ‘Lord,’ how can the Messiah be David's descendant?”
 41008008	Everybody ate and had enough—there were about four thousand people. Then the disciples took up seven baskets full of pieces left over. Jesus sent the people away
 41008009	
+41012036	The Holy Spirit inspired David to say: ‘The Lord said to my Lord: Sit here at my right side until I put your enemies under your feet.’
 41012037	David himself called him ‘Lord’; so how can the Messiah be David's descendant?” A large crowd was listening to Jesus gladly.
 41015042	It was toward evening when Joseph of Arimathea arrived. He was a respected member of the Council, who was waiting for the coming of the Kingdom of God. It was Preparation day (that is, the day before the Sabbath), so Joseph went boldly into the presence of Pilate and asked him for the body of Jesus.
 41015043	
@@ -51,8 +34,10 @@
 42023045	
 42023050	There was a man named Joseph from Arimathea, a town in Judea. He was a good and honorable man, who was waiting for the coming of the Kingdom of God. Although he was a member of the Council, he had not agreed with their decision and action.
 42023051	
+44001020	“For it is written in the book of Psalms, ‘May his house become empty; may no one live in it.’ It is also written, ‘May someone else take his place of service.’
 44001021	“So then, someone must join us as a witness to the resurrection of the Lord Jesus. He must be one of the men who were in our group during the whole time that the Lord Jesus traveled about with us, beginning from the time John preached his message of baptism until the day Jesus was taken up from us to heaven.”
 44001022	
+44002031	David saw what God was going to do in the future, and so he spoke about the resurrection of the Messiah when he said, ‘He was not abandoned in the world of the dead; his body did not rot in the grave.’
 44002032	God has raised this very Jesus from death, and we are all witnesses to this fact.
 44002033	He has been raised to the right side of God, his Father, and has received from him the Holy Spirit, as he had promised. What you now see and hear is his gift that he has poured out on us.
 44002034	For it was not David who went up into heaven; rather he said, ‘The Lord said to my Lord: Sit here at my right side
@@ -72,12 +57,14 @@
 44013038	All of you, my fellow Israelites, are to know for sure that it is through Jesus that the message about forgiveness of sins is preached to you; you are to know that everyone who believes in him is set free from all the sins from which the Law of Moses could not set you free.
 44013039	
 44013040	Take care, then, so that what the prophets said may not happen to you:
+44015023	and they sent the following letter by them: “We, the apostles and the elders, your brothers, send greetings to all our brothers of Gentile birth who live in Antioch, Syria, and Cilicia.
 44015024	We have heard that some who went from our group have troubled and upset you by what they said; they had not, however, received any instruction from us.
 44015025	And so we have met together and have all agreed to choose some messengers and send them to you. They will go with our dear friends Barnabas and Paul,
 44015026	who have risked their lives in the service of our Lord Jesus Christ.
 44015027	We send you, then, Judas and Silas, who will tell you in person the same things we are writing.
 44015028	The Holy Spirit and we have agreed not to put any other burden on you besides these necessary rules:
 44015029	eat no food that has been offered to idols; eat no blood; eat no animal that has been strangled; and keep yourselves from sexual immorality. You will do well if you take care not to do these things. With our best wishes.”
+44017028	as someone has said, ‘In him we live and move and exist.’ It is as some of your poets have said, ‘We too are his children.’
 44017029	Since we are God's children, we should not suppose that his nature is anything like an image of gold or silver or stone, shaped by human art and skill.
 44017030	God has overlooked the times when people did not know him, but now he commands all of them everywhere to turn away from their evil ways.
 44017031	For he has fixed a day in which he will judge the whole world with justice by means of a man he has chosen. He has given proof of this to everyone by raising that man from death!”
@@ -91,6 +78,7 @@
 45009027	And Isaiah exclaims about Israel: “Even if the people of Israel are as many as the grains of sand by the sea, yet only a few of them will be saved;
 45009028	for the Lord will quickly settle his full account with the world.”
 45009029	It is as Isaiah had said before, “If the Lord Almighty had not left us some descendants, we would have become like Sodom, we would have been like Gomorrah.”
+45010018	But I ask: Is it true that they did not hear the message? Of course they did—for as the scripture says: “The sound of their voice went out to all the world; their words reached the ends of the earth.”
 45010019	Again I ask: Did the people of Israel not understand? Moses himself is the first one to answer: “I will use a so-called nation to make my people jealous; and by means of a nation of fools I will make my people angry.”
 45010020	And Isaiah is even bolder when he says, “I was found by those who were not looking for me; I appeared to those who were not asking for me.”
 45010021	But concerning Israel he says, “All day long I held out my hands to welcome a disobedient and rebellious people.”
@@ -101,6 +89,7 @@
 45011032	For God has made all people prisoners of disobedience, so that he might show mercy to them all.
 45011036	For all things were created by him, and all things exist through him and for him. To God be the glory forever! Amen.
 45014012	Every one of us, then, will have to give an account to God.
+45015009	and to enable even the Gentiles to praise God for his mercy. As the scripture says, “And so I will praise you among the Gentiles; I will sing praises to you.”
 45015010	Again it says, “Rejoice, Gentiles, with God's people!”
 45015011	And again, “Praise the Lord, all Gentiles; praise him, all peoples!”
 45015012	And again, Isaiah says, “A descendant of Jesse will appear; he will come to rule the Gentiles, and they will put their hope in him.”
@@ -117,6 +106,7 @@
 46015052	
 46015056	Death gets its power to hurt from sin, and sin gets its power from the Law.
 46015057	But thanks be to God who gives us the victory through our Lord Jesus Christ!
+47006016	How can God's temple come to terms with pagan idols? For we are the temple of the living God! As God himself has said, “I will make my home with my people and live among them; I will be their God, and they shall be my people.”
 47006017	And so the Lord says, “You must leave them and separate yourselves from them. Have nothing to do with what is unclean, and I will accept you.
 47008013	I am not trying to relieve others by putting a burden on you; but since you have plenty at this time, it is only fair that you should help those who are in need. Then, when you are in need and they have plenty, they will help you. In this way both are treated equally.
 47008014	
@@ -142,17 +132,24 @@
 51001012	
 56001012	It was a Cretan himself, one of their own prophets, who spoke the truth when he said, “Cretans are always liars, wicked beasts, and lazy gluttons.” For this reason you must rebuke them sharply, so that they may have a healthy faith
 56001013	
+58001005	For God never said to any of his angels, “You are my Son; today I have become your Father.” Nor did God say about any angel, “I will be his Father, and he will be my Son.”
 58001006	But when God was about to send his first-born Son into the world, he said, “All of God's angels must worship him.”
+58001007	But about the angels God said, “God makes his angels winds, and his servants flames of fire.”
 58001008	About the Son, however, God said: “Your kingdom, O God, will last forever and ever! You rule over your people with justice.
+58001009	You love what is right and hate what is wrong. That is why God, your God, has chosen you and has given you the joy of an honor far greater than he gave to your companions.”
 58001010	He also said, “You, Lord, in the beginning created the earth, and with your own hands you made the heavens.
+58001012	You will fold them up like a coat, and they will be changed like clothes. But you are always the same, and your life never ends.”
 58001013	God never said to any of his angels: “Sit here at my right side until I put your enemies as a footstool under your feet.”
+58002008	and made them rulers over all things.” It says that God made them “rulers over all things”; this clearly includes everything. We do not, however, see human beings ruling over all things now.
 58002009	But we do see Jesus, who for a little while was made lower than the angels, so that through God's grace he should die for everyone. We see him now crowned with glory and honor because of the death he suffered.
 58002010	It was only right that God, who creates and preserves all things, should make Jesus perfect through suffering, in order to bring many children to share his glory. For Jesus is the one who leads them to salvation.
 58002013	He also says, “I will put my trust in God.” And he also says, “Here I am with the children that God has given me.”
+58004003	We who believe, then, do receive that rest which God promised. It is just as he said, “I was angry and made a solemn promise: ‘They will never enter the land where I would have given them rest!’” He said this even though his work had been finished from the time he created the world.
 58004004	For somewhere in the Scriptures this is said about the seventh day: “God rested on the seventh day from all his work.”
 58004005	This same matter is spoken of again: “They will never enter that land where I would have given them rest.”
 58004006	Those who first heard the Good News did not receive that rest, because they did not believe. There are, then, others who are allowed to receive it.
 58004007	This is shown by the fact that God sets another day, which is called “Today.” Many years later he spoke of it through David in the scripture already quoted: “If you hear God's voice today, do not be stubborn.”
+58005005	In the same way, Christ did not take upon himself the honor of being a high priest. Instead, God said to him, “You are my Son; today I have become your Father.”
 58005006	He also said in another place, “You will be a priest forever, in the priestly order of Melchizedek.”
 58007022	This difference, then, also makes Jesus the guarantee of a better covenant.
 58008013	By speaking of a new covenant, God has made the first one old; and anything that becomes old and worn out will soon disappear.
@@ -171,9 +168,11 @@
 58013021	
 59001007	If you are like that, unable to make up your mind and undecided in all you do, you must not think that you will receive anything from the Lord.
 59001008	
+60002006	For the scripture says, “I chose a valuable stone, which I am placing as the cornerstone in Zion; and whoever believes in him will never be disappointed.”
 60002007	This stone is of great value for you that believe; but for those who do not believe: “The stone which the builders rejected as worthless turned out to be the most important of all.”
 60002008	And another scripture says, “This is the stone that will make people stumble, the rock that will make them fall.” They stumbled because they did not believe in the word; such was God's will for them.
 60004019	So then, those who suffer because it is God's will for them, should by their good actions trust themselves completely to their Creator, who always keeps his promise.
+66005012	and sang in a loud voice: “The Lamb who was killed is worthy to receive power, wealth, wisdom, and strength, honor, glory, and praise!”
 66005013	And I heard every creature in heaven, on earth, in the world below, and in the sea—all living beings in the universe—and they were singing: “To him who sits on the throne and to the Lamb, be praise and honor, glory and might, forever and ever!”
 66005014	The four living creatures answered, “Amen!” And the elders fell down and worshiped.
 66007005	twelve thousand from each tribe: Judah, Reuben, Gad, Asher, Naphtali, Manasseh, Simeon, Levi, Issachar, Zebulun, Joseph, and Benjamin.

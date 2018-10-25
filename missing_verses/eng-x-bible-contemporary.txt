@@ -1,11 +1,4 @@
 ### 1700 missing phrases, primarily after line breaks
-### 40003007 corrected: Many Pharisees and Sadducees also came to be baptized. But John said to them: You bunch of snakes! Who warned you to run from the coming judgment?
-### 40009015 corrected: Jesus answered: The friends of a bridegroom aren't sad while he is still with them. But the time will come when he will be taken from them. Then they will go without eating.
-### 40010005 corrected: Jesus sent out the twelve apostles with these instructions: Stay away from the Gentiles and don't go to any Samaritan town.
-### 40011007 corrected: As John's followers were going away, Jesus spoke to the crowds about John: What sort of person did you go out into the desert to see? Was he like tall grass blown about by the wind?
-### 40012003 corrected: Jesus answered: You surely must have read what David did when he and his followers were hungry.
-### 40012025 corrected: Jesus knew what they were thinking, so he said to them: Any kingdom where people fight each other will end up ruined. And a town or family that fights will soon destroy itself.
-### 40012039 corrected: But Jesus replied: You want a sign because you are evil and won't believe! But the only sign you will get is the sign of the prophet Jonah.
 
 40001002	From Abraham to King David, his ancestors were: Abraham, Isaac, Jacob, Judah and his brothers (Judah's sons were Perez and Zerah, and their mother was Tamar), Hezron; Ram, Amminadab, Nahshon, Salmon, Boaz (his mother was Rahab), Obed (his mother was Ruth), Jesse, and King David.
 40001003	
@@ -22,6 +15,7 @@
 40001014	
 40001015	
 40001016	
+40003007	Many Pharisees and Sadducees also came to be baptized. But John said to them: You bunch of snakes! Who warned you to run from the coming judgment?
 40003008	Do something to show you have really given up your sins.
 40003009	And don't start telling yourselves that you belong to Abraham's family. I tell you that God can turn these stones into children for Abraham.
 40003010	An ax is ready to cut the trees down at their roots. Any tree that doesn't produce good fruit will be chopped down and thrown into a fire.
@@ -122,8 +116,10 @@
 40007025	Rain poured down, rivers flooded, and winds beat against that house. But it was built on solid rock, and so it did not fall.
 40007026	Anyone who hears my teachings and doesn't obey them is like a foolish person who built a house on sand.
 40007027	Rain poured down, rivers flooded, and the winds blew and beat against that house. Finally, it fell with a crash.at against that house. Finally, it fell with a crash.
+40009015	Jesus answered: The friends of a bridegroom aren't sad while he is still with them. But the time will come when he will be taken from them. Then they will go without eating.
 40009016	No one uses a new piece of cloth to patch old clothes. The patch would shrink and tear a bigger hole.
 40009017	No one pours new wine into old wineskins. The wine would swell and burst the old skins. Then the wine would be lost, and the skins would be ruined. New wine must be put into new wineskins. Both the skins and the wine will then be safe.
+40010005	Jesus sent out the twelve apostles with these instructions: Stay away from the Gentiles and don't go to any Samaritan town.
 40010006	Go only to the people of Israel, because they are like a flock of lost sheep.
 40010007	As you go, announce that the kingdom of heaven will soon be here.
 40010008	Heal the sick, raise the dead to life, heal people who have leprosy, and force out demons. You received without paying, now give without being paid.
@@ -161,6 +157,7 @@
 40010040	Anyone who welcomes you welcomes me. And anyone who welcomes me also welcomes the one who sent me.
 40010041	Anyone who welcomes a prophet, just because that person is a prophet, will be given the same reward as a prophet. Anyone who welcomes a good person, just because that person is good, will be given the same reward as a good person.
 40010042	And anyone who gives one of my most humble followers a cup of cool water, just because that person is my follower, will be rewarded.
+40011007	As John's followers were going away, Jesus spoke to the crowds about John: What sort of person did you go out into the desert to see? Was he like tall grass blown about by the wind?
 40011008	What kind of man did you go out to see? Was he someone dressed in fine clothes? People who dress like that live in the king's palace.
 40011009	What did you really go out to see? Was he a prophet? He certainly was. I tell you that he was more than a prophet.
 40011010	In the Scriptures God says about him, “I am sending my messenger ahead to get things ready for you.”
@@ -184,11 +181,13 @@
 40011028	If you are tired from carrying heavy burdens, come to me and I will give you rest.
 40011029	Take the yoke I give you. Put it on your shoulders and learn from me. I am gentle and humble, and you will find rest.
 40011030	This yoke is easy to bear, and this burden is light.
+40012003	Jesus answered: You surely must have read what David did when he and his followers were hungry.
 40012004	He went into the house of God, and then they ate the sacred loaves of bread that only priests are supposed to eat. 
 40012005	Haven't you read in the Law of Moses that the priests are allowed to work in the temple on the Sabbath? But no one says they are guilty of breaking the law of the Sabbath. 
 40012006	I tell you there is something here greater than the temple. 
 40012007	Don't you know what the Scriptures mean when they say, “Instead of offering sacrifices to me, I want you to be merciful to others?” If you knew what this means, you would not condemn these innocent disciples of mine. 
 40012008	So the Son of Man is Lord over the Sabbath.
+40012025	Jesus knew what they were thinking, so he said to them: Any kingdom where people fight each other will end up ruined. And a town or family that fights will soon destroy itself.
 40012026	So if Satan fights against himself, how can his kingdom last?
 40012027	If I use the power of Beelzebul to force out demons, whose power do your own followers use to force them out? Your followers are the ones who will judge you.
 40012028	But when I force out demons by the power of God's Spirit, it proves that God's kingdom has already come to you.
@@ -201,6 +200,7 @@
 40012035	Good people bring good things out of their hearts, but evil people bring evil things out of their hearts.
 40012036	I promise you on the day of judgment, everyone will have to account for every careless word they have spoken.
 40012037	On that day they will be told they are either innocent or guilty because of the things they have said.
+40012039	But Jesus replied: You want a sign because you are evil and won't believe! But the only sign you will get is the sign of the prophet Jonah.
 40012040	He was in the stomach of a big fish for three days and nights, just as the Son of Man will be deep in the earth for three days and nights.
 40012041	On the day of judgment the people of Nineveh will stand there with you and condemn you. They turned to God when Jonah preached, and yet here is something far greater than Jonah.
 40012042	The Queen of the South will also stand there with you and condemn you. She traveled a long way to hear Solomon's wisdom, and yet here is something much greater than Solomon.
