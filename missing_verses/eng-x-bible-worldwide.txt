@@ -2,7 +2,6 @@
 ### 40010004 corrected:	40010004	
 ### 42003038 corrected: 42003038
 ### Luke 24 in this version has different numbering compared to KJV as verses 42024011, 42024040 and 42024041 aren't translated in this version, numbering corrected below.	
-### 44005037 corrected: 44005037	Then after that, at tax time, another man named Judas from Galilee made trouble. Many people followed him. He also was killed and all of his followers were scattered.
 
 40001003	
 40001004	
@@ -95,6 +94,7 @@
 44004035	
 44005002	
 44005028	
+44005037	Then after that, at tax time, another man named Judas from Galilee made trouble. Many people followed him. He also was killed and all of his followers were scattered.
 44005039	
 44010047	
 44020008	

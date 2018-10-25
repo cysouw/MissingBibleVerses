@@ -1,12 +1,3 @@
-### Verse 40010031 contains verse 40010030 as well, split below according to KJV
-### Verse 40017014 contains verse 40017015 as well, split below according to KJV
-### Verse 40020026 contains verse 40020027 as well, split below according to KJV
-### Verse 40022005 contains verse 40022006 as well, split below according to KJV
-### Verse 41002027 contains verse 41002028 as well, split below according to KJV
-### Verse 41004040 contains verse 41004041 as well, split below according to KJV
-### Verse 42007041 contains verse 42007042 as well, split below according to KJV
-### Verse 44007055 contains verse 44007056 as well, split below according to KJV
-
 40010030	`And alle the heeris of youre heed ben noumbrid.
 40010031	Therfor nyle ye drede; ye ben betere than many sparewis.
 40010032	Therfor euery man that schal knouleche me bifore men, Y schal knouleche hym bifor my fadir that is in heuenes.
