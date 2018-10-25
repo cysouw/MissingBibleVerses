@@ -1,2 +1,12 @@
-19116010
-47011033
+19116010	Men ishondim, shul bois gapirdim: Men ko‘p ozor chekdim, dedim.
+19116011	Butun insoniyat yolg‘onchilikdir, – dedim men hayajonlanib.
+19116012	Menga qilgan barcha yaxshiliklari uchun Xudovandni qanday taqdirlayman?
+19116013	Men najot qadahini ko‘tarib, Xudovand nomini chaqiraman.
+19116014	Butun ahli mo‘minning ko‘zi o‘ngida Xudovandga ataganlarimni bajo etaman.
+19116015	O‘z azizlarining o‘limi Xudovand nazarida bebahodir.
+19116016	Yohu Xudovando, Men Sening qulingman-ku, O‘z kanizaging o‘g‘lidirman, Kishanlarimni O‘zing yechgansan.
+19116017	Sening ismingni chaqirib, ey Xudovand, Shukrona bilan qurbonlik keltiraman.
+19116018	Butun ahli mo‘minning ko‘zi o‘ngida Xudovandga ataganlarimni bajo etaman.
+19116019	Xudovandning ma’badi hovlilarida, Quddus bag‘rida nazrlarimni ifo etaman. Hamdlar bo‘lsin!
+47011032	Mana, Damashqda podsho Aretasning viloyat hokimi meni tutish uchun Damashq shahrini nazorat ostiga olgan edi.
+47011033	Ammo meni savat ichida devordagi derazadan tushirishdi va men uning qo‘lidan qochib qutuldim.
