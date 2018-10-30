@@ -1694,7 +1694,7 @@
 41015001	Hayiłką́ą́yú okąąh yebik’ehi itisyú nadaandeehi , Jews yánazíni , begoz’aaníí ye’ik’eda’iłchíhi , ła’íí yánádaaltihi dawa biłgo íła’adzaago Jesus yaa ndaagoshchįį , áídí’ łídaistł’ǫǫdá’ dahdainlǫ́ǫ́zgo Pílate yaa daidez’ąą .
 41015002	Áígee Pílate Jesus nayídiłkid , Ya’ ni Jews ízisgo biNant’a’i ńlį́į́ née ? Da’áígee ánṉii , biłṉii , Jesus .
 41015003	Okąąh yebik’ehi itisyú nadaandeehíí doo ałch’ídéyú baa dahgoz’ąą da ; ndi doo nt’é ṉii da lę́k’e .
-41015004	Áík’ehgo Pílate nabínádiłkid, Nihíí doo nt’é shiłnṉii da née ? Doo ałch’ídéyú naa dahgost’ąą da ląą akoh.
+41015004	Áík’ehgo Pílate nabínádiłkid , Nihíí doo nt’é shiłnṉii da née ? Doo ałch’ídéyú naa dahgost’ąą da ląą akoh .
 41015005	
 41015006	Bitis hagowáh n’íí bee bíná’godiṉíhgo da’idąągee ha’áshijeedíí dała’á , hadíí nṉee hádaat’iiníí , Pílate bá ch’ínáyíłteeh lę́k’e .
 41015007	Áígee nṉee , Barábbas holzéhi , ha’ásitįį lę́k’e ; áń nṉee nant’án agohet’aa nkegonyaago nada’iłtseedihi yił ha’áshijeed .
@@ -2081,7 +2081,7 @@
 42007019	John bitsiłke’yu naki , Yushdé’ , daayiłnṉiidná’ gádaayiłṉii , Jesus bich’į’yú doł’aashgo gáłdołṉi’ , Ya’ ni higháhi n’íí áńt’įį née ? dagohíí ła’i biká daadéet’įį née ?
 42007020	Nṉee nakihíí Jesus yaa n’áázhgo gádaabiłṉii , John Baptize ágole’íí nich’į’ nohwides’a’ , gániłn’ṉiihgo , Ya’ ni higháhi n’íí áńt’įį née ? dagohíí ła’i biká daadéet’įį née ?
 42007021	Yaa n’áázhná’ Jesus nṉee łą́ą́go náyihilzii , kah iłtah at’éhi yaa nakaihíí ałdó’ , spirits nchǫ’i biyi’ daagolííníí bá hanesdzood ; ła’íí biṉáá ádaagodiníí daago’įįgo ánayidlaa .
-42007022	Áík’ehgo áí nṉee bich’į’ hil’aadíí gáyiłṉii, John bich’į’ nádołt’aashgo díí hoł’iiníí ła’íí disołts’aaníí baa bił nagołṉi’: biṉáá ádaagodįh n’íí biṉáá ánágodle’, doo nadaakai da n’íí náhikáh, nṉee łóód doo ínádįh dahi yaa nadaakai n’íí nłt’éégo ánádaidle’, bijeyi’ ádaagodįh n’íí da’idits’ag ánádaidle’, nanezna’ n’íí naahikáhgo ánádaidle’, tédaat’iyéhíí yati’ baa gozhóni bee bich’į’ yáda’iti’.
+42007022	Áík’ehgo áí nṉee bich’į’ hil’aadíí gáyiłṉii , John bich’į’ nádołt’aashgo díí hoł’iiníí ła’íí disołts’aaníí baa bił nagołṉi’ : biṉáá ádaagodįh n’íí biṉáá ánágodle’ , doo nadaakai da n’íí náhikáh , nṉee łóód doo ínádįh dahi yaa nadaakai n’íí nłt’éégo ánádaidle’ , bijeyi’ ádaagodįh n’íí da’idits’ag ánádaidle’ , nanezna’ n’íí naahikáhgo ánádaidle’ , tédaat’iyéhíí yati’ baa gozhóni bee bich’į’ yáda’iti’ .
 42007023	
 42007024	Nṉee John daabis’a’íí t’ąązhį’ onát’aazhná’ , Jesus nṉee dała’at’ééhíí John yaa nagolṉi’go yich’į’ yałti’ nkegonyaa gáṉíígo , Da’izlį́į́yú hat’íí hádaadeł’į́į́yú nasołkai ? Tł’oh bit’ąą nteelíí bił godiyołíí née ?
 42007025	Hat’íí hádaadeł’į́į́yú nasołkai áíná’ ? Nṉee nłt’éégo bik’e’izláhi née ? Hayíí bidiyágé nłt’ééhíí ła’íí ízisgo daagolííníí nant’án golį́į́gee nadaakaihi at’éé .
@@ -3852,7 +3852,7 @@
 44002036	Áí bighą Israel hat’i’íí dawa da’aṉiigo díí yídaagołsį le’ , Jesus‐híí tsį’iłna’áhi bídaahesołkał n’íí Bik’ehgo’ihi’ṉań nohweBik’ehń , Christ nlįįgo nohwá áyíílaa .
 44002037	Nṉee díí daidezts’ąąná’ bił daagoshch’ii’ lę́’e , áígé’ Peter ła’íí ła’ nadaal’a’áhíí yich’į’ gádaaṉii , Nṉee daanołiiníí , nohwik’ííyú , hago ádaahii’ṉe’ ?
 44002038	Peter gádaabiłṉii , Nohwinchǫ’íí bich’ą́’yúgo ádaałṉe’go dała’á daanołtįįgee Jesus Christ bizhi’ bee baptize ádaanohwi’dolṉe’ , nohwinchǫ’íí nohwá da’izlį́į́ alṉe’híí bighą , áík’ehgo Holy Spirit bee nohwaa godit’aah doleeł .
-44002039	Nohwíí díí bee nohwángot’ąą ła’íí nohwíí nohwich’ą́’gé’ daałidiłchiihíí, ła’íí doo daanohwik’íí dahíí ałdó’ bángot’ąą, dahadń Bik’ehgo’ihi’ṉań nohweBik’ehń ích’į’ yojííhíí.
+44002039	Nohwíí díí bee nohwángot’ąą ła’íí nohwíí nohwich’ą́’gé’ daałidiłchiihí ła’íí doo daanohwik’íí dahíí ałdó’ bángot’ąą , dahadń Bik’ehgo’ihi’ṉań nohweBik’ehń ích’į’ yojííhíí .
 44002040	
 44002041	Hadíí bił daagozhǫ́ǫ́go biyati’ nádaidné’íí baptize ádaabi’deszaa : da’áí bijįį nṉee taadn doo náhóltag dayú shį Jesus daayodlaaníí yedikai .
 44002042	Áí nṉee nadaal’a’á bee bił ch’ídaago’aahíí , ła’íí łił daanlįįgo , báń nihi’né’íí , ła’íí okąąhíí dayúweh nłdzilgo yaa nakai .
