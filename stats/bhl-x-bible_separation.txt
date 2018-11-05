@@ -1,0 +1,12 @@
+!      8      1  True U+0021 EXCLAMATION MARK
+*      1      0  True U+002a ASTERISK
+,    101     32  True U+002c COMMA
+.     57      5  True U+002e FULL STOP
+:      7      0  True U+003a COLON
+?      1      0  True U+003f QUESTION MARK
+|      0      4 False U+007c VERTICAL LINE
+‘      1      0  True U+2018 LEFT SINGLE QUOTATION MARK
+’      1      0  True U+2019 RIGHT SINGLE QUOTATION MARK
+“      7      1  True U+201c LEFT DOUBLE QUOTATION MARK
+”      6      2  True U+201d RIGHT DOUBLE QUOTATION MARK
+†      1      0  True U+2020 DAGGER

@@ -1,0 +1,6 @@
+'    171   8475 False U+0027 APOSTROPHE
+(      0      1 False U+0028 LEFT PARENTHESIS
+)      0      1 False U+0029 RIGHT PARENTHESIS
+,      1     12 False U+002c COMMA
+.      1      0  True U+002e FULL STOP
+:      1      0  True U+003a COLON

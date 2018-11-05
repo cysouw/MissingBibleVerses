@@ -1,0 +1,7 @@
+(      0      1 False U+0028 LEFT PARENTHESIS
+)      1      0  True U+0029 RIGHT PARENTHESIS
+,     12      3  True U+002c COMMA
+.     16      0  True U+002e FULL STOP
+;      2      0  True U+003b SEMICOLON
+“      1      1  True U+201c LEFT DOUBLE QUOTATION MARK
+”      2      0  True U+201d RIGHT DOUBLE QUOTATION MARK

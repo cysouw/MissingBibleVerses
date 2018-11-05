@@ -1,0 +1,2 @@
+¯     12  24321 False U+00af MACRON
+´      1      0  True U+00b4 ACUTE ACCENT
