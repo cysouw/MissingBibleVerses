@@ -1,3 +1,7 @@
+### source: http://old.bibelselskabet.dk/grobib/web/bibelen.htm
+### only the verses containing a link (having an underline in the online version) have been crawled
+### new crawl?
+
 40002003
 40002004
 40002007
