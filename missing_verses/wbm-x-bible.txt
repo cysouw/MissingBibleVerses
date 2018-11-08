@@ -1,48 +1,51 @@
-19119001
-19119002
-19119003
-19119004
-19119005
-19119006
-19119007
-19119008
-23023015
-23023016
-23023017
-23023018
-40006014
-40006015
-40010037
-40010038
-40010039
-40011011
-40011012
-40011013
-40011014
-40011015
-40011018
-40011019
-40011024
-40013016
-40013017
-40013044
-40021010
-40021011
-40022045
-40022046
-44001001
-44001002
-44001003
-44001004
-44001005
-44001006
-44001007
-44001008
-44001009
-44001010
-44001011
-66015004
-66015005
-66015006
-66015007
-66015008
+19119001	Can pui pa grum hawt ka beenli Siyiex khankix, koe bwan son heue.
+19119002	Can pui pa priex ka sakse pa kham Nawh khankix mai pui pa viex khawm rhawm tix mai sawg ka Nawh, koe bwanson heue.
+19119003	Kix ang chix yuh phimap, viang mawh nan kix hu hoek ka daux krax Nawh heue.
+19119004	Nawh Cao hoik tawx hoik gau lox tawm beenli sonsang cuca ex ti hawt twah klaung heue.
+19119005	Kieh daux krax pa hu aux kaux cong mai sonsang pon ti hawt lox tawm beenli Maix khankix liak.
+19119006	Yam hawt aux ti yuh ka lox tawm beenli Maix khawmuik, kieh aux luan khaing krax pa kaig tua liak.
+19119007	Khaix hoik gau aux ti tawng ka krax pa rahsee Maix, aux tak yaog yaw Maix ka rhawm pa rahsee tix heue.
+19119008	Aux tak hawt ti yuh ka lox tawm beenli Maix khankix heue. Paw lai tik vud aux liak.
+23023015	Ka daux singaix an, veng Turux tak mawh pa piawm atixgliah num, awm koe baux ju simiang tix kaux heue. Yam hoik sidah atixgliah num, an tak mawh pa lih ti koe ka veng Turux awm pa koe ka daux lai rhax bun coh kaux heue.
+23023016	Maix pa mawh bun coh kaux pa hoik piawm tix eue, teei ting hu lailing ka daux veng, kieh lox rhax mawh pa mhawm, rhax lai tom nie, sonsang deeh kieh pui doh keud ka maix heue.
+23023017	Khaix hoik sidah atixgliah num, Siyiex tak deeh kia ngien ka veng Turux, nawh tak sang deeh pon ka ngawh rao, yuh lai geu tau mai meung haktiex pa koe ka piang ca haktiex heue.
+23023018	Rao pa pon nawh mai ngawh pa pon nawh khankix, tak mawh pa tang gwieh ti deuh son Siyiex, an tak ang pon ti mawh pa priex tix awm sinngao mai ang pon ti kieh mawh pa khrawm ti deuh heue. Grawh grawng nawh, rao pa pon nawh tak mawh son pui an kix pa ot sivoe Siyiex, sonsang ih tom sak mai sonsang ceep kraung pa kaux heue.
+40006013	Mai paw vieh ex hoek ka daux krax nyaw krax glaw, viang mawh nan taoh ex khaing kaw pa caox liak. Grawh grawng nawh, meung raoma mai siawb sibrawm mai min plakngai, mawh cie Maix leeing ju heue. Amen.
+40006014	Phan pex pluat phimap pui tang kaux, Keeing pex piang meung raoma kawx tak pluat phimap pex heue.
+40006015	Viang mawh nan, phan pex ang pluat phimap pui tang kaux, Keeing pex kawx ang pluat phimap pex heue.”
+40010037	Kaw pa nie lheu moh ka miex keeing tix khaing Aux, ang keung ka Aux mai kaw pa nie lheu moh kawn simex kawn bun tix khaing Aux, ang keung ka Aux.
+40010038	Kaw pa ang klawm khaox lhak tokaux tix mai hawt khaix Aux, ang keung ka Aux.
+40010039	Kaw pa sawg ti yaox ju tokaux tix tak som ju heue. Kaw pa som ju kheu Aux, tak yaox ju heue.”
+40011011	Aux krai lox tete ka pex, ka daux pui pa keh khaing bun khawmuik, pa lheu ting khaing Yohan cao cubcom ang sax lih koe tix kaux kawx, viang mawh nan kaw pa nie iak khaing paox tix ka daux meung raoma lheu ting khaing nawh heue.
+40011012	Jah ka baux yam Yohan cao cubcom tom hoek yam in, pui rhim ti teei Meung Raoma mai grhawm ti laig tan heue.
+40011013	Grawh grawng nawh cao jhai khawmuik mai lox lai beenli grux krai lox jhai tom hoek Yohan heue.
+40011014	Phan pex koe rhawm ti sang rieb teei, kaw in mawh Eliyax pa tak sang hoek heue.
+40011015	Kaw pa koe yhaok kieh nawh mhong heue.
+40011018	Kheu Yohan hoek, ang ih mai ang nyaux, kix tom ah, Kaw in koe phicaox;
+40011019	Yam hoek Kawn kawn pui, ih mai nyaux, kix ah, jhak yaox, Kaw in mawh pui ting priex mai pui ting nyaux rawm plix siiet mai yuh paox pie ka pui koh mau mai pui ting map khankix heue. Viang mawh nan, pingnya cie Siyiex hoik plak jhi rahsee ka daux kaing pa yuh tix khankix heue.”
+40011023	Veng Kapeniom eue, Tak yaogyaw maix tom hoek meung raoma lie? Maix tak lih hu daux meung yum heue. Grawh grawng nawh, kaing pa ting sibrawm pa hoik yuh ka daux maix, phan yuh ka daux veng Sawdom, veng an tak koe tom singaix heue.
+40011024	Aux krai ka maix, ka daux singaix prawng ca sax, maix tak nie yaox ti kham geu lheu khaing haktiex Sawdom heue.”
+40013016	Viang mawh nan, ngai pex koe bwanson kheu chix yaox, mai yhaok pex kawx koe bwanson kheu chix mhong heue.
+40013017	Aux krai lox tete ka pex, koe cao jhai khankix mai pui rahsee khankix, pa simie ti yaox ka ceu pa yaox pex, viang mawh nan ang pon ti yaox mai pa simie ti mhong ka ceu pa mhong pex, viang mawh nan ang pon ti mhong heue.”
+40013044	“Meung Raoma awm sinngao pa ngawh pa hoik mox ka daux ma mai pui tix kaux yaox sinngao an mai baox mox, khaix an ka daux pa gaux rhawm nawh hu coh pa koe tix khawmuik mai liag ma an heue.”
+40021010	Yam laig Nawh Cao ka daux veng Yerusaliem, khawm veng khawmuik lulax rhawm, lawh maw mai chawk ah nin, “Kaw in mawh mawx?”
+40021011	Cub pui hun khankix ah nin, “In mawh cao jhai, Yesux, pa hoek khaing veng Nazariet ka daux meung Galilie heue.”
+40022045	Phan Davit kok Nawh mawh Simiang, Nawh chix mawh kawn nawh yuh ka mawx?”
+40022046	tix kaux kawx, ang chix pawk ka lox Nawh Cao tix gum kawx mai khaix ngaix an pui ang lai kan chawk lox ka Nawh Cao heue.
+44001001	Thawphilux eue, lai pa hoik tiiem aux phao ka, mawh grawng pa jah Yesux ti yuh mhai grawng pa gau Nawh khawmuik,
+44001002	Tom sidah hoek singaix pa rieb ti teei Nawh Cao haok, khaix hoik tawm Nawh lox ka daux Khuan Singax, ka kawncau pa ting Nawh khankix, pa hoik laug Nawh ti teei heue.
+44001003	Ka kix kawx Nawh Cao jhi yaox tokaux pa im tix, khaix hoik geu Nawh ti yum, ka daux mhai rug pa mawh meh tom nie mai kieh kix yaox tokaux tix, ka daux tixpon ngaix mai krai grawng ceu pa dex dawd mai Meung Siyiex heue.
+44001004	Yam khrawm Nawh Cao tau mai kix, Nawh tawm lox ka kix son ang kix sang lih khaing veng Yerusaliem, krox tom hoik pon, awm lox mukheu pa tawx Keeing Cao, pa ah Nawh, “Hoik mhong pex ka Aux.
+44001005	Grawh grawng nawh Yohan cubcom ka rawm tete heue, viang mawh nan, khaix in ang awt rheung miex ngaix tix, pex tak sang cubcom ka daux Khuan Singax heue.”
+44001006	Mawh kheu nan, yam hoik khrawm kix paox tix, kix chawk Nawh Cao ah nin, “Simiang eue, Maix sang deeh tawx meung ka pui Isarelax yam in lie?”
+44001007	Nawh Cao deeh ah nin ka kix, “Bawg yam khankix pa hoik ciak Keeing Cao ti deuh, daux sibrawm tokaux tix, ang mawh pa sang tawx pex tawng.
+44001008	Viang mawh nan pex tak sang pon sibrawm, yam hoik hoek Khuan Singax Singeh piang pex mai pex tak sang mawh pui pa kham mhai rug son Aux, jah ka veng Yerusaliem khawm meung Yudax khawmuik mai meung Samarix mai hoek tom dee sidah haktiex heue.”
+44001009	Khaix hoik krai Nawh Cao ceu an khankix, yam kawn jhak kix, teei Nawh Cao haok mai paiawm rieb ti teei Nawh khaing dee chix yaox kix.
+44001010	Yam kawn maong kix ti jeung ka raoma, jhak heue, pui ra kaux pa ceep kraung pa paing cung liep kix,
+44001011	pa ah nin, “Pui Galilie khankix eue, pex cung ti jhak ka raoma yuh ka mawx? Yesux in, pa hoik rieb ti teei haok ka daux meung raoma khaing pex, tak sang deeh hoek, awm yaox pex Nawh haok hu ka daux meung raoma heue.”
+66015003	Kix rhax ka lox rhax Mose, pa mawh siliex Siyiex mai ka lox rhax kawn Yung pa ah nin, “Siyiex cao pa ting sibrawm piang Khawmuik eue, kaing Maix mawh pa ting lhaong mai pa koe dee daox deng ka Simiang leeing ju, krax pa yuh Maix khankix mawh pa rahsee mai pa mawh meh heue.
+66015004	Simiang eue, mawh mawx pa tak ang lhat mai ang yaogyaw ka ceu kaux Maix, mawh kheu mawh ngie Maix khaing pa singax singeh heue. Mawh kheu ceu pui khawmuik tak sang hoek mai krub ka sivoe Maix heue. Mawh kheu jhawm pa rahsee yuh Maix hoik sidawng heue.”
+66015005	Khaix ceu in khankix aux yaox pa hoik paoh ka nyiex bwan, pa mawh nyiex gox bwan man mhai ruk, ka daux meung raoma heue.
+66015006	Kawncau Siyiex aliah kaux pa koe preng aliah ceu an, lih hoek khaing daux nyiex bwan an heue. Kix ceep ka simaox pa singax mai pa pruh mai hoik nhawt maox rawd khri ka see piang teeih naok kix heue.
+66015007	Ka daux totiag pa im ju pon mu an tix mu teei klong khri aliah mu pa naog ka pa song rhawm song rhi Siyiex, pa im ju ku ju leeing ju mai tawx ka kawncau Siyiex aliah kaux an khankix heue.
+66015008	Nyiex bwan an naog ka taox ngu khaing min pakngai Siyiex mai khaing sibrawm Nawh Cao heue. Ang pon ti laig ka daux nyiex bwan an tix kaux kawx, tom sidah hoik hoik preng aliah ceu cie kawncau Siyiex aliah kaux an khankix heue.
