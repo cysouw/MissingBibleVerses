@@ -1,30 +1,31 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-42003024
-42003025
-42003026
-42003027
-42003028
-42003029
-42003030
-42003031
-42003032
-42003033
-42003034
-42003035
-42003036
-42003037
-42003038
+40001002	Apram pi Aisakë pepap. Ën Aisak pi Yakopë pepap. Ën Yakop pi Yutaare pim nangre nanöröa pepap.
+40001003	Ën Yuta pi Peresre Siraë pepap, ën piarpim ëlëp Tema. Ën Peres pi Esronë pepap. Ën Esron pi Ramë pepap.
+40001004	Ën Ram pi Aminatapë pepap. Ën Aminatap pi Nasonë pepap. Ën Nason pi Salmonë pepap.
+40001005	Ën Salmon pi Poasë pepap, ën pim ëlëp Reap. Ën Poas pi Opetë pepap, ën pim ëlëp Rut. Ën Opet pi Sesi pim pepap.
+40001006	Ën Sesi pi omp ak Tewit pim pepap. Ën Tewit pi Solomonë pepap, pim ëlëp pöt Yuraiaë öng kapirëp.
+40001007	Ën Solomon pi Riapoamë pepap. Ën Riapoam pi Apaisaë pepap. Ën Apaisa pi Esaë pepap.
+40001008	Ën Esa pi Seosapatë pepap. Ën Seosapat pi Soramë pepap. Ën Soram pi Asaiaë pepap.
+40001009	Ën Asaia pi Sotamë pepap. Ën Sotam pi Easë pepap. Ën Eas pi Esekaiaë pepap.
+40001010	Ën Esekaia pi Manasaë pepap. Ën Manasa pi Emosë pepap. Ën Emos pi Sosaiaë pepap.
+40001011	Ën Sosaia pi Sekonaiaare pim nangaröa pepap. Akun pötak Papilon nga omnaröak Yuta omnaröa naëaan narö wii tëak wak së Papilon yangerak moulmëën pitëm inëën eim wakaima.
+40001012	Yuta omën narö Papilon yangerak wakaima akun pötak Sekonaia Sialtielë pepap wakaima. Ën Sialtiel pi Serapapelë pepap.
+40001013	Ën Serapapel pi Apaiatë pepap. Ën Apaiat pi Elaiakimë pepap. Ën Elaiakim pi Esoë pepap.
+40001014	Ën Eso pi Setokë pepap. Ën Setok pi Ekimë pepap. Ën Ekim pi Elaiatë pepap.
+40001015	Ën Elaiat pi Eliesaë pepap. Ën Eliesa pi Matanë pepap. Ën Matan pi Yakopë pepap.
+40001016	Ën Yakop pi Yosepë pepap. Ën Yosep pi Mariaë ompöp. Ënak Mariaak Yesu, pim yapinte Kristo pël yema pöp wila.
+42003023	Yesu pi pim krismaki 30 ëak won sëën pim yaat ngës rëa. Pël yaëën omnaröak piin kön wiin Yosepë ruup pël ëa. Yosep pöp Ilai pim ruup.
+42003024	Ilai pöp Matat pim ruup. Matat pöp Liwai pim ruup. Liwai pöp Melkai pim ruup. Melkai pöp Sanai pim ruup. Sanai pöp Yosep pim ruup.
+42003025	Yosep pöp Matataias pim ruup. Matataias pöp Emos pim ruup. Emos pöp Neam pim ruup. Neam pöp Eslai pim ruup. Eslai pöp Nakai pim ruup.
+42003026	Nakai pöp Meat pim ruup. Meat pöp Matataias pim ruup. Matataias pöp Semen pim ruup. Semen pöp Sosek pim ruup. Sosek pöp Sota pim ruup.
+42003027	Sota pöp Soanan pim ruup. Soanan pöp Resa pim ruup. Resa pöp Serapapel pim ruup. Serapapel pöp Sialtiel pim ruup. Sialtiel pöp Nerai pim ruup.
+42003028	Nerai pöp Melkai pim ruup. Melkai pöp Etai pim ruup. Etai pöp Kosam pim ruup. Kosam pöp Elmatam pim ruup. Elmatam pöp Er pim ruup.
+42003029	Er pöp Yosua pim ruup. Yosua pöp Eliesa pim ruup. Eliesa pöp Sorim pim ruup. Sorim pöp Matat pim ruup. Matat pöp Liwai pim ruup.
+42003030	Liwai pöp Simion pim ruup. Simion pöp Yuta pim ruup. Yuta pöp Yosep pim ruup. Yosep pöp Sonam pim ruup. Sonam pöp Elaiakim pim ruup.
+42003031	Elaiakim pöp Melia pim ruup. Melia pöp Mena pim ruup. Mena pöp Matata pim ruup. Matata pöp Netan pim ruup. Netan pöp Tewit pim ruup.
+42003032	Tewit pöp Sesi pim ruup. Sesi pöp Opet pim ruup. Opet pöp Poas pim ruup. Poas pöp Salmon pim ruup. Salmon pöp Nason pim ruup.
+42003033	Nason pöp Aminatap pim ruup. Aminatap pöp Atmin pim ruup. Atmin pöp Anai pim ruup. Anai pöp Esron pim ruup. Esron pöp Peres pim ruup. Peres pöp Yuta pim ruup.
+42003034	Yuta pöp Yakop pim ruup. Yakop pöp Aisak pim ruup. Aisak pöp Apram pim ruup. Apram pöp Tera pim ruup. Tera pöp Neo pim ruup.
+42003035	Neo pöp Serak pim ruup. Serak pöp Reu pim ruup. Reu pöp Pelek pim ruup. Pelek pöp Epe pim ruup. Epe pöp Sela pim ruup.
+42003036	Sela pöp Kenan pim ruup. Kenan pöp Apaksat pim ruup. Apaksat pöp Sem pim ruup. Sem pöp Noa pim ruup. Noa pöp Lamek pim ruup.
+42003037	Lamek pöp Metusala pim ruup. Metusala pöp Inok pim ruup. Inok pöp Saret pim ruup. Saret pöp Malalel pim ruup. Malalel pöp Kenan pim ruup.
+42003038	Kenan pöp Inos pim ruup. Inos pöp Set pim ruup. Set pöp Atam pim ruup. Atam pöp Anutu pim ruup.
