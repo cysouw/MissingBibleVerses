@@ -672,7 +672,7 @@
 40020013	Majitel vinice se obrátil k jednomu z nich a řekl : Příteli , nekřivdím ti ! Což jsme se předem nedohodli na denní mzdě ?
 40020014	Dostal jsi svoje , a tak buď spokojený . Když chci zaplatit všem stejně , je to přece moje věc . Nebo chceš závidět , že jsem štědrý ? '
 40020015	
-40020016	A tak poslední na tom budou jako první a první jako pos-lední . "
+40020016	A tak poslední na tom budou jako první a první jako poslední . "
 40020017	Během cesty do Jeruzaléma si Ježíš vzal stranou svých dvanáct učedníků a mluvil s nimi o tom , co ho tam čeká :
 40020018	„ Vstupujeme do Jeruzaléma , kde budu zrazen a vydán do rukou velekněžím a židovským právníkům . Ti mne odsoudí k smrti
 40020019	a vydají Římanům , aby mě zesměšnili , zbičovali a ukřižovali . Třetího dne však vstanu opět k životu . "
@@ -1086,7 +1086,7 @@
 41001004	Tím poslem byl Jan Křtitel . Žil na poušti a vybízel lidi , aby od něho přijali křest a dali tak najevo , že se veřejně přiznávají ke svým proviněním , že jich litují a touží , aby jim Bůh odpustil .
 41001005	Lidé z Jeruzaléma a z celého Judska přicházeli , aby mu naslouchali , a když vyznali své viny , Jan je pokřtil v řece Jordánu .
 41001006	Jan nosil oděv z velbloudí srsti přepásaný pásem a živil se kobylkami a medem divokých včel .
-41001007	Ve svých kázáních stále zdůraz-ňoval : „ Záhy po mně přijde někdo daleko mocnější , než jsem já ; bude tak vznešený , že nejsem hoden ani jako otrok rozvázat řemínek jeho obuvi .
+41001007	Ve svých kázáních stále zdůrazňoval : „ Záhy po mně přijde někdo daleko mocnější , než jsem já ; bude tak vznešený , že nejsem hoden ani jako otrok rozvázat řemínek jeho obuvi .
 41001008	Já jsem vás křtil vodou , ale on vás bude křtít Duchem svatým . "
 41001009	Jednoho dne přišel Ježíš z galilejského Nazaretu k Janovi a dal se od něho v Jordánu pokřtít .
 41001010	Ve chvíli , kdy vystupoval z vody na břeh , viděl , jak se obloha rozevřela a na jeho hlavu se snesl Boží Duch v podobě holubice .
@@ -1181,7 +1181,7 @@
 41003026	A jestliže satan bojuje sám proti sobě , jak může něco dokázat ? Nutně musí přijít jeho konec .
 41003027	Chce-li někdo vniknout do domu siláka a zmocnit se jeho věcí , musí ho nejprve spoutat . Tak i démony může vyhánět jen ten , kdo přemohl satana .
 41003028	Ujišťuji vás o jednom : všechno může být lidem odpuštěno , i když se v nevědomosti Bohu rouhají a hrubě ho urážejí slovy i skutky .
-41003029	Když ovšem někdo v zatvrzelosti odmítá Boží zách-rannou moc a přitom ví , co odmítá , takový člověk se rouhá Duchu svatému . A to je hřích , který nemůže být odpuštěn . "
+41003029	Když ovšem někdo v zatvrzelosti odmítá Boží záchrannou moc a přitom ví , co odmítá , takový člověk se rouhá Duchu svatému . A to je hřích , který nemůže být odpuštěn . "
 41003030	To jim Ježíš řekl proto , že jeho činy úmyslně připisovali satanově moci , místo aby přiznali , že uzdravuje mocí Ducha svatého .
 41003031	Tehdy přišli k přeplněnému stavení , kde Ježíš učil , také jeho bratři s matkou a vzkázali mu , že s ním potřebují mluvit .
 41003032	Sedělo kolem něj plno lidí , když mu kdosi oznámil : „ Tvoje matka a tvoji bratři jsou venku a hledají tě . "
@@ -1274,7 +1274,7 @@
 41005043	Ježíš jim důrazně nařídil , aby nikomu nevypravovali , co se stalo . „ Dejte jí najíst , " připomněl rodičům .
 41006001	Pak se Ježíš s učedníky vrátil do svého domovského města Nazaretu .
 41006002	Když přišla sobota , kázal v tamější synagoze , kde mu naslouchalo mnoho lidí . Všichni žasli a říkali si : „ Kdepak se to naučil ? Kde se u něho vzala ta moudrost ? A dokonce dělá i zázraky !
-41006003	Známe ho přece jako tesaře , syna Marie . Jeho bratři jsou Jakub , Josef , Juda a Šimon . A také jeho sestry žijí mezi námi . " Nemohli se s tím prostě vyrovnat , dokonce se nad tím pohor-šovali .
+41006003	Známe ho přece jako tesaře , syna Marie . Jeho bratři jsou Jakub , Josef , Juda a Šimon . A také jeho sestry žijí mezi námi . " Nemohli se s tím prostě vyrovnat , dokonce se nad tím pohoršovali .
 41006004	Ježíš jen poznamenal : „ Nikde prorok neznamená tak málo , jako ve vlastní obci a rodině . " Jejich nedůvěra ho zarmoutila
 41006005	a nemohl tam učinit žádný zázrak ; jen na několik nemocných položil ruku a uzdravil je . Rozhodl se , že se obrátí k lidem v okolních vesnicích .
 41006006	
@@ -3294,7 +3294,7 @@
 43008050	Nemyslete si , že toužím po slávě a velikosti . Mne chce oslavit Bůh . Odsoudí každého , kdo mne odmítne .
 43008051	Budete-li žít podle mého slova , nemusíte se bát smrti . "
 43008052	„ Teď se ukázalo , jaký jsi blázen ! " posmívali se . „ Abraham zemřel , proroci zemřeli , a ty tvrdíš , že kdo dá na tebe , unikne smrti .
-43008053	Myslíš si snad , že jsi významnější než náš otec Abraham a větší než proroci ? Co to ze sebe děláš ? Vždyť ti všichni zem-řeli ! "
+43008053	Myslíš si snad , že jsi významnější než náš otec Abraham a větší než proroci ? Co to ze sebe děláš ? Vždyť ti všichni zemřeli ! "
 43008054	Ježíš jim odpověděl : „ Kdybych se chválil sám , má slova by neměla žádnou váhu , ale chválí mne můj Otec , kterého uznáváte za svého Boha .
 43008055	Nikdy jste ho však nepoznali , ale já ho znám dobře . Kdybych to zapřel , byl bych stejný lhář jako vy . Opravdu ho dobře znám a ve všem ho poslouchám .
 43008056	Jakou radost by měl váš otec Abraham , kdyby se dočkal mého příchodu . Už tehdy věděl , že přijdu , a jak se z toho radoval . "
@@ -3729,7 +3729,7 @@
 43019041	V zahradě nedaleko popraviště byla nová , dosud nepoužitá hrobka , vytesaná do skály .
 43019042	Tam Ježíše uložili , protože do začátku soboty nezbývalo mnoho času .
 43020001	První den po sobotě , ještě před rozedněním , přišla k Ježíšovu hrobu Marie Magdaléna . Uviděla , že kamenný uzávěr hrobky je odsunut .
-43020002	Běžela k Petrovi a k učedníkovi , kterého měl Ježíš tolik rád , a oznámila jim : „ Našeho Pána vzali z hro-bu a nevíme , kam ho položili . "
+43020002	Běžela k Petrovi a k učedníkovi , kterého měl Ježíš tolik rád , a oznámila jim : „ Našeho Pána vzali z hrobu a nevíme , kam ho položili . "
 43020003	Ti dva se zvedli a spěchali ke hrobu . Druhý učedník Petra předběhl a byl tam první .
 43020004	
 43020005	Do hrobu však jenom nahlédl a uviděl prázdné plátno .
@@ -6730,7 +6730,7 @@
 55003015	Svatá písma znáš už od dětství a v nich je obsažena moudrost jak dosáhnout záchrany vírou v Ježíše Krista .
 55003016	Všechny svaté spisy byly inspirovány Bohem ; poučují nás o tom , co je pravda , vedou ke zpytování a nápravě vlastního života a vychovávají nás k správnému jednání .
 55003017	Tak je potom Boží člověk náležitě připraven ve všech směrech konat dobré Boží dílo .
-55004001	Před Bohem a Ježíšem Kristem , který jednoho dne přijde ustavit zde nové království a soudit živé i mrtvé , tě za-přísahám :
+55004001	Před Bohem a Ježíšem Kristem , který jednoho dne přijde ustavit zde nové království a soudit živé i mrtvé , tě zapřísahám :
 55004002	Hlásej neúnavně a naléhavě Boží slovo , kdykoliv se ti naskytne příležitost , ať jsou okolnosti příznivé či nepříznivé . Bude-li třeba , napomínej a kárej , povzbuzuj k dobrému a trpělivě předkládej Boží pravdy .
 55004003	Přijde totiž doba , že lidé nebudou chtít pravdu slyšet a obklopí se učiteli , kteří budou přitakávat jejich názorům .
 55004004	Nebudou už naslouchat Bibli ; slepě se pohrnou za svými klamnými představami .
@@ -7702,7 +7702,7 @@
 66008012	Potom zatroubil čtvrtý anděl . Slunce i měsíc ztratily třetinu svého jasu a pohasla třetina hvězd . Den i noc potemněly .
 66008013	Pak jsem spatřil orla , který se vznášel vysoko na obloze a hlasitě křičel : „ Běda , běda , běda , hrůza obyvatelům země , až zatroubí poslední tři andělští trubači ! "
 66009001	Tu se ozvala polnice pátého anděla . Z nebe spadla na zem jiná hvězda . Dostala klíč od propasti ,
-66009002	otevřela její jícen a z propasti se vyvalil dým jako z velké pece , zakryl slunce a za-mořil vzduch .
+66009002	otevřela její jícen a z propasti se vyvalil dým jako z velké pece , zakryl slunce a zamořil vzduch .
 66009003	Z dýmu se pak vyrojila mračna hmyzu s jedovatými žihadly . Byly to kobylky , jež však nenapadaly rostliny , ale lidi , kteří neměli Boží znamení na čele .
 66009004	
 66009005	Nesměly je usmrcovat , ale mohly je pět měsíců trápit . Bodání toho hmyzu bude tak bolestivé , že mnozí se budou chtít sami zabít , avšak nepodaří se jim to , budou toužit po smrti , ale marně .
