@@ -1,45 +1,55 @@
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023026
-44023027
-44023028
-44023029
-44023030
-45010019
-45010021
-45011028
-45011029
-45011030
-45011031
-45011032
-45011035
-45011036
-46001020
-46014022
-48004028
-48004029
-48004030
-48004031
-49004009
-49004010
-49004011
-49004012
-49004013
-49004014
-49004015
-49004016
-58001006
-58001007
-58001008
-58001010
-58001013
-58002009
-58002010
-58002013
+44015023	Ba ba neela lokwalo lo lo reng: “Rona baapostolo le bagolo, re le badumedi-ka-lona re a lo dumedisa, lona badumedi ba lo tswang mo merafeng, lo le kwa Antiogia le kwa Siria le kwa Kilekia.
+44015024	E re ka re utlwile gore bangwe ba ba duleng mo go rona, ba re sa ba romang, ba lo tshwentse ka mafoko, ba belaedisa dipelo tsa lona,
+44015025	re fitlhetse go le molemo, mme ra dumalelana go tlhaola banna le go ba roma koo go lona, ba na le Baranaba le Paulo, baratiwa ba rona,
+44015026	ba e leng banna ba ba beetseng leina la Morena wa rona Jesu Keresete maphelo a bone.
+44015027	Ke ka moo re romileng Juta le Silase; le bone ba tla lo bolelela dilo tseo ka molomo.
+44015028	Gonne go kgatlhile Mowa o o Boitshepo le rona gore re se ka ra lo rwesa morwalo ope o sele kwa ntle ga tse di batlegang tsa gore
+44015029	lo ikilele mo nameng ya ditlhabelo tsa medimo le mo mading le mo go tse di betilweng le mo boakeng; fa lo ka ithiba mo go tseo, lo tla bo lo dira sentle. Salang pila.”
+44023026	“Nna Kelaudio Lisia ke dumedisa Felekise, molaodi yo o tlotlegang segolo, ka re:
+44023027	Monna yoo o ne a tshwerwe ke Bajuta, ba batla go mmolaya. Mme ka ya teng le mophato, ka mo golola, ka ke lemogile gore ke Moroma.
+44023028	Jaanong ka ke ne ke rata go itse se ba mo latofatsang ka sona, ka mo isa kwa lekgotleng le legolo la bone;
+44023029	ka fitlhela a bewa molato ka ntlha ya dikgang dingwe tsa molao wa bone; mme a se na molato ope o o tshwanetseng loso, le e seng kgolego.
+44023030	E rile ke sena go sebelwa gore monna yoo o tla lalelwa, ka akofa ka mo romela koo go wena, ka ba ka laela balatofatsi ba gagwe gore se ba nang naso ka ga gagwe ba se bue fa pele ga gago. Sala sentle.”
+45010018	Mme ka re: A ruri ga ba a ka ba utlwa? Ba utlwile; gonne “Tumo ya bone bareri e ile mo lefatsheng lotlhe, mafoko a bone a ile kwa mafelelong a lone.”
+45010019	Gape ka re: A ruri Baiseraele ga ba a ka ba tlhaloganya? Moše o buile pele a re: “Ke tla lo tlhotlheleletsa lefufeng ka ba e seng morafe wa Modimo, ke lo gakatsa ka morafe o o se nang tlhaloganyo.”
+45010020	Mme Jesaya o betile pelo a re: “Ke bonywe ke bone ba ba neng ba sa ntshenke, ke senogetse ba ba neng ba sa botse sepe ka ga me.”
+45010021	Mme ka ga Baiseraele gona o a re: “Ke otlololetse batho ba ba sa utlweng, ba ba ganetsang, mabogo letsatsi lotlhe.”
+45011028	Jaanong ka go gana Efangele ke baba ba Modimo ka ntlha ya lona; mme ka fa tlhaolong gone ke baratwi ka ntlha ya borraetsho.
+45011029	Gonne dineo tsa bopelotlhomogi le pitso ya Modimo ga di dirololwe.
+45011030	Gonne lona e rile pele lwa bo lo sa utlwe Modimo, mme jaanong lo utlwetswe botlhoko ka go sa utlweng ga bone,
+45011031	le bone jalo kajeno ga ba utlwe, gore le bone ba tle ba utlwelwe botlhoko ka boutlwelo-botlhoko jo lona lo bo bonyeng;
+45011032	gonne Modimo o ba tswaletse botlhe mo go sa utlweng gore o tle o ba utlwele botlhoko botlhe.
+45011035	“Gape ke mang yo o mo neileng pele se o tla se busediwang?”
+45011036	Gonne dilo tsotlhe di tswa go ene, di teng ka ene, di ya go ene. Tlotlo a e nne ya gagwe ka bosakhutleng! Amen.
+46001020	Yo o botlhale o kae? Moitsedikwalo o kae? Motlhotlhomisi wa lefatshe leno o kae? A Modimo ga o a silofatsa botlhale jwa lefatshe leno?
+46014022	Ke ka moo go bua ka loleme e leng sesupo go ba ba sa dumeleng, e seng go ba ba dumelang; mme thuto ke sesupo go ba ba dumelang, e seng go ba ba sa dumeleng.
+48004028	Mme lona, bakaulengwe, lo bana ba polelelopele jaaka Isaka.
+48004029	Mme le kajeno go ntse jaaka go ne go ntse mo motlheng ole: Yo o tsetsweng ka fa nameng o ne a bogisa yo o tsetsweng ka fa moweng.
+48004030	Mme kana Lokwalo lo a reng? Lo a re: “Leleka lelata le morwaa-lona; gonne morwa lelata ga a nke a tlhakanela boswa le morwa mohumagadi.”
+48004031	Ka moo he, bakaulengwe, ga re bana ba lelata, re ba mohumagadi yo o gololesegileng.
+49004009	Mme fa go twe: “O tlhatlogile,” ke go reng? A ga se go re o ne a fologetse pele kwa mafelong a a kwa tlasetlase a lefatshe?
+49004010	Yo o fologileng e bile ke ene yo o tlhatlogetseng kwa godimo ga magodimo otlhe gore a tlale mo dilong tsotlhe.
+49004011	Ke ene yo o tlhomileng bangwe go nna baapostolo, ba bangwe go nna baporofeti, ba bangwe go nna baefangele, ba bangwe go nna badisa le baruti,
+49004012	gore baitshepi ba etleetsegele tiro ya go direla le kago ya go aga mmele wa ga Keresete
+49004013	go fitlhelela re be re fitlhe rotlhe mo bongwengfela jwa tumelo le jwa go itse Morwa Modimo le go nna monna yo o tletseng go fitlha selekanyong sa bogolo jo bo tletseng jwa ga Keresete
+49004014	gore re se tlhole re nna jaaka bana, re kgokgwediwa jaaka makhubu le go dikolosiwa ke phefo nngwe le nngwe ya thuto ka tsietso ya batho ka fa boferefereng jwa go re logela maano a timetso,
+49004015	mme e re ka go nna boammaaruri mo loratong re golele mo go ene mo dilong tsotlhe, ene yo e leng tlhogo, e bong Keresete,
+49004016	yo mmele otlhe o dirafatsang go gola ga ona ka ene, o lomaganngwa le go tshwaraganngwa ka go thusanya ga ditokololo tsotlhe ka fa tirong e e lekanyeng tokololo nngwe le nngwe gore o ikage ka lorato.
+58001005	Gonne ke ofe wa baengele yo o kileng wa mo raya wa re: “O Morwaake, ke go tsetse kajeno”? Wa ba wa re: “Ke tla nna rraagwe, mme ene o tla nna Morwaake”?
+58001006	Mme e tla re o tsisa Motsalwapele gape mo lefatsheng, o laele o re: “Baengele botlhe ba Modimo ba tshwanetse go mo obamela.”
+58001007	Fa e le ka ga baengele, o buile wa re: “O dira baengele ba ona diphefo le badiredi ba ona dikgabo tsa molelo.”
+58001008	Mme o raya Morwa o a re: “Modimo, sedulo sa bogosi sa gago ke sa bosakhutleng; thobane ya bogosi jwa gago ke thobane ya tshiamo.
+58001009	O ne o rata tshiamo, mme o tlhoa tshiamololo; ke gona ka moo, Modimo, Modimo wa gago o go tloditseng lookwane lwa boitumelo go gaisa balekane ba gago.”
+58001010	Gape wa re: “Wena Morena, o theile lefatshe mo tshimologong, magodimo ke ditiro tsa diatla tsa gago.
+58001011	Tseo di tla nyelela, mme wena o nnetse ruri, mme tsona tsotlhe di tla onala jaaka seaparo.
+58001012	O tla di mena jaaka kobo, jaaka seaparo, di tla fetolwa, mme wena o ntse o le yo o leng ene; dinyaga tsa gago ga di nke di khutla.”
+58001013	Mme ke ofe wa baengele yo o kileng wa mo raya wa re: “Dula ka fa letsogong la me le le jang, ke tle ke tsamae ke dire baba ba gago sebeo sa dinao tsa gago”?
+58001014	Bone botlhe a ga se mewa e e direlang, e e romelwang tirelong ka ntlha ya ba ba tla ruang pholoso boswa?
+58002008	dilo tsotlhe wa di baya fa tlase ga dinao tsa gagwe.” Mme kana ka go baya dilo tsotlhe fa tlase ga gagwe, ga o a ka wa sadisa sepe se se seng mo taolong ya gagwe. Mme kajeno ga re ise re bone, fa dilo tsotlhe di beilwe mo taolong ya gagwe.
+58002009	Mme ene yo o ne a fetwa ke baengele ka sebakanyana, e bong Jesu, re mmona a rwesitswe kgalalelo le tlotlo ka ntlha ya pogiso ya loso gore a utlwele mongwe le mongwe loso ka bopelotlhomogi jwa Modimo.
+58002010	Gonne go ne go tshwanetse ona o dilo tsotlhe di leng ka ntlha ya ona, o dilo tsotlhe di leng ka ona, o o gogetseng bana ba bantsi kwa kgalalelong, gore o ise mosimolodi wa pholoso ya bona kwa botlalong ka dipogo.
+58002012	fa a re: “Ke tla bolelela bomorwa-rre leina la gago, ke go opelela mo gare ga phuthego.”
+58002013	A bile a re: “Nna ke tla mo ikanya;” a ba a re: “Bona, ke fano le bana ba Modimo o ba nneileng.”
 58003016
 58003017
 58003018
