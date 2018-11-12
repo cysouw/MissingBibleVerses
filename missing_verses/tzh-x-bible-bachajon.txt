@@ -1,76 +1,93 @@
-41007008
-44015024
-44015025
-44015026
-44015027
-44015028
-44015029
-44023026
-44023027
-44023028
-44023029
-44023030
-45015010
-45015011
-45015012
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-58001006
-58001007
-58001008
-58001010
-58001013
-58004004
-58004005
-58005006
-58010017
-58010039
-60002008
-66002002
-66002003
-66002004
-66002005
-66002006
-66002007
-66002009
-66002010
-66002011
-66002013
-66002014
-66002015
-66002016
-66002017
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66002026
-66002027
-66002028
-66002029
-66003002
-66003003
-66003004
-66003005
-66003006
-66003008
-66003009
-66003010
-66003011
-66003012
-66003013
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66003021
-66003022
+41007008	como yac awihquitayic te smandar Dios, ha tulan sc'oblal awu'unic te costumbre yu'un winiquetic: ha te spoquel te q'uibetic soc te vasohetic; soc ay yan bintic yac apasic hich te bin ut'il ini, xchi.
+44015023	soc la sts'ihbayic hun te ya yich'ic bahel, te hich la yal: Te jpuc-c'opotcotic, te ancianohotcotic soc te quermanotactic ya jpatbeyexcotic awo'tanic quermanotac jyanlumetic te ayex ta Antioquía, Siria soc ta Cilicia.
+44015024	La jca'iycotic te ay loq'uem ta cohlilcotic cha'oxtuhl te mayuc bin jpasojcotic ta mandar, te la ya'beyex amel awo'tanic soc la ya'beyex awocolic yu'un te bin la yalique.
+44015025	La jchap jc'opcotic, lec la jca'iycotic te ya jlehcotic cheb winiquetic yu'un ya jticoncotic bahel ta atojolic soc te Bernabé soc Pablo te c'uxic ta co'tantic,
+44015026	ha winiquetic te yac'oj scuxlejalic ta scuenta te Cajwaltic Jesucristo.
+44015027	Ha yu'un la jticoncotic bahel te Judas soc Silas scuenta yu'un ha nix ya xc'oht yalbeyex.
+44015028	Lec la ya'iy te Ch'ul Espíritu soc lec la jca'iycotic te mayuc bin ya ca'beyexcotic acuchic, ha nax ini:
+44015029	Ma me xawe'ic te bin a'bot scuenta milbil mahtanil yu'un loc'ombahetic, ma me xawe'ic ch'ich' o te bin ts'otbil nax ta snuc', soc ma me xawa'iyic antsiwej o ma me xawac' abahic ta antsinel. Teme hich yac ach'uhunic spasele, lec bin yac apasic, xchi te carta.
+44023026	Ich'bilat ta muc' gobernador Félix: Ya jpatbat awo'tan, ho'on te Claudio Lisias.
+44023027	Te judíohetic la stsaquic ha'i winic ini, c'an smilic, pero la jcoltay loq'uel soc te soldadohetic cu'un, yu'un la jca'iy te ha romano winic
+44023028	La jc'an la jca'iy te bin smulinej yu'unic, hich la jticon bahel ta stojol te jchahpanwanejetic yu'unique.
+44023029	La jca'iy te ha smulinej yu'unic te bin ut'il ay ta ch'uhunel te ley yu'unic, pero mayuc smul te ya xhu' ya x'ac'ot ta lajel yu'un o te ya xhu' ya yich' chuquel yu'une.
+44023030	Pero c'alal halboton te chapal sc'oblal ta milel yu'un te judíohetic te winic ini, ora la jticombat ta atojol, soc la jcalbe te mach'atic yac slehbebellic smul te ya me yaq'uic ta chahpanel ta atojol te bin smulinej yu'unique, xchi ta carta.
+45015009	soc scuenta yu'un te jyanlumetic ya yalbeyic yutsil sc'oblal Dios yu'un te sc'uxul yo'tan, hich te bin ut'il ts'ihbabil: Ha yu'un ya calbat yutsil ac'oblal ta yohlil te jyanlumetic soc ya jc'ayojtaybat abihil, xchi.
+45015010	Soc hich ya yal: Jyanlumex, tse'eluc me awo'tanic soc te pueblo yu'une, xchi.
+45015011	Soc ya yal xan: Halbeyahic wocol te Cajwaltic, spisil jyanlumetic, c'ayojtaybeyahic yutsilal, spisil nacionetic, xchi.
+45015012	Soc hich ya yal te Isaías: Ya me xcha'col te slohp' Isaí, ha te mach'a ya xhahch scuentahin te jyanlumetic; ha me ya smuc'ulin yo'tanic te nacionetique, xchi.
+47009010	Te mach'a ya ya'be sts'unub te mach'a ya ya'iy ts'umbajel soc te ya ya'be pan te mach'a ya xwe', ha nix ya me yac' sitinuc soc ya me yac' p'ohluc te ts'unubiletic awu'unic, soc ya me yac' xp'ohl te sit yu'un te stojil awa'telic,
+47009011	hich ay bayel ta chahp ac'uhlejalic scuenta yu'un spisil ora jun awo'tanic ya xhu' yac awaq'uic. Hich ta jcuentacotic ya me yich' halbeyel wocol Dios yu'un te bintic bayel awac'ojic,
+47009012	como te bin yac apasic ini, ma ha'uc nax yac awaq'uic yu'un te bin ya spas falta yu'un te mach'atic ch'uhltesbilic, ha yac awaq'uic yu'un te ay tsobolic te ya yalbeyic wocol Dios yu'un a.
+47009013	Ta scuenta te a'tel ini ya me yalbeyic wocol Dios yu'un te bin ut'il ach'uhunejic spasel te bin ya yal te lec yach'il c'op yu'un Cristo, soc yu'un te bayel awa'beyejic te bin ya xtuhun yu'unic soc spisil yantic.
+47009014	Soc ya me sc'opombeyex Dios te bin ut'il c'uxex ta yo'tanic, ta scaj te bayel yutsil yo'tan Dios te ya xchicnaj ta atojolique.
+47009015	¡Wocol yal Dios yu'un te smahtan te mayuc bin c'an spajbe yutsil stuquele!
+58001005	Como ¿mach'a ch'ul a'batil te hich halbot yu'un te Diose: Ha'at Jnich'anat, nax to nax ayinat cu'un, te xchi sc'oblale? Soc la yal xan: Ho'on staton ya xc'ohon, soc ha jnich'an ya xc'oht, xchi.
+58001006	Soc te c'alal Dios la sticon tal ta bahlumilal te Ba-nich'anil, hich la yal: Spisil te ch'ul a'batetic yu'un Dios ac'a sch'uhuntayic, xchi.
+58001007	Soc hich la yalbe sc'oblal te ch'ul a'batetic: Ya yac' te pajal soc ic' ya xc'oht te ch'ul a'batetic yu'un, pajal soc yat c'ahc' ya xc'oht te a'batetic yu'une, xchi.
+58001008	Pero hich ya yalbe sc'oblal te Nich'anil: Dios, te muc'ul-huctajibal awu'un sbahtel q'uinal ay. Te bastón yu'un te cuentahinel awu'un, ha bastón yu'un bintic toj ta pasel.
+58001009	C'ux ta awo'tan te bin stojil ta pasel soc yac awihlay te bin chopole. Ha yu'un Dios, te Dios awu'un, la smalat ta aceite yu'un tse'el-o'tanil, xchi.
+58001010	Soc la yal xan: Ha'at, Cajwal, ta shahchibal la awa'be yich'o-ip te bahlumilal, soc ha ya'tel ac'ab te ch'ulchane.
+58001011	Ya xlajic, yan te ha'ate, atalel ayat; spisil hich ya xpoco'ubic te bin ut'il muc'ul-c'u'ul;
+58001012	yac apac hich te bin ut'il c'u'ul; yac ajeltay hich te bin ut'il mach'a ya sjeltay sc'u'-spac'. Yan te ha'ate atalel ayat atuquel, mayuc slajibal te awa'bilal, xchi sc'oblal.
+58001013	¿Mach'a ch'ul a'batil te hich halbot yu'un Dios: Huclan ta jwa'el-c'ab ha to c'alal ya cac' ta scajtajib awoc te acontra, te xchi sc'oblale?
+58004003	Yan te jayebotic te jch'uhunejtiquix ya xhu' ya x'ochotic ta banti ay te cux-o'tanil, hich te bin ut'il yaloj te Diose: Ha yu'un la jcal ta jamal ta scuenta quilimba: Mayuc bin ora ya x'ochic ta banti ay te cux-o'tanil cu'une, xchi, aunque hu'emix ya'tel c'alal to ta shahchibal te bahlumilale,
+58004004	como ay banti hich la yalbe sc'oblal te shuquebal c'ahc'al: Ta shuquebal c'ahc'al la scux yo'tan Dios yu'un spisil ya'tel, xchi.
+58004005	Soc hich ya yal yan buelta: Ma x'ochic ta banti ay te cux-o'tanil cu'une, te xchihe.
+58005005	Ha nix hich te Cristo, ma ba la sle yutsilal stuquel yu'un ya yotses sba ta muc'ul sacerdote, pero hich halbot yu'un Dios: Ha'at jnich'anat; nax to nax ayinat cu'un, xchi sc'oblal.
+58005006	Soc hich te bin ut'il ya yal ta yan lugar: Ha'at sacerdotehat sbahtel q'uinal, hich te bin ut'il te Melquisedec, xchi.
+58010016	Ha ini te chapbil-c'op ya jpas soc te c'alal ya sta sc'ahc'alel, xchi te Cajwaltic: Ya ca'be ta yo'tanic te mandariletic cu'un, soc ya jts'ihbabe ta spensaric, xchi.
+58010017	Soc hich la yal xan: Ma jaymehl ya jna'be xan te smulic soc te sc'axun-mandaric, xchi.
+58010039	Pero te ho'otique, ma ho'ucotic te ya suhtotic ta jpatic yu'un ya xch'ayotic, ho'otic ay sch'uhunel co'tantic yu'un hich ya xcol jch'uhleltic.
+60002007	Te ha'ex te ach'uhunejic, ha bayel sc'oblal ta awo'tanic te tone; yan te mach'atic ma ba ya sch'uhunic: Te ton te p'ajbil yu'un te jpas-nahetic, ha sjol c'oht te yich'o-ip te xuhc nahe, xchi,
+60002008	soc: Ha ton scuenta c'ohchinojibal soc ha ton te ya xyahlteswan, xchi. Ha ya sc'ohchin sbahic a ta scaj te ma ba ya sch'uhunic te c'ope. ¡Yu'un hich nix ya xc'ohtic ta loq'uel a!
+66002001	Ts'ihbabeya te ch'ul a'bat yu'un te iglesia te ay ta Éfeso: Hich ya yal te mach'a ay huqueb eq'uetic ta swa'el-c'ab soc te ya xbehen ta yohlil te huqueb yawil c'ahc' pasbil ta oro:
+66002002	Ya jna' bin yilel awa'tel, te tulan ayat ta a'tel soc te ya xcuhch awu'un; soc ya jna' te ma xcuhch awu'un te mach'atic chopolic, te atsajoj te mach'atic ya scuy sbahic ta jpuc-c'opetic pero ma ha'uc, soc la atsaquix ta slotic.
+66002003	C'axem awocol soc cuhchem awu'un, tulan a'tejemat ta scuenta jbihil, soc ma ba luhbenat.
+66002004	Pero ay bin ma ba lec co'tan awu'un: ha te hilix awu'un te sc'uxul awo'tan te ay ta nahil to.
+66002005	Na'a te banti yahlemat, suhtesa awo'tan soc pasa te bin nahil la apase. Teme ma ba yac asuhtes awo'tan, ya me xtalon ta ban ayat soc ya me jpojbat te yawil c'ahc' awu'un ta yawil.
+66002006	Pero ay bin ay awu'un: ha te yac awihlaybe ya'tel te Nicolaítahetic; ha nix hichon ya quihlay.
+66002007	Te mach'a ay schiquin, ac'a me ya'iy te bin ya xhalbot yu'un te Espíritu te iglesiahetique. Te mach'a ya ya'iy tsalaw, ya ca'be slo'be sit te te' scuenta cuxlejal te ay ta yutsil ts'unubil q'uinal yu'un Dios, xchi.
+66002008	Ts'ihbabeya te ch'ul a'bat yu'un te iglesia ta Esmirna: Hich ya yal te Mach'a ha shahchibal soc slajibal, te laj soc te cha'cuxaj tal:
+66002009	Ya jna' bin yilel awa'tel, ya jna' te awocol, soc te pobre ayat (aunque c'uhlejat); ya jna' bin ut'il ayat ta labanel yu'un te mach'atic judíohetic ta sc'opic pero ma ha'uquic, ha sinagoga yu'un Satanás.
+66002010	Ma me xiwat yu'un teme ya xc'ax awocol. Ay me ya yotsesex ta cárcel te pucuj scuenta atsajelic; lajuneb c'ahc'al ya me xc'ax awocolic. Junuc me awo'tan ha to c'alal ya xlajat, ya me ca'bat te corona scuenta cuxlejal.
+66002011	Te mach'a ay schiquin, ac'a me ya'iy te bin ya xhalbot yu'un te Espíritu te iglesiahetique. Te mach'a ya ya'iy tsalaw, ma ba ya ya'iybe sc'uxul te schebal buelta lajel, xchi.
+66002012	Ts'ihbabeya te ch'ul a'bat yu'un te iglesia ta Pérgamo: Hich ya yal te mach'a yich'oj te espada te scha'bunjehchel ay ye:
+66002013	Ya jna' banti nahinemat, ta banti ay te shuctajib te Satanás. Pero stalel jun awo'tan ta jtojol, ma ba amucoj ta awo'tan te ach'uhunejon, ni ha'uc te c'alal laj ta awohlilic te Antipas te testigo cu'un te jun yo'tan ta jtojol, tey ta banti nahinem te Satanás.
+66002014	Pero ay bintic ma lecuc co'tan awu'un: ay mach'atic sch'uhunejic te bin la yac' ta nopel Balaam, te la ya'be snop te Balac bin ut'il ya yac' c'ohchinojibal ta stojol te israeletic, ha te ya swe'ic te bin a'bibil ta milbil mahtanil ta stojol lotil diosetic soc te ya ya'iyic antsiwej.
+66002015	Soc ha nix hich ay mach'atic ay ta awohlilic te sch'uhunejic te bin ya yaq'uic ta nopel te Nicolaítahetic.
+66002016	Ha yu'un, suhtesa awo'tan, teme ma'uque, ya xtalon ta ora ta banti ayat, ya ca'be guerra ta espada te ya xloc' ta que.
+66002017	Te mach'a ay schiquin, ac'a me ya'iy te bin ya xhalbot yu'un te Espíritu te iglesiahetique. Te mach'a ya ya'iy tsalaw, ya ca'be swe' te maná nac'bil, soc ya ca'be tut saquil ton te ts'ihbabil tey a te yach'il sbihil te mayuc mach'a ya sna', ha nax ya sna' stuquel te mach'a ya yich'e, xchi.
+66002018	Ts'ihbabeya te ch'ul a'bat yu'un te iglesia ta Tiatira: Hich ya yal te Snich'an Dios, te sjel ta yat c'ahc' te sit soc hich yilel yoc te bin ut'il xlipet huxbil bronce:
+66002019	Ya jna' bin yilel awa'tel, te sc'uxul awo'tan, sch'uhunel awo'tan, te yac awac' aba ta a'batinel, te slamalil awo'tan, soc te c'ax hich awa'tel a te bin ut'il ta shahchibal.
+66002020	Pero ay bin ma lecuc co'tan awu'un: ha te mayuc bin yac awal yu'un te ants Jezabel, te scuyoj sba ta jalwanej-ants, te ya ya'be snopic soc ya smon te a'batetic cu'un te ya ya'iyic antsiwej soc te ya yac' sbahic ta antsinel, soc te ya swe'ic te we'elil a'bibil ta stojol loc'ombahetic.
+66002021	Hal c'ahc'al la jmahliy te ya suhtes yo'tan, pero ma ba ya sc'an ya suhtes yo'tan yu'un te yac yac'bel sba ta antsinel.
+66002022	Ha yu'un ya me jch'oj ta swayib, soc ya cac' c'axuc bayel swocolic te mach'atic ya yantsinic, teme ma ba ya suhtes yo'tanic yu'un te bin ya spas te antse.
+66002023	Ya cac' lajuc te yalatac, hich spisil te iglesiahetic ya me sna'ic te ho'on ya jtsahtay te snopojibal yu'unic soc te bin ay ta yo'tanic. Ho'on ya ca'beyex jujutuhl ha chican bin yilel te awa'telique.
+66002024	Yan te jayeb xan ayex ta Tiatira, te ma hichuc ay snopojibal awu'unic soc ma ba anopbeyejic te bin muquen ay yu'un te Satanás te ya yalic, hich ya calbeyex: Mayuc yan ihcatsil ya ca'beyex acuchic;
+66002025	pero te bin ay awu'unic ich'ahic ha to c'alal ya xtalon.
+66002026	Te mach'a ya ya'iy tsalaw soc te ya ya'telin spasel te ca'tel c'alal ta slajibal, ya ca'be yich' ya'tel ta stojol te nacionetic;
+66002027	ta scuenta te bastón-taq'uin ya me scuentahinlan, soc ya swuyticlan hich te bin ut'il pac'bil oxom, hich te bin ut'il te ca'tel quich'oj yu'un te Jtate.
+66002028	Soc ya me ca'be te jsacubel ec'.
+66002029	Te mach'a ay schiquin, ac'a me ya'iy te bin ya xhalbot yu'un te Espíritu te iglesiahetique, xchi.
+66003001	Ts'ihbabeya te ch'ul a'bat yu'un te iglesia ta Sardis: Hich ya yal te Mach'a yich'oj te huqueb espírituhetic yu'un Dios soc te huqueb eq'uetic: Ya jna' bin yilel awa'tel; cuxul, xchi ac'oblal, pero chamenat.
+66003002	Cuxa awo'tan, a'beya yich' yip te bintic hilemic to, te lajelix, como la jta te ma ba ts'acal awa'tel ta stojol Dios.
+66003003	Na'a me hiche te bin awich'oj soc awa'iyej; pasa soc suhtesa awo'tan. Teme ma ba yac acux awo'tan, ya xtalon ta atojol hich te bin ut'il j'elec', ma na'biluc awu'un bin ora ya xtalon.
+66003004	Pero ay cha'oxtuhlic ta Sardis te ma ba ya'beyej yatin abac sc'u' spaq'uic, slapojic sac sc'u' spaq'uic a ya me sjoquinonic ta behel, como hich ya sc'an ta stojolic.
+66003005	Te mach'a ya ya'iy tsalaw, sac sc'u' spac' ya x'a'bot slap, soc ma ba ya jtup'be sbihil ta libro scuenta cuxlejal, soc jamal ya calbe sbihil ta stojol te Jtat soc te ch'ul a'batetic yu'une.
+66003006	Te mach'a ay schiquin, ac'a me ya'iy te bin ya xhalbot yu'un te Espíritu te iglesiahetique, xchi.
+66003007	Ts'ihbabeya te ch'ul a'bat yu'un te iglesia ta Filadelfia: Hich ya yal te Mach'a ch'ultesbil, te smelelil c'op, te yich'oj te llave yu'un David, te mach'a ya sjam, te mayuc mach'a ya xhu' ya smac, soc te ya smac, te mayuc mach'a ya xhu' ya sjam:
+66003008	Ya jna' bin yilel awa'tel. La jcac' jamal puerta ta atojol te mayuc mach'a ya xhu' ya smac. Aunque mayuc lec awip, la acanataybon te jc'op soc ma ba la amuc ta awo'tan te jbihile.
+66003009	Te mach'atic ta sinagoga yu'un Satanás, te ha judío ta sc'opic, pero ma ha'uc, ya me cac' taluc squejan sbahic ta ye'tal awoc soc ya me sna'ic te c'ux la jca'iyat ta co'tane.
+66003010	Te bin ut'il acanantayej te jmandar te ya xcuhch awu'un te awocol, ha nix hichon ya jcanantayat ta yorahil tsajel te ya xtal ta stojol swohlol bahlumilal scuenta stsajelic te mach'atic nahinemic ta bahlumilal.
+66003011	Nopol ya xtalon. Ma me xch'ay awu'un te bin ay awu'un, scuenta yu'un mayuc yan mach'a ya yich'bat te acorona.
+66003012	Te mach'a ya ya'iy tsalaw, ya cac' te ha yoyal ya xc'oht ta templo yu'un te Dios cu'un, soc mayuc bin ora ya xloc' tey a. Tey nix ta stojol ya me jts'ihbabe te sbihil te Dios cu'un soc te sbihil te muc'ul pueblo yu'un te Dios cu'un, ha te yach'il Jerusalén te ya xco tal ta ch'ulchan ta stojol te Dios cu'un; soc ya jts'ihbay te yach'il jbihile.
+66003013	Te mach'a ay schiquin, ac'a me ya'iy te bin ya xhalbot yu'un te Espíritu te iglesiahetique, xchi.
+66003014	Ts'ihbabeya te ch'ul a'bat yu'un te iglesia ta Laodicea: Hich ya yal te mach'a Hichuc, ha te testigo te stalel jun yo'tan soc te melel, te shahchibal te bintic pasticlambil yu'un Dios:
+66003015	Ya jna' bin yilel awa'tel, te ma sicucat soc ma q'uixinucat. ¡Ha lec te sicucat o q'uixinucat!
+66003016	Pero te bin ut'il c'un q'uixinat, te ma sicucat soc ma q'uixinucat, ya jxehtayat loq'uel ta que.
+66003017	Hich yac awal: Jc'uhlejon, la jtahix jc'uhlejal, mayuc bin ya spason falta, xchihat. Pero ma xana' te mayuc bin ay awu'un, c'ux obol aba, pobrehat, ts'o'sitat soc watalat.
+66003018	Ha yu'un ya calbat te yacuc amambon oro te lecubtesbil ta c'ahc', scuenta yu'un jc'uhlej ya xc'ohat a; soc yacuc amambon sac ac'u' apac' te yac alap, scuenta yu'un ma ba ya xchicnaj te aq'uexlal te bin ut'il watalat; soc yacuc amambon spoxil asit scuenta yu'un yac awil q'uinal a.
+66003019	Ya jtsits soc ya ca'be castigo scuenta tojobtesel spisil mach'atic c'ux ta co'tan; ha yu'un pasa tulan, suhtesa awo'tan.
+66003020	Ilawil, teq'uelon ta ti'nahil, yacon ta c'op; teme ay mach'a ya ya'iybon jc'op soc ya sjambon te ti'nahil, ya x'ochon, ya joquin ta we'el soc ya sjoquinon ta we'el.
+66003021	Te mach'a ya ya'iy tsalaw, ya cac' sjoquinon ta huclej ta jmuc'ul-huctajib, hich te bin ut'il la jca'iy tsalaw soc la joquin ta huclej ta smuc'ul-huctajib te Jtate.
+66003022	Te mach'a ay schiquin, ac'a me ya'iy te bin ya xhalbot yu'un te Espíritu te iglesiahetique, xchi.
