@@ -1,84 +1,87 @@
-40001002
-40001003
-40001004
-40001005
-40001006
-40001007
-40001008
-40001009
-40001010
-40001011
-40001012
-40001013
-40001014
-40001015
-40001016
-40005034
-40005035
-40009020
-40009021
-40010021
-40010022
-40010030
-40010031
-40011029
-40011030
-40012033
-40012034
-40012035
-40014003
-40014004
-40022045
-41003017
-41003018
-41003019
-41005007
-41005008
-41005027
-41005028
-41006006
-41006017
-41006018
-41007008
-41012037
-41013012
-41013013
-42002006
-42002007
-42003001
-42003002
-42006033
-42006034
-42007004
-42007005
-42008028
-42008029
-42009043
-42011047
-42011048
-42020005
-42020006
-42020018
-42020030
-42020031
-42020044
-42023050
-42023051
-43004007
-43004008
-43005045
-43005046
-43006023
-43006024
-43008052
-43008053
-43013019
-43013020
-43016004
-43019020
-43019021
-43019037
-44001014
+40001002	Abraham po Isak avaki, Isak po Yakob avaki, Yakob po Yehuda muno apa arakove mavaki,
+40001003	Yehuda po Peres muno Zera yavaki (aya akoya mi Tamar), Peres po Hezron avaki, Hezron po Ram avaki,
+40001004	Ram po Aminadab avaki, Aminadab po Nahason avaki, Nahason po Salmon avaki,
+40001005	Salmon po Boas avaki (apa akoya mi Rahap), Boas po Obed avaki (apa akoya mi Rut), Obed po Isai avaki,
+40001006	Isai po Akarijo Titi Daud avaki. Daud po Salomo avaki (apa akoya mi Uria apa anamu),
+40001007	Salomo po Rehabeam avaki, Rehabeam po Abia avaki, Abia po Asa avaki,
+40001008	Asa po Yosafat avaki, Yosafat po Yoram avaki, Yoram po Uzia avaki,
+40001009	Uzia po Yotam avaki, Yotam po Ahas avaki, Ahas po Hizkia avaki,
+40001010	Hizkia po Manasye avaki, Manasye po Amon avaki, Amon po Yosia avaki,
+40001011	Yosia po Yekonya muno apa arakove mavaki arono naito Babel wo vatano Yahudi maugavo arove uta no Babel.
+40001012	Arono vatano Yahudi maugave uta no Babel rai to, umbawe: Yekonya po Seatiel avaki, Seatiel po Zerubabel avaki,
+40001013	Zerubabel po Abihud avaki, Abihud po Eliakim avaki, Eliakim po Azor avaki,
+40001014	Azor po Zadok avaki, Zadok po Akim avaki, Akim po Eliud avaki,
+40001015	Eliud po Eleazar avaki, Eleazar po Matan avaki, Matan po Yakob avaki,
+40001016	Yakob po Yusup avaki. Yusup apa anamu mi Maria, omi mo Yesus avaki opi awaino Mesias, Opamo Amisye po apatimu indamu Po vatano mine so mapaya ayao kakaije rai.
+40005034	Weramu Sya ananyao wanyine no taiso: Vemo nyo Amisye apa tame muno anakotaro Po ranari rui vayave ama tame veano nya urairi raokaisy inya! Wimbekero nya urairi mbambunin ti, wirati nyare ndave tai maisy, weramu kakai mi nyo raito to. Weti Syo raura syare vemo nyo urairije rapatimu ti nyo naumo warae me, mine so me, munijo Yerusalem me, awa tame veano raokaisy inya. Weye naumo warae mamo Amisye apa tuna rai, muno mine somamo Apa teto rai, muno Yerusalem omamo Amisy opirati Akarijo Titi apa munije mije. Amisye apave umaso rai tenambe, weti vemo nyo awa tame veano nya urairije raokaisy inya.
+40005035	
+40009020	Wanyana unanuije ama yasyin, wanya nggwanen inta, omamo nanto waneno embae rai tutira tume abusyinara eane rurun to, nde mararaijo Yesus akirije rai. Mo ratantona mare, “Syantukamo Yesus apa ansune rai vayave, indati risauman aje.” Weti rantukamo Apa ansune ama marane bo rai.
+40009021	
+40010021	Indati masyote nde nande arono vatan tenambe manuga mamuno wasai weye weatavondi Rinai. Vatane wo taune awa arakove mansamavun indamu maubaisy. Muno ajae wo taune awa arikainye mansamavun indamu maubaisy tavon. Arikainye wo awa akoye nawe, awa ajae nawe, mave tatugadi, muno wo maunanta inda maubaisy. Weramu are nawirati matawandi kobe muno wanave Rinai tutir ava nto ama marane rai, onawamo indati Amisye po mapaya irati kakaije rai indamu ukova nuge nuganui.
+40010022	
+40010030	Muno Amisye po wasaeranande tavon, weye vatane nanentabo wapa mangke ma ntiti jirati insani manui awa rakivan. Wasakarivuinye mamo Amisye po ratora mamai to! Weti vemo wajaniv inya!”
+40010031	
+40011029	Weye Risyamo inanuga nsaumano wasai muno inanuga mpaaje. Syare syo wasanyao, muno Sya ananyao syo raugaje wasaije mangke jewen, yara mamaisyo wasanuga rai. Weti wapo ranyao mavabe muno watavondi rai, wea indati mo kovo saumane raugavo wasanuga rai.”
+40011030	
+40012033	Parisije, weapamo vatano mamun maisyare tawae mamun ramaisy! Wapare wapo kove raura, wamamaisye ramu, weye wasanuga mamun. Wasanuga mamo raurata irati ananeneae inyo mote so rai. Inyo moto kove mo mano kove rauguje, yara inyo moto kakaije mo mano kakaije rauguje, weye inyo mane mamo mamaisyo ama mote rai. Maisyare omai ti, vatano kove wo ayao kove raura weye manuga ntairijo ana ngkove rai, yara vatano kakainoanive wapo ayao kakaije raura weye wasanuga ntairijo ana ngkakaije rai. Weye vatane apa ana no anuga rai ntipu muje po raura no awa.
+40012034	
+40012035	
+40014003	Yohanes Pembaptis apa kakaije nande no taiso: Herodes po apa arakovo Pilipus apa anamugo Herodias raovan to, weti Yohanes pananyaube Herodes ai pare, “Winyamo vemo nyo nya arakova apa anamu raovan inya! Nyo ananyao Amisy rakanyoandi!” Wetiva Herodias umaso mparijo Yohanes ai, ti ama anap Herodes po Yohanes aijar, po augave siso no tanoano makova rai.
+40014004	
+40022045	Daud po Mesias aura pare, ‘sya Akarijo Titi pije,’ yara Mesias opamo apa ajavi pije!”
+41003016	Weti Yesus apa arakovo mansano abusyinara eane rurum awa tame mi som: Simon (apa tamo Yesus po raura tavona Petrus),
+41003017	Yakobus, apa rijato Yohanes (wenayamo Sebedeus apa arikainye naya, weramu Yesus po yawainamo Boanerges, ama ine mare “arikainyo katitir”),
+41003018	Andreas, Pilipus, Bartolomeus, Matius, Tomas, Yakobus (Alpeus apa kavo pije), Tadeus, Simon (opi awainamo vatano Zelot),
+41003019	Yudas Iskariot (opi po Yesus amavun).
+41005007	Umba Yesus po raura nanto ai pare, “Anawayo kakai, nyuje vatane so aora!” Naije vatane umaso gwain akoeve rave pare, “Yesus, Arikainyo Amisyo no no munijo ntiti, Nyo rinave tai ruimaisye so? Syo Amisye apa tame rauranara Nyo inansewabe inya.”
+41005008	
+41005027	Wanya so mo Yesus anaumbe to ti mo ratantona mare, “Syantukamo Apa ansune rai vayave indati risauman aje.” Weti wanya umaso no no vatano wanuije awa yasyin umba mararaijo Yesus akirije rai, umbawe rantukamo Apa ansune rai.
+41005028	
+41006006	Muno nantoive mai, weye wanave Aije ramu. Umba Yesus pusyo ti siso no munije inta rai nanto no munijo kaijinta rai, pananyaube no irati raita tenambe.
+41006017	Yohanes Pembaptis apa kakaije nande no taiso: Herodes po apa arakovo Pilipus apa anamugo Herodias raovan to, weti Yohanes pananyaube Herodes pare, “Winyamo vemo nyo nya arakova apa anamu raovan inya! Nyo ananyao Amisy rakanyoandi!” Wetiva Herodias umaso mparijo Yohanes ai, weti ama anap Herodes po Yohanes aijar po augave siso no tanoano makova rai.
+41006018	
+41007008	Yesus po raura nanto mai pare, “Weapamo wasakirive Amisye apa ananyaowe rai to, yara vatane awa ananyao obo mi wapo raijar matuve.”
+41012037	Daud po Mesias aura pare, ‘sya Akarijo Titi pije,’ yara Mesias opamo apa ajavi pije!” Vatano wanuije manayanambe wo Yesus apa ananyaowe ranaun.
+41013012	Indati masyote nde nande arono vatan tenambe manuga mamuno wasai weye weatavondi Rinai. Vatane wo taune awa arakove mansamavun indamu maubaisy. Muno ajae wo taune awa arikainye mansamavun indamu maubaisy tavon. Arikainye wo awa akoye nawe awa ajae nawe mave tatugadi, muno wo maunanta inda maubaisy. Weramu are nawirati matawandi kobe muno wanave Rinai tutir ava nto ama marane rai, onawamo indati Amisye po mapaya irati kakaije rai indamu ukova nuge nuganui.”
+41013013	
+42002006	Yare syisya no yavaro vatano marane udea unaki raive inta rai, weramu yavare umawe ngkatutundijo vatane mai to. Weti yurija nyaki yavaro maero makume usai daije bo rai. Umbawe Maria ntuna kobe ama arikainyo anya manasyine umaso autan. Mo ansune vasye veano atavan, umba mo augasyo nikijo ugano veano maere awa anaisye raveaje raije ama uga rai.
+42002007	
+42003001	Kaisar Tiberius be akarijo titive no munijo Roma rai ama tume abusyinara eane radani, umba Amisye po raura Zakaria apa kavo Yohanes Pembaptis ai no nugo vabukane vono maninimbe. Arono naije, Pontius Pilatus be gubernurive no munijo Yudea, muno Herodes be akarive no munijo Galilea, muno Herodes apa arakovo Pilipus be akarive no munijo Iturea muno munijo Trakonitis, muno Lisanias be akarive no Abilene. Muno Hanasa pe Kayapasa pe ibe syeno titive vatano Yahudi mansai.
+42003002	
+42006033	Ranivara wabekobe irati vatano ubekobeo wasaije obo mansai, omamo mamai dainya, weti Amisye po kove raugaje wasai jewen. Muno ranivara wapo ananuge ndako doije ndako raunanto vatano awa ananuge manuije bo mai weye wapare veravo wo ananuge inta rasakinav akare wasai, omamo mamai dainya, weti Amisye po kove raugaje wasai jewen. Weye vatano ukakainoanive wo rave tai maisy tavon.
+42006034	
+42007004	Weti akarijo vatano Yahudi umaso je nyande Yesus ai, umba yo raura kikibe nanto Ai yare, “Nait akari umaso bekobe irati vatano Yahudi wansai, muno po doije inta raunande indamu reamo veano yavaro sambaya inta rauseo ntet. Weti rimare naemeno ai Nyo kove raugaje ai ra mamaisy.”
+42007005	
+42008028	Arono po Yesus aen, punanto muno po apa vukane ranteter no Amun. Umba Yesus po raura nanto ai pare, “Anawayo kakai, nyuje vatane so aora!” Umba vatane umaso gwain akoeve rave pare, “Yesus, Arikainyo Amisyo no no munijo ntiti, Nyo rinave tai ruimaisye so? Syo Amisye apa tame rauranara Nyo inansewabe inya.” Anawayo kakaije umaso mo antutubea nugoenta to. Weti vatane wo waijo besi veano aneme, ajoe raokokae to muno wo aman, weramu susye manui rave vatane wato seo po waijo besije umawe rapatimu, umba anawayo kakaije mo auga ti to no nugo vabukane vono maninimbe.
+42008029	
+42009043	Vatano wanuije unantaive Amisye apa vambunino manakoe Po raugaje Yesus aije so rai. Arono naije vatan tenambe unantaive Yesus apa ana dave rai vintabo, umba Yesus po raura Apa arakovo utavondi aije mai pare,
+42011047	Kakaije nde wasai! Weye wapo vatano Amisye po matutir ude wasaije mawatambe. Wabe tai mai ti ta wapo wapa aneno wusyine awa kakai wo rave webo raijar akare. Wapo anawae wusyine awa aipapo ama vone ranari ti ngkov, weramu wapa anene nawirati wo mansao weye wonae utavondijo awa ananyaowe raiji.
+42011048	
+42020005	Umba syeno akokoe nawe, kurune nawe, akarijo Yahudi nawe, wanugan wayao mumuimbe. “Ranivara wamo ayaowe rasakinav wamare Amisye pi po vambunine raugaje Yohanes ai, wea indati Yesus po wansanajo veanimaibe wamanave Yohanes ai jewen? Weramu ranivara wamare vatane inta pi po vambunine raugaje Yohanes ai, indati vatane uparijo wansai ti wo orame rave wansaepar weye wanave ware Yohanes opamo anawae Amisye inta pije.”
+42020006	
+42020018	Are pirati pantukamo orame umaso rai ti tende ama vone rai, opamo pandamisy. Muno are pirati orame so ntemaje ai ti mo akep, opamo pandamisyi ti be kapumbe.”
+42020030	Ana maisyare omaisye bo mirati no apa rijato no akaje aije ai muno aya rijato mandeije ai muno miridije nde irati rija dave kaururume ai. Wo wanya umawe raovan tetebe weramu ukakai, awa arikainye meweno mai.
+42020031	
+42020044	Daud po Mesias aura pare, ‘sya Akarijo Titi pije,’ yara Mesias opamo apa ajavi pije!”
+42023050	Umba vatane inta de, apa tame mi Yusup, vatano munijo Arimatea no no Yudea. Opamo vatano anuga ngkov muno apa ana dave mamai dave. Yusup opamo ato siso Anugano Akari Akokoe Yahudi mansai, weramu arono wo mangke rapatimugo Yesus ai, opamo tavondi awa ana wo rapatimuge umaso raije ramu. Opamo po masyoto Amisye de be akarive no mine vone so raije ranyuto ndei.
+42023051	
+43004007	Yesus tuna no naije, weramu Apa arakovo utavondi ai nanawamo wuruta wo anaisye ramavun no munijo mararai namije rai. Umba wanya Samaria inta nde mo mana rawavin. Umba Yesus po ranajo pare, “Syare nyo mana inta raunande Syo ramanam.”
+43004008	
+43005045	Wapare Musa pamo vatano weasanave amen. Weramu Syo wasaen wapa anave ai mamaisye ramu. Weye ranivara weapanave Musa ai ratire, weamo indati wapanave Rinai tavona. Weye Risyirati Musa po inaura kakavimbe no apa ana po ratoe rai. Maisyare omai ti, arono munije ama akari, Risyamo syanaikebe wasai no Injayo Amisy amune raije ramu, yara Musa wepirati panaikebe wasai weye weaponae wapanave Rinaiji.
+43005046	
+43006023	Vatano wanui rave umaso wo Yesus muno Apa arakove mansaumandi, weti ware wo Yesus akani. Arono naije nyomane inta no no munijo Tiberias nde nande, wo rakarimu mararai no anoko Amisy Yesus po kove raura seo Amisye ai umba vatano wanui wo anaisyo rotije raisy. Maisyare omai ti, vatano wanui umaso usea nyomano uma nde so rai janyi, ware wo onae raotar indamu wo Yesus akani no munijo Kapernaum.
+43006024	
+43008052	Vatano Yahudi wo raura akananto Ai ware, “Wakoe! Winyo raura nyare, ‘Are pi beto Sya ayao rai, opamo nanto wene raija nuge nuganui ramu.’ Weramu Nya ayao so mamaisye ramu weye Abraham opamo kakai, maisyare omai tavon Amisye apa anawae wusyine nanawamo wene nde mansai tavon. Indako Winyamo nyanakoe reama aneno Abraham akivana rako? Opamo wene nde ai to! Anawae nanawamo wene nde mansai to! Weti Winyamo are pi Winy? Reamare Winyamo anawayo kakai siso nanuga rai to!”
+43008053	
+43013019	Ayao namije mamo ama masyote nde nande rainy, yara Syo raura wasai wusyimbe rati. Weaveti arono indati nde nande to, syare wapo raen Sya urairi mo ramai dave, naije wapare, ‘Mesiasa pi so.’
+43013020	Syo raura tugaive: are pirati bekobe irati vatano Syo atutire ai, opamo maisyare bekobe irati Rinai. Muno are pirati bekobe irati Rinai, opamo maisyare bekobe irati Sya Injayo po inatutire Ai tavon.”
+43016004	Syo raura kakavimbe wasai indamu arono anakotaro ngkakai so mare nande wasai, wasaemen Syo raura wusyimbe to.” “Manasyinoe Syo anakotare umaso raura wasai ramu weye taune rino wasarijata nene.
+43019019	Yesus apa inyo kapito sawa raije mamo Pilatus po vatane inta atutir po ayaowe so ratoe rauseo rapaku ama vone rai mare: sopamo yesus, vatano nasaret akarijo titi yahudi
+43019020	Vatano Yahudi wanui wo ayao ratoe umaso raen, weye muni namije mararaijo pukame umaso rai. Ayao omane umaso ratoe ayao Yahudi rai, ayao Roma rai muno ayao Yunani rai tavon.
+43019021	Syeno akokoe upari, weti wo raura nanto Pilatus ai ware, “Vemo nyo ratoeya nyare, ‘Sopamo Akarijo Titi Yahudi,’ wemai nora! Nya ayao omane wato mamaisye ramu. Yara nyo ratoeya nyare, ‘Yesus po taune aura pare: Risyirati Akarijo Titi Yahudi.’ ”
+43019036	Anakotare so nande indamu mamaisyo Ayao Amisye mo ratoe rai mare, “Apa pae mamo inta radaute ramu.”
+43019037	Muno aneme kaijinta mo raura tavon mare, “Vatano wo atukame indati usayai muno wo anyanyut.”
+44001014	
 44001021
 44001022
 44002034
