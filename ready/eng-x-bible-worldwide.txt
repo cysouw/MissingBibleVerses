@@ -1,8 +1,3 @@
-### this crawl seems to have some half complete verses and missing parts, e.g. 47002011 or 47008015
-### 40010004 corrected:	40010004	
-### 42003038 corrected: 42003038
-### Luke 24 in this version has different numbering compared to KJV as verses 42024011, 42024040 and 42024041 aren't translated in this version, numbering corrected below.	
-
 40001003	
 40001004	
 40001005	
