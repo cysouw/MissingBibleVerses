@@ -1,5 +1,3 @@
-### crawling script loses track of text at indented phrases. maybe more half-complete phrases can be found in the text
-
 01010002	Iye ara ngala noru Yapet hu kamai: Komer, Makok, Matai, Yawan, Tupal, Mesek, pe Tiras.
 01010003	Pe iye ara ngala noru Komer hu kamai: Askenas, Ripat, pe Tokarmah.
 01010004	Iye ara ngala noru Yawan hu kamai: Elisah, Tarsis iyapolo hu ndramat para Saiprus pe hu Totan.

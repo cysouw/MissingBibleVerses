@@ -1,5 +1,3 @@
-### the crawling script cannot jump from an indented phrase to a normally placed phrase
-
 40002009	Ge ba seno kwa tša kgoši ba tloga, gomme ba bona naledi yela ba e bonego ka bohlabela. Ba rile ge ba e bona ba thaba kudukudu. Ya ba eta pele ya ba ya yo ema ka godimo ga moo ngwana a bego a le gona.
 40002010	
 40022045	“Bjale ge Dafida a bitša Mesia ‘Morena’, Mesia e ka ba setlogolo sa gagwe bjang?”
