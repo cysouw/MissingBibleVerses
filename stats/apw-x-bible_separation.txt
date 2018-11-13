@@ -1,5 +1,0 @@
-,      2      7 False U+002c COMMA
-.      0      3 False U+002e FULL STOP
-:      0      1 False U+003a COLON
-?      1      0  True U+003f QUESTION MARK
-’     40  17291 False U+2019 RIGHT SINGLE QUOTATION MARK
