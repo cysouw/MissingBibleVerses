@@ -1,0 +1,6 @@
+'      0      2 False U+0027 APOSTROPHE
+,     14      1  True U+002c COMMA
+.      9      1  True U+002e FULL STOP
+:      1      0  True U+003a COLON
+«      0      1 False U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+»      1      0  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK

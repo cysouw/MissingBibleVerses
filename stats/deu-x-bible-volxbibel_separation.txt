@@ -1,0 +1,5 @@
+,      2      1  True U+002c COMMA
+-     14      5  True U+002d HYPHEN-MINUS
+.      1      1  True U+002e FULL STOP
+´      0      1 False U+00b4 ACUTE ACCENT
+’     16    184 False U+2019 RIGHT SINGLE QUOTATION MARK

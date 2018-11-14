@@ -1,0 +1,8 @@
+!      1      0  True U+0021 EXCLAMATION MARK
+,      2      0  True U+002c COMMA
+-    152     37  True U+002d HYPHEN-MINUS
+.      6    898 False U+002e FULL STOP
+:      1      0  True U+003a COLON
+;      1      0  True U+003b SEMICOLON
+’     22    104 False U+2019 RIGHT SINGLE QUOTATION MARK
+‹      1      0  True U+2039 SINGLE LEFT-POINTING ANGLE QUOTATION MARK
