@@ -3586,7 +3586,7 @@
 43015020	Gedenket des Wortes , welches Ich zu euch sprach : Der Knecht ist nicht größer als sein Herr . Wenn sie Mich verfolgten , werden sie euch auch verfolgen ; wenn sie Mein Wort bewahrten , werden sie auch das eurige bewahren
 43015021	Dieses alles werden sie euch tun um Meines Namens willen ; denn sie kennen Den nicht , der Mich gesandt hat !
 43015022	Wenn Ich nicht gekommen wäre und nicht mit ihnen geredet hätte , hätten sie keine Sünde * ; nun aber haben sie keinen Vorwand * für ihre Sünde .
-43015023	Wer Mich haßt, der haßt auch Meinen Vater !
+43015023	Wer Mich haßt , der haßt auch Meinen Vater !
 43015024	Wenn Ich nicht die Werke unter ihnen getan hätte , die kein anderer getan hat , hätten sie keine Sünde ; jetzt aber haben sie diese gesehen und haben doch Mich wie auch Meinen Vater gehasst !
 43015025	Damit aber erfüllt werde das Wort , das in ihrem Gesetz geschrieben steht : Sie hassen Mich ohne Ursache !
 43015026	Wenn aber der Tröster gekommen sein wird , welchen Ich euch senden werde von dem Vater , der Geist der Wahrheit , der von dem Vater ausgeht . Er wird von Mir zeugen
@@ -7939,7 +7939,7 @@
 66021019	Und die Grundsteine der Mauer der Stadt ( waren ) mit allen Edelsteinen geschmückt : Der erste Grundstein ein Jaspis , der zweite Saphir , der dritte Chaicedon , der vierte Smaragd ,
 66021020	der fünfte Sardonyx , der sechste Sardis , der siebte Chrysolith , der achte Beryllos , der neunte Topaser , der zehnte Chrysopras , der elfte Hyazinthos , der zwölfte Amethyst .
 66021021	Und die zwölf Tore ( waren ) zwölf Perlen , jedes einzelne Tor war aus einer Perle , und die Straße der Stadt reines Gold , wie durchsichtiges Glas .
-66021022	Und einen Tempel sah ich nicht in ihr-denn der Herr , der Gott , der Allmächtige , ist ihr Tempel , und das Lämmlein .
+66021022	Und einen Tempel sah ich nicht in ihr; denn der Herr , der Gott , der Allmächtige , ist ihr Tempel , und das Lämmlein .
 66021023	Und die Stadt bedarf der Sonne nicht , auch nicht des Mondes , dass sie in ihr scheinen ; denn die Herrlichkeit Gottes hat sie erleuchtet , und ihre Leuchte ist das Lämmlein .
 66021024	Und die Heiden werden durch ihr Licht hinwandeln ; und die Könige der Erde bringen ihre Herrlichkeit in sie hinein .
 66021025	Und ihre Tore werden keinesfalls geschlossen werden des Tages ; denn Nacht wird dort nicht mehr sein !
