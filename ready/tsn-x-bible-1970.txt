@@ -50,35 +50,45 @@
 58002010	Gonne go ne go tshwanetse ona o dilo tsotlhe di leng ka ntlha ya ona, o dilo tsotlhe di leng ka ona, o o gogetseng bana ba bantsi kwa kgalalelong, gore o ise mosimolodi wa pholoso ya bona kwa botlalong ka dipogo.
 58002012	fa a re: “Ke tla bolelela bomorwa-rre leina la gago, ke go opelela mo gare ga phuthego.”
 58002013	A bile a re: “Nna ke tla mo ikanya;” a ba a re: “Bona, ke fano le bana ba Modimo o ba nneileng.”
-58003016
-58003017
-58003018
-58003019
-58004004
-58004005
-58004006
-58004007
-58005006
-58007018
-58007019
-58007022
-58008013
-58010008
-58010009
-58010010
-58010018
-58010039
-58012007
-58012008
-58012009
-58012010
-58012011
-60002007
-60004019
-66005013
-66005014
-66018015
-66018016
-66019004
-66019005
-66019006
+58003016	Kana ke bomang ba ba neng ba utlwa, ba be ba gakatsa Modimo? A ga se botlhe ba ba neng ba huduga kwa Egepeto ka Moše?
+58003017	Mme ke bafe ba o ba galefetseng dinyaga di le 40? A ga se ba ba neng ba leofile, ba direpa tsa bona di neng tsa namalala kwa sekakeng?
+58003018	Mme ba o ba ikanetseng gore ga ba nke ba tsena mo boikhutsong jwa ona ke bafe, fa e se ba ba neng ba gana go utlwa?
+58003019	Mme re bona, fa ba paletswe ke go tsena ka ntlha ya go sa dumeleng.
+58004003	Gonne rona ba re dumetseng re tsena mo boikhutsong, jaaka o buile wa re: “Ka moo ka ikana ka bogale jwa me ka re: ‘Ga ba nke ba tsena mo boikhutsong jwa me!’ ” le fa ditiro di sa le di fediwa ka tlholego ya lefatshe.
+58004004	Gonne mo felong gongwe o buile jaana ka ga letsatsi la bosupa wa re: “Modimo o ne wa ikhutsa ka letsatsi la bosupa o sena go fetsa ditiro tsotlhe tsa ona.”
+58004005	Mme fale go bile go twe: “Ga ba nke ba tsena mo boikhutsong jwa me.”
+58004006	Jaanong e re ka go lebeletswe gore bangwe ba tla tsena mo go jona, mme ba ba reretsweng Efangele pele ba se ka ba tsena ka ntlha ya go se utlwe,
+58004007	o baya letsatsi le lengwe gape, e bong la “kajeno,” ka go bua ka Dafita morago ga sebaka se se kalo, jaaka pele go tilwe wa re: “Kajeno, fa lo utlwa lentswe la ona, se thatafatseng dipelo tsa lona!”
+58005005	Le ene Keresete jalo ga a a ka a itseela tlotlo ya go nna moperesiti yo mogolo, mme o e filwe ke o o mo reileng wa re: “O Morwaake, ke go tsetse gompieno;”
+58005006	jaaka le go gongwe o buile wa re: “O moperesiti ka bosakhutleng ka fa mokgweng wa ga Melegi-Seteke.”
+58007018	Gonne go dirololwa taolo ya pele ka ntlha ya bokoa jwa yona le go sa thuseng sepe ga yona.
+58007019	– Gonne molao ga o a ka wa isa sepe kwa botlalong. – Mme go tsisiwa tsholofelo e e gaisang, e re atamelang Modimo ka yona.
+58007022	Ka moo Jesu o diregile moemedi wa kgolagano e e gaisang.
+58008013	Fa o bua o re: “Kgolagano e ntšhwa,” ke go re, ya pele o e dirile e kgologolo. Mme se se nnang segologolo, se se onalang, se gaufi le go nyelela.
+58010008	Pele o rile: “Ditlhabelo le ditshupelo le ditlhabelo tsa phiso le tsa boleo tse di tsisiwang ka fa molaong o di ganne, le gona ga di a go natefela.”
+58010009	Ya baa gona a reng: “Bona, ke tsile go dira thato ya gago.” Ka go re jalo o dirolola sa pele gore a tlhomamise sa bobedi.
+58010010	Ke ka yona thato eo re itshepiseditsweng ruri ka setlhabelo sa mmele wa ga Jesu Keresete.
+58010016	“Kgolagano e ke tla e dirang nabo morago ga malatsi ano ke e, “Morena a ba a re: “Ke tla tsenya melao ya me mo dipelong tsa bone, ke e kwala mo maikutlong a bone;
+58010018	Mme jaanong kwa boitshwarelo jwa tsona bo leng teng, ga go tlhole go le setlhabelo ka ntlha ya boleo.
+58010039	Mme rona ga re ba boikepo jo bo isang tatlhegong, re ba tumelo e e isang phologong ya botshelo.
+58012007	Fa lo itshokela go watlhaiwa, Modimo o lo tshola jaaka bana; gonne ke ngwana ofe yo rraagwe o sa mo watlhaeng?
+58012008	Mme fa lo sa bone kwatlhao e botlhe ba e bonang, lo tla bo lo le bana ba dikgora, e seng ba nnete.
+58012009	Gape re ne re na le borraetsho ka fa nameng ba ba re watlhaileng, mme ra ba ikobela; a ga re nke re ikokobeletsa Rara wa mewa bogolo, re tle re tshele?
+58012010	Gonne bone ba re watlhaile malatsinyana fela ka fa ba neng ba bona go tshwanetse ka teng, mme ene o re watlhaela molemo gore re tle re amogele boitshepo jwa gagwe.
+58012011	Le gale kwatlhao nngwe le nngwe, fa e dirafala, e a ne e kete ga e na boitumediso, mme ke tlhokofatso; mme morago gona e ungwele ba ba lailweng ka yona leungo le le agisang la tshiamo.
+60002006	Gonne go kwadilwe mo Lokwalong ga twe: “Bona, ke baya lentswe la sekhutlo mo Sione le le tlhophilweng la botlhokwa; yo o dumelang mo go lone ga a kitla a tlhajwa ke ditlhong.”
+60002007	Ke la botlhokwa mo go lona ba lo dumelang; mme mo go ba ba sa dumeleng: “Lentswe le baagi ba le latlhileng le dirilwe letlapa la sekhutlo,”
+60002008	“lentswe le le kgopang, letlapa la seru;” bone ba a kgotšwa, ka ba sa utlwe Lefoko; ke sona se ba bileng ba se beetswe.
+60004019	Ka moo he, a ba ba bogang ka fa thatong ya Modimo ba neele Mmopi yo o boikanyo mewa ya bone ba ntse ba dira molemo.
+66005012	ba bua ka lentswe le legolo ba re: “Kwana e e tlhabilweng e na le tshwanelo ya go tshola thata le khumo le botlhale le nonofo le tlotlo le kgalalelo le poko.”
+66005013	Jaanong ka utlwa sebopiwa sengwe le sengwe se se mo legodimong le mo lefatsheng le kwa tlase ga lefatshe le mo lewatleng le tsotlhe tse di mo go tsona di re: “A poko le tlotlo le kgalalelo le puso e nne tsa yo o ntseng mo sedulong le tsa Kwana go ya bosakhutleng!”
+66005014	Diphedi tse nne tsa re: “Amen;” bagolo ba wela fa fatshe, ba obamela yo o phelang go ya bosakhutleng.
+66018014	“Mme maungo a a elediwang ke mowa wa gago, a tlogile mo go wena, dilo tsotlhe tse di mafura le tse di phatsimang di go latlhegetse, ga di kitla di tlhola di bonwa gope.”
+66018015	Mme babapatsi ba dilo tseo, ba ba humileng ka ona, ba tla emela kgakala, ka ba boifa go tlhokofadiwa ga ona, ba lela, ba hutsafala
+66018016	ba re: “Ijoo-wee! Ijoo-wee! A motse wa mogolo o o neng o apere masela a masweu le a bohibidu jwa bofifadu le jwa madi, o kgabisitswe ka gouta le majwana a botlhokwa le ditalama,
+66019003	Ba fela ba bua lwa bobedi ba re: “Haleluya! Musi wa sona o tlhatloga go ya bosakhutleng.”
+66019004	Jaanong bagolo ba ba 24 ba wela fa fatshe le diphedi tse nne, ba obamela Modimo o o ntseng mo sedulong sa bogosi ba re: “Amen! Haleluya!”
+66019005	Ga ba ga tswa lentswe mo sedulong sa bogosi la re: “Bokang Modimo wa rona, lona badiredi botlhe ba ona le ba lo o boifang, ba bannye le ba bagolo!”
+66019006	Ka ba ka utlwa sengwe, e kete ke modumo wa bontsi jo bogolo jwa batho, e bile e kete ke kgwaso ya metsi a magolo, gape e kete ke modumo o o thata wa maru, ba re: “Haleluya! Gonne Morena, Modimo wa rona, Mothatayotlhe, o tsenye bogosing.
+66019007	A re itumeleng, re ipele, re o galaletse; gonne lenyalo la Kwana le tsile, monyalwi wa yona o ipaakantse.
+66019008	O neilwe go ikapesa ka lesela le lesweu le le phatsimang, le le phepa;” ka gonne lesela le lesweu ke ditiro tse di siameng tsa baitshepi.
