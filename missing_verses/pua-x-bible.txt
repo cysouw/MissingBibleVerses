@@ -55,102 +55,113 @@
 58003017	¿Néchanisï Diósï tsimani ekuatse uéxurhini ikiakuapki? ¿Andi no imechanisï ikiakuapi engaksï k'ámanharhintapka, imechani engaksï jima andatseraka uarhini enga nónema irekaka?
 58003018	Ka ¿Andi no imechanisï arhia eskaksï mintsikorhekuarhu no inchaaka ima engaksï no kurhandiraka?
 58003019	Ka ísï jámanichi exexaka eskaksï no úska inchani jimbokaksï no jakajkuska.
-58004004
-58004005
-58004006
-58004008
-58004009
-58004010
-58004011
-58005006
-58005007
-58005008
-58005009
-58005010
-58006001
-58006002
-58006003
-58007018
-58007019
-58007022
-58007023
-58007024
-58007025
-58007026
-58007027
-58007028
-58008001
-58008002
-58008013
-58010008
-58010009
-58010010
-58010011
-58010012
-58010013
-58010014
-58010015
-58010018
-58010039
-58012007
-58012008
-58012009
-58012010
-58012011
-58012012
-58012013
-58012014
-58012015
-58012016
-58012017
-58012018
-58012019
-58012020
-58012021
-58012022
-58012023
-58012024
-58012025
-58012026
-58012027
-58012028
-58012029
-58013001
-58013002
-58013003
-58013004
-58013005
-58013006
-66002002
-66002003
-66002004
-66002005
-66002006
-66002009
-66002010
-66002013
-66002014
-66002015
-66002016
-66002019
-66002020
-66002021
-66002022
-66002023
-66002024
-66002025
-66003002
-66003003
-66003004
-66003008
-66003009
-66003010
-66003011
-66003015
-66003016
-66003017
-66003018
-66003019
-66003020
-66012011
-66019003
+58004003	Juchachi incharixakaia engachi jakajkutika, enga Diósï uandaka: “Jimbosïni ikiatini uandaka eskaksï mintsikorhekuarhu no inchapiringa.” Enga úka, Diósï parhakpenini úni jámani imeri ánchekorhetani méntku k'amaraspti;
+58004004	jimboka karakatarhu mápuru jataska eska iúmu tsimani jurhia úni jámani: “Enga na iámu ambe k'amarapkia, iumu tsimani jurhia úni jámani, Diósï mintsikorhespti.”
+58004005	Ka eska na uandapkia: “Nóksï inchaati jucheti mintsikorhekuarhu.”
+58004006	Ísï jimbo, sési jánhaskatini eskaksï máru inchaaka, ka eskaksï no inchaska, urhetku aiangperakua p'iticha jimbokaksï no kurhandiraska,
+58004008	Jimboka, ekaksïni Josue jiáretapiringa eskajtsï mintsikorhepiringa, Diósï tátsekua máteru jurhiatekueri ambe nóteru uandapirindia.
+58004009	Jimbo, sési kurhangukorhesti eska jakajkuticheri jimbo, k'éri mintsikorhekua janoxaka.
+58004010	Jimboka ne enga ísï mintsikorhejka eska Diósï, iámu imeri ánchekorheteri mintsikorhesïndi ka Diósïjtu mintsikorhesïndi.
+58004011	Ju je jángorhentani xásï mintsikorhekuarhu inchani, eska ísï jámani nónema imechani chúngumauaka engaksï no jakajkupka.
+58005005	Ka májkueni, Krístujtu no uandakorhesti eska ima k'éri tátepiringa, sánderu sáni, Diósïsï k'érikua íntskupti enga arhipka: “Jucheti uátsïtiskari; iásïkini tsípekua íntskuska.”
+58005006	Ka máteru nanijtu arhisïndi: “T'úri méntkisï táteska, májkueni eska Melkisedeki.”
+58005007	Enga Krístu íni parhakpeni jámani jápka, uinhamu ka ueparini kómarhispti imani enga úpiringa uarhikuarhu p'ímutantani, ka Diósï kurhajchaspti jimboka kaxumbespka.
+58005008	Ka náuejki uájpepka, imani jimbo eska na kánhapka, jurhengorhespti kurhandirani;
+58005009	ka enga na iámu ambe úkorhepkia, Jesusi p'ímutantspiri úkorhesti imecheri engaksï kurhandirakujka,
+58005010	ka Diósï k'éri táteni pérasti, májkueni eska Melkisedekini.
+58006001	Ísï jimbo, ásteru jimajku k'uanhatsentani ja je enga Krístueri jurhengua uénatarakueka, ka ju je míakua jukarinia. Ka nóchi k'amanharhitskua jurajkukueri ambejku jurhentperani jarhani, ka Diósïni mintsikakueri ambejku,
+58006002	ka itsï atajtsïkueri ambejku, ka p'ájtsïkperakueri ambejku, ka uarhiricheri tsíntskueri ambejku ka jurhiata arhinharhikperakueri ambejku méntku úndani jurhentperani.
+58006003	Ísïchisï jámaakia engajtsïni jámberi Diósï tsípekua kuanetaaka.
+58007018	Ísï jámani juramukua urheti, xerekorhentasti, jimboka no uinhapekua jukaska ka jimboka no marhuaska,
+58007019	jimboka juramukua nómbema k'amak'amasï séserantaska, jimboka uénatarakuajkuespka, eskachi ísï jámani sánderu ambakiti ambe mintsikapiringa, engachi jimbo Diósïni andarherajka.
+58007022	Jimbosï Jesusi pakaratspti ambakiti méni jati, enga úaka Diósï jinguni márkuenhantani.
+58007023	Ka támuksï ima tátecha uánespti, jimbokaksï no ióni jámsïrempka.
+58007024	Ka inde k'óru méntkisï anapu tátekua kámsïndi, jimboka méntikisïska.
+58007025	Jimbojtusï újti p'ímutantaani imechani engaksï imeri jimbo Diósïni andarherakorhentajka, jimboka méntkisï tsípiti jarhasïnga ka úsïndi uandapetspeni.
+58007026	Xásï k'éri táta máchisï uétarhenchani jápka: Kaxumbiti ma, enga nómbema nósesi niátaka, ka enga nómbema nósesi jásï jukaraaka, ka enga no pírekorheajka k'ámanharhintstichani, enga auandarhu sánderu karhakua péranhaka,
+58007027	enga no uétarhenchajka eska mándani pauani urheta ambe ma aiatspentaaka imeri k'amanharhintskua jimbo, ka jimajku ireteri k'amanharhintskua jimbo kéjtsïtani, ísï eskaksï máteru táta k'ératicha ka iámendu indeni ambe, ma jimbojku ísï úti, enga aiakorheka.
+58007028	Jimboka juramukua, k'érati táteni imani péraasïnga engaksï no uinhapekorheka: enga úka, uandakua enga jukaparhaka, ka enga juramukua jinguni tátsekueka, uájpani táta ústi, imani enga k'amak'amasï sésika ka enga méntkisïuaka.
+58008001	Engani xáni ambe arhikia ixu jámberi, engani sánderu k'éri ambe arhikuekani jaka imesti eskachi jatsikorheska xásï ma táta k'érini, enga auandarhu anapu juramutini tirerkandani uaxataka,
+58008002	enga ambakiti tióstarhu marhuatspeni jaka, enga Acha úka, jima enga no ísku nema úka.
+58008013	Ka enga arhika eska jimbanhe ma juramukua jarhaska, arhikuekaxati eska urhetku anapu nóteru marhuasïngia; ka ambe enga iónikia ka t'arhepenia, uarhixamtia.
+58010008	Krístu arisï uénaspti uandani: Aiatsperantskua ambe, ka manakorheri kéjtsïtakata ambe, ka k'amanharhintskueri aiatsperantskua amberi t'u no jaiapenhentasïnga, nájkiruka juramukuarhu ísï arhijka.
+58010009	Ka útasï uandaspti: “Jurhaxaka imani ambe úni engarini t'u juramucheaka.” Xérentsï urheta anapu juramukuani ka jimbanhe ma péntsï.
+58010010	Ka kaxumbentasïngachi jimboka Krístu ma xanharku ka enga méntkisï marhuauaka aiakuntaska imeri anhanhatakuani, eska Diósï na eratsetini jápka.
+58010011	Ka tátechaksï pauanipauani anhandentasïndi uandatsekorheni ka méntku úndani májkueni jásï ambe aiatspentani, enga nómeni újka k'amanharhintskua p'ikurhpentani.
+58010012	Ka Jesusi k'óru k'amanharhintskuechani jimbo ma xanharku aiakorhentasti, ka Diósïni t'irerkandani jakusti ka nóteru méni kénditanhaatia,
+58010013	ka jima jauati erokorheni engaksï jamberi imeri ikiatspiricha jatandunhantaaka.
+58010014	Jimboka ma xanhari jimbojku aiatspentatini iámu séserantaaska kaxumberantskatechani.
+58010015	Espiritu Sántujtujtsïni inderi ambe aianguntasïndi enga uandajka:
+58010018	Ka enga púatsperanhantajkia, nóteru uétarhesïndi eska kéjtsïtakua ambe kánhaaka nóna k'amanharhintskua p'ikurhperanhantani.
+58010039	Enga úka, juchachi no chémskaska engachi jurajkutakorheaka eskachi tsîncheaka, jimbochisï jakajkutika ka ísï jámanchi juchari álmani p'íjpantaaka.
+58012007	Nósesijtsï nitamakorhexaka jimbokaksïni uéksïnga jurhimberantani. Imeri sapinksïni kámasïndi, ¿andi náki sapi no jurhimberanhasïnki?
+58012008	Ka ekachi ambe no jurhimberanhaska, eska iámenduecha na jurhimberanhajka, arhikuekasïndi eskachi máteru uájpeska ka nóchi ima uájpeni.
+58012009	Ka támu, jatsikorheaspkachi juchari tátechani engajtsï anhanhatakua íntskuka, engajtsïni jurhimberempka, ka juchachi janhanharhiasïrempka. ¿Andi no sánderu sésiski Espirituecheri Táte auandarhu anapuni iámu kurhandirakuni, ka ísï jámani, sési irekani?
+58012010	¡Nándijtsïni ima imeri jurhengua jimbojku jurhimberempki ka enga namoni jurhiajku marhuapiringa!; ka imajtsïni juchari sési jimbosï jurhimberani jati ka eskachi juchajtu intsïmbenhaaka imeri kaxumbekua
+58012011	Ísïsti eska nóma jurhimberperakua sési p'ikuarherakorheska, sánderu sáni p'amesïndi; enga úka, tátsekua xarhakuantaasïndi sési jakua, engaksï nómbema úkorhenchaaka, imechani engaksï jurhenaaka jurhimberperakua p'irani.
+58012012	Jimbo, tarhatantsï je jájkichani engaksï andatserani jákaia, ka jauataa je jurhintskuechani engaksï xúrini jaka
+58012013	ka jurhimberantskantsï je xanharichani engaksï nósesi jándepka, eska ambakentaaka ima enga no újka xanharani, ka no sánderu kánerani p'amenchakua.
+58012014	Jángorhentsï je iámenduecha jinguni sési jarhani, ka kaxumbeni, jimboka eka no ísïuaka nónema úati Diósïni exeni.
+58012015	Exeni ja je eska nónema no jiáretanhaaka eska Diósï kóndeaka; ka eska ísï jámani, nónema sïrangua k'ameri jukaaka ka nójtu máteru nemani pájtamani.
+58012016	Eska nónema Esaueni jámaaka: ísku jándi úkorheni, enga máxanhari t'irekua jimbojku imeri urhetikuani atarantaka.
+58012017	Míteskajtsïa enga tátsekua uékani jápkia eska újchakuranhapiringa; ka nóteru jiókorhenhania, ka no úspti mójtsïtpentani, náuejki uérani jápka.
+58012018	Chájtsï no imani ambe andarheraska enga p'ikuarherakorheka: Chpíri, pájpakandekua, kánekua pájpakandekua, akuitse janikua,
+58012019	sïuangua kúskani, ka xáni uinhachamenhani engaksï jamberi uandakorhepka eskaksï xántku uandaxemenhapiringia.
+58012020	Jimbokaksï no úsïrempka kurhandirakuni imani enga arhimpka: “Ne enga juatarhu atastaaka, ne uéjkini, náuejki manakorheri méni, tsakapkurhantsï je imani.”
+58012021	Nósesi jánhaskorhespti jimbosï Moisesi jamberi uandapti: “Manaraxaka xáni chéni.”
+58012022	Ka jimini ménderueni, chájtsï andarheraska Sióni juatani, enga Diósïri tsípitiri k'éri ireteka, auandarhu anapu Jerusalenini ka exeaskajtsï uánekua ánjelichani engaksï tángorhentatini jaka Diósïni k'éri ambe arhini,
+58012023	ka imechani exeani, uájpa urhetichani, ka Diósïni enga iápuru ísï arhinharhikpirika ka kaxumbiticheri espirituni engaksï niántakia,
+58012024	ka Jesusini, enga jimbanhe pakatperakueri maiampetspitika ka iurhirini engachi jimbo iámu p'imbinhajkunhantaaka enga Abeliri iurhiri jinguni sánderu ambakitika.
+58012025	Ásï jáma je no kurhakuni imani engaksïni uandajpani jaka; nándiksï imajtu no úia andi uérakuani engaksï no jiókorheka eska parhakpeni anapu arhijkutaauaka; juchachi sánderu no úaka ekachi no kurhaska imani egajtsïni auandarhu uératini uandajpani jaka.
+58012026	Jiájkani imeri uandakua eratsetarpentaspti. Ka iásïjtsïni arisï aiachexati: “Ménderu uéntaaka jencherani ka nóteru echerirhuterkia; auandantuni jencheraaka.”
+58012027	Enga arhijka “ménderu,” arhini. Arhikuekaxati eska manatanhaaka ima ambe enga úkateka, jimboka úkateska, ka eska ísï jámani méntkisï jauaka ima ambe enga no úkateka.
+58012028	Jimbochisï jucha engachi p'ikaia irechekua enga no újka manatanhani, no euanhantaaka kóntperata, ka indeni jimbochi Diósïni aiakuntaaka ambe enga ima jaiapanhentaaka, kánekua k'éri ambe arhiparini ka kánekuamendu janhanharhiparini,
+58012029	jimboka juchari Diósï chpíriska enga apejpentka.
+58013001	Méntkisï xénhchperani ja je.
+58013002	Ásï miripakurhi je sési eropeni; ísï jámanksï ma xanhari, no jámberi míteparini ánjelichani sési eroaspti.
+58013003	Ásï mirikurhia je imechani engaksï ónhakorheni jaka, chájtu májkueni p'ikuarherani ja je eskajtsï ambe imecha jinguni márku ónhakata jarhani, imechantu ásï jurajkua je engaksï nósesi kánhka, mía je eskajtsï chájtu méni nósesi kánhaaka.
+58013004	Iámenduecha janhanharhpera je tembuchaticha, eskaksï tembuchaticha no inchaakutsperaaka; jimboka Diósï arhinharhikuauaka ísku jándichani, ka máteru néma jinguni ísku ambe úrichani.
+58013005	Ásï tumina kánhcha je; tsípe je imani jimbo eskajtsï xáni ambe jatsikorheka, jimboka ima uandaska: “Nókini méni jurajkuaka, níkini méni jurarkua.”
+58013006	Jimbochisï nósani chéparini arhiaka: “Acharini jarhuataati; no chéaka. ¿Ambejtujtsïni úchea?”
+66002001	“Ánjelini enga Éfeso anapu tángorhekuarhu jaka, ísï karaku: ‘Ima enga iúmu tsimani jóskuechani t'irejkandani jatsiaka, ka enga jimesï xanharajka engaksï iúmu tsimani ch'urhinguecha tiripitiri jaka, ísï uandasïndi:
+66002002	Míteska chéti úkuechani, na engari xáni jángorhentani jaka ka nóri kuatantani; ka na engari no újka nósesi úrichani tekantaani, ka Jesusiri uandakua pári eratakorherichani ts'éjkuaskari, ka p'iaraaskari eskaksï chkuándirasïnga.
+66002003	Ka kómu nitamakorheskari, ka tekaantaskari ka jíndeni jimbori incharhetakuska ánchekorheni, ka nóri kuatantaska.
+66002004	K'órukini ambe ma pátsanhechexaka, eskari mirikurhiskia p'ampsïperakuani engari uénakuarhu jatsipka.
+66002005	Jimajkanichka miántsï na engari tsînchekata jaka, k'uanhatsentsï ka sési irentsï; engari no ísï úska, juuakakini exeni ka ekari no móantaska ch'urhinguakini kénditacheaka.
+66002006	K'óruri íni ambe jatsiska, enga chéti jimbo jaka, eskari nikolaitecheri ánchekorhetechani ikimchaasïnga ka jíjtuni ikimchaasïnga.
+66002008	Ka ísï karaku ánjelini enga Esmirna anapu tángorhekuarhu jaka: ‘Ima enga uénani jámani jaka ka k'amarhutani jamberi ísï uandasïndi, enga uarhipkia ka ménderu tsíntani:
+66002009	ji míteska eskari nósesi nitamanchaska ka uétarhenchandi, nájkirukari jatsikorherika ka na engaksïni judio arhikorericha xáni nósesi uandatsejka, ka jiniksï Nóambakitiri chúngumatini.
+66002010	Ásï jáma chéni ekari nósesi nitamanchaaka. Era, Nóambakitiksïni máru chánksïni k'ataperakuarhu incharaati, ka jimajtsï témbeni jurhia ts'éjkunhaaka. T'u uarhikuarhu jamberi sési mintsika, ka jíkini tsípikueri kanakua íntskuaaka.
+66002012	Ka ísï karaku ánjelini enga Pérgamu anapu tángorhekuarhu jaka: ‘Ima enga atajpetarakua ma jatsika, tsimoru sési uarhomutini ísï uandasïndi:
+66002013	Ji míteska nani engari irekaka, jimini enga k'éri uaxantskua Nóambakitiri jaka. T'úri k'óru jucheti jakangurhikuani mintsikaxakateru, ka nóri uandaxaka nóterurini jakajkunia, ni jimajkani enga jucheti ambakiti jántspiri Antipasï uándikunhapka, jimini Nóambakiti jarhasti.
+66002014	Nájkirukani jatsika sánhani isï ambe engakini no jaiapanhechentajka: jimbokari jimini jatsiaska indechani engaksï Balamueri jurhenguani patsajka, enga Balakini arhistakuempka néna Israeli anapuechani p'ínguani, ka t'irerakuekaani ambe engaksï diósïni eratakatecha kéjtsïtamenhapka, ka ístu néna ísku jándi niátataraani.
+66002015	Ka ísturi jimini jatsiaska indechani engaksï nikolaitecheri jurhentperakuani patsajka.
+66002016	Jimajkani k'uanhatsentsï, ka ekari no ísï úska, t'úngeni jinguni jurhaxaka, ka jucheti uandakua jimbo atauaka.
+66002018	Ka ísï karaku ánjelini enga Tiatira anapu tángorhekuarhu jaka: ‘Diósï Uájpa íni ambe uandasïndi, enga chpíri jengueratini járhati éskajka, ka tiámu pitsïpitini jándurhani:
+66002019	Ji míteaska chéti úkuechani, ka chéti uékperakuani, ka chéti mintsikuani, ka chéti jarhojpekuani, ka chéti tekantskuani, ka eskaksï chéti úkuecha urhetku sánderu ambakitispka eska iásï.
+66002020	Nájkirukani jatsika sánhani ísï ambe engakini no jaiapanhechentajka: engari nana Jesabelini jiáretani jaka, enga uandakua pári arhikorhejka, eska jurhentpeaka ka p'ájtamani jucheti jántspirichani ísku jandini, ka diósï eratakatecheri kéjtsïtakuaksï t'ireni.
+66002021	Ka erokaska eska moátapiringa ka no uékasïndi inderi ísku jánguani jurajkuni.
+66002022	Exe je, ji p'amenchataaka ka ísku apondikuntaati, ka imechani engaksï indeni jinguni nósesi úka, ekaksï no móantaska ambe engaksï xáni nósesi niátakia, ka ekaksï inde naneri nósesi úkuechani no jurajkuaska; kánekua nósesi p'ikuarheratauaka.
+66002023	Ka uájpechani uándikuparini k'amajkuauaka; ka iámendu tángorhekuechaksï míteati, eskani ji eratsekuechani ka p'ikuarhenhekuechani míteaska, ka mándani arhini kúanhaskukuantauaka imecheri jángua.
+66002024	Ka cha engajtsï támu pakaraka, Tiatira anapuecha, engajtsï no ísï jurhengorherini jaka eska imecha engaksï uandajka iauani jamberi míteni ka jini inde Nóambakitiri ambeni, chánksïni arini ambe arhixaka: nóteruksïni ambe ma kurhacheaka,
+66002025	indeni ambentku engajtsï jatsika, sési patsa je jimajkani jamberi egani ji junguaka.
+66003001	Ka ísï karaku ánjelini enga Sárdisi anapu tángorhekuarhu jaka: ‘Ima enga iúmu tsimani espirituechani Diósïri jatsiaaka, ka ístu iúmu tsimani jóskuechani ini ambe uandasïndi: ji chéti úkuechani míteska, ka na engari uandani jaka eskari tsípiti jarhaska ka jiniri uarhirini jarhani.
+66003002	Sési pátsakorhe ka uinhaperantsï indeni ambe enga pakarani jaka, engari nótki uarhirakorheni jaka; jimbokani nóma chéti úkua k'amarakata xéntaska Diósïni japarini.
+66003003	Miántsï ambe engari intsïnhaka ka engari kurhandika, sési exe ka moántsï. Ekari no jinguntku jarhaska, ji janoaka ísï eska sïpajkurha ma, ka nóri míteaka ambe jándukini janochea
+66003004	k'óruri namuni máru jimini Sárdisi jatsiaska, engaksï xukuparhakua no jájkuni jaka, ka indeksï jíndeni jinguni xanharaati, urapiti xukuparhantatini, jimbokaksï nitatarhenchaska.
+66003007	Ka ísï karaku ánjelini enga Filadelfia anapu tángorhekuarhu jaka: ‘Íni ambe arhisïndi ima enga pímbinhaxeka ka enga ísïka, enga Dabiri mítakuani jatsika, enga mítajka ka nónema úni míkantani, ka enga uapanhajka ka nónema úni mítantani:
+66003008	Ji míteska chéti úkuechani; exe na engakini mítachetini jurajkucheni jaka, ka nónema úati míkantani, jimboka nájkiruka sántkueka chéti uinhapekua, jucheti uandakuani uraska, ka nómendini uandaska no míteni.
+66003009	Exe, ji péraxaka máru Satanasiri tángorhekuarhu anapuechani engaksï Judioueni uandajka, ka nóksï jindeni, jimbokaksï chkuándiraxaka; exe, jíkini juácheauaka ka tinguixurhicheatiksïni, ka míteatiksï eskakini ji t'úngenisï xénhchajka.
+66003010	Jimbokari jucheti uandakuani mintsikaska, jíjtukini patsaaka ima jándu enga ts'éjkukua janoaka, ka iápuru enga xáni irenhaka janoati, jimbokaksï iámenduecha ts'éjkunhaaka.
+66003011	Ji sóntku junguaka, sési patsa ambe engari jatsika, ka eskakini kánakua nónema euantaaka.
+66003014	Ka ísï karaku ánjelini enga Laodisea anapu tángorhekuarhu jaka: ‘Ima enga uandantajka ambe enga ísïka, enga mintsinharhikueka ka enga no chkuándirajka, enga Acha Kuerajpiri jimbo uandaka ka iámendu ambe kueraani, arhixatikini:
+66003015	Ji chéti úkuechani míteaska, eskari no ts'irapitiska ka nójturi jurhepitini. ¡Uékapiringa eskari méntku ts'irapitipiringa o méntku jurhepitini!
+66003016	engari ísï kuakuataxeka, ka nóri jurhepitini ka nójturi ts'irapitini, jíkini jiuantaaka.
+66003017	Jimbokari t'u uandasïnga, ji jatsikorheriska, jimbokani jatsikorheri úkorheska ka nómbema kueratanchasïnga, ka nóri jánhaskasïnga eskari nósesi irekorheska, tsînchekorhentatixakari, ka jandiojkueskari, ka eskari pátenharhiska ka patsïkjásïri jarhani.
+66003018	Ísï jimbo, arhistachexakakini eskarini juuaka ambakiti tiripiti puruatantskata piácheni, ka sési jimbori jatsikorherini, ka ísturini piáche xukuparhakua urapiti engakini kasïperantaaka, ka nóteruri patsïkjasï jauaka jimbokari k'uratsetakorhexaka, ka atanhari sïpiati ka sésiri éskantaaka.
+66003019	Ji kurhangukuasïnga ka xukaasïnga, iámendu imechani engani xénhchajka, t'úchkari jurhepitku jauaka ka sési jimbo móantsï.
+66003020	Exe, ji uámutatspexaka, ekarini nema kurhaska ka mítachendini, ji inchaaka imo ka márkuchi t'ireaka.
+66012010	Ka tátsekua auandarhu kurhaspka nema uinhachani arhini: Iásï k'óru juchari Diósïri p'ímutantskua ka uinhapekua ka Irechekua janostia, ka Krístueri juramukua; jimboka ima enga juchari erachichani uandakuantauempka uekajpanhaskia, enga Diósïni japarini chúrekua ka jurhiakua uandakuantaani jarhempka.
+66012011	Ka imaksï Karichiri iurhiri jimbo andastia ka imecheri uandantskua jimbo, jimbokaksï no p'amojkukorhespka uarhini.
+66019002	jimboka Diósï sési k'uetsaperpentasïnga; jimboka uarhiti ísku jándini ikimeska, enga iámu parhakpenini ikichakua úka imeri ísku jángua jimbo, ka maiampetarantastia enga imeri erakukatechani uándikukuapka.”
+66019003	Ka ménderuksï uandaspti: “¡Aleluia! Imeri sïrata méntkisï tarharaxati ka nómeni k'amajpeati.”
