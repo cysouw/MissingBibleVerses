@@ -1,0 +1,8 @@
+,     45      0  True U+002c COMMA
+.     60      2  True U+002e FULL STOP
+:      1      0  True U+003a COLON
+;      1      0  True U+003b SEMICOLON
+‘      1      0  True U+2018 LEFT SINGLE QUOTATION MARK
+’    102      1  True U+2019 RIGHT SINGLE QUOTATION MARK
+“      5      0  True U+201c LEFT DOUBLE QUOTATION MARK
+”      4      0  True U+201d RIGHT DOUBLE QUOTATION MARK

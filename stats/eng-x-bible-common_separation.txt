@@ -1,0 +1,9 @@
+"      1      0  True U+0022 QUOTATION MARK
+(      1      0  True U+0028 LEFT PARENTHESIS
+)      1      0  True U+0029 RIGHT PARENTHESIS
+,     19      2  True U+002c COMMA
+.     26      0  True U+002e FULL STOP
+;      3      0  True U+003b SEMICOLON
+?      2      0  True U+003f QUESTION MARK
+—      1      0  True U+2014 EM DASH
+’    100     13  True U+2019 RIGHT SINGLE QUOTATION MARK

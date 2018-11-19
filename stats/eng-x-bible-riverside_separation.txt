@@ -1,0 +1,5 @@
+"      2      0  True U+0022 QUOTATION MARK
+'      1      3  True U+0027 APOSTROPHE
+,      6      1  True U+002c COMMA
+.      5      0  True U+002e FULL STOP
+;      2      0  True U+003b SEMICOLON

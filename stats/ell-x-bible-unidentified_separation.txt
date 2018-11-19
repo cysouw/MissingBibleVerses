@@ -1,0 +1,9 @@
+!     17      5  True U+0021 EXCLAMATION MARK
+'      6   1873 False U+0027 APOSTROPHE
+,    320     57  True U+002c COMMA
+.    148     36  True U+002e FULL STOP
+:     42      5  True U+003a COLON
+;     11      1  True U+003b SEMICOLON
+«     27      6  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+»     29      4  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+΄      0     34 False U+0384 GREEK TONOS
