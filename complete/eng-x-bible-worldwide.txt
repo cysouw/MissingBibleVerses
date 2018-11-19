@@ -2866,7 +2866,8 @@
 42024008	Then they remembered what he had said .
 42024009	They left the grave and went back . They told all these things to the eleven disciples and to all the other people .
 42024010	The women who told these things to the apostles were Mary Magdalene , Joanna , Mary the mother of James , and the other women who were with them .
-42024011	42024012	But Peter got up and ran to the grave . He bowed down and looked in . He saw the linen clothes lying there , but nothing more . Then he left , wondering about what had happened .
+42024011	
+42024012	But Peter got up and ran to the grave . He bowed down and looked in . He saw the linen clothes lying there , but nothing more . Then he left , wondering about what had happened .
 42024013	That same day , two of the disciples were going to the town called Emmaus . It was about two hours walk from Jerusalem .
 42024014	They were talking together about all the things that had happened .
 42024015	While they were talking and asking each other questions , Jesus himself came and walked with them .
@@ -2894,7 +2895,9 @@
 42024037	They were troubled and afraid . They thought they were seeing a spirit .
 42024038	He said to them , Why are you troubled ? Why do you wonder about these things in your hearts ?
 42024039	Look at my hands and my feet . You can see that it is I myself . Touch me with your hands and see . A spirit does not have a body and bones as you see I have .
-42024040	42024041	42024042	They gave him a piece of cooked fish .
+42024040	
+42024041	
+42024042	They gave him a piece of cooked fish .
 42024043	He took the fish and ate it in front of them .
 42024044	Then he said , I told you this while I was with you . I told you that things were written about me in the books of Moses , the Prophets , and the Psalms . And I told you that all of these things must come true .
 42024045	Then he taught them so that they understood the things in the holy writings .
@@ -6132,7 +6135,8 @@
 49003017	And I ask that Christ may live in your hearts because you believe in him . I ask that you may live and grow in love .
 49003018	I ask that God will give you power to know how wide and long and high and deep the love of Christ is . All Christians should know that .
 49003019	I ask God that you may know the love of Christ which is more than we can ever know . I ask that you may be filled with everything that God has .
-49003020	49003021	God can do much more than we ask him to do , or we even think of . He does it by his power which is working in us . So , praise him in the church meeting in Christ Jesus . Praise him for ever and ever ! May it be so !
+49003020	
+49003021	God can do much more than we ask him to do , or we even think of . He does it by his power which is working in us . So , praise him in the church meeting in Christ Jesus . Praise him for ever and ever ! May it be so !
 49004001	I am a prisoner who belongs to the Lord . I beg you , live the way people should live who have been called by God .
 49004002	Do not be proud at all . Be very humble . Love one another and be patient with each other .
 49004003	The Spirit has made you all one . Try to stay like that . May you be at peace with one another .
@@ -6507,7 +6511,9 @@
 52005023	Greet all the brothers with a kiss that is holy .
 52005024	I give you this order from the Lord . Read this letter to all the Christian brothers .
 52005025	May our Lord Jesus Christ bless you . May it be so .
-52005026	52005027	52005028	missing fehlt/missing
+52005026	
+52005027	
+52005028	missing fehlt/missing
 53001001	Paul , Silvanus , and Timothy send greetings to the church people in the city of Thessalonica . This church belongs to God our Father and the Lord Jesus Christ .
 53001002	May God our Father and our Lord Jesus Christ , in their kindness , give you much happiness and peace .
 53001003	My brothers , we thank God for you always . It is the right thing to do . You trust him more and more . You all love each other more and more .
@@ -6795,7 +6801,8 @@
 56003011	You know that such people are wrong and what they do is wrong . They themselves know that they are wrong . Tychicus to you , do your best to come to me at the city of Nicopolis . I have planned to stay there while it is the cold time of the year .
 56003012	Do your best to send Zenas the lawyer , and Apollos on their way . Give them all they need .
 56003013	Our people should learn to spend their time in doing good things to help people who are poor . In that way , our people will not waste their time . Greet those who believe as we do and who love us . God bless you all .
-56003014	56003015	missing fehlt/missing
+56003014	
+56003015	missing fehlt/missing
 57001001	I am Paul . I am in prison because I belong to Christ Jesus . Our brother Timothy and I send greetings to you , Philemon . We love you very much . And you work with us .
 57001002	We also send greetings to our sister Apphia ; to Archippus who is worker in Gods army as we are ; and to the people who meet as a church in your house .
 57001003	May God our Father and the Lord Jesus Christ bless you in their kindness and give you peace .
@@ -7674,7 +7681,10 @@
 66007003	The angel said , Do not hurt the earth , the sea , or the trees until we have put a mark on the foreheads of Gods servants .
 66007004	And I heard that one hundred and forty-four thousand people were marked . They were from every tribe of Israel .
 66007005	Twelve thousand people were marked from each of these tribes : Judah , Reuben , Gad , Asher , Naphtali , Manasseh , Simeon , Levi , Issachar , Zebulun , Joseph , Benjamin .
-66007006	66007007	66007008	66007009	After this , I looked and saw many people . There were so many that no person could count them all . They were from every country , tribe , nation , and language . I saw them standing in front of the throne and the Lamb . They wore white clothes and they had palm branches in their hands .
+66007006	
+66007007	
+66007008	
+66007009	After this , I looked and saw many people . There were so many that no person could count them all . They were from every country , tribe , nation , and language . I saw them standing in front of the throne and the Lamb . They wore white clothes and they had palm branches in their hands .
 66007010	They called in a loud voice and said , Our God who sits on the throne , and the Lamb : they are the Ones who save people . Salvation belongs to them !
 66007011	All the angels were standing around the throne and around the leaders and the four living beings . They bowed down their faces in front of the throne and worshipped God .
 66007012	They said , May it be so ! Blessing , praise , glory and wisdom , thanks , honour , power , and strength belong to our God for ever and ever ! Amen !
@@ -7790,7 +7800,8 @@
 66014006	Then I saw another angel flying across the sky . He had good news that will last for ever to tell the people who live on the earth . The good news is for every country , tribe , language , and nation .
 66014007	He said in a loud voice , Respect and honour God and give him glory ! The time has come for him to judge people , to tell them how good or bad they are . Worship him . He made heaven and earth , the sea , and the rivers .
 66014008	A second angel followed him . He said , The great city of Babylon has fallen down . It has fallen down because it filled all the countries with its wrong ways . It has made people to suffer Gods anger .
-66014009	66014010	A third angel followed the other two . He said in a loud voice , Any person who worships the beast or its idol , and takes its mark on his forehead or on his hand , will also feel Gods anger . He is very angry . That person will be burned with fire and dust that chokes people when it burns . He will be burned in front of the holy angels and the Lamb .
+66014009	
+66014010	A third angel followed the other two . He said in a loud voice , Any person who worships the beast or its idol , and takes its mark on his forehead or on his hand , will also feel Gods anger . He is very angry . That person will be burned with fire and dust that chokes people when it burns . He will be burned in front of the holy angels and the Lamb .
 66014011	The smoke of that fire goes up for ever and ever . Those who worship the animal and its idol , and anyone who takes the mark of its name , will get no rest day or night .
 66014012	This is why Gods people must be patient . They are the ones who keep the laws of God and believe in Jesus .
 66014013	I heard a voice from the sky . It said , Write this : From now on , happy are those who die believing in the Lord . Yes , says the Spirit . They will have rest from their troubles . The good things they have done will go with them .
