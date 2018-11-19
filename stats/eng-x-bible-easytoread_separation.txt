@@ -1,0 +1,13 @@
+!     18      0  True U+0021 EXCLAMATION MARK
+(     13      0  True U+0028 LEFT PARENTHESIS
+)     10      3  True U+0029 RIGHT PARENTHESIS
+,    299     38  True U+002c COMMA
+.    534     97  True U+002e FULL STOP
+:     42      6  True U+003a COLON
+;     17      1  True U+003b SEMICOLON
+?     15      0  True U+003f QUESTION MARK
+—      5      0  True U+2014 EM DASH
+‘     28      0  True U+2018 LEFT SINGLE QUOTATION MARK
+’    101      1  True U+2019 RIGHT SINGLE QUOTATION MARK
+“     74      1  True U+201c LEFT DOUBLE QUOTATION MARK
+”     84      2  True U+201d RIGHT DOUBLE QUOTATION MARK

@@ -1,0 +1,5 @@
+!      1      0  True U+0021 EXCLAMATION MARK
+,     18      2  True U+002c COMMA
+.     15      1  True U+002e FULL STOP
+;     30      2  True U+003b SEMICOLON
+?      7      0  True U+003f QUESTION MARK
