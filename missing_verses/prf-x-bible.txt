@@ -1,115 +1,127 @@
-41002025
-41002026
-41003009
-41003010
-41006035
-41006036
-41006039
-41006040
-41007008
-41007009
-41007010
-41007011
-41007012
-41007013
-41012037
-41012043
-41012044
-41015042
-41015043
-42004011
-42007028
-42007033
-42007034
-42007035
-42023044
-42023045
-42023050
-42023051
-44001021
-44001022
-44002032
-44002033
-44002034
-44004012
-44004027
-44004028
-44004029
-44004030
-44004031
-44010009
-44010010
-44010040
-44010041
-44013036
-44013037
-44013038
-44013039
-44013040
-44017029
-44017030
-44017031
-44027016
-44027017
-45009011
-45009012
-45011009
-45011036
-45014012
-45015010
-45015011
-45015012
-46002010
-46002011
-46002012
-46005012
-46005013
-46014022
-46015056
-46015057
-46015058
-47009010
-47009011
-47009012
-47009013
-47009014
-47009015
-58001006
-58001007
-58001008
-58001010
-58001013
-58001014
-58002009
-58002010
-58002013
-58003016
-58003017
-58003018
-58003019
-58004004
-58004005
-58004006
-58004007
-58004008
-58004009
-58004010
-58004011
-58005006
-58007022
-58008013
-58010008
-58010009
-58010010
-58010017
-58010018
-58010039
-59001007
-59001008
-60002007
-60002008
-60004019
-62005007
-62005008
-66005013
-66005014
+41002025	Tinanung hidi ni Jesus, “Awan beman nabasa moy dán en ginamet ni David dikona ti Abiatar en kapunuwan nen padi hidi? Magaláp tenhud de David ay ten kaguman na hidi. Kaya summáddáp siya ten bilay nen Diyos sakay inalap na en alay a tinapay para ten Diyos sakay kinan di. Bawal iyud ten kautusan gapu padi la en maari a mangkan haud. Peru kinan iyud ni David sakay inátdenan na pa en kaguman na hidi.”
+41002026	
+41003009	Makpal siya a pinagpiyya a tehud a saket, sakay pummilit pa en agum a tehud a saket a kumabit dikona. Kaya nángpehanda ti Jesus ti abeng ten disepulus na hidi sakay summakay siya tánni awan di siya masáldit.
+41003010	
+41006035	Dikona apon dán ay ummadeni kánni Jesus en disepulus na hidi sakay kinagi di, “Maistu, mággaaapon dán, paangayán mu dán tolayen hidi ti babaryuwen, pagaryokán mu dán hidi ti pangapon di gapu ked kitam ti adeyuwidi a lugar.”
+41006036	
+41006039	Káttapos ay pinaetnud ni Jesus en tolay hidi a nagrupu-grupu ten kalamonan. Balang grupu ay tehud a limma pulu sakay tehud a tággidatos.
+41006040	
+41007008	Mas pinahalagaan moy pa en utus nen tolay nan en utus nen Diyos.”
+41007009	Kinagi pa ni Jesus, “Mágkalalaki kam! Para masunud moy la en dati moy a pánniwala, ay pinawanan moy ti halaga en utus nen Diyos!
+41007010	Kona ten kautusan ni Moises a, ‘Igalang mu en ama mu ay ten ina mu. Sakay ni deyaman en magupos ti madukás ten ama na ay ten ina na ay dapat a bunuwán.’
+41007011	Peru en itáttoldu moy ten tolay hidi ay, ‘Ni tehud kam a maari a itulung ten dáddikál moy hidi ay maari moy a kagiyán a iyud ay Corban.’ (En gustu na a kagiyán ay iyád ay nealay dán ten Diyos.)
+41007012	Kaya awan moy dán hidi patulungán ten dáddikál di.
+41007013	Gapu ti iyud ay pinawanan moy dán ti halaga en upos nen Diyos. Makpal kam pa a itáttoldu a kona labi haád.”
+41012037	Ti David dán en nangdulaw dikona a Panginoon; konya a en Cristo ay maggubwat ten lahi ni David?” Makpal a tolay en masaya a mágsanig dikona.
+41012043	Dinulaw ni Jesus en disepulus na hidi sakay kinagi na dikodi, “Tatarudan i kagiyán kuwidi dikomoy, en ingkaluub nen pubri a bilu ay mas makpal, gapu en agum ay nangatád la ten bahagi nen kayamanan di. Peru siya a pubri a bilu maski ni mahirap siya ay inyobus na a inyatád en kasiya-siya a kabiyagan na.”
+41012044	
+41015042	Dikona mágga-aapon dán ay dummemát ti Jose a taga-Arimatea. Essa siya a igággalang a miyembru nen Sanedrin, maguray bi siya ten káddemát nen pághari nen Diyos. Nadid gapu aldew tenhud nen pághanda di ten Aldew nen Káimang ay binegsákkan na en isip na a ummangay kánni Pilato para agidán na en bangkay ni Jesus.
+41015043	
+42004010	gapu nakasulat a, ‘Pabantay ka nen Diyos ten anghel na hidi, utusan na hidi tánni bantayan di ka,’
+42004011	sakay nakasulat bi a, ‘Ten pamamag-itan nen lima di ay alalayan di ka, tánni maski i básset muwen ay awan mesángdul ti batu.’ ”
+42007028	Kagiyán ku dikomoy, a awan palla ti neenak a mas mataas nan ti Juan. Peru mas mataas kánni Juan en kababaan ten kahariyan nen Diyos.”
+42007033	Gapu ummangay háddi ti Juan a Mágbinyag, mágkulásyon siya sakay awan umminom ti alak, peru kinagi moy a hinayup siya.
+42007034	Dikona dummemát bi en Anak nen Tolay, ay kuman sakay uminom. Peru kinagi moy a, ‘Ilingán moy i tolayen, maunas sakay lasinggeru! Amigu pa nen mágsinger hidi ti buwes sakay nen makasalanan hidi!’
+42007035	Peru en karunungan nen Diyos ay ketan a tama ten pamamag-itan nen gamet nen tagasunud na hidi.”
+42023044	Dikona a tanghali dán ay nagdiklám i buuwid a luta hanggan ten alas tres ten apon. Sakay napisad en ditángnga nen kortina ten kadisaladan nen Templo.
+42023045	
+42023050	Tehud a essa a lállaki a Jose en ngaran na, taga-Arimatea a essa a banuwan ti Judea. Mabait siya sakay matuwid a tolay, essa siya ten tolay hidi a maguray ten káddemát nen pághari nen Diyos. Sakay maski kaguman siya ten Sanedrin ay awan siya ummayun ten madukás a ginamet di kánni Jesus.
+42023051	
+44001021	“Kaya dapat kitam a mangpili ti essa a makakaguman mi bilang magpatunay ten ruway a kákkabiyag ni Jesus. Kailangan tamid a piliyán ay essa ten grupu mi a nalay mi dán a kakaguman sapul pa ten dikona kaguman mi palla ti Jesus sakay sapul dikona bininyagan siya ni Juan hanggan ten káangay na dilanget.”
+44001022	
+44002032	Ti Jesus ay biniyag a ruway nen Diyos, mapatunayan mi iyud a atanan gapu netan mi.
+44002033	Kaya minággetnud siya ten kawanan nen Diyos, sakay tinanggap na ten Ama en nepangaku a Banal a Ispiritu. Iyád en imbuhus na dikomi a kona ti áelingán moyen sakay sássanigán nadid.
+44002034	Bakán a ti hari a David en ummangay dilanget, nan kinagi na la a, ‘Kinagi nen Panginoon ten Panginoon ku a, “Mággetnud ka ti kawanan kuwidi,
+44004012	Kánni Jesu-Cristo tam la a ketan en kaligtasan, gapu ti buuwiday a mundu ay awan ti agum a ngaran a kinagi en Diyos para ten kaligtasan nen tolay ni awan ti Jesu-Cristo la.
+44004027	Natupad ngani iyád dikona a nagkaessa de Herodes ay ti Poncio Pilato, kaguman en Hentil hidi sakay en buu a Israel. Namagkaessa hidi kontra ten banal a Tagapagserbi mu a ti Jesus, a Pinili mu.
+44004028	Naipun hidi tánni matupad en dapat a mangyari ayun ten intakda mu tenhud pa.
+44004029	Nadid, Panginoon, bábbantaan di kami kaya tulungan mu kami a tagapagserbi mu hidi a magkahud kami ti begsák isip a ipangaral en upos mu.
+44004030	Iyolnat mu i lima muwen tánni magpapiyya, sakay ipagkaluub mu a ten ngaran nen banal a Tagapagserbi mu a ti Jesus ay makagamet kami ti himala.”
+44004031	Káttapos di a nagdasal ay nayanág en págyanan di a bilay sakay naputat hidi ti hustu ten Banal a Ispiritu sakay bummegsák en isip di a mangaral ten Upos nen Diyos.
+44010009	Ten sumunud a aldew ay adeni dán ten siyudad a Joppa en inutusan hidi ni Cornelio. Nadid, ti Pedro ay summangkay ten atáp nen bilay tánni magdasal. Magtatanghali dán tenhud kaya magaláp dán siya. Peru mentras a maguray siya a mehanda en pagkain di ay naketa siya ti pangitain.
+44010010	
+44010040	Peru biniyag siya a ruway nen Diyos ten katállu a aldew. Pummeta siya peru bakán a ten atanan a tolay nan dikomi la a pinili hidi nen Diyos tenhud pa bilang tagapatunay na. Sikami en kaguman na a kumman sakay umminom dikona nabiyag siya a ruway.
+44010041	
+44013036	Dikona nasunud dán ni David en atanan nen kagustuwan nen Diyos, ay natay dán siya sakay inlábbáng di a adeni ten nánglábbángngan di ten dáddikál na hidi sakay narunot en bággi na.
+44013037	Peru ti Jesus a biniyag a ruway nen Diyos ay awan summaber ti kákkarunot.
+44013038	Dapat moy a matukuyan kákkapatkaka ku hidi a ten pamamag-itan ni Jesus ay napatawad dán en kasalanan tam.
+44013039	En atanan nen sumampalataya hidi dikona ay napatawad dán ten atanan nen kasalanan di a awan mapatawad maski ten págsunud ten Kautusan hidi ni Moises.
+44013040	Kaya mangilag kam tánni awan mangyari dikomoy en hula nen propeta hidi a,
+44017029	Gapu sikitam ay anak nen Diyos, ay dyan tam ipalagay a siya ay kona la ten ribultu a gintu, pilak, oni batu a linalang la ni isip sakay lima ni tolay.
+44017030	Nalay a panahun a pinabayan nen Diyos en tolay ten awan di pángtenggi dikona. Peru nadid ay awan dán, gapu inyutus na a magsisi en atanan a tolay sakay adeyuwan di dán en madukás di a kákkabiyag.
+44017031	Gapu intakda na dán en aldew nen pághatul ti munduwiday, sakay iyád ay gamitán na a makatarungan ten pamamag-itan nen essa a tolay a pinili na. Pinatunayan na iyud dikona biniyag a ruway i tolayid a iyud.”
+44027016	Dikona makalembu kami ten badit a puduk a ngángngaranan a Cauda ay nahirapan kami a nángsangpa ten barutu. Inggalot nen tripulanti hidi ti mágkabaál a igut en bággi nen barku. Inákkán di en layag sakay nágpaanud kami dálla gapu manteng hidi a mesadsad ten baybay nen Sirte.
+44027017	
+45009011	impakilala nen Diyos a en págpili na ay ayun ten sadili na a planu, bakán a ayun ten gamet nen tolay. Kaya bagu pa a meenak en anak hidi sakay bagu pa hidi a makagamet ti maganda oni madukás, kinagi dán nen Diyos kánni Rebecca a, “Magserbi en panganay ten wadi na.”
+45009012	
+45011009	Sakay kinagi bi ni David, “Magin ekrot nakuwan sakay patibung en págpiyesta di, essa a kepalulungan di sakay parusa dikodi.
+45011036	Gapu en atanan a bagay ay gubwat dikona, ten pamamag-itan na, sakay kao na. Kao na en karangalan a awan ti katapusan! Amen.
+45014012	Kaya panagutan tam ten Diyos en bagay hidi a gággamitán tam.
+45015009	Sakay tánni en Hentil hidi ay magpuri bi ten Diyos gapu ten habag na. Kona ten nakasulat a, “Kaya puriyán taka ten atubengán nen Hentil hidi, en karangalan mu ay ikansiyon ku, en ngaran mu ay sambaán ku.”
+45015010	Kinagi na bi a, “Magsaya kam, Hentil hidi, a kaguman nen banuwan na!”
+45015011	Sakay kinagi na a ruway, “Puriyán moy en Panginoon, sikam a Hentil hidi, atanan a bansa ay magpuri dikona!”
+45015012	Indagdag pa ni Isaias, “Tehud a meenak ten lahi ni Jesse, tánni maghari ten Hentil hidi, siya en magin pag-asa di.”
+46002010	Peru impakapospos dán iyád nen Diyos dikotam ten pamamag-itan nen Ispiritu. Suriyán nen Ispiritu en atanan a bagay, magin ten kadisaladan a layunin nen Diyos.
+46002011	Gapu awan ti makatukoy ten áisipán nen essa a tolay maliban ten sadili na a ispiritu. Kona labi hud, awan ti makatukoy ten áisipán nen Diyos maliban ten Ispiritu nen Diyos.
+46002012	En tinanggap tam ay bakán a ispiritu ni munduwiday nan en Ispiritu a gubwat ten Diyos, tánni maintendiyan tam en kaluub na hidi dikotam.
+46005012	Sabagay, awanák ti karapatan a manghatul ten awan hidi Cristiano; en Diyos en manghatul dikodi. Awan beman en miyembru nen simbaan en dapat moy a hatulan? Kinagi ngani nen kasulatan a, “Ibutan moy ten grupu moy en madukás a tolay.”
+46005013	
+46014022	Ni konahud, en kaluub a makapagupos ti iba-iba a upos ay essa a tanda para ten awan hidi mánnampalataya, bakán a ten mánnampalataya hidi. Peru en kaluub a makapagpahayag ti mensahi a gubwat ten Diyos ay tanda para ten mánnampalataya hidi, sakay bakán a ten awan hidi mánnampalataya.
+46015056	En kamandag nen kamatayan ay en kasalanan, sakay en begsák nen kasalanan ay maggubwat ten Kautusan.
+46015057	Magpasalamat kitam ten Diyos gapu inatáddan na kitam ti tagumpay ten pamamag-itan nen Panginoon tam a ti Jesu-Cristo!
+46015058	Kaya ngani, mahal ku hidi a kákkapatkaka, magpakatatag kam a pirmi sakay dyan manghina. Magpakasipag kam ten págserbi moy ten Panginoon, gapu tukoy moy a awan masayang en pagud moy para dikona.
+47009010	En Diyos a mangatád ten bine a imula sakay tinapay a makan, ay siya labi en mangatád dikomoy ti bine sakay magpalagu ti iyád tánni magbunga ti sagana en kabaitan moy.
+47009011	Pasaganaán na kam ten atanan a bagay tánni lalu a makpal kam a matulungan. Ni magkakonahud ay makpal en magpasalamat ten Diyos gapu ten tulung a tawidán mi a iyatád dikodi.
+47009012	En káttulung moy ten kákkapatkaka hidi ay bakán la a makapangatád ten pangangailangan di, nan magin dahilan pa nen awan ti katapusan a págpasalamat di ten Diyos.
+47009013	En buu a pusu moy a pángngatád dikodi sakay ten atanan, en mangpatunay a matapat moy a sássunudán en Maganda a Bareta ni Cristo. Gapu haán, ay magpuri hidi ten Diyos.
+47009014	Kaya buu a págmahal di kam a idáddasal, gapu ten dakila a kaluub nen Diyos dikomoy.
+47009015	Salamat ten Diyos gapu ten kaluub na a awan ti kapantay!
+58001005	Gapu maski nikan ay awan kinagi nen Diyos ten deyaman a anghel a, “Siko en Anak ku! Sapul nadid ay sikán dán en magin Ama mu.” Ni awan na bi kinagi ten deyaman a anghel a, “Sikán ay magin Ama na, sakay siya ay magin Anak ku.”
+58001006	Sakay dikona paangayán dán nen Diyos en panganay a Anak na ti munduwiday ay kinagi na a, “Dapat siya a sambaán nen atanan a anghel nen Diyos.”
+58001007	Tungkul bi ten anghel hidi ay kinagi na a, “Kumán hidi a parás, sakay maggerab a apoy a magserbi dikona.”
+58001008	Peru tungkul ten Anak na ay kinagi na a, “En trono mu O Diyos, ay awan ti katapusan, en pághari mu ay tehud a katarungan.
+58001009	Kasayaan mu en pággamet ti matuwid, peru en pagkamasuwayin ay sasala mu. Kaya pinili ka nen Diyos a Diyos mu, sakay inátdenan na ka ti kasayaan a higit ten kaguman mu hidi.”
+58001010	Kinagi na pa a, “Siko Panginoon en nanglalang ti lutaiday ten sapul pa, sakay gamet nen lima mu en langet.
+58001011	Mágkawan hidi iyád, peru siko ay awan mamawan. Magin ráppot hidi a atanan a kona ten damit;
+58001012	iduru mu hidi iyud a kona ten ráppot a damit, sakay mapalitan hidi. Peru siko ay awan magbabagu, awan ka tumanda oni matay.”
+58001013	Maski nikan ay awan kinagi nen Diyos ten deyaman a anghel a, “Mággetnud ka ti kawanan kuwidi, mentras a awan ku mapasuku dikomu en atanan nen kadima mu hidi.”
+58001014	Ni konahud, ay ánya en anghel hidi? Hidi ay ispiritu a magserbi ten Diyos, sakay paangayán na hidi a tumulung ten maligtas hidi.
+58002008	Sakay impabahala mu ten kapangyariyan na en atanan a bagay.” Dikona a impebahala nen Diyos ten tolay en atanan a bagay, ay awan ti puwera. Nadid, ay awan tam palla netan a nasakup dán nen kapangyariyan nen tolay en atanan a bagay.
+58002009	Peru tukoy tam ti Jesus, maski ni nagin mababa ti sabadit a panahun nan ten anghel hidi, ay minaátdenan ti karangalan sakay kadakilaan gapu ten kákkatay na. Gapu ten habag nen Diyos, ay ingkaluub na a matay ti Jesus para dikotam a atanan.
+58002010	Karapat-dapat la en ginamet nen Diyos a nanglalang sakay mangalaga ten atanan a bagay. Pinagin-ganap na ti Jesus ten pamamag-itan nen pághirap, tánni makapánggiyya siya ti makpal ten kadakilaan na. Gapu ti Jesus en paggubwatan nen kaligtasan di.
+58002012	Kona háddi en kinagi na: “Ipahayag ku ten kákkapatkaka ku en ngaran mu, sakay ten ditángnga nen katolayan mágkansiyonák ti papuri dikomu.”
+58002013	Kinagi na bi a, “Manaligák ten Diyos.” Sakay kinagi na pa a, “Sikán laid, kaguman ku en anak hidi nen Diyos a inyatád na dikoku.”
+58003016	Deya beman en sinumuway hidi ten Diyos maski ni nasanig di dán en upos na? Awan beman, en inluwas hidi ni Moises ti Egipto?
+58003017	Sakay kándeya a minaiyamut en Diyos ten áppat a pulu a taon? Awan beman, ten nagkasala hidi sakay minágkatay ten kaparangan?
+58003018	Sakay deya en kinagiyan na a awan makasasáddáp ten páppágyanan na sakay makaimang? Awan beman, en masuwayin hidi?
+58003019	Kaya tukoy tam a awan hidi nakasáddáp ten páppágyanan na sakay nakaimang gapu ten awan di pánniwala ten Diyos.
+58004003	Makasáddáp kitam a mánnampalataya hidi sakay umimang ten páppágyanan nen Diyos. Ten awan hidi sumampalataya ay kinagi na a, “Ten iyamut ku ay insumpa ku a, ‘Awan hidi makasasáddáp sakay makaimang ten páppágyanan ku.’ ” Kinagi na iyád maski ni tapos dán en páglalang na ti munduwiday.
+58004004	Gapu kinagi na ten essa a bahagi Kasulatan a, “Sakay inumimang en Diyos ten kapittu a aldew nen páglalang na.”
+58004005	Sakay kinagi na pa a ruway a, “Awan hidi makasasáddáp sakay makaimang ni hádya en páppágyanan ku.”
+58004006	Awan nakasáddáp sakay nakaimang en dipalongu hidi a nakasanig ten Maganda a Bareta gapu ten awan di kássunud. Peru nadid ay tehud padi a makasáddáp sakay makaimang.
+58004007	Kaya nángtakda a ruway en Diyos ti aldew, iyud a aldew ay, ‘Nadid.’ Impakapospos iyád nen Diyos ten pamamag-itan ni David kállipas nen nalay a panahun a kinagi na, “Ni masanig moy nadid en upos nen Diyos, ay dyan moy dán pakáttugán i pággisipan moyen.”
+58004008	Ta gapu ni pinaimang ni Josue en tolay hidi, ay awan dán nakuwan nagkagi a ruway en Diyos tungkul ten essa pa a aldew a káimang.
+58004009	Gustu naid a kagiyán, ay tehud palla a nehanda a imangan en tolay hidi nen Diyos, a kona ten káimang nen Diyos ten kapittu a aldew káttapos nen páglalang na.
+58004010	Tánni deyaman en makasáddáp sakay umimang ay umimang bi ten tarabahu na a kona ten káimang nen Diyos ten páglalang na.
+58004011	Kaya pagsikapan tam a makasáddáp sakay umimang ten páppágyanan nen Diyos. Gapu en sumuway ten Diyos ay awan makasáddáp a kona ten Israelita hidi.
+58005005	Kona labi hud, bakán a ti Cristo en nánglangkaw ten sadili na bilang Kapunuwan a Padi. Nan, pinili siya nen Diyos a nangkagi dikona a, “Siko en Anak ku. Nadid a aldew, sikán ay magin Ama mu.”
+58005006	Kinagi na bi ten iba a bahagi nen kasulatan a, “Siko ay padi a awan ti katapusan a kona ten pagkapadi ni Melquisedec.”
+58007022	Gapu kánni Jesus, ay nakasigudu kitam ten mas maganda a kasunduwan.
+58008013	Dikona a kagiyán nen Diyos en bigu a kasunduwan, ay pinawanan na ti bisa en dati. Sakay en ányaman a nawanan ti bisa sakay dati dán ay adeni dán a mawan.
+58010008	Kinagi ni Cristo a sala nen Diyos en alay hidi sakay en hayup hidi, en handug hidi a tutudán, sakay en handug hidi a para ten kasalanan, maski ni ayun iyád ten Kautusan.
+58010009	Sakay kinagi na pa a, “Kedák háddi a mangtupad ten kaluuban mu.” Inibutan nen Diyos en purumeru a handug sakay pinalitan na ten handug ni Cristo.
+58010010	Gapu ten pángsunud ni Jesu-Cristo ten kaluuban nen Diyos, kaya nalinis en kasalanan tam ten pamamag-itan nen pánghandug na ten sadili na a bággi. Pumensan na la iyád a ginamet, sakay awan dán kailangan a ruwayán.
+58010017	Sakay kinagi na pa a, “Kalimunan ku dán en kasalanan di hidi sakay en mágkadukás di hidi a gamet.”
+58010018	Gapu napatawad dán en kasalanan hidi, kaya awan dán kailangan a magalay para ti kasalanan.
+58010039	Peru awan kitam kabilang ten umadág hidi sakay mepahamak, nan ten tehud hidi a pánnampalataya ten Diyos sakay maligtas.
+59001007	En tolay a kona haud a magduwwa-duwwa ti pággisipan ay awan dapat a umasa a iyatád nen Panginoon en agidán na.
+59001008	
+60002006	Kona ten kinagi nen Kasulatan, “Ilingán moy, idátton ku ti Zion en pamireng, pinili sakay mahalaga; awan mapasaniki en deyaman a sumampalataya dikona.”
+60002007	Kaya i batuwid a iyud ay tunay ti halaga dikomoy a mánnampalataya hidi. Peru ten awan hidi mánnampalataya ay hidi en mangpatunay ten Kasulatan a, “En batu a inadiyan nen mágbilay hidi ay siya bali en batu a pangpundasyon.”
+60002008	Sakay “Iyád labi a batu en kesángdulan sakay kerakpaan nen tolay hidi.” Nesángdul hidi gapu awan hidi summunud ten Upos nen Diyos, sakay iyád en inhanda nen Diyos para dikodi.
+60004019	Kaya ni deyaman en maghirap gapu iyud en kagustuwan nen Diyos ay dapat a magtiwala ten matapat a Máglalang, sakay tulos-tulos siya a maggamet ti maganda.
+62005007	Tállu en magpatunay: en Ispiritu, en dinom sakay en digi; hidi a tállu ay nagkaessa.
+62005008	
+66005012	Ikákkansiyon di ti mabegsák a: “En Kordero a binunu ay karapatdapat a tumanggap ti kapangyariyan, kayamanan, karunungan, begsák, karangalan, papuri sakay pággalang!”
+66005013	Sakay nasanig ku a mamagkansiyonan en atanan a linalang dilanget, ti lutaiday, disalad ni lutaiday, ten diget sakay ten atanan a ked haud: “Iyatád ten mággetnud ten trono sakay ten Kordero, en kapuriyan sakay karangalan, kaluwalhatian sakay kapangyariyan a awan ti katapusan!”
+66005014	Sakay tummábbig en áppat a linalang a biyag, “Amen!” Sakay linumuhud en atanan nen tagapangasiwa hidi sakay sinumamba.
