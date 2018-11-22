@@ -1,0 +1,168 @@
+40001002	Abraão gerou Isaque; Isaque gerou Jacó; Jacó gerou Judá e seus irmãos;
+40001003	Judá gerou Perez e Zerá, cuja mãe foi Tamar; Perez gerou Esrom; Esrom gerou Arão;
+40001004	Arão gerou Aminadabe; Aminadabe gerou Naassom; Naassom gerou Salmom;
+40001005	Salmom gerou Boaz, cuja mãe foi Raabe; Boaz gerou Obede, cuja mãe foi Rute; Obede gerou Jessé;
+40001006	e Jessé gerou o rei Davi. Davi gerou Salomão, cuja mãe tinha sido mulher de Urias;
+40001007	Salomão gerou Roboão; Roboão gerou Abias; Abias gerou Asa;
+40001008	Asa gerou Josafá; Josafá gerou Jorão; Jorão gerou Uzias;
+40001009	Uzias gerou Jotão; Jotão gerou Acaz; Acaz gerou Ezequias;
+40001010	Ezequias gerou Manassés; Manassés gerou Amom; Amom gerou Josias;
+40001011	e Josias gerou Jeconias e seus irmãos no tempo do exílio na Babilônia.
+40001012	Depois do exílio na Babilônia: Jeconias gerou Salatiel; Salatiel gerou Zorobabel;
+40001013	Zorobabel gerou Abiúde; Abiúde gerou Eliaquim; Eliaquim gerou Azor;
+40001014	Azor gerou Sadoque; Sadoque gerou Aquim; Aquim gerou Eliúde;
+40001015	Eliúde gerou Eleazar; Eleazar gerou Matã; Matã gerou Jacó;
+40001016	e Jacó gerou José, marido de Maria, da qual nasceu Jesus, que é chamado Cristo.
+40006014	Pois, se perdoarem as ofensas uns dos outros, o Pai celestial também perdoará vocês.
+40006015	Mas, se não perdoarem uns aos outros, o Pai celestial não perdoará as ofensas de vocês.
+40011011	Digo a verdade a vocês: Do meio dos nascidos de mulher não surgiu ninguém maior do que João Batista; todavia, o menor no Reino dos céus é maior do que ele.
+40011012	Desde os dias de João Batista até agora, o Reino dos céus é tomado à força, e os que usam de força se apoderam dele.
+40011013	Pois todos os Profetas e a Lei profetizaram até João.
+40011014	E se vocês quiserem aceitar, este é o Elias que havia de vir.
+40011015	Aquele que tem ouvidos, ouça!
+40011018	Pois veio João, que jejua e não bebe vinho, e dizem: ‘Ele tem demônio’.
+40011019	Veio o Filho do homem comendo e bebendo, e dizem: ‘Aí está um comilão e beberrão, amigo de publicanos e pecadores’. Mas a sabedoria é comprovada pelas obras que a acompanham”.
+40013014	Neles se cumpre a profecia de Isaías: “ ‘Ainda que estejam sempre ouvindo, vocês nunca entenderão; ainda que estejam sempre vendo, jamais perceberão.
+40013016	Mas felizes são os olhos de vocês, porque veem; e os ouvidos de vocês, porque ouvem.
+40013017	Pois eu digo a verdade: Muitos profetas e justos desejaram ver o que vocês estão vendo, mas não viram, e ouvir o que vocês estão ouvindo, mas não ouviram.
+40022045	Se, pois, Davi o chama ‘Senhor’, como pode ser ele seu filho?”
+40022046	Ninguém conseguia responder-lhe uma palavra; e daquele dia em diante, ninguém jamais se atreveu a lhe fazer perguntas.
+40026032	Mas, depois de ressuscitar, irei adiante de vocês para a Galileia”.
+41001004	Assim surgiu João, batizando no deserto e pregando um batismo de arrependimento para o perdão dos pecados.
+41001005	A ele vinha toda a região da Judeia e todo o povo de Jerusalém. Confessando os seus pecados, eram batizados por ele no rio Jordão.
+41001006	João vestia roupas feitas de pelos de camelo, usava um cinto de couro e comia gafanhotos e mel silvestre.
+41001007	E esta era a sua mensagem: “Depois de mim vem alguém mais poderoso do que eu, tanto que não sou digno nem de curvar-me e desamarrar as correias das suas sandálias.
+41001008	Eu os batizo com água, mas ele os batizará com o Espírito Santo”.
+41007008	Vocês negligenciam os mandamentos de Deus e se apegam às tradições dos homens”.
+41009049	Cada um será salgado com fogo.
+41012037	O próprio Davi o chama ‘Senhor’. Como pode, então, ser ele seu filho?” E a grande multidão o ouvia com prazer.
+41014028	Mas, depois de ressuscitar, irei adiante de vocês para a Galileia”.
+42001043	Mas por que sou tão agraciada, ao ponto de me visitar a mãe do meu Senhor?
+42001044	Logo que a sua saudação chegou aos meus ouvidos, o bebê que está em meu ventre agitou-se de alegria.
+42001045	Feliz é aquela que creu que se cumprirá aquilo que o Senhor lhe disse!”
+42003023	Jesus tinha cerca de trinta anos de idade quando começou seu ministério. Ele era considerado filho de José, filho de Eli,
+42003024	filho de Matate, filho de Levi, filho de Melqui, filho de Janai, filho de José,
+42003025	filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagai,
+42003026	filho de Máate, filho de Matatias, filho de Semei, filho de Joseque, filho de Jodá,
+42003027	filho de Joanã, filho de Ressa, filho de Zorobabel, filho de Salatiel, filho de Neri,
+42003028	filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Er,
+42003029	filho de Josué, filho de Eliézer, filho de Jorim, filho de Matate, filho de Levi,
+42003030	filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliaquim,
+42003031	filho de Meleá, filho de Mená, filho de Matatá, filho de Natã, filho de Davi,
+42003032	filho de Jessé, filho de Obede, filho de Boaz, filho de Salmom, filho de Naassom,
+42003033	filho de Aminadabe, filho de Ram, filho de Esrom, filho de Perez, filho de Judá,
+42003034	filho de Jacó, filho de Isaque, filho de Abraão, filho de Terá, filho de Naor,
+42003035	filho de Serugue, filho de Ragaú, filho de Faleque, filho de Éber, filho de Salá,
+42003036	filho de Cainã, filho de Arfaxade, filho de Sem, filho de Noé, filho de Lameque,
+42003037	filho de Matusalém, filho de Enoque, filho de Jarede, filho de Maalaleel, filho de Cainã,
+42003038	filho de Enos, filho de Sete, filho de Adão, filho de Deus.
+42007028	Eu digo que entre os que nasceram de mulher não há ninguém maior do que João; todavia, o menor no Reino de Deus é maior do que ele”.
+42007033	Pois veio João Batista, que jejua e não bebe vinho, e vocês dizem: ‘Ele tem demônio’.
+42007034	Veio o Filho do homem, comendo e bebendo, e vocês dizem: ‘Aí está um comilão e beberrão, amigo de publicanos e pecadores’.
+42007035	Mas a sabedoria é comprovada por todos os seus discípulos.”
+42020018	Todo o que cair sobre esta pedra será despedaçado, e aquele sobre quem ela cair será reduzido a pó”.
+42020044	Portanto Davi o chama ‘Senhor’. Então, como é que ele pode ser seu filho?”
+42023031	Pois, se fazem isto com a árvore verde, o que acontecerá quando ela estiver seca?”
+43012014	Jesus conseguiu um jumentinho e montou nele, como está escrito:
+43012041	Isaías disse isso porque viu a glória de Jesus e falou sobre ele.
+44001021	Portanto, é necessário que escolhamos um dos homens que estiveram conosco durante todo o tempo em que o Senhor Jesus viveu entre nós,
+44001022	desde o batismo de João até o dia em que Jesus foi elevado dentre nós às alturas. É preciso que um deles seja conosco testemunha de sua ressurreição.”
+44004012	Não há salvação em nenhum outro, pois, debaixo do céu não há nenhum outro nome dado aos homens pelo qual devamos ser salvos”.
+44004027	De fato, Herodes e Pôncio Pilatos reuniram-se com os gentios e com o povo de Israel nesta cidade, para conspirar contra o teu santo servo Jesus, a quem ungiste.
+44004028	Fizeram o que o teu poder e a tua vontade haviam decidido de antemão que acontecesse.
+44004029	Agora, Senhor, considera as ameaças deles e capacita os teus servos para anunciarem a tua palavra corajosamente.
+44004030	Estende a tua mão para curar e realizar sinais e maravilhas por meio do nome do teu santo servo Jesus”.
+44013034	O fato de que Deus o ressuscitou dos mortos, para que nunca entrasse em decomposição, é declarado nestas palavras: “ ‘Eu dou a vocês as santas e fiéis bênçãos prometidas a Davi’.
+44013035	Assim ele diz noutra passagem: “ ‘Não permitirás que o teu Santo sofra decomposição’.
+45008037	Mas em todas estas coisas somos mais que vencedores, por meio daquele que nos amou.
+45008038	Pois estou convencido de que nem morte nem vida, nem anjos nem demônios, nem o presente nem o futuro, nem quaisquer poderes,
+45008039	nem altura nem profundidade, nem qualquer outra coisa na criação será capaz de nos separar do amor de Deus que está em Cristo Jesus, nosso Senhor.
+45009016	Portanto, isso não depende do desejo ou do esforço humano, mas da misericórdia de Deus.
+45009017	Pois a Escritura diz ao faraó: “Eu o levantei exatamente com este propósito: mostrar em você o meu poder e para que o meu nome seja proclamado em toda a terra”.
+45009018	Portanto, Deus tem misericórdia de quem ele quer e endurece a quem ele quer.
+45009026	e: “Acontecerá que, no mesmo lugar em que se lhes declarou: ‘Vocês não são meu povo’, eles serão chamados ‘filhos do Deus vivo’ ”.
+45009027	Isaías exclama com relação a Israel: “Embora o número dos israelitas seja como a areia do mar, apenas o remanescente será salvo.
+45009029	Como anteriormente disse Isaías: “Se o Senhor dos Exércitos não nos tivesse deixado descendentes, já estaríamos como Sodoma, e semelhantes a Gomorra”.
+45010019	Novamente pergunto: Será que Israel não entendeu? Em primeiro lugar, Moisés disse: “Farei que tenham ciúmes de quem não é meu povo; eu os provocarei à ira por meio de um povo sem entendimento”.
+45010020	E Isaías diz ousadamente: “Fui achado por aqueles que não me procuravam; revelei-me àqueles que não perguntavam por mim”.
+45010021	Mas, a respeito de Israel, ele diz: “O tempo todo estendi as mãos a um povo desobediente e rebelde”.
+45011009	E Davi diz: “Que a mesa deles se transforme em laço e armadilha, pedra de tropeço e retribuição para eles.
+45012021	Não se deixem vencer pelo mal, mas vençam o mal com o bem.
+45014012	Assim, cada um de nós prestará contas de si mesmo a Deus.
+45015010	E também diz: “Cantem de alegria, ó gentios, com o povo dele”.
+45015011	E mais: “Louvem o Senhor, todos vocês, gentios; cantem louvores a ele todos os povos”.
+45015012	E Isaías também diz: “Brotará a raiz de Jessé, aquele que se levantará para reinar sobre os gentios; estes porão nele a sua esperança”.
+45015022	É por isso que muitas vezes fui impedido de chegar até vocês.
+45016003	Saúdem Priscila e Áquila, meus colaboradores em Cristo Jesus.
+45016004	Arriscaram a vida por mim. Sou grato a eles; não apenas eu, mas todas as igrejas dos gentios.
+45016005	Saúdem também a igreja que se reúne na casa deles. Saúdem meu amado irmão Epêneto, que foi o primeiro convertido a Cristo na província da Ásia.
+45016006	Saúdem Maria, que trabalhou arduamente por vocês.
+45016007	Saúdem Andrônico e Júnias, meus parentes que estiveram na prisão comigo. São notáveis entre os apóstolos, e estavam em Cristo antes de mim.
+45016008	Saúdem Amplíato, meu amado irmão no Senhor.
+45016009	Saúdem Urbano, nosso cooperador em Cristo, e meu amado irmão Estáquis.
+45016010	Saúdem Apeles, aprovado em Cristo. Saúdem os que pertencem à casa de Aristóbulo.
+45016011	Saúdem Herodião, meu parente. Saúdem os da casa de Narciso, que estão no Senhor.
+45016012	Saúdem Trifena e Trifosa, mulheres que trabalham arduamente no Senhor. Saúdem a amada Pérside, outra que trabalhou arduamente no Senhor.
+45016013	Saúdem Rufo, eleito no Senhor, e sua mãe, que tem sido mãe também para mim.
+45016014	Saúdem Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que estão com eles.
+45016015	Saúdem Filólogo, Júlia, Nereu e sua irmã, e também Olimpas e todos os santos que estão com eles.
+45016016	Saúdem uns aos outros com beijo santo. Todas as igrejas de Cristo enviam saudações.
+46002010	mas Deus o revelou a nós por meio do Espírito. O Espírito sonda todas as coisas, até mesmo as coisas mais profundas de Deus.
+46015033	Não se deixem enganar: “As más companhias corrompem os bons costumes”.
+46015034	Como justos, recuperem o bom senso e parem de pecar; pois alguns há que não têm conhecimento de Deus; digo isso para vergonha de vocês.
+46015056	O aguilhão da morte é o pecado, e a força do pecado é a Lei.
+46015057	Mas graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo.
+47006017	Portanto, “saiam do meio deles e separem-se”, diz o Senhor. “Não toquem em coisas impuras, e eu os receberei”
+47006018	e “serei o seu Pai, e vocês serão meus filhos e minhas filhas”, diz o Senhor todo-poderoso.
+47009010	Aquele que supre a semente ao que semeia e o pão ao que come também lhes suprirá e multiplicará a semente e fará crescer os frutos da sua justiça.
+47009011	Vocês serão enriquecidos de todas as formas, para que possam ser generosos em qualquer ocasião e, por nosso intermédio, a sua generosidade resulte em ação de graças a Deus.
+49004009	(Que significa “ele subiu”, senão que também havia descido às profundezas da terra?
+49004010	Aquele que desceu é o mesmo que subiu acima de todos os céus, a fim de encher todas as coisas.)
+49004011	E ele designou alguns para apóstolos, outros para profetas, outros para evangelistas, e outros para pastores e mestres,
+49004012	com o fim de preparar os santos para a obra do ministério, para que o corpo de Cristo seja edificado,
+49004013	até que todos alcancemos a unidade da fé e do conhecimento do Filho de Deus, e cheguemos à maturidade, atingindo a medida da plenitude de Cristo.
+58001006	E ainda, quando Deus introduz o Primogênito no mundo, diz: “Todos os anjos de Deus o adorem”.
+58001007	Quanto aos anjos, ele diz: “Ele faz dos seus anjos ventos, e dos seus servos, clarões reluzentes”.
+58001008	Mas a respeito do Filho, diz: “O teu trono, ó Deus, subsiste para todo o sempre; cetro de equidade é o cetro do teu Reino.
+58001010	E também diz: “No princípio, Senhor, firmaste os fundamentos da terra, e os céus são obras das tuas mãos.
+58001013	A qual dos anjos Deus alguma vez disse: “Senta-te à minha direita, até que eu faça dos teus inimigos um estrado para os teus pés”?
+58001014	Os anjos não são, todos eles, espíritos ministradores enviados para servir aqueles que hão de herdar a salvação?
+58002008	tudo sujeitaste debaixo dos seus pés”. Ao lhe sujeitar todas as coisas, nada deixou que não lhe estivesse sujeito. Agora, porém, ainda não vemos que todas as coisas lhe estejam sujeitas.
+58002009	Vemos, todavia, aquele que por um pouco foi feito menor do que os anjos, Jesus, coroado de honra e de glória por ter sofrido a morte, para que, pela graça de Deus, em favor de todos, experimentasse a morte.
+58002013	E também: “Nele porei a minha confiança”. Novamente ele diz: “Aqui estou eu com os filhos que Deus me deu”.
+58004003	Pois nós, os que cremos, é que entramos naquele descanso, conforme Deus disse: “Assim jurei na minha ira: Jamais entrarão no meu descanso”; embora as suas obras estivessem concluídas desde a criação do mundo.
+58004004	Pois em certo lugar ele falou sobre o sétimo dia, nestas palavras: “No sétimo dia Deus descansou de toda obra que realizara”.
+58004005	E de novo, na passagem citada há pouco, diz: “Jamais entrarão no meu descanso”.
+58004008	Porque, se Josué lhes tivesse dado descanso, Deus não teria falado posteriormente a respeito de outro dia.
+58004009	Assim, ainda resta um descanso sabático para o povo de Deus;
+58004010	pois todo aquele que entra no descanso de Deus também descansa das suas obras, como Deus descansou das suas.
+58004011	Portanto, esforcemo-nos por entrar nesse descanso, para que ninguém venha a cair, seguindo aquele exemplo de desobediência.
+58005006	E diz noutro lugar: “Tu és sacerdote para sempre, segundo a ordem de Melquisedeque”.
+58007022	Jesus tornou-se, por isso mesmo, a garantia de uma aliança superior.
+58010008	Primeiro ele disse: “Sacrifícios, ofertas, holocaustos e ofertas pelo pecado não quiseste nem deles te agradaste” (os quais eram feitos conforme a Lei).
+58010009	Então acrescentou: “Aqui estou; vim para fazer a tua vontade”. Ele cancela o primeiro para estabelecer o segundo.
+58010010	Pelo cumprimento dessa vontade fomos santificados, por meio do sacrifício do corpo de Jesus Cristo, oferecido uma vez por todas.
+58010017	e acrescenta: “Dos seus pecados e iniquidades não me lembrarei mais”.
+58010039	Nós, porém, não somos dos que retrocedem e são destruídos, mas dos que creem e são salvos.
+58013006	Podemos, pois, dizer com confiança: “O Senhor é o meu ajudador, não temerei. O que me podem fazer os homens?”
+60002007	Portanto, para vocês, os que creem, esta pedra é preciosa; mas, para os que não creem, “a pedra que os construtores rejeitaram tornou-se a pedra angular”
+60002008	e “pedra de tropeço e rocha que faz cair”. Os que não creem tropeçam, porque desobedecem à mensagem; para o que também foram destinados.
+60002023	Quando insultado, não revidava; quando sofria, não fazia ameaças, mas entregava-se àquele que julga com justiça.
+60002024	Ele mesmo levou em seu corpo os nossos pecados sobre o madeiro, a fim de que morrêssemos para os pecados e vivêssemos para a justiça; por suas feridas vocês foram curados.
+60002025	Pois vocês eram como ovelhas desgarradas, mas agora se converteram ao Pastor e Bispo de suas almas.
+60005006	Portanto, humilhem-se debaixo da poderosa mão de Deus, para que ele os exalte no tempo devido.
+60005007	Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês.
+66004009	Toda vez que os seres viventes dão glória, honra e graças àquele que está assentado no trono e que vive para todo o sempre,
+66004010	os vinte e quatro anciãos se prostram diante daquele que está assentado no trono e adoram aquele que vive para todo o sempre. Eles lançam as suas coroas diante do trono e dizem:
+66005014	Os quatro seres viventes disseram: “Amém”, e os anciãos prostraram-se e o adoraram.
+66007005	Da tribo de Judá foram selados doze mil; da tribo de Rúben, doze mil; da tribo de Gade, doze mil;
+66007006	da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil;
+66007007	da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil;
+66007008	da tribo de Zebulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil.
+66007011	Todos os anjos estavam em pé ao redor do trono, dos anciãos e dos quatro seres viventes. Eles se prostraram com o rosto em terra diante do trono e adoraram a Deus,
+66007012	dizendo: “Amém! Louvor e glória, sabedoria, ação de graças, honra, poder e força sejam ao nosso Deus para todo o sempre. Amém!”
+66011016	Os vinte e quatro anciãos que estavam assentados em seus tronos diante de Deus prostraram-se sobre seus rostos e adoraram a Deus,
+66011017	dizendo: “Graças te damos, Senhor Deus todo-poderoso, que és e que eras, porque assumiste o teu grande poder e começaste a reinar.
+66016007	E ouvi o altar responder: “Sim, Senhor Deus todo-poderoso, verdadeiros e justos são os teus juízos”.
+66017005	Em sua testa havia esta inscrição: MISTÉRIO: BABILÔNIA, A GRANDE; A MÃE DAS PROSTITUTAS E DAS PRÁTICAS REPUGNANTES DA TERRA.
+66017006	Vi que a mulher estava embriagada com o sangue dos santos, o sangue das testemunhas de Jesus. Quando a vi, fiquei muito admirado.
