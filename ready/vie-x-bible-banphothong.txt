@@ -1,0 +1,94 @@
+40001002	Áp-ra-ham sinh Y-sác. Y-sác sinh Gia-cốp. Gia-cốp sinh Giu-đa và các anh em.
+40001003	Giu-đa sinh Phê-rê và Xê-ra. (Mẹ của hai người nầy là Ta-ma.) Phê-rê sinh Hết-rôn. Hết-rôn sinh Ram.
+40001004	Ram sinh A-bi-na-đáp. A-bi-na-đáp sinh Nát-son. Nát-son sinh Xanh-môn.
+40001005	Xanh-môn sinh Bô-ô. (Mẹ của Bô-ô là Ra-háp.) Bô-ô sinh Ô-bết. (Mẹ của Ô-bết là Ru-tơ.) Ô-bết sinh Gie-xê.
+40001006	Gie-xê sinh vua Đa-vít. Đa-vít sinh Sô-lô-môn. (Mẹ Sô-lô-môn trước kia là vợ của U-ri.)
+40001007	Sô-lô-môn sinh Rô-bô-am. Rô-bô-am sinh A-bi-gia. A-bi-gia sinh A-xa.
+40001008	A-xa sinh Giê-hô-sa-phát. Giê-hô-sa-phát sinh Giê-hô-ram. Giê-hô-ram là ông tổ của U-xia.
+40001009	U-xia sinh Giô-tham. Giô-tham sinh A-háp. A-háp sinh Ê-xê-chia.
+40001010	Ê-xê-chia sinh Ma-na-xe. Ma-na-xe sinh Am-môn. A-môn sinh Giô-xia.
+40001011	Giô-xia sinh Giê-cô-nia và các anh em ông. (Đây là nói về thời kỳ trước khi bị đày qua Ba-by-lôn.)
+40001012	Sau khi bị đày qua Ba-by-lôn: Giê-hô-gia-kim sinh Sát-tiên. Sát-tiên là ông nội của Xê-ru-ba-bên.
+40001013	Xê-ru-ba-bên sinh A-bi-út. A-bi-út sinh Ê-li-a-kim. Ê-li-a-kim sinh A-xo.
+40001014	A-xo sinh Xa-đốc. Xa-đốc sinh A-kim. A-kim sinh Ê-li-út.
+40001015	Ê-li-út sinh Ê-li-a-xa. Ê-li-a-xa sinh Ma-than. Ma-than sinh Gia-cốp.
+40001016	Gia-cốp sinh Giô-xép. Giô-xép là chồng Ma-ri, còn Ma-ri là mẹ Chúa Giê-xu. Chúa Giê-xu được gọi là Đấng Cứu Thế.
+42003023	Khi Chúa Giê-xu bắt đầu thi hành chức vụ thì Ngài độ ba mươi tuổi. Người ta tin rằng Ngài là con Giô-xép. Giô-xép con Hê-li.
+42003024	Hê-li con Ma-thát. Ma-thát con Lê-vi. Lê-vi con Mên-ki. Mên-ki con Gian-nai. Gian-nai con Giô-xép.
+42003025	Giô-xép con Ma-ta-thia. Ma-ta-thia con A-mốt. A-mốt con Na-hâm. Na-hâm con Ét-li. Ét-li con Na-gai.
+42003026	Na-gai con Ma-át. Ma-át con Ma-ta-thia. Ma-ta-thia con Xê-mên. Xê-mên con Giô-xét. Giô-xét con Giô-đa.
+42003027	Giô-đa con Giô-a-nan. Giô-a-nan con Rê-xa. Rê-xa con Xê-ru-ba-bên. Xê-ru-ba-bên con Sê-a-tiên. Sê-a-tiên con Nê-ri.
+42003028	Nê-ri con Mên-chi. Mên-chi con Át-đi. Át-đi con Cô-sam. Cô-sam con Ên-ma-đam. Ên-ma-đam con Ê-rơ.
+42003029	Ê-rơ con Giô-suê. Giô-suê con Ê-li-ê-xe. Ê-li-ê-xe con Giô-rim. Giô-rim con Ma-thát. Ma-thát con Lê-vi.
+42003030	Lê-vi con Xi-mê-ôn. Xi-mê-ôn con Giu-đa. Giu-đa con Giô-xép. Giô-xép con Giô-nam. Giô-nam con Ê-li-a-kim.
+42003031	Ê-li-a-kim con Mê-lia. Mê-lia con Mê-na. Mê-na con Ma-ta-tha. Ma-ta-tha con Na-than. Na-than con Đa-vít.
+42003032	Đa-vít con Gie-xê. Gie-xê con Ô-bết. Ô-bết con Bô-ô. Bô-ô con Sanh-môn. Sanh-môn con Na-ách-son.
+42003033	Na-ách-son con A-mi-na-đáp. A-mi-na-đáp con Át-min. Át-min con A-mi. A-mi con Hết-rôn. Hết-rôn con Phê-rê. Phê-rê con Giu-đa.
+42003034	Giu-đa con Gia-cốp. Gia-cốp con Y-sác. Y-sác con Áp-ra-ham. Áp-ra-ham con Thê-ra. Thê-ra con Na-ho.
+42003035	Na-ho con Xê-rúc. Xê-rúc con Rêu. Rêu con Phê-léc. Phê-léc con Ê-be. Ê-be con Sê-la.
+42003036	Sê-la con Cai-nan. Cai-nan con A-phác-xác. A-phác-xác con Sem. Sem con Nô-ê. Nô-ê con La-méc.
+42003037	La-méc con Mê-tu-sê-la. Mê-tu-sê-la con Ê-nóc. Ê-nóc con Gia-rết. Gia-rết con Ma-ha-la-lên. Ma-ha-la-lên con Kê-nan.
+42003038	Kê-nan con Ê-nóc. Ê-nóc con Sết. Sết con A-đam. A-đam con Thượng Đế.
+43010014	Ta là người chăn tận tụy. Ta biết chiên ta như Cha biết ta. Chiên ta biết ta như ta biết Cha ta. Ta bằng lòng hi sinh mạng sống vì chiên ta.
+43010015	
+44001016	“Thưa anh chị em, trong Thánh Kinh, Đa-vít khi cảm nhận Thánh Linh có nói về việc Giu-đa. Hắn là một người trong chúng ta, cùng hầu việc chung với chúng ta nhưng hắn đã hướng dẫn người bắt Chúa Giê-xu.
+44001017	
+44001021	Cho nên chúng ta phải chọn một người làm chứng cùng với chúng ta về việc Chúa Giê-xu sống lại từ kẻ chết. Người ấy phải thuộc nhóm của chúng ta trong thời gian Chúa Giê-xu ở với chúng ta—từ lúc Giăng làm lễ báp-têm cho dân chúng cho đến lúc Ngài được tiếp về thiên đàng.”
+44001022	
+44001024	Các sứ đồ cầu nguyện, “Lạy Chúa, Ngài biết tư tưởng của mọi người. Xin cho chúng con biết người nào được Ngài chọn để lo công việc Ngài. Xin cho chúng con biết ai sẽ làm sứ đồ thế Giu-đa, là người đã quay trở về nơi ở của nó.”
+44001025	
+44003009	Mọi người nhận ra anh là người què vẫn hay xin tiền nơi Cổng Đẹp. Bây giờ họ thấy anh vừa đi vừa ca ngợi Thượng Đế thì vô cùng sửng sốt.
+44003010	
+44005005	A-na-nia vừa nghe như thế liền té xuống tắt thở. Có mấy thanh niên vào, liệm xác ông, mang đi chôn. Ai nghe chuyện cũng kinh sợ.
+44005006	
+44011023	Ba-na-ba là người đạo đức, đầy dẫy Thánh Linh và đức tin. Lúc đến An-ti-ốt ông vui mừng vì thấy Thượng Đế đã ban phúc lành cho nhiều người. Ông khuyên các tín hữu ở An-ti-ốt luôn luôn hết lòng vâng phục Chúa. Nhiều người tiếp nhận Ngài.
+44011024	
+44013038	Thưa anh chị em, anh chị em phải hiểu điều chúng tôi nói: Anh chị em có thể được tha tội qua Chúa Giê-xu. Luật pháp Mô-se không thể giải thoát anh chị em khỏi tội. Nhưng hễ ai tin thì đều được giải thoát khỏi tội lỗi qua Chúa Giê-xu.
+44013039	
+44015024	Chúng tôi nghe có một số người trong chúng tôi đến dạy một vài điều khiến anh chị em hoang mang. Chúng tôi không hề bảo họ làm như thế bao giờ.
+44015025	Chúng tôi đồng ý chọn và gởi một số đại diện đến thăm anh chị em cùng với các anh Phao-lô và Ba-na-ba —
+44015026	là hai đồng nghiệp đã liều mình hầu việc Chúa Cứu Thế Giê-xu.
+44015027	Chúng tôi phái Giu-đa và Xi-la, hai người nầy cũng sẽ nói chuyện với anh chị em về những việc ấy.
+44015028	Thánh Linh muốn rằng anh chị em không nên mang một gánh quá nặng, và chúng tôi cũng đồng ý. Nhưng anh chị em nên làm những điều sau đây:
+44015029	Đừng dùng những thức ăn đã cúng cho thần tượng. Đừng ăn các thú vật chết ngột, đừng ăn huyết. Tránh mọi hình thức dâm dục. Nếu anh chị em tránh được những điều ấy thì anh chị em làm đúng.
+44020037	Mọi người đều khóc nhất là vì Phao-lô bảo rằng họ sẽ không gặp lại ông nữa. Họ ôm hôn ông rồi tiễn ông xuống thuyền.
+44020038	
+44023027	Người Do-thái bắt tên nầy định giết hắn. Nhưng tôi nghe rằng hắn là công dân La-mã nên tôi và binh-sĩ của tôi vội đến giải cứu hắn.
+44023028	Tôi muốn biết tại sao họ tố cáo hắn, cho nên tôi đưa hắn ra trước phiên họp của hội đồng,
+44023029	thì thấy người Do-thái cáo rằng hắn phạm mấy điều trong luật của họ nhưng chẳng có cáo trạng nào đáng tù hay đáng chết cả.
+44023030	Có người cho tôi hay rằng vài người Do-thái định giết hắn, nên tôi cho giải hắn ngay xuống ngài. Tôi cũng bảo người Do-thái là nếu muốn kiện cáo hắn điều gì thì đến gặp ngài mà trình bày.”
+44028010	Dân chúng tiếp chúng tôi rất niềm nở. Ba tháng sau, khi chúng tôi sắp rời đảo thì họ cung cấp đủ mọi thứ cần dùng cho chúng tôi. Chúng tôi lên một chiếc tàu khởi hành từ A-lịch-sơn nhưng trú trên đảo suốt mùa đông. Trước mũi tàu có vẽ hình thần sinh đôi.
+44028011	
+45001003	Tin Mừng về Con Thượng Đế: Đấng Cứu Thế Giê-xu, Chúa chúng ta. Về bản chất loài người, Ngài được sinh trong dòng họ vua Đa-vít nhưng qua Thánh Linh, Ngài được chỉ định làm Con Thượng Đế, với quyền năng cao cả, chứng tỏ bằng việc Ngài sống lại từ kẻ chết.
+45001004	
+45009011	Trước khi hai đứa trẻ ra đời, Thượng Đế nói với Rê-be-ca rằng, “Đứa anh sẽ làm tôi cho đứa em.” Lời ấy được thông báo trước khi hai đứa trẻ biết làm điều phải hay quấy. Thượng Đế nói như thế để cho thấy rằng người được chọn là do dự định riêng của Ngài. Đứa trẻ được chọn là vì Thượng Đế tự ý chọn, chứ không phải vì điều gì nó làm.
+45009012	
+46005012	Tôi không có nhiệm vụ phân xử những người ngoài hội thánh. Thượng Đế sẽ xét xử họ. Nhưng anh chị em phải phân xử những người bên trong hội thánh. Thánh Kinh viết, “Hãy khai trừ kẻ gian ác khỏi các ngươi.”
+46005013	
+46006009	Anh chị em biết rằng những kẻ bất chính không thể nào hưởng được Nước Trời. Đừng bị lừa. Những kẻ dâm dục, thờ thần tượng, ngoại tình, trụy lạc, đồng tính ái, trộm cắp, tham lam, say sưa, lường gạt, bêu xấu người khác, cướp bóc—đều không thể nào vào Nước Trời được.
+46006010	
+46012018	Còn nếu toàn thân chỉ có một bộ phận thì làm thế nào gọi là thân được? Nhưng chúng ta thấy Thượng Đế đã đặt mỗi bộ phận theo vai trò của nó trong thân thể như ý Ngài muốn.
+46012019	
+47001013	Chúng tôi chỉ viết những gì mà anh chị em có thể đọc và hiểu. Hi vọng rằng nếu anh chị em hiểu một ít về chúng tôi, anh chị em sẽ có thể hiểu tất cả. Lúc ấy anh chị em sẽ hãnh diện về chúng tôi cũng như chúng tôi sẽ hãnh diện về anh chị em vào ngày Chúa Giê-xu chúng ta trở lại.
+47001014	
+47012003	Tôi biết người ấy được đưa lên thiên đàng. Tôi cũng không rõ việc ấy xảy ra trong thân thể hay ngoài thân thể người đó, nhưng Thượng Đế biết. Người ấy nghe những việc không thể mô tả được mà cũng không cho phép ai nói ra.
+47012004	
+48003027	Trong Chúa Cứu Thế không còn phân biệt người Do-thái, Hi-lạp, tôi mọi, tự do, đàn ông hay đàn bà gì cả. Tất cả chúng ta đều là một trong Ngài.
+48003028	
+53002016	Nguyền xin chính Chúa Giê-xu Cứu Thế và Thượng Đế Cha chúng ta thúc giục và thêm sức cho anh chị em trong mọi điều tốt lành về hành động lẫn lời nói. Thượng Đế đã yêu chúng ta, nên qua ân phúc Ngài đã ban cho chúng ta hi vọng tốt đẹp và sự thúc giục sẽ còn mãi mãi.
+53002017	
+58006004	Có vài người mà chúng ta không thể làm cho họ ăn năn được. Trước kia họ đã ở trong ánh sáng của Thượng Đế, vui hưởng ân phúc thiên đàng và nhận lãnh Thánh Linh. Họ đã nếm lời Thượng Đế ngọt ngào biết bao nhiêu và cũng đã biết quyền phép của cuộc đời tương lai trong Ngài. Nhưng họ quay lưng khỏi Chúa Cứu Thế cho nên không thể nào khiến họ ăn năn hối hận vì họ đã đóng đinh Con Thượng Đế một lần nữa và làm nhục Ngài trước mặt kẻ khác.
+58006005	
+58006006	
+58013020	Tôi cầu Thượng Đế hòa bình ban cho anh chị em đủ mọi điều tốt lành để làm theo ý Ngài. Thượng Đế đã khiến Chúa Giê-xu chúng ta sống lại từ trong kẻ chết, Ngài là Đấng Chăn Chiên Cao Cả do huyết Ngài đã đổ ra. Huyết Ngài khởi đầu giao ước muôn đời mà Thượng Đế đã lập với dân Ngài. Tôi cầu xin Thượng Đế thực hiện trong chúng ta điều đẹp lòng Ngài, qua Chúa Cứu Thế Giê-xu. Nguyền vinh hiển thuộc về Ngài đời đời. A-men.
+58013021	
+59001007	Những người hoài nghi như thế hay phân vân giữa hai việc, lòng không ổn định. Người như vậy đừng mong nhận được gì từ nơi Chúa.
+59001008	
+62003019	Chúng ta biết mình thuộc về sự thật là như sau: Dù khi lòng mình cắn rứt nhưng chúng ta vẫn được an tịnh trước mặt Thượng Đế. Ngài lớn hơn lòng chúng ta và biết hết mọi điều.
+62003020	
+66001003	Phúc cho ai đọc thông điệp của Thượng Đế; phúc cho người nào nghe thông điệp nầy và làm theo những lời đã được ghi chép vì những việc ấy sắp xảy đến.
+66001004	Nguyền xin ân phúc và bình an ở cùng anh em. Bình an và ân phúc do Đấng đã đến, đang đến và sắp đến cùng do bảy thần linh trước ngôi Ngài,
+66007005	chi tộc Giu-đa mười hai ngàn người được đánh dấu, chi tộc Ru-bên mười hai ngàn, chi tộc Gát mười hai ngàn,
+66007006	chi tộc A-se mười hai ngàn, chi tộc Náp-ta-li mười hai ngàn, chi tộc Ma-na-xe mười hai ngàn,
+66007007	chi tộc Xi-mê-ôn mười hai ngàn, chi tộc Lê-vi mười hai ngàn, chi tộc Y-xa-ca mười hai ngàn,
+66007008	chi tộc Xê-bu-lôn mười hai ngàn, chi tộc Giô-xép mười hai ngàn, và chi tộc Bên-gia-min mười hai ngàn người được đánh dấu.
