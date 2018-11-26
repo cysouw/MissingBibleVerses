@@ -1,54 +1,59 @@
-40001023
-40002006
-40002018
-40004015
-40004016
-40006010
-40006011
-40006012
-40006013
-40011011
-40012018
-40012019
-40012020
-40012021
-40013015
-40015008
-40015009
-40021005
-40021043
-40022044
-40022045
-41001003
-41001004
-41001005
-41007007
-41007008
-41012011
-41012037
-42001047
-42001048
-42001049
-42001050
-42001051
-42001052
-42001053
-42001054
-42001055
-42001068
-42001069
-42001070
-42001071
-42001072
-42001073
-42001074
-42001075
-42001076
-42001077
-42001078
-42001079
-42002014
-42002029
+40001023	Jaga' ỹauo maliaxa sa huó'on, qaláxasa qo'uaxai qomle, qana'chi 'uo ga' lec'óxot. Jega'me lenaxat qomle da' Emanuel. Dójo' nenaxat 'eet'oi: Ñi' Dios qo'mi huetaavlo.
+40002006	'Am noic Belén 'me 'ouétaaue jen' n'aléua na' lec'óqo'tepi so' Judá, ỹátaqta sa lec'óxotolec da' 'ad'amaqchic, sa 'auená'am jen'me net'alpi jénjo' 'aléua; qá'a 'am chiỹaqaỹi qomle ga' nasoxola', 'me ỹilo'ogue qomle na' Israel lec'oqtepi 'me ỹalémaxasetpi.
+40002018	Qodemachítapega da' naviliỹáxac huá'ña di' Ramá, noinaxac qataxa n'alaxac. Raquel jañi' noỹíitac ỹasouaxat di' lec'óqo'tepi, qaláxasa sa nasen da' qoỹicochaq, qá'a ma'le ỹileu jidi'me lec'óqo'tepi.
+40004015	'Am 'aléua 'me 'am lalémaxaset na' lec'oqtepi so' Zabulón qataxa so' Neftalí, qataxa 'am naq'aic 'me 'anolquetelégue jaso' peróna 'me 'ap'aiỹi da' c'atena liiséguem di' ñáchi Jordán. 'Am Galilea 'me 'am netalégue jen'me sa judío lé'ec.
+40004016	Jen'me siỹaxadipi 'me huétaaue jen' n'álaxa, qaláxasa jen'me ỹilá'a jaso' sega'me coỹadáxanaqte lat'édai. Jen'me huétaaue na' ỹátaqta sa lec'óxotolec lepaqal da' neleuaxa, qaláxasa jen'me ỹicoỹadelégue jaso' sega'me coỹadáxanaqte.
+40006009	Chan'eesa da' 'antamiñii, qaa'le 'oñiit'oi: 'Am qadet'a qan'étoqo't 'me 'onet'ague di' piỹem, ỹima da' qoỹi'ỹoxoden da' 'adenaxat.
+40006010	Ỹa 'anamaxaño' qomle da' 'ad'onataxanaxac, tetoqo' ỹí'et ga' 'onétapeec ỹima jen'me huetalquéna, 'ená'am jena'me huet'ot na' piỹem.
+40006011	Ỹa qo'mi 'auanema jénjo' nolo' ga' qonoq 'me seuénaqtaaque.
+40006012	'Auapalaxa't qomle naua' qadoico, 'ená'am qo'mi da' sóxote sapalaxataq ga' qo'mi qoỹ'eteque 'me sa nó'in.
+40006013	Sa 'te qomle da' qo'mi 'auasengueta ga' qan'iinaguec, na'chidáta da' qo'mi 'antelaqtena'agueta ga' sa nó'in. Qá'a da' 'ad'onataxanaxac, qataxa da' 'ad'añaxac, qataxa da' 'adi'ỹoxodic na'chi 'eeta't qaỹa 'te loiquiaqa'. Já'a, na'chi 'éeta dójo'.
+40011011	Ỹátaqta 'eesa dójo' 'ami senapegalo da' ỹima na' siỹaxadipi joca'lio' da' chiỹoqot'egue, cha ỹivíde'ta naỹi, da' qaỹa ga' ỹañoxot da' napacalégue da' l'amaqchic so' Juan 'me chiláxanataxanaxaic. Qaláxasa jen'me ỹágueegue da' qaỹa ga' l'amaqchic da' huétaaue jeda'me l'onataxanaxac ñi' Dios 'me net'ague da' piỹem, jen'me napacalégue jeso'me Juan.
+40012018	Jega'me na'chiga ga' mai'chi ỹamaxasec, jega'me mai'chi ỹiquiỹac, qataxa ỹátaqta ỹauotaxat jega'me, ỹátaqta ñitóotapeec. Jega'me d'onataxanóoue qasen ñi' ỹipaqal, da' qaidi ỹ'axátem jen'me ỹodapecachi siỹaxadipi jeda'me séetapeec da' ỹí'et.
+40012019	Jega'me sa 'te da' c'onaxanaxaic, qataxa sa 'te da' ỹ'alqata't, qataxa sa 'te da' qodemachítapega ga' l'aqtac da' huéta'nỹi ga' naq'aic.
+40012020	Qataxa sa 'te da' 'chi ỹinoxonỹi jaga' coqta 'me namaq, qataxa sa 'te da' ỹalamat jega'me necoỹadáxanaxat 'me 'chi dechitapeelégue, cha ỹivíd'a da' ỹim da' lapaxañi ga' l'onataxanaxac 'me ỹátaqta ỹiỹamqáchiiñi.
+40012021	Qana'chi ỹima jen'me ỹodapecachi siỹaxadipi ỹátaqta 'uo da' lepé'e jeso'me.
+40013014	Dójo' 'éeta jen'me siỹaxadipi, jeda'me ỹátaqta ỹipaquíchiỹi jocalia'cho' da' ỹ'axat jeso'me l'aqtáxanaxanec ñi' Dios, lenaxat Isaías, joca'li 'enaaco': 'Ami ỹátaqta 'amachíitac, qaláxasa sa 'auaỹáchiñii qoỹ'axat; 'ami 'anlóitaiỹi, qaláxasa qaỹa ga' 'aulói'ỹa.
+40013015	Qá'a jañi' liquidiaqte jénjo' siỹaxadipi v'iỹílaqtalégue da' ỹátaqta sa nedámchiỹi, qataxa sa 'te da' ỹátaqta demachi, qataxa naua' l'ai'te d'ochita'salo; da' qaidi qaỹa ga' ỹilá'a, qataxa qaỹa ga' demachíỹa, qataxa qaỹa ga' ỹaỹáten jan' liquidiaqte, qataxa sa jaỹim v'iỹílaxa da' qaidi ñataden.
+40015008	Jénjo' siỹaxadipi 'éetapega jaỹim ỹi'ỹoxodéetac, qaláxasa jañi' liquidiaqte ỹátaqta soqoỹoqót'a qa'en jaỹim.
+40015009	Ỹisamaxasáỹi da' jaỹim ỹ'étec da' li'ỹoxodénataxanaxac, qá'a naua' lapaxaguenataxanaxaco, jenaa'me mai'chi laqátaxaco na' 'chi siỹaxadipi.
+40021005	'Au'axátem qomle di' noic let'ádaic lenaxat Sión, 'auéetojo': “Ỹa 'aulo'oguet na' 'adet'a, jena'me 'am nec'áte'uo, jena'me ỹátaqta qaỹa ga' l'amaqchic, netalégue jana' 'ásena, qataxa jen' 'asenolec 'me lec'óxot jana' 'ásena 'me nachóxonaxalate.”
+40021043	Chan'eesa 'ami senapegalo, dójo' l'onataxanaxac ñi' Dios da' ỹimata'a'téna, jeda'me 'ami qochiỹoxotaavlo qomle. Qana'chi jeda'me qoỹanem ga' siỹaxadipi 'me ỹátaqta ỹipagaqchíichiỹi jega'me jaláỹaxac 'me taiỹet dójo' l'onataxanaxac.
+40022044	Ñi'me qadesaliaxanec Dios 'enapéga jiñi'me ỹisaliaxanec, 'eet'oi: 'Onet'ague qomle jen' ỹoic, tetoqo' ma'le sacho'to naua' 'adapia'te jen'me 'anp'aguénoqo'tpi.
+40022045	¿Hua'ago' jogamaxa 'éeta jega'me net'a 'me nec'alaxaqui da' lec'óxot so' David, qá'a jeso'me 'enapéga lesaliaxanec?
+41001002	So' l'aqtáxanaxanec ñi' Dios, lenaxat Isaías, ỹidíñi joca'li da'me 'enaac: Jaỹim Dios samaq ga' ỹ'aqtáxanaxanec qomle da' se'uáuaxangue da' 'at'ague, qaidi ỹaqátaxata't ga' 'adadic.
+41001003	Qaa'le 'uo so' siỹaxaua chimaqtapeelégue so' totelégue 'aléua, da'me liỹáxanaxac 'enaac: 'Auqátaxañiita't ga' ladic qomle ñi' qadesaliaxanec, ỹátaqta 'an'ónaxachiit'egue.
+41001004	Qana'chi 'éeta so' Juan joca'li nachiláxatac so' siỹaxadipi, huét'a so' totelégue 'aléua. Qana'chi ỹ'axátem jeso'me da' ỹigue'm naua' loico, qana'chi qonachiláxan, qaidi qoỹapalaxa't naua' loico.
+41001005	Qaa'le janac da' qonaquiáxana so'me ỹima na' chiỹaqá'a di' 'aléua Judea qataxa di' noic t'ádaic Jerusalén. Qana'chi jen'me ỹ'axa't naua' loico, qana'chi so' Juan nachiláxanataxanỹi so' ñáchi Jordán.
+41007007	Ỹátaqta qaỹa 'te náaue da' jaỹim ỹi'ỹoxodéetac, qá'a na'me lapaxaguenataxanaxacpi mai'chi laqátaxac na' siỹaxadipi.
+41007008	Qá'a 'ami 'oquíi'ỹai jen' laqátaxacpi ñi' Dios, qana'chi 'oquiỹiilo naua' n'onataico na' siỹaxadipi: 'oquíitapegue' da' n'onataguec da' qoỹiỹo jan' náco'na qataxa jan' ỹómaxaqui, qataxa jalcote jen' laỹi 'me 'av'íchii.
+41012010	¿Qo'li sa 'autaxaỹaxañiỹa'pe naa'me nedétrañi l'aqtaqa ñi' Dios? 'Me 'enapega't: So'me qa' 'me l'otánec na' 'emeelo'opi, naqaiso naỹi so' d'añiỹapeeguet qa'en na' 'emec.
+41012011	Da'me chiỹoqot'ot da' ỹí'et ñi' qadasoxola' Dios. Qataxa ỹátaqta qaỹa 'te 'ená'am qasenaq da' li'ỹoxodic.
+41012037	Qaláxasa ¿'te hua'ague ga' 'éeta da' ga' net'a 'me nec'alaxaqui da' lec'óxot so' David, qá'a so' David ỹátaqta 'enapéga da' lasoxola'? Qana'chi so'me siỹaxadipi ỹátaqta 'uo da' lamanaxanaxa da' naquiáxatapega so' Jesús.
+42001046	Qana'chi jaso' María 'enaaco': Da' ỹiviliỹáxac ỹátaqta ỹi'ỹoxoden ñi' qadesaliaxanec,
+42001047	qataxa jañi' ỹiquidiaqte ỹátaqta mátac ỹasouaxat ñi' Dios 'me ỹic'alaxaqui.
+42001048	Qá'a ñi' Dios táchiỹi lauel jan'me qaỹa 'te ga' nesáaque lamaxase, qana'chi chiỹoqóchii'ña da' ỹima na' siỹaxadipi jaỹim ỹimataỹi da' ỹátaqta jaỹim mátac.
+42001049	Qá'a ñi' Dios 'me qaỹa ga' ỹaqalánaac ỹátaqta let'ádaic da' jaỹim ỹ'étec; da' lenaxat ñi'me ỹátaqta huosóta.
+42001050	Jiñi'me na'chi 'eeta't da' 'uo da' lichoxodénataxanaxac jen'me ỹátaqta d'oỹa jiñi'me.
+42001051	Qataxa jiñi'me ỹátaqta qaỹa ga' 'ená'am da' lañoqtaxanaxac da' ỹí'et, qalaxaso'chi loxonec ỹima na' ỹ'oxodénaxaicpi.
+42001052	Qataxa jen'me 'uañaxaicpi ca'ai qa'e'n naua' l'onataxanaxaco, qaláxasa jen'me choxodaqpi na'chidáta da' neuaaỹaxaséguem.
+42001053	Nataq'en jen'me deuénaxaatac, qaa'le ỹanem da' qaỹa ga' ỹiuénaaque, qana'chi jen'me saliaxanqapi, qaa'le ỹátaqta c'ochichiilo qa'e'n naua' loua' da' ỹamaxáiỹi.
+42001054	Qataxa lecochiỹa na' lec'oqtepi so' Israel 'me lamaxasec, qaláxasa sa 'te da' petelaxaguet da' lichoxodénataxanaxac jeso'me.
+42001055	Qá'a da'me dójo' na'chi 'eeta't da' ỹaloxónapega josii'chi jeso' huá'au qadet'alpi, jeso'me Abraham qataxa so' lec'óqo'tepi.
+42001068	Ỹátaqta qoỹi'ỹoxoden qomle ñi' qadesaliaxanec 'me netamnaxala' na' Israel lé'ecpi, qalaxaso'chi jiñi'me qo'mi nec'atalo da' qo'mi nec'alaxatréegue, qá'a mai'chi qo'mi lalémaxase'te.
+42001069	Jiñi'me qo'mi ỹanema ga' ỹátaqta 'uañaxaic nec'alaxaqui, chiỹoqótooue qa'en na' lec'óqo'tepi jeso'me lamaxasec David.
+42001070	Da'me chi'ena da' qo'mi ỹaloxóotapegalo joca'li ỹ'axátet'aguet qa'en ỹima so'me huesóta l'aqtáxanaxanecpi jesaa'me 'uáudeegue 'uóidi, 'eet'oi:
+42001071	da' sétaaque qo'mi nec'alaxatee'guesopa jen'me qo'mi ỹip'agueet'ape qataxa ỹima jen'me qo'mi niquiỹatapegalo,
+42001072	nataq'en da' ỹátaqta 'uo da' lichoxodénataxanaxac so'me huá'au qadet'alpi, qataxa da' sa petelaxaguet jeda'me niỹamaxataxac 'me ỹanem jeso'me siỹaxadipi.
+42001073	Naqaida da'me ỹaloxóotac ñi' Dios joca'li ỹanéegue so' l'aqtac da' ỹanem jeso' qadet'a Abraham:
+42001074	da' qo'mi nec'alaxatee'guesopa jen'me qo'mi ỹip'agueet'ape, tetoqo' qaỹa ga' qad'óitaaque da' si'ỹoxodénaqtac jiñi'me,
+42001075	nataq'en da' tetoqo' qo'mi ỹiỹamaxade'n da' ñañoqot jiñi'me da' qo'mi huesóte' ỹiméda naua' noloqo'te da' qanchaalataxac.
+42001076	'Am ỹalcolec, 'am qoỹanáỹi qomle da' 'am l'aqtáxanaxanec ñi'me Dios 'me let'ádaic, qá'a 'am qoỹ'áuaxat'ague qomle jen' ladic ga' qadesaliaxanec, tetoqo' 'auqátaxata't,
+42001077	tetoqo' 'au'aqtaxanem jen'me lalémaxasetpi qaidi qoỹapalaxa't naua' loico, qataxa tetoqo' ỹaconguet da' nec'alaxa.
+42001078	Qá'a na'chida da' mai'chi lesóxodic qataxa da'me liỹálaqtaxanaxac ñi' qan'étoqo't, da' 'uo da' chiỹoqot'ot qa'en na' piỹem da' qo'mi ỹanema jaga' sega' c'atena 'me ỹicoỹadelégue ga' dálaxaic nolo',
+42001079	tetoqo' ỹicoỹadelégue jen'me huétaaue na' n'álaxa qataxa da' lichic da' neleuaxa, qataxa tetoqo' qo'mi ỹaloxoot'eelo ga' nadic 'me n'emáxac.
+42002014	¡Ỹátaqta sa lec'óxotolec da' ni'ỹoxodénataguec ñi' Dios 'me net'ot di' piỹem, nataq'en jen' 'aléua 'uo da' l'emáxac na' siỹaxadipi 'me ỹiỹamaxadéetac jiñi'me!
+42002029	
 42002030
 42002031
 42002032
