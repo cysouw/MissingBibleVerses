@@ -1,0 +1,12 @@
+‚óã      0    804 False U+25cb WHITE CIRCLE
+„ÄÅ      4   7479 False U+3001 IDEOGRAPHIC COMMA
+Ì°É      0     53 False U+d843 Unknown codepoint
+Ì°Ñ      0      1 False U+d844 Unknown codepoint
+Ì≤ç      0      1 False U+dc8d Unknown codepoint
+Ì≥ù      0      1 False U+dcdd Unknown codepoint
+Ìµò      0     27 False U+dd58 Unknown codepoint
+ÌµΩ      0     23 False U+dd7d Unknown codepoint
+Ì∑â      0      1 False U+ddc9 Unknown codepoint
+Ìº∂      0      1 False U+df36 Unknown codepoint
+Ôºª      0      1 False U+ff3b FULLWIDTH LEFT SQUARE BRACKET
+Nothing to seperate

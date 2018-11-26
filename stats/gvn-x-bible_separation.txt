@@ -1,0 +1,8 @@
+,     88     13  True U+002c COMMA
+-      1      1  True U+002d HYPHEN-MINUS
+.     77      7  True U+002e FULL STOP
+?      2      0  True U+003f QUESTION MARK
+‘      1      0  True U+2018 LEFT SINGLE QUOTATION MARK
+’      1      0  True U+2019 RIGHT SINGLE QUOTATION MARK
+“      9      0  True U+201c LEFT DOUBLE QUOTATION MARK
+”      9      0  True U+201d RIGHT DOUBLE QUOTATION MARK

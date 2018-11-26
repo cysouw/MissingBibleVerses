@@ -1,0 +1,5 @@
+,     18      1  True U+002c COMMA
+.      5      2  True U+002e FULL STOP
+?      1      0  True U+003f QUESTION MARK
+“      3      0  True U+201c LEFT DOUBLE QUOTATION MARK
+”      2      1  True U+201d RIGHT DOUBLE QUOTATION MARK

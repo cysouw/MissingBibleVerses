@@ -1,0 +1,15 @@
+!     23      3  True U+0021 EXCLAMATION MARK
+"    406     86  True U+0022 QUOTATION MARK
+'     12      0  True U+0027 APOSTROPHE
+(     73      0  True U+0028 LEFT PARENTHESIS
+)     76    298 False U+0029 RIGHT PARENTHESIS
+*      1      0  True U+002a ASTERISK
+,    524     73  True U+002c COMMA
+.    243     37  True U+002e FULL STOP
+:    267     13  True U+003a COLON
+;     56     18  True U+003b SEMICOLON
+?     45      5  True U+003f QUESTION MARK
+`     37      0  True U+0060 GRAVE ACCENT
+«      7      2  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+´      2      0  True U+00b4 ACUTE ACCENT
+»      2      0  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK

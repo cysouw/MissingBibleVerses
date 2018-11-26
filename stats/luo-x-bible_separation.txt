@@ -1,0 +1,3 @@
+'      0      1 False U+0027 APOSTROPHE
+’     13   2859 False U+2019 RIGHT SINGLE QUOTATION MARK
+Nothing to seperate

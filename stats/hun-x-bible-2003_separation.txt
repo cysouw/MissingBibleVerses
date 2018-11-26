@@ -1,0 +1,7 @@
+,     15      1  True U+002c COMMA
+-      6      5  True U+002d HYPHEN-MINUS
+.      4      2  True U+002e FULL STOP
+:      1      0  True U+003a COLON
+;      1      0  True U+003b SEMICOLON
+“      1      0  True U+201c LEFT DOUBLE QUOTATION MARK
+„      1      0  True U+201e DOUBLE LOW-9 QUOTATION MARK

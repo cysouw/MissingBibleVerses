@@ -1,0 +1,5 @@
+"      4      0  True U+0022 QUOTATION MARK
+(      1      0  True U+0028 LEFT PARENTHESIS
+)      1      0  True U+0029 RIGHT PARENTHESIS
+,      1      0  True U+002c COMMA
+`     24      6  True U+0060 GRAVE ACCENT

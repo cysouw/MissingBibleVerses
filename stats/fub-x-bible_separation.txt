@@ -1,0 +1,7 @@
+"      1      0  True U+0022 QUOTATION MARK
+'      0     13 False U+0027 APOSTROPHE
+(      1      0  True U+0028 LEFT PARENTHESIS
+)      1      0  True U+0029 RIGHT PARENTHESIS
+,      8      0  True U+002c COMMA
+.      8      0  True U+002e FULL STOP
+?      2    425 False U+003f QUESTION MARK

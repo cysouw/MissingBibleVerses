@@ -1,0 +1,10 @@
+!      1      0  True U+0021 EXCLAMATION MARK
+-      1      0  True U+002d HYPHEN-MINUS
+.     54      2  True U+002e FULL STOP
+:      9      0  True U+003a COLON
+«     13      0  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+´      0      1 False U+00b4 ACUTE ACCENT
+»     10      2  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+،     54      5  True U+060c ARABIC COMMA
+؛      3      0  True U+061b ARABIC SEMICOLON
+؟      2      1  True U+061f ARABIC QUESTION MARK

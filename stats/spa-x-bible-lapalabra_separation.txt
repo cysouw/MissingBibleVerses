@@ -1,0 +1,4 @@
+*      1      0  True U+002a ASTERISK
+,      6      0  True U+002c COMMA
+.      5      1  True U+002e FULL STOP
+;      3      0  True U+003b SEMICOLON

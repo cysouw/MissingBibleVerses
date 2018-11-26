@@ -1,0 +1,3 @@
+,      3      0  True U+002c COMMA
+.     73      8  True U+002e FULL STOP
+:      7      0  True U+003a COLON

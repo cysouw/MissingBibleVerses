@@ -1,0 +1,4 @@
+"      1      0  True U+0022 QUOTATION MARK
+,     14      0  True U+002c COMMA
+.     30      5  True U+002e FULL STOP
+`     25      0  True U+0060 GRAVE ACCENT

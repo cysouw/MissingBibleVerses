@@ -1,0 +1,6 @@
+-     48     20  True U+002d HYPHEN-MINUS
+_      1      1  True U+005f LOW LINE
+`     18     43  True U+0060 GRAVE ACCENT
+      1      1  True U+0081 Unknown codepoint
+§      1      0  True U+00a7 SECTION SIGN
+­      4      1  True U+00ad SOFT HYPHEN

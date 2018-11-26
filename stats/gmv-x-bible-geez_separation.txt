@@ -1,0 +1,23 @@
+!     28      9  True U+0021 EXCLAMATION MARK
+?     22     12  True U+003f QUESTION MARK
+።    148     39  True U+1362 ETHIOPIC FULL STOP
+፤     57     22  True U+1364 ETHIOPIC SEMICOLON
+፥     31     14  True U+1365 ETHIOPIC COLON
+‘     32      0  True U+2018 LEFT SINGLE QUOTATION MARK
+’     19      8  True U+2019 RIGHT SINGLE QUOTATION MARK
+“     79      6  True U+201c LEFT DOUBLE QUOTATION MARK
+”     49     13  True U+201d RIGHT DOUBLE QUOTATION MARK
+ꬁ      0      3 False U+ab01 Unknown codepoint
+ꬂ     29    875 False U+ab02 Unknown codepoint
+ꬃ     68   1269 False U+ab03 Unknown codepoint
+ꬄ     38    154 False U+ab04 Unknown codepoint
+ꬅ     29    767 False U+ab05 Unknown codepoint
+ꬆ    179    168  True U+ab06 Unknown codepoint
+ꬉ     11    114 False U+ab09 Unknown codepoint
+ꬊ      0    148 False U+ab0a Unknown codepoint
+ꬋ     82    157  True U+ab0b Unknown codepoint
+ꬌ      5     22 False U+ab0c Unknown codepoint
+ꬎ      1    156 False U+ab0e Unknown codepoint
+ꬑ     80      0  True U+ab11 Unknown codepoint
+ꬓ      1      2  True U+ab13 Unknown codepoint
+ꬔ      0      1 False U+ab14 Unknown codepoint

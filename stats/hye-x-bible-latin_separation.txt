@@ -1,0 +1,8 @@
+(      1      0  True U+0028 LEFT PARENTHESIS
+)      1      0  True U+0029 RIGHT PARENTHESIS
+,     84     14  True U+002c COMMA
+.     29      7  True U+002e FULL STOP
+:      7      2  True U+003a COLON
+«      6      1  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+»      7      0  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+֊      1      0  True U+058a ARMENIAN HYPHEN

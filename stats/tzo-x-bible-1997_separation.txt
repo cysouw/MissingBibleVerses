@@ -1,0 +1,14 @@
+'   1445   9650 False U+0027 APOSTROPHE
+(      3      1  True U+0028 LEFT PARENTHESIS
+)      3      1  True U+0029 RIGHT PARENTHESIS
+,    153     13  True U+002c COMMA
+.    136      7  True U+002e FULL STOP
+:     29      1  True U+003a COLON
+;     22      1  True U+003b SEMICOLON
+?      8      2  True U+003f QUESTION MARK
+¿     10      0  True U+00bf INVERTED QUESTION MARK
+—   1120   1128  True U+2014 EM DASH
+‘      3      0  True U+2018 LEFT SINGLE QUOTATION MARK
+’      3      0  True U+2019 RIGHT SINGLE QUOTATION MARK
+“     26      2  True U+201c LEFT DOUBLE QUOTATION MARK
+”     26      0  True U+201d RIGHT DOUBLE QUOTATION MARK

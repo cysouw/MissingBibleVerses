@@ -1,0 +1,10 @@
+(     10      2  True U+0028 LEFT PARENTHESIS
+,      1      1  True U+002c COMMA
+-      1      2  True U+002d HYPHEN-MINUS
+.      5      0  True U+002e FULL STOP
+:      1      0  True U+003a COLON
+;      1      0  True U+003b SEMICOLON
+`    194     57  True U+0060 GRAVE ACCENT
+      0      1 False U+008d Unknown codepoint
+“      1      0  True U+201c LEFT DOUBLE QUOTATION MARK
+”      2      0  True U+201d RIGHT DOUBLE QUOTATION MARK

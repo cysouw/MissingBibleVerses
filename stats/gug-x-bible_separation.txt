@@ -1,0 +1,9 @@
+!    217     51  True U+0021 EXCLAMATION MARK
+,    102     52  True U+002c COMMA
+-      2      4  True U+002d HYPHEN-MINUS
+.     39      6  True U+002e FULL STOP
+:     10      1  True U+003a COLON
+?    685    128  True U+003f QUESTION MARK
+—      1      0  True U+2014 EM DASH
+“      2      3  True U+201c LEFT DOUBLE QUOTATION MARK
+”      3      1  True U+201d RIGHT DOUBLE QUOTATION MARK

@@ -1,0 +1,8 @@
+!      1      0  True U+0021 EXCLAMATION MARK
+.      3      0  True U+002e FULL STOP
+[      1      0  True U+005b LEFT SQUARE BRACKET
+]      1      0  True U+005d RIGHT SQUARE BRACKET
+«      5      1  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+»      1      0  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+،      4      0  True U+060c ARABIC COMMA
+‌     80     13  True U+200c ZERO WIDTH NON-JOINER

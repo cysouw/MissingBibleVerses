@@ -1,0 +1,5 @@
+*      2      0  True U+002a ASTERISK
+,     47      6  True U+002c COMMA
+.     27      3  True U+002e FULL STOP
+—   1167    427  True U+2014 EM DASH
+’      0    127 False U+2019 RIGHT SINGLE QUOTATION MARK

@@ -1,0 +1,8 @@
+!      3      2  True U+0021 EXCLAMATION MARK
+(      1      0  True U+0028 LEFT PARENTHESIS
+)      1      0  True U+0029 RIGHT PARENTHESIS
+:      0      8 False U+003a COLON
+؟    866     22  True U+061f ARABIC QUESTION MARK
+۔     95      6  True U+06d4 ARABIC FULL STOP
+‏      0      8 False U+200f RIGHT-TO-LEFT MARK
+�      1      5 False U+fffd REPLACEMENT CHARACTER

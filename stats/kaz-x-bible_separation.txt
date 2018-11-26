@@ -1,0 +1,2 @@
+-     78    509 False U+002d HYPHEN-MINUS
+Nothing to seperate

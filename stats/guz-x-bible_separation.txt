@@ -1,0 +1,6 @@
+!      1      0  True U+0021 EXCLAMATION MARK
+'     48    103  True U+0027 APOSTROPHE
+,      5      1  True U+002c COMMA
+.      3      1  True U+002e FULL STOP
+:      1      0  True U+003a COLON
+;      1      0  True U+003b SEMICOLON

@@ -1,0 +1,18 @@
+!     12      4  True U+0021 EXCLAMATION MARK
+'     83   2040 False U+0027 APOSTROPHE
+(      1      1  True U+0028 LEFT PARENTHESIS
+)      2      0  True U+0029 RIGHT PARENTHESIS
+*     40      1  True U+002a ASTERISK
++      9     18  True U+002b PLUS SIGN
+,    250     27  True U+002c COMMA
+.    290     42  True U+002e FULL STOP
+/     58     62  True U+002f SOLIDUS
+:      3      0  True U+003a COLON
+?      7      2  True U+003f QUESTION MARK
+‑     23    822 False U+2011 NON-BREAKING HYPHEN
+‘      6      6  True U+2018 LEFT SINGLE QUOTATION MARK
+’     10      2  True U+2019 RIGHT SINGLE QUOTATION MARK
+“     29     17  True U+201c LEFT DOUBLE QUOTATION MARK
+”     35     13  True U+201d RIGHT DOUBLE QUOTATION MARK
+†      3      0  True U+2020 DAGGER
+꞉    370     16  True U+a789 MODIFIER LETTER COLON
