@@ -1,0 +1,11 @@
+,    722     65  True U+002c COMMA
+.    643     72  True U+002e FULL STOP
+:     77      0  True U+003a COLON
+;      1      0  True U+003b SEMICOLON
+?     20      1  True U+003f QUESTION MARK
+¿     21      0  True U+00bf INVERTED QUESTION MARK
+—   1290    277  True U+2014 EM DASH
+―     37      1  True U+2015 HORIZONTAL BAR
+’     21      1  True U+2019 RIGHT SINGLE QUOTATION MARK
+“     26      3  True U+201c LEFT DOUBLE QUOTATION MARK
+”     25      4  True U+201d RIGHT DOUBLE QUOTATION MARK

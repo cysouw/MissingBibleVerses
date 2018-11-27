@@ -1,0 +1,2 @@
+.      1      0  True U+002e FULL STOP
+“      1      0  True U+201c LEFT DOUBLE QUOTATION MARK

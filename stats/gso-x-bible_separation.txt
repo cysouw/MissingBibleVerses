@@ -1,0 +1,4 @@
+,      3      0  True U+002c COMMA
+.      4      0  True U+002e FULL STOP
+[      1      0  True U+005b LEFT SQUARE BRACKET
+]      1      0  True U+005d RIGHT SQUARE BRACKET

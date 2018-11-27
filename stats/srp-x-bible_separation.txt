@@ -1,0 +1,6 @@
+"      0      1 False U+0022 QUOTATION MARK
+,     17      1  True U+002c COMMA
+.      9      1  True U+002e FULL STOP
+:      2      0  True U+003a COLON
+;      1     10 False U+003b SEMICOLON
+«      1      0  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK

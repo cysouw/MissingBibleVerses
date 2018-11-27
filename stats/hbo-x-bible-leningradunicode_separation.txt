@@ -1,0 +1,2 @@
+=      0   2578 False U+003d EQUALS SIGN
+׃      6      3  True U+05c3 HEBREW PUNCTUATION SOF PASUQ

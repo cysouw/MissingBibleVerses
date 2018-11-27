@@ -1,0 +1,6 @@
+'      0    343 False U+0027 APOSTROPHE
+,      7      1  True U+002c COMMA
+.      7      0  True U+002e FULL STOP
+?      1      0  True U+003f QUESTION MARK
+“      1      0  True U+201c LEFT DOUBLE QUOTATION MARK
+”      1      0  True U+201d RIGHT DOUBLE QUOTATION MARK

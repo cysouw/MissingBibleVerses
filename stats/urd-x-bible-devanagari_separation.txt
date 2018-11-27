@@ -1,0 +1,4 @@
+-      0      2 False U+002d HYPHEN-MINUS
+[      2      0  True U+005b LEFT SQUARE BRACKET
+]      0      2 False U+005d RIGHT SQUARE BRACKET
+।      7      2  True U+0964 DEVANAGARI DANDA

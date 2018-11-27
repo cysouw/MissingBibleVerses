@@ -1,0 +1,3 @@
+'      0  11658 False U+0027 APOSTROPHE
+-      4     32 False U+002d HYPHEN-MINUS
+Nothing to seperate

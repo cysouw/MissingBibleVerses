@@ -1,0 +1,3 @@
+○      0    810 False U+25cb WHITE CIRCLE
+、      0   7948 False U+3001 IDEOGRAPHIC COMMA
+Nothing to seperate

@@ -1,0 +1,8 @@
+!      6      0  True U+0021 EXCLAMATION MARK
+,    167    132  True U+002c COMMA
+.     78     12  True U+002e FULL STOP
+:     15      1  True U+003a COLON
+;      3      1  True U+003b SEMICOLON
+?      1      1  True U+003f QUESTION MARK
+«     10      2  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+»      9      2  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK

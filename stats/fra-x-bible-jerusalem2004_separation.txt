@@ -1,0 +1,5 @@
+'     10      0  True U+0027 APOSTROPHE
+,      9      0  True U+002c COMMA
+-      4      8  True U+002d HYPHEN-MINUS
+.      3      0  True U+002e FULL STOP
+;      1      0  True U+003b SEMICOLON

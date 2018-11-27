@@ -1,0 +1,3 @@
+'    217    859 False U+0027 APOSTROPHE
+-     13     16  True U+002d HYPHEN-MINUS
+§      0      1 False U+00a7 SECTION SIGN

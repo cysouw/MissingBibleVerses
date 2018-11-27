@@ -1,0 +1,2 @@
+,      2      5  True U+002c COMMA
+.      8      2  True U+002e FULL STOP

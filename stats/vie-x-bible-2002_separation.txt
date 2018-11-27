@@ -1,0 +1,8 @@
+"      2      0  True U+0022 QUOTATION MARK
+(      3      0  True U+0028 LEFT PARENTHESIS
+)      2      1  True U+0029 RIGHT PARENTHESIS
+,    269    139  True U+002c COMMA
+-     10      4  True U+002d HYPHEN-MINUS
+.     49      5  True U+002e FULL STOP
+:     20      0  True U+003a COLON
+;      8      0  True U+003b SEMICOLON

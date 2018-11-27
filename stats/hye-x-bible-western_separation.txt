@@ -1,0 +1,12 @@
+(      1      0  True U+0028 LEFT PARENTHESIS
+)      1      0  True U+0029 RIGHT PARENTHESIS
+,     44      9  True U+002c COMMA
+.      7      2  True U+002e FULL STOP
+:     29      7  True U+003a COLON
+«      4      3  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+»      7      0  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+՛    373    985  True U+055b ARMENIAN EMPHASIS MARK
+՜      6     69 False U+055c ARMENIAN EXCLAMATION MARK
+՝     40      5  True U+055d ARMENIAN COMMA
+՞     58     35  True U+055e ARMENIAN QUESTION MARK
+֊      1      0  True U+058a ARMENIAN HYPHEN

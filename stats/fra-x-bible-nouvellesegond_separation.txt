@@ -1,0 +1,6 @@
+!      1      0  True U+0021 EXCLAMATION MARK
+(      1      0  True U+0028 LEFT PARENTHESIS
+)      1      0  True U+0029 RIGHT PARENTHESIS
+,    422     60  True U+002c COMMA
+.    182     24  True U+002e FULL STOP
+’      0      9 False U+2019 RIGHT SINGLE QUOTATION MARK

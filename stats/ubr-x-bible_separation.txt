@@ -1,0 +1,7 @@
+,      4      0  True U+002c COMMA
+.      1      0  True U+002e FULL STOP
+?      0      1 False U+003f QUESTION MARK
+—      1      0  True U+2014 EM DASH
+’      2      0  True U+2019 RIGHT SINGLE QUOTATION MARK
+“      1      0  True U+201c LEFT DOUBLE QUOTATION MARK
+”      1      0  True U+201d RIGHT DOUBLE QUOTATION MARK

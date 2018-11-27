@@ -1,0 +1,14 @@
+!      0     13 False U+0021 EXCLAMATION MARK
+*     11    753 False U+002a ASTERISK
+-      0      1 False U+002d HYPHEN-MINUS
+.      0      1 False U+002e FULL STOP
+:      0      3 False U+003a COLON
+?      0      1 False U+003f QUESTION MARK
+«      1     14 False U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+»      0     13 False U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+។      0     99 False U+17d4 KHMER SIGN KHAN
+៖      0     10 False U+17d6 KHMER SIGN CAMNUC PII KUUH
+​      0      7 False U+200b ZERO WIDTH SPACE
+“      0      2 False U+201c LEFT DOUBLE QUOTATION MARK
+”      0      2 False U+201d RIGHT DOUBLE QUOTATION MARK
+Nothing to seperate

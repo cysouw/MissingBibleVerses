@@ -1,0 +1,92 @@
+### 01015001 is missing in the Tuareg version
+### 01015011 beginning of verse is missing 
+
+01001001	Aṃadal wər iga təməwit waliyyat, əlsan-tu aṃan əknanen igət, wər t-illa ar šiyyay əwarnen afalla n aṃan win, amaran Iṇfas ən Məššina ənta ollay fəl aṃan win.
+01001002	
+01005001	Əzəl wa dd-ixlak Məššina aggadəm ig-ay-du əs tulat-net. Yay əd təntay ixlak-kan-du. Iga fall-assan albaraka-nnet amaran ig-asan eṣəm aytedam, əzəl wa da tan-d-ixlak. Ənta da əzzurriya n Adəm.
+01005002	
+01006001	As əggazan aytedan šin n əfələyləy əwazawazan daɣ əddənet. Ənayan maddanəs ən jənnawan as šibararen šin d-əhunen daɣ-san əhossaynat amaran əsaṇṇafranan daɣ-asnat šin oggaman əzlafan-tanat.
+01006002	
+01006008	Mišan Nux ənta igraw arraxmat ɣur Əməli.
+01006009	Ənta da əzzurriya ən Nux: Nux aləs n alɣadil a imoṣ, oɣadan ɣur aytedan daɣ azzaman-net, iha tarrayt ta n Məššina.
+01006010	Nux eraw bararan karad: əṃosnen Šem, Xam əd Yafet.
+01010010	Iɣərman win daɣ issəṇta taɣmar-net əṃosan: Babel, Erek, Akkad, Kalne, daɣ aṃadal ən Šinar.
+01010011	Akal wen ig̣mad-tu əs wa n Aššur, ikras aɣrəm wa n Ninif əd wa n Rəxohot-Ir əd wa n Kalax
+01010012	əd wa n Resen gər Ninif əd Kalax, a əṃosnen aɣrəm iyyanda iknan təzzəwwərt.
+01010013	Maṣar eraw Kəl Lud əd Kəl Anam əd Kəl Ləhab əd Kəl Nəftux
+01010014	əd Kəl Fatrus əd Kəl Kaslux (win d əg̣madan Kəl Fəlist) əd Kəl Kaftor.
+01015002	Ijjəwwab Abram, iṇṇ-as: «Əməli Məššina ma d-i za-takfa? Nak wərge barar a əle əngəm ikkusət-i.» Iṇṇa tolas: «Wər di təkfeɣ əzzurriya, əmərədda iyyan daɣ eklan n aɣaywan-in, Eliyezer wa n Damas, ənta a di z-ikkusen.»
+01015003	
+01015010	Təzzər eway-as-tan-du, a- tan- izamazzay daɣ aṃṃas əs təzzəgrət-nasan isinəməṣwid igannatan-nasan mišan ig̣ədad wər tan ifres.
+01015011	əg̣g̣aran nollaman šiməɣsa-nasan isattaq-qan Abram.
+01017023	Ibrahim idkal Ismaɣil d eklan-net kul win ɣur-əs əhunen əd win d-izzənza, xasil yayyan n ahan-net kul, isammaṇkad-tan əzəl wen da, əmmək wa as t-omar Məššina.
+01017024	Ibrahim iga ṭazayat təṃərwen n awatay əd ṭaza, Ismaɣil barar-net iga ṃaraw elan əd karad as əmməṇkadan. Əmməṇkadan əzəl wen da əntanay əd yayyan kul n ahan n Ibrahim, eklan-net win ɣur-əs əhunen əd win d-izzənza daɣ təsədag.
+01017025	
+01017026	
+01017027	
+01019011	S ig'a wen meddan win əllanen dat ahan əwatan-tan əs taḍḍarɣalt win maḍrornen əd win waššarnen, haras orn-asan ad əṣṣənan dad illa əmi n ahan.
+01019012	Əṇṇan meddan ann əššin i Lot: «Awak əllan-tu marwan-nak da? Əḍaggal, bararan, šibararen, madeɣ imarwan a əqqalan, əkkəs-tan daɣ əɣrəm a, fəlas ahluk a tu-za-nagu. Šiɣəttas-net aggotnen oṣanat-in Əməli, issokanaq-q-idu a-tu-nəhlək.»
+01019013	
+01020017	
+01020018	
+01021019	Olam Məššina šiṭṭawen ən Hajara təzzar togg'aṇu. Təgla təḍnay aṇwar təššəšwa barar-net.
+01021020	Daɣ təɣlift ən Məššina idwal barar, iqqal ənaṇḍab ən təganzay isaḍasan.
+01021021	Iɣsar daɣ taṇeray ən Faran. Təzzəzlaf-tu ṃa-s wələt Maṣar.
+01024029	
+01024030	
+01029013	Təga Raxil isalan n aṣṣa ən Yaqub i Laban ɣas, ozal, issəlkad as, izalammat tu. Təzzar ilway tu s aṃṃas n ahan-net. Imməgrad Yaqub sa wa fall-as igan.
+01029014	Iṇṇ'as Laban: «Illikan as kay iɣasan nin d əzni nin a təṃosa.» Iqqim ɣur-əs Yaqub har iga tallit.
+01031034	
+01031035	
+01031051	
+01031052	
+01032011	
+01032023	
+01032024	
+01034003	
+01036015	
+01036016	
+01036020	
+01036021	
+01036029	
+01036030	
+01036032	
+01036033	
+01036034	
+01036035	
+01036036	
+01036037	
+01036038	
+01036039	
+01036041	
+01036042	
+01036043	
+01041019	
+01041020	
+01046006	
+01046007	
+01046034	
+01048008	
+01048009	
+01048010	
+01049029	
+01049030	
+02001002	
+02001003	
+02001004	
+02001014	
+02001020	
+02001021	
+02006014	
+02006017	
+02006018	
+02006019	
+08001003	
+08001004	
+08001005	
+43001004	
+43004002	
+43004003	
+43004008	
+43004034	Inn-asan Ɣaysa: «Imensewan-in wər tan-imos ar ad ammazala tara ən wa di-d-izammazalan, əɣrədaɣ əššəɣəl wa daɣ-i iga.
+57001002	

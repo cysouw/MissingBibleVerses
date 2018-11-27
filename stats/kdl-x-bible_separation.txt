@@ -1,0 +1,12 @@
+(      2      3  True U+0028 LEFT PARENTHESIS
+)      2      3  True U+0029 RIGHT PARENTHESIS
+,    246     12  True U+002c COMMA
+.    309     11  True U+002e FULL STOP
+:      8      0  True U+003a COLON
+;      6      0  True U+003b SEMICOLON
+?      6      0  True U+003f QUESTION MARK
+‘      2      0  True U+2018 LEFT SINGLE QUOTATION MARK
+’      2      0  True U+2019 RIGHT SINGLE QUOTATION MARK
+“     25      2  True U+201c LEFT DOUBLE QUOTATION MARK
+”     12      0  True U+201d RIGHT DOUBLE QUOTATION MARK
+†      6      2  True U+2020 DAGGER

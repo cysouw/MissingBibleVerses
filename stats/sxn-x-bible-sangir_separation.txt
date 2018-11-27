@@ -1,0 +1,2 @@
+'      1      0  True U+0027 APOSTROPHE
+      1      0  True U+008a Unknown codepoint

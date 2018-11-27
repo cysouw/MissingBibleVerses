@@ -1,0 +1,9 @@
+“      0      2 False U+201c LEFT DOUBLE QUOTATION MARK
+”      0      1 False U+201d RIGHT DOUBLE QUOTATION MARK
+。      0     19 False U+3002 IDEOGRAPHIC FULL STOP
+，      0      6 False U+ff0c FULLWIDTH COMMA
+．      0      2 False U+ff0e FULLWIDTH FULL STOP
+：      0      1 False U+ff1a FULLWIDTH COLON
+；      0      2 False U+ff1b FULLWIDTH SEMICOLON
+？      0      1 False U+ff1f FULLWIDTH QUESTION MARK
+Nothing to seperate

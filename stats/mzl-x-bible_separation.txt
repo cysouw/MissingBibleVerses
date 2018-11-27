@@ -1,0 +1,9 @@
+!      3      1  True U+0021 EXCLAMATION MARK
+'      1   3773 False U+0027 APOSTROPHE
+,     43     17  True U+002c COMMA
+.     12      5  True U+002e FULL STOP
+:      0      3 False U+003a COLON
+;      1      2  True U+003b SEMICOLON
+¿      1      0  True U+00bf INVERTED QUESTION MARK
+—    696    188  True U+2014 EM DASH
+‘      2      1  True U+2018 LEFT SINGLE QUOTATION MARK
