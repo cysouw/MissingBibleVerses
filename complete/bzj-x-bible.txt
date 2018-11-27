@@ -10,21 +10,21 @@
 # copyright_long:       © 2012, Wycliffe Bible Translators, Inc.<br>All rights reserved. This translation text is made available to you under the terms of the Creative Commons License: Attribution-Noncommercial-No Derivative Works (http://creativecommons.org/licenses/by-nc-nd/3.0/). In addition, you have permission to port the text to different file formats, as long as you do not change any of the text or punctuation of the Bible. You may share, copy, distribute, transmit, and extract portions or quotations from this work, provided that you include the above copyright information: You must give Attribution to the work. You do not sell this work for a profit. You do not make any derivative works that change any of the actual words or punctuation of the Scriptures. Permissions beyond the scope of this license may be available if you contact us with your request.
 # notes:                
 40001001	Dis da di buk a di famili chree a Jeezas Krais , weh kohn dong fahn Aybraham ahn King Dayvid famili lain .
-40001002	Aybraham son da-mi Aizak.Aizak son da-mi Jaykop.Jaykop son dehn da-mi Jooda ahn ih breda dehn .
-40001003	Jooda son dehn da-mi Payres ahn Zera,ahn fi dehn ma da-mi Taymar.Payres son da-mi Hezron.Hezron son da-mi Ram .
-40001004	Ram son da-mi Aminadab.Aminadab son da-mi Nashon.Nashon son da-mi Salmon .
-40001005	Salmon son da-mi Bowaz,ahn fi hihn ma da-mi Rayhab.Bowaz son da-mi Obed,ahn fi hihn ma da-mi Root.Obed son da-mi Jesi,Jesi son da-mi King Dayvid.Dayvid son da-mi Salaman,ahn fi hihn ma da-mi Uraiya waif .
+40001002	Aybraham son da-mi AizaAizak son da-mi Jayko$1 . Jaykop son dehn da-mi Jooda ahn ih breda dehn .
+40001003	Jooda son dehn da-mi Payres ahn Zera , ahn fi dehn ma da-mi Taymar . Payres son da-mi Hezron . Hezron son da-mi Ram .
+40001004	Ram son da-mi Aminadab . Aminadab son da-mi Nashon . Nashon son da-mi Salmon .
+40001005	Salmon son da-mi Bowaz , ahn fi hihn ma da-mi Rayhab . Bowaz son da-mi Obed , ahn fi hihn ma da-mi Root . Obed son da-mi Jesi , Jesi son da-mi King Dayvid . Dayvid son da-mi Salaman , ahn fi hihn ma da-mi Uraiya waif .
 40001006	
-40001007	Salaman son da-mi Rehobowam.Rehobowam son da-mi Abija.Abija son da-mi Aysa .
-40001008	Aysa son da-mi Jehoshafat.Jehoshafat son da-mi Joram.Joram son da-mi Uzaiya .
-40001009	Uzaiya son da-mi Jotam.Jotam son da-mi Ayhaz.Ayhaz son da-mi Hezikaiya .
-40001010	Hezikaiya son da-mi Manaaseh.Manaaseh son da-mi Amon.Amon son da-mi Josaiya .
-40001011	Josaiya son da-mi Jekonaiya ahn ih breda dehn.Dehn mi baan rong di taim wen di peepl dehn fahn Babilan mi kyapcha dehn wan fahn Izrel ahn ton dehn intu slayv .
+40001007	Salaman son da-mi Rehobowam . Rehobowam son da-mi Abija . Abija son da-mi Aysa .
+40001008	Aysa son da-mi Jehoshafat . Jehoshafat son da-mi Joram . Joram son da-mi Uzaiya .
+40001009	Uzaiya son da-mi Jotam . Jotam son da-mi Ayhaz . Ayhaz son da-mi Hezikaiya .
+40001010	Hezikaiya son da-mi Manaaseh . Manaaseh son da-mi Amon . Amon son da-mi Josaiya .
+40001011	Josaiya son da-mi Jekonaiya ahn ih breda dehn . Dehn mi baan rong di taim wen di peepl dehn fahn Babilan mi kyapcha dehn wan fahn Izrel ahn ton dehn intu slayv .
 40001012	Now afta dehn kyapcha dehn :
-40001013	Zerubabel son da-mi Abiyud.Abiyud son da-mi Elaiyakim.Elaiyakim son da-mi Azor .
-40001014	Azor son da-mi Zaydak.Zaydak son da-mi Akim.Akim son da-mi Eliyud .
-40001015	Eliyud son da-mi Eliyayza.Eliyayza son da-mi Matan.Matan son da-mi Jaykop .
-40001016	Jaykop son da-mi Joazef.Joazef waif da-mi Mayri.Mayri da-mi Jeezas ma.Ahn dehn kaal Jeezas di Krais .
+40001013	Zerubabel son da-mi Abiyud . Abiyud son da-mi Elaiyakim . Elaiyakim son da-mi Azor .
+40001014	Azor son da-mi Zaydak . Zaydak son da-mi Akim . Akim son da-mi Eliyud .
+40001015	Eliyud son da-mi Eliyayza . Eliyayza son da-mi Matan . Matan son da-mi Jaykop .
+40001016	Jaykop son da-mi Joazef . Joazef waif da-mi Mayri . Mayri da-mi Jeezas ma . Ahn dehn kaal Jeezas di Krais .
 40001017	Soh fahn Aybraham tu Dayvid da foateen jenarayshan . Den fahn Dayvid tu di taim wen Izrel mi ton slayv da Babilan da foateen jenarayshan . Ahn fahn da taim tu di taim a Jeezas da wahn nada foateen jenarayshan .
 40001018	Dis da how Jeezas Krais mi baan . Ih ma Mayri mi sopoas tu marid tu Joazef , bot bifoa dehn ku geh marid , di Hoali Spirit mek ih geh pregnant .
 40001019	Now Joazef weh Mayri mi fi marid tu , da-mi wahn raichos man , ahn ih neva waahn shaym Mayri fronta evribadi , soh ih mek op ih main fi lef ahn widowt nobadi noa .
@@ -1574,7 +1574,7 @@
 41012034	Wen Jeezas si how ih ansa mi mek sens , ih seh tu di man , “ Yu noh deh faar fahn Gaad kingdom . ” Ahn fahn deh goh bak nat anada soal mi dayr aks Jeezas wahn nada kweschan .
 41012035	Wail ih mi-di teech da di templ , Jeezas aks , “ How kom dehn wan weh teech di Laa seh dat di Krais wahn kohn fahn King Dayvid famili lain ?
 41012036	Di Hoali Spirit mi-di taak chroo Dayvid wen Dayvid seh , ‘ Di Laad tel mai Laad seh , “ Sidong rait ya pahn mi rait han said til Ah put yu enimi dehn anda yu fut . ” ’ Ahn di krowd mi injai lisn tu Jeezas .
-41012037	Laik how Dayvid mi kaal di Krais ‘ Laad , ’ den da how di Krais ku kohn dong chroo Dayvid famili lain?”Ahn di krowd mi injai lisn tu Jeezas .
+41012037	Laik how Dayvid mi kaal di Krais ‘ Laad , ’ den da how di Krais ku kohn dong chroo Dayvid famili lain ? ” Ahn di krowd mi injai lisn tu Jeezas .
 41012038	Ahn ih teech dehn lat moa ting tu . Ih tel dehn seh , “ Wach owt fi dehn wan weh teech di Laa ! Dehn laik waak rong eena lang roab , ahn dehn laik wen evribadi hayl dehn op owta schreet .
 41012039	Dehn aalwayz waahn di kak op da front seet da di sinagag dehn er da bankwit ahn soh .
 41012040	Bot dehn noh shaym fi teef hows ahn lat fahn dehn poa lee oal laydi , ahn dehn ron goh pray evri haaf ton fi chrai fool di poblik seh dehn soh gud ahn hoali . Dehn wahn geh ponish wosa fi sayka dat . ”
@@ -1913,21 +1913,21 @@
 42003021	Wahn day wen di peepl dehn mi-di geh baptaiz , Jeezas geh baptaiz tu . Wail ih mi-di pray , hevn oapm op ,
 42003022	ahn di Hoali Spirit kohn dong eena di shayp a wahn dov ahn pich pan ahn . Sayhn taim wahn vais fahn hevn seh , “ Yoo da mi Son weh Ah oanli lov , an Ah oanli pleez wid yu . ”
 42003023	Jeezas mi bowt terti yaaz oal wen ih staat di werk weh Gaad sen ahn fi du . Evribadi mi tek it fi grantid dat Jeezas da-mi Joazef son . Adam da-mi Gaad son .
-42003024	Heli da-mi Matat son.Matat da-mi Leevai son.Leevai da-mi Melki son.Melki da-mi Janai son.Janai da-mi Joazef son .
-42003025	Joazef da-mi Matatayas son.Matatayas da-mi Aymos son.Aymos da-mi Nayhum son.Nayhum da-mi Esli son.Esli da-mi Nagai son .
-42003026	Nagai da-mi Maat son.Maat da-mi Matatayas son.Matatayas da-mi Semeyin son.Semeyin da-mi Joasek son.Joasek da-mi Joada son .
-42003027	Joada da-mi Joanan son.Joanan da-mi Reesa son.Reesa da-mi Zerubabel son.Zerubabel da-mi Sheyaltyel son.Sheyaltyel da-mi Neri son .
-42003028	Neri da-mi Melki son.Melki da-mi Adi son.Adi da-mi Kosam son.Kosam da-mi Elmadam son.Elmadam da-mi Er son .
-42003029	Er da-mi Jashwa son.Jashwa da-mi Eliyezr son.Eliyezr da-mi Jorim son.Jorim da-mi Matat son.Matat da-mi Leevai son .
-42003030	Leevai da-mi Simiyan son.Simiyan da-mi Jooda son.Jooda da-mi Joazef son.Joazef da-mi Jonam son.Jonam da-mi Elyakim son .
-42003031	Elyakim da-mi Meli son.Meli da-mi Mena son.Mena da-mi Matata son.Matata da-mi Naytan son.Naytan da-mi Dayvid son .
-42003032	Dayvid da-mi Jesi son.Jesi da-mi Obed son.Obed da-mi Bowaz son.Bowaz da-mi Salmon son.Salmon da-mi Nashon son .
-42003033	Nashon da-mi Aminadab son.Aminadab da-mi Admi son.Admi da-mi Arni son.Arni da-mi Hezron son.Hezron da-mi Perez son.Perez da-mi Jooda son .
-42003034	Jooda da-mi Jaykop son.Jaykop da-mi Aizak son.Aizak da-mi Aybraham son.Aybraham da-mi Tera son.Tera da-mi Nayhor son .
-42003035	Nayhor da-mi Serog son.Serog da-mi Roo son.Roo da-mi Peleg son.Peleg da-mi Eeber son.Eeber da-mi Sheela son .
-42003036	Sheela da-mi Kaynan son.Kaynan da-mi Arfaksad son.Arfaksad da-mi Shem son.Shem da-mi Noawa son.Noawa da-mi Lamek son .
-42003037	Lamek da-mi Metoosela son.Metoosela da-mi Eenak son.Eenak da-mi Jared son.Jared da-mi Mahalalel son.Mahalalel da-mi Kenan son .
-42003038	Kenan da-mi Eenosh son.Eenosh da-mi Set son.Set da-mi Adam son.Adam da-mi Gaad son .
+42003024	Heli da-mi Matat son . Matat da-mi Leevai son . Leevai da-mi Melki son . Melki da-mi Janai son . Janai da-mi Joazef son .
+42003025	Joazef da-mi Matatayas son . Matatayas da-mi Aymos son . Aymos da-mi Nayhum son . Nayhum da-mi Esli son . Esli da-mi Nagai son .
+42003026	Nagai da-mi Maat son . Maat da-mi Matatayas son . Matatayas da-mi Semeyin son . Semeyin da-mi Joasek son . Joasek da-mi Joada son .
+42003027	Joada da-mi Joanan son . Joanan da-mi Reesa son . Reesa da-mi Zerubabel son . Zerubabel da-mi Sheyaltyel son . Sheyaltyel da-mi Neri son .
+42003028	Neri da-mi Melki son . Melki da-mi Adi son . Adi da-mi Kosam son . Kosam da-mi Elmadam son . Elmadam da-mi Er son .
+42003029	Er da-mi Jashwa son . Jashwa da-mi Eliyezr son . Eliyezr da-mi Jorim son . Jorim da-mi Matat son . Matat da-mi Leevai son .
+42003030	Leevai da-mi Simiyan son . Simiyan da-mi Jooda son . Jooda da-mi Joazef son . Joazef da-mi Jonam son . Jonam da-mi Elyakim son .
+42003031	Elyakim da-mi Meli son . Meli da-mi Mena son . Mena da-mi Matata son . Matata da-mi Naytan son . Naytan da-mi Dayvid son .
+42003032	Dayvid da-mi Jesi son . Jesi da-mi Obed son . Obed da-mi Bowaz son . Bowaz da-mi Salmon son . Salmon da-mi Nashon son .
+42003033	Nashon da-mi Aminadab son . Aminadab da-mi Admi son . Admi da-mi Arni son . Arni da-mi Hezron son . Hezron da-mi Perez son . Perez da-mi Jooda son .
+42003034	Jooda da-mi Jaykop son . Jaykop da-mi Aizak son . Aizak da-mi Aybraham son . Aybraham da-mi Tera son . Tera da-mi Nayhor son .
+42003035	Nayhor da-mi Serog son . Serog da-mi Roo son . Roo da-mi Peleg son . Peleg da-mi Eeber son . Eeber da-mi Sheela son .
+42003036	Sheela da-mi Kaynan son . Kaynan da-mi Arfaksad son . Arfaksad da-mi Shem son . Shem da-mi Noawa son . Noawa da-mi Lamek son .
+42003037	Lamek da-mi Metoosela son . Metoosela da-mi Eenak son . Eenak da-mi Jared son . Jared da-mi Mahalalel son . Mahalalel da-mi Kenan son .
+42003038	Kenan da-mi Eenosh son . Eenosh da-mi Set son . Set da-mi Adam son . Adam da-mi Gaad son .
 42004001	Wen Jeezas kohn bak fahn Jaadn Riva , ih mi ful op wid di Hoali Spirit . Ahn di Spirit leed ahn da di dezert , wehpaa ih stay fi faati dayz . Joorin da hoal taim deh di devl neva play fi temp ahn . Pahn tap a dat , ih mi hongri bad kaa ih mi-di faas fi di hoal faati dayz .
 42004002	
 42004003	Di devl seh tu ahn , “ If yoo da Gaad Son fi chroo , tel disya stoan fi ton intu bred . ”
@@ -3787,7 +3787,7 @@
 43021023	Soh wahn rooma staat tu spred monks di res a Jeezas falowa dehn seh dat da disaipl deh neva mi wahn ded . Main yu , Jeezas neva did seh dat da disaipl neva mi wahn ded , bot ih mi seh , “ If Ai waahn hihn liv til Ai kohn bak , da weh dat tu yoo ? ”
 43021024	Dis da di disaipl weh mi si aala dehn ting ahn rait dehn dong , ahn wee noa dat aal weh ih mi rait dong da-mi chroo .
 43021025	Lat moa ting mi deh weh Jeezas mi du , bot if dehn wuda chrai fi rait dong aala dehn , Ai ges di hoal werl wudn a ga spays fi hoal aala di buk dehn weh dehn mi wahn hafu rait eena .
-44001001	Dyaa Misa Tiyofilos,Eena di fos leta weh Ah mi rait tu yu , Ah mi tel yu bowt aala di ting dehn weh Jeezas mi du ahn weh ih mi teech fahn di taim ih mi staat ih werk ,
+44001001	Dyaa Misa Tiyofilos , Eena di fos leta weh Ah mi rait tu yu , Ah mi tel yu bowt aala di ting dehn weh Jeezas mi du ahn weh ih mi teech fahn di taim ih mi staat ih werk ,
 44001002	til di day ih gaan op da hevn . Bifoa ih gaan op , ih gi di man dehn weh ih mi pik fi bee ih apasl dehn di inschrokshanz weh ih mi geh chroo di Hoali Spirit .
 44001003	Fi faati dayz afta ih sofa ahn ded , ih apyaa tu ih disaipl dehn lata taim weh reeli proov fi chroo seh dat hihn , Jeezas , mi rayz op bak fahn di ded . Dehn mi si ahn wid dehn oan too aiy ahn hihn taak wid dehn bowt Gaad kingdom .
 44001004	Ahn den , wen Jeezas mi-di eet tugeda wid dehn rong di taybl , ih tel dehn seh , “ Unu noh fi lef Jeroosalem , bot unu mos wayt fi di gif weh di Faada mi pramis unu , weh Ah mi tel unu bowt .
@@ -3846,7 +3846,7 @@
 44002031	Dayvid mi-di si weh Gaad mi wahn du eena di fyoocha , ahn soh hihn mi-di taak bowt di day wen di Krais mi wahn rayz op bak fahn di ded . Ih seh , ‘ Hihn mi neva geh lef eena di plays a di ded , ahn fi hihn badi neva ratn weh eena di grayv . ’ ‘ Di Laad seh tu fi mee Laad , “ Sidong rait ya da mi rait han said ,
 44002032	Soh Gaad rayz op dis Jeezas fahn di ded , ahn aala wee da witnis tu dis .
 44002033	Gaad gi Jeezas di bigis aana wen ih put ahn fi sidong da ih rait han said ; ahn ih gi ahn di Hoali Spirit jos laik how ih mi pramis , soh dat hihn ku ful wee op wid ahn tu . Dis da weh unu di si ahn yehr ya tudeh .
-44002034	Yu si , da neva Dayvid weh mi gaan op da hevn . In fak , Dayvid mi seh,‘Di Laad seh tu fi mee Laad,“Sidong rait ya da mi rait han said ,
+44002034	Yu si , da neva Dayvid weh mi gaan op da hevn . In fak , Dayvid mi seh , ‘ Di Laad seh tu fi mee Laad , “ Sidong rait ya da mi rait han said ,
 44002035	til Ah put yu enimi dehn anda yu fut laik wahn futstool . ” ’
 44002036	“ Peepl a Izrel , mek Ah mek it klyaa dat di sed Jeezas weh unu mi kroosifai , da hihn Gaad ton rong ahn mek Laad ahn Krais . ”
 44002037	Wen di peepl dehn yehr dis , dehn mi oanli feel bad . Soh dehn aks Peeta ahn di ada apasl dehn , “ Mi brejrin , da weh wi fi du ? ”
@@ -4259,8 +4259,8 @@
 44013031	Ahn fi lata dayz dehn wan weh mi yoostu chravl wid ahn fahn Gyalilee tu Jeroosalem si ahn bikaa ih apyaa tu dehn . Now dehn di tel aala fi wee peepl bowt hihn .
 44013032	“ Soh now wee kohn bring di Gud Nyooz tu unu . Weh Gaad mi pramis wi grayt , grayt , granfaada dehn kohn chroo fi wee now . Ih mi pramis seh ih mi wahn bring Jeezas bak tu laif .
 44013033	Dis da weh di sekant Saam di taak bowt wen ih seh , ‘ Yoo da mi Son ; tudeh Ai kohn fi bee yu Faada . ’ ‘ Ah wahn gi yu di sayhn blesin dehn weh Ah mi pramis Dayvid . ’ ‘ Ah noh wahn mek di badi a di Hoali Wan geh ratn . ’
-44013034	Bikaaz Gaad mi pramis fi bring Jeezas bak tu laif agen , ih noh wahn ded agen . Dis deh eena di Skripcha weh seh,‘Ah wahn gi yu di sayhn blesin dehnweh Ah mi pramis Dayvid . ’
-44013035	Eena wahn nada Saam , ih eksplayn it klyaa-wan wen ih seh,‘Ah noh wahn mek di badi a di Hoali Wan geh ratn . ’
+44013034	Bikaaz Gaad mi pramis fi bring Jeezas bak tu laif agen , ih noh wahn ded agen . Dis deh eena di Skripcha weh seh , ‘ Ah wahn gi yu di sayhn blesin dehnweh Ah mi pramis Dayvid . ’
+44013035	Eena wahn nada Saam , ih eksplayn it klyaa-wan wen ih seh , ‘ Ah noh wahn mek di badi a di Hoali Wan geh ratn . ’
 44013036	Ih kudn a mi-di seh dis bowt Dayvid bikaa afta Dayvid don du weh Gaad mi waahn ih du , hihn mi ded , ahn dehn beri ahn , ahn fi hihn badi mi ratn .
 44013037	Bot dis neva hapm tu Jeezas bikaa Gaad rayz ahn op bak fahn di ded .
 44013038	“ Mi bradaz , unu shuda noa dat da chroo Jeezas di mesij bowt fagivnis a sin di preech tu unu .
@@ -4334,7 +4334,7 @@
 44015026	weh da too man weh put dehn laif pahn di lain fi sayka di Laad Jeezas Krais .
 44015027	Soh wi di sen Joodas ahn Sailas tu unu . Dehn wahn tel unu egzakli weh wi stan fa , ahn soh unu wahn si dat dat da di sayhn ting weh wi rait eena di leta .
 44015028	Di Hoali Spirit seh dat unu noh need no ekschra berdn ahn wee agree . Yu oanli hafu fala dehnya rool ya :
-44015029	Unu noh fi eet no food weh mi aafa tu aidal ; wahn man noh fi ga seks wid wahn uman if ih noh marid tu ahn ; ahn unu noh fi eet blod er no meet weh kohn fahn wahn animal weh mi schrangl . Ih wahn du unu gud fi kip weh fahn dehndeh ting.Unu tek kayr .
+44015029	Unu noh fi eet no food weh mi aafa tu aidal ; wahn man noh fi ga seks wid wahn uman if ih noh marid tu ahn ; ahn unu noh fi eet blod er no meet weh kohn fahn wahn animal weh mi schrangl . Ih wahn du unu gud fi kip weh fahn dehndeh ting . Unu tek kayr .
 44015030	Soh di foa man dehn lef owt fahn Jeroosalem ahn gaahn da Antiyak . Wen dehn reech deh , dehn kaal wahn meetn a di cherch ahn gi dehn di leta .
 44015031	Afta di leta don reed eena di cherch , evribadi mi hapi ahn mi feel inkorij .
 44015032	Joodas ahn Sailas dehn da-mi preechaz , soh dehn du lata preechin di inkorij di bileeva dehn ahn schrentn dehn fayt .
@@ -5070,9 +5070,9 @@
 45010016	Bot som a di peepl dehn noh pay no main tu di Gud Nyooz . Di prafit Aizaiya seh , “ Laad , hoo wahn bileev di mesij weh wi di tel dehn ? ”
 45010017	Soh den , sayka weh peepl yehr di mesij bowt Krais , dehn kohn fi bileev eena ahn , bot sohnbadi hafu goh tel peepl bowt Krais fi mek dehn yehr .
 45010018	Bot mek Ah aks unu sohnting : Di Jooz dehn neva yehr di mesij ? Yes , dehn don yehr di mesij . Di Skripcha seh , “ Aal di peepl dehn aal oava di werl mi yehr di werd dehn weh di mesinja tel dehn . Di werd gaan owt aal oava di werl . ” “ Ah wahn bles ada nayshan jos fi mek unu jelos . Ah wahn mek unu beks wid wahn nayshan a peepl weh noh andastan notn ataal . ” “ Di peepl dehn weh neva mi-di chrai fain mi , dehn don fain mi . Ah don apyaa tu dehn peepl weh noh mi-di luk fi mi . ” “ Hoal taim Ah di hoal owt mi han dehn tu dehn wan weh noh du weh Ah tel dehn , bot dehn mi waahn ga dehn oan way . ”
-45010019	Mek Ah aks unu sohnting els : Di Jooz dehn noh andastan di mesij ? Yes , dehn andastan it . Moaziz mi ansa da kweschan wen ih tel dehn fahn way bak weh Gaad mi seh,“Ah wahn bles ada nayshan jos fi mek unu jelos.Ah wahn mek unu beks wid wahn nayshan a peepl weh noh andastan notn ataal . ”
-45010020	Den Aizaiya di prafit neva frayd ataal wen ih tel di peepl dehn seh,“Di peepl dehn weh neva mi-di chrai fain mi,dehn don fain mi.Ah don apyaa tu dehn peepl weh noh mi-di luk fi mi . ”
-45010021	Ahn Gaad taak bowt di peepl dehn a Izrel seh,“Hoal taim Ah di hoal owt mi han dehn tu dehn wan weh noh du weh Ah tel dehn,bot dehn mi waahn ga dehn oan way . ”
+45010019	Mek Ah aks unu sohnting els : Di Jooz dehn noh andastan di mesij ? Yes , dehn andastan it . Moaziz mi ansa da kweschan wen ih tel dehn fahn way bak weh Gaad mi seh , “ Ah wahn bles ada nayshan jos fi mek unu jelos . Ah wahn mek unu beks wid wahn nayshan a peepl weh noh andastan notn ataal . ”
+45010020	Den Aizaiya di prafit neva frayd ataal wen ih tel di peepl dehn seh , “ Di peepl dehn weh neva mi-di chrai fain mi , dehn don fain mi . Ah don apyaa tu dehn peepl weh noh mi-di luk fi mi . ”
+45010021	Ahn Gaad taak bowt di peepl dehn a Izrel seh , “ Hoal taim Ah di hoal owt mi han dehn tu dehn wan weh noh du weh Ah tel dehn , bot dehn mi waahn ga dehn oan way . ”
 45011001	Soh den , mek Ah aks unu sohnting : Gaad mi seh dat ih noh waahn ih oan peepl dehn agen ? No , ih neva seh dat ! Mee miself da wahn Joo . Ai da wan a Aybraham disendant dehn ; Ai kohn fahn Benjamin famili lain .
 45011002	No , Gaad neva seh ih noh waahn ih peepl dehn weh hihn pik fahn bifoa ih mek di werl . Unu noh noa weh rait eena di Skripcha wen Ilaija mi-di komplayn tu Gaad bowt di Jooish peepl dehn ?
 45011003	Ih tel Gaad seh , “ Laad , dehn don kil aala yu prafit dehn . Dehn dischrai yu alta dehn . Ai da di oanli prafit weh lef , ahn dehn di chrai fi kil mee tu . ”
@@ -5081,7 +5081,7 @@
 45011006	Gaad pik dehn peepl deh jos fi shoa dehn ih grays . Ih neva pik dehn sayka notn weh dehn du . If Gaad mi pik dehn sayka weh dehn du , den grays da noh grays ataal .
 45011007	Soh den , dat da how ih stan . Da noh aal di peepl a Izrel mi fain weh dehn mi-di luk fa . Oanli dehn wan weh Gaad mi pik mi fain ahn . Di res a dehn mi haadn dehn haat gens di chroot ahn dehn neva andastan .
 45011008	Da jos laik weh rait eena di Skripcha seh , “ Gaad mek dehn soh dehn kyaahn feel ahn tink . Eevn op tu tudeh day , dehn aiy noh si ahn dehn ayz noh yehr . ” “ Mek di sayhn ting weh dehn sidong fi eet ton intu wahn chrap fi kech dehn . Mek Gaad mek dehn faal dong , ahn mek ih ponish dehn .
-45011009	Da laik weh King Dayvid seh,“Mek di sayhn ting weh dehn sidong fi eet ton intu wahn chrap fi kech dehn.Mek Gaad mek dehn faal dong,ahn mek ih ponish dehn .
+45011009	Da laik weh King Dayvid seh , “ Mek di sayhn ting weh dehn sidong fi eet ton intu wahn chrap fi kech dehn . Mek Gaad mek dehn faal dong , ahn mek ih ponish dehn .
 45011010	Mek Gaad mek dehn aiy daak soh dat dehn kyaahn si . Mek dehn sofa sayka aal dehn chrobl ; mek dehn bak aalwayz ben oava sayka di load . ”
 45011011	Soh , mek Ah aks unu wahn neks kweschan : Wen di Jooish peepl dehn mi stombl , dat mi meen seh dehn faal dong ahn neva ga no chaans fi get op agen ? No ! Sayka weh di Jooish peepl dehn sin , Gaad ton tu di peepl dehn weh da noh Joo ahn sayv dehn fi mek di Jooz dehn jelos dehn wan weh da noh Joo .
 45011012	Sayka weh di Jooz dehn sin , dat mek blesin kohn pahn di res a werl big taim . Now if di peepl dehn weh da noh Joo geh bles sayka weh di Jooz dehn neva aksep Gaad salvayshan , tink humoch grayta di blesin wahn bee wen di Jooz dehn kohn at laas fi aksep da salvayshan !
@@ -5176,9 +5176,9 @@
 45015007	Soh , unu mos aksep wan anada , jos laik how Jeezas Krais aksep unu , soh dat peepl wahn prayz Gaad .
 45015008	Kaa Ah di tel unu seh , Jeezas Krais kohn fi serv di Jooish peepl dehn fi shoa dat Gaad di du weh ih mi pramis wi ansesta dehn .
 45015009	Ahn Jeezas Krais kohn tu , fi mek di peepl weh da Joo prayz Gaad , kaa ih ga mersi pahn dehn . Da laik weh di Skripcha seh , “ Soh den , Ah wahn prayz yu monks aal di nayshan dehn . Ah wahn sing prayz tu yu naym . ” “ Unu weh da noh Joo shuda prayz Gaad lang wid dehn wan weh Gaad don pik . ” “ Aala unu weh da noh Joo shuda prayz di Laad . Mek aal di peepl dehn prayz ahn . ” “ Wahn persn fahn Jesi famili lain wahn kohn . Gaad wahn mek ih rool oava aal di nayshan dehn ; dehn wahn put dehn hoap eena hihn . ”
-45015010	Ahn ih rait agen eena di Skripcha seh,“Unu weh da noh Joo shuda prayz Gaad lang wid dehn wan weh Gaad don pik . ”
-45015011	Ahn ih rait seh agen,“Aala unu weh da noh Joo shuda prayz di Laad.Mek aal di peepl dehn prayz ahn . ”
-45015012	Ahn Aizaiya tu seh,“Wahn persn fahn Jesi famili lain wahn kohn.Gaad wahn mek ih rool oava aal di nayshan dehn;dehn wahn put dehn hoap eena hihn . ”
+45015010	Ahn ih rait agen eena di Skripcha seh , “ Unu weh da noh Joo shuda prayz Gaad lang wid dehn wan weh Gaad don pik . ”
+45015011	Ahn ih rait seh agen , “ Aala unu weh da noh Joo shuda prayz di Laad . Mek aal di peepl dehn prayz ahn . ”
+45015012	Ahn Aizaiya tu seh , “ Wahn persn fahn Jesi famili lain wahn kohn . Gaad wahn mek ih rool oava aal di nayshan dehn ; dehn wahn put dehn hoap eena hihn . ”
 45015013	Ah pray dat Gaad weh gi hoap wahn mek unu ful op wid jai ahn pees az unu chros eena ahn . Den di powa a di Hoali Spirit wahn mek unu luk faawod moa ahn moa tu weh Gaad wahn du .
 45015014	Mi bradaz ahn sistaz . Ah feel shoar bowt unu , dat unu da gud peepl . Unu noa aal weh unu need fi noa , ahn unu wahn ku teech wan anada .
 45015015	Stilyet , eena dis leta Ah noh wahn frayd fi di rimain unu bowt som a di ting dehn weh Ah mi-di tel unu bowt . Ah noh di haid notn , kaa Gaad gi mi dis speshal werk fi du .
@@ -5267,7 +5267,7 @@
 46002007	Bot di kaina wizdom wi di taak bowt , da Gaad seekrit wizdom weh ih mi ga haid weh fahn lang taim . Dat da di wizdom weh Gaad mi disaid fi yooz fi fi wee gloari eevn bifoa ih mek di werl .
 46002008	Non a dehn roola a dis werl neva andastan da kaina wizdom deh , kaa if dehn mi andastan it , dehn neva mi wahn kroosifai di Laad a gloari pahn di kraas .
 46002009	Bot laik weh rait eena di Skripcha seh , “ Nobadi neva si , ahn nobadi neva yehr , ahn nobadi neva yet imajin , aal weh Gaad ga plan fi dehn wan weh lov ahn . ” Gaad Spirit saach owt evriting , eevn aal di seekrit ting dehn bowt Gaad .
-46002010	Bot wi noa dehnya ting kaa Gaad mek ih Hoali Spirit shoa dehn tu wi.Gaad Spirit saach owt evriting , eevn aal di seekrit ting dehn bowt Gaad .
+46002010	Bot wi noa dehnya ting kaa Gaad mek ih Hoali Spirit shoa dehn tu wi . Gaad Spirit saach owt evriting , eevn aal di seekrit ting dehn bowt Gaad .
 46002011	Kaa nobadi noh noa weh wahn nada persn di tink bowt eena dehn main eksep da persn . Sayhn way , nobadi noh andastan weh deh eena Gaad main eksep di Spirit a Gaad .
 46002012	Wee noh tink ahn andastan ting laik di peepl dehn eena dis werl . Gaad gi wee fi hihn Hoali Spirit soh dat wee ku andastan aal di blesin dehn weh Gaad gi wi .
 46002013	Soh den , wen wi tel unu dehnya ting , wi noh di taak wid di kaina wizdom weh wi geh fahn peepl , bot wi di taak dehn tingz weh Gaad Hoali Spirit shoa wi . Da da sayhn Hoali Spirit help wi fi teech peepl weh ga Gaad Spirit di chroo ting dehn weh di Hoali Spirit tel wi .
@@ -5778,7 +5778,7 @@
 47006014	Unu noh fi jain op wid nobadi weh noh bileev eena Jeezas . How gudnis ahn wikidnis wahn bee paadna ? Ahn how lait ahn daaknis wahn ku get lang ?
 47006015	How Krais ahn Saytan wahn eva ku gree ? Ahn weh sohnbadi weh bileev eena Krais ahn sohnbadi weh noh bileev ga fi du wid wan anada ?
 47006016	Eni aidal bizniz fi deh eena Gaad templ ? No , kaa da wee da di templ a di livin Gaad . Da laik weh Gaad seh , “ Ai wahn liv eena fi mee peepl dehn . Ah wahn waak monks dehn . Ah wahn bee dehn Gaad , ahn dehn wahn bee mai peepl . ” “ Soh den , unu fi kom owt fahn monks dehn wan weh noh bileev . Noh ga notn fi du wid dehn . Unu noh fi ga notn fi du wid notn weh doti . Den Ai wahn welkom unu . ”
-47006017	Ahn di Laad seh,“Soh den , unu fi kom owt fahn monks dehn wan weh noh bileev.Noh ga notn fi du wid dehn.Unu noh fi ga notn fi du wid notn weh doti .
+47006017	Ahn di Laad seh , “ Soh den , unu fi kom owt fahn monks dehn wan weh noh bileev . Noh ga notn fi du wid dehn . Unu noh fi ga notn fi du wid notn weh doti .
 47006018	“ Ai wahn bee unu Faada , ahn unu wahn bee mi son ahn mi daata dehn . Dat da weh di Laad Almaiti seh . ”
 47007001	Mi dyaa fren dehn , Gaad mek aala dehn pramis tu wi , soh den , mek wi kip weh fahn evriting weh noh wahn mek wi badi ahn wi spirit kleen fahn sin . Mek wi du wi bes fi liv wahn hoali laif owta rispek fi Gaad .
 47007002	Unu mos oapm op unu haat tu wi , kaa wi neva du nobadi notn , wi neva leed nobadi aschray , ahn wi neva chaans nobadi .
@@ -6832,14 +6832,14 @@
 58001003	Gaad Son da di lait weh di shoa wi di brait gloari a Gaad . Wen unu si di Son , unu di si Gaad , kaa di Son da jos di saym az Gaad . Chroo fi hihn oan maiti Werd dehn hihn hoal di hoal yoonivers tugeda . Ahn afta di Son don wash weh wi sin dehn , ih gaahn da hevn gaahn sidong pahn di rait han said a Gaad , weh ga moa powa dahn aal .
 58001004	Gaad mek ih Son way haiya dan di aynjel dehn , jos laik how di naym weh ih gi ahn faar faar grayta dahn eni ada naym .
 58001005	Ahn Gaad neva tel non a di aynjel dehn seh , “ Yoo da mi Son ; tudeh Ai kohn fi bee yu Faada . ” “ Ai wahn bee dehn Faada , ahn dehn wahn bee mi Son . ” “ Aala unu mos wership mi Son . ” “ Ai mek mai aynjel dehn bee laik breez weh di bloa , ahn mi servant dehn laik faiya weh di blayz op . ” “ Yoo da Gaad , ahn yu kingdom wahn laas fareva ahn eva ! Yu rool yu peepl dehn fyaa-wan .
-58001006	Gaad Son mi deh eevn bifoa eniting mi mek , ahn wen ih mi-di sen ahn eena di werl , Gaad tel aala ih aynjel dehn seh,“Aala unu mos wership mi Son . ”
-58001007	Wen Gaad taak bowt di aynjel dehn , ih seh,“Ai mek mai aynjel dehn bee laik breez weh di bloa,ahn mi servant dehn laik faiya weh di blayz op . ”
-58001008	Bot wen Gaad taak tu ih Son , ih seh,“Yoo da Gaad , ahn yu kingdom wahn laas fareva ahn eva!Yu rool yu peepl dehn fyaa-wan .
+58001006	Gaad Son mi deh eevn bifoa eniting mi mek , ahn wen ih mi-di sen ahn eena di werl , Gaad tel aala ih aynjel dehn seh , “ Aala unu mos wership mi Son . ”
+58001007	Wen Gaad taak bowt di aynjel dehn , ih seh , “ Ai mek mai aynjel dehn bee laik breez weh di bloa , ahn mi servant dehn laik faiya weh di blayz op . ”
+58001008	Bot wen Gaad taak tu ih Son , ih seh , “ Yoo da Gaad , ahn yu kingdom wahn laas fareva ahn eva ! Yu rool yu peepl dehn fyaa-wan .
 58001009	Yoo lov weh rait ahn yu hayt weh eevl . Dat da wai mee , weh da yu Gaad , pik yoo ahn aana yu moa dahn aala yu fren dehn , ahn weh Ah pik yoo , dat gi yu lata jai . ” “ Laad , wen notn neva deh , da yoo mek di ert ahn di hevn dehn wid yu oan han dehn .
 58001010	Dis da weh Gaad seh tu : “ Laad , wen notn neva deh , da yoo mek di ert ahn di hevn dehn wid yu oan han dehn .
 58001011	Aala dehn wahn kohn tu wahn en , bot yoo wahn aalwayz deh ; dehn wahn wayr owt sayhn laik oal kloaz .
 58001012	Yu wahn foal dehn op laik wahn koat . Yu wahn chaynj dehn sayhn laik how yu chaynj kloaz . Bot yoo wahn neva chaynj ; yoo wahn neva geh oal ahn ded . ” “ Sidong ya da mi rait han said til Ah put yu enimi dehn anda yu fut laik wahn futstool . ”
-58001013	Gaad neva tel non a di aynjel dehn seh,“Sidong ya da mi rait han said til Ah put yu enimi dehn anda yu fut laik wahn futstool . ”
+58001013	Gaad neva tel non a di aynjel dehn seh , “ Sidong ya da mi rait han said til Ah put yu enimi dehn anda yu fut laik wahn futstool . ”
 58001014	Yu si , di aynjel dehn da spirit ahn dehn dehdeh fi serv Gaad . Gaad di sen dehn fi help dehn wan weh hihn wahn sayv .
 58002001	Soh dat da wai wi fi pay main moa dan eva tu di ting dehn weh wi mi yehr bowt , weh da chroo , soh dat wi noh jrif weh fahn dehn .
 58002002	Di mesij weh di aynjel dehn mi gi tu fi wee ansesta dehn mi proov fi bee chroo , ahn dehn peepl weh mi ton dehn bak gens it mi geh di ponishment weh dehn mi dizerv .
@@ -6853,7 +6853,7 @@
 58002010	Now , da Gaad mek evriting , ahn evriting mi mek fi hihn ; soh den , ih oanli rait fi hihn mek Jeezas bee evriting weh ih sopoas tu bee sayka weh ih sofa , soh dat ih ku mek aala ih pikni dehn shayr eena Jeezas gloari . Kaa Jeezas da di fitnis wan fi sayv dehn .
 58002011	Now Jeezas ahn di wan dehn weh hihn mek hoali ga di sayhn Faada . Dat da wai Jeezas noh shaym fi kaal dehn ih brada ahn ih sista dehn .
 58002012	Dis da weh Jeezas tel Gaad : “ Ah wahn tel mi brada ahn mi sista dehn bowt yu wandaful naym . Wen dehn gyada tugeda fi wership yu , Ah wahn prayz yu monks dehn . ” “ Ah wahn put mi chros eena Gaad . ” “ Si mi ya wid di pikni dehn weh Gaad gi mi . ”
-58002013	Dis da weh ih seh tu:“Ah wahn put mi chros eena Gaad.”Ahn wahn neks taim ih seh,“Si mi ya wid di pikni dehn weh Gaad gi mi . ”
+58002013	Dis da weh ih seh tu : “ Ah wahn put mi chros eena Gaad . ” Ahn wahn neks taim ih seh , “ Si mi ya wid di pikni dehn weh Gaad gi mi . ”
 58002014	Laik how di pikni dehn da flesh ahn blod , Jeezas baan eena di werl az flesh ahn blod tu . Da oanli az wahn hyooman ih kuda mi ded , ahn da oanli chroo weh ih ded ih kuda mi dischrai di devl weh mi ga powa oava det .
 58002015	Dat da di oanli way Jeezas kuda mi set free aala dehn wan weh mi-di liv evri day laik slayv , sayka weh dehn soh frayd fi ded .
 58002016	Wi noa dat Jeezas neva kohn fi help di aynjel dehn , bot ih mi kohn fi help dehn wan weh deh eena Aybraham famili lain .
@@ -6884,7 +6884,7 @@
 58004004	In fak , sohnweh eena di Skripcha yu reed bowt di sevent day a di week . Ih seh , “ Gaad res fahn aala ih werk pahn di sevent day . ”
 58004005	Den eena wahn neks paat a di Skripcha ih seh , “ Dehn wahn neva goh eena di lan weh Ah mi wahn gi dehn fi res eena . ”
 58004006	Now , di res weh Gaad mi pramis dehdeh fi dehn wan weh Gaad alow fi get it . Bot dehn wan weh mi fos yehr di Gud Nyooz neva get it , kaa dehn neva bileev weh Gaad seh .
-58004007	Kaa Gaad don fiks wahn nada taim , wahn day weh ih kaal “ tudeh . ” Afta plenti yaaz don paas , Gaad mek Dayvid seh dehn werd deh weh Ah jos tel unu . Ih seh,“Tudeh if unu yehr Gaad vais , unu noh fi haadn unu haat gens ahn . ”
+58004007	Kaa Gaad don fiks wahn nada taim , wahn day weh ih kaal “ tudeh . ” Afta plenti yaaz don paas , Gaad mek Dayvid seh dehn werd deh weh Ah jos tel unu . Ih seh , “ Tudeh if unu yehr Gaad vais , unu noh fi haadn unu haat gens ahn . ”
 58004008	Now , if Jashwa mi gi di peepl di res weh Gaad mi pramis , den Gaad neva mi wahn taak laytaraan bowt wahn nada day a res .
 58004009	Soh den , wahn speshal day a res stil dehdeh di wayt fi Gaad peepl dehn ;
 58004010	kaa evribadi weh geh da res weh Gaad mi pramis wahn res fahn fi dehn oan werk , jos laik how Gaad mi res fahn fi hihn werk .
@@ -7110,7 +7110,7 @@
 58013003	Memba dehn wan weh deh eena prizn laik da unu unuself deh eena prizn wid dehn , ahn memba dehn wan weh di geh bad chreetment , sayhn laik if da unu dehn di chreet bad tu .
 58013004	Unu mos ga big rispek fi marij . Stay faytful tu unu hozban er waif , kaa Gaad wahn joj enibadi weh di sleep rong er weh di cheet pahn dehn hozban er dehn waif .
 58013005	Noh di lov moni ; satisfai wid weh unu ga , kaa di Laad pramis wi seh , “ Ah wahn neva lef unu ; Ah wahn neva dizert unu . ” “ Di Laad da di Wan weh di help mi ; Ai noh wahn frayd fi notn . Da weh enibadi ku du mee ? ”
-58013006	Soh wi ku ga kanfidens wen wi seh,“Di Laad da di Wan weh di help mi;Ai noh wahn frayd fi notn.Da weh enibadi ku du mee ? ”
+58013006	Soh wi ku ga kanfidens wen wi seh , “ Di Laad da di Wan weh di help mi ; Ai noh wahn frayd fi notn . Da weh enibadi ku du mee ? ”
 58013007	Noh faget unu leeda dehn weh mi teech unu di Werd a Gaad . Memba weh kaina laif dehn mi liv , ahn chrai ga fayt laik dehn .
 58013008	Jeezas Krais neva chaynj ; hihn da di saym yestudeh , tudeh , ahn fareva .
 58013009	Noh mek aal kaina difrent teechin di fool unu op . Ih beta fi geh schrent fahn di grays a Gaad dahn fahn aala dehn roolz bowt food , weh noh help non a dehn wan weh fala dehn .
@@ -7269,8 +7269,8 @@
 60002004	Soh kohn tu Jeezas . Hihn da di Stoan weh livin , weh di peepl dehn mi rijek , bot Gaad mi pik hihn kaa hihn preshos tu ahn .
 60002005	Ahn now unu da stoan weh livin , soh mek Gaad yooz unu fi bil wahn spirichwal hows . Unu da prees weh hoali , ahn Jeezas Krais wahn help unu fi aafa sakrifais tu Gaad weh hihn wahn aksep .
 60002006	Da jos laik weh Gaad mi seh eena di Skripcha . Ih seh , “ Si , luk , Ah di put wahn stoan eena Zaiyan . Da wahn kaanastoan weh Ai pik , ahn ih oanli preshos tu mi . Hihn noh wahn let dong nobadi weh chros eena ahn . ” “ Di stoan weh di bilda dehn neva tink mi wot notn , ton owt fi bee di moas impoatant wan owta aala dehn . ” “ Da wahn stoan weh mek peepl bok dehn fut ahn stombl , ahn da wahn rak weh mek dehn faal dong . ”
-60002007	Yes , hihn preshos tu aala dehn wan weh bileev eena ahn ; bot tu dehn wan weh noh bileev , di Skripcha seh,“Di stoan weh di bilda dehn neva tink mi wot notn,ton owt fi bee di moas impoatant wan owta aala dehn . ”
-60002008	Ih rait eena di Skripcha seh,“Da wahn stoan weh mek peepl bok dehn fut ahn stombl,ahn da wahn rak weh mek dehn faal dong.”Dehn chrip oava it kaa dehn neva obay weh Gaad seh . Soh weh hapm tu dehn da weh Gaad mi plan fi hapm tu dehn .
+60002007	Yes , hihn preshos tu aala dehn wan weh bileev eena ahn ; bot tu dehn wan weh noh bileev , di Skripcha seh , “ Di stoan weh di bilda dehn neva tink mi wot notn , ton owt fi bee di moas impoatant wan owta aala dehn . ”
+60002008	Ih rait eena di Skripcha seh , “ Da wahn stoan weh mek peepl bok dehn fut ahn stombl , ahn da wahn rak weh mek dehn faal dong . ” Dehn chrip oava it kaa dehn neva obay weh Gaad seh . Soh weh hapm tu dehn da weh Gaad mi plan fi hapm tu dehn .
 60002009	Bot unu da di speshal peepl dehn weh Gaad pik . Unu da prees weh bilangz tu Gaad , di king . Unu da wahn nayshan weh Gaad set wan said fi ihself . Gaad bring unu fahn owta daaknis ahn put unu eena fi hihn wandaful lait . Now unu mos tel evribadi aala di wandaful ting dehn weh Gaad du .
 60002010	Wahn taim mi deh wen unu da neva nobadi , bot now unu da Gaad peepl dehn . Wan taim , nobadi neva shoa unu mersi , bot now Gaad shoa unu mersi .
 60002011	Mi dyaa fren dehn , unu noh bilangz tu dis ert ; unu da aylyan ahn schraynja . Soh Ah di waan unu noh fi giv een tu dehn sinful feelinz weh di fait gens unu oan soal .
@@ -7598,7 +7598,7 @@
 66002014	Bot Ah ga sohn ting dehn weh Ah di blaym unu fa . Som a di peepl dehn monks unu di du di ting dehn weh Baylam mi-di tel peepl fi du . Ih mi teech Baylak how fi chrap di peepl a Izrel ahn mek dehn sin . Ih mi geh dehn fi eet meet weh peepl mi sakrifais tu aidal ahn fi liv wahn loos laif .
 66002015	Sohn peepl monks unu di du dehn sayhn ting weh dehn wan weh di fala di Nikolayshanz di du .
 66002016	Now den , unu mos ton fahn unu sin dehn . If unu noh chaynj unu wayz , Ai wahn kohn tu unu soon . Ah wahn tek dis soad weh deh eena mi mowt ahn fait gens di peepl dehn weh di du dehn bad tingz .
-66002017	If unu ga ayz fi yehr , den lisn tu weh Gaad Spirit di tel di cherch dehn . Dehn wan weh stil stan schrang afta Saytan don chrai dehn , Ai wahn gi evri wan a dehn som a da mana weh mi haid weh.Den pahn tap a dat , Ah wahn gi dehn wahn wait stoan wid wahn nyoo naym weh rait pan it . Nobadi noh wahn noa di naym weh rait pahn di stoan eksep di persn weh Ai di gi da naym tu .
+66002017	If unu ga ayz fi yehr , den lisn tu weh Gaad Spirit di tel di cherch dehn . Dehn wan weh stil stan schrang afta Saytan don chrai dehn , Ai wahn gi evri wan a dehn som a da mana weh mi haid weh . Den pahn tap a dat , Ah wahn gi dehn wahn wait stoan wid wahn nyoo naym weh rait pan it . Nobadi noh wahn noa di naym weh rait pahn di stoan eksep di persn weh Ai di gi da naym tu .
 66002018	“ Rait dis mesij ya ahn sen it tu di aynjel a di cherch da Taiyataira :
 66002019	Ai noa di ting dehn weh unu di du . Ai noa unu lov peepl ahn unu noh wahn stap bileev eena mee . Ah noa how haad unu werk ahn how unu di bayr op anda aal unu sofarin . An Ah noa dat unu di du moa now dahn weh unu yoostu du .
 66002020	Stilyet , Ah ga wan ting gens unu . Unu mek da uman Jezebel , weh seh ih da wahn prafit fahn Gaad , stay deh monks unu . Unu mek ih di teech unu sohn rang tingz , laik fi eet food weh dehn don aafa tu aidal ahn fi du aal dehn sin weh ga fi du wid loos livin .
@@ -7753,7 +7753,7 @@
 66011014	Di sekant chrobl don paas . Bot luk ya now ! Di chrobl weh mek nomba chree di kohn soon .
 66011015	Den di aynjel weh mek nomba sebm bloa ih chrompit . An Ah yehr wahn lata vais eena hevn di hala haad seh , “ Wi Laad ahn ih Krais , ih ga di powa fi rool now oava di werl . Ahn hihn wahn rool fareva ahn eva ! ” “ Laad Gaad Almaiti , di Wan weh mi deh fareva , ahn weh stil deh now , wi tel yu tanks , kaaz yu di yooz yu powa now , ahn staat fi rool oava di werl !
 66011016	Den di tweni-foa eldaz , weh di sidong pahn dehn chroan fronta Gaad , dehn get dong wid dehn fays tu di grong ahn dehn wership Gaad .
-66011017	Dehn seh,“Laad Gaad Almaiti,di Wan weh mi deh fareva , ahn weh stil deh now,wi tel yu tanks,kaaz yu di yooz yu powa now,ahn staat fi rool oava di werl !
+66011017	Dehn seh , “ Laad Gaad Almaiti , di Wan weh mi deh fareva , ahn weh stil deh now , wi tel yu tanks , kaaz yu di yooz yu powa now , ahn staat fi rool oava di werl !
 66011018	Di peepl weh da noh yu oan , dehn mi beks op fi chroo . Bot di taim now kohn fi yu shoa dehn dat yoo beks bad wid dehn tu . Di taim now kohn wen yu wahn joj dehn wan weh don ded . Da taim now fi gi aal dehn peepl weh mi serv yu dehn riwaad . Yu wahn riwaad yu prafit dehn , ahn aala yu peepl dehn , ahn dehn wan weh gi yu aana , dehn wan weh smaal , ahn dehn wan weh big . Ahn di taim now kohn fi dischrai dehn wan weh dischrai di werl ! ”
 66011019	Den di doa fi Gaad templ eena hevn oapm op . Ahn eensaid yu kuda mi si di hoali baks weh hoal di agreement weh Gaad mek wid ih peepl . Den Ah si laitnin staat tu flash ahn tonda staat tu roal . Den wahn big ertwayk shayk di ert ahn sohn big haylstoan staat tu jrap .
 66012001	Den op eena di skai Ah si wahn grayt sain weh mi schraynj fi chroo . Da mi wahn uman , ahn di son mi kova ahn jos laik wahn jres . Ahn di moon mi deh anda ih fut . Ih mi-di wayr wahn krong weh ga twelv staar eena it pahn ih hed .
@@ -7873,7 +7873,7 @@
 66018013	Ahn nobadi mi deh fi bai aala dehn ting weh smel sweet laik siniman ahn aintment , insens , mer ahn frankinsens ; dehn wain ahn aliv ail , ahn dehn fain flowa ahn weet ; dehn kow ahn sheep , dehn haas ahn kehrij , ahn slayv—yes , eevn ada hyooman .
 66018014	Dehn wan weh di chrayd wahn tel Babilan seh , “ Aal dehn ting weh yu mi set yu haat pan , dehn don gaan . Aal di fansi laif weh yu mi lov , gaan . Dehn fansi ting weh mek yu luk priti , aala dehn gaan . Yu wahn neva si dehn agen ! ” “ Ih terabl fi chroo fi da siti weh mi soh grayt ahn powaful . Ih yoostu jres op eena fansi linin , ahn perpl ahn brait red kloaz . Ih mi jres op wid goal , ahn juwelri , ahn perlz .
 66018015	Dehn wan weh mi chrayd dehn gudz wid ahn , ahn geh rich , dehn wahn frayd ahn dehn wahn stan op fahn faar di baal ahn moan wen dehn si how di peepl a da siti di sofa .
-66018016	Dehn wahn baal owt seh,“Ih terabl fi chroo fi da siti weh mi soh grayt ahn powaful.Ih yoostu jres op eena fansi linin , ahn perpl ahn brait red kloaz.Ih mi jres op wid goal , ahn juwelri , ahn perlz .
+66018016	Dehn wahn baal owt seh , “ Ih terabl fi chroo fi da siti weh mi soh grayt ahn powaful . Ih yoostu jres op eena fansi linin , ahn perpl ahn brait red kloaz . Ih mi jres op wid goal , ahn juwelri , ahn perlz .
 66018017	Bot now eena jos wan owa aal ih richiz dehn jos gaan ! ” Aal dehn kyaptin ahn aala dehn wan weh chravl pahn dehn ship , wid aala dehn seeman , ahn aala dehn wan weh du bizniz bai see , aala dehn wahn stan fahn faar .
 66018018	Wen dehn si di smoak weh di kohn fahn di faiya weh di bon op da siti , dehn wahn baal owt seh , “ Dis da-mi di graytis siti ! ”
 66018019	Den dehn wahn chroa di dos pahn tap a dehn hed kaa dehn haat hevi . Dehn di baal ahn wayl ahn krai owt seh , “ Wai-ya-yaiy ! Ih terabl , kaa da siti mi grayt ahn powaful . Evribadi weh mi du bizniz bai see mi geh rich fahn fi shee chreja dehn . Bot luk how eena wan singl owa evriting gaan .
@@ -7884,7 +7884,7 @@
 66018024	Eena Babilan , di blod a Gaad prafit dehn ahn di blod a Gaad peepl dehn mi-di ron eena ih schreet . Di blod a aal dehn peepl pahn ert weh dehn don kil mi-di ron tu . ”
 66019001	Wen da aynjel weh ga lata powa mi don , Ah yehr wahn naiz laik wahn lowd showt fahn wahn big , big krowd weh deh eena hevn . Dehn seh , “ Halelooya ! Mek wi prayz Gaad weh sayv wi ! Hihn ga gloari ahn powa moa dahn aal bikaaz ih bilangz tu hihn !
 66019002	Wen hihn joj , hihn joj aanis ahn fyaa ! Ih don joj da loos uman , wid ih loos laif weh mi-di korop di ert wid ih loos livin , ahn Gaad don ponish ahn , kaa shee mi kil dehn wan weh du ih werk . ” “ Halelooya ! Di smoak weh di kohn fahn owta di faiya weh di bon Babilan wahn goh op fareva ahn eva . ”
-66019003	Den Ah yehr di krowd eena hevn showt agen seh,“Halelooya!Di smoak weh di kohn fahn owta di faiya weh di bon Babilan wahn goh op fareva ahn eva . ”
+66019003	Den Ah yehr di krowd eena hevn showt agen seh , “ Halelooya ! Di smoak weh di kohn fahn owta di faiya weh di bon Babilan wahn goh op fareva ahn eva . ”
 66019004	Den di tweni-foa eldaz ahn dehn foa livin kreecha , dehn get dong fronta Gaad , weh sidong pahn di chroan , ahn dehn wership ahn seh , “ Aymen , Halelooya ! ”
 66019005	Den Ah yehr wahn vais kohn fahn di chroan seh , “ Aala unu weh da Gaad servant ahn aala unu weh fyaa hihn , fahn di smaalis wan tu di bigis wan , mek wi aal prayz wi Gaad ! ”
 66019006	Den Ah yehr sohnting laik di lowd showt a wahn big krowd , laik wen lata waata di ron faas ahn laik wen tonda di roar lowd . Di vais dehn di seh , “ Halelooya ! Di Laad wi Gaad Almaiti , da hihn di rool az king !
