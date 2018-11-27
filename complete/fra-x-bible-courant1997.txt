@@ -80,7 +80,7 @@
 40004004	Jésus répondit : « L’Écriture déclare : “ L’homme ne vivra pas de pain seulement , mais de toute parole que Dieu prononce . ” »
 40004005	Alors le diable l’emmena jusqu’à Jérusalem , la ville sainte , le plaça au sommet du temple
 40004006	et lui dit : « Si tu es le Fils de Dieu , jette-toi en bas ; car l’Écriture déclare : “ Dieu donnera pour toi des ordres à ses anges et ils te porteront sur leurs mains pour éviter que ton pied ne heurte une pierre . ” »
-40004007	Jésus lui répondit : "L'Écriture déclare aussi : Ne mets pas à l'épreuve le Seigneur ton Dieu .
+40004007	Jésus lui répondit : " L'Écriture déclare aussi : Ne mets pas à l'épreuve le Seigneur ton Dieu .
 40004008	Le diable l’emmena encore sur une très haute montagne , lui fit voir tous les royaumes du monde et leur splendeur ,
 40004009	et lui dit : « Je te donnerai tout cela , si tu te mets à genoux devant moi pour m’adorer . »
 40004010	Alors Jésus lui dit : « Va-t’en , Satan ! Car l’Écriture déclare : “ Adore le Seigneur ton Dieu et ne rends de culte qu’à lui seul . ” »
@@ -90,7 +90,7 @@
 40004014	Il en fut ainsi afin que se réalisent ces paroles du prophète Ésaïe :
 40004015	« Région de Zabulon , région de Neftali , en direction de la mer , de l’autre côté du Jourdain , Galilée qu’habitent des non-Juifs !
 40004016	Le peuple qui vit dans la nuit verra une grande lumière ! Pour ceux qui vivent dans le sombre pays de la mort , la lumière apparaîtra ! »
-40004017	Dès ce moment , Jésus se mit à prêcher : Changez de comportement,disait-il , car le Royaume des cieux s’est approché !
+40004017	Dès ce moment , Jésus se mit à prêcher : Changez de comportement , disait-il , car le Royaume des cieux s’est approché !
 40004018	Jésus marchait le long du lac de Galilée , lorsqu’il vit deux frères qui étaient pêcheurs , Simon , surnommé Pierre , et son frère André ; ils pêchaient en jetant un filet dans le lac .
 40004019	Jésus leur dit : « Venez avec moi et je ferai de vous des pêcheurs d’hommes . »
 40004020	Aussitôt , ils laissèrent leurs filets et le suivirent .
@@ -6877,7 +6877,7 @@
 58003015	Ainsi , il est dit : « Si vous entendez la voix de Dieu aujourd’hui , ne refusez pas de comprendre , comme lorsque vous vous êtes révoltés contre lui . »
 58003016	Or , quels sont ceux qui ont entendu la voix de Dieu et se sont révoltés contre lui ? Ce sont tous ceux que Moïse a conduits hors d’Égypte .
 58003017	Contre qui Dieu a-t-il été en colère pendant quarante ans ? Contre ceux qui avaient péché , et qui moururent dans le désert .
-58003018	Quand Dieu a fait ce serment : « Ils n’entreront jamais dans le pays où je leur ai préparé le repos », de qui parlait-il ? Il parlait de ceux qui s’étaient révoltés .
+58003018	Quand Dieu a fait ce serment : « Ils n’entreront jamais dans le pays où je leur ai préparé le repos » , de qui parlait-il ? Il parlait de ceux qui s’étaient révoltés .
 58003019	Nous voyons , en effet , qu’ils n’ont pas pu entrer dans ce lieu de repos parce qu’ils avaient refusé de croire .
 58004001	Dieu nous a laissé la promesse que nous pourrons entrer dans le repos qu’il nous a préparé . Prenons donc bien garde que personne parmi vous ne se trouve avoir manqué l’occasion d’y entrer .
 58004002	Car nous avons reçu la Parole de Dieu tout comme ceux qui étaient dans le désert . Or , ils ont entendu ce message sans aucun profit , car lorsqu’ils l’entendirent ils ne le reçurent pas avec foi .
