@@ -1020,7 +1020,7 @@
 01034028	leur menu bétail , leur gros bétail , leurs ânes , ce qu'ils avaient à la ville , ce qu'ils avaient aux champs , ils le ravirent .
 01034029	Tous leurs biens , tous leurs enfants et leurs femmes , ils les emmenèrent et les dépouillèrent , avec tout ce qui était dans les maisons .
 01034030	Jacob dit à Siméon et à Lévi : " Vous m'avez rendu malheureux en me mettant en mauvaise odeur chez les habitants du pays , le Cananéen et le Phérézéen ; moi , je suis une poignée d'hommes , ils se réuniront contre moi et me frapperont et je serai exterminé avec ma famille . "
-01034031	Ils répondirent : " Devait-on traiter notre sœur comme une prostituée ?"
+01034031	Ils répondirent : " Devait-on traiter notre sœur comme une prostituée ? "
 01035001	Le Seigneur dit à Jacob : " Va , monte à Béthel et y séjourne ; et élèves-y un autel au Dieu qui t’apparut , lorsque tu fuyais devant Ésaü ton frère . "
 01035002	Jacob dit à sa famille et à tous ses gens : " Faites disparaître les dieux étrangers qui sont au milieu de vous ; purifiez vous et changez de vêtements .
 01035003	Disposons-nous à monter à Béthel ; j'y érigerai un autel au Dieu qui m'exauça à l'époque de ma détresse et qui fut avec moi sur la route où je marchais . "
@@ -1876,7 +1876,7 @@
 02012048	Si un étranger , habite avec toi et veut célébrer la pâque du Seigneur , que tout mâle qui lui appartient soit circoncis , il sera alors admis à la célébrer et deviendra l'égal de l'indigène ; mais nul incirconcis n'en mangera .
 02012049	Une seule et même loi régira l'indigène et l'étranger demeurant au milieu de vous . "
 02012050	Tous les Israélites obéirent : comme l'Éternel l'avait prescrit à Moïse et à Aaron , ainsi firent-ils .
-02012051	Or , ce fut ce jour-là même que l ’ Éternel fit sortir les Israélites du pays d'Égypte , selon leurs légions .
+02012051	Or , ce fut ce jour-là même que l’Éternel fit sortir les Israélites du pays d'Égypte , selon leurs légions .
 02013001	L'Éternel parla à Moïse en ces termes :
 02013002	" Consacre-moi tout premier-né , toutes prémices des entrailles parmi les enfants d'Israël , soit homme , soit animal : c'est mon bien . "
 02013003	Et Moïse dit au peuple : " Qu'on se souvienne de ce jour où vous êtes sortis de l'Égypte , de la maison de servitude , alors que , par la puissance de son bras , l'Éternel vous a fait sortir d'ici et que l'on ne mange point de pain levé .
@@ -1995,7 +1995,7 @@
 02016036	Quant à l'ômer , c'est la dixième partie de l'êpha .
 02017001	Toute la communauté des enfants d'Israël partit du désert de Sîn pour diverses stations , sur l'ordre du Seigneur . Ils campèrent à Refidîm , où il n'y avait point d'eau à boire pour le peuple .
 02017002	Le peuple querella Moïse , en disant : " Donnez-nous de l'eau , que nous buvions ! " Moïse leur répondit : " Pourquoi me cherchez-vous querelle ? pourquoi tentez-vous le Seigneur ? "
-02017003	Le peuple querella Moïse , en disant : " Donnez-nous de l’eau , que nous buvions !" Moïse leur répondit : " Pourquoi me cherchez-vous querelle ? pourquoi tentez-vous le Seigneur ?"
+02017003	Le peuple querella Moïse , en disant : " Donnez-nous de l’eau , que nous buvions ! " Moïse leur répondit : " Pourquoi me cherchez-vous querelle ? pourquoi tentez-vous le Seigneur ? "
 02017004	Moïse se plaignit au Seigneur , en disant : " Que ferai-je pour ce peuple ? Peu s'en faut qu'ils ne me lapident "
 02017005	Le Seigneur répondit à Moïse : " Avanc-toi à la tête du peuple , accompagné de quelques-uns des anciens d'Israël ; cette verge , dont tu as frappé le fleuve , prends-la en main et marche .
 02017006	Je vais t'apparaître là-bas sur le rocher , au mont Horeb ; tu frapperas ce rocher et il en jaillira de l'eau et le peuple boira . " Ainsi fit Moïse , à la vue des anciens d'Israël .
