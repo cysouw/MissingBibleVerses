@@ -2269,7 +2269,7 @@
 42011004	pardonne-nous nos péchés , car nous aussi , nous remettons sa dette à quiconque nous doit quelque chose ; et ne nous fais pas entrer dans l’épreuve .
 42011005	Il leur dit encore : Qui d’entre vous aura un ami chez qui il se rendra au milieu de la nuit pour lui dire : « Mon ami , prête–moi trois pains ,
 42011006	car un de mes amis est arrivé de voyage chez moi , et je n’ai rien à lui offrir . »
-42011007	Si , de l’intérieur , l’autre lui répond : « Cesse de m’importuner ; la porte est déjà fermée , mes enfants et moi nous sommes au lit , je ne peux me lever pour te donner des pains »,
+42011007	Si , de l’intérieur , l’autre lui répond : « Cesse de m’importuner ; la porte est déjà fermée , mes enfants et moi nous sommes au lit , je ne peux me lever pour te donner des pains » ,
 42011008	— je vous le dis , même s’il ne se lève pas pour les lui donner parce qu’il est son ami , il se lèvera à cause de son insistance effrontée et il lui donnera tout ce dont il a besoin .
 42011009	Eh bien , moi , je vous dis : Demandez , et l’on vous donnera ; cherchez , et vous trouverez ; frappez , et l’on vous ouvrira .
 42011010	Car quiconque demande reçoit , qui cherche trouve , et à qui frappe on ouvrira .
@@ -3700,7 +3700,7 @@
 43019018	C’est là qu’ils le crucifièrent , et avec lui deux autres , un de chaque côté et Jésus au milieu .
 43019019	Pilate fit aussi un écriteau qu’il plaça sur la croix . Il y était inscrit : « Jésus le Nazoréen , le roi des Juifs . »
 43019020	Beaucoup de Juifs lurent cet écriteau , parce que le lieu où Jésus fut crucifié était proche de la ville ; l’inscription était en hébreu , en latin et en grec .
-43019021	Les grands prêtres des Juifs dirent à Pilate : N’écris pas : « Le roi des Juifs », mais : « Celui–là a dit : Je suis le roi des Juifs . »
+43019021	Les grands prêtres des Juifs dirent à Pilate : N’écris pas : « Le roi des Juifs » , mais : « Celui–là a dit : Je suis le roi des Juifs . »
 43019022	Pilate répondit : Ce que j’ai écrit , je l’ai écrit .
 43019023	Les soldats , après avoir crucifié Jésus , prirent ses vêtements et en firent quatre parts , une part pour chaque soldat . Ils prirent aussi sa tunique , qui était sans couture , d’un seul tissu d’en haut jusqu’en bas .
 43019024	Ils se dirent entre eux : Ne la déchirons pas , mais désignons par le sort celui à qui elle appartiendra . C’était pour que soit accomplie l’Ecriture : Ils se sont partagé mes vêtements et ils ont tiré au sort ma robe . Voilà ce que firent les soldats .
@@ -5005,7 +5005,7 @@
 45008036	Ainsi qu’il est écrit : A cause de toi , on nous met à mort constamment . On nous considère comme des moutons qu’on égorge .
 45008037	Mais dans toutes ces choses , nous sommes plus que vainqueurs par celui qui nous a aimés .
 45008038	Car je suis persuadé que ni mort , ni vie , ni anges , ni principats , ni présent , ni avenir , ni puissances ,
-45008039	ni hauteur , ni profondeur , ni aucune autre création ne pourra nous séparer de l'amour de Dieu en Jésus-Christ , notre Seigneur .
+45008039	ni hauteur , ni profondeur , ni aucune autre création ne pourra nous séparer de l’amour de Dieu en Jésus-Christ , notre Seigneur .
 45009001	Je dis la vérité dans le Christ , je ne mens pas , ma conscience m’en rend témoignage par l’Esprit saint :
 45009002	j’ai une grande tristesse et un tourment continuel dans le cœur .
 45009003	Car je souhaiterais être moi-même anathème , séparé du Christ , pour mes frères , les gens de ma parenté selon la chair ,
@@ -6857,7 +6857,7 @@
 58003010	pendant quarante ans . C’est pourquoi je fus indigné contre cette génération et je dis : Leur cœur s’égare toujours , et ils ne connaissent pas mes voies .
 58003011	J’ai donc juré dans ma colère : En aucun cas ils n’entreront dans mon repos ! Aujourd’hui , si vous entendez sa voix , ne vous obstinez pas , comme lors de la révolte .
 58003012	Prenez donc garde , frères , que personne parmi vous n’ait un cœur mauvais qui manque de foi et s’éloigne du Dieu vivant .
-58003013	Au contraire , encouragez–vous mutuellement chaque jour , aussi longtemps qu’on peut dire « Aujourd’hui », pour qu’aucun de vous ne s’obstine à cause de l’attrait trompeur du péché .
+58003013	Au contraire , encouragez–vous mutuellement chaque jour , aussi longtemps qu’on peut dire « Aujourd’hui » , pour qu’aucun de vous ne s’obstine à cause de l’attrait trompeur du péché .
 58003014	Car nous avons part au Christ , si du moins nous restons fermement attachés , jusqu’à la fin , à la réalité du commencement ,
 58003015	
 58003016	Qui , en effet , provoqua l’amertume après avoir entendu ? N’est–ce pas tous ceux qui étaient sortis d’Égypte sous la conduite de Moïse ?
@@ -6954,7 +6954,7 @@
 58008010	Or voici l’alliance que j’établirai avec la maison d’Israël après ces jours-là , dit le Seigneur : je mettrai mes lois dans leur intelligence , je les inscrirai dans leur cœur ; je serai leur Dieu , et ils seront mon peuple .
 58008011	Personne n’instruira plus jamais son concitoyen , ni personne son frère , en disant : « Connais le Seigneur ! » En effet , tous me connaîtront , depuis le plus petit jusqu’au plus grand d’entre eux .
 58008012	Car je leur ferai grâce de leurs injustices , et je ne me souviendrai plus jamais de leurs péchés .
-58008013	En l’appelant « nouvelle », il a rendu ancienne la première . Or ce qui est ancien et vieilli est en passe de disparaître .
+58008013	En l’appelant « nouvelle » , il a rendu ancienne la première . Or ce qui est ancien et vieilli est en passe de disparaître .
 58009001	La première alliance avait , elle aussi , ses ordonnances relatives au culte et son sanctuaire terrestre .
 58009002	En effet , une première tente avait été installée , qu’on appelle le Sacré , où se trouvaient le porte-lampes , la table et les pains offerts .
 58009003	Puis , derrière le second voile , se trouvait la tente appelée le Très-Sacré .
