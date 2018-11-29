@@ -212,7 +212,7 @@
 40007029	esepia , nda'ei Moisés porokwaita rese oporombo'e va'e nungar ; a'e rumo oporombo'e gweko pirätäsa pɨpe ite .
 40008001	Ɨvɨtrɨ sui ogweyɨse Jesús ou , a'ese ava re'ɨi yuvɨrekoi supi .
 40008002	A'ese ñepëi ava mba'erasɨ vai ndokwerai va'e rerekosar ou , oñenopɨ'ä sovai aipo e'i chupe : — Che Yar ereipotase , che mbogwerami tëi eve ko mba'erasɨsa sui .
-40008003	Jesús opoko sese , aipo e'i chupe : — Aipota . ¡ Erekwerara kurïtëi!Aipo i'e ramoseve , mba'erasɨ vai rerekosar okwera voi ete omba'erasɨsa sui .
+40008003	Jesús opoko sese , aipo e'i chupe : — Aipota . ¡ Erekwerara kurïtëi ! Aipo i'e ramoseve , mba'erasɨ vai rerekosar okwera voi ete omba'erasɨsa sui .
 40008004	Jesús aipo e'i iri chupe : — Esendu , eremombe'ui rene ambuae ava upe . Eso eiko eyemboyekwa pa'i upe , ipare eikwave'ë nde porerekosa nde kwera agwer resendar Moisés porokwaita rupi , ipɨpe sui toikwa pa'i eta nde kwerasa yuvɨreko .
 40008005	Oyepotase Jesús oso tekwa Cafarnaúm ve , ñepëi sundao mborerekwar Roma pendar oyemboya oso sese oporandu va'erä .
 40008006	Aipo e'i chupe : — Che Yar , che rembigwai imba'easɨ gwasu ou che rëtäve , ndogwata katui , iyavei oiporara tëi omba'erasɨsa ou .
@@ -235,7 +235,7 @@
 40008023	Jesús o'a ɨarusu pɨpe , iyavei semimbo'e eta yuvɨraso supi .
 40008024	A'ese avɨyeteramo tëi ɨvɨtuai opü'a ɨpa pɨpe ɨ o'ɨtu va'e ndigwayɨi ete seni-seni ɨarusu oyopɨ . Jesús rumo aipo okeño ou .
 40008025	Evokoiyase semimbo'e eta yuvɨraso imoma'e aipo e'i yuvɨreko : — ¡ Ore Yar , yande pɨsɨrö eve ! ¡ Yande rerasora moko ɨarusu ɨpɨve !
-40008026	A'e rumo omboyevɨ gwemimbo'e upe : — ¿ Ma'erä vo pesɨkɨye eteprɨ ? ¡ Ndapeyeroyai ete vo Tüpä rese!Oñarapü'a pare rumo Jesús oñe'ë pirätä ɨtu gwasu upe ɨvɨtuai upe aveino , ipare voi ete opa tuprɨ opɨtu'u .
+40008026	A'e rumo omboyevɨ gwemimbo'e upe : — ¿ Ma'erä vo pesɨkɨye eteprɨ ? ¡ Ndapeyeroyai ete vo Tüpä rese ! Oñarapü'a pare rumo Jesús oñe'ë pirätä ɨtu gwasu upe ɨvɨtuai upe aveino , ipare voi ete opa tuprɨ opɨtu'u .
 40008027	A'e evokoiyase , ndoyembovɨ'ai tëi , oporandu oyeupe yuvɨreko : — ¿ Uma pi'ä ko sekoi , ɨvɨtu paragwasu avei omboyeroya yuvɨreko no ?
 40008028	Jesús oyepotase ɨpa rovai oso , a'e ɨvɨ Gadara pendar rese , ñuvɨrïo karugwar vɨreko va'e yuvɨnosë te'ögwer ruvɨpa rupi sui ipare oyemboya yuvɨraso sese . A'e ndiporomboetei va'e ndipoi ete aipo ogwata va'e , a'e perɨ rupi yuvɨreko yepi ;
 40008029	ipare säse pirätä yuvɨreko : — ¡ Tüpä Ra'ɨrɨ , eyepepɨ ore sui ! ¿ Nde ereyu ko'ave ore mombaraɨsu tëi agwä ndoyepota vɨtei rumo arɨ ndeu ?
@@ -677,8 +677,8 @@
 40020018	— Peyapɨsaka tuprɨ che ñe'ë rese , yasora tekwa Jerusalén ve , a'eve che ava ɨvate katu va'e Ra'ɨrɨ imondosara pa'i eta rerekwar upe iyavei Moisés porokwaita rese oporombo'e va'e , omondora tekoasɨsave yuka uka agwä yuvɨreko
 40020019	ipare omondora ambuae ava tekwa pendar tëi upe yuvɨreko , mborerekwa eta Roma pendar upe a'e vɨroɨröra , yuvɨrokwa-rokwara sese ipare oyatɨkara kurusu rese yuvɨreko ; imombosapɨsa arɨ pɨpe rumo okwerayevɨra .
 40020020	Ipare Zebedeo rembireko ñuvɨrïo omembrɨ reseve , oyemboya Jesús rese yuvɨreko ichui oñenopɨ'ä sovai oporandu agwä mba'e rese .
-40020021	Jesús oporandu chupe : — ¿ Mba'e vo ereipota?A'e kuña evokoiyase aipo e'i chupe : — Emondo che membrɨ ndeyepɨri ogwapɨ va'erä ñepëi nde mba'e rese pokosa kotɨ , ambuae nde mba'e rese pokoe'ɨ̇sa kotɨ nde mborerekwasave .
-40020022	Jesús rumo omboyevɨ chupe : — Pe ndapeikwai mba'e rese peporandu . ¿ Peikatura pi'ä peɨ'u mba'e ɨgwa iroiteanga va'e inungar che aɨ'u va'erä viña?A'e aipo e'i yuvɨreko chupe : — Oroikatuño itera .
+40020021	Jesús oporandu chupe : — ¿ Mba'e vo ereipota ? A'e kuña evokoiyase aipo e'i chupe : — Emondo che membrɨ ndeyepɨri ogwapɨ va'erä ñepëi nde mba'e rese pokosa kotɨ , ambuae nde mba'e rese pokoe'ɨ̇sa kotɨ nde mborerekwasave .
+40020022	Jesús rumo omboyevɨ chupe : — Pe ndapeikwai mba'e rese peporandu . ¿ Peikatura pi'ä peɨ'u mba'e ɨgwa iroiteanga va'e inungar che aɨ'u va'erä viña ? A'e aipo e'i yuvɨreko chupe : — Oroikatuño itera .
 40020023	Jesús rumo omboyevɨ chupe : — Supiete pe peɨ'ura ko ɨgwa iroiteanga va'e , che pɨri opombogwapɨ agwä che mba'e rese pokosa kotɨ , ambuae che mba'e rese pokoe'ɨ̇sa kotɨ avei a'e ndiyai imondo agwä cheu , a'e imondosara Che Ru omoigätu va'e gwembiporavo upe narä ogwapɨ va'erä che ɨpɨve .
 40020024	Aipo ñe'ësa renduse ambuae opayandepo yovaive semimbo'e , oñemoɨrö tëi ñuvɨrïo va'e upe .
 40020025	Evokoiyase Jesús oñe'ë , aipo e'i chupe : — Peikwa ni'ä ava ndiporeroyai va'e , mborerekwar gwasu oporokwai mba'e-mba'e tëi pɨpe vɨreko ava opovrɨve , ava ɨvate katu va'e omboyekwa ite omborerekwasa ava rese .
@@ -706,15 +706,15 @@
 40021013	ipare aipo e'i chupe : — Ikwachiaprɨ araka'endar pɨpe aipo e'i : ‘ Ko che rëtä yeruresa rëtära opakatu ava ɨvɨ pɨpendar uve narä ’ , pe rumo imondarai va'e rëtä nungar tëi pereko .
 40021014	A'eve oyemboya Jesús rese yugweru ava ndasesapɨsoi va'e , ipäri-päri va'e avei , a'e opa ombogwera .
 40021015	Evokoiyase pa'i rerekwareta iyavei Moisés porokwaita rese oporombo'e va'e yuvɨreko osepiase poromondɨisa oyapose , iyavei tüpäro pɨpe osenduse chi'ïvä'e sapukaisa : “ ¡ Imboeteiprɨ mborerekwar David Ra'ɨrɨ tasekoi ! ” , a'ese oñemoɨrö
-40021016	aipo e'i Jesús upe yuvɨreko : — ¿ Eresendu vo chi'ïvä'emi ñe'ë aipo e'ise yuvɨreko?Jesús rumo omboyevɨ chupe : — Asendu ite . ¿ Pe ndapeyerokɨi vo araka'endar Ikwachiaprɨ ñe'ësa resendar pɨpe ? Aipo e'i va'e : ‘ Chi'ïvä'emi sapukaisa rese , iyavei pitanimi okambu vɨte va'e , a'e osapukai nde mboeteisa pɨpe yuvɨreko . ’
+40021016	aipo e'i Jesús upe yuvɨreko : — ¿ Eresendu vo chi'ïvä'emi ñe'ë aipo e'ise yuvɨreko ? Jesús rumo omboyevɨ chupe : — Asendu ite . ¿ Pe ndapeyerokɨi vo araka'endar Ikwachiaprɨ ñe'ësa resendar pɨpe ? Aipo e'i va'e : ‘ Chi'ïvä'emi sapukaisa rese , iyavei pitanimi okambu vɨte va'e , a'e osapukai nde mboeteisa pɨpe yuvɨreko . ’
 40021017	Evokoiyase opaño oseya ava , oso tekwa Betania ve , a'eve ñepëi pɨ̇tü oke .
 40021018	A'ere ayi'ive añi'ïvëive , oyevɨse tekwave , Jesús ndasɨepoi ete oiko .
-40021019	A'eve perɨ popɨve osepia ɨvɨra higuera oyemboya oso sese , so gweraño tëi rumo osepia . Evokoiyase a'e aipo e'i higuera upe : — ¡ Ko pɨpe suive tuprɨ nande'ai chietera!A'e ramose voi higuera opa ipiru .
+40021019	A'eve perɨ popɨve osepia ɨvɨra higuera oyemboya oso sese , so gweraño tëi rumo osepia . Evokoiyase a'e aipo e'i higuera upe : — ¡ Ko pɨpe suive tuprɨ nande'ai chietera ! A'e ramose voi higuera opa ipiru .
 40021020	A'e mba'e repiase , semimbo'e eta oyepɨ'amondɨi tëi ipare oporandu Jesús upe yuvɨreko : — ¿ Marä e'i rutei vo higuera kurïtëi opa voi ipiru ?
 40021021	Jesús rumo omboyevɨ chupe : — Supiete aipo a'e peü perekose yeroyasa Tüpä rese , iyavei ndaperekoi chietera poreroya e'ɨ̇sa , a'ese nda'ei ko mba'e gweraño peyapora inungar che ayapo va'e higuera rese , ko ɨvɨtrɨ upe avei aipo peyese : ‘ Esɨrɨ ave sui evɨapɨ eso paragwasu pɨpe ’ , egwë e'i etera mba'e yavɨye koiye .
 40021022	Akoi peyerurese mba'e pe porandusa rese Tüpä upe seroyasa pɨpe , a'ese peipɨsɨra mba'e avɨye va'e .
 40021023	Ichui Jesús oike iri oso tüpäro pɨpe oporombo'e . A'ese pa'i eta rerekwar , judío rerekwar avei oyemboya sese , oporandu yuvɨreko chupe : — ¿ Ava nde kwaita pɨpe vo ereyapo ko nungar eiko ? ¿ Ava vo ombou nde mborerekwarä ndeu ?
-40021024	Jesús rumo omboyevɨ chupe:–Che avei aporandura mba'e rese peü : ¿ Ava vo Juan ombou ava apirämo agwä , Tüpä pi'ä ava tëi tie ? Pemboyevɨse che porandusa , a'ese che avei amombe'ura ava porokwaita rupi ete pi'ä ayapo ko mba'e vichiko.Omboɨpɨ oñemoñeta aipo e'i oyeupe yuvɨreko : “ Yamboyevɨse chupe Tüpä ombou ya'ese , a'e omboyevɨra yandeu : ‘ Evokoiyase , ¿ ma'erä ru ndaperoyai ? ’
+40021024	Jesús rumo omboyevɨ chupe : – Che avei aporandura mba'e rese peü : ¿ Ava vo Juan ombou ava apirämo agwä , Tüpä pi'ä ava tëi tie ? Pemboyevɨse che porandusa , a'ese che avei amombe'ura ava porokwaita rupi ete pi'ä ayapo ko mba'e vichiko . Omboɨpɨ oñemoñeta aipo e'i oyeupe yuvɨreko : “ Yamboyevɨse chupe Tüpä ombou ya'ese , a'e omboyevɨra yandeu : ‘ Evokoiyase , ¿ ma'erä ru ndaperoyai ? ’
 40021025	
 40021026	Iyavei ndiyai aipo ya'e chupe ava tëi remimbou , esepia kurïtëi yasɨkɨye ite ava sui , opakatu ite vɨroya yuvɨreko Juan Tüpä ñe'ë mombe'usar sekoise . ”
 40021027	Aipo e'i imboyevɨ yuvɨreko Jesús upe : — Ndoroikwai ete . Evokoiyase Jesús omboyevɨ chupe : — Evokoiyase che avei a'e iporokwaita pɨpe ko mba'e ayapo nda'ei chietera peü .
@@ -778,7 +778,7 @@
 40022039	Oime ñepëi imoñuvɨrïosa , ko inungar tuprɨ avei ; aipo e'i : ‘ Eresaɨsura ambuae ava nde yeaɨsu nungar . ’
 40022040	Ko ñuvɨrïo porokwaita rupi ogwata opakatu Moisés porokwaita ikwachiaprɨ opakatu Tüpä ñe'ë mombe'usar rembikwachia avei .
 40022041	Fariseo eta oñemonu'ä vɨteseve yugweru ,
-40022042	a'ese Jesús aipo e'i oporandu chupe : — ¿ Marä e'i pepɨ'añemoñeta ko Poropɨsɨrösar rese ? ¿ Ava suindar pi'ä ou?A'e omboyevɨ yuvɨreko chupe : — A'e ni'ä David suindar sekoi .
+40022042	a'ese Jesús aipo e'i oporandu chupe : — ¿ Marä e'i pepɨ'añemoñeta ko Poropɨsɨrösar rese ? ¿ Ava suindar pi'ä ou ? A'e omboyevɨ yuvɨreko chupe : — A'e ni'ä David suindar sekoi .
 40022043	Evokoiyase Jesús aipo e'i chupe : — ¿ Ma'erä pi'ä evokoiyase David oñe'ëse Espíritu pirätäsa pɨpe araka'e , che Yar e'i chupe ? Esepia David aipo e'i :
 40022044	‘ Yar aipo e'i che Yar upe : Egwapɨ che akato kotɨ , akoi che amondose voi ete nde amotare'ɨ̇mbarnde povrɨve yuvɨreko . ’
 40022045	¿ Ma'erä ru Poropɨsɨrösar David suindar sekoi peye , David teiete ni'ä che Yar e'i chupe ?
@@ -933,7 +933,7 @@
 40026012	Ko kuña , oipɨyere mba'e sɨäkwä va'e che retekwer rese , a'e omoigätu voi ete che tɨ̇ agwä renondeve .
 40026013	Supiete aipo a'e peü ko ñe'ësa pɨsɨrösa resendar mombe'use opakatu tekwa rupi , imombe'usa aveira ko kuña rembiapo agwer , iyavei yemoma'endu'asara sese yepi .
 40026014	Ñepëi semimbo'e opayandepo yovaive ñuvɨrïo pa'ü pendar , a'e serer va'e Judas Iscariote , oso oñe'ë pa'i eta rerekwar upe .
-40026015	Aipo e'i chupe : — ¿ Mbovɨ pi'ä pemboepɨra cheu , amondose Jesús peü viña?A'e evokoiyase omondo treinta gwarepochi yuvɨreko chupe .
+40026015	Aipo e'i chupe : — ¿ Mbovɨ pi'ä pemboepɨra cheu , amondose Jesús peü viña ? A'e evokoiyase omondo treinta gwarepochi yuvɨreko chupe .
 40026016	Ipare evokoiyase Judas oseka tëi Jesús mondo agwä yamotare'ɨ̇mbar upe .
 40026017	Yɨpɨndar arɨ pieta resendar mboyape ndayapepoi va'e usa pɨpe , Jesús remimbo'e oyemboya yuvɨraso sese , ipare oporandu yuvɨreko chupe : — ¿ Kevo ereipota oromoigätu karusa Pascua resendar yandeu ?
 40026018	Jesús omboyevɨ gwemimbo'e upe : — Peso tekwa gwasuve , Chekwa va'e rëtäve , iyavei aipo peyera chupe : ‘ Porombo'esar aipo e'i : köimi che mano agwä , sese ayapo potami sëtäve Pascua pieta che remimbo'e reseve e'i ndeu . ’
@@ -967,7 +967,7 @@
 40026046	Pepü'apa yaso ; köimi ete che amotare'ɨ̇sar upe che mondo va'erä sekoi .
 40026047	Jesús ñe'ë vɨteseve , Judas oyepota oso chupe , a'e ñepëi semimbo'e opayandepo yovaive ñuvɨrïo pa'ü pendar , iyavei seta iteanga ava yugweru kɨse puku , ɨvɨra reseve-seve supi . A'e pa'i eta rerekwar yuvɨrekoi va'e judío rerekwar porokwaita rupi oyapo yuvɨreko .
 40026048	A'ese Judas , imondosar aipo e'i : “ Akoi che asovaupɨte va'e , a'ese peikwara ; a'e peipɨsɨra . ”
-40026049	Oyemboya Jesús rese oso , aipo e'i chupe : — ¡ Avɨrave , Porombo'esar!Ichui osovaupɨte .
+40026049	Oyemboya Jesús rese oso , aipo e'i chupe : — ¡ Avɨrave , Porombo'esar ! Ichui osovaupɨte .
 40026050	Jesús omboyevɨ chupe : — Che mborɨpar , eyapoño mba'e nde remimbotar rupi cheu . Evokoiyase ambuae oyemboya sese , a'ese oipɨsɨ Jesús yuvɨreko .
 40026051	A'ese ñepëi sekoi va'e Jesús rupi , vɨnose okɨse puku , oyasɨa pa'i rerekwar ɨvate katu va'e rembigwai nambi .
 40026052	Jesús aipo e'i chupe : — Eyapokatu nde kɨse puku sɨru pɨpe . Esepia akoi ava opakatu ovava va'e kɨse puku pɨpe , ipɨpe avei opara yukasa yuvɨreko .
@@ -984,7 +984,7 @@
 40026063	Jesús rumo noñe'ëi ete o'ä . Pa'i eta rerekwar ɨvate katu va'e aipo e'i chupe : — Tüpä oikove va'e rer pɨpe emombe'u supiete va'e mba'e . Nde ite vo ereiko Poropɨsɨrösar , Tüpä Ra'ɨrɨ .
 40026064	Jesús aipo e'i imboyevɨ chupe : — Nde ni'ä aipo ere cheu . Ko katu amombe'ura peü , che repiara ni'ä peye che , ava ɨvate katu va'e Ra'ɨrɨ , agwapɨse Tüpä mba'e mboavaisare'ɨ̇ akato kotɨ , ayevɨse avei ɨva kɨ'a rese kuri .
 40026065	Evokoiyase pa'i rerekwar ɨvate katu va'e imboasɨpave omondoro oturukwar , aipo e'i : — ¡ Ko mbɨa oñe'ë tëiete Tüpä rese ! ¿ Mba'e iri vo yaipota vɨte yaiko ? Pesendupa ni'ä aipo iñe'ë-ñe'ë tëisa kurïtëi ;
-40026066	¿ marä e'i aipo pe pɨ'ave?A'e rumo aipo e'i yuvɨreko : — Supiete oyavɨ mba'e , tomanoño ite .
+40026066	¿ marä e'i aipo pe pɨ'ave ? A'e rumo aipo e'i yuvɨreko : — Supiete oyavɨ mba'e , tomanoño ite .
 40026067	A'ese ondɨvɨ-ndɨvɨ sova rese yuvɨrokwa-rokwa avei sese yuvɨreko . Ambuae evokoiyase osovapete-pete yuvɨreko no ,
 40026068	aipo e'i yuvɨreko chupe : — Nde ni'ä aipo ereiko Poropɨsɨrösar , ¡ eikwa ite ru , ava evokoi okwa nde rese !
 40026069	Pedro , evokoiyase ogwapɨ särö okarve ñachimbrɨ pɨpe öi . A'eve oyemboya kuña ñepëi mbigwai oso sese aipo e'i chupe : — Nde avei akoi eregwata eiko , Jesús Galilea pendar rupi .
@@ -992,7 +992,7 @@
 40026071	Ichui oso okendɨpɨve , a'eve oma'e ambuae kuña sese aipo e'i ambuae ava yuvɨrekoi va'e upe : — Ko avei ni'ä ogwata Jesús Nazaret pendar rupi .
 40026072	Evokoiyase Pedro aipo e'i iri avei , ndopombopai ete : — ¡ Ndaikwai va'e evokoi mbɨa !
 40026073	Ipare koiye katu , yuvɨrekoi va'e a'eve oyemboya Pedro rese aipo e'i yuvɨreko chupe : — Nde avei akoi ereiko ipa'ü pendar . Esepia nde ñe'ë rese ikwasaño ite .
-40026074	Evokoiyase Pedro aipo e'i , ndopombopai ete : ¡ Ndaikwai ete aipo a'e mbɨa!Aipo i'eseve ñepëi takura oñe'ë ,
+40026074	Evokoiyase Pedro aipo e'i , ndopombopai ete : ¡ Ndaikwai ete aipo a'e mbɨa ! Aipo i'eseve ñepëi takura oñe'ë ,
 40026075	ipare Pedro oyemoma'endu'a Jesús ñe'ë agwer rese : “ Akoi takura ñe'ë renondeve mbosapɨ yupagwer rupi , ndaikwai va'e ite aipo mbɨa erera cheu . ” Ichui Pedro osë okarve oso , oyase'o iteanga .
 40027001	Ko'ë ramose , opakatu pa'i eta rerekwar iyavei judío rerekwar oñemonu'ä atɨ oyemboyoya gwasu Jesús tayukasa ite oyapave yuvɨreko .
 40027002	Ipare oipokwa-pokwa seraso yuvɨreko mborerekwar ɨvate katu va'e Pilato Roma pendar rovai .
@@ -1014,9 +1014,9 @@
 40027018	Esepia oikwaño ite ava rese yemoekate'ɨ̇sa pɨpe sui imondoprɨ sekoise .
 40027019	Pilato gwendave chini vɨteseve , sembireko omondo oñe'ë chupe aipo e'i : “ Ereyapoi rene mba'e evokoi ava seko katuprɨ va'e upe , esepia che kerve asepia mba'e tëiete sesendar . ”
 40027020	Evokoiyase pa'i eta rerekwar iyavei judío rerekwareta rumo ava re'ɨi omongere'ɨ̇ , Barrabás tosë ; Jesús tomano eagwä yuvɨreko .
-40027021	Mborerekwar gwasu rumo oporandu iri ava re'ɨi upe aipo e'i : — ¿ Uma vo peipota ko ñuvɨrïo yuvɨrekoi va'e sui amose va'erä peü?A'e aipo e'i yuvɨreko chupe : — ¡ Barrabás tosë !
-40027022	Pilato oporandu iri aipo e'i : — ¿ Mba'e vo evokoiyase che ayapora Jesús rese , Poropɨsɨrösar e'i va'e yuvɨreko chupe?A'e opakatu omboyevɨ yuvɨreko chupe : — ¡ Tayatɨkasa kurusu rese !
-40027023	Pilato aipo e'i ava re'ɨi upe : — Pemombe'u ¿ mba'e ite vo oyapo ko mbɨa mba'e naporäi va'e?Ava re'ɨi rumo säse atɨño yuvɨreko chupe . — ¡ Tayatɨkasa ite kurusu rese !
+40027021	Mborerekwar gwasu rumo oporandu iri ava re'ɨi upe aipo e'i : — ¿ Uma vo peipota ko ñuvɨrïo yuvɨrekoi va'e sui amose va'erä peü ? A'e aipo e'i yuvɨreko chupe : — ¡ Barrabás tosë !
+40027022	Pilato oporandu iri aipo e'i : — ¿ Mba'e vo evokoiyase che ayapora Jesús rese , Poropɨsɨrösar e'i va'e yuvɨreko chupe ? A'e opakatu omboyevɨ yuvɨreko chupe : — ¡ Tayatɨkasa kurusu rese !
+40027023	Pilato aipo e'i ava re'ɨi upe : — Pemombe'u ¿ mba'e ite vo oyapo ko mbɨa mba'e naporäi va'e ? Ava re'ɨi rumo säse atɨño yuvɨreko chupe . — ¡ Tayatɨkasa ite kurusu rese !
 40027024	Pilato osepiase mba'e noigätuise , esepia ni'ä ava re'ɨi yaɨvu gwasu katu-katu irise , gweru uka ɨ , ɨpɨpe oyepoi opakatu ava re'ɨi rovake aipo e'i : — Nda'ei che porokwaita rupi yukasara ko mbɨa ; pe remimbotar rupi ete yaposara .
 40027025	A'ese opakatu ava re'ɨi omboyevɨ yuvɨreko chupe : — ¡ Ore iyavei ore ra'ɨreta reseve ore añekora evokoi mbɨa mano agwer rese !
 40027026	Evokoiyase Pilato omose uka Barrabás ; ipare omondo Jesús inupa uka agwä ichui omondo kurusu rese yatɨkapɨrä .
@@ -1156,7 +1156,7 @@
 41003001	Jesús oike iri oɨ judío ñemonu'äsave , a'eve oime mbɨa ipo ko kotɨgwer novɨi va'e .
 41003002	A'eve fariseo omaegätu Jesús rese yuvɨreko ombogwerara pi'ä mbɨtu'usa arɨ pɨpe , yaiñe'ëngapo anga'u oyapave tëi .
 41003003	Evokoiyase Jesús aipo e'i ko mbɨa ipo novɨi va'e upe : — Epü'a mbɨterve e'ä .
-41003004	Ipare oporandu ambuae eta upe : — ¿ Mba'e vo yaposara mbɨtu'usa arɨ pɨpe yepi : mba'e avɨye va'e pi'ä , mba'e naporäi va'e tie ? ¿ Yaipɨsɨröra pi'ä ava rekokwer , anise yamokañɨ uka tëira tie?A'e rumo opaño ikiriri tuprɨ yuvɨreko .
+41003004	Ipare oporandu ambuae eta upe : — ¿ Mba'e vo yaposara mbɨtu'usa arɨ pɨpe yepi : mba'e avɨye va'e pi'ä , mba'e naporäi va'e tie ? ¿ Yaipɨsɨröra pi'ä ava rekokwer , anise yamokañɨ uka tëira tie ? A'e rumo opaño ikiriri tuprɨ yuvɨreko .
 41003005	Evokoiyase Jesús oma'e ava oyese oyere tuprɨ va'e rese vorɨe'ɨ̇save , iyavei ndovɨ'ai ava ndosendukwa katuise yuvɨreko , sese aipo e'i imba'easɨ va'e upe : — Eicho'o nde yɨva . Evokoiyase oicho'o oyɨva , okwera tuprɨ ite .
 41003006	A'ese fariseo opa yuvɨnosë yuvɨraso , oyemoigätu Herodes rupindar rese Jesús yuka agwä yuvɨreko .
 41003007	Ipare Jesús , yuvɨraso gwemimbo'e reseve ɨpa popɨ rupi , ava re'ɨi avei ɨvɨ Galilea rupindar yuvɨraso supi .
@@ -1226,7 +1226,7 @@
 41004036	Evokoiyase oseya ava yuvɨreko , ipare vɨraso Jesús ɨarusu pɨpe ; ambuae ɨarusu pɨpendar avei yuvɨraso supi .
 41004037	Oyepotase rumo ɨvɨtuai ipirätä va'e , ɨ o'ɨtu gwasu-gwasu va'e ɨarusu pɨpe , omboapɨpo seni yuvɨreko chupe .
 41004038	Jesús rumo oke ou sakɨkwei kotɨ , oyeatokoño atokoka pɨpe . Omoma'e aipo e'i yuvɨreko chupe : — ¡ Porombo'esar ! ¿ Nandema'emo'äimi rutei vo yande rese opara moko yakañɨ ?
-41004039	Jesús opü'a evokoiyase omondo porokwaita ɨvɨtuai upe , paragwasu upe avei aipo e'i : — ¡ Epɨtu'u ! ¡ Kiriri tuprɨ epɨta!A'eseve voi ɨvɨtuai opɨtu'upa tuprɨ .
+41004039	Jesús opü'a evokoiyase omondo porokwaita ɨvɨtuai upe , paragwasu upe avei aipo e'i : — ¡ Epɨtu'u ! ¡ Kiriri tuprɨ epɨta ! A'eseve voi ɨvɨtuai opɨtu'upa tuprɨ .
 41004040	Ipare Jesús aipo e'i gwemimbo'e eta upe : — ¿ Ma'erä pesɨkɨye iteanga ? ¿ Ndapeyeroya vɨtei ete vo che rese ?
 41004041	A'e rumo osɨkɨyepave , oporandu-randu oyeupe yuvɨreko : — ¿ Ava pi'ä ko mbɨa sekoi , esepia ni'ä ɨvɨtuai ɨpa avei omboyeroya yuvɨreko ?
 41005001	Oyepota ambuae ɨpa rovai yuvɨraso , Gerasa ɨvɨ rese .
@@ -1237,7 +1237,7 @@
 41005006	Amombrɨ Jesús repia ramoseve , oña oso oñenopɨ'ä voi ete sovai
 41005007	aipo e'i oñe'ë pirätä chupe : — ¡ Eyepepɨ che sui Jesús , Tüpä seko ɨvate katu va'e Ra'ɨrɨ ! ¡ Aporandu Tüpä rer pɨpe che mombaraɨsu e'ɨ̇ agwä eve !
 41005008	Egwë e'i aipo oñe'ë esepia Jesús aipo e'i chupe : — ¡ Karugwar mba'e tëi va'e , epoi ko ava sui !
-41005009	Jesús oporandu chupe : — ¿ Marä vo nderer?A'e omboyevɨ chupe : — Che rer Legión , esepia ore re'ɨi eteanga .
+41005009	Jesús oporandu chupe : — ¿ Marä vo nderer ? A'e omboyevɨ chupe : — Che rer Legión , esepia ore re'ɨi eteanga .
 41005010	Oporanduño Jesús upe omondo e'ɨ̇ agwä kokotɨ tëi ko tekwa sui .
 41005011	Ichui namombrɨi ɨvɨtrɨ , a'eve seta kuchi okaru va'e yuvɨreko ,
 41005012	a'eve espíritu naporäi va'e oporandu chupe : — Ore mondopaño kuchi avɨterve eve .
@@ -1274,7 +1274,7 @@
 41005043	Jesús rumo oyokwai imombe'u e'ɨ̇ agwä ambuae ava upe , ipare aipo e'i , pembokaru ko kuñatäi .
 41006001	Jesús osë ko tekwa sui oso gwekwave , semimbo'e avei yuvɨraso supi .
 41006002	Oyepotase mbɨtu'usa arɨ , a'ese oporombo'e oɨ judío ñemonu'äsa pɨpe . Seta Jesús ñe'ë rendusar , oyepɨ'amondɨisave oporandu-randu yuvɨreko : — ¿ Kesui vo ko ava oikwapa opakatu mba'e ? ¿ Kesui pi'ä vɨnose ko mba'ekwasa iyavei poromondɨisa apo agwä ?
-41006003	¿ Nda'ei vo akoi ko mba'e aposar ɨvɨra rese oporavɨkɨ va'e , María membrɨ Santiago , José , Judas iyavei Simón rɨke'ɨrɨ ? ¿ Nda'ei vo seindrɨ avei yuvɨrekove yande pa'üve?Sese ndovɨroyai ete yuvɨreko .
+41006003	¿ Nda'ei vo akoi ko mba'e aposar ɨvɨra rese oporavɨkɨ va'e , María membrɨ Santiago , José , Judas iyavei Simón rɨke'ɨrɨ ? ¿ Nda'ei vo seindrɨ avei yuvɨrekove yande pa'üve ? Sese ndovɨroyai ete yuvɨreko .
 41006004	Jesús rumo aipo e'i ava re'ɨi upe : — Tüpä ñe'ë mombe'usar avei ni'ä ava omboetei opakatu rupi yepi , sekwa pɨpe ndovɨroyai ete , opakatu imu sëtä pendar avei ndovɨroyai ete yuvɨreko .
 41006005	Ndoikatui mba'e poromondɨisa apo agwä a'eve , sese movɨrö tëi imba'easɨ va'e arɨve omondo opo imbogwera agwä .
 41006006	Ndoyembovɨ'ai tëi ava vɨroyae'ɨ̇sa pɨpe . Ipare Jesús oso ogwata tekwa-tekwami namombrɨi va'e rupi , oporombo'e oiko .
@@ -1295,7 +1295,7 @@
 41006021	Herodías upe oyepotase arɨ mba'e sembɨapo agwä , a'ese Herodes oaragwer pɨpe , oyapo karusa gwasu mborerekwareta rese ava Galilea pendar ikwaprɨ ɨvate katu yuvɨrekoi va'e rese avei .
 41006022	Herodías membrɨ kuñatäi oike karusave a'eve opɨvoi , ava rovake ipɨvoisa avɨyeai Herodes upe ambuae ava okaru va'e upe avei , ichui aipo e'i mborerekwar kuñatäi upe : — Eporandu mba'e nde remimbotar rese cheu , che evokoiyase amondora ndeu .
 41006023	Ipare aipo e'i iri chupe eporanduño mba'e nderemimbotar rese , anise amboya'ora ɨvɨ pɨpendar areko va'e che mborerekwasa ndeu .
-41006024	A'e kuñatäi osë oso , osɨ upe oporandu aipo e'i : — ¿ Mba'e rese pi'ä aporandura?Ichɨ omboyevɨ chupe : — Eporandu Juan Oporoapirämo va'e akä rese .
+41006024	A'e kuñatäi osë oso , osɨ upe oporandu aipo e'i : — ¿ Mba'e rese pi'ä aporandura ? Ichɨ omboyevɨ chupe : — Eporandu Juan Oporoapirämo va'e akä rese .
 41006025	Ipare kuñatäi oña oike oso mborerekwar gwapɨsave , aipo e'i chupe : — Che aipota ko pɨpeve voi eremboura Juan Oporoapirämo va'e akä tembi'u rɨru pɨpe cheu .
 41006026	Mborerekwar rumo ndoyembovɨ'ai tëi , esepia ava icho'oprɨ rovake ite yɨpɨndar oñe'ë , sese ndoikatui , ani o'e agwä .
 41006027	Evokoiyase oyokwai sundao Juan akä reru agwä . Oso sundao sokendasave , oyasɨa Juan akä seru
@@ -1346,7 +1346,7 @@
 41007016	Akoi osendu pota va'e che ñe'ë , toyapɨsakaño sese .
 41007017	Jesús oseyapa ava oso oike oɨ pɨpe , a'eve semimbo'e eta oporandu yuvɨreko ko porombo'esa omombe'u va'e rese chupe .
 41007018	A'e aipo e'i : — ¿ Evokoiyase pe avei ndapesendukwai ? ¿ Ndapeikwai vo akoi okar sui oike va'e ava avɨterve nomboangaipai ete ,
-41007019	esepia ni'ä , nda'ei ipɨ'ave oso , a'e rumo oso yavɨterve , ipare osë setekwer sui?Ko rese oikwa uka pota opakatu tembi'u avɨyese .
+41007019	esepia ni'ä , nda'ei ipɨ'ave oso , a'e rumo oso yavɨterve , ipare osë setekwer sui ? Ko rese oikwa uka pota opakatu tembi'u avɨyese .
 41007020	Aipo e'i avei : — Ava pɨ'a ñemoñeta sui osë va'e rumo mba'e , a'e omongɨ'a sekokwer .
 41007021	Esepia ava pɨ'a ñemoñetasa sui osë , pɨ'a ñemoñeta raisa , yemboagwasasa , mondasa , porapichisa resendar ,
 41007022	mendasa sui yemboagwasasa , mba'e pota raisa , teko raisa , porombopasa , mba'e tëi pota raisa , mba'e rese ñemoɨrösa , ava rese ñemoñeta tëisa , teko ɨvateaisa , pɨ'a ñemoñetasa ni'ɨ̇vi va'e avei .
@@ -1383,8 +1383,8 @@
 41008016	Semimbo'e eta oñemoñeta ndayarekoi ete mboyape e'i tëi oyeupe yuvɨreko .
 41008017	Jesús oikwa voi ete ipɨ'a ñemoñetasa , sese aipo e'i : — ¿ Ma'erä vo mboyape ndorovɨrekoi peye ? ¿ Ndapeikwa vɨtei vo mba'e che rembiapo agwer ? ¿ Yavai vɨte tie seroya agwä peü ?
 41008018	¿ Oime tëi peresa ndapesepiai rumo , iyavei oime tëi penambi ndapesendui rumo mba'e ? ¿ Ndapeyemoma'endu'a iri vo ?
-41008019	Akoi amboya'o-ya'ose poyandepo mboyape sui ava cinco mil va'e to'u , ¿ mbovɨ ɨruova vo pemonu'ä sumbɨrer?A'e omboyevɨ yuvɨreko chupe : — Opayandepo yovaive ñuvɨrïo tuprɨ .
-41008020	— Iyavei akoi amboya'o-ya'ose ñuvɨrïo ova mboyape sui ava cuatro mil va'e to'u , ¿ mbovɨ ɨruova vo pemonu'ä sumbɨrer no?A'e omboyevɨ yuvɨreko : — Ñuvɨrïo ova ɨruova tuprɨ .
+41008019	Akoi amboya'o-ya'ose poyandepo mboyape sui ava cinco mil va'e to'u , ¿ mbovɨ ɨruova vo pemonu'ä sumbɨrer ? A'e omboyevɨ yuvɨreko chupe : — Opayandepo yovaive ñuvɨrïo tuprɨ .
+41008020	— Iyavei akoi amboya'o-ya'ose ñuvɨrïo ova mboyape sui ava cuatro mil va'e to'u , ¿ mbovɨ ɨruova vo pemonu'ä sumbɨrer no ? A'e omboyevɨ yuvɨreko : — Ñuvɨrïo ova ɨruova tuprɨ .
 41008021	Evokoiyase aipo e'i chupe : — ¿ Ndapesendukwa vɨtei ete vo ko ñe'ësa ?
 41008022	Oyepotase tekwa Betsaida ve yuvɨraso , a'e ramoseve voi gweru ndasesapɨsoi va'e Jesús upe , epokomi tëi sese oya yuvɨreko .
 41008023	Jesús oipopɨsɨ ndasesapɨsoi va'e seraso kokotɨ tekwa sui . A'eve omoakɨ̇ sesa gwendɨ pɨpe , omondo avei opo i'arɨve ipare oporandu chupe eresepia vo mba'e e'i .
@@ -1423,7 +1423,7 @@
 41009018	Iyavei igwatasa rupi , ko karugwar avɨyeteramo tëi opokose sese ; oitɨ voi ɨvɨve iyavei sendɨrɨyuiyusu , säitere-tere avei kurïtëi nipirätä iri ete . Penosemi karugwar ichui a'e tëi nde remimbo'e eta upe , a'e rumo ndoikatui ete yuvɨreko .
 41009019	Jesús omboyevɨ chupe : — ¡ Pe ava ndaperoyai va'e Tüpä peiko ! ¿ Mbovɨ rupi rutei vo aiko vɨtera pe pa'üve ? ¿ Mbovɨ rupi rutei ayapo vɨtera vichiko mba'e peü ? Peru evokoi chi'ïvä'e cheu .
 41009020	Evokoiyase vɨraso chi'ïvä'e Jesús rovai yuvɨreko . Osepiase karugwar Jesús , oitɨ uka iri chi'ïvä'e ɨvɨve , omboapayere-yere iyavei iyuru rupi sendɨrɨyui gwasu-gwasu .
-41009021	Jesús oporandu iyesupa upe : — ¿ Mba'ese suive tuprɨ vo na e'i oiko?Iyesupa omboyevɨ chupe : — Ichi'ïvä'e suive ite .
+41009021	Jesús oporandu iyesupa upe : — ¿ Mba'ese suive tuprɨ vo na e'i oiko ? Iyesupa omboyevɨ chupe : — Ichi'ïvä'e suive ite .
 41009022	Seta yupagwer ko karugwar oitɨ uka tatave ɨve avei , yuka pota agwä yepi . Sese ereikatuse , ore pɨtɨ̇vɨïñomi tëi katu eve ore paraɨsuerekosave .
 41009023	Jesús aipo e'i chupe : — ¿ Ma'erä ‘ ereikatuse ere cheu ’ ? ¡ Opakatu che reroyasar upe yaposa ite mba'e avɨye va'e !
 41009024	Evokoiyase chi'ïvä'e yesupa säse pirätä : — Che orovɨroya ite . ¡ Che pɨtɨ̇vɨï eve nde reroya katu agwä !
@@ -1503,7 +1503,7 @@
 41010048	Ava rumo oñe'ëgätaño yuvɨreko chupe ikiriri agwä , a'e evokoiyase säse pirätä katuño ite : — ¡ David suindar , che paraɨsuerekomi tëi eve !
 41010049	Evokoiyase Jesús iñe'ë renduse opɨta aipo e'i : — Peñe'ë chupe . Ichui oñe'ë ndasesapɨsoi va'e upe , aipo e'i yuvɨreko : — Eyemongere'ɨ̇ , epü'a esepia oñe'ë aipo ndeu .
 41010050	Ndasesapɨsoi va'e omombo oturukwar , ovɨ'aretesa pɨpe oyemboya Jesús rese oso ,
-41010051	a'e evokoiyase oporandu chupe : — ¿ Mba'e vo ereipota ayapo va'erä ndeu?Ndasesapɨsoi va'e omboyevɨ chupe : — Porombo'esar , che mboesarekomi tëira eve viña .
+41010051	a'e evokoiyase oporandu chupe : — ¿ Mba'e vo ereipota ayapo va'erä ndeu ? Ndasesapɨsoi va'e omboyevɨ chupe : — Porombo'esar , che mboesarekomi tëira eve viña .
 41010052	Jesús aipo e'i chupe : — Eso tuprɨño eiko ; erekwera ni'ä Tüpä reroyasa pɨpe . A'e ramoseve ndasesapɨsoi va'e osareko tuprɨ ite , ipare osoño Jesús rakɨkwei perɨ rupi .
 41011001	Ovɨrovɨse tekwa Jerusalén yuvɨraso , serovɨkave oime ñuvɨrïo tekwami Betfagé iyavei Betania ɨvɨtrɨ Olivos ɨpɨ̇imi , a'eve Jesús omondo ñuvɨrïo gwemimbo'e ,
 41011002	aipo e'i chupe : — Peso evokoi tekwami yande rovaindarve . Peyepotase a'eve , pesepiara gwariku ñapɨ̇chimbrɨ imo'ä , ava ndoyeupi vɨtei va'e yuvɨreko sese . A'e peyorañorä seru .
@@ -1518,7 +1518,7 @@
 41011011	Egwë e'i Jesús oikese Jerusalén ve , ipare oso tüpäro pɨpe . A'eve opakatu rupi mba'e rese oma'e ipare oso Betania ve opayandepo yovaive ñuvɨrïo gwemimbo'e rese , esepia ni'ä ka'aru eteprɨ ite .
 41011012	A'ere arayi'ive , yuvɨnosese tekwa Betania sui , Jesús ndasɨepoi ete .
 41011013	Osepiase amombrɨve ɨvɨra higuera soatɨ va'e , sese oyemboya oso i'a pi'ä oyapave , a'e rumo osepia sopäve tëi sese , esepia a'e ɨvɨra upe ndosupitɨ vɨtei i'a agwä .
-41011014	Evokoiyase aipo e'i a'e higuera upe : — ¡ Ko pɨpe suive ndipo iri chira ava nde'a yuvɨro'u va'erä!Semimbo'e eta osendu iñe'ë yuvɨreko .
+41011014	Evokoiyase aipo e'i a'e higuera upe : — ¡ Ko pɨpe suive ndipo iri chira ava nde'a yuvɨro'u va'erä ! Semimbo'e eta osendu iñe'ë yuvɨreko .
 41011015	Oyepota pare Jerusalén ve yuvɨreko , Jesús oike tüpäro pɨpe ipare omboɨpɨ imosepa ichui ava mba'e mondosar iyavei mba'e rerokwasar . Opa ombovapɨ mba'e renda imondo ava gwarepochi rekuñarösar sui , iyavei apɨkasu mondosar renda avei ombovɨapi imondo ;
 41011016	iyavei ndoipotai ete ambuae mba'e seroikepɨrä tüpäro pɨpe .
 41011017	Ipare oporombo'e aipo e'i : — Ikwachiaprɨ araka'endar pɨpe aipo e'i : ‘ Ko che rëtä yeruresa rëtära opakatu ava ɨvɨ pɨpendar uve narä ’ , pe rumo imondarai va'e rëtä nungar tëi pereko .
@@ -1533,7 +1533,7 @@
 41011026	Egwë ndapeyeise rumo pe Ru ɨva pendar avei niñeröi chira pe angaipa rese peü .
 41011027	Ipare oyevɨ Jerusalén ve yuvɨreko . Ogwata vɨte seve Jesús tüpäro pɨpe , oyemboya sese yuvɨreko pa'i eta rerekwar , Moisés porokwaita rese oporombo'e va'e , iyavei ava rerekwar tekwa pendar ,
 41011028	ipare oporandu yuvɨreko chupe : — ¿ Ava nde kwaita pɨpe vo ereyapo ko nungar eiko ? ¿ Ava vo ombou nde mborerekwasa ndeu ko nungar apo agwä ?
-41011029	Jesús omboyevɨ aipo e'i chupe:–Che avei aporandura ñepëi mba'e rese peü : ¿ Ava vo Juan ombou ava apirämo agwä ; Tüpä pi'ä ava tëi tie ? Pemboyevɨse cheu , a'ese che avei amombe'ura peü ava porokwaita rupi ete pi'ä ayapo ko mba'e vichiko .
+41011029	Jesús omboyevɨ aipo e'i chupe : – Che avei aporandura ñepëi mba'e rese peü : ¿ Ava vo Juan ombou ava apirämo agwä ; Tüpä pi'ä ava tëi tie ? Pemboyevɨse cheu , a'ese che avei amombe'ura peü ava porokwaita rupi ete pi'ä ayapo ko mba'e vichiko .
 41011030	
 41011031	A'e evokoiyase oñemoñeta aipo e'i oyeupe yuvɨreko : “ Yamboyevɨse chupe viña Tüpä ombou , a'e aipo e'ira : ‘ Evokoiyase , ¿ ma'erä ru ndaperoyai ? ’ e'ira yandeu .
 41011032	¿ Marä ya'era vo aipo chupe ava tëi remimbou ? . . . ” A'e osɨkɨye tëi ambuae ava sui yuvɨreko , esepia opakatu ite oikwa Juan Tüpä ñe'ë mombe'usar sekoise yuvɨreko yepi .
@@ -1553,7 +1553,7 @@
 41012013	Omondo Jesús upe yuvɨreko fariseo suindar iyavei mborerekwar Herodes rupindar , toyavɨ anga'u oñe'ë oyapave yuvɨreko viña .
 41012014	A'e yuvɨraso aipo e'i yuvɨreko chupe : — Porombo'esar , ore oroikwa nde eremombe'use mba'e supi va'e ite , nde ni'ä ndereroyai va'e ava ñe'ësa tëi , esepia nderesekai ava upe mba'e semimbotar . Nde ereporombo'e tuprɨ supi va'e ite Tüpä rekokwer rese . ¿ Avɨyera pi'ä oromboepɨse gwarepochi mborerekwar Roma pendar ɨvate katu va'e upe , ani tie ? ¿ Oromboepɨravo anichira tie ?
 41012015	Jesús rumo oikwa ite ipɨ'a e'ɨ̇sa , sese aipo e'i chupe : — ¿ Ma'erä che moinge pota mba'e tëi pɨpe peye ? Peru evokoiyase ñepëi gwarepochi cheu , asepia va'erä .
-41012016	Ipare vɨraso yuvɨreko , ichui Jesús aipo e'i chupe : — ¿ Ava ra'anga vo vɨreko ava rer vo ikwachiaprɨ sese?A'e omboyevɨ yuvɨreko chupe : — Mborerekwar Roma pendar .
+41012016	Ipare vɨraso yuvɨreko , ichui Jesús aipo e'i chupe : — ¿ Ava ra'anga vo vɨreko ava rer vo ikwachiaprɨ sese ? A'e omboyevɨ yuvɨreko chupe : — Mborerekwar Roma pendar .
 41012017	Evokoiyase Jesús aipo e'i : — Pemondora mborerekwar upe mba'e chupendar , Tüpä upendar mba'e evokoiyase pemondora Tüpä upe avei . Ipare iporandusa oipɨ'amondɨi tëi aipo oyeupe ese yuvɨreko .
 41012018	Evokoiyase oime Jesús upe yuvɨraso va'e saduceo . Ko aipo ndovɨroyai omano va'e kwerayevɨsa yuvɨreko ; sese omboyekwa ko mba'e yuvɨreko chupe :
 41012019	— Porombo'esar , Moisés oseya oreu gwembikwachiagwer ñepëi kuimba'e omenda va'e omanose gwa'ɨ e'ɨ̇seve gwembireko rese , omano va'e rɨvrɨ evokoiyase omendara sembirekokwer rese a'e vɨke'ɨrɨ omano va'ekwer upe narä ta'ɨra oiko .
@@ -1574,7 +1574,7 @@
 41012034	Jesús oikwase ko Moisés porokwaita rese oporombo'e va'e pɨ'a ñemoñetasa tuprɨsa , aipo e'i chupe : — Namombrɨi ereiko Tüpä mborerekwasa sui . Ipare ndipo iri oyemongere'ɨ̇ va'e oporandu va'erä mba'e rese yuvɨreko chupe .
 41012035	Jesús oporombo'ese tüpäro pɨpe , aipo e'i oporandu : — ¿ Ma'erä ru Moisés porokwaita rese oporombo'e va'e Poropɨsɨrösar oura David sui e'i yuvɨreko ?
 41012036	Esepia , David ete aipo e'i Espíritu Maräne'ɨ̇ pirätäsa pɨpe : ‘ Yar aipo e'i che Yar upe : Egwapɨ che akato kotɨ , akoi che amondose voi ete nde amotare'ɨ̇mbarnde povrɨve yuvɨreko . ’
-41012037	¿ Ma'erä ru Poropɨsɨrösar David suindar sekoira peye , David teiete ni'ä , che Yar e'i chupe?Ava re'ɨi okere'ɨ̇save ite osendu Jesús ñe'ë yuvɨreko .
+41012037	¿ Ma'erä ru Poropɨsɨrösar David suindar sekoira peye , David teiete ni'ä , che Yar e'i chupe ? Ava re'ɨi okere'ɨ̇save ite osendu Jesús ñe'ë yuvɨreko .
 41012038	Jesús aipo e'i oporombo'esave : “ Peikwa katu Moisés porokwaita rese oporombo'e va'e sui , esepia a'e oturukwar ipuku va'e rese ogwata potarai yuvɨreko yepi , iyavei oipota oyeupe avɨrave apo agwä okarusu rupi omboeteisa pɨpe yuvɨreko .
 41012039	Oseka avei tenda porañete katu va'e gwenarä judío ñemonu'äsave , iyavei karusave tenda avɨye katu va'e ogwapɨ agwä yuvɨreko yepi ;
 41012040	iyavei kuña imer mano va'ekwer rëtä vɨrokwa-rokwa tëi ichui , oarondagwä tëi avei oyerure puku-puku . A'e rumo oipɨsɨra ñemoɨrösa ipirätä katu va'e yuvɨreko kuri . ”
@@ -1663,7 +1663,7 @@
 41014042	Pepü'a , yaso ; esepia köimi ete sekoi che amotare'ɨ̇sar upe che mondo va'erä .
 41014043	Jesús oñe'ë vɨteseve o'ä , Judas oyepota oso chupe , a'e opayandepo yovaive ñuvɨrïo semimbo'e pa'ü pendar , a'eve seta ava yugweru kɨse puku , ɨvɨra reseve-seve supi . A'e pa'i eta rerekwar , Moisés porokwaita rese oporombo'e va'e , judío rerekwareta porokwaita rupi oyapo yuvɨreko .
 41014044	Yɨpɨndar rumo imondosar Judas aipo e'i : “ Asovaupɨte va'e rese peikwara , ipare peipɨsɨ tuprɨra seraso . ”
-41014045	Oyemboyase Jesús rese oso aipo e'i chupe : — ¡ Porombo'esar!Ichui osovaupɨte .
+41014045	Oyemboyase Jesús rese oso aipo e'i chupe : — ¡ Porombo'esar ! Ichui osovaupɨte .
 41014046	Evokoiyase a'e ramoseve oipɨsɨ Jesús yuvɨreko .
 41014047	Ñepëi sekoi va'e supi vɨnose voi okɨse puku ipare oyasɨa pa'i rerekwar ɨvate katu va'e rembigwai nambi .
 41014048	Ipare Jesús oporandu ava upe : — ¿ Ma'erä vo peyu kɨse puku iyavei ɨvɨra reseve-seve che pɨsɨ agwä . Inungar imondarai va'e che rereko peye ?
@@ -1682,8 +1682,8 @@
 41014061	Jesús rumo noñe'ëiño ite o'ä , nomboyevɨi ete chupe . Pa'i rerekwar ɨvate katu va'e oporandu iri chupe : — ¿ Nde ite vo ereiko Poropɨsɨrösar , Tüpä imboeteiprɨ Ra'ɨrɨ ?
 41014062	Jesús aipo e'i chupe : — Supi ete , che ni'ä a'e ite aiko . Iyavei pesepiara , ava ɨvate katu va'e Ra'ɨrɨ , ogwapɨse mba'e Mboavaisare'ɨ̇ akato kotɨ , ipare oura ɨva kɨ'a rese kuri .
 41014063	Evokoiyase pa'i rerekwar ɨvate katu va'e omondoro oturukwar oñemoɨrösave , aipo e'i : — ¿ Mba'e iri vo yande yaipota vɨte yaiko ?
-41014064	Yasendupa ni'ä aipo Tüpä upe iñe'ë-ñe'ë tëisa , ¿ Marä e'i aipo evokoiyase pe pɨ'ave?Opakatu ava pɨ'ave avɨye ite esepia ni'ä oyavɨ ite mba'e sese tomano e'i yuvɨreko chupe .
-41014065	A'ese oime ava ondɨvɨ-ndɨvɨ va'e sese iyavei osesakwa va'e yuvɨrokwa-rokwa avei sese aipo e'i yuvɨreko chupe : — ¡ Eikwa ite ru , ava evokoi okwa nde rese!Sundao tüpäro rärösar avei osovapete-pete yuvɨreko .
+41014064	Yasendupa ni'ä aipo Tüpä upe iñe'ë-ñe'ë tëisa , ¿ Marä e'i aipo evokoiyase pe pɨ'ave ? Opakatu ava pɨ'ave avɨye ite esepia ni'ä oyavɨ ite mba'e sese tomano e'i yuvɨreko chupe .
+41014065	A'ese oime ava ondɨvɨ-ndɨvɨ va'e sese iyavei osesakwa va'e yuvɨrokwa-rokwa avei sese aipo e'i yuvɨreko chupe : — ¡ Eikwa ite ru , ava evokoi okwa nde rese ! Sundao tüpäro rärösar avei osovapete-pete yuvɨreko .
 41014066	Pedro ɨvɨve ñachimbrɨ pɨpe sekoi . A'eve ñepëi kuña oyepota ou pa'i mborerekwar ɨvate katu va'e rembigwai chupe ;
 41014067	osepiase Pedro , iyepe'ese tata ɨpɨve , oma'egätu o'ä sese aipo e'i chupe : — Nde avei akoi Jesús Nazaret pendar rupindar ereiko .
 41014068	Pedro rumo aipo e'iño chupe : — Ndaikwai va'e ite aipo mbɨa , ndaikwai avei aipo mba'e rese ereñe'ë eiko . Ichui osëse okendɨpɨve o'ä . Evokoiyase oñe'ë ñepëi takura .
@@ -1704,7 +1704,7 @@
 41015011	Pa'i eta rerekwar ɨvate katu va'e rumo ombo'e-mbo'e ava re'ɨi , Barrabás ite töse peyera e'i ava upe yuvɨreko .
 41015012	Pilato oporandu iri ava re'ɨi upe : — ¿ Mba'e vo peipota ayapo ko mbɨa upe , judío Rerekwar ɨvate katu va'e peye va'e sereko ?
 41015013	A'e rumo omboyevɨ gwäse pirätä pɨpe aipo e'i yuvɨreko : — ¡ Tayatɨkasa kurusu rese !
-41015014	Pilato rumo aipo e'i ava upe : — Evokoiyase ¿ Mba'e ite vo oyapo naporäi va'e?A'e rumo säse iri ete yuvɨreko : — ¡ Tayatɨkasa ite kurusu rese !
+41015014	Pilato rumo aipo e'i ava upe : — Evokoiyase ¿ Mba'e ite vo oyapo naporäi va'e ? A'e rumo säse iri ete yuvɨreko : — ¡ Tayatɨkasa ite kurusu rese !
 41015015	Evokoiyase Pilato , mba'e tuprɨ opɨta agwä ava rese , omose uka Barrabás ; ipare oinupa iteanga uka Jesús tukumbo pɨpe , imondo yatɨka agwä kurusu rese .
 41015016	Sundao eta vɨraso mborerekwar rëtä sui , ambuae oɨ ñemonu'äsa pɨpe , ipare a'eve opakatu omboetasa omonu'ä yuvɨreko .
 41015017	A'eve omboyemonde turukwar piräumbɨ va'e pɨpe , ipare ñepëi yu oipɨa omondo ñakä rese yuvɨreko .
@@ -1722,7 +1722,7 @@
 41015029	Ava ñokwäsar iñe'ë-ñe'ë tëi , oñeakä mbovava aipo e'i yuvɨreko chupe : — ¡ Nde akoi , opara tüpäro amonduru ipare mbosapɨ arɨ rupi opa irira amopü'a ere ,
 41015030	eñepɨsɨrö ru nde ae egweyɨ avei kurusu sui !
 41015031	Egwë e'i avei yuvɨreko pa'i eta rerekwar ɨvate katu va'e sese Moisés porokwaita rese oporombo'e va'e avei iñe'ë marä-marä tëi yuvɨreko chupe aipo e'i : — Oipɨsɨrö ambuae , a'e ae rumo ndoikatui oñepɨsɨrö .
-41015032	¡ Togweyɨ evokoi kurusu sui Poropɨsɨrösar , Mborerekwar ɨvate katu va'e Israel pendar yasepia ranera ipare voi yaroyara!Supive avei yatɨkaprɨ va'e marä e'i-e'i tëi yuvɨreko chupe .
+41015032	¡ Togweyɨ evokoi kurusu sui Poropɨsɨrösar , Mborerekwar ɨvate katu va'e Israel pendar yasepia ranera ipare voi yaroyara ! Supive avei yatɨkaprɨ va'e marä e'i-e'i tëi yuvɨreko chupe .
 41015033	Osupitɨse rumo mbɨter arɨ , iyavei ka'aruopa tuprɨ pɨ̇tü ɨvɨ rupi .
 41015034	A'e arɨ ka'aru rupi tuprɨ avei , Jesús säse pirätä aipo e'i : “ Eloi , Eloi , ¿ lemá sabactani ? ” ( aipo oyapave aipo e'i , “ che Ru Tüpä , che Ru Tüpä , ¿ ma'erä vo che reya eve ? ” )
 41015035	A'eve ava yuvɨrekoi va'e rumo , osenduse iñe'ë aipo e'i yuvɨreko : — Pesendu aipo Tüpä ñe'ë mombe'usar Elías upe oñe'ë .
@@ -1903,7 +1903,7 @@
 42003011	Juan omboyevɨ ava re'ɨi upe : — Akoi vɨreko va'e ñuvɨrïo oturukwar , ñepëi pemondo ava ndovɨrekoi va'e upe ; iyavei perekose tembi'u , pemboya'omi tëi ambuae ava ndovɨrekoi va'e upe .
 42003012	Oyemboya avei yuvɨraso oñeapirämo agwä gwarepochi rerokwasar Roma ɨgwar pa'ü pendar , oporandu Juan upe yuvɨreko : — Porombo'esar , ¿ mba'e pi'ä evokoiyase ore oroyapora ?
 42003013	Juan aipo e'i chupe : — Anichira perokwa katu iri gwarepochi peü imombe'usa sui .
-42003014	Oime avei sundao oporandu va'e mba'e rese yuvɨreko chupe : — Ore aveino , ¿ mba'e vo evokoiyase oroyapora?A'e omboyevɨ chupe : — Ndaperokwai chietera mba'e ambuae ava sui , ndapeñe'ë-ñe'ë tëi chira ava upe sembiapo e'ɨ̇ rese , iyavei peyembovɨ'añorä pe poravɨkɨ reprɨ rese .
+42003014	Oime avei sundao oporandu va'e mba'e rese yuvɨreko chupe : — Ore aveino , ¿ mba'e vo evokoiyase oroyapora ? A'e omboyevɨ chupe : — Ndaperokwai chietera mba'e ambuae ava sui , ndapeñe'ë-ñe'ë tëi chira ava upe sembiapo e'ɨ̇ rese , iyavei peyembovɨ'añorä pe poravɨkɨ reprɨ rese .
 42003015	Ava rumo nda'ei pi'ä ko Poropɨsɨrösar särömbrɨ sekoi e'i tëi Juan upe yuvɨreko ;
 42003016	Juan rumo aipo e'i opakatu ava upe : “ Che supiete opoapirämo , ɨ pɨpe tëi ; oura rumo ambuae che rakɨkwei a'e pe apirämora Espíritu Maräne'ɨ̇ tata nungar pɨpe . A'e seko pirätä katu va'e sekoi che sui , sese cheu ndiyai ete ipɨtakïsa yora agwä ichui .
 42003017	A'e gweru mba'e mbovevesa opove , trigo moatɨrö agwä iyavei ipe'a agwä kapi'i sui . Trigo yapokatusara sa'ɨ̇i apokatusa pɨpe , i'ɨgwer rumo imondosara tata apɨre'ɨ̇ va'esave . ”
@@ -1962,13 +1962,13 @@
 42004032	Ipare opakatu ava ndoyembovɨ'ai tëi iporombo'esa renduse yuvɨreko , esepia ni'ä a'e oñe'ë gweko pirätäsa pɨpe .
 42004033	A'e oɨ judío ñemonu'äsave oime ñepëi mbɨa vɨreko va'e karugwar oyese anise espíritu naporäi va'e , a'ese oñe'ë pirätä aipo e'i :
 42004034	— ¡ Ema'e ñotëi ore rese ! ¿ Ma'erä vo ereyu ko'ave oreu , nde Jesús Nazaret pendar ? ¿ Nde ereyu ore mokañɨ agwä tëi ? Che orokwa va'e ite , iyavei nde ni'ä seko Maräne'ɨ̇ va'e ereiko Tüpä suindar .
-42004035	Jesús evokoiyase oñe'ëgäta karugwar upe aipo e'i : — ¡ Kiriri , epoi ko mbɨa sui!A'ese karugwar ombovɨapi a'e mbɨa opakatu ava rovai imondo ɨvɨve , ipare osë okwa ichui nomomaräi ete rumo .
+42004035	Jesús evokoiyase oñe'ëgäta karugwar upe aipo e'i : — ¡ Kiriri , epoi ko mbɨa sui ! A'ese karugwar ombovɨapi a'e mbɨa opakatu ava rovai imondo ɨvɨve , ipare osë okwa ichui nomomaräi ete rumo .
 42004036	Opakatu ava oyembosɨkɨye , iyavei oporandu-randu tëi mba'e rese oyeupe yuvɨreko : — ¿ Marä e'i vo aipo ko oñe'ë oiko ? Opakatu opirätäsa pɨpe ko mbɨa oyokwai karugwar ava sui imose agwä , ¡ ipare yuvɨnosepa yuvɨraso !
 42004037	Iyavei ñe'ësa Jesús rese opakatu ɨvɨ tekwa-tekwami rupi .
 42004038	Jesús osë oɨ judío ñemonu'äsa pɨpe sui oso ipare oike Simón rëtäve . Simón rovayar imba'easɨ so'ɨ iteanga ou , ipare oñe'ë Jesús upe yuvɨreko tombogwerami tëi oyapave .
 42004039	Jesús oyeaɨvɨ oso chupe so'ɨ sui imbogwera agwä , ipare opa so'ɨ ichui . A'e ramoseve , a'e kuña oñarapü'a ichui omboɨpɨ o'añeko yuvɨrekoi va'e rese .
 42004040	Arɨso ramomise , opakatu ava mba'erasɨsa vɨreko va'e ambuae a'e ae tëi gweru Jesús upe yuvɨreko ; a'e evokoiyase omondo opo i'arɨve ñepëi-pëi yakatu imbogwera agwä .
-42004041	Imba'easɨ va'e sui seta yuvɨnosë karugwar , säse tëi aipo e'i yuvɨreko : — ¡ Nde Tüpä Ra'ɨrɨ ite ereiko!Jesús rumo oñe'ëgäta karugwar upe iyavei ndoipota iri iñe'ë agwä , esepia a'e oikwa ite Poropɨsɨrösar sekoise yuvɨreko .
+42004041	Imba'easɨ va'e sui seta yuvɨnosë karugwar , säse tëi aipo e'i yuvɨreko : — ¡ Nde Tüpä Ra'ɨrɨ ite ereiko ! Jesús rumo oñe'ëgäta karugwar upe iyavei ndoipota iri iñe'ë agwä , esepia a'e oikwa ite Poropɨsɨrösar sekoise yuvɨreko .
 42004042	Ko'ë potase , Jesús osë tekwa pɨpe sui oso , ɨvɨ iporupɨre'ɨ̇sa rupi . Ava rumo osekaño ite yuvɨreko , osupitɨño avei sekosave yuvɨraso . Oipota a'e oyesui ichoe'ɨ̇ agwä ite yuvɨreko viña ,
 42004043	Jesús aipo e'i ava re'ɨi upe : — Iyavei amombe'u ranera ñe'ësa avɨye va'e Tüpä mborerekwasa resendar opakatu ambuae tekwa rupi , esepia a'egwä ni'ä che imbouprɨ aiko .
 42004044	Egwë e'i Jesús omombe'u ñe'ësa avɨye va'e oɨ judío ñemonu'äsave oiko judío ɨvɨ rupi .
@@ -1984,7 +1984,7 @@
 42005010	A'eve Santiago iyavei Juan , Zebedeo ra'ɨrɨ , yuvɨrekoi Simón mboetasa . A'ese Jesús aipo e'i Simón upe : — Eresɨkɨyei rene ; ko pɨpe suive tuprɨ ereikora ava reka agwä cheu narä .
 42005011	Evokoiyase opa vɨnose ɨarusu sui ɨvɨ ätäsave yuvɨreko , oseyapaño opakatu mba'e ichui yuvɨraso Jesús rupi .
 42005012	Ñepëi arɨ , Jesús sekoise tekwa pɨpe , oyepota ñepëi mbɨa mba'erasɨ vai ndokwerai va'e rerekosar ; Jesús repiase oñenopɨ'ä oso ɨvɨ rese chupe oporandu aipo e'i : — Che Yar , ereipotase , iya nde che mbogwerami tëi eve che mba'erasɨsa sui .
-42005013	Jesús opoko opo pɨpe sese , aipo e'i chupe : — Aipota . ¡ Erekwera kurïtëi!Aipo i'e ramoseve opa okwa mba'erasɨ vai imba'easɨ va'e sui ,
+42005013	Jesús opoko opo pɨpe sese , aipo e'i chupe : — Aipota . ¡ Erekwera kurïtëi ! Aipo i'e ramoseve opa okwa mba'erasɨ vai imba'easɨ va'e sui ,
 42005014	ipare Jesús aipo e'i chupe : — Eremombe'ui rene nde kwerasa ambuae ava upe ; esoño eyemboyekwa pa'i upe , ipare eikwave'ë nde porerekosa nde kwerasa resendar Moisés porokwaita rupi , ipɨpe sui toikwa opakatu pa'i eta nde kwerasa yuvɨreko .
 42005015	Jesús reräkwä rumo oyembouvicha katu-katu iri ete , iyavei seta ava oyemboya yuvɨreko sese iñe'ë rendu agwä iyavei tayande mbogwerami tëi yande mba'erasɨsa sui oyapave yuvɨreko .
 42005016	Jesús rumo oyepepɨ ñoite oyerure agwä oso ava pore'ɨ̇save .
@@ -2133,13 +2133,13 @@
 42008021	A'e omboyevɨ chupe : — Akoi osendu va'e Tüpä ñe'ëngagwer iyavei vɨroya va'e ite yuvɨreko , a'e yuvɨrekoi che sɨ iyavei che rɨvrɨ eta .
 42008022	Ñepëi arɨ , Jesús o'a ɨarusu pɨpe gwemimbo'e eta reseve , aipo e'i : — Yaso ambuae ɨpa rovai . Ipare opa yuvɨraso ,
 42008023	iyavei yuvɨrogwata vɨteseve ɨpa pɨpe , a'ese Jesús okeño ou . A'ese ɨpa pɨpe avɨyeteramo tëi ɨvɨtuai , ombo'a gwasu-gwasu avei ɨarusu pɨpe ɨ , omondo pota ite ɨpɨve viña .
-42008024	Evokoiyase yuvɨraso Jesús moma'e , aipo e'i yuvɨreko chupe : — ¡ Porombo'esar ! ¡ Porombo'esar ! ¡ Yande rerasora moko ɨarusu ɨpɨve!Jesús opü'a ipare oñe'ë pirätä ɨvɨtuai upe ɨ o'ɨtu va'e upe avei , ichui opakatu tuprɨ opɨtu'u mba'e naporäi va'e .
-42008025	Ipare aipo e'i gwemimbo'e eta upe : — ¿ Ma'erä vo ndapeyeroyai che rese?A'e rumo osɨkɨye iyavei ndoyembovɨ'ai tëi , ichui oporandu-randu tëi avei oyeupe yuvɨreko : — ¿ Uma pi'ä ko mbɨa sekoi , esepia ni'ä ɨvɨtuai paragwasu avei omboyeroya ?
+42008024	Evokoiyase yuvɨraso Jesús moma'e , aipo e'i yuvɨreko chupe : — ¡ Porombo'esar ! ¡ Porombo'esar ! ¡ Yande rerasora moko ɨarusu ɨpɨve ! Jesús opü'a ipare oñe'ë pirätä ɨvɨtuai upe ɨ o'ɨtu va'e upe avei , ichui opakatu tuprɨ opɨtu'u mba'e naporäi va'e .
+42008025	Ipare aipo e'i gwemimbo'e eta upe : — ¿ Ma'erä vo ndapeyeroyai che rese ? A'e rumo osɨkɨye iyavei ndoyembovɨ'ai tëi , ichui oporandu-randu tëi avei oyeupe yuvɨreko : — ¿ Uma pi'ä ko mbɨa sekoi , esepia ni'ä ɨvɨtuai paragwasu avei omboyeroya ?
 42008026	Koiye oyepota yuvɨraso Gerasa ɨvɨ rese , a'e ambuae ɨpa kotɨ , ɨvɨ Galilea rovai .
 42008027	Ogweyɨse Jesús a'e ɨvɨ rese , osë ñepëi mbɨa tekwa ɨgwar karugwar vɨreko va'e oyese , ipare oyemboya oso sese . Araka'e suive ite nomondei va'e oturukwar iyavei ndasekoiri va'e oɨ pɨpe yepi , a'e rumo sekoi te'ögwer ruvɨpa rupi tëi va'e .
 42008028	Jesús repiase rumo , oñenopɨ'ä sovai oso , säse pirätä aipo e'i chupe : — ¡ Eyepepɨ che sui Jesús , Tüpä seko ɨvate katu va'e Ra'ɨrɨ ! ¡ Che mombaraɨsui rene eve !
 42008029	Aipo e'i oñe'ë , esepia Jesús opa ite oyokwai karugwar töse ichui oyapave . Seta yupagwer karugwar a'e mbɨa ombopa sereko yepi ; yepe ava oipokwa-pokwa tëi yuvɨreko ipɨ rupi avei karena pɨpe tovɨraso iri eme oyapave yuvɨreko viña , a'e rumo ombosando-sando ñoite okwasa karugwar rumo vɨraso ukaño ava pore'ɨ̇sa rupi sereko .
-42008030	Jesús oporandu chupe : ¿ Marä vo nderer?A'e omboyevɨ chupe : — Che rer Legión . Aipo e'i esepia ni'ä , seta iteanga yuvɨroike karugwar a'e mbɨa avɨterve ,
+42008030	Jesús oporandu chupe : ¿ Marä vo nderer ? A'e omboyevɨ chupe : — Che rer Legión . Aipo e'i esepia ni'ä , seta iteanga yuvɨroike karugwar a'e mbɨa avɨterve ,
 42008031	ipare rumo oporandu Jesús upe yuvɨreko ani katu oremondo ɨvɨkwar ipɨkuku iteanga va'esave eve .
 42008032	Esepia a'eve seta iteanga kuchi okaru va'e ɨvɨtrɨ rese yugweru , a'ese karugwar oporandu yuvɨroike va'erä kuchi avɨterve yuvɨreko ; Jesús evokoiyase omoinge ukaño ite karugwar kuchi avɨterve .
 42008033	A'ese karugwar yuvɨnosepa a'e mbɨa sui ipare opa yuvɨroike kuchi avɨterve , ichuive tuprɨ kuchi opa yuvɨnoña yuvɨraso ɨvɨvate sui ɨpa pɨpe , a'eve opa okañɨ yuvɨreko .
@@ -2154,7 +2154,7 @@
 42008042	esepia ni'ä vɨreko gwayrɨ ñepëimi va'e ite , opayandepo yovaive ñuvɨrïo aravɨter vɨreko va'e , a'e omano pota ete ou . Osose Jesús Jairo rupi , ava re'ɨi oyembotɨ tuprɨ yuvɨraso va'e supi .
 42008043	Ñepëi kuña imba'easɨ va'e sekoi ava pa'ü rupi vɨreko va'e omba'erasɨsa opayandepo yovaive ñuvɨrïo aravɨter tuprɨ , a'e suvɨ yepɨyere-yere va'e , opa-opa tëi omondo omba'e okwera agwä oporoposano va'e upe ; ndoikatui ete rumo imbogwera yuvɨreko .
 42008044	A'e kuña evokoiyase oyemboya oso sakɨkwei kotɨ opoko iturukwar popɨ rese , a'e ramose voi opɨtu'u suvɨ yepɨyere-yeresa ichui .
-42008045	A'ese Jesús aipo e'i oporandu : — ¿ Ava vo opoko che rese?Opakatu ava nomombe'u potai ete sese opokose yuvɨreko , evokoiyase Pedro aipo e'i chupe : — Porombo'esar , ava oyembotɨ tuprɨ va'e nde moañɨ-añɨi yuvɨreko .
+42008045	A'ese Jesús aipo e'i oporandu : — ¿ Ava vo opoko che rese ? Opakatu ava nomombe'u potai ete sese opokose yuvɨreko , evokoiyase Pedro aipo e'i chupe : — Porombo'esar , ava oyembotɨ tuprɨ va'e nde moañɨ-añɨi yuvɨreko .
 42008046	Jesús oporandu iri ete : — Oime ite ava opoko va'e che rese , esepia ayandu che pirätäsa osëse che sui .
 42008047	A'e kuña , osepiase ndoikatui ete oñemi , sese orɨrɨi oñenopɨ'ä Jesús rovai oso . Oyemombe'u chupe opakatu ava rovake ma'erä opoko sese , esepia ni'ä okwera ite omba'erasɨsa sui .
 42008048	Jesús aipo e'i chupe : — Che rayrɨ , erekwera ite kurïtëi che rese ndeyeroyasa pɨpe . Sese eso tuprɨ eiko .
@@ -2174,7 +2174,7 @@
 42009006	Evokoiyase opa yuvɨnosë yuvɨraso , opakatu tekwa rupi , omombe'u ñe'ësa avɨye va'e iyavei ombogwera imba'easɨ va'e yuvɨreko .
 42009007	Ko mborerekwar ɨvate katu va'e Herodes osendu ñe'ësa opakatu mba'e oime va'e resendar ; iyavei ndoikwai marä e'ira opɨ'a ñemoñeta rereko , esepia ni'ä aipo Juan okwerayevɨ e'i yuvɨreko chupe ,
 42009008	ambuae aipo e'i Tüpä ñe'ë mombe'usar Elías , a'e tëi oñemopore'ɨ̇ e'i yuvɨreko , ambuae aipo e'i ñepëi Tüpä ñe'ë mombe'usar araka'endar revo , a'e tëi okwerayevɨ e'i yuvɨreko .
-42009009	Herodes rumo aipo e'i : — Che ni'ä aporokwai Juan akä ayasɨa uka agwä . ¿ Uma pi'ä evokoiyase aipo , seräkwä ayandu va'e vichiko?Sese Herodes osepia pota ite Jesús .
+42009009	Herodes rumo aipo e'i : — Che ni'ä aporokwai Juan akä ayasɨa uka agwä . ¿ Uma pi'ä evokoiyase aipo , seräkwä ayandu va'e vichiko ? Sese Herodes osepia pota ite Jesús .
 42009010	Oyevɨpase iñe'ë mombe'usar yugweru , opa tuprɨ omombe'u Jesús upe mba'e gwembiapokwer yuvɨreko . A'e evokoiyase , vɨroyepepɨ kokotɨ seraso tekwa Betsaida serer va'esave .
 42009011	Ava re'ɨi oyanduse rumo , yuvɨrasoño ite sakɨkwei ; ipare Jesús perio e'i chupe , ichui oñe'ë Tüpä mborerekwasa rese chupe ombogwerapa avei ava imba'erasɨsa sui .
 42009012	Vɨrovɨse rumo ka'aru , oyemboya yuvɨraso Jesús rese opayandepo yovaive ñuvɨrïo tuprɨ semimbo'e aipo e'i yuvɨreko chupe : — Emondopa ava , topɨtu'u iyavei toseka mba'e gwembi'urä tekwa-tekwami köi va'esa rupi yuvɨreko , esepia ni'ä ndipoi ete mba'e ko'ave .
@@ -2405,7 +2405,7 @@
 42013020	Iyavei aipo e'i Jesús : “ ¿ Mba'e rese pi'ä amboyoyara Tüpä mborerekwasa ?
 42013021	Oyoya tuprɨ ko mboyape mboapeposa rese , akoi kuña omboyese'a tuprɨ va'e mbosapɨ sa'ämbrɨ trigo ku'i rese opakatu imboapepo agwä . ”
 42013022	Perɨ oso va'e Jerusalén ve , a'e supi Jesús oporombo'e oiko tekwa yakatu rupi tekwa-tekwami rupi aveino .
-42013023	Ñepëi mbɨa oporandu chupe : — Che Yar , ¿ supiete pi'ä movɨrömi tëi oñepɨsɨröra yuvɨreko?A'e evokoiyase omboyevɨ chupe :
+42013023	Ñepëi mbɨa oporandu chupe : — Che Yar , ¿ supiete pi'ä movɨrömi tëi oñepɨsɨröra yuvɨreko ? A'e evokoiyase omboyevɨ chupe :
 42013024	— Peikwa tuprɨ peike va'erä okendɨpɨ ka'ïmi rupi ; esepia aipo a'e peü seta ava yuvɨroike pota tëira , ndoikatu chietera rumo yuvɨreko .
 42013025	Ipare oɨ yar opü'ase okenda mboya , peiko va'e okarɨve , peñe'ë tëira aipo peyera : ‘ Ore yar , emboimi tëi oreu . ’ A'e rumo aipo e'iñorä imboyevɨ chupe : ‘ Che ndopokwai va'e kesui vo peyu . ’
 42013026	Evokoiyase pe aipopeye tëira : ‘ Orokaru va'e , oroɨ'u va'e avei ni'ä nderese yepi , nde avei ni'ä ore mbo'e ore rokar rupi eve yepi . ’
@@ -2552,7 +2552,7 @@
 42017034	“ A'e pɨ̇tü pɨpe oimerä ñuvɨrïo yugweruve va'e ñepëi vupave , ñepëi serasosara ambuae seyasara .
 42017035	Akoi ñuvɨrïo kuña o'ɨchora yuvɨreko , ñepëi serasosara , ambuae seyasara . ”
 42017036	Ñuvɨrïo ava yuvɨrekoi va'e ka'a pɨpe , ñepëi serasora ambuae seyasara .
-42017037	Evokoiyase oporandu yuvɨreko chupe : — ¿ Ore Yar , kevo aipo egwë e'ira mba'e kuri?A'e rumo omboyevɨ : — Oimesave omano va'e , a'eve oyemonu'ära uruvu yuvɨreko .
+42017037	Evokoiyase oporandu yuvɨreko chupe : — ¿ Ore Yar , kevo aipo egwë e'ira mba'e kuri ? A'e rumo omboyevɨ : — Oimesave omano va'e , a'eve oyemonu'ära uruvu yuvɨreko .
 42018001	Jesús omombe'u porombo'esa ava yerure agwä arɨ yakatu rupi , kere'ɨ̇sa pɨpe .
 42018002	Aipo e'i : “ Oime ñepëi tekwave ñepëi mbɨa mborerekwar mba'e moigätusar ndosɨkɨyei va'e Tüpä sui , ambuae ava sui avei .
 42018003	A'e tekwa pɨpe avei oime ñepëi kuña imer mano va'ekwer vɨreko va'e vavasa ambuae ava rese ipɨpe sui oso mborerekwar upe mba'e moigätu agwä rese .
@@ -2593,7 +2593,7 @@
 42018038	evokoiyase a'e säse pirätä : — ¡ Jesús , David Suindar , che paraɨsuerekomi tëi eve !
 42018039	Tenonde yuvɨraso va'e ndoipotai ete iñe'ë yuvɨreko , a'e rumo säse pirätäño ite : — ¡ David Suindar , che paraɨsuerekomi tëi eve !
 42018040	Evokoiyase Jesús opɨta a'eve , ipare oyokwai ava seru agwä . Vɨroyepotase seru yuvɨreko , aipo e'i oporandu chupe :
-42018041	— ¿ Mba'e vo ereipota ayapo va'erä ndeu?Ndasesapɨsoi va'e omboyevɨ chupe : — Che Yar , aipota che mbosarekomi tëira eve .
+42018041	— ¿ Mba'e vo ereipota ayapo va'erä ndeu ? Ndasesapɨsoi va'e omboyevɨ chupe : — Che Yar , aipota che mbosarekomi tëira eve .
 42018042	Jesús aipo e'i chupe : — ¡ Erekwerara ! Esepia che rese nde yeroyasa pɨpe erekwera kurïtëi .
 42018043	A'e ramoseve ndasesapɨsoi va'e osareko tuprɨ ite , osoño Jesús rupi Tüpä mboeteisave . Opakatu ava osepia va'e omboetei Tüpä yuvɨreko .
 42019001	Jesús oike tekwa Jericó pɨpe ogwata oiko .
@@ -2667,7 +2667,7 @@
 42020021	A'e oporandu yuvɨreko chupe : — Porombo'esar , ore oroikwa nde ñe'ë iyavei nde porombo'esa supiete va'e , iyavei nderemboyoavɨratɨi ñe'ësa ava upe imombe'u . Nde ereporombo'e mba'e supi tuprɨ va'e Tüpä rekokwer rese .
 42020022	¿ Avɨyera pi'ä oromboepɨ orerekosa mborerekwar Roma pendar upe viña , anichira tie ?
 42020023	Jesús rumo , oikwa voi ete ipɨ'a ñemoñetaraisa vɨreko va'e yuvɨreko , aipo e'i chupe :
-42020024	— Pemboyekwa ru ñepëi gwarepochi cheu . ¿ Ava ra'anga vo vɨreko ava rer vo ikwachiaprɨ sese?Omboyevɨ yuvɨreko chupe : — Mborerekwar gwasu mba'e .
+42020024	— Pemboyekwa ru ñepëi gwarepochi cheu . ¿ Ava ra'anga vo vɨreko ava rer vo ikwachiaprɨ sese ? Omboyevɨ yuvɨreko chupe : — Mborerekwar gwasu mba'e .
 42020025	Jesús aipo e'i chupe : — Pemondora mborerekwar upe mba'e chupendar , iyavei Tüpä upendar mba'e pemondoño ite Tüpä upe .
 42020026	Iyavei ndoyavɨ uka katui ete iñe'ë ava rovake ipɨsɨ agwä , a'e rumo oyeupe imboyevɨse ikiriripa tuprɨño oyepɨ'amondɨisa pɨpe yuvɨreko .
 42020027	Ipare oime saduceo yuvɨraso va'e Jesús repia . Saduceo eta rumo ndovɨroyai omano va'e kwerayevɨsa ; sese omboyekwa mba'e ko yuvɨreko chupe :
@@ -2763,7 +2763,7 @@
 42022032	che rumo ayerure nde rese , ipane e'ɨ̇ agwä nde pɨ'a ñemoñetasa . Iyavei nde , ereyevɨse cheu , eipɨtɨ̇vɨï katu nde rɨvrɨ eta imovɨräkwä agwä yuvɨreko oyese .
 42022033	Simón aipo e'i chupe : — Che Yar , che ayemoigätu voi ete nde rupi aso va'erä nde rokendasave , amano pota avei nde rupive .
 42022034	Jesús omboyevɨ chupe : — Pedro , supiete amombe'u ndeu , ko pɨpe takura ñe'ë renondeve , nde ndaikwai ete evokoi mbɨa erera mbosapɨ yupagwer rupi cheu .
-42022035	Ipare Jesús oporandu : — Opomondose akoi gwarepochi pore'ɨ̇ tembi'u pore'ɨ̇ pɨtaki pore'ɨ̇ , ¿ ipane vo mba'e a'ese peü?Semimbo'e omboyevɨ yuvɨreko chupe : — Ani ete .
+42022035	Ipare Jesús oporandu : — Opomondose akoi gwarepochi pore'ɨ̇ tembi'u pore'ɨ̇ pɨtaki pore'ɨ̇ , ¿ ipane vo mba'e a'ese peü ? Semimbo'e omboyevɨ yuvɨreko chupe : — Ani ete .
 42022036	Evokoiyase aipo e'i : — Kurïtëi rumo , akoi vɨreko va'e gwarepochi , togweruño yuvɨreko , iyavei tembi'u vɨreko va'e ; iyavei ndovɨrekoi va'e kɨse puku , tomondo oyeaosa ñepëi kɨse puku repɨrä .
 42022037	Supiete amombe'u peü yavɨyerane itera ko che rese Ikwachiaprɨ pɨpe : ‘ Iyavei ipapasa ava naporäi va'e pa'üve . ’ Opakatu ikwachiaprɨ che resendar , yavɨyerane itera .
 42022038	Evokoiyase semimbo'e aipo e'i yuvɨreko : — Ore Yar , ko'ave oime ñuvɨrïo kɨse puku . A'e evokoiyase omboyevɨ : — Avɨye ite revo peñe'ë .
@@ -2795,10 +2795,10 @@
 42022064	Osesakwa , ipare oporandu yuvɨreko chupe : — ¡ Eikwa ite ru ava evokoi okwa nde rese !
 42022065	Iyavei seta mba'e rese oñe'ë-ñe'ë tëi yuvɨreko chupe .
 42022066	Ko'ë ramöseve aipo , oñemonu'ä ava judío rerekwar , pa'i eta rerekwar iyavei Moisés porokwaita rese oporombo'e va'e , vɨraso Jesús Ñemonu'äsa Ɨvate katu va'e rovai . A'eve oporandu mba'e rese yuvɨreko chupe :
-42022067	— Emombe'u oreu , ¿ supiete vo nde Poropɨsɨrösar ereiko?A'e omboyevɨ chupe : — Amombe'use rumo peü , ndache reroyai chietera peye .
+42022067	— Emombe'u oreu , ¿ supiete vo nde Poropɨsɨrösar ereiko ? A'e omboyevɨ chupe : — Amombe'use rumo peü , ndache reroyai chietera peye .
 42022068	Inungar che aporanduse mba'e rese peü , pe avei ndapemboyevɨi chietera cheu .
 42022069	Ko pɨpe suive ite rumo , ava ɨvate katu va'e Ra'ɨrɨ , ogwapɨra Tüpä mba'e mboavaisare'ɨ̇ akato kotɨ .
-42022070	Ichui opakatu tuprɨ ava oporandu yuvɨreko chupe : — ¿ Evokoiyase , nde ite vo ereiko Tüpä Ra'ɨrɨ?Jesús omboyevɨ chupe : — Pe ñi'ä aipo a'e sekoi peye cheu .
+42022070	Ichui opakatu tuprɨ ava oporandu yuvɨreko chupe : — ¿ Evokoiyase , nde ite vo ereiko Tüpä Ra'ɨrɨ ? Jesús omboyevɨ chupe : — Pe ñi'ä aipo a'e sekoi peye cheu .
 42022071	Evokoiyase a'e aipo e'i yuvɨreko : — ¿ Ava iri vo evokoiyase mba'e omombe'ura yandeu ? Yande teiete ni'ä yasendu iñe'ë yaiko .
 42023001	Opakatu ava opü'a yuvɨreko , Jesús reraso agwä Pilato rovai .
 42023002	Sovai evokoiyase oiñe'ëngapo tuprɨ tëi , aipo e'i yuvɨreko : — Orosepia ko mbɨa oipɨ'a ñemoñeta rerova atɨ uka ava yande rekwa rupindar . Aipo e'i pemondoi rene gwarepochi mborerekwar ɨvate katu va'e upe , iyavei supiete aipo e'i che Poropɨsɨrösar , mborerekwar ɨvate katu va'e aiko .
@@ -2845,7 +2845,7 @@
 42023043	Jesús omboyevɨ chupe : — Supiete ko pɨpe ereikora tekwa apɨre'ɨ̇ va'esave che rupi .
 42023044	Osupitɨse rumo mbɨter arɨ , iyavei ka'aruopakatu ite ɨvɨ rupi pɨ̇tü .
 42023045	Arɨ avei ogwe tuprɨ , a'e pɨpeve avei turukwar tüpäro asɨasa mbɨter rupi tuprɨ ovo .
-42023046	Jesús säse pirätä aipo e'i : — ¡ Che Ru , amondo che espíritu ndeu!Aipo o'e pare voi omano .
+42023046	Jesús säse pirätä aipo e'i : — ¡ Che Ru , amondo che espíritu ndeu ! Aipo o'e pare voi omano .
 42023047	Evokoiyase Roma ɨgwar sundao rerekwar osepiase ko mba'e poromondɨisa , Tüpä mboeteisa pɨpe , aipo e'i : — Supiete ko mbɨa ndaseko maräi va'e .
 42023048	Iyavei opakatu ava supindar yuvɨrekoi va'e osepiase ko nungar mba'e , oyepochi'a nupa-nupa tëi oyepɨ'amondɨisa pɨpe yuvɨreko .
 42023049	Opakatu oikwa va'e Jesús yuvɨreko amombrɨ rupive tëi yuvɨno'äi ichui ; kuña yugweru va'e Galilea sui osepiaño tëi avei yuvɨreko .
@@ -2872,9 +2872,9 @@
 42024014	A'e oñemoñeta yuvɨraso opakatu ko mba'e oime va'ekwer rese .
 42024015	Iñemoñeta vɨteseve , Jesús teiete oyemboya sese , ichui ogwata oso supi .
 42024016	Yepe osepia tëi , a'e rumo ndoyekwa ukai ete .
-42024017	Jesús oporandu chupe : — ¿ Mba'e rese vo peñe'ë eteprɨ pe gwatasa rupi peiko?Aipo ese , ndovɨ'ai opɨta yuvɨno'ä ,
+42024017	Jesús oporandu chupe : — ¿ Mba'e rese vo peñe'ë eteprɨ pe gwatasa rupi peiko ? Aipo ese , ndovɨ'ai opɨta yuvɨno'ä ,
 42024018	ipa'ü pendar , Cleofas serer va'e omboyevɨ chupe : — ¿ Nde gweraño ite ereiko erepɨtu'u va'e Jerusalén ve ndereikwai ete vo mba'e oime va'e a'eve ko arɨ pɨpe ?
-42024019	A'e evokoiyase oporandu : — ¿ Mba'e vo oime ko'ave?Aipo e'i yuvɨreko chupe : — Jesús Nazaret pendar , a'e Tüpä ñe'ë mombe'usar seko pirätä va'e opakatu mba'e apo agwä mba'e mombe'u agwä avei Tüpä rovake iyavei opakatu tekwa rupindar rovake ;
+42024019	A'e evokoiyase oporandu : — ¿ Mba'e vo oime ko'ave ? Aipo e'i yuvɨreko chupe : — Jesús Nazaret pendar , a'e Tüpä ñe'ë mombe'usar seko pirätä va'e opakatu mba'e apo agwä mba'e mombe'u agwä avei Tüpä rovake iyavei opakatu tekwa rupindar rovake ;
 42024020	omondo pa'i rerekwar iyavei yande rerekwareta yamotare'ɨ̇save yuka uka agwä kurusu rese yuvɨreko .
 42024021	Ore rumo oroyeroya ite sese a'e oipɨsɨröra tekwa gwasu Israel oro'e chupe viña . Kurïtëi rumo opa mbosapɨ arɨ yukare .
 42024022	Kuña yuvɨrekoi va'e ore pa'ü ve ndorembovɨ'ai ete yuvɨreko , yuvɨraso añi'ïvëive tuvɨpave ,
@@ -2929,7 +2929,7 @@
 43001018	Ndipoi ete ava osepia va'e Tüpä ; Ta'ɨrɨ ñepëi va'eño ite , a'e Tüpä iyavei sekoi va'e Vu pɨri , a'e ni'ä oikwa uka yandeu .
 43001019	Ko ñe'ësa omombe'u va'e Juan , a'ese mborerekwar judío rekwa pendar oyokwai Jerusalén sui imondo pa'i eta iyavei levitas imboporandu agwä Juan upe ava pi'ä a'e sekoi oyapave .
 43001020	A'e rumo oyemombe'u ite aipo e'i : — Che nda'ei ete Poropɨsɨrösar aiko .
-43001021	Evokoiyase oporandu iri yuvɨreko chupe : — ¿ Ava ite vo nde ? ¿ Nde tie Tüpä ñe'ë mombe'usar Elías ereiko?Juan aipo e'i : — Nda'ei ete che a'e aiko . A'e rumo oporandu iri yuvɨreko : — Evokoiyase , ¿ Nde ite vo ereiko Tüpä ñe'ë mombe'usar ou va'erä?A'e omboyevɨ : — Ani nda'ei ete che .
+43001021	Evokoiyase oporandu iri yuvɨreko chupe : — ¿ Ava ite vo nde ? ¿ Nde tie Tüpä ñe'ë mombe'usar Elías ereiko ? Juan aipo e'i : — Nda'ei ete che a'e aiko . A'e rumo oporandu iri yuvɨreko : — Evokoiyase , ¿ Nde ite vo ereiko Tüpä ñe'ë mombe'usar ou va'erä ? A'e omboyevɨ : — Ani nda'ei ete che .
 43001022	Aipo e'i yuvɨreko chupe : — ¿ Uma ite vo evokoiyase nde ereiko ? Esepia ore orovɨrasora mba'e imombe'uprɨ supi va'e ite ore mbousar upe . ¿ Mba'e ite vo eremombe'ura ndeyesuindar oreu ?
 43001023	Juan omboyevɨ aipo e'i chupe : — Che aiko oñe'ë va'e ɨvɨ iporupɨre'ɨ̇sa rupi : ‘ Pemoigätu pe rekokwer yande Yar yepotase narä ’ , inungar aipo e'i imombe'u Tüpä ñe'ë mombe'usar Isaías .
 43001024	Akoi oyokwai va'e fariseo oñe'ë va'erä Juan rese yuvɨreko ,
@@ -2946,7 +2946,7 @@
 43001035	A'ere arayi'ive avei , Juan sekoi a'eve ñuvɨrïo gwemimbo'e rese .
 43001036	Jesús oñokwase , Juan osepia aipo e'i chupe : — ¡ Pesepia , evokoi inungar Ovesa Tüpä remimbou seropove'ëpɨra !
 43001037	Ñuvɨrïo yuvɨrekoi va'e Juan rupindar a'e osenduse aipo ko ñe'ësa , ichui yuvɨraso voi ete Jesús rupi .
-43001038	Evokoiyase Jesús oma'e gwakɨkwei kotɨ , osepiase rumo gwakɨkwerindar yugweruse aipo e'i oporandu chupe : — ¿ Mba'e vo peseka peiko?A'e aipo e'i yuvɨreko : — Porombo'esar , ¿ kevo nde rekosa ?
+43001038	Evokoiyase Jesús oma'e gwakɨkwei kotɨ , osepiase rumo gwakɨkwerindar yugweruse aipo e'i oporandu chupe : — ¿ Mba'e vo peseka peiko ? A'e aipo e'i yuvɨreko : — Porombo'esar , ¿ kevo nde rekosa ?
 43001039	Jesús omboyevɨ chupe : — Perio tapesepia ru . Ipare yuvɨraso osepia sekosa yuvɨreko , iyavei yuvɨrekoi a'eve arɨ momba tuprɨ supive , esepia ni'ä a'ese ka'aru ite .
 43001040	Ñuvɨrïo ipa'ü pendar osendu Juan ñe'ë yuvɨreko a'e yuvɨraso Jesús rupi , a'e Andrés , Simón Pedro rɨvrɨ .
 43001041	A'e Andrés rane aipo oseka vɨke'ɨrɨ Simón , aipo e'i chupe : — Orosepia ite Poropɨsɨrösar ( a'e Cristo : oyapave aipo e'i ) .
@@ -2954,9 +2954,9 @@
 43001043	A'ere arayi'ive voi Jesús ipɨ'añemoñeta oso agwä ɨvɨ Galilea rupi . A'eve osepia Felipe , aipo e'i chupe : — Erio che rupi .
 43001044	Ko Felipe sekoi va'e tekwa Betsaida pendar , a'e pendar Andrés iyavei Pedro .
 43001045	Ipare Felipe oso Natanael reka , aipo e'i chupe : — Orosepia Poropɨsɨrösar , sesendar akoi Moisés oikwachia kwachiar porokwaita resendar pɨpe araka'e , oikwachia avei sesendar Tüpä ñe'ë mombe'usar yuvɨrekoi va'e . A'e Jesús , José ra'ɨrɨ , tekwa Nazaret pendar .
-43001046	Natanael aipo e'i : — ¿ Oime pi'ä Nazaret sui osë va'erä mba'e avɨye va'e?Felipe omboyevɨ chupe : — Erio teresepia ru .
+43001046	Natanael aipo e'i : — ¿ Oime pi'ä Nazaret sui osë va'erä mba'e avɨye va'e ? Felipe omboyevɨ chupe : — Erio teresepia ru .
 43001047	Osepiase Jesús oyemboyase Natanael sese , aipo e'i : — Ko mbɨa sekoi Israel ɨgwar ite , ndoporombopai va'e .
-43001048	Natanael oporandu chupe : — ¿ Marä ere vo chekwa eve?Jesús omboyevɨ chupe : — Che oroepia yɨpɨve Felipe nde reka renondeve , ɨvɨra higuera vrɨve ereikose .
+43001048	Natanael oporandu chupe : — ¿ Marä ere vo chekwa eve ? Jesús omboyevɨ chupe : — Che oroepia yɨpɨve Felipe nde reka renondeve , ɨvɨra higuera vrɨve ereikose .
 43001049	Natanael aipo e'i chupe : — Porombo'esar , ¡ nde ni'ä Tüpä Ra'ɨrɨ ereiko , nde avei ereiko Mborerekwar ɨvate katu va'e Israel pendar !
 43001050	Jesús omboyevɨ chupe : — ¿ Che reroya ite eve esepia oroepia ɨvɨra higuera vrɨve a'ese ndeu ? Eresepiara rumo ko mba'e sui avɨye katu va'e .
 43001051	Iyavei aipo e'i Jesús : — Supiete pesepiara ɨva oyemboi tuprɨse , iyavei mbigwai ɨva pendar Tüpä suindar eta igweyɨse che ava ɨvate katu va'e Ra'ɨrɨ arɨve iyevɨse avei ɨvave kuri .
@@ -3027,7 +3027,7 @@
 43004004	Ogwatasa rupi , osasara ɨvɨ Samaria oso .
 43004005	Egwë e'i oyepota ñepëi tekwa Samaria ve oso a'e serer Sicar , a'e tekwa rerovɨkave oime ɨvɨ Jacob omondo va'ekwer gwa'ɨrɨ José upe araka'e .
 43004006	A'eve oime ɨvɨkwar Jacob ɨgwagwer . Jesús okweraise perɨ rupi ogwapɨ ɨgwa popɨve öi . Vɨrovɨse mbɨter arɨ .
-43004007	Semimbo'e eta rumo opakatu yuvɨraso tekwave mba'e tembi'u rerokwa . A'eseve ñepëi kuña Samaria pendar oyepota ɨgwave ɨ renose agwä , a'ese Jesús aipo e'i chupe:–Emboumi chi'ï nde ɨ taɨ'u .
+43004007	Semimbo'e eta rumo opakatu yuvɨraso tekwave mba'e tembi'u rerokwa . A'eseve ñepëi kuña Samaria pendar oyepota ɨgwave ɨ renose agwä , a'ese Jesús aipo e'i chupe : – Emboumi chi'ï nde ɨ taɨ'u .
 43004008	
 43004009	Esepia judío noñe'ëi va'e Samaria pendar rese oyeupe yuvɨreko yepi , a'e kuña rumo omboyevɨ chupe : — ¿ Ma'erä vo aipo nde , embou ɨ taɨ'u ere cheu nde rumo judío ereiko , che Samaria pendar aiko ?
 43004010	Jesús omboyevɨ chupe : — Ereikwase Tüpä porerekosa ndeundar viña iyavei ereikwase a'e ava ndeu ɨ rese oporandu va'e , nde evokoiyase ereporandura sese chupe , a'e evokoiyase omondora ɨ ndopai va'e ndeu viña .
@@ -3229,7 +3229,7 @@
 43007034	Che reka tëira peye , ndapeikatui chietera rumo che reka agwä , esepia ndapeikatui chira peso va'erä che rekosave .
 43007035	Evokoiyase judío eta omboɨpɨ oporandu-randu oyeupe yuvɨreko : — ¿ Ke pi'ä osora ko mbɨa ndayaikatui va'erä seka agwä viña ? ¿ Osora tie judío oñemosaï va'e pa'ü rupi oiko , iyavei nda'ei va'e ava judío mbo'e agwä pi'ä ?
 43007036	¿ Marä oya pi'ä aipo e'i ‘ Che reka tëira peye , ndapeikatui chietera rumo che reka agwä , esepia ndapeikatui chira peso va'erä che rekosave ’ ?
-43007037	Pieta ipa arɨ pɨpe imboeteisa katu va'e yepi . A'e arɨ pɨpe Jesús oñe'ë pirätä o'ä aipo e'i:–Akoi i'usei va'e , a'e touño cheu , iyavei akoi ava che yeroyasar , a'e touño avei cheu . Inungar Ikwachiaprɨ pɨpe aipo e'i , a'e ɨpɨ'a pɨpe sui osëra inungar ɨai ndopai va'e yepi .
+43007037	Pieta ipa arɨ pɨpe imboeteisa katu va'e yepi . A'e arɨ pɨpe Jesús oñe'ë pirätä o'ä aipo e'i : – Akoi i'usei va'e , a'e touño cheu , iyavei akoi ava che yeroyasar , a'e touño avei cheu . Inungar Ikwachiaprɨ pɨpe aipo e'i , a'e ɨpɨ'a pɨpe sui osëra inungar ɨai ndopai va'e yepi .
 43007038	
 43007039	Ko rese , Jesús aipo e'i seroyasar oipɨsɨra Espíritu yuvɨreko kuri ; iyavei Espíritu ndou vɨtei ete , esepia Jesús ndoike vɨtei gweko porañetesa pɨpe .
 43007040	Oime aipo ava pa'ü rupi osendu va'e ko ñe'ësa aipo e'i yuvɨreko : — Supiete revo ko mbɨa Tüpä ñe'ë mombe'usar sekoi .
@@ -3264,13 +3264,13 @@
 43008016	esepia amokañɨse ava , mba'e che rembiapo rumo supi va'e ite , esepia nda'ei che gweraño mba'e ayapo , che Ru che mbousar avei ni'ä oyapo mba'e che rupi .
 43008017	Porokwaita peü ikwachiaprɨ pɨpe aipo e'i oimese ñuvɨrïo ava mba'e mombe'usar oyoyatuprɨ va'e , a'e mba'e semimombe'u seroyasaprɨ ite .
 43008018	Supiete , che ae ite ni'ä aikwa mba'e amombe'u va'e che yesendar , che Ru che mbousar a'e avei oikwa opakatu mba'e che rembiapo .
-43008019	Oporandu yuvɨreko chupe : — ¿ Ke vo nde yesupa sekoi?Jesús omboyevɨ chupe : — Pe ndache kwai ete peye , ndapeikwai avei che Yesupa ; chekwase rumo peye viña , che Yesupa avei peikwara viña .
+43008019	Oporandu yuvɨreko chupe : — ¿ Ke vo nde yesupa sekoi ? Jesús omboyevɨ chupe : — Pe ndache kwai ete peye , ndapeikwai avei che Yesupa ; chekwase rumo peye viña , che Yesupa avei peikwara viña .
 43008020	Jesús omombe'u ko mba'e oporombo'ese tüpäro pɨpe oiko , gwarepochi rɨru porerekosa rovai . Ndipoi ete rumo osokenda va'erä , esepia ni'ä ndoyepota vɨtei ete i'arɨ chupe .
 43008021	Jesús rumo aipo e'i iri : — Che asose , pe che reka tëira peye , pemanopara pe angaipa pɨpe . Che asosave ndapeikatui chietera peso va'erä .
 43008022	Judío eta aipo e'i yuvɨreko chupe : — ¿ Ipɨ'añemoñeta pi'ä oyeyuka va'erä , iyavei sese pi'ä aipo e'i ndayaikatui chietera yaso agwä sekosave ?
 43008023	Jesús aipo e'i chupe : — Pe rumo peiko ko'ave ɨvɨ pendar , che rumo ɨvatendar aiko ; iyavei peiko ko ɨvɨ pɨpendar tëi , che nda'ei ete ko ɨvɨ pɨpendar aiko .
 43008024	Sese ni'ä akoi aipo a'e peü pemanopa itera angaipa pɨpe ; esepia ndache reroyaise peye Che Aikose , pemanopa itera angaipa pɨpe .
-43008025	Evokoiyase oporandu yuvɨreko chupe : — ¿ Uma ite vo nde ereiko?Jesús omboyevɨ chupe : — Yɨpɨndar , ¿ ma'erä vo añe'ëra pe rese vichiko ?
+43008025	Evokoiyase oporandu yuvɨreko chupe : — ¿ Uma ite vo nde ereiko ? Jesús omboyevɨ chupe : — Yɨpɨndar , ¿ ma'erä vo añe'ëra pe rese vichiko ?
 43008026	Seta iteanga areko che ñe'ë agwä peü iyavei mba'e pe rembiavɨ rese , akoi che mbousar a'e omombe'u mba'e supi va'e ite , iyavei che amombe'u va'e ɨvɨ pɨpendar yuvɨrekoi va'e upe a'e tuprɨ avei ni'ä asendu iñe'ë vichiko .
 43008027	A'e rumo ndosendukwai ete Vu rese iñe'ëse yuvɨreko .
 43008028	Sese aipo e'i chupe : — Pesupise rumo ava ɨvate katu va'e Ra'ɨrɨ , a'ese voi peikwara Che a'e Aikose , ndayapoi avei mba'e che remimbotar rupi tëi ; che rumo amombe'u mba'e che Ru che mbo'esa rupi gweraño ite .
@@ -3284,7 +3284,7 @@
 43008036	Sese , Ta'ɨrɨ pe renosese mbigwai tëi pe rekosa sui , supiete ndapeiko iri chietera mbigwai nungar .
 43008037	Aikwa ni'ä Abraham suindar peikose ; pe rumo che yuka potaño peye esepia ndaperoyai ete che ñe'ë yepi .
 43008038	Che amombe'u che Ru mba'e omboyekwa va'e cheu ; pe egwë peye aveira , peyapo mba'e pe Yesupa remimombe'u .
-43008039	A'e aipo e'i yuvɨreko chupe : — ¡ Ore yesupa rumo Abraham!Ipare Jesús omboyevɨ chupe : — Abraham ra'ɨrɨ ite peikose viña , peyapora mba'e sembiapo nungar viña .
+43008039	A'e aipo e'i yuvɨreko chupe : — ¡ Ore yesupa rumo Abraham ! Ipare Jesús omboyevɨ chupe : — Abraham ra'ɨrɨ ite peikose viña , peyapora mba'e sembiapo nungar viña .
 43008040	Evokoiyase , amombe'u mba'e supiete va'e Tüpä che mbo'e va'e rese , pe rumo che yuka potaño ite peye . ¡ Abraham rumo ndoyapoi ete ko nungar mba'e !
 43008041	Pe avei peyapo mba'e inungar tuprɨ oyapo peyesupa yuvɨreko . A'e aipo e'i yuvɨreko chupe : — ¡ Ore rumo nda'ei imboyesuprɨ tëi oroiko ; orovɨreko ñepëiño ite ore Yesupa , a'e Tüpä !
 43008042	Jesús omboyevɨ chupe : — Supiete Tüpä ite pe yesupase , pe evokoiyase che raɨsura peye viña , esepia che ayu Tüpä sui iyavei sese kurïtëi aiko ko'ave . Ndayui che remimbotar tëi , Tüpä ni'ä che mbou .
@@ -3316,12 +3316,12 @@
 43009009	Amove ambuae ava aipo e'i : — A'e ite ni'ä . Ambuae rumo aipo e'i yuvɨreko : — Nda'ei a'e , yepe oyoya tuprɨ ite sese viña . A'e mbɨa aipo e'i : — Supiete , che a'e aiko .
 43009010	Evokoiyase oporandu yuvɨreko chupe : — ¿ Marä ere vo ko kurïtëi esareko ?
 43009011	A'e rumo omboyevɨ : — Akoi mbɨa serer va'e Jesús omoakɨ̇ ɨvɨ , omondo che resa rese , ipare aipo e'i cheu : ‘ Eso ɨgwa Siloé save , ichui eyovai . ’ Che aso a'eve , ayovaise a'ese ama'e tuprɨ ite .
-43009012	Evokoiyase oporandu yuvɨreko chupe : — ¿ Ke vo sekoi a'e mbɨa?Ipare rumo a'e aipo e'i : — Ndaikwai .
+43009012	Evokoiyase oporandu yuvɨreko chupe : — ¿ Ke vo sekoi a'e mbɨa ? Ipare rumo a'e aipo e'i : — Ndaikwai .
 43009013	Mbɨtu'usa arɨ pɨpe aipo Jesús omoakɨ̇ gwendɨ pɨpe ɨvɨ ndasesapɨsoi va'e mbogwera agwä . Sese vɨraso ndasesapɨsoi va'ekwer fariseo eta rovai yuvɨreko ,
 43009014	
 43009015	a'e oporandu yuvɨreko chupe marä ere ite vo ko esareko . Ipare a'e omboyevɨ : — Omondo ɨvɨ gwendɨ pɨpe omoakɨ̇ va'e che resa rese ichui ayovai , ipare kurïtëi asareko .
-43009016	Oime fariseo pa'ü pendar aipo e'i yuvɨreko : — Akoi oyapo va'e ko nungar mba'e nda'ei ete Tüpä suindar , esepia ni'ä nomboetei ete mbɨtu'usa arɨ . Ambuae rumo aipo e'i yuvɨreko : — ¿ Marä e'ira pi'ä poromondɨisa apo viña , angaipa viyar tëi gwekose?Esepia oyeavɨratɨ tëi ipɨ'añemoñetasa yuvɨreko ,
-43009017	iyavei oporandu iri yuvɨreko ndasesapɨsoi va'ekwer upe : — Akoi ndemboesareko va'ekwer rese , ¿ marä e'i nde pɨ'añemoñeta a'e mbɨa rese?A'e aipo e'i imboyevɨ : — Che aipo a'e Tüpä ñe'ë mombe'usar ite sekoi .
+43009016	Oime fariseo pa'ü pendar aipo e'i yuvɨreko : — Akoi oyapo va'e ko nungar mba'e nda'ei ete Tüpä suindar , esepia ni'ä nomboetei ete mbɨtu'usa arɨ . Ambuae rumo aipo e'i yuvɨreko : — ¿ Marä e'ira pi'ä poromondɨisa apo viña , angaipa viyar tëi gwekose ? Esepia oyeavɨratɨ tëi ipɨ'añemoñetasa yuvɨreko ,
+43009017	iyavei oporandu iri yuvɨreko ndasesapɨsoi va'ekwer upe : — Akoi ndemboesareko va'ekwer rese , ¿ marä e'i nde pɨ'añemoñeta a'e mbɨa rese ? A'e aipo e'i imboyevɨ : — Che aipo a'e Tüpä ñe'ë mombe'usar ite sekoi .
 43009018	Judío eta rumo ndovɨroya potai ete ndasesapɨsoise iyavei kurïtëi osareko tuprɨ ite , ipare oicho'o uka iyesupa yuvɨreko
 43009019	ichui oporandu yuvɨreko chupe : — ¿ Ko ite vo pe ra'ɨrɨ ? ¿ Pemombe'u ndasesapɨsoi ete vo o'a ? ¿ Marä e'i vo kurïtëi oikatu osareko ?
 43009020	Iyesupa omboyevɨ yuvɨreko chupe : — Oroikwa ite ko ore ra'ɨrɨ sekoise , iyavei ndasesapɨsoi ete o'a ;
@@ -3338,7 +3338,7 @@
 43009031	Ore oroikwa tuprɨ ite Tüpä ndosendui ete ava angaipa viyar ñe'ë ; ava omboeteisar iyavei vɨroyasar ñe'ë gweraño ni'ä osendu .
 43009032	Ndasendusai ete aipo nungar ñe'ësa yepi ombosareko va'e ñepëi mbɨa o'a va'ekwer ndasesapɨsoi va'e .
 43009033	Ko mbɨa ndouise Tüpä suindarse viña , ndoikatui chietera mba'e apo viña .
-43009034	Evokoiyase aipo e'i yuvɨreko chupe : — Nde evokoiyase ereyesu tëi va'e angaipa pɨpe , ¿ ore mbo'e pota mba'e rese eve?Ipare omombo oɨ judío ñemonu'äsa pɨpe sui yuvɨreko .
+43009034	Evokoiyase aipo e'i yuvɨreko chupe : — Nde evokoiyase ereyesu tëi va'e angaipa pɨpe , ¿ ore mbo'e pota mba'e rese eve ? Ipare omombo oɨ judío ñemonu'äsa pɨpe sui yuvɨreko .
 43009035	Jesús oyanduse ndasesapɨsoi va'ekwer mombose ; ipare osepiase rumo oporandu chupe : — ¿ Ereroya vo nde ava ɨvate katu va'e Ra'ɨrɨ ?
 43009036	A'e aipo e'i chupe : — Che Yar , emombe'umi cheu , ayeroya katu va'erä rese .
 43009037	Jesús omboyevɨ aipo e'i chupe : — Erema'e sese : che a'e aiko , a'e sese ni'ä ereñemoñeta ë'a .
@@ -3421,7 +3421,7 @@
 43011031	Osepiase María iñarapü'ase iyavei ipoyavase ichëse yuvɨreko , judío eta sëtäve yuvɨrekoi va'e , imbovɨ'asar yuvɨraso voi sakɨkwerive ipɨ'a ñemoñeta okɨvrɨ ruvɨpave revo osora oyase'o e'i yuvɨreko chupe viña .
 43011032	Evokoiyase María oyepotase Jesús rekosave oso chupe , oñenopɨ'ä oso sovai , aipo e'i : — Che Yar , e'i revo ereikoveñose ko'ave , che kɨvrɨ nomanoi chietera viña .
 43011033	Jesús , osepiase María yase'o iyavei judío eta yuvɨraso va'e supi , opɨ'a pɨpe oyandu ite ovɨ'are'ɨ̇sa ,
-43011034	evokoiyase oporandu ava re'ɨi upe : — ¿ Ke vo oñotɨ̇ yuvɨreko?A'e aipo e'i yuvɨreko chupe : — Erio ko'ave ore Yar , teresepiaru .
+43011034	evokoiyase oporandu ava re'ɨi upe : — ¿ Ke vo oñotɨ̇ yuvɨreko ? A'e aipo e'i yuvɨreko chupe : — Erio ko'ave ore Yar , teresepiaru .
 43011035	A'ese Jesús oyase'o .
 43011036	Judío eta evokoiyase aipo e'i yuvɨreko : — ¡ Esepia a'e sembiaɨsuai ete sekoi !
 43011037	Ambuae rumo ipa'ü pendar aipo e'i yuvɨreko : — Ko mbɨa akoi , omboesapɨso ava ndasesapɨsoi va'e , ¿ ndoikatui chira pi'ä mba'e apo Lázaro upe imano e'ɨ̇ agwä viña ?
@@ -3502,7 +3502,7 @@
 43013005	Ipare omondo ɨ yepoisa rɨru pɨpe ichui oyosei gwemimbo'e eta pɨ omombiru turukwar yeovakɨtɨsa pɨpe vɨreko va'e vumbɨ rese .
 43013006	Oyosei potase Simón Pedro pɨ , a'e aipo e'i chupe : — Che Yar , ¿ nde evokoiyase ereyoseira che pɨ ?
 43013007	Jesús omboyevɨ chupe : — Nde rumo nderesendukwai mba'e che rembiapo kurïtëi , ipare rumo eresendukwara .
-43013008	Pedro aipo e'i chupe : — ¡ Che rumo ndaipotai chietera che pɨsei agwä eve!Jesús omboyevɨ chupe : — Ndayoseise rumo nde pɨ , evokoiyase nda'ei chietera che rupindar ereiko .
+43013008	Pedro aipo e'i chupe : — ¡ Che rumo ndaipotai chietera che pɨsei agwä eve ! Jesús omboyevɨ chupe : — Ndayoseise rumo nde pɨ , evokoiyase nda'ei chietera che rupindar ereiko .
 43013009	Simón Pedro aipo e'i chupe : — ¡ Evokoiyase che Yar , ani katu che pɨ gweraño ereyosei , eyosei avei che po iyavei che akä !
 43013010	Jesús omboyevɨ chupe : — Akoi oyasupa ramo va'e , a'e ipɨño tëi yoseisara , esepia opakatu ite imoatɨröprɨ sekoi . Iyavei pe ndapekɨ'ai ete peiko , yepe nda'ei opakatu tuprɨ egwë peye .
 43013011	A'e aipo e'i : “ Nda'ei opakatu tuprɨ ndapekɨ'ai ” , esepia oikwa ite uma omondora yamotare'ɨ̇mbar upe .
@@ -3656,7 +3656,7 @@
 43018004	Jesús rumo oikwa ite mba'e opakatu mba'e oime va'erä oyeupe , ichui osë oporandu ava re'ɨi upe : — ¿ Ava vo peseka ?
 43018005	A'e omboyevɨ yuvɨreko chupe : — Jesús Nazaret pendar . Jesús aipo e'i : — Che ni'ä a'e aiko . Iyavei Judas imondosar sekoi yamotare'ɨ̇mbar pa'üve .
 43018006	A'ese aipo e'i Jesús chupe : “ Che ite a'e aiko ” , a'ese oyevɨpa gwakɨkwei kotɨ ichui rumo opa ovɨ'api ɨvɨve yuvɨreko .
-43018007	Jesús oporandu iri ava re'ɨi upe : — ¿ Ava ite vo peseka?Ipare a'e omboyevɨ iri yuvɨreko chupe : — Jesús Nazaret pendar .
+43018007	Jesús oporandu iri ava re'ɨi upe : — ¿ Ava ite vo peseka ? Ipare a'e omboyevɨ iri yuvɨreko chupe : — Jesús Nazaret pendar .
 43018008	Jesús aipo e'i iri a'e yuvɨrekoi va'e upe : — Amombe'u akoi peü che ni'ä a'e aiko . Che ite che rekase peye , pepokoi rene katu ko yuvɨrekoi va'e rese toyuvɨrasoño .
 43018009	Ko egwë e'i yavɨye rane itera Jesús remimombe'ugwer aipo e'i va'e : “ Che Ru akoi erembou va'e cheu , ndipoi ete ñepëi okañɨ va'e . ”
 43018010	Evokoiyase Simón Pedro , vɨreko va'e kɨse , vɨnose ipare oyasɨ'a Malco serer va'e nambi yasu kotɨndar , a'e akoi pa'i eta rerekwar ɨvate katu va'e rembigwai .
@@ -3666,7 +3666,7 @@
 43018014	Ko Caifás aipo e'i va'e judío eta upe avɨye katura yandeu omanose ñepëi mbɨa tekwa repɨrä .
 43018015	Simón Pedro iyavei ambuae Jesús remimbo'e yuvɨrasoño ite sakɨkwei . Ambuae semimbo'e rumo oikwa va'e ite pa'i rerekwar ɨvate katu va'e , sese oikeño ite Jesús rupi oɨ pɨpe .
 43018016	Pedro rumo opɨtaño ite okarve okendɨpɨve o'ä . Sese ñepëi Jesús remimbo'e oikwa va'e pa'i rerekwar ɨvate katu va'e osë oñe'ë okendɨpɨ rärösar rese , Pedro moinge agwä rese .
-43018017	Okendɨpɨ rärösar oporandu Pedro upe : — ¿ Nda'ei vo nde avei ereiko evokoi ava remimbo'e?Pedro omboyevɨ chupe : — Ani , nda'ei che a'e aiko .
+43018017	Okendɨpɨ rärösar oporandu Pedro upe : — ¿ Nda'ei vo nde avei ereiko evokoi ava remimbo'e ? Pedro omboyevɨ chupe : — Ani , nda'ei che a'e aiko .
 43018018	A'e Pɨ̇tü pɨpe so'ɨ̇sa iteanga , mbigwai eta iyavei tüpäro rärösar oyatapɨ yuvɨreko , a'eve oyepe'e atɨ yugweru . Pedro avei sekoi ipa'üve , oyepe'e tata ɨpɨve o'ä .
 43018019	Pa'i rerekwar ɨvate katu va'e omboɨpɨ oporandu Jesús upe semimbo'e rese iporombo'esa rese avei .
 43018020	Jesús aipo e'i chupe : — Che añe'ë peü opakatu rupi iyavei opakatu ava rovake ; esepia aporombo'eño va'e ite oɨ judío ñemonu'äsa rupi iyavei tüpäro pɨpe , a'eve oñemonu'ä judío eta yuvɨreko yepi ; egwë a'e nañemi ete mba'e mombe'u .
@@ -3674,7 +3674,7 @@
 43018022	Aipo i'e rese , ñepëi tüpäro rärösar osovapete , aipo e'i chupe : — ¿ Aipo ere rutei pa'i rerekwar ɨvate katu va'e upe imboyevɨ ?
 43018023	Jesús omboyevɨ chupe : — Akoi añe'ë raise mba'e rese , emombe'u cheu ayavɨse ; iyavei akoi añe'ë tuprɨse , ¿ ma'erä vo evokoiyase che rovapete eve ?
 43018024	Evokoiyase Anás oipokwa tuprɨ imondo , Caifás pa'i rerekwar ɨvate katu va'e upe .
-43018025	A'ese Pedro ndosɨrɨi ete , oyepe'eño ite tataɨpɨve o'ä . Ipare oporandu yuvɨreko chupe : — ¿ Nda'ei vo nde avei ereiko evokoi mbɨa remimbo'e?Pedro ndaikwai va'e , e'iño chupe : — Ani , nda'ei che a'e aiko .
+43018025	A'ese Pedro ndosɨrɨi ete , oyepe'eño ite tataɨpɨve o'ä . Ipare oporandu yuvɨreko chupe : — ¿ Nda'ei vo nde avei ereiko evokoi mbɨa remimbo'e ? Pedro ndaikwai va'e , e'iño chupe : — Ani , nda'ei che a'e aiko .
 43018026	Ipare oporandu ñepëi pa'i rerekwar ɨvate katu va'e rembigwai chupe , a'e imu akoi Pedro oinambi asɨa va'e aipo e'i : — ¿ Avɨye akoi nde ite oroepia va'e mba'e mitɨ̇ rëtä pɨpe supi ?
 43018027	Pedro ndaikwai va'e e'i iri ete , a'e ramoseve voi takura oñe'ë .
 43018028	Ipare vɨraso Jesús Caifás rëtä sui yuvɨreko mborerekwar Roma pendar ñemonu'äsave . Esepia ko'ë ite ou , judío eta rumo ndoyuvɨroikei ete mborerekwar ɨvate katu va'e ñemonu'äsave , yuvɨroikese ndovɨroyai chietera porokwaita yuvɨreko viña iyavei ndoyuvɨro'ui tembi'u Pascua resendar yuvɨreko viña .
@@ -3686,25 +3686,25 @@
 43018034	Jesús aipo e'i chupe : — ¿ Ndeyesui ete vo aipo ereporandu cheu , anise tie oime ambuae omombe'u va'e che rekokwer ndeu ?
 43018035	Pilato omboyevɨ chupe : — ¿ Che vo judío aiko ? Nde rekwa pendar iyavei pa'i eta rerekwar nde reru yuvɨreko cheu . ¿ Mba'e vo ereyapo ?
 43018036	Jesús omboyevɨ chupe : — Che mborerekwasa nda'ei ko ɨvɨ pɨpendar . Egwë e'ise viña , arekora ava ovava va'erä judío upe che repɨsave yuvɨreko viña . Che mborerekwasa nda'ei ko'a pendar .
-43018037	Evokoiyase Pilato oporandu iri chupe : — ¿ Nde ite katu mborerekwar ɨvate katu va'e ereiko?Jesús omboyevɨ chupe : — Nde ite ni'ä aipo ere cheu : che ni'ä mborerekwar ɨvate katu va'e . Che ayesu iyavei ayu ko ɨvɨ pɨpe amombe'u va'erä mba'e supi va'e ete . Iyavei opakatu vɨroya va'e ñe'ësa supi va'e ite , a'e osenduño avei che ñe'ë yuvɨreko .
+43018037	Evokoiyase Pilato oporandu iri chupe : — ¿ Nde ite katu mborerekwar ɨvate katu va'e ereiko ? Jesús omboyevɨ chupe : — Nde ite ni'ä aipo ere cheu : che ni'ä mborerekwar ɨvate katu va'e . Che ayesu iyavei ayu ko ɨvɨ pɨpe amombe'u va'erä mba'e supi va'e ete . Iyavei opakatu vɨroya va'e ñe'ësa supi va'e ite , a'e osenduño avei che ñe'ë yuvɨreko .
 43018038	Pilato aipo e'i chupe : — ¿ Mba'e vo aipo supiete va'e ? Ko rese porandu pare , Pilato osë iri oñe'ë va'erä judío eta rese , aipo e'i : — Che ndayosɨi ete ñepëi mba'e ko mbɨa rembiavɨ .
 43018039	Pe rumo peikwa amosese ñepëi ava sokendaprɨ Pascua pieta pɨpe yepi : ¿ Peipota vo amose va'erä judío Rerekwar ɨvate katu va'e ?
-43018040	Opakatu säse gwasuño yuvɨreko : — ¡ Evokoi ani ! ¡ Barrabás katu emose!Barrabás rumo imondarai va'e sekoi .
+43018040	Opakatu säse gwasuño yuvɨreko : — ¡ Evokoi ani ! ¡ Barrabás katu emose ! Barrabás rumo imondarai va'e sekoi .
 43019001	Evokoiyase Pilato oporokwai Jesús nupä uka agwä .
 43019002	Ichui sundao eta omonde Jesús akä rese yu pɨaprɨ yuvɨreko , ipare omboyemonde turukwar piräumbɨ va'e pɨpe .
-43019003	Ipare oyemboya yuvɨreko sese aipo e'i : — ¡ Imboeteiprɨ tasekoi judío eta Rerekwar!Ichui osovapete-pete yuvɨreko .
+43019003	Ipare oyemboya yuvɨreko sese aipo e'i : — ¡ Imboeteiprɨ tasekoi judío eta Rerekwar ! Ichui osovapete-pete yuvɨreko .
 43019004	Pilato evokoiyase osë iri , aipo e'i ava eta upe : — Pesepia aru ko'ave , peikwa va'erä che ndayosɨi ete ñepëi mba'e sembiavɨ .
 43019005	A'ese Jesús vɨñose seru oakä rese yu pɨaprɨ iyemondesa turukwar piräumbɨ va'e avei . A'ese Pilato aipo e'i : — ¡ Ndo ko akoi a'e mbɨa !
-43019006	Osepiase rumo pa'i eta rerekwar iyavei sundao eta tüpäro rärösar , omboɨpɨ gwasë yuvɨreko : — ¡ Tayatɨkasa ! ¡ Tayatɨkasa!Pilato aipo e'i ava eta upe : — Peraso peyatɨka pe ae , esepia che ndayosɨi ete ñepëi mba'e sembiavɨ naporäi va'e .
+43019006	Osepiase rumo pa'i eta rerekwar iyavei sundao eta tüpäro rärösar , omboɨpɨ gwasë yuvɨreko : — ¡ Tayatɨkasa ! ¡ Tayatɨkasa ! Pilato aipo e'i ava eta upe : — Peraso peyatɨka pe ae , esepia che ndayosɨi ete ñepëi mba'e sembiavɨ naporäi va'e .
 43019007	Judío eta rerekwar omboyevɨ yuvɨreko chupe : — Ore rumo orovɨreko ñepëi mborokwaita , iyavei aipo e'i ore mborokwaita pɨpe omanoño itera , esepia oyeapo a'e ae tëi Tüpä Ra'ɨrɨ nungar .
 43019008	Aipo ñe'ësa renduse , Pilato oyembosɨkɨye katu iri .
-43019009	Koiye oike iri mborerekwar oɨ ñemonu'äsa pɨpe aipo e'i oporandu Jesús upe : — ¿ Ke pendar ite vo nde ereiko?Jesús nomboyevɨ iri ete iñe'ë chupe .
+43019009	Koiye oike iri mborerekwar oɨ ñemonu'äsa pɨpe aipo e'i oporandu Jesús upe : — ¿ Ke pendar ite vo nde ereiko ? Jesús nomboyevɨ iri ete iñe'ë chupe .
 43019010	Pilato aipo e'i chupe : — ¿ Evokoiyase nderemboyevɨi chietera ñe'ësa cheu ? ¿ Ndereikwai vo che mborerekwar aiko nde atɨka uka agwä , mba'e tëi sui nde renose agwä avei ?
 43019011	A'ese Jesús omboyevɨ chupe : — Ani ndererekoi chietera ñepëi nde mborerekwasa che arɨve , iyavei Tüpä nomondoise ndeu mba'e apo agwä viña ; evokoi rumo , che mondosar ndeu a'e oyemboangaipa katu itera ndesui .
 43019012	A'e ramo seve , Pilato oseka iri tëi Jesús renose agwä ; judío eta rumo säse pirätä ñoite yuvɨreko chupe : — ¡ Akoi eremosese ko mbɨa , nda'ei chietera nde mborerekwar ɨvate katu va'e mborɨpar ereiko ! ¡ Iyavei oyemomborerekwa tëi va'e , a'e yuvɨrekoi mborerekwar ɨvate katu va'e amotare'ɨ̇mbar tëi !
 43019013	Pilato , osenduse aipo ñe'ësa , a'ese vɨnose uka Jesús okarve , ipare ogwapɨ mborerekwar ɨvate katu va'e rendave , a'eve aipo hebreo ñe'ë pɨpe aipo e'i Gabatá Ita Apoprɨ oya .
 43019014	Ipane vɨtese ñepëi arɨ Pascua pieta agwä , vɨrovɨse aipo mbɨter arɨ . A'ese Pilato aipo e'i judío eta upe : — ¡ Ndo ko pe rerekwar sekoi !
-43019015	A'e rumo säse pirätä yuvɨreko : — ¡ Töse ! ¡ Töse ! ¡ Tayatɨkasa kurusu rese!Pilato oporandu ava eta upe : — ¿ Peipota vo yatɨkasa kurusu rese pe rerekwar ɨvate katu va'e?Iyavei pa'i eta rerekwar omboyevɨ yuvɨreko chupe : — ¡ Ore ndorovɨreko iri ete ambuae mborerekwar ɨvate katu va'e Roma pendar sui !
+43019015	A'e rumo säse pirätä yuvɨreko : — ¡ Töse ! ¡ Töse ! ¡ Tayatɨkasa kurusu rese ! Pilato oporandu ava eta upe : — ¿ Peipota vo yatɨkasa kurusu rese pe rerekwar ɨvate katu va'e ? Iyavei pa'i eta rerekwar omboyevɨ yuvɨreko chupe : — ¡ Ore ndorovɨreko iri ete ambuae mborerekwar ɨvate katu va'e Roma pendar sui !
 43019016	A'ese Pilato omondo Jesús ava eta upe yatɨka uka agwä kurusu rese , ipare rumo a'e vɨraso yuvɨreko .
 43019017	Jesús vɨnose kurusu seraso , “ Ava Akä kangwer ” serer va'e save ( a'e serer hebreo ñe'ë pɨpe Gólgota ) .
 43019018	A'eve oyatɨka kurusu rese yuvɨreko , seseve avei oyatɨka ñuvɨrïo ava yuvɨreko , ñepëi-pëi yɨke ɨvɨi , evokoiyase Jesús opɨta mbɨterve .
@@ -3744,10 +3744,10 @@
 43020010	Koiye katu , semimbo'e oyevɨpa yuvɨreko gwëtäve .
 43020011	María opɨtaño okarve , tuvɨpa ɨpɨve , oyase'oño o'ä . Ipare rumo oyase'o vɨteseve o'ä oivɨro tuvɨpa pɨpe ,
 43020012	ipare a'eve osepia ñuvɨrïo mbigwai ɨva pendar iturukwar morochi va'e yuvɨreko , a'eve ogwapɨ yuvɨnoi Jesús re'ögwer rupagwerve ; ñepëi ñakä rupagwer kotɨ ambuae ipɨ rupagwer kotɨ .
-43020013	Mbigwai ɨva pendar aipo e'i oporandu yuvɨreko chupe : — Kuña , ¿ ma'erä vo ereyase'o?A'e omboyevɨ chupe : — Esepia ni'ä che Yar re'ögwer vɨraso yuvɨreko , iyavei ndaikwai kevo katu omondo yuvɨreko .
+43020013	Mbigwai ɨva pendar aipo e'i oporandu yuvɨreko chupe : — Kuña , ¿ ma'erä vo ereyase'o ? A'e omboyevɨ chupe : — Esepia ni'ä che Yar re'ögwer vɨraso yuvɨreko , iyavei ndaikwai kevo katu omondo yuvɨreko .
 43020014	Aipo omombe'u vɨteseve o'ä oyemboyere osepia Jesús a'eve , ndoikwai rumo a'e sekoise
-43020015	Jesús oporandu chupe : — Kuña , ¿ ma'erä vo ereyase'o ? ¿ Ava vo ereseka eiko?A'e kuña , omo'ä mba'e mitɨ̇ rëtä rärösar revo e'i viña , a'ese aipo e'i chupe : — Nde ite ererasose , emombe'uño cheu kevo eremondo , che aso va'erä seka .
-43020016	Jesús evokoiyase aipo e'i chupe : — ¡ María!A'e kuña oyemboyere sese aipo e'i hebreo ñe'ë pɨpe chupe : — ¡ Rabuni ! ( “ Porombo'esar ” oyapave aipo e'i ) .
+43020015	Jesús oporandu chupe : — Kuña , ¿ ma'erä vo ereyase'o ? ¿ Ava vo ereseka eiko ? A'e kuña , omo'ä mba'e mitɨ̇ rëtä rärösar revo e'i viña , a'ese aipo e'i chupe : — Nde ite ererasose , emombe'uño cheu kevo eremondo , che aso va'erä seka .
+43020016	Jesús evokoiyase aipo e'i chupe : — ¡ María ! A'e kuña oyemboyere sese aipo e'i hebreo ñe'ë pɨpe chupe : — ¡ Rabuni ! ( “ Porombo'esar ” oyapave aipo e'i ) .
 43020017	Jesús aipo e'i chupe : — Ani che mombɨta eve , esepia ndaso vitei ete che Ru pɨri . Eso iyavei emombe'u che reroyasar upe osora Vu pɨri erera yuvɨreko chupe , a'e che Ru pe Ru aveino , che Tüpä pe Tüpä aveino .
 43020018	Evokoiyase María Magdalena oso semimbo'e eta upe imombe'u Yar repia agwer , omombe'u avei iñe'ë agwer chupe yuvɨreko .
 43020019	A'e arɨ pɨ̇tü pɨpeve avei , domingo pɨpe , semimbo'e eta opa oɨ omovɨräkwä oñemonu'äsa osɨkɨyepave mborerekwar judíos sui yuvɨreko . A'eve Jesús oike oso gwemimbo'e eta pa'üve , oyapo avɨrave aipo e'i : — ¡ Teko tuprɨsa tasekoi perese !
@@ -3767,9 +3767,9 @@
 43021002	A'eve yuvɨrekoi Simón Pedro , Tomás , a'e akoi Gemelo , Natanael , a'e aipo Caná ɨvɨ Galilea pendar , Zebedeo ra'ɨrɨ iyavei ambuae ñuvɨrïo Jesús remimbo'e .
 43021003	Simón Pedro aipo e'i chupe : — Asora pira mbo'a . A'e rumo omboyevɨ yuvɨreko chupe : — Ore avei orosora nde rupi . Yuvɨrasopa , ichui yuvɨro'a ñepëi ɨarusu pɨpe ; a'e pɨ̇tü pɨpe rumo nombo'ai ete pira yuvɨreko .
 43021004	Ko'ë potase rumo , Jesús oyemboyekwa ɨmbe'ɨ ɨvɨi , semimbo'e eta rumo ndoikwai ete Jesús sekoise yuvɨreko .
-43021005	Jesús oporandu aipo e'i gwemimbo'e upe : — Mbɨa chi'ïvä'e , ¿ ndapembo'aimi ete vo pira?A'e omboyevɨ yuvɨreko chupe : — Ani ete .
+43021005	Jesús oporandu aipo e'i gwemimbo'e upe : — Mbɨa chi'ïvä'e , ¿ ndapembo'aimi ete vo pira ? A'e omboyevɨ yuvɨreko chupe : — Ani ete .
 43021006	Jesús aipo e'i gwemimbo'e upe : — Pemondo ɨve pira mbo'asa pe asu kotɨ ɨarusu pɨpe , a'ese pembo'ara pira . Egwë e'i seroya yuvɨreko , ipare rumo ndoikatui ete pira mbo'asa ɨpɨ sui senose agwä yuvɨreko esepia seta iteanga pira imbo'aprɨ ipɨpe .
-43021007	Evokoiyase ñepëi Jesús remimbo'e sembiaɨsu katu , aipo e'i Pedro upe : — ¡ Evokoi ñi'ä yande Yar!Simón Pedro osendu ramoseve ñe'ësa Yar resendar , omonde voi oturukwar , esepia nani tuprɨ sekoi , ovɨapiño ɨpɨve oso ichui .
+43021007	Evokoiyase ñepëi Jesús remimbo'e sembiaɨsu katu , aipo e'i Pedro upe : — ¡ Evokoi ñi'ä yande Yar ! Simón Pedro osendu ramoseve ñe'ësa Yar resendar , omonde voi oturukwar , esepia nani tuprɨ sekoi , ovɨapiño ɨpɨve oso ichui .
 43021008	Ipare ambuae semimbo'e eta oyemboya ɨmbe'ɨ popɨve yugweru ɨarusu pɨpe , ombotɨrɨrɨ pira re'ɨi seru yuvɨreko , a'e i'amombrɨgwer vɨreko ɨmbe'ɨ popɨ sui cien metros tëi .
 43021009	Ogweyɨpase ɨvɨ ätasave , osepia ñepëi tata sendɨ va'e yuvɨreko , i'arɨve ñepëi pira tui , mboyape avei .
 43021010	Jesús aipo e'i chupe : Peru pira movɨ̇ro pe mbo'a ramo va'e ko'ave .
@@ -3777,9 +3777,9 @@
 43021012	Jesús aipo e'i chupe : — Perio tapekaru rane . Ndipoi ete ñepëi semimbo'e oporandu va'e chupe uma a'e sekoi , esepia oikwa ite Yar sekoise yuvɨreko .
 43021013	Ichui Jesús oyemboya oso , oipɨsɨ mboyape omondo gwemimbo'e upe ; egwë e'i avei pira mondo .
 43021014	Ko rese Jesús oyemboyekwa mbosapɨ yupagwer gwemimbo'e upe okwerayevɨ pare .
-43021015	Opase okaru yuvɨreko , Jesús oporandu aipo e'i Simón Pedro upe : — Simón , Juan ra'ɨrɨ , ¿ che raɨsu katu vo eve ko yuvɨrekoi va'e sui?Pedro omboyevɨ chupe : — Taa , che Yar , nde ereikwa ite che oroaɨsuse . Jesús aipo e'i chupe : — Esärö tuprɨ ava che reroyasar sereko , esepia a'e yuvɨrekoi ovesami nungar .
-43021016	Omboyupagwe iri oporandu chupe : — Simón , Juan ra'ɨrɨ , ¿ che raɨsu ite vo eve?Pedro omboyevɨ chupe : — Taa , che Yar , nde ereikwa ite che oaraɨsuse . Jesús aipo e'i chupe : — Esärö tuprɨ ava che reroyasar sereko .
-43021017	Imombosapɨsa rupi oporandu iri chupe : — Simón , Juan ra'ɨrɨ , ¿ che raɨsu vo eve?Pedro , ndoyembovɨ'ai tëi esepia oporandu mbosapɨ yupagwer rupi cheraɨsu ite pi'ä oyapave , a'e omboyevɨ chupe : — Che Yar , nde ni'ä opakatu ereikwa mba'e : nde avei ereikwa che oroaɨsuse nderereko . Jesús aipo e'i chupe : — Esärö tuprɨ ava che reroyasar sereko .
+43021015	Opase okaru yuvɨreko , Jesús oporandu aipo e'i Simón Pedro upe : — Simón , Juan ra'ɨrɨ , ¿ che raɨsu katu vo eve ko yuvɨrekoi va'e sui ? Pedro omboyevɨ chupe : — Taa , che Yar , nde ereikwa ite che oroaɨsuse . Jesús aipo e'i chupe : — Esärö tuprɨ ava che reroyasar sereko , esepia a'e yuvɨrekoi ovesami nungar .
+43021016	Omboyupagwe iri oporandu chupe : — Simón , Juan ra'ɨrɨ , ¿ che raɨsu ite vo eve ? Pedro omboyevɨ chupe : — Taa , che Yar , nde ereikwa ite che oaraɨsuse . Jesús aipo e'i chupe : — Esärö tuprɨ ava che reroyasar sereko .
+43021017	Imombosapɨsa rupi oporandu iri chupe : — Simón , Juan ra'ɨrɨ , ¿ che raɨsu vo eve ? Pedro , ndoyembovɨ'ai tëi esepia oporandu mbosapɨ yupagwer rupi cheraɨsu ite pi'ä oyapave , a'e omboyevɨ chupe : — Che Yar , nde ni'ä opakatu ereikwa mba'e : nde avei ereikwa che oroaɨsuse nderereko . Jesús aipo e'i chupe : — Esärö tuprɨ ava che reroyasar sereko .
 43021018	Akoi nde chi'ïvä'e katu vɨtese , ereyemonde eiko ereso va'erä nde remimbotar rupi tëi ; nde kwakwamise rumo , ereyeyɨvamoatära iyavei ambuae nde mboyemondera , nde reraso aveira ndeso potae'ɨ̇save yuvɨreko .
 43021019	Ko omombe'use , Jesús oikwa uka marä e'ira Pedro omano kuri iyavei omanosa pɨpe omboeteira Tüpä sereko . Ipare aipo e'i chupe : — ¡ Erio che rupi !
 43021020	Oyevɨse yugweru , Pedro osepia gwakɨkwei ñepëi ouse Jesús rembiaɨsu katu va'e , a'e akoi chini yɨpɨve karusa ipa va'esave oporandu avei chupe : “ Che Yar , ¿ uma vo nde mondora nde amotare'ɨ̇mbar upe ? ”
@@ -3931,7 +3931,7 @@
 44005005	Osenduse Pedro ñe'ësa , ovɨapi se'ögwer oso sovai . A'ese opakatu oyandu va'e osɨkɨye tëi yuvɨreko .
 44005006	Ipare mbɨa chi'ïvä'e yugweru , osupi se'ögwer oipoke seraso yuvɨreko ñotɨ̇ agwä .
 44005007	Koiye katumi Ananías sembireko oike oɨ pɨpe , ndoikwa vɨtei rumo omer mano .
-44005008	Pedro oporandu chupe : — Emombe'u cheu , ¿ ko gwarepochi retakwer rupi ete vo pemondo pe ɨvɨ?A'e kuña omboyevɨ chupe : — A'e seprɨ rupi ete oromondo .
+44005008	Pedro oporandu chupe : — Emombe'u cheu , ¿ ko gwarepochi retakwer rupi ete vo pemondo pe ɨvɨ ? A'e kuña omboyevɨ chupe : — A'e seprɨ rupi ete oromondo .
 44005009	Pedro aipo e'i chupe : — ¿ Ma'erä vo peyemboyoya pemondo va'erä yande Yar Espíritu tekoa'äsa pɨpe ? Evokoi yugweru vɨraso va'e nde mer ñotɨ̇ yuvɨreko , kurïtëi nde avei nde rerasora yuvɨreko .
 44005010	A'e ramoseve avei ovɨapi Safira Pedro rovai omano oso . Mbɨa chi'ïvä'e yuvɨroikese , ipare vɨraso voiño ite se'ögwer imer ɨvɨi ñotɨ̇ agwä yuvɨreko .
 44005011	Iyavei opakatu yuvɨrekoi va'e tüpäro pɨpendar , ambuae ava avei oyembosɨkɨye tëi , opakatu tuprɨ ko mba'e oyanduse yuvɨreko .
@@ -4071,9 +4071,9 @@
 44008028	Oyevɨse gwekwave oso , ogwapɨ tuprɨ öi vɨru karëto pɨpe iyavei oyerokɨ kwachiar Tüpä ñe'ë mombe'usar Isaías rembikwachiagwer .
 44008029	A'ese Espíritu aipo e'i Felipe upe : “ Eyemboya evokoi karëto rese . ”
 44008030	Oyemboyase Felipe oso sese , osendu etiope oyerokɨse Isaías rembikwachiagwer öi ; a'ese oporandu chupe : — ¿ Eresendukwa vo aipo ereyerokɨ va'e eï ?
-44008031	Etiopía pendar mbɨa omboyevɨ chupe : — ¿ Marä a'era vo che sendukwa viña , ndipoise imombe'u tuprɨsar cheu?Ipare aipo e'i Felipe upe eyeupi , teregwapɨ ko'ave che pɨri .
+44008031	Etiopía pendar mbɨa omboyevɨ chupe : — ¿ Marä a'era vo che sendukwa viña , ndipoise imombe'u tuprɨsar cheu ? Ipare aipo e'i Felipe upe eyeupi , teregwapɨ ko'ave che pɨri .
 44008032	A'e iyerokɨsa pɨpe Ikwachiaprɨ aipo e'i : “ Serasosa inungar ovesa yuka agwä mba'e mɨmba yukasave ; inungar ovesa membrɨ nasasëi va'e ite yepɨegwë e'i avei oyukasar rovai , egwë e'i tuprɨ avei a'e mbɨa noñe'ëi ete .
-44008033	Osekomomini yuvɨreko , iyavei ndipoi ete sepɨsar ; ¿ uma pi'ä oikatura oñe'ë ichuindar rekokwer rese?Esepia ava ko ɨvɨ pɨpendar oyuka ite yuvɨreko . ”
+44008033	Osekomomini yuvɨreko , iyavei ndipoi ete sepɨsar ; ¿ uma pi'ä oikatura oñe'ë ichuindar rekokwer rese ? Esepia ava ko ɨvɨ pɨpendar oyuka ite yuvɨreko . ”
 44008034	Oyerokɨ pare a'e Etiopía pendar oporandu Felipe upe : — Emombe'umi cheu , ¿ uma rese pi'ä aipo ko Tüpä ñe'ë mombe'usar oñe'ë : oyese ae pi'ä anise ambuae ava rese tie ?
 44008035	Evokoiyase Felipe , ko Ikwachiaprɨ sui omombe'u ñe'ësa avɨye va'e Jesús rekokwer resendar Etiopía pendar upe .
 44008036	Koiye katu , oyepotase ɨ oimesave yuvɨreko , a'ese gwarepochi rese ñangarekwar aipo e'i : — Esepia ko'ave oime ɨ ; ¿ Ndiyai vo che apirämomi tëi eve viña ?
@@ -4120,7 +4120,7 @@
 44009037	A'e arɨ rupi , Dorcas imba'easɨ gwasu ou ichui omano . Ipare ava se'ögwer oyosei , ichui vɨroyeupi oɨ ɨvate va'esave seraso yuvɨreko .
 44009038	Jope namombrɨi Lida sui , evokoiyase oyanduse Jesús reroyasar Jope pendar Pedro Lida ve sekoise , a'ese omondo ñuvɨrïo mbɨa seru poyava agwä Jope ve yuvɨreko .
 44009039	Evokoiyase Pedro oso supi . Oyepotase yuvɨraso a'eve vɨroyeupi oɨ ɨvate va'esave seraso te'ögwersave yuvɨreko ; iyavei opakatu kuña imer mano va'ekwer oyere atɨ voi , oyase'o Pedro ɨvɨi yuvɨreko omboyekwa avei oturukwar i'arɨ pendar reseve Dorcas rembiapokwer yuvɨreko chupe .
-44009040	Ipare Pedro omosepa rane opakatu ava okarve , ipare oñenopɨ'ä oyerure Tüpä upe ; ichui oma'e kuña omano va'e rese aipo e'i chupe : — ¡ Tabitá , eñarapü'a!Aipo oyeupe ese , Tabitá omboi gwesa , Pedro repiase , oñarapü'a öi .
+44009040	Ipare Pedro omosepa rane opakatu ava okarve , ipare oñenopɨ'ä oyerure Tüpä upe ; ichui oma'e kuña omano va'e rese aipo e'i chupe : — ¡ Tabitá , eñarapü'a ! Aipo oyeupe ese , Tabitá omboi gwesa , Pedro repiase , oñarapü'a öi .
 44009041	A'ese oipopɨsɨ imoñarapü'a ; ipare oñe'ë opakatu Jesús reroyasar kuña imer mano va'ekwer upe avei aipo e'i , pesepia ko okwerayevɨse .
 44009042	Seräkwä oyanduse opakatu Jope rupi , seta ava yande Yar vɨroya yuvɨreko .
 44009043	Evokoiyase Pedro opɨta seta arɨ a'e tekwave , mbɨa mba'e pirer mopɨ̇tasar rëtäve Simón serer va'e pɨri .
@@ -4216,7 +4216,7 @@
 44012012	Omondose opɨ'añemoñeta ko rese , Pedro oso Juan Marcos sɨ María rëtäve , a'eve seta ava oñemonu'ä oyerure yuvɨreko sese .
 44012013	Oñe'ëse Pedro okenda okar kotɨndarve , a'ese ñepëi kuñatäi serer va'e Rode osë ava pi'ä oyapave .
 44012014	Osenduse rumo Pedro ñe'ë , okenda omboi rägwer sui , oña oike oɨ pɨpe vorɨvetesave imombe'u Pedro i'äi okendɨpɨve oya .
-44012015	A'e rumo aipo e'i yuvɨreko chupe , — ¡ Ndearakwa kañɨ ite moko eiko!A'e kuña rumo supiete e'iño . Ava re'ɨi aipo e'i yuvɨreko : — Nda'ei revo a'e ; avɨyeteramo mbigwai ɨva pendar tëi .
+44012015	A'e rumo aipo e'i yuvɨreko chupe , — ¡ Ndearakwa kañɨ ite moko eiko ! A'e kuña rumo supiete e'iño . Ava re'ɨi aipo e'i yuvɨreko : — Nda'ei revo a'e ; avɨyeteramo mbigwai ɨva pendar tëi .
 44012016	A'eseve , Pedro oñe'ë vɨteño okendɨpɨve o'ä . Ichui omboise okenda yuvɨreko chupe , oyembosɨkɨye iriño tëi sepiase yuvɨreko .
 44012017	Pedro rumo omopü'a opo imbokiriri agwä . Ichui opa omombe'u yande Yar opɨsɨrö agwer vokendasa sui yuvɨreko chupe . Ipare aipo e'i iri : — Pemombe'upa Santiago upe iyavei ambuae Jesús reroyasar upe . Ipare öseño , oso ambuae tekwa rupi oiko .
 44012018	Ko'ëse , sundao oyepɨ'amondɨi eteanga , esepia ndoikwai ete Pedro rekosa yuvɨreko .
@@ -4288,7 +4288,7 @@
 44014007	A'eve avei omombe'u ñe'ësa avɨye va'e yuvɨreko .
 44014008	Listra ve oime mbɨa o'a ramo suive ndogwatai va'e . A'e mbɨa ogwapɨ öi ,
 44014009	oyapɨsaka tuprɨ Pablo ñe'ë rese , ichui Pablo oma'egätu a'e mbɨa rese oikwa voi ete oyeroyase Tüpä rese okwera agwä .
-44014010	Evokoiyase aipo e'i oñe'ë pirätä chupe : — ¡ Epü'a ndepɨ ndeasu kotɨ ë'ä!A'ese a'e mbɨa opo opü'a , ichuive tuprɨ omboɨpɨ ogwata .
+44014010	Evokoiyase aipo e'i oñe'ë pirätä chupe : — ¡ Epü'a ndepɨ ndeasu kotɨ ë'ä ! A'ese a'e mbɨa opo opü'a , ichuive tuprɨ omboɨpɨ ogwata .
 44014011	Osepiase Pablo rembiapo , a'ese ava re'ɨi omboɨpɨ gwasë gwasu Licaonia ñe'ë pɨpe yuvɨreko : — ¡ Tüpä nungar tuprɨ ogweyɨ ava yuvɨreko yandeu !
 44014012	Iyavei aipo e'i Bernabé upe yuvɨreko a'e sekoi tüpä Zeus , Pablo upe tüpä Hermes e'i yuvɨreko , esepia ni'ä a'e akoi oñe'ë katu va'e ite oiko .
 44014013	Pa'i Zeus suindar , a'e vɨreko otüpäro tekwa rokendɨpɨve , a'ese gweru tɨvi mba'e potrɨ avei ; a'e ava reseve vɨropove'ë pota mba'e yukaprɨ yuvɨreko chupe viña .
@@ -4405,7 +4405,7 @@
 44017015	Yuvɨrekoi va'e Pablo rupi a'e yuvɨraso ite tekwa Atenas ve supi . Ichui yuvɨroyevɨse gweru ñe'ësa Silas iyavei Timoteo upe , yuvɨraso voi va'erä ipɨri yuvɨreko .
 44017016	Pablo osärö vɨteseve Silas iyavei Timoteo tekwa Atenas ve oiko , ndoyembovɨ'ai osepiase seta iteanga mba'e ra'anga apoprɨ a'e tekwa pipe .
 44017017	Sese oɨ judío ñemoñu'äsave oyemomborandu iyavei ambuae ava Tüpä mboeteisar rese yuvɨreko , iyavei arɨ yakatu rupi oyemomborandu okarusuve oñemonu'ä va'e rese avei a'eve yuvɨreko yepi .
-44017018	Evokoiyase oime amove mbɨa oyembo'e va'e epicúreo arakwasa rese iyavei mbɨa oyembo'e va'e estoicos arakwasa rese omboɨpɨ oyemomborandu sese yuvɨreko . Ñepëi ipa'ü pendar aipo e'i : — ¿ Mba'e rese pi'ä ko mbɨa oñe'ë iñe'ë paparai va'e oiko?Ambuae avei aipo e'i yuvɨreko : — Ndoyavɨi ko mbɨa oñe'ë va'e ambuae ava tüpä rese tëi . Aipo e'i yuvɨreko esepia Pablo omombe'u ite ñe'ësa avɨye va'e Jesús rekokwer resendar ikwerayevɨsa resendar avei .
+44017018	Evokoiyase oime amove mbɨa oyembo'e va'e epicúreo arakwasa rese iyavei mbɨa oyembo'e va'e estoicos arakwasa rese omboɨpɨ oyemomborandu sese yuvɨreko . Ñepëi ipa'ü pendar aipo e'i : — ¿ Mba'e rese pi'ä ko mbɨa oñe'ë iñe'ë paparai va'e oiko ? Ambuae avei aipo e'i yuvɨreko : — Ndoyavɨi ko mbɨa oñe'ë va'e ambuae ava tüpä rese tëi . Aipo e'i yuvɨreko esepia Pablo omombe'u ite ñe'ësa avɨye va'e Jesús rekokwer resendar ikwerayevɨsa resendar avei .
 44017019	Evokoiyase vɨraso Areópago ve , a'eve oporandu yuvɨreko chupe : — ¿ Iya pi'ä eremombe'u tuprɨ mitëira ko nde porombo'esa ipɨasu va'e oreu ?
 44017020	Supiete mba'e eremombe'u va'e ndorosendukwai ete , iyavei ore oroikwa tuprɨ pota marä oyapave vo aipo e'i .
 44017021	Iyavei opakatu Atenas pendar , ambuae ava tekwa pendar avei yuvɨrekoi va'e a'eve , ñe'ësa osendu potarai iyavei a'e ñoite iyemoñetasa yuvɨreko .
@@ -4451,8 +4451,8 @@
 44018027	Apolo oso potase Acaya ɨvɨ rese , a'ese Jesús reroyasar omongere'ɨ̇ katu , oyapo kwachiar imondo a'e pendar upe yuvɨreko sese añeko tuprɨ agwä . Ipare oyepota oso Acaya ve , a'e oipɨtɨ̇vɨï ava Tüpä reroyar yuvɨrekoi va'e a'eve ,
 44018028	omboyekwa opakatu rovake judío pɨ'añemoñetasa kokotɨ tëi va'e , a'ese opa osekopɨ oñe'ë pɨpe a'e ava , esepia Ikwachiaprɨ pɨpe omboyekwa ite Jesús Poropɨsɨrösar sekoise .
 44019001	Apolo sekoi vɨteseve Corinto ve , Pablo osasa ɨvɨtrɨ oso ipare oyepota Éfeso ve , a'eve osepia seta Jesús reroyasar .
-44019002	A'e oporandu ava upe : — ¿ Peipɨsɨ vo Espíritu Maräne'ɨ̇ pe pɨ'a pɨpe peroyase Jesús?A'e omboyevɨ yuvɨreko chupe : — Ore ndorosendui ete aipo Espíritu Maräne'ɨ̇ resendar ñe'ësa .
-44019003	Pablo oporandu chupe yuvɨreko : — Evokoiyase , ¿ pe mba'e apirämosa vo peipɨsɨ?A'e omboyevɨ yuvɨreko chupe : — Juan poroapirämosa oroipɨsɨ .
+44019002	A'e oporandu ava upe : — ¿ Peipɨsɨ vo Espíritu Maräne'ɨ̇ pe pɨ'a pɨpe peroyase Jesús ? A'e omboyevɨ yuvɨreko chupe : — Ore ndorosendui ete aipo Espíritu Maräne'ɨ̇ resendar ñe'ësa .
+44019003	Pablo oporandu chupe yuvɨreko : — Evokoiyase , ¿ pe mba'e apirämosa vo peipɨsɨ ? A'e omboyevɨ yuvɨreko chupe : — Juan poroapirämosa oroipɨsɨ .
 44019004	Pablo aipo e'i chupe yuvɨreko : — Supiete , Juan oñapirämo osekuñarö va'e ñoite gwekokwer Tüpä upe , aipo e'i chupe peroya katu a'e ou va'erä che rakɨkwei , a'e sekoi Jesús .
 44019005	Osenduse ko ñe'ësa , opakatu oñeapirämo uka yande Yar Jesús rer pɨpe yuvɨreko ;
 44019006	ipare omondose Pablo opo i'arɨve , a'ese ogweyɨ Espíritu Maräne'ɨ̇ i'arɨve , oñe'ë avei ambuae ñe'ësa ndikwasai va'e pɨpe yuvɨreko , iyavei omombe'u Tüpä suindar ñe'ësa yuvɨreko .
@@ -4565,7 +4565,7 @@
 44021034	Oime ava oñe'ë va'e ñepëi mba'e rese , iyavei ambuae oñe'ë ambuae mba'e rese , sese sundao rerekwar ɨvate katu va'e ndosendukwai ete ñe'ësa esepia ni'ä yaɨvu gwasu tëi yugweru ; ipare omondo uka sundao yembo'esave .
 44021035	Vɨroyepotase sundao yembo'esa yeupisave yuvɨreko , ichui sundao osupi oachi'ɨve Pablo seraso yuvɨreko ava re'ɨi ñemoɨrö iteangasa sui ;
 44021036	esepia ava yuvɨraso sakɨkwei säse puku-puku : “ ¡ Tomano ! ” e'i yuvɨreko chupe .
-44021037	Omoinge potase sundao yembo'esave yuvɨreko , a'ese Pablo oporandu sundao rerekwar ɨvate katu va'e upe : — ¿ Iyakatu pi'ä añe'e raimi tëi nde rese?Evokoiyase sundao rerekwar ɨvate katu va'e omboyevɨ chupe : — ¿ Ereikwa vo eñe'ë griego ñe'ë pɨpe ?
+44021037	Omoinge potase sundao yembo'esave yuvɨreko , a'ese Pablo oporandu sundao rerekwar ɨvate katu va'e upe : — ¿ Iyakatu pi'ä añe'e raimi tëi nde rese ? Evokoiyase sundao rerekwar ɨvate katu va'e omboyevɨ chupe : — ¿ Ereikwa vo eñe'ë griego ñe'ë pɨpe ?
 44021038	Evokoiyase ¿ Nda'ei vo nde Egipto pendar vavasa oyapo va'ekwer ereiko , nde revo akoi ereraso oporoyuka va'e päve cuatro mil tuprɨ ɨvɨ iporupɨre'ɨ̇sa va'e rupi ?
 44021039	Evokoiyase Pablo aipo e'i chupe : — Che judío , tekwa Tarso pendar aiko a'e tekwa Cilicia pɨpendar imboeteiprɨ va'e sekoi ; eyapomi mba'e ikatuprɨ va'e cheu , tañe'ëmi rane katu ava upe .
 44021040	Evokoiyase sundao rerekwar ɨvate katu va'e avɨye e'i chupe , ipare Pablo opü'a yeupisa arɨve , omopü'a oyɨva ava eta mongiriri agwä . A'ese oyapɨsaka tuprɨ ava re'ɨi yuvɨreko , a'e ava upe oñe'ë hebreo ñe'ë pɨpe , aipo e'i :
@@ -4595,7 +4595,7 @@
 44022024	A'ese sundao rerekwar ɨvate katu va'e omoinge uka sundao yembo'esave , ichui oyokwai inupa uka agwä , omombe'u va'erä mba'e sui vo säse atɨ yamotare'ɨ̇mbave ava yuvɨreko chupe .
 44022025	Oñapɨ̇chise rumo inupa agwä yuvɨreko , Pablo oporandu sundao rerekwar ɨvate katu va'e a'eve sekoi va'e upe : — ¿ Perekovo mborerekwasa peinupä uka va'erä ñepëi Roma pendar , iyavei mba'e rese porandu e'ɨ̇sa pɨpe ?
 44022026	Osenduse iñe'ë , sundao rerekwar oso imombe'u gwerekwar ɨvate katu va'e upe , aipo e'i . — ¿ Mba'e vo evokoiyase nde ereyapora ? Esepia evokoi mbɨa Roma ɨgwar .
-44022027	Evokoiyase sundao rerekwar ɨvate katu va'e oyemboyeya Pablo rese , oporandu chupe : — ¿ Supiete vo nde Roma ɨgwar ereiko?Pablo omboyevɨ chupe : — Supiete che a'e aiko .
+44022027	Evokoiyase sundao rerekwar ɨvate katu va'e oyemboyeya Pablo rese , oporandu chupe : — ¿ Supiete vo nde Roma ɨgwar ereiko ? Pablo omboyevɨ chupe : — Supiete che a'e aiko .
 44022028	Sundao rerekwar ɨvate katu va'e aipo e'i chupe : — Che rumo seta gwarepochi amondo Roma ɨgwar che reko agwä . Ipare Pablo omboyevɨ chupe : — Che rumo a'eve a'a va'e ite .
 44022029	A'ese oinupa pota va'e osɨkɨyepave oyepepɨño yuvɨreko ichui ; sundao rerekwar ɨvate katu va'e avei oikwase Pablo Roma ɨgwar sekoise , osɨkɨye ñapɨ̇chi ukase .
 44022030	A'ere arayi'ive , sundao rerekwar ɨvate katu va'e , oikwa tuprɨ pota mba'e sui pi'ä judío oyamotare'ɨ̇ Pablo yuvɨreko , evokoiyase oyora karena ichui , ipare oyokwai pa'i eta rekwar iyavei opakatu mborerekwar ɨvate katu va'e iñemonu'ä agwä yuvɨreko . Ipare vɨnose Pablo opakatu rovai .
@@ -5874,7 +5874,7 @@
 47011018	¡ Esepia ni'ä seta iteanga ava a'e ae tëi oyemboɨvateai gwekokwer avɨye anga'u va'e tëi pɨpe , sese che avei ayemboɨvatera !
 47011019	Esepia yepe pe imba'ekwa vai va'e nungar peiko , pemboyoya katu pe kere'ɨ̇sa pɨpe ava ndayarakwai va'e ,
 47011020	pe ni'ä pemboyoyaño akoi mbigwai tëi nungar pe rereko va'e , mba'e pe rembiereko sui tëi oikove va'e , pe mbopa tëisar , pe reroɨrösar , pe rova pete-petesar avei .
-47011021	Yepe achïai imombe'u peü viña , ¡ ore reko mbegwe eteprɨ evokoi nungar apo agwä peü!Akoi oñe'ëse ambuae ava oyeupendar mba'e rese oyemboɨvate aisa pɨpe , che avei evokoiyase egwë a'era , yepe ndayarakwai va'e nungar aikora .
+47011021	Yepe achïai imombe'u peü viña , ¡ ore reko mbegwe eteprɨ evokoi nungar apo agwä peü ! Akoi oñe'ëse ambuae ava oyeupendar mba'e rese oyemboɨvate aisa pɨpe , che avei evokoiyase egwë a'era , yepe ndayarakwai va'e nungar aikora .
 47011022	¿ A'e pi'ä hebreo yuvɨrekoi ? Che avei ni'ä a'e aiko . ¿ A'e pi'ä yuvɨrekoi Israel ɨgwar ? Che avei ni'ä a'e pendar aiko . ¿ A'e pi'ä yuvɨrekoi Abraham suindar ? Che avei ni'ä ichuindar aiko .
 47011023	¿ A'e pi'ä yuvɨrekoi Cristo pɨtɨ̇vɨïsar ? Che rumo ɨvate katu aiko ichui yuvɨreko , yepe añe'ëse avɨye che ndayarakwai va'e aiko viña . Che aporavɨkɨ katu yuvɨreko ichui , seta rupi avei che rokenda ichui yuvɨreko , iyavei inupambrɨ katu aiko ichui yuvɨreko , seta rupi avei seni-seni che yuka uka che mombaraɨsusa pɨpe yuvɨreko .
 47011024	Poyandepo yupagwer judío che mombaraɨsu iteanga yuvɨreko treinta y nueve tuprɨ tukumbo omondo che rese yuvɨreko .
@@ -6839,7 +6839,7 @@
 58001009	Mba'e i'ɨ̇vi va'e raɨsusar ereiko iyavei mba'e naporäi va'e raɨsue'ɨ̇sar ; sese Tüpä nde poravo , a'e Yar Tüpä ite , omondo avei torɨvetesa ndeu ɨvate katu va'eopakatu nde mboetasa sui . ”
 58001010	Iyavei aipo e'i iri : “ Nde , ore Yar , yɨpɨsuive eremovɨräkwä va'e ɨvɨ ; nde avei ereyapo ɨva .
 58001011	Opakatu ko nde rembiapo opa va'erä tëi , nde rumo apɨre'ɨ̇ va'erä ite ereiko . Opakatu a'e oyearo va'erä tëi inungar turukwar ;
-58001012	¡ ipare ereyapara inungar turukwar yapaprɨ , iyavei eresekuñaröra inungar oturukwar osekuñarö va'e!Nde rumo ndereñekuñaröi chietera ; nde rekokwer avei ndopai va'erä ite . ”
+58001012	¡ ipare ereyapara inungar turukwar yapaprɨ , iyavei eresekuñaröra inungar oturukwar osekuñarö va'e ! Nde rumo ndereñekuñaröi chietera ; nde rekokwer avei ndopai va'erä ite . ”
 58001013	Tüpä aipo nde'i ete ñepëi mbigwai ɨva pendar upe : “ Egwapɨ che akato kotɨ , a'ese che amondora nde amotare'ɨ̇mbar nde povrɨve . ”
 58001014	Esepia opakatu mbigwai eta ɨva pendar espíritu yuvɨrekoi Tüpä upe oporavɨkɨ yuvɨreko , imbouprɨ ava pɨtɨ̇vɨï agwä ipɨsɨröpɨrä .
 58002001	Sese iyakatu ko ñe'ësa yasendu va'e rese yayapɨsaka tuprɨ katu , ko tekokwer pɨasu sui yande yepepɨ e'ɨ̇ agwä .
@@ -7159,7 +7159,7 @@
 59001026	Amove akoi ava che agwata tuprɨ Tüpä rupi e'i tëi va'e , ndoikwai rumo oñe'ë mongiriri agwä , evokoiyase a'e ae oyembopa oiko , sembieroya evokoiyase egwë e'i tëi va'e .
 59001027	Yarekose rumo yande rembieroya nimaräi va'e yande Ru Tüpä rovai : a'ese yaipɨtɨ̇vɨïra ndiyesupai va'e iyavei kuña imer mano va'ekwer iparaɨsusa rese , ndayayapoi chiaveira mba'e ɨvɨ pɨpendar ñaporäi va'e rembiapo nungar .
 59002001	Iyavei no , che rɨvrɨ eta , peroya va'e yande Yar Jesucristo seko porañete va'e peiko , ndapeyeaɨsu yoavɨi chira .
-59002002	Inungar-ra ava mba'e yar oikese pe ñemonu'äsave viña , a'e ikwä penda oro va'e , iturukwar katuprɨai va'e , pe añeko tuprɨai sese iyavei aipo peye chupe : “ Egwapɨ ko tenda avɨye katu va'esave ” , a'e pɨpeve avei oikese pe pa'üve ñepëi ava iparaɨsu va'e oturukwar oyemondesa kwakwami va'e reseve ou , aipo peye chupe : “ Nde eipe peve epɨtaño ë'a , anise egwapɨ ɨvɨve e'ï ”;
+59002002	Inungar-ra ava mba'e yar oikese pe ñemonu'äsave viña , a'e ikwä penda oro va'e , iturukwar katuprɨai va'e , pe añeko tuprɨai sese iyavei aipo peye chupe : “ Egwapɨ ko tenda avɨye katu va'esave ” , a'e pɨpeve avei oikese pe pa'üve ñepëi ava iparaɨsu va'e oturukwar oyemondesa kwakwami va'e reseve ou , aipo peye chupe : “ Nde eipe peve epɨtaño ë'a , anise egwapɨ ɨvɨve e'ï ” ;
 59002003	
 59002004	evokoiyase peyapo mba'e ndoyoyai va'e , ipɨpe avei peyapo mba'e naporäi va'e peiko pe pɨ'añemoñeta raisa pɨpe .
 59002005	Che rɨvrɨ eta , che rembiaɨsu , pesendu ko ñe'ësa : Tüpä oiporavo ava iparaɨsu va'e ko ɨvɨ pɨpe , yuvɨrekoi va'erä mba'e tuprɨ pɨpe gweko agwä , iyavei toipɨsɨ che remimombe'ugwer rupi che mborerekwasa oyeupe narä oyapave gwaɨsupar upe ;
@@ -7569,7 +7569,7 @@
 66001004	Che Juan , aikwachia Jesús reroyasar ñuvɨrïo ova tekwa Asia ɨvɨ rupindar yuvɨrekoi va'e upe . Peipɨsɨ porovasasa , teko tuprɨsa Tüpä suindar ou va'erä sui ; ñuvɨrïo ova espíritu suindar aveino , a'e yuvɨno'äi va'e senda porañete va'e rovai ,
 66001005	iyavei Jesucristo suindar , evokoi omombe'u tuprɨ va'e ñe'ësa supi va'e , a'e akoi yɨpɨndar okwerayevɨ va'e iyavei mborerekwar ɨvate katu va'e sekoi opakatu ambuae-ae tëi mborerekwar sui . A'e Cristo yande raɨsu iyavei yande pɨsɨrö yande angaipa sui vuvɨ pɨpe ,
 66001006	iyavei yande rereko mborerekwarä ; pa'igwä aveino Vu Tüpä upe yande poravɨkɨ agwä . ¡ Egwë te'i imboeteiprɨ tasekoi opirätäsa pɨpe apɨre'ɨ̇ va'erä ! Amén .
-66001007	¡ Esepia Cristo ɨva kɨ'a rese oura kuri!A'ese opakatu ava osepiara yuvɨreko , yamotare'ɨ̇sarer , oikutu va'ekwer avei ; iyavei opakatu tekwa ɨvɨ pɨpendara'ese oyase'o tëira sepiase yuvɨreko . Egwë e'i etera kuri , amén .
+66001007	¡ Esepia Cristo ɨva kɨ'a rese oura kuri ! A'ese opakatu ava osepiara yuvɨreko , yamotare'ɨ̇sarer , oikutu va'ekwer avei ; iyavei opakatu tekwa ɨvɨ pɨpendara'ese oyase'o tëira sepiase yuvɨreko . Egwë e'i etera kuri , amén .
 66001008	“ Che aiko yɨpɨndar iyavei ipandar , ” aipo e'i yande Yar Tüpä opakatu mba'e mboavaisare'ɨ̇ evokoi yɨpɨve va'e ite , kurïtëindar apɨre'ɨ̇ va'e avei .
 66001009	Che Juan , pe rɨke'ɨrɨ aiko , iyavei che pe nungar Tüpä povrɨ pendar aiko , che paraɨsu avei vichiko Jesucristo rese che rekosave che ñemosasa pɨpe . Che rokendasa vichiko ka'a pa'ümi paragwasu avɨterve Patmos serer va'esave Tüpä ñe'ëngagwer mombe'usa pɨpe sui tëi , Jesucristo rekokwer mombe'usa pɨpe sui tëi aveino .
 66001010	Akoi yande Yar arɨ pɨpe Espíritu povrɨve aikose , asendu che rakɨkwei oñe'ë pirätä va'e avɨye akoi mimbɨ ñe'ë ,
@@ -7687,7 +7687,7 @@
 66007009	Ipare asepia seta iteanga ava , opakatu ɨvɨ rupindar , ambuae-ae tëi va'e , ambuae-ae tëi va'e iñe'ë yuvɨreko sekwa ambuae va'e aveino . A'e opü'apa va'e Tüpä rovai porañete va'e Ovesami a'e Cristo sekoi va'e rovai avei yuvɨreko , a'e ndayaikatui ete ipapapa agwä . Esepia seta eteprɨ iyavei iturukwar morochi va'e päve ; pindo-pindomi vɨreko opove yuvɨreko .
 66007010	Ipare opakatu gwasu oñe'ë pirätä yuvɨreko aipo e'i : “ ¡ Poropɨsɨrösa yande Ru Tüpä suindar , a'e ogwapɨ va'e öi gwendave porañete va'esave , Ovesami a'e Cristo sekoi va'e suindar aveino ! ”
 66007011	Iyavei opakatu mbigwai ɨva pendar yuvɨrekoi va'e oyere tuprɨ Tüpä renda porañete va'e rese , ikwaiprɨ rese avei yuvɨno'ä irugätu yuvɨrekove va'e rese avei ; a'ese oyeaɨvɨ omboya osɨva ɨvɨ rese tenda porañete va'e rovai Tüpä mboeteisave yuvɨreko
-66007012	aipo e'i : “ ¡ Amén!Poromboeteisa , vɨ'aretesamba'ekwasa , avɨye ndeu esa , poromboyeroyasa , mborerekwasa , teko pirätäsa aveitimondosa yande Ru Tüpä upe apɨre'ɨ̇ va'erä ite yepi . ¡ Amén ! ”
+66007012	aipo e'i : “ ¡ Amén ! Poromboeteisa , vɨ'aretesamba'ekwasa , avɨye ndeu esa , poromboyeroyasa , mborerekwasa , teko pirätäsa aveitimondosa yande Ru Tüpä upe apɨre'ɨ̇ va'erä ite yepi . ¡ Amén ! ”
 66007013	Evokoiyase ñepëi ikwaiprɨ ipa'ü pendar oporandu cheu : “ ¿ Uma vo ko ava re'ɨi iturukwar morochi va'e päve yuvɨrekoi , kesui pi'ä yugweru ? ”
 66007014	“ Nde rumo ereikwa ” a'e imboyevɨ chupe . A'e evokoiyase aipo e'i cheu : “ Ko akoi yuvɨnosë tuprɨ va'e ite teko asɨsa sui yuvɨreko , inungar oyosei omomorochi va'e oturukwar , egwë e'i avei gwekokwer imomorochi Ovesami a'e Cristo sekoi va'e ruvɨ pɨpe yuvɨreko . ”
 66007015	“ Sese Tüpä renda porañete va'e rovai yuvɨrekoi , arɨ iyavei pɨ̇tü rupi omboetei sëtä pɨpe yuvɨreko . Akoi ogwapɨ va'e öi , tenda porañete va'esavea'e gwekokwer pɨpe osepɨra .
@@ -7815,7 +7815,7 @@
 66015001	Ipare asepia ɨvave oyekwa va'e ambuae poromondɨisa tuvicha va'e : ñuvɨrïo ova mbigwai ɨva pendar vɨreko ñuvɨrïo ova tuprɨ mba'erasɨ ipa va'e yuvɨreko , a'e ipa va'e ite Tüpä ñemoɨrösa .
 66015002	Iyavei asepia paragwasu ndoyavɨi yepiasa oyese'a va'e tata rese ; a'e ipopɨve yuvɨno'ä atɨ mba'e ɨpɨ vai , arpas rese a'e akoi omondo va'e Tüpä chupe , sa'anga rekopɨsar iyavei nomondo uka potai va'e serer kwachia agwä yuvɨreko oyese . A'e vɨreko Tüpä upendar yuvɨreko .
 66015003	Ipare osapukai Tüpä rembigwai yuvɨreko Moisés sapukaisa pɨpe , iyavei Ovesami a'e Cristo sekoi va'e sapukaisa pɨpe . Aipo e'i : “ Avɨye ite opakatu mba'e nde rembiapokwer , che Yar Tüpä mba'e mboavaisare'ɨ̇ ; nde rekokwer supi tuprɨ va'e ite ; seko ɨ̇vi va'e , iyavei nde Mborerekwar ɨvate katu va'e ereiko ɨvɨ pɨpendar opakatu ava upe .
-66015004	¿ Uma pi'ä ndosɨkɨyei chira , ndesui che Yar ? ¿ Ava pi'ä nande mboetei chira nderereko?Nde gweraño ite ereiko seko maräne'ɨ̇ va'e ; opakatu tekwa ɨvɨ rupindar yugwerura nde mboetei agwä yuvɨreko , esepia ni'ä , nde rembiapo mba'e supi tuprɨ va'e ite . ”
+66015004	¿ Uma pi'ä ndosɨkɨyei chira , ndesui che Yar ? ¿ Ava pi'ä nande mboetei chira nderereko ? Nde gweraño ite ereiko seko maräne'ɨ̇ va'e ; opakatu tekwa ɨvɨ rupindar yugwerura nde mboetei agwä yuvɨreko , esepia ni'ä , nde rembiapo mba'e supi tuprɨ va'e ite . ”
 66015005	Ko ipare asepia ɨvave oyemboise Tüpä rëtä imaräne'ɨ̇ va'e , a'eve akoi yapokatusa mborokwaita resendar .
 66015006	Evokoiyase ichui yuvɨnosepa evokoi ñuvɨrïo ova mbigwai ɨva pendar vɨreko va'e ñuvɨrïo ova tuprɨ mba'erasɨ vai yuvɨreko . A'e iturukwar sekose va'e , iyavei sendɨ iteanga , vɨreko vumbɨkwasa oro apoprɨ ipɨpe oyeumbɨkwa opochi'a rupi tuprɨ yuvɨreko .
 66015007	Ipare ñepëi evokoi irugätu ɨva pendar yuvɨrekove va'e pa'ü pendar omondo ñuvɨrïo ova tuprɨ mbigwai ɨva pendar upe ñuvɨrïo ova Tüpä ñemoɨrösa rɨru oro apoprɨ , a'e sekokwer ndopai va'e apɨre'ɨ̇ va'erä ite yepi .
@@ -7868,27 +7868,27 @@
 66018007	pemondo setekwer mombaraɨsusa chupe , tiparaɨsu ta'oyoya iyemondo-mondo tëi agwer iyemboeteiai agwer rese aveino . Esepia ni'ä , a'e aipo e'i opɨ'a pɨpe oiko : ‘ Ko'ave che agwapɨ vɨ̇te mborerekwar che reko nungar pɨpe . Nda'ei imer mano va'ekwer aiko , iyavei ndacheparaɨsui chietera . ’
 66018008	Sese ni'ä avɨyeteramo tëi oura mba'erasɨsa chupe : paraɨsusa , tɨepore'ɨ̇ iyavei manosa ; ipare sapɨsara tata pɨpe ; esepia ni'ä , yande Yar Tüpä mba'e mboavaisare'ɨ̇ sekoi , omondo manosa pɨpe . ”
 66018009	Evokoiyase mborerekwar ɨvate katu va'e ɨvɨ pɨpendar yuvɨrekoi va'e ko kuña resendarer , chupe oyemondo-mondo tëi va'ekwer imba'e eta rese , oyase'o tëira yuvɨreko iyavei ndoyembovɨ'ai chira sese osepiase evokoi kuña rätächi yuvɨreko kuri .
-66018010	Opɨtañora amombrɨve osɨkɨyepave iparaɨsusa sui , aipo e'i tëira yuvɨreko : “ ¡ Ndeparaɨsu , ndeparaɨsu katu ite , eiko tekwa gwasu , Babilonia nde tekwa seko pirätä va'e ite ereiko viña!Esepia avɨyeteramo tëi oyepota ou teko asɨsa ndeu . ”
+66018010	Opɨtañora amombrɨve osɨkɨyepave iparaɨsusa sui , aipo e'i tëira yuvɨreko : “ ¡ Ndeparaɨsu , ndeparaɨsu katu ite , eiko tekwa gwasu , Babilonia nde tekwa seko pirätä va'e ite ereiko viña ! Esepia avɨyeteramo tëi oyepota ou teko asɨsa ndeu . ”
 66018011	Evokoiyase ava mba'e mboepɨsar ɨvɨ pɨpendar yuvɨrekoi va'e , a'e avei oyase'o tëira iyavei ndoyembovɨ'ai chietera evokoi tekwa rese yuvɨreko , esepia ni'ä , ndipo iri chietera vɨrokwa va'erä imba'e eta ichui :
 66018012	ko opakatu mba'e sepɨ va'erä a'e oro , gwarepochi , ita iporañeteai va'e , mbo'ɨrɨ sendɨ va'e , turukwar sekose va'e , turukwar sendɨ va'e , iyavei piräumbɨ va'e , pirä va'e no ; iyavei opakatu-katu tëi ɨvɨrape sɨäkwä va'e ; mba'e-mba'emi marfil apoprɨ , ɨvɨra ikatuprɨ va'e apoprɨ , bronce apoprɨ , gwarepochi apoprɨ , mármol avei ;
 66018013	iyavei ɨvɨra pirer sɨäkwä va'e ; itaɨsɨ , mirra , mba'e sɨäkwä va'e ; uva rɨkwer , mba'e kɨra , trigo ku'i avɨye va'e , trigo ; iyavei mba'e mɨmba ovosɨi va'e no , ovesa , kavayu , karëtomi iyavei mbigwai no .
 66018014	Aipo e'i tëira yuvɨreko ko tekwa gwasu upe : “ ¡ Nderereko iri akoi mba'e aereipota eteprɨ va'e ; iyavei eremokañɨ tëi apɨre'ɨ̇opakatu nde mba'e eta , nde yemboeteisa avei ! ”
 66018015	Evokoi mba'e mboepɨsareta oyemomba'e eta va'ekwer ko mba'e rese tekwa gwasu sui , a'e opɨtañora amombrɨve osɨkɨyepave iparaɨsusa repiase yuvɨreko , oyase'o tëira iyavei ndoyembovɨ'ai tëi chira yuvɨreko no ,
-66018016	iyavei aipo e'i tëira yuvɨreko : “ ¡ Ndeparaɨsu , ndeparaɨsu katu ite , eiko tekwa gwasu!Oyemonde tuprɨai va'ekwer turukwar sepɨrusuai va'e pɨpe , turukwar pirä va'e iyavei piräumbɨ va'e , oyemboetei oro pɨpe , mbo'ɨrɨ sendɨ ita iporañete va'e pɨpe avei .
+66018016	iyavei aipo e'i tëira yuvɨreko : “ ¡ Ndeparaɨsu , ndeparaɨsu katu ite , eiko tekwa gwasu ! Oyemonde tuprɨai va'ekwer turukwar sepɨrusuai va'e pɨpe , turukwar pirä va'e iyavei piräumbɨ va'e , oyemboetei oro pɨpe , mbo'ɨrɨ sendɨ ita iporañete va'e pɨpe avei .
 66018017	¡ Avɨyeteramo tëi rumo opa okañɨ imba'e eta ichui ! ” Evokoiyase opakatu ava ɨarusu pɨpendar rerekwar , ava ɨmbe'ɨ ɨvɨrindar ɨarusu rerogwatasar , paragwasu rupi oporavɨkɨ va'e oyeupe narä mba'e rereko agwä , a'e opaño opɨta amombrɨve yuvɨreko ichui
 66018018	iyavei ko tekwa gwasu rätächi repiase , a'ese säse pirätä tëi yuvɨreko : “ ¿ Ndipoi ete ni'ä tekwa na e'i va'e inungar ko tekwa gwasu Babilonia ? ”
-66018019	Ipare imboasɨpave omondo ɨvɨ ku'i oakäve yuvɨreko , oyase'o iyavei ndoyembovɨ'ai tëi , ipare säse yuvɨreko aipo e'i : “ ¡ Ndeparaɨsu , ndeparaɨsu katu ite , eiko tekwa gwasu!Esepia ni'ä , evokoi tekwa gwasu mba'e eta pɨpe sui tëiava vɨreko va'e ɨarusu paragwasu pɨpe a'e oyemomba'e yar yuvɨreko viña . ¡ Avɨyeteramo tëi rumo opa okañɨ ! ”
+66018019	Ipare imboasɨpave omondo ɨvɨ ku'i oakäve yuvɨreko , oyase'o iyavei ndoyembovɨ'ai tëi , ipare säse yuvɨreko aipo e'i : “ ¡ Ndeparaɨsu , ndeparaɨsu katu ite , eiko tekwa gwasu ! Esepia ni'ä , evokoi tekwa gwasu mba'e eta pɨpe sui tëiava vɨreko va'e ɨarusu paragwasu pɨpe a'e oyemomba'e yar yuvɨreko viña . ¡ Avɨyeteramo tëi rumo opa okañɨ ! ”
 66018020	Peyembovɨ'año , pe ɨva pendarevokoi tekwa gwasu rese ; iyavei peyembovɨ'año katu , peiko va'e tekwa maräne'ɨ̇ pendar , iyavei Jesús ñe'ë mombe'usa reta Tüpä ñe'ë mombe'usa reta aveino , esepia ni'ä Tüpä opa omokañɨ , peü narä mba'e avɨye va'e aposa pɨpe .
 66018021	A'ese ñepëi mbigwai ɨva pendar seko pirätä va'e osupi ita inungar mba'e mboku'isa , ipare omombo paragwasu pɨpe aipo e'i : “ Na e'i aveira nde rerekosa imokañɨprɨ tëi ereikora , tekwa gwasu Babilonia , iyavei nande repia iri chietera koiye katu yuvɨreko .
 66018022	Ndasendusa iri chietera okar rupiarpas moñe'ësar , mimbɨ moñe'ësar , mimbɨ gwasu moñe'ësar aveino , ndererekoi chietera ava oporavɨkɨ va'erä ndeyeoupe narä , ndasendusa iri chiaveira ita mba'e mboku'isa monaräsa ndesuindar .
 66018023	Iyavei ñepëi yepe tataendɨ ndosesapei chietera ndeu , ndasendusai chiaveira ava aɨvu mendasa rupi . Esepia ni'ä ava mba'e mondosar seko pirätä eteprɨ va'e opakatu ɨvɨ pɨpe yuvɨrekoiyavei erembopa-mbopa tëi opakatu ava ɨvɨ pɨpendar ndepayesa pɨpe eiko . ”
 66018024	Esepia ni'ä , evokoi tekwa gwasu pɨpe oyekwa ite Tüpä ñe'ë mombe'usar ruvɨ , Tüpä upendar ava ruvɨ , opakatu ava yukaprɨ ɨvɨ pɨpendar ruvɨ avei .
-66019001	Ko ipare , asendu ava re'ɨi ñe'ë pirätä ɨvave aipo e'i va'e : “ ¡ Imboeteiprɨ yande Yar tasekoi!Poropɨsɨrösa , teko porañetesa iyavei ipirätäsaa'e yande Ru Tüpä suindar ,
+66019001	Ko ipare , asendu ava re'ɨi ñe'ë pirätä ɨvave aipo e'i va'e : “ ¡ Imboeteiprɨ yande Yar tasekoi ! Poropɨsɨrösa , teko porañetesa iyavei ipirätäsaa'e yande Ru Tüpä suindar ,
 66019002	esepia ni'ä oyapo mba'e supiete va'e ; opa avei omokañɨ ko kuña oyemboagwasa-gwasa tëi va'e nungariyavei oyemondo-mondo tëisa pɨpe opa ava oseko momarä ɨvɨ pɨpendar yuvɨreko ; oyepɨ avei a'e kuña reseTüpä rembigwai omano va'ekwer repɨkave . ”
-66019003	Ipare aipo e'i iri yuvɨreko no : “ ¡ Imboeteiprɨ yande Yar tasekoi!Esepia ni'ä evokoi tekwa rätächi ndopai chietera . ”
+66019003	Ipare aipo e'i iri yuvɨreko no : “ ¡ Imboeteiprɨ yande Yar tasekoi ! Esepia ni'ä evokoi tekwa rätächi ndopai chietera . ”
 66019004	Evokoiyase veinticuatro tuprɨ ɨva pendar ikwaiprɨ yuvɨrekoi va'e iyavei irugätu ɨva pendar yuvɨrekove va'e , a'e Tüpä mboeteisa pɨpe oyeaɨvɨ ɨvɨ rese , aipo e'i yuvɨreko : “ ¡ Egwë te'i ! ¡ Imboeteiprɨ yande Yar tasekoi ! ”
 66019005	Evokoiyase Tüpä renda sui tuprɨ oyeendu ñe'ësa aipo e'i va'e : “ ¡ Pemboetei yande Ru Tüpä serekoopakatu peroya va'e , seko ɨvɨ kotɨ katumi va'e , seko ɨvate va'e avei , iyavei opakatu seroyasar peiko va'eosɨkɨye va'e avei ichui tomboetei yuvɨreko ! ”
-66019006	Asendu avei ava re'ɨi ñe'ë , inungar akoi ɨtu gwasu rɨapu , ndoyavɨi avei osunu gwasu va'e . Aipo e'i : “ ¡ Imboeteiprɨ yande Yar tasekoi!Esepia ni'ä yande Yar Tüpä omboɨpɨ oporokwai oikogweko mba'e mboavaisare'ɨ̇sa pɨpe .
+66019006	Asendu avei ava re'ɨi ñe'ë , inungar akoi ɨtu gwasu rɨapu , ndoyavɨi avei osunu gwasu va'e . Aipo e'i : “ ¡ Imboeteiprɨ yande Yar tasekoi ! Esepia ni'ä yande Yar Tüpä omboɨpɨ oporokwai oikogweko mba'e mboavaisare'ɨ̇sa pɨpe .
 66019007	Tayayembovɨ'a katu yaiko , iyavei tayamondo yande vɨ'aretesa , yande sapukaisa yande Ru Tüpä upe , esepia ni'ä , kurïtëi oyepota arɨmendasa Ovesami a'e Cristo sekoi va'e upendar . Sembireko evokoiyase opa oyemoigätu oiko :
 66019008	chupe ipotasa iyemonde agwäturukwar sekose va'e pɨpe , ndikɨ'ai sendɨyai va'e pɨpe avei , esepia evokoi turukwar sekose va'e , a'e tekokwer ɨvɨïsa upendara'e yuvɨrekoi Tüpä upendar . ”
 66019009	Evokoiyase mbigwai ɨva pendar aipo e'i cheu : “ Eikwachia ko ñe'ësa : ‘ Sorɨvete katura akoi ava icho'oprɨ Ovesami a'e Cristo sekoi va'e mendasave yuvɨreko . ’ ” Ipare aipo e'i iri cheu : “ Ko ni'ä Tüpä ñe'ësa supi tuprɨ va'e ite . ”
