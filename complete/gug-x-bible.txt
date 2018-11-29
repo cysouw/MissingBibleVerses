@@ -2551,7 +2551,7 @@
 42017033	Pe hekovére hakate'ỹva , omanóta . Ha umi omanóva katu , ojuhúta jeikovete .
 42017034	Ha'e peẽme , upe pyharépe , mokõi oĩvagui tupápe peteĩ ojereraháta ha pe ambue ojehejáta .
 42017035	Mokõi kuña oñembisóta hína , peteĩ ojereraháta ha pe ambue katu ojehejáta . ”
-42017036	Aipórõ oporandu chupe hikuái : - - Moõ piko upéva oikóta , ore Jára ? Ha ha'e he'i chupe kuéra : - - Te'õngue oĩháme , ijaty yryvu .
+42017036	Aipórõ oporandu chupe hikuái : -- Moõ piko upéva oikóta , ore Jára ? Ha ha'e he'i chupe kuéra : -- Te'õngue oĩháme , ijaty yryvu .
 42017037	
 42018001	Jesús omombe'u chupe kuéra peteĩ ñe'ẽ mbojoja , ombo'e haguã chupe kuéra oñembo'e vaerãha , ipy'a kangy'ỹre .
 42018002	He'i chupe kuéra : “ Oĩ vaekue peteĩ távape peteĩ mbojovakehára ndokyhyjéiva Tupãgui ha nomomba'éiva yvypórape .
@@ -3027,7 +3027,7 @@
 43004004	Oguahẽ haguã upépe ohasa mante vaerã yvy Samaría rupi .
 43004005	Samaría rupi ohasakuévo , oguahẽ táva hérava Sicárpe , namombyrýi opytáva pe yvýgui , Jacob oheja vaekue Josépe imba'e teerã .
 43004006	Upépe avei oĩ ku Jacob ykua . Ha Jesús ikane'õgui , oguapy pe ykua ypýpe . Asaje pyte rupíma upéva ,
-43004007	ha Jesús remimbo'e kuéra oho távape ojogua haguã hembi'urã kuéra . Upe jave , oguahẽ peteĩ kuña Samariagua y rekávo , ha Jesús he'i chupe : - - Eme'ẽmona chéve nde ymi .
+43004007	ha Jesús remimbo'e kuéra oho távape ojogua haguã hembi'urã kuéra . Upe jave , oguahẽ peteĩ kuña Samariagua y rekávo , ha Jesús he'i chupe : -- Eme'ẽmona chéve nde ymi .
 43004008	
 43004009	Pe kuña katu he'i chupe : -- Nde niko judío ha che Samariagua . Mba'éicha rupi piko aipo ramo rejerure chéve y rey'u haguã ? ( Judío kuéra niko ndoy'úiva Samariagua mbayru kuéragui )
 43004010	Jesús he'i chupe : -- Reikuaa rire pe Tupã ome'ẽva ha mávapa upe ojeruréva ndéve y , nde rejerure vaerã chéve , ha ame'ẽ vaerã ndéve y ne moingovetéva .
