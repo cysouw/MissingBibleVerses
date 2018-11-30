@@ -5358,7 +5358,7 @@
 46007004	A feleség nem ura a maga testének , hanem a férje . Hasonlóképpen a férj sem ura a maga testének , hanem a felesége .
 46007005	Ne fosszátok meg egymást , legfeljebb közös akaratból egy bizonyos ideig , hogy legyen időtök a böjtölésre és az imádkozásra , azután ismét egymáshoz térjetek , hogy a sátán meg ne kísértsen titeket , mivel nem tudjátok magatokat megtartóztatni .
 46007006	Ezt pedig kedvezésképpen mondom , és nem parancsként .
-46007007	Mert szeretném , ha minden ember úgy volna , mint én magam is , de kinek - kinek saját kegyelmi ajándéka van Istentől , egyiknek így , a másiknak amúgy .
+46007007	Mert szeretném , ha minden ember úgy volna , mint én magam is , de kinek-kinek saját kegyelmi ajándéka van Istentől , egyiknek így , a másiknak amúgy .
 46007008	A nem házasoknak és az özvegyasszonyoknak azt mondom , hogy jó nekik , ha úgy maradnak , amint én is .
 46007009	De ha magukat nem tartóztathatják meg , inkább házasságban éljenek , mert jobb házasságban élni , mint égni .
 46007010	Azoknak pedig , akik házasságban vannak , nem én rendelem , hanem az Úr , hogy az asszony a férjétől el ne váljék .
@@ -5366,7 +5366,7 @@
 46007012	A többieknek pedig én mondom , nem az Úr , hogy ha egy atyafinak hitetlen felesége van , és az vele akar élni , ne bocsássa el őt .
 46007013	És ha egy asszonynak hitetlen férje van , és az vele akar élni , ne hagyja el férjét .
 46007014	Mert a hitetlen férfit megszenteli felesége , a hitetlen asszonyt pedig a férje . Különben gyermekeitek tisztátalanok volnának , így azonban szentek .
-46007015	Ha pedig a hitetlen elválik , ám váljék el . Ilyen esetben sem a férfi - , sem a nőtestvér nincs elkötelezve . De békességre hívott el minket az Isten .
+46007015	Ha pedig a hitetlen elválik , ám váljék el . Ilyen esetben sem a férfi -- , sem a nőtestvér nincs elkötelezve . De békességre hívott el minket az Isten .
 46007016	Honnan tudod te , asszony , hogy nem mentheted-e meg férjedet , és honnan tudod te , férj , hogy nem mentheted-e meg feleségedet ?
 46007017	Éljen mindenki úgy , ahogy az Úr megadta neki , és ahogy az Isten elhívta . Minden gyülekezetben így rendelkezem .
 46007018	Körülmetélten hívatott el valaki ? Ne takargassa . Körülmetéletlenül hívatott el valaki ? Ne metélkedjék körül .
@@ -5684,7 +5684,7 @@
 47001017	Amikor ezt akartam , vajon könnyelműen cselekedtem-e ? Vagy amit akarok , ember módon akarom-e ? Vagy nálam az „ igen “ „ nem “ is lehet ?
 47001018	De Isten a tanúm , hogy a mi hozzátok intézett beszédünk nem volt „ igen “ is , meg „ nem “ is .
 47001019	Mert az Isten Fia , Jézus Krisztus , akit közöttetek hirdettünk , én és Szilvánusz és Timóteus , nem volt „ igen “ is , meg „ nem “ is , hanem az „ igen “ valósult meg benne .
-47001020	Mert Istennek valamennyi ígérete Őbenne lett „ igen “ - né és „ nem “ - mé , és „ ámen “ - né Isten dicsőségére , általunk .
+47001020	Mert Istennek valamennyi ígérete Őbenne lett „ igen “ -- né és „ nem “ -- mé , és „ ámen “ -- né Isten dicsőségére , általunk .
 47001021	Aki pedig minket veletek együtt Krisztusban megerősít és fölken , az Isten az ,
 47001022	aki el is pecsételt minket és a Lélek zálogát adta a mi szívünkbe .
 47001023	Én pedig az Istent hívom bizonyságul magam mellett , hogy titeket kímélve nem mentem el még Korinthusba .
@@ -5912,7 +5912,7 @@
 47013002	Előre megmondtam , és előre mondom , mint másodszori ottlétemkor , és most távolétemben azoknak , akik ezelőtt vétkeztek , és a többieknek is mind , hogyha ismét odamegyek , nem leszek kíméletes .
 47013003	Bizonyítékát keresitek annak , hogy általam az a Krisztus szól , aki veletek szemben nem erőtlen , hanem erős közöttetek .
 47013004	Mert bár megfeszítetett erőtlenségében , mindazonáltal él Isten hatalmából . És bár mi erőtlenek vagyunk benne , de vele együtt élünk majd Isten erejéből nálatok .
-47013005	Próbáljátok meg magatokat , hogy hitben vagytok-e ? Önmagatokat próbáljátok meg ! Vagy nem ismeritek - e fel magatokon , hogy Jézus Krisztus bennetek van ? Ha nem , akkor nem álltátok ki a próbát .
+47013005	Próbáljátok meg magatokat , hogy hitben vagytok-e ? Önmagatokat próbáljátok meg ! Vagy nem ismeritek-e fel magatokon , hogy Jézus Krisztus bennetek van ? Ha nem , akkor nem álltátok ki a próbát .
 47013006	De remélem , hogy elismeritek , hogy mi kiálltuk a próbát .
 47013007	Az Istent pedig kérem , hogy semmi gonoszt ne cselekedjetek , nem azért , hogy mi kipróbáltnak tűnjünk , hanem hogy ti a jót cselekedjétek , mi pedig mintegy kipróbáltatlanok legyünk .
 47013008	Mert semmit sem tehetünk az igazság ellen , hanem csak az igazságért .
@@ -6436,7 +6436,7 @@
 52001009	Hiszen ők maguk mondják el rólunk , hogyan fogadtatok minket , és miként tértetek meg Istenhez a bálványoktól , hogy az élő Istennek szolgáljatok ,
 52001010	és várjátok az ő Fiát , Jézust a mennyből , akit feltámasztott a halálból , és megszabadít minket az eljövendő haragtól .
 52002001	Magatok is tudjátok , atyámfiai , hogy nem hiába jártunk nálatok .
-52002002	Noha előbb szenvedésben és bántalmazásban volt részünk Filippiben - amint azt ti is tudjátok - , Istentől bátorságot kaptunk , hogy közöttetek is hirdessük Isten evangéliumát sok tusakodás közben .
+52002002	Noha előbb szenvedésben és bántalmazásban volt részünk Filippiben -- amint azt ti is tudjátok -- , Istentől bátorságot kaptunk , hogy közöttetek is hirdessük Isten evangéliumát sok tusakodás közben .
 52002003	Mert a mi igehirdetésünk nem megtévesztésből , sem tisztátalan szándékból , sem álnokságból ered ,
 52002004	hanem Isten méltatott minket arra , hogy ránk bízza az evangéliumot . Ezért nem úgy hirdetjük azt , hogy embereknek , hanem hogy Istennek tetszését keressük , aki megvizsgálja szívünket .
 52002005	Hiszen tudjátok , soha nem lépünk fel sem hízelgő beszéddel , sem leplezett kapzsisággal . Isten erre a tanú !
@@ -6451,7 +6451,7 @@
 52002014	Mert ti , atyámfiai , követői lettetek az Isten gyülekezeteinek , amelyek Júdeában vannak a Krisztus Jézusban , mivel ti ugyanúgy szenvedtetek saját honfitársaitoktól , mint azok a zsidóktól ,
 52002015	akik megölték az Úr Jézust és saját prófétáikat is , és minket is üldöznek , és Istennek sem tetszenek , és minden ember ellenségei ,
 52002016	akik megtiltják nekünk , hogy a pogányoknak prédikáljunk , hogy üdvözüljenek . Így teszik teljessé mindenkor bűneiket , de végül utolérte őket Isten haragja .
-52002017	Mi pedig , testvéreim , miután elszakadtunk tőletek egy kevés időre - arcra , de nem szívre nézve - , annál buzgóbb vágyódással igyekeztünk arra , hogy szemtől szembe láthassunk titeket .
+52002017	Mi pedig , testvéreim , miután elszakadtunk tőletek egy kevés időre -- arcra , de nem szívre nézve -- , annál buzgóbb vágyódással igyekeztünk arra , hogy szemtől szembe láthassunk titeket .
 52002018	El is akartunk menni hozzátok , különösen én , Pál , egyszer is , kétszer is , de megakadályozott minket a sátán .
 52002019	Mert kicsoda a mi reménységünk , örömünk és dicsekvésünk koronája , ha nem ti is , a mi Urunk Jézus Krisztus előtt az ő eljövetelekor ?
 52002020	Bizony ti vagytok a mi dicsőségünk és örömünk .
