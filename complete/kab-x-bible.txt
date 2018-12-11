@@ -5610,7 +5610,7 @@
 46015026	Aɛdaw aneggaru ara yessenger , d lmut .
 46015027	Axaṭer am akken yura : Sidi Ṛebbi yerra kullec seddaw yiḍaṛṛen-is + . Meɛna mi gura belli kullec yuɣal seddaw yiḍaṛṛen-is , iban belli Win yerran kullec seddaw yidaṛṛen-is ur ițekki ara .
 46015028	M'ara yuɣal kullec ger ifassen n Lmasiḥ , imiren nețța yellan d mmi-s , ad yuɣal seddaw n lḥekma n win i s-d-yefkan kullec ; iwakken Sidi Ṛebbi ad yeḥkem ɣef kullec .
-46015029	Kra n yemdanen țnadin ad țwaɣedṣen ɣas lukan ad awḍen ɣer lmut , f+ lemmer ț-țideț lmegtin ur d-ḥeggun ara , acuɣeṛ ihi i țnadin ad țwaɣedṣen ?
+46015029	Kra n yemdanen țnadin ad țwaɣedṣen ɣas lukan ad awḍen ɣer lmut , lemmer ț-țideț lmegtin ur d-ḥeggun ara , acuɣeṛ ihi i țnadin ad țwaɣedṣen ?
 46015030	I nukni , acimi i nețqabal lmut kull ass ?
 46015031	Ay atmaten , yal ass țwaliɣ lmut ger wallen-iw ; s tideț i wen-d-nniɣ ayagi axaṭer tellam d sebba n zzux-iw imi tedduklem d Ssid-nneɣ Ɛisa Lmasiḥ .
 46015032	Ma yella ɣef ddemma n ccan n yemdanen i nnuɣeɣ d lewḥuc di temdint n Ifasus , acu n lfayda i sɛiɣ ? Ihi m'ur d-ḥeggun ara lmegtin : a nṛuḥ kan a nečč , a nsew axaṭer azekka a nemmet akken i t-id-iqqaṛ yiwen n lemtel .
@@ -6528,7 +6528,7 @@
 53002001	? ef wayen yeɛnan tuɣalin n Ssid nneɣ Ɛisa Lmasiḥ ț-țemlilit-nneɣ yid-es , di leɛnaya-nwen ay atmaten :
 53002002	ḥadret a kkun-iffeɣ leɛqel neɣ a wen-ikcem ukukru , ma yella win i wen-d-yennan belli ass n tuɣalin n Sidna Ɛisa yewweḍ-ed ; yezmer lḥal ad yili win i wen-t-id-yennan neɣ win i t-iwalan deg uweḥḥi , neɣ daɣen a wen-arun tabṛaț am akken d nukni i wen-țin-yuran .
 53002003	Akken yebɣu yili lḥal ur țțaǧat yiwen a kkun-ikellex , axaṭer ass-nni ur d-ițaweḍ ara uqbel ussan n tijehli , uqbel a d-iban wemcum ijehlen i gețṛaǧu nnger .
-53002004	Win akken ara yessimɣuṛen iman is sennig wayen meṛṛa iɛebbden yemdanen , ad yekcem ɣer lǧameɛ iqedsen n Ṛebbi ad yerr iman-is deg wemkan n Ṛebbi . f+
+53002004	Win akken ara yessimɣuṛen iman is sennig wayen meṛṛa iɛebbden yemdanen , ad yekcem ɣer lǧameɛ iqedsen n Ṛebbi ad yerr iman-is deg wemkan n Ṛebbi . 
 53002005	Ur tecfim ara belli xebbṛeɣ kkun id yakan ɣef ayagi asm'akken lliɣ yid-wen ?
 53002006	Teẓram acu i t-iṭṭfen ur d-ițban ara tura alamma yewweḍ-ed lweqt-is !
 53002007	Tazmert n cceṛ yellan d lbaḍna , tebda ccɣel-is , ilaq kan ayen i ț-iṭṭfen ar tura ad ițwakkes .
@@ -6546,7 +6546,7 @@
 53003002	Dɛut daɣen iwakken a ɣ-isellek si ger ifassen n yemcumen i ɣ-ibɣan cceṛ , axaṭer llan wid ur nețțamen ara .
 53003003	Lameɛna Sidi Ṛebbi d bab n lețkal , a kkun-isseǧhed , a kkun iḥader ɣef wemcum .
 53003004	Nesɛa laman ɣuṛ-es fell-awen belli txeddmem yerna aț-țkemlem aț-țxedmem ayen i ɣef i kkun-nweṣṣa .
-53003005	Ndeɛɛu ɣer Sidi Ṛebbi iwakken ad iččaṛ ulawen-nwen s leḥmala-ines , iwakken aț-țesɛum ṣṣbeṛ n Lmasiḥ . f+
+53003005	Ndeɛɛu ɣer Sidi Ṛebbi iwakken ad iččaṛ ulawen-nwen s leḥmala-ines , iwakken aț-țesɛum ṣṣbeṛ n Lmasiḥ . 
 53003006	Ay atmaten a kkun-nenhu s yisem n Sidna Ɛisa Lmasiḥ : sbeɛdet iman-nwen ɣef atmaten imeɛdazen , ițɛicin akken bɣan , mačči am akken i wen-t-nesselmed .
 53003007	Teẓram s yiman nwen amek i glaq a ɣ-tɛandem , axaṭer nukni ur nɛac ara deg ussexṛeb asmi nella yid-wen .
 53003008	Ur neḍmiɛ ula deg yiwen aɣṛum-nneɣ , lameɛna nețɛețțib iman-nneɣ di lxedma iḍ d wass , iwakken ur nețțili ț-țaɛekkumt ula i yiwen .
@@ -6561,9 +6561,9 @@
 53003017	Nekk Bulus , uriɣ-awen sslam-agi s ufus-iw , ț-țagi i ț-țira-inu di yal tabṛaț i wen-ceggɛeɣ .
 53003018	Ṛṛeḥma n Ssid-nneɣ Ɛisa Lmasiḥ a d-ters fell-awen meṛṛa !
 54001001	Nekk Bulus amceggeɛ n Ɛisa Lmasiḥ , s lebɣi n Sidi Ṛebbi amsellek-nneɣ akk-d lebɣi n Ɛisa Lmasiḥ i deg yella usirem-nneɣ ,
-54001002	i gma-tneɣ Timuti f+ i d-ṛebbaɣ di liman am mmi n tideț , lbaṛaka , ṛṛeḥma ț-țalwit a k-d-țțunefkent s ɣuṛ Sidi Ṛebbi Baba-tneɣ akk-d Ɛisa Lmasiḥ Ssid-nneɣ .
-54001003	Akken i k-nhiɣ uqbel ad ṛuḥeɣ ɣer tmurt n Masidunya qqim di temdint n Ifasus f+ iwakken ur tețțaǧǧaḍ ara kra n yemdanen ad slemden ayen i gxulfen tikli di liman ,
-54001004	ini-asen ad xḍun i tmucuha f+ d umeslay n zzux ɣef yizuṛan n tjaddit ur nețfaka , ayagi yețțawi-d lehduṛ ur nesɛi lfayda i ɣ-issebɛaden ɣef liman d lebɣi n Sidi Ṛebbi .
+54001002	i gma-tneɣ Timuti i d-ṛebbaɣ di liman am mmi n tideț , lbaṛaka , ṛṛeḥma ț-țalwit a k-d-țțunefkent s ɣuṛ Sidi Ṛebbi Baba-tneɣ akk-d Ɛisa Lmasiḥ Ssid-nneɣ .
+54001003	Akken i k-nhiɣ uqbel ad ṛuḥeɣ ɣer tmurt n Masidunya qqim di temdint n Ifasus iwakken ur tețțaǧǧaḍ ara kra n yemdanen ad slemden ayen i gxulfen tikli di liman ,
+54001004	ini-asen ad xḍun i tmucuha d umeslay n zzux ɣef yizuṛan n tjaddit ur nețfaka , ayagi yețțawi-d lehduṛ ur nesɛi lfayda i ɣ-issebɛaden ɣef liman d lebɣi n Sidi Ṛebbi .
 54001005	A sen-tiniḍ annect-agi iwakken a d-tessakiḍ deg wulawen-nsen leḥmala yeṣfan , ad ithedden lxaṭer-nsen yerna ad sɛun liman n tideț ɣer Sidi Ṛebbi .
 54001006	Llan kra n yemdanen ffɣen i webrid , țmeslayen kan ɣef wayen ur nesɛi lmeɛna .
 54001007	Bɣan ad slemden i wiyaḍ ccariɛa n Sidi Ṛebbi , nutni s yiman-nsen ur fhimen d acu i d qqaṛen ur fhimen ayen i sselmaden .
@@ -6579,7 +6579,7 @@
 54001017	I ugellid n dayem , ameɣlal ur țwalint wallen , win yellan d yiwen , i nețța tamanegt d lɛezz si lǧil ɣer lǧil ! Amin !
 54001018	A Timuti a mmi , a k-weṣṣiɣ ɣef wayen i d-caren fell-ak s ɣuṛ Ṛebbi si zik . Eṭṭef deg imeslayen-nni , sseǧhed iman-ik di liman s wul yeṣfan tedduḍ akken ilaq ,
 54001019	axaṭer kra n yemdanen nniḍen wexxṛen i tikli yeṣfan armi i sṛuḥen liman-nsen .
-54001020	Llan gar-asen ? imni d Alixandru f+ sellmeɣ-ten i Cciṭan iwakken ad ẓren amek i tdeṛṛu d wid ireggmen Sidi Ṛebbi .
+54001020	Llan gar-asen ? imni d Alixandru sellmeɣ-ten i Cciṭan iwakken ad ẓren amek i tdeṛṛu d wid ireggmen Sidi Ṛebbi .
 54002001	Ayen i ɣef ara kkun-weṣṣiɣ di tazwara , ḥemmdet cekkṛet Sidi Ṛebbi , ssuturet di tẓallit , deɛɛut ɣuṛ-es ɣef yemdanen meṛṛa .
 54002002	Deɛɛut ɣef yigelliden d wid akk yeṭṭfen imukan n lḥekma iwakken a nɛic di lisser ț-țalwit , a nḍuɛ Sidi Ṛebbi s lḥeṛma d leqdeṛ .
 54002003	Ayagi d ayen yelhan , d ayen iɛeǧben i Sidi Ṛebbi amsellek-nneɣ ,
@@ -6592,15 +6592,15 @@
 54002010	meɛna ad cebbḥent iman-nsent s lecɣal yelhan , akken ilaq ad xedment tilawin yețḍuɛun Sidi Ṛebbi .
 54002011	Ilaq-as i tmeṭṭut aț-țḥesses i uselmed s tsusmi d wannuz .
 54002012	Ur qebbleɣ ara aț-țesselmed tmeṭṭut neɣ aț-țdebbeṛ ɣef wergaz meɛna aț-țețsusum ( ur d-teggar ara iman-is ) .
-54002013	Axaṭer d Adem i d-yețwaxelqen d amezwaru d wamek i d-terna ? ewwa ; f+
-54002014	mačči d Adem i geɣwa Cciṭan meɛna d ? ewwa i wumi ikellex f+ armi i tɛuṣṣa Sidi Ṛebbi ,
-54002015	lameɛna aț-țețțusellek s tarwa-s f+ ma tețțeddu s ṣṣfa d neyya di liman d leḥmala .
+54002013	Axaṭer d Adem i d-yețwaxelqen d amezwaru d wamek i d-terna ? ewwa ;
+54002014	mačči d Adem i geɣwa Cciṭan meɛna d ? ewwa i wumi ikellex armi i tɛuṣṣa Sidi Ṛebbi ,
+54002015	lameɛna aț-țețțusellek s tarwa-s ma tețțeddu s ṣṣfa d neyya di liman d leḥmala .
 54003001	? - țideț mi qqaṛen : « ma yella win yebɣan ad yuɣal d amdebbeṛ di tejmaɛt d ayen yelhan i gețmenni » .
 54003002	Lameɛna amdebbeṛ di tejmaɛt ur ilaq ara ad afen deg-s lɣaci wayen ara s-d-ssukksen , ilaq ad yesɛu yiwet n tmeṭṭut kan , ad yili d win iḥekkmen deg iman-is , d aɛeqli , d win iteddun s ṣṣwab . Ilaq ad yili d win yesṭerḥiben deg wexxam-is , d win izemren ad isselmed awal n Ṛebbi ;
 54003003	ur yețțili ara d asekṛan neɣ d amčaqlal meɛna ad yili d aḥnin d imhenni . Ur ilaq ara ad iḥemmel idrimen ;
 54003004	ilaq daɣen ad yissin amek ara idebbeṛ ɣef wexxam-is , arraw-is ad ilin d wid yețțaɣen awal yerna a t-țqadaṛen .
 54003005	Axaṭer ma yella walebɛaḍ ur yezmir ara ad idebbeṛ ɣef wexxam is , amek ara idebbeṛ di tejmaɛt n Sidi Ṛebbi ?
-54003006	Amdebbeṛ di tejmaɛt ur ilaq ara ad yili d ajdid di liman di Ɛisa Lmasiḥ , m'ulac a t-yekcem zzux , aț-țedṛu yid-es akken tedṛa d Cciṭan . f+
+54003006	Amdebbeṛ di tejmaɛt ur ilaq ara ad yili d ajdid di liman di Ɛisa Lmasiḥ , m'ulac a t-yekcem zzux , aț-țedṛu yid-es akken tedṛa d Cciṭan .
 54003007	Ilaq ula d wid ur numin ara s Ɛisa Lmasiḥ a d-cehden fell-as s lxiṛ ur țțafen ara deg-s wayen ara s-d ssukksen , iwakken ur iɣelli ara di tecṛektin n Cciṭan .
 54003008	Iqeddacen n tejmaɛt daɣen ilaq ad sɛun leqdeṛ , ad ilin d irgazen iteṭṭfen deg awal-nsen , ad xḍun i tissit n ccṛab akk-d rrbeḥ n lexdeɛ .
 54003009	Ilaq ad ḥerzen s wul yeṣfan lbaḍna n liman i d-yețwakecfen .
@@ -6629,7 +6629,7 @@
 54004016	? ader ɣef yiman-ik d wayen i tesselmadeḍ i wiyaḍ , ma tkemmleḍ akken , d leslak ara d-tawiḍ i keččini akk-d wid i k-yesmeḥsisen .
 54005001	Ur țlummu ara ɣef wemɣaṛ s leɛyaḍ , meɛna nhu-t am akken d baba-k ; enhu daɣen ilmeẓyen am akken d atmaten-ik ,
 54005002	tamɣaṛt am yemma-k , tilmeẓyin am yessetma-k , s wul yeṣfan .
-54005003	Qadeṛ tuǧǧal f+ telhuḍ ț-țid yeḥwaǧen lemɛawna .
+54005003	Qadeṛ tuǧǧal telhuḍ ț-țid yeḥwaǧen lemɛawna .
 54005004	Ma ț-țid yesɛan dderya neɣ dderya n warraw-nsent , ilaq d nutni ara d-yelhun yid-sent , akka ara d-sbeggnen ṭṭaɛa-nsen ɣer Sidi Ṛebbi m'ara rren lxiṛ i imawlan-nsen , ayagi d ayen i gɛeǧben i Sidi Ṛebbi .
 54005005	Taǧǧalt i gellan weḥd-es ur nesɛi win ara ț-țirefden tețkel ɣef Sidi Ṛebbi tdeɛɛu ɣuṛ-es tețḥellil-it am yiḍ am ass .
 54005006	Ma ț-țaǧǧalt yeṭṭafaṛen zzhu n ddunit , tinna temmut ɣas mazal-iț tedder .
@@ -6644,7 +6644,7 @@
 54005015	Axaṭer llant seg-sent tid i geffɣen i webrid n Ṛebbi tebɛent abrid n Cciṭan .
 54005016	Ma tella tin yumnen tesɛa tuǧǧal i s-yețțilin , d nețțat i glaq a tent tɛiwen iwakken ur țțilint ara ț țaɛkumt i tejmaɛt , akken daɣen tajmaɛt aț-țizmir aț-țɛiwen tid ur nesɛi ara win ara tent-irefden .
 54005017	Imdebbṛen n tejmaɛt ixeddmen ccɣel-nsen akken ilaq uklalen ad țwaxelṣen s zzyada abeɛda wid yenneɛtaben deg ubecceṛ d uselmed .
-54005018	Axaṭer tira iqedsen nnant-ed : Ur țțara ara takmamt i wezger yesserwaten , f+ yura daɣen : Axeddam yuklal lexlaṣ-is . f+
+54005018	Axaṭer tira iqedsen nnant-ed : Ur țțara ara takmamt i wezger yesserwaten , yura daɣen : Axeddam yuklal lexlaṣ-is .
 54005019	Ur qebbel ara win ara iccetkin ɣef wemdebbeṛ n tejmaɛt anagar ma ḥedṛen sin neɣ tlata inagan ara d-icehden fell-as .
 54005020	Ma d wid idenben , lumm-iten zdat medden meṛṛa iwakken ula d wiyaḍ ad aggaden .
 54005021	Di leɛnaya-k ɣef wudem n Ṛebbi d Sid-nneɣ Ɛisa Lmasiḥ akk-d lmalayekkat yețwaxtaṛen , deg wannect-agi meṛṛa ur xeddem ara lxilaf ger yemdanen .
@@ -6652,7 +6652,7 @@
 54005023	? ef ddemma n weqṛaḥ n tɛebbuṭ-ik i k-issefcalen , ur tess ara kan aman lameɛna sew ciṭṭuḥ n ccṛab .
 54005024	Llan kra n yemdanen ddnubat-nsen țbanen-d uqbel ad țțuḥasben , llan wiyaḍ ddnubat-nsen ur d-țbanen ara imiren kan .
 54005025	Akken daɣen i d-țbanen lecɣal lɛali , ma d lecɣal n diri ur zmiren ara ad qqimen ffren .
-54006001	Wid yellan d aklan yumnen s Lmasiḥ ilaq ad ẓren belli imɛellmen-nsen uklalen leqdeṛ , iwakken ur ițwargam f+ ara yisem n Sidi Ṛebbi , ur kkaten ara medden deg wayen i nesselmad .
+54006001	Wid yellan d aklan yumnen s Lmasiḥ ilaq ad ẓren belli imɛellmen-nsen uklalen leqdeṛ , iwakken ur ițwargam ara yisem n Sidi Ṛebbi , ur kkaten ara medden deg wayen i nesselmad .
 54006002	Wid yesɛan imɛellmen i gețțamnen s Lmasiḥ ur ilaq ara ad kksen fell-asen leqdeṛ imi d atmaten-nsen i llan , lameɛna ad qedcen fell-asen seg ul imi d wid yumnen s Lmasiḥ , d wid eɛzizen ara yesfayden si leqdic-nsen . Atah wayen ara tweṣṣiḍ d wayen ara teslemdeḍ :
 54006003	win ara yeslemden ayen ixulfen liman-nneɣ , ur neqbil ara awal imqeddes n Ssid-nneɣ Ɛisa Lmasiḥ ,
 54006004	yeččuṛ d zzux ur yessin kra ; iḥemmel ad ikețțeṛ awal , yețnaɣ ɣef ddemma n yimeslayen . Seg wannect-agi i d-itekk umennuɣ , tismin , lekfeṛ d ccekk ,
@@ -6709,7 +6709,7 @@
 55002016	Xḍu i yimeslayen ur nesɛi lmeɛna i gxulfen liman axaṭer wid i ten itebɛen simmal țzaden teffɣen i webrid n Ṛebbi .
 55002017	Imeslayen-nsen am lehlak i teddun di lǧețța armi yečča-ț meṛṛa . Llan gar-asen ? imnayus d Filitus
 55002018	i gwexxṛen ɣef webrid n tideț , qqaṛen belli ḥeggu n lmegtin dayen yedṛa-d , s wakka ssufuɣen aṭas n yemdanen seg webrid n liman .
-55002019	Lameɛna d lsas i gessers Sidi Ṛebbi ara idumen : Ssid-nneɣ yeẓra wid yellan d ayla-s ; f+ yura daɣen win ara yinin nekk d ayla-s , ilaq ad yexḍu i wayen n diri . f+
+55002019	Lameɛna d lsas i gessers Sidi Ṛebbi ara idumen : Ssid-nneɣ yeẓra wid yellan d ayla-s ; yura daɣen win ara yinin nekk d ayla-s , ilaq ad yexḍu i wayen n diri .
 55002020	Deg wexxam n imeṛkantiyen mačči d iqbucen n ddheb neɣ n lfeṭṭa kan i gellan meɛna llan daɣen wid n wesɣaṛ d wid n wakal ; wid n ddheb d lfeṭṭa țțaǧan-ten i leqdic n wussan n tmeɣṛa ma d wiyaḍ i leqdic n mkul ass .
 55002021	Win ara yessizdgen iman-is yexḍa i lecɣal-agi n diri , ad yili am weqbuc-nni n ddheb neɣ n lfeṭṭa i sseqdacen deg wass n tmeɣṛa , yewjed ad yenfeɛ i wass m'ara t-yeḥwiǧ umɛellem-is .
 55002022	Exḍu i ccehwat n temẓi i gețɣuṛṛun , kečč akk-d wid ideɛɛun ɣer Sidi Ṛebbi s wul yeṣfan , nadi ɣef lḥeqq , liman , leḥmala ț-țalwit , .
@@ -6724,7 +6724,7 @@
 55003005	ad tebɛen abrid n Sidi Ṛebbi s wawal kan meɛna ad nekkṛen tazmert yellan deg-s . Ihi xḍu-k i yemdanen am wigi .
 55003006	Kra seg-sen keččmen ɣer kra n yexxamen , țkellixen tilawin ur nesɛi ara lḥeṛma i gețțawi zzhu n ddunit ;
 55003007	țqellibent daymen ad fehment , lameɛna leɛmeṛ țțawḍent ɣer tmusni n tideț .
-55003008	Am akken i xulfen Yanes d Yambris Sidna Musa , f+ akken daɣen ara xalfen tideț yemdanen-agi , aț-țeɛwej lefhama-nsen , ad ffɣen i webrid n liman .
+55003008	Am akken i xulfen Yanes d Yambris Sidna Musa , akken daɣen ara xalfen tideț yemdanen-agi , aț-țeɛwej lefhama-nsen , ad ffɣen i webrid n liman .
 55003009	Meɛna ur țțawḍen ɣer wacemma axaṭer imdanen meṛṛa a ten-ɛeqlen belli ffɣen i webrid am akken tedṛa d Yanes d Yambris .
 55003010	Ma d kečč tettebɛeḍ akken ilaq ayen i k-slemdeɣ , tikli-inu , ixemmimen-iw , liman-iw , ṣṣbeṛ-iw , leḥmala-inu d ẓẓwara-inu ,
 55003011	leqheṛ i țwaqehṛeɣ akk-d leɛtab-iw . Teẓriḍ lemḥayen i gɛeddan fell-i di temdinin n Antyuc , n Ikunyum d Listra ? Anwa leqheṛ iwumi ur ṣbiṛeɣ ara ? Meɛna Sidi Ṛebbi isellek-iyi seg-sen meṛṛa .
@@ -7451,7 +7451,7 @@
 62003009	Kra n wid yellan d arraw n Ṛebbi ur țɛicin ara di ddnub , axaṭer tudert i d-itekken s ɣuṛ Sidi Ṛebbi tella deg-sen ; ur zmiren ara ad ɛicen di ddnub imi s ɣuṛ Ṛebbi i d-ɛawden talalit .
 62003010	Atah wayen i d-ițbegginen lxilaf yellan ger warraw n Sidi Ṛebbi d wid n Cciṭan : kra n win ur nteddu ara s lḥeqq neɣ ur nḥemmel ara gma-s ur yelli ara si tarwa n Sidi Ṛebbi .
 62003011	Atan lameṛ i wumi teslam si tazwara : ilaq a nemyeḥmal wway gar-aneɣ .
-62003012	Mačči am Kahin yellan d amcum yenɣa gma-s , yezla-t axaṭer nețța lecɣal-is diri-ten , ma d gma-s iteddu s lḥeqq . f+
+62003012	Mačči am Kahin yellan d amcum yenɣa gma-s , yezla-t axaṭer nețța lecɣal-is diri-ten , ma d gma-s iteddu s lḥeqq .
 62003013	Ur wehhmet ara ay atmaten ma yella keṛhen-kkun wat ddunit .
 62003014	Nukni nɛedda-d si lmut ɣer tudert axaṭer nḥemmel atmaten . Win ur nḥemmel ara , mazal-it di lmut .
 62003015	Kra n win ikeṛhen gma-s d aqettal , yerna teẓram belli win ineqqen , ulac deg-s tudert n dayem .
@@ -7462,7 +7462,7 @@
 62003020	ɣas yesseḍlem-aɣ wul-nneɣ : Sidi Ṛebbi sennig wul nneɣ i gella yerna yeẓra kullec .
 62003021	A wid eɛzizen , ma yella ur aɣ-isseḍlem ara wul-nneɣ , nesɛa lețkal zdat Sidi Ṛebbi .
 62003022	Kra n wayen ara nessuter , ițțak-aɣ-t-id axaṭer neḥrez lumuṛat-is yerna nxeddem lebɣi-s .
-62003023	Atan wayen i ɣ-d-yumeṛ : a namen s yisem n Mmi-s Ɛisa Lmasiḥ yerna a nemyeḥmal wway gar-aneɣ am akken yella di lameṛ i ɣ-d-yefka . f+
+62003023	Atan wayen i ɣ-d-yumeṛ : a namen s yisem n Mmi-s Ɛisa Lmasiḥ yerna a nemyeḥmal wway gar-aneɣ am akken yella di lameṛ i ɣ-d-yefka .
 62003024	Win yețțaṭṭafen di Sidi Ṛebbi , iḥerzen lumuṛat-is , Sidi Ṛebbi yețțili deg wul-is ; yerna a neɛqel belli Sidi Ṛebbi yella deg ul-nneɣ s Ṛṛuḥ iqedsen i ɣ-d-yefka .
 62004001	A wid eɛzizen , ḥadret iman-nwen ɣef kra n win ara wen-d-yinin heddṛeɣ s Ṛṛuḥ n Sidi Ṛebbi , lameɛna jeṛṛbet-țen iwakken aț-țeẓrem ma yella s ɣuṛ Sidi Ṛebbi i d-kkan axaṭer , aṭas n lenbiya n lekdeb i gellan di ddunit .
 62004002	Atan wamek ara tɛeqlem ma yella yiwen yesɛa Ṛṛuḥ n Sidi Ṛebbi : kra n win ara icehden belli Ɛisa Lmasiḥ yusa-d ɣer ddunit s ṣṣifa n wemdan , s ɣuṛ Sidi Ṛebbi i d-yusa .
@@ -7484,7 +7484,7 @@
 62004018	Win yesɛan leḥmala n tideț ur t-tkeččem ara tugdi ; leḥmala n tideț tessufuɣ tugdi , axaṭer tugdi tețțas-ed si lxuf n lɛiqab , win yețɛicin di tugdi werɛad yessaweḍ ɣer leḥmala n tideț .
 62004019	Ma d nukni , nḥemmel Sidi Ṛebbi axaṭer d nețța i ɣ-iḥemmlen d amezwaru .
 62004020	Kra n win yeqqaṛen : ḥemmleɣ Sidi Ṛebbi yili yekṛeh gma-s , d akeddab , axaṭer win ur nḥemmel ara gma-s i gețwali , ur izmir ara ad iḥemmel Sidi Ṛebbi ur yețwali ara .
-62004021	Atan ihi lameṛ i ɣ-d-iǧǧa Lmasiḥ : win iḥemmlen Sidi Ṛebbi ad iḥemmel daɣen gma-s . f+
+62004021	Atan ihi lameṛ i ɣ-d-iǧǧa Lmasiḥ : win iḥemmlen Sidi Ṛebbi ad iḥemmel daɣen gma-s .
 62005001	Kra n wid yumnen belli d Ɛisa i d Lmasiḥ , uɣalen d arraw n Ṛebbi ; daɣen wid iḥemmlen Baba Ṛebbi , ḥemmlen ula d arraw-is .
 62005002	Atah wamek ara nẓer belli nḥemmel arraw n Ṛebbi : ma nḥemmel Sidi Ṛebbi yerna nxeddem lumuṛat-is .
 62005003	Axaṭer ma nḥemmel Sidi Ṛebbi ilaq a neḥrez lumuṛat-is ; lumuṛat-is ur ẓẓayit ara ,
@@ -7519,7 +7519,7 @@
 63001011	Axaṭer win i gesṭerḥben yis , yețțekki di lecɣal-is n diri .
 63001012	Mazal-iyi aṭas n lecɣal i ɣef bɣiɣ a wen-d-hedṛeɣ lameɛna mačči di tebṛaț , ssarameɣ a n-aseɣ ɣuṛ-wen , a wen-mmeslayeɣ s yimi-w , iwakken lfeṛḥ-nneɣ ad innekmal .
 63001013	Arraw n weltma-m yextaṛ Ṛebbi , țsellimen fell-am .
-64001001	Nekk yellan d ameqqran n tejmaɛt , i Gayus , f+ eɛzizen fell-i , i ḥemmleɣ s tideț .
+64001001	Nekk yellan d ameqqran n tejmaɛt , i Gayus , eɛzizen fell-i , i ḥemmleɣ s tideț .
 64001002	Ay aḥbib-iw , ssarameɣ ṣṣeḥa-inek bxiṛ i tella , am tikli-inek deg webrid n Sidi Ṛebbi .
 64001003	Feṛḥeɣ aṭas asm'akken i d-usan watmaten , mi d-ḥkan ɣef tideț yellan deg-k , d wamek i teṭṭfeḍ di tideț-agi s wul-ik .
 64001004	Ulac lfeṛḥ ara yecbun m'ara sleɣ s warraw-iw teddun di tideț .
