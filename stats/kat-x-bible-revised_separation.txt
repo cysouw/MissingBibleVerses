@@ -1,3 +1,0 @@
-!      1      0  True U+0021 EXCLAMATION MARK
-,      1      0  True U+002c COMMA
-?      2      0  True U+003f QUESTION MARK

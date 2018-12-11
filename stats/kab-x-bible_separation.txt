@@ -1,6 +1,0 @@
-'      0     16 False U+0027 APOSTROPHE
-+      0     22 False U+002b PLUS SIGN
-,      6      0  True U+002c COMMA
--      9      0  True U+002d HYPHEN-MINUS
-.      1      1  True U+002e FULL STOP
-:      1      0  True U+003a COLON
