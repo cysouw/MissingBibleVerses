@@ -1,8 +1,0 @@
-,      1      0  True U+002c COMMA
--     33      3  True U+002d HYPHEN-MINUS
-.      3      0  True U+002e FULL STOP
-–     25      0  True U+2013 EN DASH
-—      1      0  True U+2014 EM DASH
-‘      2      0  True U+2018 LEFT SINGLE QUOTATION MARK
-’   1460    328  True U+2019 RIGHT SINGLE QUOTATION MARK
-“      1      0  True U+201c LEFT DOUBLE QUOTATION MARK
