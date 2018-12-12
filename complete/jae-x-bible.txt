@@ -31,7 +31,7 @@
 40001020	Taê gêjam biŋ tonaŋ gêmoa e Apômtaunê aŋela geoc tau lasê to gêsuŋ mê gêdêŋ eŋ ma kêsôm gebe “ Dawidnê latu Josep , taêm dani taôm atom , ôkôc nêm awê Maria sa wacêŋgôŋ êwiŋ aôm , gebe eŋ taê aŋga Ŋalau Dabuŋ nê .
 40001021	Eŋ oc êkôc latu teŋ , naŋ ôê ênê ŋaê gebe Jesu , gebe eŋ êsi nê lau su aŋga nêŋ sec to ênam êsêac kêsi . ”
 40001022	Biŋ samob tonaŋ ŋai ŋanô kêsa gebe Apômtaunê biŋ , taŋ kêkêŋ propete awasuŋ kêsôm lasê naŋ , êtu anô gebe
-40001023	“ Alic acgom , awêtakiŋ teŋ taê e êkôc latu teŋ , ma sê ênê ŋaê gebe Imanuel! ” ( tanam ôkwi gebe “ Anôtô mêŋgêwiŋ aêac ” ) .
+40001023	“ Alic acgom , awêtakiŋ teŋ taê e êkôc latu teŋ , ma sê ênê ŋaê gebe Imanuel ! ” ( tanam ôkwi gebe “ Anôtô mêŋgêwiŋ aêac ” ) .
 40001024	Josep gêc mê e mata gêlac ma gêgôm kêtôm Apômtaunê aŋela kêsakiŋ eŋ , tec jakêkôc nê awê sa mêŋgeŋgôŋ gêwiŋ eŋ ,
 40001025	ma gêjac jaê eŋ ŋapep e kêkôc latu su , ma gê ênê ŋaê gebe Jesu .
 40002001	Jesu têna kêkôc eŋ aŋga Betlehem Judaiaŋa gêdêŋ kiŋ Herodo nê têm su , ma lau samuc nêŋ lau mêtê aŋga oc ŋam jasêô lasê Jerusalem
@@ -301,7 +301,7 @@
 40010017	Ajop taôm êndêŋ ŋamalac , gebe oc sêkêŋ amac andêŋ mêtôcwaga ana ma si amac aŋga êsêacnêŋ lôm ,
 40010018	ma sêwê amac andêŋ gôliŋwaga to kiŋ ana êtu aêŋa gebe awa biŋ sa ŋaŋêŋgeŋ êndêŋ êsêac to lau samuc .
 40010019	Êndêŋ taŋ sêkôc amac ana naŋ , apô sim taôm êtu leŋ to biŋ asômŋa atom , gebe êndêŋ noc tau biŋ asômŋa tau ênsuŋ tau êndêŋ amac êwac .
-40010020	Gebe amac taôm asôm b!ŋ atom , Tameminê Ŋalau êôc amac awem sa .
+40010020	Gebe amac taôm asôm biŋ atom , Tameminê Ŋalau êôc amac awem sa .
 40010021	“ Têwa êkêŋ lasi êndêŋ siŋ ma tama êkêŋ latu ma ŋapalêo to ŋac sêli tauŋ sa êndêŋ teneŋi to tameŋi ma sênsuŋ êsêac e siŋ enseŋ êsêac su .
 40010022	Ma lau samob têntac endec amac êtu ŋoc ŋaêŋa . Mago ŋac , taŋ êôc gêŋwapac totêtac êpa sugeŋ e ŋatêku êsu naŋ , Anôtô ênam eŋ kêsi .
 40010023	Embe sêjanda amac aŋga malac teŋ , naŋ aêc ana teŋ . Biŋŋanô , aê jasôm êndêŋ amac gebe Amac oc anam kôm êpi Israelnêŋ malac samob tomalageŋ atom , ma Ŋamalacnê Latu êmêŋ .
@@ -706,7 +706,7 @@
 40021013	Go kêsôm gêdêŋ êsêac gebe “ Teto gêc gebe ‘ Aêŋoc andu sêsam gebe andu mecŋa , ’ mago amac agôm kêtu kêjaŋgowaganêŋ gêsuŋ . ”
 40021014	Ma mateŋpec to magiŋ kêsu dêdêŋ eŋ sêja ma gêgôm êsêac ôliŋ ŋajam kêsa aŋga lôm dabuŋ .
 40021015	Lau dabuŋsêga to biŋsutau sêlic gêŋ kaiŋ teŋ , taŋ eŋ gêgôm naŋ , to ŋapalê , taŋ sêmôêc sêmoa lôm dabuŋ gebe “ Osana êndêŋ Dawidnê Latu , ” tec têtu môsi ,
-40021016	ma sêsôm gêdêŋ Jesu gebe “ Biŋ tec êsêac sêsôm nec aôm gôŋô me . ” Ma Jesu kêsôm gêdêŋ êsêac gebe “ Aec , gaŋôgac . Ma bi ŋ tonec gebe ‘ ‘ Aôm kômasaŋ lambiŋ kêsa ŋapalê sauŋ to gêŋ dedec aweŋsuŋ ’ nec amac asam atom me . ”
+40021016	ma sêsôm gêdêŋ Jesu gebe “ Biŋ tec êsêac sêsôm nec aôm gôŋô me . ” Ma Jesu kêsôm gêdêŋ êsêac gebe “ Aec , gaŋôgac . Ma biŋ tonec gebe ‘ ‘ Aôm kômasaŋ lambiŋ kêsa ŋapalê sauŋ to gêŋ dedec aweŋsuŋ ’ nec amac asam atom me . ”
 40021017	Ma gêwi êsêac siŋ kêsa aŋga malac gêja Betania ma gêc tônê .
 40021018	Gêdêŋ bêbêcgeŋ Jesu gêmu gêja malac kêtiam e mo gêjô eŋ .
 40021019	Ma gêlic jambô teŋ kêkô intêna , tec kêtu gasuc gêja e gêlic gêŋ teŋ atom , gêlic ŋalauŋ naômageŋ . Ma kêsôm gêdêŋ ka tau gebe “ Aôm oc ônam ŋanô êtiam atom endeŋ tôŋgeŋ . ” Ma jambô tau kêsêlic sep tageŋ .
@@ -1842,7 +1842,7 @@
 42002002	Kôm tau tonaŋ sêjac m gêdêŋ gôliŋwaga Suriaŋa Kuren gêŋgôŋ ,
 42002003	ma lau samob dêdi sêja nêŋ malacmôkê gêdêŋ - gêdêŋgeŋ gebe teto êsêac .
 42002004	Tec Josep aŋga malac Galilaiaŋa Nasaret kêpi Judaia gêja Dawidnê malac , ŋaê Betlehem , gebe eŋ aŋga Dawidnê gôlôac tauŋ nêŋ .
-42002005	Eŋ gebe teto êsêagê!c nê awê Maria , taŋ sê êsêagêc dêdêŋ tauŋ naŋ , ma awê tau kêkêkam ŋapalê gêmoa .
+42002005	Eŋ gebe teto êsêagêic nê awê Maria , taŋ sê êsêagêc dêdêŋ tauŋ naŋ , ma awê tau kêkêkam ŋapalê gêmoa .
 42002006	Agêc jasêŋgôŋ tonaŋ e têm Maria êkôc ŋapalêŋa kêdabiŋ .
 42002007	Tec kêkôc latu ŋamêc , naŋ kêkwa eŋ ŋa obo auc ma ketoc eŋ gêc bôcnêŋ sac teŋ , gebe nêŋ gamêŋ ŋasawa teŋ gêc andu ŋacleŋŋa atom .
 42002008	Ma gamêŋ tonaŋ ŋagejobwaga sêmoa jasejop nêŋ domba gêdêŋ gêbêc sêmoa oba .
@@ -2083,7 +2083,7 @@
 42007021	Gêdêŋ ŋasawa tonaŋ Jesu kêmoasiŋ gêmac taêsam to lau ôliŋ kêtuŋ êsêac ma ŋalau sec gêgôm êsêac naŋ , ôliŋ ŋajam kêsa ma gêgôm mateŋpec taêsam sêlic gamêŋ kêtiam .
 42007022	Tec eŋ gêjô êsêagêc aweŋ gebe “ Ana ma anac miŋ geŋ , taŋ alic to aŋô naŋ , êndêŋ Joaŋ gebe mateŋpec sêlic gamêŋ kêtiam to magiŋ kêsu sêsêlêŋ , kamocbôm têtu selec to taŋeŋsuŋbic sêŋô biŋ , ma ŋacmatê dêdi sa to lau sêsôm ŋawae ŋajam lasê gêdêŋ lau ŋalêlôm sawa .
 42007023	Ma aê aoc êôc êsêac , taŋ têntac lulu kêtu aêŋa atom . ”
-42007024	Joaŋnê ŋacjaeŋ luagêc tonaŋ sêc sêmu sêja acgom , go Jesu gêôc awa sa ma gêwa J oaŋ sa gêdêŋ lau gebe “ Amac asa gamêŋ sawa aja abe alic asageŋ . Abe alic sôbolec teŋ mu gêôc jakêsêp mêŋkêsêp me .
+42007024	Joaŋnê ŋacjaeŋ luagêc tonaŋ sêc sêmu sêja acgom , go Jesu gêôc awa sa ma gêwa Joaŋ sa gêdêŋ lau gebe “ Amac asa gamêŋ sawa aja abe alic asageŋ . Abe alic sôbolec teŋ mu gêôc jakêsêp mêŋkêsêp me .
 42007025	Me aja abe alic asageŋ . Abe alic ŋac teŋ kêsô ŋakwê palê-palê me . Alicgac me , lau taŋ sêsô ŋakwê togêŋŋ ma sêmoasiŋ tauŋ ôliŋ naŋ , sêŋgôŋ kiŋnêŋ andugeŋ .
 42007026	Me aja abe alic asageŋ . Abe alic propete teŋ me . Biŋŋano , aê jasôm êndêŋ amac gebe Ŋac taŋ kêlêlêc propete su .
 42007027	Ŋac tau tonaŋ , tec teto biŋ kêpi eŋ gebe ‘ Anôtô kêsôm gebe Ôlic acgom , aê jasakiŋ ŋoc ŋacjaeŋ êmuŋ aôm naêmansaŋ nêm intêna , taŋ gêc aôm laŋômnêmŋa naŋ . ’
@@ -2385,7 +2385,7 @@
 42012059	Aê jasôm êndêŋ aôm gebe Oc ôsa aŋga tônê ômôêŋ atom e ônac nêm tôp samob êmbacnê tomalagen acgom . ”
 42013001	Gêdêŋ ŋasawa tonaŋ lau ŋagêdô sêmoa , taŋ sêjac miŋ gêdêŋ Jesu kêpi lau Galilaiaŋa ŋagêdô , taŋ Pilata gêjac êsêac êndu gêdêŋ taŋ sêkêŋ da gêdêŋ Anôtô .
 42013002	Tec Jesu gêjô êsêac aweŋ gebe “ Amac abe Galilaia tonaŋ lau sec sêlêlêc lau Galilaiaŋa ŋagêdô samob su , tec sêôc gêŋwapac amboac tônê me .
-42013003	Aê jasôm êndêŋ amac gebe Masigoc . Ma!ao amac embe anam taôm ôkwi atom , oc anaŋa samob amboac tônêgeŋ .
+42013003	Aê jasôm êndêŋ amac gebe Masigoc . Maiao amac embe anam taôm ôkwi atom , oc anaŋa samob amboac tônêgeŋ .
 42013004	Me abe lau 18 , taŋ andu toŋatêpôê baliŋ aŋga Siloamŋa kêku sa jagêjac êsêac êndu naŋ , lau geo sêlêlêc lau ŋagêdô samob , taŋ sêŋgôŋ Jerusalem naŋ su me .
 42013005	Aê jasôm êndêŋ amac gebe Masigoc . Mago amac embe anam taôm ôkwi atom , oc anaŋa samob amboac tônêgeŋ . ”
 42013006	Go Jesu kêsôm biŋgôliŋ tonec gebe “ Ŋac teŋ kêsê nê aiŋ teŋ kêsêp nê kôm moŋa ma gêja gesom ŋanô e kêtap sa atom .
@@ -2438,7 +2438,7 @@
 42014018	Ma êsêac samob nêŋ ŋalêlôm kêtôm taugeŋ tec seseŋ tauŋ su . Ŋac ŋamataŋa kêsôm gêdêŋ eŋ gebe ‘ Aê gajam ôli kôm teŋ , tec najanac kêsi acgom . Amboac tonaŋ jateŋ aôm gebe naômansaŋ ŋoc biŋ . ’
 42014019	Ma ŋac teŋ kêsôm gebe ‘ Aê gajam ôli bôc 10 , tec najanac ŋoc gêŋ kêsi . Aê jateŋ aôm gebe naômansaŋ ŋoc biŋ . ’
 42014020	Go teŋ kêsôm gebe ‘ Aê galoc gajam awê sa , tec katôm gebe jawac atom . ’
-42014021	Sakiŋwaga tonaŋ gêmu jagêjac miŋ biŋ samob tonaŋ ŋai gêdêŋ nê ŋatau . Te!c andu ŋatau têtac ŋandaŋ kêsa ma kêsôm gêdêŋ nê sakiŋwaga tonaŋ gebe ‘ Sebeŋ ôna ma ojoŋ lau ŋalêlôm sawa to puliŋ ma mateŋpec to magiŋ kêsu sa aŋga malac ŋaintêna sauŋ to kapôêŋ mêŋsêsô gamêŋ tonec . ’
+42014021	Sakiŋwaga tonaŋ gêmu jagêjac miŋ biŋ samob tonaŋ ŋai gêdêŋ nê ŋatau . Teic andu ŋatau têtac ŋandaŋ kêsa ma kêsôm gêdêŋ nê sakiŋwaga tonaŋ gebe ‘ Sebeŋ ôna ma ojoŋ lau ŋalêlôm sawa to puliŋ ma mateŋpec to magiŋ kêsu sa aŋga malac ŋaintêna sauŋ to kapôêŋ mêŋsêsô gamêŋ tonec . ’
 42014022	Ma sakiŋwaga kêsôm gebe ‘ Apômtau , biŋ taŋ kôjatu aê gebe jaŋgômŋa naŋ gagôm su , mago andu gêlôc atom tageŋ . ’
 42014023	Tec ŋatau kêsôm gêdêŋ sakiŋwaga tau gebe ‘ Ôsa kôm ŋaintêna to tuŋmagê ôna ma ôkac lau gebe sêsô sêmêŋ e ŋoc : andu êlôc . ’
 42014024	Ma aê jasôm êndêŋ amac gebe Lau taŋ sêŋô aêŋoc jaeŋ su naŋ , nêŋ teŋ oc êsac aêŋoc moasiŋ ŋagec atom . ”
@@ -5514,7 +5514,7 @@
 46012013	Aêac samob taliŋ saŋgu ma Ŋalau tageŋ gêbiŋ aêac tôŋ tatu ôli tageŋ Juda to lau samuc , gêŋôma to lau , taŋ sêmoa nêŋ Iêtêgeŋ naŋ , ma sêkêŋ Ŋalau tageŋ gêdêŋ aêac samob tanôm .
 46012014	Ôli tau ŋagêŋlêlôm tageŋ atom , ŋagêŋlêlôm taêsam .
 46012015	Akaiŋ embe êsôm gebe “ Aê lêma atom , tec katu ôli nagêŋlêlôm teŋ atom , ” biŋ tonaŋ oc êkac eŋ su aŋga ôli êtôm atom .
-46012016	Ma taŋasuŋ embe êsôm gebe “ Aê mataanô atom , tec katu ôli ŋagêŋlêlôm t eŋ atom , ” biŋ tonaŋ oc êkac eŋ su aŋga ôli êtôm atom .
+46012016	Ma taŋasuŋ embe êsôm gebe “ Aê mataanô atom , tec katu ôli ŋagêŋlêlôm teŋ atom , ” biŋ tonaŋ oc êkac eŋ su aŋga ôli êtôm atom .
 46012017	Ôli samucgeŋ embe êtu mataanôŋageŋ , oc êŋô biŋ amboac ondoc . Ma embe êtu taŋasuŋŋageŋ , oc êŋu gêŋ ŋamalu amboac ondoc .
 46012018	Mago galoc amboac teŋ . Anôtô kêkêŋ ôli ŋagêŋlêlôm gêdêŋ-gêdêŋgeŋ kêtôm eŋ taê gêjam .
 46012019	Ôli samucgeŋ embe êtu ŋagêŋlêlôm tageŋ , go ôli ŋanô tau ênêc ondoc .
@@ -7317,7 +7317,7 @@
 66003006	Ŋac taŋ nê taŋasuŋ gêc naŋ , êŋô biŋ , tec Ŋalau kêsôm gêdêŋ gôlôac dabuŋ nec .
 66003007	“ Ma oto biŋ tonec êndêŋ gôlôac dabuŋ Piladelpiaŋa nêŋ aŋela . “ Ŋac dabuŋ to ŋac biŋŋanôŋa , taŋ kêkôc Dawidnê ki katamŋa naŋ , embe êlai su , oc teŋ êlai auc êtôm atom , ma embe êlai auc , oc teŋ êlai su êtôm atom , ŋac tau tonaŋ kêsôm biŋ tonec gebe
 66003008	Aê kaJala nêm koleŋ . Ôlic acgom , aê galêc katam teŋ su gêdêŋ aôm , tec kêkô , ma teŋ kêtôm gebe ênsaŋ aucŋa atomanô . Aê kajala gebe nêm ŋaclai ŋagec gêc , mago kômasaŋ ŋoc biŋ to gôsa aêŋoc ŋaê auc atom .
-66003009	Ôlic acgom , oc jakêŋ êsêac aŋga Sadaŋŋê lôm , taŋ sê tauŋ gebe êsêac Juda , mago êsêac J uda atom , sêsau tauŋ naŋ , sêndêŋ aôm sêwac sêpôŋ aeŋduc sênêc aôm amkaiŋŋa , ec sêjala gebe aê têtac gêwiŋ aôm .
+66003009	Ôlic acgom , oc jakêŋ êsêac aŋga Sadaŋŋê lôm , taŋ sê tauŋ gebe êsêac Juda , mago êsêac Juda atom , sêsau tauŋ naŋ , sêndêŋ aôm sêwac sêpôŋ aeŋduc sênêc aôm amkaiŋŋa , ec sêjala gebe aê têtac gêwiŋ aôm .
 66003010	Aê jaŋgôm biŋ tonaŋ gebe aôm kômasaŋ ŋoc biŋ to gôc gêŋwapac totêmtac kêpa sugeŋ . Amboac tonaŋ aê oc jajop aôm êndêŋ noc Iêtômŋa , taŋ oc mêŋêsa aŋga nom ŋagamêŋ samob gebe ênsaê lau samob , taŋ sêŋgôŋ nom naŋ , gebe lêtôm tau êtap aôm sa êwiŋ atom .
 66003011	Aê oc jawac sebeŋ . Gêŋ taŋ kôkôc kêtu nêm gêŋ su naŋ , ômêŋgôm ŋajaŋageŋ gebe ŋac teŋ êjaŋgo nêm sunsuŋ su atom .
 66003012	Teŋ embe êku ŋacjo tulu , oc jakêŋ eŋ êtu alê êkô ŋoc Anôtônê lôm dabuŋ . Eŋ oc êwi lôm dabuŋ siŋ êsa êna atomanô . Ma aê jato ŋoc Anôtônê ŋaê to ŋoc Anôtônê malac Jerusalem wakuc ŋaê ênsac eŋ . Ŋoc Anôtô oc êkêŋ malac tau êsêp aŋga undambê êmêŋ . Ma jato tauc ŋoc ŋaê wakuc ênsac eŋ êwiŋ .
