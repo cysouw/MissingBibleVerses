@@ -201,7 +201,7 @@
 40007018	Igiti cyiza ntigishobora kwera imbuto mbi , n’igiti kibi ntigishobora kwera imbuto nziza .
 40007019	Igiti cyose kitera imbuto nziza baragitema , bakakijugunya mu muriro .
 40007020	Nuko rero , muzabamenyera ku mbuto bera .
-40007021	Umbwira wese ngo ’ Nyagasani , Nyagasani ' , si we uzinjira mu ngoma y’ijuru , ahubwo ni ukora ibyo Data uri mu ijuru ashaka .
+40007021	Umbwira wese ngo ’ Nyagasani , Nyagasani ’ , si we uzinjira mu ngoma y’ijuru , ahubwo ni ukora ibyo Data uri mu ijuru ashaka .
 40007022	Benshi bazambwira uwo munsi bati ’ Nyagasani , Nyagasani , ese ntitwahanuye mu izina ryawe ? Ese ntitwirukanye roho mbi mu izina ryawe ? Ese ntitwakoze ibitangaza byinshi mu izina ryawe ?
 40007023	Ubwo nzaba bwira nti ’ Sinigeze mbamenya ; nimwigireyo , mwa nkozi z’ibibi mwe ! ’
 40007024	Nuko rero , umuntu wese wumva ayo magambo maze kuvuga , kandi akayakurikiza , ameze nk’umuntu w’umunyabwenge wubatse inzu ye ku rutare .
@@ -594,7 +594,7 @@
 40017027	Nyamara , kugira ngo tudaha urugero rubi bariya bantu , jya ku nyanja urohe ururobo . Ifi ya mbere uri bufate , uyasamure ; urayisangamo igiceri , ukijyane , maze ukibaheho ituro ryanjye n’iryawe . »
 40018001	Icyo gihe abigishwa begera Yezu , baramubaza bati « Mbese ubona ari nde uruta abandi mu Ngoma y’ijuru ? »
 40018002	Ahamagara umwana muto , amushyira hagati yabo ,
-40018003	nuko aravuga ati « Ndababwira ukuri : nimudahinduka ngo mumere nk’abana , nta bwo muzinjira mu Ngoma y ’ ijuru .
+40018003	nuko aravuga ati « Ndababwira ukuri : nimudahinduka ngo mumere nk’abana , nta bwo muzinjira mu Ngoma y’ijuru .
 40018004	Uwicisha bugufi wese nk’uyu mwana , uwo ni we usumba abandi mu Ngoma y’ijuru .
 40018005	Uwakira neza umwana nk’uyu ari jye agirira , ni jye aba yakiriye .
 40018006	Ariko nihagira ugusha mu cyaha umwe muri bene aba bato banyemera , ikimukwiye ni uko bamuhambira ku ijosi urusyo rusheshwa n’indogobe maze akarohwa mu nyanja rwagati .
