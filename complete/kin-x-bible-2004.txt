@@ -780,7 +780,7 @@
 40022041	Abafarizayi bamaze gukorana , Yezu arababaza ati :
 40022042	“ Ibya Kristo mubyumva mute ? Ni mwene nde ? ” Baramusubiza bati : “ Ni mwene Dawidi . ”
 40022043	Yezu ati : “ Bishoboka bite , kandi Dawidi ubwe abihishuriwe na Mwuka w'Imana , yaravuze ko Kristo ari umwami we igihe yagiraga ati :
-40022044	‘ Nyagasani yabwiye Umwami wanjye ati : “ Icara ku ntebe ya cyami iburyo bwanjye , nanjye nzashyira abanzi bawe munsi yibirenge byawe .” ’
+40022044	‘ Nyagasani yabwiye Umwami wanjye ati : “ Icara ku ntebe ya cyami iburyo bwanjye , nanjye nzashyira abanzi bawe munsi yibirenge byawe . ” ’
 40022045	None se ubwo Dawidi yita Kristo umwami we , Kristo yaba ate kandi umwana we ? ”
 40022046	Nuko ntihagira ubasha kugira icyo amusubiza , ndetse kuva uwo munsi nta wongeye kumuhangara agira icyo amubaza .
 40023001	Nyuma y'ibyo Yezu abwira imbaga y'abantu hamwe n'abigishwa be ati :
@@ -2686,7 +2686,7 @@
 42020040	Kuva ubwo ntibatinyuka kugira ikindi bamubaza .
 42020041	Yezu arababaza ati : “ Ni iki gituma bavuga ko Kristo ari umwana wa Dawidi ?
 42020042	Dawidi ubwe yavuze mu gitabo cya Zaburi ati :
-42020043	nanjye nzahindura abanzi bawe nkakabaho ukandagizaho ibirenge .” ’
+42020043	nanjye nzahindura abanzi bawe nkakabaho ukandagizaho ibirenge . ” ’
 42020044	None se ubwo Dawidi ubwe yita Kristo umwami we , Kristo yaba ate kandi umwana we ? ”
 42020045	Yezu abwira abigishwa be rubanda rwose rwumva ati :
 42020046	“ Murajye mwirinda abigishamategeko , bakunda gutembera bambaye amakanzu meza no kubona baramukirizwa aho abantu bateraniye . Bakunda kandi guhabwa intebe z'icyubahiro mu nsengero n'ibyicaro by'imbere aho batumiwe .
@@ -3848,7 +3848,7 @@
 44002032	Yezu uwo rero Imana yaramuzuye , twese turi abagabo bo kubihamya .
 44002033	Amaze kuzamurwa mu ijuru ashyirwa iburyo bw'Imana , maze Se amushyikiriza Mwuka Muziranenge , uwo yasezeranyije abantu , aherako asuka ibyo mubona n'ibyo mwumva ibi .
 44002034	Erega Dawidi we ntiyagiye mu ijuru , nyamara kandi yaravuze ati :
-44002035	nanjye nzahindura abanzi bawe nkakabaho ukandagizaho ibirenge .” ’
+44002035	nanjye nzahindura abanzi bawe nkakabaho ukandagizaho ibirenge . ” ’
 44002036	“ None rero urubyaro rwose rwa Isiraheli rukwiriye kumenya rudashidikanya ko Yezu uwo mwabambye , Imana yamugize Nyagasani imugira na Kristo . ”
 44002037	Abantu bumvise ibyo barakangarana , maze babaza Petero n'izindi Ntumwa bati : “ Bavandimwe , dukore iki ? ”
 44002038	Petero arababwira ati : “ Nimwihane buri wese abatizwe mu izina rya Yezu Kristo , kugira ngo mubabarirwe ibyaha . Ni bwo Imana izabaha impano , ari yo Mwuka Muziranenge .
@@ -3912,7 +3912,7 @@
 44004023	Petero na Yohani bamaze kurekurwa basanga bagenzi babo , babatekerereza ibyo babwiwe n'abakuru bo mu batambyi n'abakuru b'imiryango .
 44004024	Babyumvise bose bahita basenga Imana bashyize hamwe bati : “ Nyagasani , ni wowe waremye ijuru n'isi n'inyanja n'ibirimo byose .
 44004025	Ni wowe watumye Mwuka Muziranenge avugisha umugaragu wawe sogokuruza Dawidi ati :
-44004026	Abami bayo barahagurutse , abategetsi bayo na bo bishyize hamwe , barikunganyije ngo barwanye Nyagasani , barwanye nUwo yimikishije amavuta .’
+44004026	Abami bayo barahagurutse , abategetsi bayo na bo bishyize hamwe , barikunganyije ngo barwanye Nyagasani , barwanye nUwo yimikishije amavuta . ’
 44004027	Ni ukuri Herodi na Ponsiyo Pilato , hamwe nabanyamahanga nAbisiraheli bose bateraniye muri uyu mujyi , bahuza umugambi wo kurwanya Umugaragu wawe wumuziranenge Yezu , uwo wimikishije amavuta .
 44004028	Kwari ugusohoza imigambi wateganyije kuva kera kose ku bwububasha nubushake bwawe .
 44004029	None Nyagasani , witegereze ibikangisho byabo , maze uhe abagaragu bawe kuvuga ibyawe dushize amanga .
@@ -6836,7 +6836,7 @@
 58001006	Nyamara kandi igihe Imana yoherezaga impfura yayo ku isi , yaravuze iti : “ Abamarayika bose bImana nibamuramye . ”
 58001007	Ku byerekeye abamarayika yaravuze iti : “ Igira abamarayika bayo imiyaga , abo bagaragu bayo ibagira ibirimi byumuriro . ”
 58001008	Naho ku byerekeye Umwana wayo iravuga iti : “ Mana , ingoma yawe ihoraho iteka ryose , abantu bawe ubategekesha ubutabera .
-58001009	Ukunda ubutungane ukanga ubugome , ni yo mpamvu Imana ari yo Mana yawe yagusīze amavuta , yakurobanuye muri bagenzi bawe , igusendereza ibyishimo .”
+58001009	Ukunda ubutungane ukanga ubugome , ni yo mpamvu Imana ari yo Mana yawe yagusīze amavuta , yakurobanuye muri bagenzi bawe , igusendereza ibyishimo . ”
 58001010	Na none iti : “ Nyagasani , mbere na mbere wahanze isi , ijuru na ryo ni umurimo wintoki zawe .
 58001011	Ibyo bizashiraho ariko wowe uzahoraho , byose bizasaza nkumwambaro .
 58001012	Uzabizingazinga nkuzingazinga umwenda , bizahindurwa nkuko imyambaro ihinduranywa . Ariko wowe uzahora uri uko wahoze , ntuzigera ugira iherezo . ”
@@ -6900,7 +6900,7 @@
 58005003	Kubera iyo mpamvu ntagomba guhongerera ibyaha bya rubanda gusa , ahubwo agomba no guhongerera ibyaha bye bwite .
 58005004	Nta muntu washobora kwiha icyubahiro cyo kuba Umutambyi mukuru , ahubwo agihabwa n'Imana yabimutoranyirije nk'uko byagenze kuri Aroni .
 58005005	Kristo na we ntiyihaye ikuzo ryo kuba Umutambyi mukuru , ahubwo yarihawe n'Imana yamubwiye iti :
-58005006	Na none hari ahandi Imana yavuze iti : “ Uri umutambyi iteka ryose , mu buryo bwa Melikisedeki .”
+58005006	Na none hari ahandi Imana yavuze iti : “ Uri umutambyi iteka ryose , mu buryo bwa Melikisedeki . ”
 58005007	Mu gihe Yezu yari akiri ku isi yasenze yinginga , aniha cyane , abogoza n'amarira , atakambira Imana ifite ububasha bwo kumukiza urupfu . Nuko iramwumva kubera ko yayiyeguriye .
 58005008	Nubwo yari Umwana w'Imana , yigishijwe kuyumvira n'imibabaro yagize .
 58005009	Nuko amaze kuba indakemwa , yabereye abamwumvira bose isōko y'agakiza gahoraho .
