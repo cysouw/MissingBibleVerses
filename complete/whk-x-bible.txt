@@ -1,4 +1,4 @@
-# language_name:        Wahau Kenyah
+# language_name:        Wahau Kenyah 
 # closest ISO 639-3:    whk
 # ISO_15924:            Latn
 # year_short:           
@@ -1153,7 +1153,7 @@
 41002026	Sulo tai ie kedalem Amin Allah ngan uman ruti ia' ban pengencai dulu me Allah . Dalau ina Abiatar ia' Pengebio' Deta'u . Dalem adet le , bang dia' deta'u le ia' senteng uman ruti pengencai ina . Idi pe pekina , ina ban Daut uman ne lete , ngan na' ruti ina me dia' ngan ne . "
 41002027	Dau Yesus la'a : " Adet Tau Keline' atek nuyan tuman ngkin peniga me ilu kelunan . Abe' sepe kelunan ia' nuyan tuman me Tau Keline' .
 41002028	Uko' ba'an Anak Sio ini ia' atek Tu'a , pekina lete ia Tu'a neng Tau Keline' . "
-41003001	Tai Yesus ka' amin sebayang Yahudi ca liwai ie la'a . , j Un pe ca laki ia' uping ujo' kina .
+41003001	Tai Yesus ka' amin sebayang Yahudi ca liwai ie la'a . Un pe ca laki ia' uping ujo' kina .
 41003002	Un palai dulu dia' nesek se' puyan Yesus , selu ue ke paget kelunan tego' Tau Keline' , mo' kimet de uba' ke pita ca ukan ke uyan sala' me ia .
 41003003	Sulo Yesus pisiu ngan laki ia' uping ujo' ina , un dau ue : " Bete' ne , nai ne ka' belua' mpun kini . "
 41003004	Penco Yesus lemutu kelunan kado' dina : " Dalem adet le , kumpin puyan ia' ilu senteng uyan tego' Tau Keline' ? Ti puyan ia' tiga ta'in , buk are ti puyan ja'at ? Kumpin , pudip usa kelunan ta'in , buk are ngeja'at ida ? " Un sepu'o abe' de pisiu .
@@ -2862,7 +2862,7 @@
 42024004	Dalau re maru teka' pekina , beleka' idi dua usa laki dia' un sapai menyerening dise' nekejeng dudo ida .
 42024005	Tai takut lale' teka' leto dina , sulo re mu'up ka' tana' dalau laki dua dina pisiu ida , un dau re : " Mo' inu hem nai mita ia' mudip kuko' dia' matai tupe ?
 42024006	Abe' e un kini la'a . Lepa ne ia nai bete' mudip . Petawai ne dau ue bada' mikem dalau ue un ka' Galilia are , ngan un dau ue are :
-42024007	Anak Sio ini atek dulu ke mencai ka' ujo' kelunan dia' sangan ku'un penyala' . Ida ke napek ke' neng kayu tecek o . Ngan neng tau ia' ketelu ue , kenai he' bete' mudip pela'a . ' M
+42024007	‘ Anak Sio ini atek dulu ke mencai ka' ujo' kelunan dia' sangan ku'un penyala' . Ida ke napek ke' neng kayu tecek o . Ngan neng tau ia' ketelu ue , kenai he' bete' mudip pela'a . ’ "
 42024008	Tego' ina lete , leto dina petawai dau tira' Yesus are .
 42024009	Penco tai leto dina ule' cen liang ina , sulo re bada' keto' puyan ina me dia' pulo' ca usa dia' ban baya' katuk Yesus are , ngan pekina pe me dia' ca la'a .
 42024010	Un pe leto dina , Mariam Madalina , ngan Yuana , ngan Mariam ue' Yakup . Un pe leto dia' ca ia' pemung ngan nte . Mung nte bada' puyan ina me dia' lawa Tuhan didai .
@@ -3687,7 +3687,7 @@
 43018036	" Abe' pu'un pengaren nce' cen usun tana' ini . Buk pengaren nce' un pu'un cen usun tana' ini , kelunan dia' baya' katuk ke' ke nyakat apan kelunan Yahudi abe' un mapo ake' . Na'un , abe' puyan pengaren nce' un nai cen usun tana' ini . "
 43018037	Ina uko' Pilatus lemutu ia : " Buk pekina , paren bio' ko' ne mo ? " Dau Yesus mipa ia : " Iko' kuma ake' ca paren bio' . Lan pe ake' pempet ngan nai kusun tana' ini tuman ca ie puyan , ia' ina bada' tugen neng katuk ia' telit . Abe' dia' uba' ala' katuk ia' telit , ida ia' ngeringa dau he' . "
 43018038	Dau Pilatus lemutu : " Inu ia' katuk telit tupe ? "
-43018039	Un sepu'o kelayan adet cem , ake' ke nakau ca u , sa mikem cen amtn sepin tego' Bunut Paska . Uba' kem ake' ke nakau paren bio' lepo' Yahudi ini mikem mo ? "
+43018039	Un sepu'o kelayan adet cem , ake' ke nakau ca usa mikem cen amin sepin tego' Bunut Paska . Uba' kem ake' ke nakau paren bio' lepo' Yahudi ini mikem mo ? "
 43018040	Lemika' dau re mipa ia : " Na'un , ahe' e ia . Barabas ame' uba' . " ( Barabas ne ca kelunan kejamun . )
 43019001	U'o ina kun Pilatus ala' Yesus , cuk sedadu dina lemeta ia .
 43019002	Kun sedadu dina uyan tapung suha' , penco na' ka' ulu ue , ngan na' ca sapai dado' silem le mia ,
@@ -4111,7 +4111,7 @@
 44009029	Saul ia' tai petira' ngan pase' neng lepo' Yahudi dia' kanan isiu Gerika . Kun nte mita janan uha' ke lematai ia .
 44009030	Un dia' cenganak ke dalem Tuhan dina , tai re tisen neng puyan ina , penco re ngkin Saul ka' Kaisaria , kun nte cuk ia tai ka' lepo' Tarsus .
 44009031	Ina uko' o un tadan neng Mpun dia' ngelan Tuhan pa lipo tana' Yudia , ngan Galilia , ngan Samaria . Un Mpun dia' ngelan Tuhan kina tai tangen ku'un katuk ngan tai un pit kado' de , mentung mudip ngan tunuk se' puyan nte pala' Tuhan , uban ku'un Berua Tuhan ia' mepo ida .
-44009032	Tai Peterus masat pa tipo dale ina , tai ie ca liwai na'at dia' anun Tuhan dia' mudip ka' lepo' I ida .
+44009032	Tai Peterus masat pa tipo dale ina , tai ie ca liwai na'at dia' anun Tuhan dia' mudip ka' lepo' Lida .
 44009033	Kina ha petego' ngan ca iaki ngadan ne Inias , ia' sakit lema' uhat te . Lepa aya umam ne majan ne , abe' e senteng puke cen uko' o meken .
 44009034	Un dau Peterus neng ia : " Aha' Inias , ban Yesus Keristus ia' paget iko' . Bete' ne , lemelen ne pat co' ne . " Dalau ina to kenai ie hete' tua' ne .
 44009035	Mung dulu dia' ka' lepo' Lida ngan ka' tana' Sarun ina ta'an se' aget Inias , penco re mayo baya' Tuhan .
@@ -4189,7 +4189,7 @@
 44011016	Ake' petawai neng tira' ia' Tuhan bada' idai , ia' kuma ha : Un Yaya , ia lepa ngehatis dulu man sungai , un sepu'o un ncem dini , Allah ke ngebatis ikem man Berua Buhe' o . '
 44011017	Atek luha' ban Allah na' mida pengencai , ko' ba'an ne na' milu tading le ban ngelan Tuhan Yesus Keristus are . Buk pekina , ahe' ke' ini , mpi ake' ia' ke payen Allah ? "
 44011018	U'o re kenahan dau Pererus pekina , tai hersa'a ne ida , penco tai re pempau Allah , mentung dau re : " Buk pekina , se' Allah mawang ca janan me dulu dia' taha' awang Yahudi , uko' de nesen ngan nyepule' kimet de , ia' tai pata' udip dalem Tuhan . "
-44011019	Mung dia' ngelan Tuhan tai petat ku'un penai u ia' nai dalau dutu lematai Stipanus are . Un palai mida tai kelap pahe' dale Penisia ngan tana' Siperus , mentung nte bada tira' Allah me dia' lepo' Yahudi tengen le .
+44011019	Mung dia' ngelan Tuhan tai petat ku'un penaru ia' nai dalau dutu lematai Stipanus are . Un palai mida tai kelap pahe' dale Penisia ngan tana' Siperus , mentung nte bada tira' Allah me dia' lepo' Yahudi tengen le .
 44011020	Un palai dia' ngelan Tuhan ban cen lepo' Siperus , ngan lepo' Kirini , tai re ahe' ka' lepo' Antiukia . Kun nte bada' Denga Injil Tuhan Yesus me dulu dia' taha' awang Yahudi .
 44011021	Mo' ban un nyingan Tuhan luha' tugung ida dina , ina uko' kado' lale' dulu dia' ngelan ngan pupa nai baya' Tuhan .
 44011022	Kenahan kun Mpun dia' ngelan Tuhan ka' Yerusalim dau denga ina , penco re cuk Barnabas tai ka' Antiukia .
@@ -4233,7 +4233,7 @@
 44013005	Dalau re abe' ka' lepo' Salamis , kun nte bada' tira' Allah dalem amin sebayang Yahudi . Un Yaya Markus , ia mepo ida dua .
 44013006	Dalau ketai re nipo tana' ina , ahe' ne ida ka' lepo' Papus . Kun nte petego' ngan ca laki ia' mencam pucau , ina ca usa pegawa palo , lepo' Yahudi . Uri ngadan Yahudi ie Bar-Yesus .
 44013007	Ia malat ngan Sergius Paulus , laki bio' gebenur tana' ina . Ca laki ia' mencam pekimet gebenur ina . Ia mengin Barnabas ngan Saul nai pala' ia , mo' o uba' ke kenahan dau tira' Allah .
-44013008	Un laki iaʹ mencam pucau ina , Bar-yesus ne , (Ilimas ngadan ne neng isiu Gerika , ) ia nyakat Barnabas ngan Saul , moʹ o ubaʹ ke nyalaʹ laki bioʹ gebenur ne tai coʹ neng pengelan ne neng Tuhan .
+44013008	Un laki iaʹ mencam pucau ina , Bar-yesus ne , ( Ilimas ngadan ne neng isiu Gerika , ) ia nyakat Barnabas ngan Saul , moʹ o ubaʹ ke nyalaʹ laki bioʹ gebenur ne tai coʹ neng pengelan ne neng Tuhan .
 44013009	Un Saul , iaʹ ilu kuma Paulus ina , sangan ne kuʹun Berua Buheʹ . Kun ne nekeneng naʹat laki pucau ina .
 44013010	Un dau ue : “ E anak Bali Jaʹat , ikoʹ iaʹ sangan kuʹun naʹan naʹan aken pelingu ngan palo . Ikoʹ ne iaʹ atek pebunoʹ neng iaʹ teneng . Lemuto-uto hoʹ ngileng janan Tuhan iaʹ telit ini .
 44013011	Ke siho' ko' ku'un ujo' Tuhan na'kini o . Ke buta' pe iko' pu'o ku'un ne . Abe' ko' ke ta'an dema mata tau ceng kajan u'o . " Tego' ina lete Ilimas tai burau ngan mentem mata ha . Sulo ho jagap-jagap ketai mita dulu ke ajak ia .
@@ -7401,7 +7401,7 @@
 61003013	Un sepu'o Allah lepa petuket ke na' langit mading ngan tana' mading , ia' pelaya teneng , ngan idi ia' ilu nebelum .
 61003014	Mo' ina cenganak dia' ake' mala' , ngajan ncem ke pekena puyan Tau ina , nengayet ne ikem mudip neng puyan udip ia' buhe' ngan ia' abe' un penginte' neng pena'at Allah , ngan pekina pe uyan teka' pengetadan udip ngan ne .
 61003015	Tiga hem ngetisen pengedado' tawai Tuhan , ca pengehi'en ncem ke pigai katuk udip dalem Tuhan . Pekina lete dau cenganak le Paulus ia' ilu mala' , dalem surat katu ue mikem , baya' ban penisen ia' Allah na' mia .
-61003016	Pekina lete dau ue pu'o dalem mung surat te , ia' ia bada' neng puyan ina . Un pe palai tira' a dalem surat katu ue ia' mahan teka' ke ngetisen ne . Mo' ina du ( u dia' tepa penisen ngan abe' un salet , ida dia' nyaliu nyaliu tira' Paulus , ko' ba'an puyan nte neng tira' dia' ca dalem Kitap Tuhan . Ngan pekina se' de nasa' idatengen .
+61003016	Pekina lete dau ue pu'o dalem mung surat te , ia' ia bada' neng puyan ina . Un pe palai tira' a dalem surat katu ue ia' mahan teka' ke ngetisen ne . Mo' ina dulu dia' tepa penisen ngan abe' un salet , ida dia' nyaliu nyaliu tira' Paulus , ko' ba'an puyan nte neng tira' dia' ca dalem Kitap Tuhan . Ngan pekina se' de nasa' idatengen .
 61003017	Aha' cenganak dia' ake' mala' , na' pe ikem lepa tisen kidi , tiga hem jaga' lan lan , malap ikem ketai daneun baya' katuk sala' dia' ja'at dina , penco hem labo' cen uko' kem ia' salet ina .
 61003018	Di lare' tiga hem tudep le , ngan nai un pit un pit dalem pengelesau ngan penisen neng Tuhan le , Laki ia' Keniga Udip le , Yesus Keristus . Pala' ia ne ketai mung serema pensga cen na'kini pa pa majan . Amin .
 62001001	Ame' nyurat mikem neng puyan Tira' Udip . Ia ia' un cen tading tading udip . Ame' lepa kenahan dau ue , ngan ta'an ia man mata me' tengen . Ame' lepa nugen ne , ngan tisen ne man ujo' me' .
@@ -7508,7 +7508,7 @@
 62005018	Tisen te ilu are , ban abe' dia' anak Allah pekutat ke ti penyala' , uban Keristus ia' Anak Allah mencam pubo ia . Bali Ja'at abe' senteng ngeja'at ia .
 62005019	Tisen te ilu are , bao ilu dia' anun Allah , na' pe mung dia' kusun tana' ini un kenta' pengaren Bali Ja'at .
 62005020	Tisen te ilu are , ban Anak Allah lepa nai ngan na' penisen man le ke ngetisen Allah ia' ban atek Allah lan . Udip le dini un dalem Allah ia' lan , ia' ina dalem Anak ke Yesus Keristus . Ini ie ia' atek Allah lan , ngan ini ia' atek udip sahe' keline' ia' ngeriman .
-62005021	Aha' anak ke' , ngerada usa hem neng mung na'an dia' saliu A hah ia' lan are .
+62005021	Aha' anak ke' , ngerada usa hem neng mung na'an dia' saliu Allah ia' lan are .
 63001001	Cen Yaya ia' tu'a dalem Mpun dia' ngelan Tuhan : Pala' Tinen le ia' Allah nyelum , pemung ngan anak ke ia' atek ake' mala' dalcm katuk ia' telit . Abe' e bang ca ake' tua' ie , un sepu'o mung dia' ban tisen katuk ia' telit , dia' mala' ikem pe .
 63001002	Uban katuk telit un ngeline' dalem ilu , ngan ia ngeline' pemung ngan ie pabe' baya' .
 63001003	Awa' pe Allah ia' Amai Bio' , ngan Yesus Ke'ristus , Anak Amai ina , ke na' pengemala' ngan na' pengelesau ngan udip ia' tadan milu . Awa' pe ilu nganun puyan dini baya' neng puyan katuk telit ngan puyan mala' .
@@ -7914,7 +7914,7 @@
 66020009	Kenai bawa Sitan purat libut usun tana' , ngan ngeliwang kuko' lepau kelunan dia' anun Allah , lepo' ina ia' Allah mala' . Un sepu'o kenai luten cen langit nasa' mung dia' baya' Sitan ina .
 66020010	U'o ina Bali ja'at ia' ban lepa pelingu kelunan dina are , kun nte ala' ia , pet kedalem bawang luten ngan belirane , kuko' pun ja'at ngan pegawa palo didai lepa tenepet are . Ida ia' siho tuyen utung tau utung alem pa majan o .
 66020011	U'o ina ake' ta'an ca padung pengaren ia' bio' ngan pute' . Un ca usa madung kidi . Un tana' ngan langit tai pesau kata ia . Abe' le ta'an ne la'a .
-66020012	Ngan ake' ta'an pe mung kelunan dia' matai , un pe dia' lata' kua' ngan dia' dumit , nekejeng nyeripa padung pengaren ina . Un pe se' kuda' kuda' surat tai pesik . U'o ina pesik ne ca na'an surat la'a , ia' ina anun kelunan dia' mudip . Mung kelunan matai ke siho' pebetep ukum baya' ban pemuyan ia' ida' lepa uyan , kua' ban ia' lepa un senurat dalem surat dina . t
+66020012	Ngan ake' ta'an pe mung kelunan dia' matai , un pe dia' lata' kua' ngan dia' dumit , nekejeng nyeripa padung pengaren ina . Un pe se' kuda' kuda' surat tai pesik . U'o ina pesik ne ca na'an surat la'a , ia' ina anun kelunan dia' mudip . Mung kelunan matai ke siho' pebetep ukum baya' ban pemuyan ia' ida' lepa uyan , kua' ban ia' lepa un senurat dalem surat dina .
 66020013	U'o ina mung kelunan dia' Iepa matai ka' banget nai kawang , pekina pe dia' lepa matai kusun tana' ini kenai kawang cen uko' pahung berua , ia' kuko' de peput are . Mung nte dina siho' pebetep ukum baya' ban pemuyan ia' ida lepa ban uyan .
 66020014	U'o ina puyan patai ngan tana' dia' matai , ida pet kedalem bawang iuten ina . ( Bawang luten , ini ne patai ia' kedua . )
 66020015	Abe' kelunan dia' abe' un ngadan ne senurat dalcm surat anun dia' mudip dina , ida pe ketai nepet dalem bawang luten ina .
