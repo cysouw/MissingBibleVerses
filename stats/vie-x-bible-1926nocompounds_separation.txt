@@ -1,5 +1,0 @@
-,      3      2  True U+002c COMMA
--      8     17  True U+002d HYPHEN-MINUS
-.      2      0  True U+002e FULL STOP
-:      0      1 False U+003a COLON
-;      0      2 False U+003b SEMICOLON
