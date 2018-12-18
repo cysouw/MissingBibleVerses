@@ -657,7 +657,7 @@
 40019028	Yuu gii enenge doko pyaka seramo dokopa lkinyingi Akali baa kiŋinya petenge isa neta renge dokona pisira . Dokopa nakama namba moko minyuo epenge dupwa petenge isa akalisa ipisu lama dusipana pisipala Isaraele rara akalisa ipisu lama dusipa rapu pili laro kararami leya .
 40019029	Dokona suu pyao wambu mendeme andape panda yangonge dupwape panda pemalengepe panda rakange endangipi panda wane wanakepe panda yuu rangepe nambana kingi reke lao yaki nyiyami ramo dupwame akalisa pao akalisa pyasara pyasara pyuo alo pyuo nyerami . Nyepala kyakana renge kulisa palu palenge doko nyeramiko .
 40019030	Doko wambu epapu mupwa ingyuo karaminyi dupwa kamame kuki ingyarami . Dokopa kamame kuki ingyuo karaminyi dupwa mupwa ingyuo kararami , leya Yesumi .
-40020001	Lapala dopa leya . Dokona lao akali angingyuo karenge mendeme wamba kukwa banya isa girapo ee dokona yulu p yakarami lapala yulu pingi akali lapo rombo palyuo lanyala peyamo doko yake pandana isingi yulu doko dopale .
+40020001	Lapala dopa leya . Dokona lao akali angingyuo karenge mendeme wamba kukwa banya isa girapo ee dokona yulu pyakarami lapala yulu pingi akali lapo rombo palyuo lanyala peyamo doko yake pandana isingi yulu doko dopale .
 40020002	Baa papala yuu mendaki yulu pirami dokopa kana mone mendaki jero leyamosa kapaŋa leyami . Kapa leyami dokopa banya girapo ee dokona yulu pela pena leya .
 40020003	Enakana mena moko rali pingi ( nane keloke ingyuowale ) dokopa baa dee kamba papala akali wakale lapo ropo pingi kamapi dokona mee kareyaminyi kandeya .
 40020004	Kandapala baame nakama lamaiyuo , Nakama opetae nambana girapo ee dokona yulu pela pupwa . Dokopa kana nyingi doko suu pyao manda manjo jero , leya . Dokopa nakama peyami .
@@ -5449,7 +5449,7 @@
 46010016	Nenge kamyunyane nalana dokopa pee lomasi dokona suu pyao ateŋa lapala nenge kandale doko Koraisana ranjama dokona pako sukusa yalya kando pisa nalyamisi ? Dee borete pongenge dokopa Koraisana yongo dokona pako sukusa yalya kando pisa nalyamisi ?
 46010017	Borete mendaki doko suu pyao namwa peparae nyuo pyaso mendaki ingyuo pelyamo . Dokona lao namwa peparae borete mendaki nenge .
 46010018	Ipuru wambu dupwana lao suu pyalapape . Nakama kana pyare lapala Anatu kiso maingi dokopa nakama mendakinya epo pako nao pisa nangese ?
-46010019	Doko akinde letose ? Mee t'ange kingimi wasisi dupwa mupwape ? Panda nenge kiso mailyaminyi doko mupwaŋa lao letose ?
+46010019	Doko akinde letose ? Mee bange kingimi wasisi dupwa mupwape ? Panda nenge kiso mailyaminyi doko mupwaŋa lao letose ?
 46010020	Doko daa . Nakama Anatu kaepala imambu koo dupwa suu pyao mena kiso mailyaminyi leto . Nakama imambu koo dupwa puu minyarami doko kapa daa lao suu pilyu .
 46010021	Nakamame Kamongona pee lomasi naoko dee imambu koo wasisi dupwana pee lomasinya ipwange doko role pyao naa narami . Kamongona borete narami ramo dokona imambu koo dupwa suu pyao maingi nenge doko naa narami .
 46010022	Namwame Kamongo Yesu yango palyapyali lapala pilyamape ? Kamongo baa kaepala namwa ama poral lao suu pilyamase ?
@@ -6871,7 +6871,7 @@
 58003010	Dopa pyuo peyaminyi dokome namba imbu singi nyakayami . Nambame enda akalipi yuu peparae kopetame suu pyao karenge leyo . Nambame nenge rambo lao piso karo pingi doko mana nyii nalu nao nayami .
 58003011	Namba imbu singi nyepala mawa pii leyoŋo nambamoo pipya koo sela epa narami leya .
 58003012	Yangonemoo nakama lapome mona koo palyuo lete karenge Anatu baa kapa ingya nange lao suu pyapala neta pasasarami lao waso karalapape .
-58003013	Yangonemoo epapu nee silyamo dolapokoŋo yulu koo dokome kunji'pyao mona kana poko nyii nana lao yango sukusa piimi lao poralnyi pyambwalapape .
+58003013	Yangonemoo epapu nee silyamo dolapokoŋo yulu koo dokome kunji pyao mona kana poko nyii nana lao yango sukusa piimi lao poralnyi pyambwalapape .
 58003014	Namwa kanda soo Kurisene ingyapala dokopa waa waa karo piyama dokona palyuo pyuo puu parama ramo doko Koraisana dupwa namwa opetaenako ingyuo para .
 58003015	Pii dake Baepole dokona letamo . Epapu Anatunya pii serami ramo dokopa yuu muiyane dokona mona kana pokapala Anatupa male male lao kamba lao kareyami kande dokonako palyuo pii nalapape .
 58003016	Apimoo Anatunya pii lamaiyamo doko see napala kamba lao kareyamisi ? Enda akalipi yuu lsipi yaki nyuo Mosese nakambana rapu pingi dokome lanyuo peyamo dupwasa letamo .
