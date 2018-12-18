@@ -80,7 +80,7 @@
 02002016	na acn itkosr natul Jethro , mwet tol lun Midian , tuku in ut kof ac oayapa nwek mwe nim kof nimen sheep ac nani nutin papa tumaltal ah .
 02002017	Na oasr kutu mwet liyaung sheep ac nani tuku lusak acn natul Jethro ah . Moses el tuyak ac kasru acn ekasr ah , ac el sang kof nimen kosro nutin papa tumaltal ah .
 02002018	Ke elos folokla nu yurin papa sac , el siyuk selos , “ Komtak ku sa folok misenge ? ”
-02002019	Elos topuk , “ Mwet Egypt se kasrekut ke kutu pac mwet liyaung sheep aklokoalokye kut , ac el oayapa ut k o f lasr ac kiteya pac kosro natusr ah . ”
+02002019	Elos topuk , “ Mwet Egypt se kasrekut ke kutu pac mwet liyaung sheep aklokoalokye kut , ac el oayapa ut kof lasr ac kiteya pac kosro natusr ah . ”
 02002020	El siyuk seltal , “ El aya ? Komtal ku tia usalu ? Fahla solalma elan wi kut mongo . ”
 02002021	Ouinge Moses el sulela elan mutana we . Na Jethro el esalang Zipporah , acn natul , in mutan kial .
 02002022	Zipporah el oswela wen se , ac Moses el fahk , “ Nga mwetsac se nu fin facl se inge , ouinge nga fah sang inel Gershom . ”
@@ -139,7 +139,7 @@
 02004028	Na Moses el fahkang nu sel Aaron ma nukewa ma LEUM GOD El tuh fahk ke El supwal elan folok nu Egypt . El oayapa srumun ke mwenmen su Leum god El sapkin elan oru .
 02004029	Ouinge Moses ac Aaron som nu Egypt ac pangoneni mwet kol lun Israel nukewa nu sie .
 02004030	Aaron el srumun nu selos ma nukewa ma Leum god El fahk nu sel Moses , na Moses el oru mwenmen nukewa ye mutalos .
-02004031	Elos lulalfongi ma elos liye ac lohng , ac ke elos lohng lah Leum god El tuku nu y o ro lo s ac liye lupan mwe keok orek nu selos , elos faksufi ac alu .
+02004031	Elos lulalfongi ma elos liye ac lohng , ac ke elos lohng lah Leum god El tuku nu yorolos ac liye lupan mwe keok orek nu selos , elos faksufi ac alu .
 02005001	Na Moses ac Aaron som nu yurin tokosra Egypt ac fahk , “ LEUM GOD lun Israel El fahk , ‘ Fuhlela mwet luk in som , tuh elos fah ku in oru sie kufwa in akfulatyeyu yen mw e sis . ' ”
 02005002	Tokosra el kouyak ac fahk , “ Su LEUM GOD ? Efu ku ngan lohngol ac fuhlela mwet Israel in som ? Nga tia etu ke LEUM GOD , ac nga fah tia lela mwet Israel in som . ”
 02005003	Moses ac Aaron topkol , “ God lun mwet Hebrew El sikme nu sesr . Lela nu sesr kut in fahsr ke len tolu nu yen mwesis in oru mwe kisa lasr nu sin LEUM GOD lasr . Kut fin tia oru , El ac fah unikuti ke mas ku ke mweun . ”
@@ -4308,7 +4308,7 @@
 05032040	In oana ke nga pa God moul , Nga sralak pouk ac wulela ku
 05032041	Lah nga fah tamla cutlass saromrom nutik Ac liyaung tuh nununku suwohs in orek . Nga fah foloksak nu sin mwet lokoalok luk Ac kaelos su srungayu .
 05032042	Sukan pisr nutik fah tultul ke srah kaclos , Ac cutlass nutik fah onelosi nukewa su lainyu . Nga fah tia likiya moul lun kutena mwet su lainyu ; Finne mwet pakpuki ke cutlass , wi mwet sruoh ke mweun , elos nukewa fah misa . ’
-05032043	” Kowos mutunfacl uh , kowos in kaksakin mwet lun LEUM GOD - El kalyaelos nukewa su onelosla . El foloksak nu fin mwet lokoalok lal , Ac El nunak munas ke ma koluk lun mwet lal . ”
+05032043	” Kowos mutunfacl uh , kowos in kaksakin mwet lun LEUM GOD — El kalyaelos nukewa su onelosla . El foloksak nu fin mwet lokoalok lal , Ac El nunak munas ke ma koluk lun mwet lal . ”
 05032044	Moses ac Joshua , wen natul Nun , eltal fahkak kas ke on soko inge tuh mwet Israel nukewa in ku in lohng . Kas Safla Lal Moses Nu Sin Mwet Uh
 05032045	Ke Moses el aksafyela luti lal ke kas lun God nu sin mwet uh
 05032046	el fahk , “ Aklohya in akos sap inge nukewa ma nga sot nu suwos misenge . Kalweni nu sin tulik nutuwos tuh elos in ku in oaru ac akos mwe luti nukewa lun God .
@@ -4316,7 +4316,7 @@
 05032048	In len sacna LEUM GOD El fahk nu sel Moses ,
 05032049	“ Fahla nu Fineol Abarim in acn Moab tulanang siti Jericho . Fanyak Fineol Nebo ac ngetla liye facl Canaan ma nga akola in sang nu sin mwet Israel .
 05032050	Kom ac fah misa fineol soko an oana ke Aaron , tamulel lom , el misa Fineol Hor ,
-05032051	mweyen komtal kewa tuh fahsr sayen ma nga sapkin nu sumtal ye mutun mwet Israel . - Pacl se komtal tuh muta ke kof in acn Meribah , apkuran nu ke siti Kadesh in acn mwesis Zin , komtal tuh tia akfulatyeyu ye mutun mwet uh .
+05032051	mweyen komtal kewa tuh fahsr sayen ma nga sapkin nu sumtal ye mutun mwet Israel . — Pacl se komtal tuh muta ke kof in acn Meribah , apkuran nu ke siti Kadesh in acn mwesis Zin , komtal tuh tia akfulatyeyu ye mutun mwet uh .
 05032052	Kom ac ngetla liye facl sac ke oan loessula , tusruktu kom ac tia ilyak nu in facl sac su nga ac sang nu sin mwet Israel . ”
 05033001	Pa inge kas in akinsewowo ma Moses , mwet lun God , el akinsewowoye mwet Israel kac meet liki el misa .
 05033002	LEUM GOD El tuku Eol Sinai me ; El takak oana fact uh fin acn Edom Ac sreya mwet lal liki Eol Paran . Oasr singoul tausin lipufan welul Ac sie e firir oan lac paol layot .
@@ -4741,7 +4741,7 @@
 06015029	Baalah , Iim , Ezem ,
 06015030	Eltolad , Chesil , Hormah ,
 06015031	Ziklag , Madmannah , Sansannah ,
-06015032	Lebaoth , Shilhim , Ain , ac Rimmon - siti longoul eu nufon , wi inkul nukewa ma raunela siti inge .
+06015032	Lebaoth , Shilhim , Ain , ac Rimmon — siti longoul eu nufon , wi inkul nukewa ma raunela siti inge .
 06015033	Ac siti su oan pe eol uh pa Eshtaol , Zorah , Ashnah ,
 06015034	Zanoah , Engannim , Tappuah , Enam ,
 06015035	Jarmuth , Adullam , Socoh , Azekah ,
