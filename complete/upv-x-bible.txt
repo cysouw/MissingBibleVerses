@@ -3730,7 +3730,7 @@
 43019039	Ko Nikotemas , nga bonevis mivini ji Iesu nat nga mupong , eptevi Josep , nuru oran . Ni ela senta nga nowlin mivi nevöt ongut vesan nga markisie mir ko alos , otori tevi ni .
 43019040	Nuru orwosi nibe Iesu ko ornub̃e sunsun nga mimalum e m̃irres tevi mir ko alos nga . M̃eri Isrel nir lat nga marok-loli surie ko erpok .
 43019041	Mori iok lat nga marruloni Iesu rengen , orsel ne lolnai ne olip san oto mori bbonge . Ko renge lolnai ne olip ngok nevöt b̃ereng san nga Josep m̃itai nolon mutoe oto rengen , nga sete arlingi rrongvi wor jinibb nga mimij san rengen .
-43019042	Ko suri evi pa nabong se m̃eri Isrel nir nga marok-eseser rengen ko mevinen pivi nabong nga milep ser , ko lolo b̃ereng nen mori bbong ie , ko orwosi Iesu orlingi r engen .
+43019042	Ko suri evi pa nabong se m̃eri Isrel nir nga marok-eseser rengen ko mevinen pivi nabong nga milep ser , ko lolo b̃ereng nen mori bbong ie , ko orwosi Iesu orlingi rengen .
 43020001	Daron nga Sapat ser m̃iasi vajin , renge Sante rorpong susu nat murrorrorr malum , Merri ne Maktala emremra van renge dubb . Ko elesi nevöt nga muto ore nolo b̃ereng mijkie , arla tweni pa .
 43020002	Ko nesevin owlu luwi van ji Saemon Pita e nuru jinibb se Iesu m̃inij nen nga Iesu mimrreni nen . Ko owrai tevi nuru , “ O laru , arwosi tweni Numal renge dubb , ko sete rramrongwose lat nga marlingi e ! ”
 43020003	Ko ngok Pita ko jinibb se Iesu m̃inij nen otur imare kasi nga poran porlesi dubb .
@@ -4489,7 +4489,7 @@
 44019038	Poro Dimitrias tevi selen nir arlesi nanu san tere jinibb san , ko kot oto pa niko , ko numal nen nir arlik kele . Erres parloli nir wor parsupsup̃e .
 44019039	Rreknga poro kamwera kapwera nanu kele san , ko erres rraploli re gortien san nga mivijuri sel mawos nen kobbong .
 44019040	Suri emlas bbong tarevei kerr van re kot suri laten nga kamlat e milep lelingen , ko kapa-wera pirpese suri ? ”
-44019041	Daron nga muwrai jijle mirpok , ko okoni tweni jinibb nir arive l .
+44019041	Daron nga muwrai jijle mirpok , ko okoni tweni jinibb nir arivel .
 44020001	Daron nga laten ngok musuw vajin , ko Pol everus kortoni jinibb se Iesu nir nga parini lat sansan . Elai rijen tevir nga puloli norrorrmien ser p̃iterter , mian ko eremser , ko evel lingi ie van Masetonia e .
 44020002	Evel rrurrngi ie , ko oklai nale elep nga puloli norrorrmien se jinibb p̃iterter , mian ko etajer kele van Gris e .
 44020003	Ko elik navöl itul ie , oktiriv nga p̃ilai lweni drrav san ko pulwi van Siria e . Ko ornge nga m̃eri Isrel sopor arlingi nale ne ni nga parevji pini ; mian ko erieni kele norrorrmien sen ko evijuri suri bbong ngaut renge sel nga m̃iasi Masetonia .
@@ -4567,7 +4567,7 @@
 44021037	Otomori jinibb ne nuval nir parwosi Pol van loloim re naim ser , mian ko Pol ongoni tevi burtur owra “ Wurru , orongwose b̃ejiljilwer tevim beblen ? ” Burtur osusi tevi owra “ Erpese ? Kurongwose kuprij nale se m̃eri Gris ?
 44021038	Inu nurrorrmi nik kuvi m̃eri Ijip nen nga mutur imera ko m̃itre batu gavman ko m̃itkai jinibb nuval nir nuvasngavöl nuvavij ( 4000 ) ko nir maran marlik renge lolo merwer . ”
 44021039	Ko Pol erij weli owra “ Ejki , inu nuvi m̃eri Isrel . Nuak Silisia , re Tasas , nga mivi ngaim nga milep . Wurru kupmarong inu nga b̃erij tevi delung ngok nir . ”
-44021040	Burtur emarong , ko Pol otur ko obblöni nevren van mare nga nir parmurrong ; mian ko ni erij tevir vajin re nale se m̃eri Isrel ni r .
+44021040	Burtur emarong , ko Pol otur ko obblöni nevren van mare nga nir parmurrong ; mian ko ni erij tevir vajin re nale se m̃eri Isrel nir .
 44022001	Ko Pol owra “ Selek nir , m̃eri Isrel tata suk nir ko tuwak nir , wurru kapmurrong ko bowrai visviseni mauren suk tevi kami . ”
 44022002	Ko daron nga m̃eri Isrel nen nir marunge nga ni mokrij tevir renge nale mawos ser , ko nir armurrong kemkam̃e kele . Mian ko ni erij etajer ,
 44022003	owra “ Inu nuvi m̃eri Isrel . Nuak Silisia re ngaim ngok Tasas . Numaur ko nulep ie . Nulai norongwosien suk ji jinibb nevisvisenien ngok Gamaliel . Evisviseni inu erres p̃elak re nesesreien se b̃irterawarreng se kerr nga bevijuri . Ko re daron ngok nuterter elep re majingen se Atua , erpe kami ngok nir lelingen .
@@ -6200,7 +6200,7 @@
 49005030	suri kerr rramivi murrrmurr ne ni niben .
 49005031	Naul On owra ‘ Ko niko jinibb san p̃ilngilngi tata sen ko tasu sen ko pukorti tevi nesen sen , ko nuru korti porini porivi niben pisansan vajin . ’
 49005032	Rrek murrun nga milep san oto silveni wor re nale ngok , ko inu nulesi erpe osp̃e suri murrun se Kristo tevi kalesia nir .
-49005033	Erres kobbong , ko kami jijle kapmerreni nesen se kami pirpe kami lululweni , ko nesevin nir parosuri kele diwen ser ni r .
+49005033	Erres kobbong , ko kami jijle kapmerreni nesen se kami pirpe kami lululweni , ko nesevin nir parosuri kele diwen ser nir .
 49006001	Bipiwarreng nir , kaprunge nale se tata ko tasu , suri kamivi pa kalesia , ko suri murrun ngok omomsawos erres .
 49006002	Naul On owra ‘ Kuposuri tata som ko tasu som ’ . Ko ngok evi womujnen re nale nesesreien nga nale rijrijen san muto tevi , ngel :
 49006003	‘ Ko niko , p̃irres rem , ko kuplik pipriv iel ngatan . ’
@@ -7933,7 +7933,7 @@
 66021013	Ko nawot nen devjen ivij arto rrale ngaim , ko metali itutlu arto renge devjen nga ivij ngok nir . Itul re devjen nga van renge Is e , ko itul renge devjen nga van renge Saot e , ko itul renge devjen nga van renge Not e , ko itul renge devjen nga van renge Wes e .
 66021014	Ko nawot nen ejnget renge nevöt nga marlelep esngavöl drromon eru . Ko renge nevöt nga esngavöl drromon eru nen aruli nise aposol esngavöl drromon eru se Natu Sipsip .
 66021015	Ko anglo nga m̃irij tevik otori norrngov nga mivi gol nga purrongvi ngaim , metali nir , ko nawot nen .
-66021016	Ko norrngov ne devjen nga ivij nga arsorsan , arivi 12,000 statia ( ngok evi 2 400 kilomita ) . Ko owu mare kele ejpari 12,000 statia .
+66021016	Ko norrngov ne devjen nga ivij nga arsorsan , arivi 12,000 statia ( ngok evi 2,400 kilomita ) . Ko owu mare kele ejpari 12,000 statia .
 66021017	Ko anglo orrongvi kele nawot , ko emtul ejpari 144 kiubit ( ngok evi 65 mita ) . Kiubit nen evi kiubit nga marok-rrongvi nanu nir rengen tetajer .
 66021018	Ko nawot nen evi jaspa , nevöt nga m̃irres p̃elak san . Ko ngaim armajinge gol nga m̃im̃erer m̃irres p̃elak erpe glas .
 66021019	Ko nevöt nga marlelep nga nawot ne ngaim m̃ijnget ren arivi nevöt nga marres lele nir . Nga womunen evi jaspa , nga vitunen evi sapaea , nga mivi itolin evi akat , nga mivi ivajin evi emeral ,
