@@ -1,2 +1,0 @@
-|      0    105 False U+007c VERTICAL LINE
-�      2      2  True U+fffd REPLACEMENT CHARACTER
