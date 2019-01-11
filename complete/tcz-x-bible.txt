@@ -650,7 +650,7 @@
 02003011	Ahinla Mose’n Pathen kom a , “ Kei bep hi iti Egypt lengpa koma chea Israelte kagapuidoh thei ding ham ? ” ati .
 02003012	Ahivangin Pathenin , “ Ken nalhonpi nange , Egypt a kona Israelte nahinpuidoh teng hiche molsang chunga hi neihou diu , hichu kei sol nahi phat chetna hi ding ahi , ” ati .
 02003013	Ahinla Mose’n adonbut’in , “ Israelte henga cheng ting ‘ Napu napateu Pathenin eihinsol ahi , ’ gati jong leng , ‘ Ama chu amin ipi ham ? ’ tin eina dongun tin , chuting ipi kaseipeh thei diing ham ? ” ati .
-02003014	Pathenin , “ Kei chu Kei kahijingin , naseipeh tei ding chu-‘KEIMA kiti chun nahenguva eihinsol ahi ’ nati ding ahi ,
+02003014	Pathenin , “ Kei chu Kei kahijingin , naseipeh tei ding chu - ‘ KEIMA kiti chun nahenguva eihinsol ahi ’ nati ding ahi ,
 02003015	Israelte jah a apu apateu Pathen , Abraham Pathen , Isaac Pathen , Jacob Pathen chun ahenguva nasol’a naseipeh ding ahi . Hiche hi tonsot’a kamin ahin , khang nu-nunga miten hiche a hi eikou diu ahi .
 02003016	Israel lamkaite gakoukhomin lang , apu apateu Pathen , Abraham Pathen , Isaac Pathen chule Jacob Pathen chu nahenguva hung kilah a anseipeh ding ahi . Egypt miten abolsetnau kamu jeh a avil’uva hung kahi hi seipeh-in .
 02003017	Egypt’a kona puidoh kagot ahitai , gim genthei thoh a aum nauva kona puidoh a gam phatah-Canaan mite , Hit mite , Amor mite , Periz mite , Hiv mite chule Jebus mite gamsunga puilut ding kagot ahi .
@@ -4833,7 +4833,7 @@
 21005005	Kitepsa bolda sangin , kitepna him him boldan aphajoi .
 21005006	Naseisan kipal dan , Pathen Thempu jah a geldoh louva nabol’in seidan . Idia Pathen nakiphin lung hang ding ham ? Nabolse chu i-bol’a nasuh mangsah ding ham ?
 21005007	Mangle bul ijat neiyin lang , pannabei na ijat tongin , thu ijat sei jongle chun , Pathen nagin tei tei ding ahi .
-21005008	Leiset vaipoten vaichate abol hesoh a , thu dih tanpeh louva , achan diu lom apeh d anamu jongle datmo hih-in . Vaihom thunei jouse chu asanga lenjo khat cheh-in ave-lhi , alenpen jong chu alen cheh khat’in avet lhi jing ahi .
+21005008	Leiset vaipoten vaichate abol hesoh a , thu dih tanpeh louva , achan diu lom apeh danamu jongle datmo hih-in . Vaihom thunei jouse chu asanga lenjo khat cheh-in ave-lhi , alenpen jong chu alen cheh khat’in avet lhi jing ahi .
 21005009	Lengpa jong alalna lhosoh chunga ki-ngam ahibouve .
 21005010	Sum nadei behseh le , itih-in jong lung nachimna neipon natin ; hao lung nagul le , nadei chanmusoh pon nate . Pannabei ahibouve .
 21005011	Nahao cheh le naneh peh ding jong tambe cheh ahi . Naphat chompi pen chu nahao nahet tho chu ahibep’e .
@@ -5284,7 +5284,7 @@
 30004001	Hiche hi ngaiyuvin Samaria khosung numeiho , Bashan phaiya kivah thao bongpi banga kivah thao ho , tahlelte bolsea , vaichate sugenthei , najipateu henga jut hum jing jeng ho !
 30004002	Hatchungnung Pakai hi athen bangin akihahsel’in , “ mihon thihkoiya nakoiyuva , amichang cheh thihkoiya nga kiman banga namatna diu nikho hung lhung ding ahi .
 30004003	Pal chim anaipen koma nakailut’uva polama napai mang diu ahi , ” ati .
-30004004	Hatchungnung Pakaiyin aseiyin , “ Vo Israelte , Bethel a namuntheng phunguva cheuvin , deilheh nahiule gachonsetau ! Gilgal’a cheuvin najochanin chonseuvin ! Cheuvin , jingkah seh a kilhaina din dancha hintol tol jengun , nithum lhinseh le hopsom toh toh jenguvin1
+30004004	Hatchungnung Pakaiyin aseiyin , “ Vo Israelte , Bethel a namuntheng phunguva cheuvin , deilheh nahiule gachonsetau ! Gilgal’a cheuvin najochanin chonseuvin ! Cheuvin , jingkah seh a kilhaina din dancha hintol tol jengun , nithum lhinseh le hopsom toh toh jenguvin .
 30004005	Kipat’un thangvahna din changlhah thilto toh toh jengucin , chule natoval jeh-un kithang-at at jengun ! Hitobang thil ho holnom nahiuve .
 30004006	“ Nakhopi jouseu kel lhahsah Kei kahin , ahivangin kaheng nahin jon deh pouve .
 30004007	Na-anche louhingun gotwi lhahsah lou Kei kahi , Khopi khat din go kajuhsah-in , achom khat din kavotangin , loujao khat din go kajuhsah-in , achom khat din kavotange .
@@ -6248,7 +6248,7 @@
 40012049	aseijuite akoh-in , “ Ven kanu l ekasopite hi !
 40012050	Ajeh chu koi hileh van a ka-pa lungdei bol’a chu kasopipa , kasopinu chule kanu ahiuve , ” ati .
 40013001	Hiche nikhoa hi Jesun in dalha dil pang lama chea atou phat’in
-40013002	mipi ahung kikhom’un , Ama kong sunga alut’in atouve . Mipi vang va0kam a adingui .
+40013002	mipi ahung kikhom’un , Ama kong sunga alut’in atouve . Mipi vang vaokam a adingui .
 40013003	Hichun Jesun mipi ajah a thu tampi thulemin aseiye : “ Pasal khat muchi the din akontai .
 40013004	Muchi athephat’in abang lamsih a achun , vachaten akilogam tauve .
 40013005	Muchi phabep jong song lheo chung , lepatnaa achun , aleiphat jeh-in ahung keh doh loiye .
@@ -7212,7 +7212,7 @@
 41008002	“ Mipi kakoma nelou chalouva aumnao hi nithum alhingtan , kalungset lheh jenge .
 41008003	Abang hi gamla tah a hung ahuvin , gilkel dangchah pumin kisol jengleh lampi dunga lha lhop pe tei diu ahi , ” ati .
 41008004	Aseijuiten adonbut’un , “ Hikom gamthip’a mi hichengpi vahna kham changlhah kon hoiya alah ding ham ? ” atiuve .
-41008005	Jesun “ Changlhah ijat naneiyum ? ” atileh ; : P heng sagi atiuve .
+41008005	Jesun “ Changlhah ijat naneiyum ? ” atileh ; : Pheng sagi atiuve .
 41008006	Hichun mipi tol’a tou din asol’in , changlhah pheng sagi chu alan , phatthei aboh jouvin mipi ang’a luipeh din aseijuite apetai .
 41008007	Amahon nga phabep jong anei yun , hijong chu phatthei aboh jouvin miho ang’a luipeh din aseipeh-e .
 41008008	Mihon anevasoh keiyuvin , aneh moh-u anong longkai sagi dim aloh doh-uve .
@@ -7546,7 +7546,7 @@
 41015011	Ahinla Thempu pipuhon Barabbas joh alhadoh pehna diuvin mipi atilseuve .
 41015012	Pilate chun adonbut kit’in ajah-uva , “ Acutile Juddate lengpa ahi natipau hi i-kalo ding ba ham ? ” atileh ;
 41015013	“ Thingpel’a khenbeh-in ! ” tin asamtauve .
-41015014	Hichun Pilate’n ajah-uvah “ Ib0l-inem ? Ipi suhset aneiyem ? ” atileh ; amahon , “ Thingpel’a khen beh-in ! ” tin ahasap cheh tauve .
+41015014	Hichun Pilate’n ajah-uvah “ Ibol-inem ? Ipi suhset aneiyem ? ” atileh ; amahon , “ Thingpel’a khen beh-in ! ” tin ahasap cheh tauve .
 41015015	Mipi along lhaisah nom jeh-in Pilaate’n Barabbas alhadoh peh-in , Jesu joh chu ajep jouvin thingpel’a khetbeh din apedohtai .
 41015016	Sepaihon Jesu chu gamvaipopa inpi thutanna lhong laiya akailut’un , sepia hon pumpi akoukhom tauve .
 41015017	Chuin Jesu chu ponsandup asilpeh-un , ling lukhuh apheh’un akhuh peh-uvin ,
@@ -9114,7 +9114,7 @@
 43012046	Keima khovah kahin , eitahsana chu muthima aumden louna dinga vannoiya hung kahi .
 43012047	Mi khattouvin kaseiho hi ja naa anit lou jongleh achung thu katanpoi ; ajeh chu vannoi thutana hung kahipon vannoi huhhinga hungjoh kahibouve .
 43012048	Koi hile eidei louva kaseiho jong sang lou chun athutan ding anei nai ; kasei hi phat kichai nikhoa athutana pang ding ahi !
-43012049	Ijeh0inem itile Keiman kachama kasei ahipon , Eihinsol’a Pa ama tah-in ipi iti kasei ding ham ti thu eipeh ahibouve .
+43012049	Ijehoinem itile Keiman kachama kasei ahipon , Eihinsol’a Pa ama tah-in ipi iti kasei ding ham ti thu eipeh ahibouve .
 43012050	Ama thupeh chu tonsot hinna ahi kahei . Hijeh a chu kasei hi Pan eiseipeh banga kasei ahi , ” ati .
 43013001	Kalchuh kut masangin Jesun vannoia kona Pa henga ache na ding phat ahung lhun ahen , vannoiya um amite chu alungset’in akhon ni geiyin angailui .
 43013002	Jan an aneh laitah-un Diabol chun Simon chapa Iscariot Judas lungthima Jesu matsahna ding akhumtan ,
@@ -9471,7 +9471,7 @@
 44002036	“ Hijeh chun Israel insung miten kihet cheh hen , nang hon thingpel’a nakhetbeh-u hiche Jesu hi Pathenin Pakai le Messiag a sem ahitai , ” ati .
 44002037	Asei ngai chengse chu alungu hem’a kidot abang jengin , Peter le Solchah dang ho jah a , “ Ipi kabol diu hitam sopite ? ” atiuve .
 44002038	Peter in ajah-uva , “ Nachonset lung heiyun lang , khat cheh-in na chonset’u ngaidamna ding in Jesu Christa mininbaptize chang cheh-uvin , chuteng Lhagao Theng Pathen thilpeh hi nachan diu ahi ;
-44002039	ijeh-inem itile thutep chu nang ho le nachateiu chule gamla tah a um Pakai i-Pathenuvin akouh0o jouse dinga ahi , ” tai .
+44002039	ijeh-inem itile thutep chu nang ho le nachateiu chule gamla tah a um Pakai i-Pathenuvin akouhoo jouse dinga ahi , ” tai .
 44002040	Peterin Thudang tamtah-in jong ahettohsah-in tilkhouto thon ajah-uva , “ Hiche khang gilouva kon hin kihuhhingun , ” ati .
 44002041	Hijeh chun asei jop chengse chu baptize achangunm hiche nikho chun mi sang thum jenin abetauve .
 44002042	Amaho chu solchah ho thuhil’in jong , antheng jongin jong chule taovin jong gunchutah-in apangdet jing tauve .
@@ -9641,7 +9641,7 @@
 44007039	i-pu ipateu ama noiya alut nom pouvin , asondoh-un alungthimun pouvin , asondoh-un alungthimun Egypt lam angai cha jingun ,
 44007040	Aaron jah a , ‘ Kamasanguva lamkai din Pathen lim tobang ho neisempeh-un , ajeh chu Egypt’a kona eihin puidoh pau hiche Mose chu achunga ipi soh hitam kahetapouve , ’ atiuvin ahi .
 44007041	Hiti chun amahon hiche lai hin bongnou lim asemun , hiche lai hin bongnou lim asemun , hiche koma hin kilhaina abol’uvin , akhut’a asemsau thi ho ja nan golnop abol’uve .
-44007042	Hijeh chun Pathenin akihei mang khumin van’a ahsite hou din amaho chu apehd0h-in , Themgao ho lekhabua kisun bangin : ‘ Vo Israel insung mi , kum som li sung gamthip laiya Sa thao le kilhainaa neihou louvu hilou ham ?
+44007042	Hijeh chun Pathenin akihei mang khumin van’a ahsite hou din amaho chu apehdoh-in , Themgao ho lekhabua kisun bangin : ‘ Vo Israel insung mi , kum som li sung gamthip laiya Sa thao le kilhainaa neihou louvu hilou ham ?
 44007043	Moloch houna ponbuh po leuvin , Rephan ahsi pathen limsemthu napo leuvin Hiche nasemsau thil ho hi houdin nago meu ! Hijeh a chu Babylon kal’a katolmang diu nahiuve , ’ akiti .
 44007044	I-pu i-pateuvin gamthip laiya , Alim kigon namu bang bangin ponbuh san , ’ tia Mose jah a thusei Pathenin avetsah hettosah na Houbuh chu neiyun ,
 44007045	hiche hi i-pu i-pateuvin alason’un , Joshua lamkainaa Pathenin i-pu i-pateu masanga chiding namdangte anodoh a amahon gam alo lai geiyun ahinpo lut’uvin , David nikho lai geiyin aume ;
@@ -10550,7 +10550,7 @@
 46007011	ajamsan tah bah jongle jinei louva um ding , ahiloule ajipa to kihoucham kit lhon hen , chule pasal’in numei ada louhel ding ahi .
 46007012	Adang ho henga , Pakai hilouva , keisei ahi , sopi khatouvin a tahsan lou numei jia aneiya , numei chu amatoh chen khom jing ding anop le , ajipan da hih hen ;
 46007013	chule numei khattouvin jong atahsan lou pasal jia aneiya , pasal chu amato chenkhom jing ding anop le , aman pasal chu da hih hen .
-46007014	Atahsan lou pasal chu numeinu to ahinkhom jeh a akithenso ahitan , atahsan lou numei jong chu sopipa t0 ahinkhom jeh a kithenso ma ahitai , chutilou hile nachateu chuboh diu ahin , tua vang akithenso ahitai .
+46007014	Atahsan lou pasal chu numeinu to ahinkhom jeh a akithenso ahitan , atahsan lou numei jong chu sopipa to ahinkhom jeh a kithenso ma ahitai , chutilou hile nachateu chuboh diu ahin , tua vang akithenso ahitai .
 46007015	Ijemtia atahsan loupan adalhah vangle dalha jeng hen , hitobang thua hin sopipa hihen sopinu hijongle akikan lou ahitai , ahinla Pathenin kichamdel dia eikouvu ahi .
 46007016	Hijeh a chu ipi nahet em numei , pasal nahoidohsah ding hinam ? Chule pasal’in ipinahet em , numei nahoidohsah ding hinam ?
 46007017	Mitakip Pakaiyin chan ahoppeh dungjui le mitakip Pathenin akoudoh hungjui banga achonlou khoh ahi , hiti dinga chu Houbung jousea chondan kasem ahitai .
@@ -12050,7 +12050,7 @@
 58003003	Ijeh-inem itile in sanga , in sadohpa jabolna achanjoh banga Mose sanga Jesu chu gamchenga loupijo dia kilom ahitai .
 58003004	Ajeh chu in jouse hi asadoh khat um cheh ahin , ahinla thil ijakai hi Pathenin asadoh-e .
 58003005	Khonung thusoh ding kisei ding ho hettohsahnaa Mose chu Pathen insung pumpia tahsan umtah lhachan anapange .
-58003006	Christa vang chu Pathen insunga Chapa thunei pen ahin , eihon i-hakat nau le ikison nau chule kinepna hi ituh chah jingu le ama insung ihidiu ahibouve . P athen mite dia choldo mun
+58003006	Christa vang chu Pathen insunga Chapa thunei pen ahin , eihon i-hakat nau le ikison nau chule kinepna hi ituh chah jingu le ama insung ihidiu ahibouve . Pathen mite dia choldo mun
 58003007	Chuti ahijeh chun Lhagao Thengin aseiyin : " Tunia a-ogin najah-u le
 58003008	Doumah bol nikhoa bang chun Nalung tahsah hih-un , Gamthip laiya kipatep nikhoa bangin :
 58003009	Napu napa teuvin eipatep’un eideh-uve , Kanatoh kathilbol amu’uvin
