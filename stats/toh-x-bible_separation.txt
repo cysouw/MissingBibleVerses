@@ -1,5 +1,0 @@
-"      2      0  True U+0022 QUOTATION MARK
-,      6      1  True U+002c COMMA
-.      3      0  True U+002e FULL STOP
-:      0      1 False U+003a COLON
-;      0      1 False U+003b SEMICOLON
