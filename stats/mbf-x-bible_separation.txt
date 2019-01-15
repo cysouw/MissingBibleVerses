@@ -1,6 +1,0 @@
-"      2      0  True U+0022 QUOTATION MARK
-,      3      1  True U+002c COMMA
-:      1      0  True U+003a COLON
-;      2      0  True U+003b SEMICOLON
-?      1      0  True U+003f QUESTION MARK
-’      2      0  True U+2019 RIGHT SINGLE QUOTATION MARK
