@@ -130,7 +130,7 @@
 19010010	Joma hapgi rach momako otieko kendo podho chuth , gipodho e bwo tekone .
 19010011	Owachone en owuon ni , " Nyasaye wiye osewil ; opando wang’e kendo onge gima oneno . "
 19010012	Aa malo Yaye Jehova ! Ting’ badi malo , Yaye Nyasaye . Kik wiyi wil gi joma ok nyal .
-19010013	Ang’o momiyo ng’ama timbe g e richo jaro Nyasaye ? Ang’o momiyo owacho e chunye ni , " Ok obi keta piny mopenja gima asetimo ? "
+19010013	Ang’o momiyo ng’ama timbe ge richo jaro Nyasaye ? Ang’o momiyo owacho e chunye ni , " Ok obi keta piny mopenja gima asetimo ? "
 19010014	To in , Yaye Nyasaye , ineno chand ruok gi kuyo , ikaw ogi kaka mari kendo iting’ogi e lweti . Ng’at maok nya ; chiwore ne in ; In e jakony mar joma onge wuonegi .
 19010015	Tur bad ng’ama rach ma timbene richo ; luonge mondo onyis ji gik maricho mosetimo ling’ling’ ma ji ok nyal fwenyo mi ng’e .
 19010016	Jehova en Ruoth nyaka chieng’ ma nyaka chieng’ ; ogendini biro lal nono e pinye .
@@ -163,7 +163,7 @@
 19014002	Jehova ng’iyo piny mwalo gie polo , ong’iyo yawuot ji mondo oneye ka be nitie kata ng’at achiel kuomgi ma nigi winjo , ng’ato kata achiel ma manyo Nyasaye .
 19014003	Giduto giseleng’ore giweyo , giduto kaachiel gisebedo joma okethore ; onge kata achiel .
 19014004	Be joma timo gik maricho biro puonjore adier-joma ngamo joga kaka ji chamo makati kendo maok lam Jehova ?
-19014005	N egie kaka luoro dwa negog i , nikech Nyasaye nitie e chokruok mar joma kare .
+19014005	Negie kaka luoro dwa negog i , nikech Nyasaye nitie e chokruok mar joma kare .
 19014006	Un joma timo gik maricho , uketho chenro joma odhier , to Jehova e kar bwok margi .
 19014007	Yaye , mad warruok mar Israel wuog Sayun ! Kinde ma Jehova duogo ne joge mwandugi , onego Jakobo obed moil kendo Israel obed mamor !
 19015001	Jehova , EN NG’A manyalo siko kari maler milamie ? En ng’a manyalo dak e godi maler ?
@@ -556,7 +556,7 @@
 19037016	Gima tin ma ng’at makare nigo ber moloyo mwandu mathoth mag joma timbegi richo ;
 19037017	nikech teko mar joma timbegi richo ibiro kethi , to Jehova ting’o ng’at makare malo .
 19037018	Ndalo mag joma onge ketho ong’ere ne Jehova , kendo gir keni margi biro siko nyaka chieng’ .
-19037019	E kinde mag masira mopore ok gibi ne r , kendo gibiro bedo gi chiemo mathoth ndalo kech .
+19037019	E kinde mag masira mopore ok gibi ner , kendo gibiro bedo gi chiemo mathoth ndalo kech .
 19037020	To joma timbegi richo biro lal nono : Wasik Jehova biro chalo gi ber mar thiepee manie pap , gibiro lal nono gibiro lal nono kaka iro .
 19037021	Joma timbegi richo holo ji gik moko to ok chul , to joma kare to chiwo gi ng’wono ;
 19037022	joma Jehova og wedho piny biro bedo margi , to joma okuong’o ibiro ng’ad kargi oko .
@@ -621,10 +621,10 @@
 19040004	Ne oketo wer manyien e dhoga , wer mipakogo Nyasachwa . Ji mang’eny biro neno mi bed maluor kendo gibiro keto genogi kuom Jehova .
 19040005	Ng’at moketo Jehova geno mare en ng’at mog wedhi , ng’at maok many kony kuom josunga , kata kuom joma lokore mondo olam nyiseche mag miriambo
 19040006	Ranyisi misetimo thoth , Yaye Jehova Nyasacha .
-19040007	Misengni gi chiwo ne ok ihero to ita ema iseyawo ; misengni miwang’o pep kod chiwo migo l ogo richo ne ok idwaro .
+19040007	Misengni gi chiwo ne ok ihero to ita ema iseyawo ; misengni miwang’o pep kod chiwo migologo richo ne ok idwaro .
 19040008	Eka ne awacho ni , " Era e , asebiroondiki kuoma e Ndiko modol .
 19040009	A gombo timo dwarono , Yaye Nyasacha ; chikni ni ei chunya . "
-19040010	Alando tim makare e chokru o k maduong’ , ok aumo dhoga , mana kaka ing’eyo , Yaye JEHOVA .
+19040010	Alando tim makare e chokru ok maduong’ , ok aumo dhoga , mana kaka ing’eyo , Yaye JEHOVA .
 19040011	Ok apando timni makare e chunya ; awuoyo kuom adierani gi warruokni . Ok apando herani gi adierani ne chokruok maduong’ .
 19040012	Kik itamri kecha , Yaye Jehova ; mad herani gi adierani osik ka rita .
 19040013	Nikech chandruok mokalo akwana olwora ; richoga osejuka kendo ok anyal neno . Ging’eny moloyo yie wiya , kendo chunya onyosore gie iya .
@@ -666,7 +666,7 @@
 19043005	Ang’o momiyo inyosori , Yaye chunya ? Ang’o momiyo ibuok gie iya ? Ket geno mari kuom Nyasaye , nikech pod abiro pake ni Jawarna kendo Nyasacha .
 19044001	Yaye Nyasaye , wasewinjo gi itwa ; kendo wuonewa osenyisowa gik mane itimo e ndalogi , ndalo machon gilala .
 19044002	
-19044003	Ne iriembo ogendini gi lweti iwuon kendo ne iguro kwe r ewa kargi ; ne itieko ogendini mi imiyo kwerewa okar .
+19044003	Ne iriembo ogendini gi lweti iwuon kendo ne iguro kwer ewa kargi ; ne itieko ogendini mi imiyo kwerewa okar .
 19044004	Ne ok giloyo piny gi liganglagi kendo kata bedegi bende ne ok okelo negi loch ; to lweti makorachwich , badi iwuon , kod ler mar wang’i ema nomiyo gilocho nimar ne iherogi .
 19044005	In e Ruodha kendo Nyasacha , magolo chik mondo Jakobo olochi .
 19044006	Wasiro wasikwa nikech in , wanyono joma kedo kodwa kuom nyingi .
@@ -683,7 +683,7 @@
 19044017	Seche ma joma ochaya kendo yanya dirona weche , nikech jasigu oramo ni nyaka ochul kuor .
 19044018	Magi duto notimorena , kata obedo ni wiwa ne pok owil kodi , kata riambo ne singruok mari .
 19044019	Chunywa ne pok oa moweyi ; kendo tiendewa ne pok okier moweyo yori .
-19044020	To podne igoyowa agoya mimiyo o n d i eg bungu olaw owa kendo ne iumowa gi mudho mandiwa .
+19044020	To podne igoyowa agoya mimiyo ondieg bungu olaw owa kendo ne iumowa gi mudho mandiwa .
 19044021	Ka dipo ni wiwa nosewil gi Nyasachwa kata ni ne waseyaro lwetwa ne nyasaye moro mawendo ,
 19044022	donge Nyasaye dine ofwenyo wachn o , nikech ong’eyo gik maling’ling’ manie chuny ?
 19044023	To eka tho ochomowa tir odiechieng’ duto nikech in ; kendo ikwanowa kaka rombo midwa yang’o .
@@ -884,7 +884,7 @@
 19057006	Nyingi mondo oting’ malo moyombo polo , Yaye Nyasaye ; mad duong’ mari pong’ piny duto .
 19057007	Ne giyaro jogo mondo omak tiendena-kane chuny lit odola . Ne gikunyo bugo e yora-to kata kamano gin giwegi ema giselutore e iye . Sela
 19057008	Chunya otegno , Yaye Nyasaye , chunya otegno ; abiro wer kendo abiro loso wer mamit .
-19057009	Chiew , in chunya ! Chiew u ru un orutu gi nyatiti Abiro chiewo osirawende
+19057009	Chiew , in chunya ! Chiew uru un orutu gi nyatiti Abiro chiewo osirawende
 19057010	Abiro paki e dier ogendni , Yaye Ruoth . Abiro weri e dier ji .
 19057011	Nikech herani duong’ kendo chopo nyaka polo ; adiera mari ochop nyaka ewi lwasi .
 19057012	Nyingi mondo oting’ malo moyombo polo , Yaye Nyasaye ; mad duong’ mari pong’ piny duto .
@@ -1034,7 +1034,7 @@
 19068013	" Ruodhi gi jolweny dar gi ng’wech ; ji pogo gik moyaki e kambi .
 19068014	Kata mana sama inindo but mach kama liet , to buombe mag akuchega oum gi dhahabu , kendo yierege oum gi fedha maleny . "
 19068015	Kane Jal Manyalo Duto okeyo ruodhi manie piny , to ne ochal mana gi pee molwar koa e kama oting’ore gi malo mar Zalmon .
-19068016	Gode mag Bashan gin gode madongo miwuoro ; go d ego mag Bashan ojuothore adier .
+19068016	Gode mag Bashan gin gode madongo miwuoro ; godego mag Bashan ojuothore adier .
 19068017	Ang’o momiyo ung’icho gi nyiego , Yaye gode mojuothore , ang’o momiyo nyiego omakou gi got kama Nyasaye oyiero mondo ogurie lochne , kama Jehova owuon biro dakie nyaka chieng’ ?
 19068018	Geche mag lweny mag Nyasaye gin tara gi tara ; ging’eny mokalo akwana ; Ruoth osebiro koa Sinai mondo odonji kare maler .
 19068019	Kane iidho idhi malo to ne itelone joma imako motue ; kendo ne ikawo mich mane ji omiyi , koda ka mich mane jong’anyo omiyi-mondo in Jehova Nyasaye , idag kanyo .
@@ -1125,7 +1125,7 @@
 19072001	Sidh ne ruoth adiera mari , Yaye Nyasaye , sidh ne wuod loch timni makare .
 19072002	Obiro ng’ado ne jou bura makare . Obiro kelo adiera ne jou masandore .
 19072003	Gode biro kelo mwandu ne ji , kendo thuche biro kelo olemb tim makare .
-19072004	Obiro chwako joma odhier manie dier ji kendo obiro reso nyithind joma ochando , to jadi ji to obiro tieko pe p .
+19072004	Obiro chwako joma odhier manie dier ji kendo obiro reso nyithind joma ochando , to jadi ji to obiro tieko pep .
 19072005	Obiro siko ka wang’ chieng’ , obiro siko ka dwe e tienge duto .
 19072006	Obiro chalo gi koth machue e lum mong’adi maber kendo gi kodh ajiki mamiyo piny ng’ich .
 19072007	E ndalone joma kare biro dhi maber , kendo kuwe biro bedo mogundho nyaka chop dwe lal nono .
@@ -1163,14 +1163,14 @@
 19073019	Mano kaka itiekogi apoya nono , mi masiche malich lal kodgi nono !
 19073020	Gilal nono ka lek ma ng’ato oleko gokinyi , omiyo sama ichiew , Yaye Ruoth , to ok ibi dewogi mana ka kido maonge .
 19073021	Kane iya owang’ , kendo chunya winjo lit ,
-19073022	to pacha nolal kendo ne ab e d o mofuwo , ne achalo le maonge rieko e nyimi .
+19073022	to pacha nolal kendo ne abedo mofuwo , ne achalo le maonge rieko e nyimi .
 19073023	Kata kamano an kodi ndalo duto , kendo imaka gi bada korachwich .
 19073024	Itaya gi rieko ming’adona kendo bang’e ibiro tera kar duong’ .
 19073025	En ng’a ma an-go e polo mak mana in ? Piny bende onge gi gimoro amora madwaro moloyi .
-19073026	R i n gra gi chunya nyalo doko manyap , to Nyasaye ema miyo chunya teko , kendo en e girkeni mara nyaka chieng’ .
+19073026	Ringra gi chunya nyalo doko manyap , to Nyasaye ema miyo chunya teko , kendo en e girkeni mara nyaka chieng’ .
 19073027	Joma ni mabor kodi biro lal nono kendo ibiro tieko ji duto maok jo adiera ne in .
 19073028	An to berna ka an but Nyasaye . Aseketo Ruoth Nyasaye kar pondona , kendo abiro lando gima moko duto mitimo .
-19074001	Ang’o momiyo isedagiwa nyaka chieng’ , Yaye Nyasaye ? Ang’o momiyo mirimbi dhuolore ka iro ko c h o m o rombe mag lek mari iwuon ?
+19074001	Ang’o momiyo isedagiwa nyaka chieng’ , Yaye Nyasaye ? Ang’o momiyo mirimbi dhuolore ka iro kochomo rombe mag lek mari iwuon ?
 19074002	Par jogi mane ing’iewo chon gi lala , oganda ma gin girkeni mari , kendo mane iwaro-Got Sayun , kama in iwuon idakie .
 19074003	Chak goyo okangegi ichom kuonde mosebedo ko kethore nyaka nenegi , lokri ichom kethruok maduong’ ma jasigu osekelo e kari maler .
 19074004	Wasiki noruto kamane ijaromega kodwa ; kendo ne gichungo bendechegi mochung’ kar timbegi maricho .
@@ -1179,7 +1179,7 @@
 19074007	Ne giwang’o kari maler molokore buru , kendo ne gidwanyo kama nyingi dakie .
 19074008	Ne giwacho e chunygi ni , " Wabiro tiekogi chuth ! " Ne giwang’o kuonde duto e piny mane ilame Nyasaye .
 19074009	Tinde ok miwa honni kaka ranyisi , kendo onge jonabi modong’ kata achiel , to onge kata ng’ato achiel kuomwa mong’eyo , ni mano biro bedo kamano nyaka karang’o .
-19074010	N yaka karang’o ma jasigu biro jarie , Yaye Nyasaye ? Ibiro yiene jasigu mondo oyany nyingi nyaka chieng’ koso ?
+19074010	Nyaka karang’o ma jasigu biro jarie , Yaye Nyasaye ? Ibiro yiene jasigu mondo oyany nyingi nyaka chieng’ koso ?
 19074011	Ang’o momiyo itamo lweti tiyo tichne , mana lweti mako rachwich ? Gole oko kama isoye ei lepi mondo itiekgi !
 19074012	To in e Ruodha nyaka chakre chon , Yaye Nyasaye , kendo isebedo kikelo resruok e piny .
 19074013	In emane ipogo nam diere ariyo gi tekoni , kendo ne itoyo wiye ondiek marach ei pi .
@@ -1242,7 +1242,7 @@
 19078002	Abiro yawo dhoga ka agoyo ngeche , ee , abiro wacho weche mopondo mawuoyo kuom gik mane otimore chon gilala -
 19078003	Gik ma wasewinjo kendo ma wang’eyo , mane wuonewa onyisowa .
 19078004	Ok wabi pandogi ne nyithindgi ; to wabiro hulogi ne tieng’ mabiro timbe mipako mag Jehova gi tekone kod gik miwuoro mosetimo .
-19078005	Ne ogolo chike ne joka Jakobo kendo noguro chik e piny Israel , chike mane omiyo kwe r ewa mondo opuonj nyithindgi ,
+19078005	Ne ogolo chike ne joka Jakobo kendo noguro chik e piny Israel , chike mane omiyo kwerewa mondo opuonj nyithindgi ,
 19078006	mondo tieng’ mabiro ong’egi , koda ka nyithindo mapok onyuol , kendo gin bende ginyis nyithindgi .
 19078007	Eka mondo mi giket genogi kuom Nyasaye kendo kik wigi wil gi gik mosetimo to ni mondo girit chikene .
 19078008	Bende mondo kik ne gichal gi kweregi-mane gin tieng’ ma tokgi tek kendo ma jong’anyo , ma chunjegi ne ok ochiwore ne Nyasaye kendo ne ok luwe gi adiera .
@@ -1253,7 +1253,7 @@
 19078013	Ne omiyo nam opogore diere ariy o mi nomiyo gikadho kendo nomiyo pi ochung’ moling’ thi ka ohinga .
 19078014	Ne otayogi kod bor polo godiechieng’ kendo giler moa e mach otieno duto .
 19078015	Ne otucho lwanda e thim kendo nomiyogi pi mogundho ka nembe ;
-19078016	bende nomiyo aoche obu b n i kawuok e lwanda kama obarore mi pi nomol piny mana ka aora .
+19078016	bende nomiyo aoche obubni kawuok e lwanda kama obarore mi pi nomol piny mana ka aora .
 19078017	To eka pod ne gidhi mana nyime ka gitimo richo e nyime ka ging’anyo e thim ne Jal Mamalo Mogik .
 19078018	Ne gitemo Nyasaye ka ging’eyo , kuom kete mondo omigi chiemo mane gigombo .
 19078019	Ne giwuoyo marach kuom Nyasaye ka giwacho ni , " Nyasaye be nyalo chano mesa e nyimwa e thim ka ?
@@ -1306,9 +1306,9 @@
 19078066	Ne oriembo wasike gi goch , kendo nomiyo giyudo wichkuot mosiko .
 19078067	Ne odagi hembe mag Josef , bende ne ok oyiero dhood joka Efraim ,
 19078068	to dhood joka Juda emane oyiero , ee , noyiero mana Got Sayun , mane ohero .
-19078069	Ne ogero kare maler , ka go d e maboyo , kendo mana ka piny mane oguro nyaka chieng’ .
+19078069	Ne ogero kare maler , ka gode maboyo , kendo mana ka piny mane oguro nyaka chieng’ .
 19078070	Ne oyiero Daudi jatichne , kendo nogole e abich rombe ;
-19078071	nogole e tij rito rombe moke l e mondo okwa joge ma Jakobo mondo okwa Israel girkeni mare .
+19078071	nogole e tij rito rombe mokele mondo okwa joge ma Jakobo mondo okwa Israel girkeni mare .
 19078072	Kuom mano Daudi nokwayogi gi chuny makare kendo notelo negi , gi lwedo mong’ith .
 19079001	Yaye Nyasaye , Ogendini osemonjo girkeni mari ; gisedwanyo Hekalu mari maler , kendo giseketho Jerusalem modong’ pidhe-pidhe .
 19079002	Gisechiwo ringre jogi motho mondo obed chiemb winy manie kor polo , ring jogi maler gisechiwo ne ondiegi mag piny .
@@ -1541,7 +1541,7 @@
 19091012	giniting’i malo e lwetgi , mondo kik ichwany tiendi e kidi .
 19091013	Ininyon sibuor gi thuond fu ; adier i n i n yon sibuor maratego gi thuol maduong’ man-gi kwiri marach .
 19091014	Jehova wacho ni , " Abiro rese nikech ohera ; abiro rite nikech ohulo nyinga .
-19091015	E n o l u o n ga , kendo anaduoke ; a n abed kode e chandruok , adier , anakonye kendo anamiye duong’ .
+19091015	Enoluonga , kendo anaduoke ; a n abed kode e chandruok , adier , anakonye kendo anamiye duong’ .
 19091016	Anami odag aming’a kendo ananyise warruokna . "
 19092001	Pako Jehova en gima ber kendo wero wende mapako nyingi bende ber , Yaye Jal Man Malo Mogik ,
 19092002	
@@ -1696,7 +1696,7 @@
 19103011	Nimar mana kaka polo ni malo moyombo piny e kaka herane duong’ ne joma oluore ;
 19103012	mana kaka wuok chieng’ bor gi podho chieng’ , e kaka osep ogow a mabor gi kethowa .
 19103013	Mana kaka wuoro kecho nyithinde e kaka Jehova kecho joma oluore ;
-19103014	nimar ong’eyo kaka ochue w a , ong’eyo e pache ni wan mana buch lo .
+19103014	nimar ong’eyo kaka ochuewa , ong’eyo e pache ni wan mana buch lo .
 19103015	Dhano to ndalone chalo gi lum , oloth piyo ka mafua mopidhi ;
 19103016	to ka yamo okudhe matin nono to kare orumo kendo ok chak pare .
 19103017	Hera ma Jehova oherogo joma oluore to osiko nyaka chieng’ manyaka chieng’ kendo osiko otimo maber ne nyithind nyithindgi -
@@ -1722,7 +1722,7 @@
 19104015	kaachiel gi divai mamoro chuny dhano , gi mo mamiyo lenda wang’e leny kod makati molerogo chunye .
 19104016	Yiende Jehova yudo pi moromogi , yiendego gin sida mag Lebanon mane opidho .
 19104017	Winy gero utegi e bedegi , winj nyamnaha nigi ode ewi yiende mag obudo .
-19104018	Diek mag bungu odake go d e mab oyo , to lwendni morokore gin kuonde buok mag apwoche .
+19104018	Diek mag bungu odake gode maboyo , to lwendni morokore gin kuonde buok mag apwoche .
 19104019	Dwe pogo kinde mag chwiri gi kinde mag opon kendo wang’ chieng’ ong’eyo saa monego opodhie .
 19104020	Ikelo mudho mi piny lolkre otieno , kendo le mag bungu duto lak oko .
 19104021	Sibuoche ruto ka gimanyo chiemo ; gimanyo chiembgi kuom Jehova .
@@ -1756,7 +1756,7 @@
 19105014	To ne ok oyie mondo ng’ato ochandgi ; nikech gin , nokwero ruodhi , kowacho ni ,
 19105015	" Kik umul joga ma awiro ; kik utim gimoro amora marach ne jonabi maga .
 19105016	Ne okelo kech e piny kendo noketho yore duto mane giyudogo chiemo ;
-19105017	kendo nooro ng’ato otelone g i , ng’atno ne en Joseph mane oloki kaka misumba .
+19105017	kendo nooro ng’ato otelone gi , ng’atno ne en Joseph mane oloki kaka misumba .
 19105018	Ne giridho tiendene gi arungu mochuoye chuma , kendo ne giridho ng’ute gi chumbe ,
 19105019	nyaka nochopo kinde ma gik mane okoro notimoree , nyaka wach Jehova nochopo kare .
 19105020	Ruodh Misri nooro wach mi nogonye , jatend ji nogonye thuolo .
@@ -1791,7 +1791,7 @@
 19106004	An bende parae , Yaye Jehova , parae ka itimo ng’wono ne jogi , bi ikonya ka iresogi ,
 19106005	mondo an bende awinjie maber gi mwandu mimiyo jogi miyiero , mondo ayudie mor mar ogandani kendo amiyi duong’ kaachiel gi girkeni mari .
 19106006	Wasetimo richo mana kaka kwerewa bende notimo ; wasetimo marach kendo wasetimo gik mamono .
-19106007	Kane kwe r ewa ni Misri , ne ok giparo matut kuom honni magi ; bende ne wigi owil gi kechni mathoth , ne ging’anyoni e dho nam , ma en Nam Makwar .
+19106007	Kane kwerewa ni Misri , ne ok giparo matut kuom honni magi ; bende ne wigi owil gi kechni mathoth , ne ging’anyoni e dho nam , ma en Nam Makwar .
 19106008	Kata kamano noresogi nikech nyinge , mondo omi tekone maduong’ ong’ere .
 19106009	Nokwero Nam Makwar , mi Nam Makwar notwo ; kendo nomiyo gikalo kama tut mana kagima ne giwuotho kama otwo .
 19106010	Noresogi e lwet joma ne kedo kodgi , adier , nowarogi e lwet wasigu .
@@ -1867,7 +1867,7 @@
 19107032	Onego giting’ nyinge malo e chokruok mar joge kendo gidende e buch jodongo .
 19107033	Ne omiyo aoche olokore kuonde motwo , sokni mamol nolokore ongoro ,
 19107034	kendo lowo manyak maber nodoko lowo motimo chumbi , maonge tich nikech timbe mamono mag joma nodak kuondego .
-19107035	To bende nomiyo piny ongo r o odoko yewni mag pi , kendo lowo motwo nolokore sokni mamol ;
+19107035	To bende nomiyo piny ongoro odoko yewni mag pi , kendo lowo motwo nolokore sokni mamol ;
 19107036	nokelo joma odenyo mondo odag kuondego , kendo ne gigero dala kama ne ginyalo dakie .
 19107037	Ne gipuro puothe kendo ne gipidho puothe mzabibu mane ochiego cham maber ;
 19107038	ne ogwedhogi , kendo ne gidoko ji mang’eny ahinya , bende ne ok oyie mondo jambgi odog piny .
@@ -2234,7 +2234,7 @@
 19122008	Nikech owetena gi osiepena modak e iyi , awacho ni , " Jerusalem mondo obed gi kuwe . "
 19122009	Nikech wach od Jehova Nyasachwa , adwaro ni idhi maber .
 19123001	In ema arangi , in ma kom lochni nie polo ema arangi .
-19123002	Mana kaka wenge wasumbni rango lwet ruodhgi , kendo kaka wenge jatich manyako mar ot rango lwet min-odgi , e kaka we n g ewa rango Jehova Nyasachwa nyaka chop okechwa .
+19123002	Mana kaka wenge wasumbni rango lwet ruodhgi , kendo kaka wenge jatich manyako mar ot rango lwet min-odgi , e kaka wengewa rango Jehova Nyasachwa nyaka chop okechwa .
 19123003	Yie ikechwa Yaye Jehova , yie ikechwa , nikech osechawa gikinda .
 19123004	Josunga osejarowa moromo kendo acheje osechayowa moromo .
 19124001	Ka dine bed ni Jehova ok jakorwa-jo Israel mondo owach kamano -
@@ -2244,7 +2244,7 @@
 19124005	kendo pi maringo matek dine odhi kodwa .
 19124006	To pak odog ne Jehova maok oseyie mondo lekegi okidhwa .
 19124007	Wasetony mana ka winyo mowuok e wino mar jachik winy ; wino osechodi , to wan wasetony .
-19124008	Ko n y ruokwa nie nying Jehova Jachuech polo gi piny .
+19124008	Konyruokwa nie nying Jehova Jachuech polo gi piny .
 19125001	Joma ogeno kuom Jehova chalo gi Got Sayun , maok nyal yiengi to osiko nyaka chieng’ .
 19125002	Mana kaka gode olworo Jerusalem , e kaka Jehova olworo joge chakre sani kendo nyaka chieng’ .
 19125003	Ludh loch mar joma timbegi richo ok bi siko korito piny mopog ne joma kare , nimar ka mano otimore to joma kare nyalo tiyo gi lwetgi kuom timo marach .
@@ -2258,7 +2258,7 @@
 19126006	Ng’at madhi oko ka ywak , koting’o kodhi mikomo , biro duogo ka wero wende mor , koting’o cham mosechiek .
 19127001	Ka Jehova ok ema ger ot , to joma gere nyagore gi tich matek kayiem . Ka Jehova ok ema orito dala , to jorito ochung’ karito kayiem .
 19127002	In be imondo chiew chon kendo ineno nyaka saa molewo , kinyagori gi tich matek mondo iyud chiemo minyalo chamo ; nimar Nyasaye miyo joge mohero nindo mokuwe .
-19127003	Yaw u owi gin gweth moa kuom Jehova , adier , nyithindo gin mich moa kuome .
+19127003	Yawuowi gin gweth moa kuom Jehova , adier , nyithindo gin mich moa kuome .
 19127004	Yawuowi ma ng’ato onyuolo kapod otin , chalo gi asere manie lwet jakedo .
 19127005	Ng’at ma ofukune opong’ kodgi en ng’ama ogwedhi . Ok ginine wichkuot ka gikedo gi wasikgi e dhorangach .
 19128001	Ji duto moluoro Jehova , kendo mawuotho e yorene gin joma ogwedhi .
@@ -2363,7 +2363,7 @@
 19137004	Ere kaka di wawer wende Jehova kapod wan e piny mawendo ?
 19137005	Ka dipo ni wiya owil kodi , Yaye Jerusalem , to mad lweta makorachwich wiye wil gi tichne .
 19137006	Mad lewa moki e danda ka dipo ni ok apari , ka dipo ni ok aketo chunya kuomi , Yaye Jerusalem morna maduong’ mogik .
-19137007	Parie gima ne jo Edom otimo , Yaye Jehova , parie gimane gitimo chieng’ mane Jerusalem opodho . Ne gikok matek ni , " Muke u ru ogoye piny . Mukeuru ogore piny gi mise mare duto ! "
+19137007	Parie gima ne jo Edom otimo , Yaye Jehova , parie gimane gitimo chieng’ mane Jerusalem opodho . Ne gikok matek ni , " Mukeuru ogoye piny . Mukeuru ogore piny gi mise mare duto ! "
 19137008	Yaye nyar Babulon , in mochanni kethruok , ng’ama nochuli kuom gima isetimonwa en jahawi -
 19137009	ng’at ma nomak nyithindi mayom mi chudgi piny e lwendni en jahawi .
 19138001	Abiro paki gi chunya duto , Yaye Jehova ; abiro paki gi wer e nyim nyiseche .
@@ -2574,7 +2574,7 @@
 40002010	Kane gineno sulweno , ne gibedo moil mokalo .
 40002011	To kane gichopo ei ot , ne gineno nyathino kod Maria min mare , kendo ne gikulore piny ka gilame . Bang’e ne giyawo mwandugi kendo ne gimiye mich mag dhahabu , gi ubani gi manemane .
 40002012	To kaka nosesiem-gi e lek ni kik gidog ir Herode , ne gidok thurgi gi yo machielo .
-40002013	Bang’ kane gisedhi , malaika mar Ruoth nofwenyore ne Josef e lek . Nowachone ni , " A malo ikaw nyathi gi min mare mondo itony idhi Misiri . Dag kuno nyaka aduogni wach , nikech Herode biro manyo nyathini mondo onege . "
+40002013	Bang’ kane gisedhi , malaika mar Ruoth nofwenyore ne Josef e lek . Nowachone ni , " Aa malo ikaw nyathi gi min mare mondo itony idhi Misiri . Dag kuno nyaka aduogni wach , nikech Herode biro manyo nyathini mondo onege . "
 40002014	Omiyo noa malo gotieno mi okawo nyathi gi min mare kendo nowuok modhi Misri ,
 40002015	kuma nodakie nyaka chop tho mar Herode . Kamano gima Ruoth nowacho chon gidho janabi ni , " Ne aluongo wuoda ka agolo Misri , " nochopo kare .
 40002016	Ka Herode nofwenyo ni joma Riekgo nosewuonde , iye nowang’ asasa , kendo nogolo chik mondo onegi nyithindo ma yawuowi duto modak Jerusalem gi mier molwore , mane hikgi ariyo kadok chien , kaluwore gi saa mane Joma Riek onyise .
@@ -3065,7 +3065,7 @@
 40015037	Ne gichiemo giduto mi giyieng’ . Bang’ chiemo jopuonjre nokwanyo ng’injo mane ji ochamo oweyo moromo aditni abiriyo .
 40015038	Kar romb joma nochiemo duto ne gin alufu ang’wen , ka ok okwan mon gi nyithindo .
 40015039	Bang’ ka Yesu nosegonyo oganda odhi , nodonjo e yie mi odhi e gweng’ mar Magadan .
-40016001	Jo Farisai gi Jo Sadukai O nobiro ir Yesu mi oteme kapenje mondo onyisgie ranyisi moa e polo .
+40016001	Jo Farisai gi Jo Sadukai nobiro ir Yesu mi oteme kapenje mondo onyisgie ranyisi moa e polo .
 40016002	Nodwokogi ni , " Kochopo odhiambo to uwacho ni piny kiny nolendi nikech polo marmar , '
 40016003	to gokinyi to uwacho ni , kodh yamo maduong’ wang’nochwe nikech polo marmar kendo dudo . ' Ulony e somo kit polo , to somo ranyisi mag kit ndalo to otamou .
 40016004	Tieng’ ma timbene richo kendo materoreni manyo ranyisi mar hono , to ok bi miye moro amora mak mana ranyisi mar Jona . " Eka Yesu nowuok odhi oweyogi .
@@ -3138,7 +3138,7 @@
 40018016	To ka otamore winji to kaw ng’ato achiel kata ji ariyo idhi iwuogo kode , mondo , " winjruok marach duto mantie olosi ka joneno ariyo kata adek nitie . '
 40018017	Kodagi winjogi , to nyis kanisa wachno ; to kodagi winjo nyaka kanisa , to kawe kaka dikaw ng’at ma japiny kata jasol osuru .
 40018018	" Anyisou adier ni gimoro amora mutweyo e pinyka notwe e polo bende , kendo gimoro amora mugonyo e pinyka nogony e polo bende .
-40018019	" A nyisou bende ni ka ji ariyo kuomu e pinyka owinjore kuom gimoro amora mukwayo to Wuora manie polo notimnugo .
+40018019	" Anyisou bende ni ka ji ariyo kuomu e pinyka owinjore kuom gimoro amora mukwayo to Wuora manie polo notimnugo .
 40018020	Nimar kama ji ariyo kata adek ochokoree e nyinga to an kodgi kanyo . "
 40018021	Eka Petro nobiro ir Yesu mopenje ni , " Ruoth , owinjore awene owadwa ndalo adi kokethona ? Nyaka ndalo abiriyo koso ? "
 40018022	Yesu nodwoke ni , ' Akoni ni ok dibiriyo to di piero abiriyo nyadibiriyo . "
@@ -3868,7 +3868,7 @@
 41007010	Nikech Musa nowacho ni , ' Luor wuoru gi meru ; kendo ni , ' Ng’ato ang’ata mokuong’o wuon kata min nyaka negi ' !
 41007011	Un to uwacho ni ka ng’ato onyiso wuon kata min ni , ' kony moro amora ma dine amiyi koro en Koban ( tiende ni , mich mowal ni Nyasaye )
 41007012	to ng’at makamano koro ok uyiene mondo okony wuon kata min .
-41007013	Kuom mano uketho teko Wach Nyasaye gi puonj u mane kwereu omiyou . Bende utimo gik mamoko mathoth maket gi mano .
+41007013	Kuom mano uketho teko Wach Nyasaye gi puonju mane kwereu omiyou . Bende utimo gik mamoko mathoth maket gi mano .
 41007014	Bang’eno Yesu nochako oluongo oganda ire kendo mowachonigi niya , ' Winjauru , un duto , mondo uwinj wachni .
 41007015	Onge gimoro man oko mar dhano ma kodonjo e iye to nyalo miyo odoko " mochido " . Adiera en ni gik mawuok ei dhano ema miyo odoko ' mochido ' .
 41007016	Ng’at mangi it mar winjo wach mondo owinji . "
@@ -4110,7 +4110,7 @@
 41012043	Yesu nogwelo jopuonjerene ire mokonegi ni , " Awachonu adier ni chi liel modhierni osegolo pesa mang’eny e keno moloyo ji mamoko duto .
 41012044	Gin gisegolo mana matin nono kuom mwandu mathoth ma gin-go , to en , kuom dhierne , ogolo mwandune duto . Ogolo gimoro amora ma nonyalo konyorego . "
 41013001	Ka noyudo oa e Hekalu , achiel kuom jopuonjrene nokone ni , " Neye , Japuonj ! Kitegi dongo manadi ! Magi gedo malich manadi !
-41013002	Yesu nodwoko ni , " Ineno ute madongo malichgi ? Onge kidi kata achiel mabiro dong' ewi wadgi ; gibiro redhore piny tee " .
+41013002	Yesu nodwoko ni , " Ineno ute madongo malichgi ? Onge kidi kata achiel mabiro dong’ ewi wadgi ; gibiro redhore piny tee " .
 41013003	Ka Yesu nobedo piny e Got Zeituni , momanyore gi Hekalu , Petro gi Jakobo , gi Johana kod Andrea nopenje ling’ling’ ni ,
 41013004	" Yie inyiswae ni gigi biro timore karang’o , koso en ranyisi mane manotimre ma nonyis ni gigi duto chiegni chopo ? "
 41013005	Yesu nowachonigi ni , " Tang’uru maok uyiene ng’ato mondo owuondu .
@@ -4851,7 +4851,7 @@
 42011052	" Chandruok ochomou un joma olony e chik , nikech usemayo ji kifungu mar rieko . Un uwegi pok udonjo kendo joma donjo be usegeng’onegi .
 42011053	Ka Yesu noa kanyo , jo-Farisai gi Jopuonj Chik nochako kwede gi gero kendo ne gichande gi penjo mang’eny .
 42011054	Ka girito mondo gimake gimoro amora mane onyalo wacho .
-42012001	E kindeno , kane oganda mar ji w mang’eny moromo alufe ne osechokore , makoro ginyonore giwegi Yesu nochako wuoyo mokwongo , gi jopuonjrene kowacho niya , " Ritreuru ka utang’ ni thowi mar jo-Farisai , ma en wuondruok .
+42012001	E kindeno , kane oganda mar ji mang’eny moromo alufe ne osechokore , makoro ginyonore giwegi Yesu nochako wuoyo mokwongo , gi jopuonjrene kowacho niya , " Ritreuru ka utang’ ni thowi mar jo-Farisai , ma en wuondruok .
 42012002	Onge gimoro mopandi maok bi fwenyore , kata maling’ling’ ma ok nong’ere .
 42012003	Gima usewacho e mudho biro winjore e odichieng’ e lela , kendo gima usekwodho eitu ei ot maiye nolandi e wi tat ot .
 42012004	Awachonu osiepna , kik uluor jogo manego ringruok to bang’e ok ginyal timo gimoro moloyo .
@@ -5012,7 +5012,7 @@
 42015030	To ka wuodi ni , moseketho gigegi gi mon ma jochode ka obiro dala , to inegone nyarwath machwe ! '
 42015031	" Wuon mare nowacho niya , ' Wuoda , in koda ndalo duto , kendo gik moko duto ma ango ' gin magi .
 42015032	To nyaka ne wabed mamor kendo bed moil , nikech owaduni yande otho to koro ongima , kendo yande olal to koro oyude ! '
-42016001	Yesu nowacho ne Jopuonjrene D niya . " Ne nitie jamoko moro , ma ng’at mane rito mwandune ne odonjne ni ketho gige .
+42016001	Yesu nowacho ne Jopuonjrene niya . " Ne nitie jamoko moro , ma ng’at mane rito mwandune ne odonjne ni ketho gige .
 42016002	Omiyo noluonge ire kendo nopenje ni , ' En ang’o mawinjo kuomi ni ? Chiw ane kwan kuom gigo duto mirito , nikech ok inyal bedo jarit giga kendo ngang’ ! '
 42016003	" Jarit nowachone en owuon ni , Abiro timo ang’o koro ? Ruodha koro maya tija . Ok an ratego moromo ma dapur , to wiya kuot mondo akwechi .
 42016004	Ang’eyo gima abiro timo , ma ka aweyo tich ka to ji biro rwakae utegi '
@@ -5605,7 +5605,7 @@
 43005001	Bang’ kinde moko , Yesu noidho odhi Jerusalem e sawo moro mar jo Yahudi .
 43005002	To ei Jerusalem kanyo , but ranga Rombe , miluongo ni Bethesda gi dho jo-Aramia , ne nitiere yawo moro ma nigi raidhi midonjogo abich .
 43005003	Kar kani ji mong’ol mathoth ahinya noheroga riye — muofni , rong’onde , joma nigi athany — kendo ne girito mondo pi otugre .
-43005004	Kinde ka kinde malaika mar Ruoth ne jalorga piny mi tug pi . Ng’ama nokwongo donjo e pigno sama otugoreno ne chango kuom kit tuo moro amora mane en g ) .
+43005004	Kinde ka kinde malaika mar Ruoth ne jalorga piny mi tug pi . Ng’ama nokwongo donjo e pigno sama otugoreno ne chango kuom kit tuo moro amora mane en go ) .
 43005005	To ne nitie ng’ato kanyo mane osebedo ka tuo osiko kuom higini piero adek gaboro .
 43005006	Ka Yesu nonene koriere piny kanyo , kendo kane onyise ni osebedo kochal kamano kuom kinde marabora , nopenje ni , " Be idwaro ni ochangi ? "
 43005007	Ja songano nodwoke ni , " Jaduong’ , aonge gi ng’ama nyalo konya donjo ei yawo sama pi otugore . Sama atemo ni adonji to ng’at machielo donjo kuongona . "
@@ -5623,7 +5623,7 @@
 43005019	To Yesu nomiyogi dwoko ni : " Awachonu adier ni , Wuod Dhano ok nyal timo gimoro kende owuon ; onyalo mana timo gima oneno ka Wuoro timo , nikech gimoro amora ma Wuoro timo ema Wuowi bende timo .
 43005020	Nimar Wuoro ohero Wuowi , kendo onyise gik moko duto motimo . Ee , obiro medo nyise koda ka gik madongo moloyo magi mi uwuor .
 43005021	Nimar mana kaka Wuoro chiero joma otho , kendo miyogi ngima , e kaka Wuowi chiwo ngima ne ng’ato ang’ata mohero mondo omi .
-43005022	To bende , Wuoro ok y al ng’ato , to oseketo tich ng’ado bura duto e lwet Wuowi ,
+43005022	To bende , Wuoro ok yal ng’ato , to oseketo tich ng’ado bura duto e lwet Wuowi ,
 43005023	mondo eka ji duto omi Wuowi duong’ mana kaka gimiyo Wuoro duong’ . Ng’at maok mi Wuowi duong’ ok mi Wuoro mane oore duong’ .
 43005024	Awachonu adier ni ng’ato ang’ata mawinjo wachna , kendo moyie kuom Jal mane oora , nigi ngima manyaka chieng’ , kendo ok bi ng’adne buch tho ; oseng’ado oa e tho modonjo e ngima .
 43005025	Awachonu adier ni ndalo biro , kendo koro osechopo , ma joma otho biro winjo duond Wuod Nyasaye , kendo joma owinjo biro doko mangima .
@@ -5972,7 +5972,7 @@
 43011055	Ka kinde mag Pasaka mar jo Yahudi ne chiegni chopo , ji mang’eny noa e gwenge modhi Jerusalem mondo gipuodhre ka pok Pasaka ochopo .
 43011056	Ne gisiko ka gimanyo Yesu , kendo ne gipenjore ng’ato gi ng’ato , ka noyudo gichung’ ei alwora mar Hekalu , ni , " Uparo nade ? Donge obiro biro e sawoni koso ok obi biro ? "
 43011057	To noyudo jodolo madongo gi jo Farisai o segolo chik ni ng’ato ang’ata mane ong’eyo kuma Yesu nitie nyaka ne ternegi wach mondo gidhi gimake .
-43012001	Ndalo auchiel kane pok Pasaka w ochopo , Yesu notundo Bethani , kama Lazaro nodakie , jagono ma Yesu yande nochiero oa kuom joma otho .
+43012001	Ndalo auchiel kane pok Pasaka ochopo , Yesu notundo Bethani , kama Lazaro nodakie , jagono ma Yesu yande nochiero oa kuom joma otho .
 43012002	Ne gitedone Yesu chiemo mang’eny kuno mondo gimiye duong’ . Maritha ne miyo welo chiemo , to Lazaro to nobet kachiemo kaachiel gi joma nobet kolworo mesa .
 43012003	Eka Mariam nokawo mo madung’ mamit kendo ma nengone tek , manyalo romo nus lita , mowirogo tiende Yesu , kaeto oyweyo tiendene gi yie wiye . Mi ot nopong’ gi tik mamit mar morno .
 43012004	To achiel kuom jopuonjrene , Judas Iskariot , ma nebiro ndhoge bang’e , nopingo tim mane dhakono otimo , kowacho ni ,
@@ -6110,7 +6110,7 @@
 43015017	Ma e chikna : Herreuru ng’ato ka ng’ato .
 43015018	" Ka piny ochayou to ng’euru ni an ema nochaya mokwongo .
 43015019	Ka dine bed ni un jo piny to piny dine oherou kaka joge owuon . To kaka en , ok unjo pinyni to aseyierou mi agolou e piny . Mano emomiyo piny ochayou .
-43015020	Paruru weche ma nawachonu ni , ' Onge misumba maduong’ moloyo ruodhe motiyone . ' Omiyo ka an ema gisesanda to un be gibiro sandou , kendo ka gimako puonjna to puonj u be gibiro mako .
+43015020	Paruru weche ma nawachonu ni , ' Onge misumba maduong’ moloyo ruodhe motiyone . ' Omiyo ka an ema gisesanda to un be gibiro sandou , kendo ka gimako puonjna to puonju be gibiro mako .
 43015021	Gibiro timonu kamano nikech nyinga , nimar gikia Jal ma noora .
 43015022	Ka dine bed ni ne ok abiro mi awuoyo kodgi , da ok buch richo oloyogi . To koro , ok ginyal badhore ne richogi .
 43015023	Ng’ama ochaya ochayo Wuora bende .
@@ -6478,7 +6478,7 @@
 44005025	Eka ng’at moro nobiro mowachonegi ni , " Winjieuru ! Joma ne uketo e jela ero ochung’ e Hekalu puonjo ji . "
 44005026	Kane jatend jorit Hekalu owinjo wachno , nowuok sanosano gi askechege mi gidhi giomo joote gikelo . Ne ok gitiyo gi thuon , nikech ne giluor niji biro chielogi gi kite .
 44005027	Kane gisekelo joote , ne giketogi e nyim jobura mondo jadolo maduong’ openjgi weche .
-44005028	Jadolo maduong’ nowachonegi ni , " Ne wasiemou matek mondo kik uchak upuonj ji e nyingni , to eka koro usepong’o Jerusalem duto gi puonj u , kendo uramo ni nyaka bura lowa ni remb ng’atni nie wiwa . "
+44005028	Jadolo maduong’ nowachonegi ni , " Ne wasiemou matek mondo kik uchak upuonj ji e nyingni , to eka koro usepong’o Jerusalem duto gi puonju , kendo uramo ni nyaka bura lowa ni remb ng’atni nie wiwa . "
 44005029	Petro gi joote mamoko nodwokogi ni , " Nyaka wawinj mana Nyasaye , to ok dhano !
 44005030	Nyasach kwerewa nochiero Yesu oa kuom joma otho , en e Yesu mane unego ka uliere e yath .
 44005031	To Nyasaye oseting’e malo mokete e bade owuon ma korachwich , kaka Ruoth kendo Jawar , mondo eka omi jo Israel lokruok kod weruok mar richo .
@@ -6593,7 +6593,7 @@
 44008023	Nikech aneno ni kit nyiego makech opongo chunyi , kendo richo oloki misumbane chuth . "
 44008024	Eka Simon nodwoko ni , " Lamna Ruoth Nyasaye mondo gima rach mis-ewachono kik timrena . "
 44008025	Kane gisetimo neno kendo giyalo wach Ruoth , Petro gi Johana nodok Jerusalem , ka giyalo Injili e miech Samaria mang’eny .
-44008026	To malaika mar Ruoth nowacho ne Filipo niya , ' A malo idhi yo milambo , kilu-wo ndara mong’ado i thim , moa Jerusalem kadhi Gaza . "
+44008026	To malaika mar Ruoth nowacho ne Filipo niya , ' Aa malo idhi yo milambo , kilu-wo ndara mong’ado i thim , moa Jerusalem kadhi Gaza . "
 44008027	Kuom mano Filipo nochako wuoth , to ka noyudo odhi , noromo gi ja Ethiopia mabuoch , mane en jatelo maduong’ morito mwandu duto mag Kandes , ruoth madhako mar jo Ethiopia . Ng’atni noa lemo Jerusalem ,
 44008028	to koro nodok dala , kobet e gache kendo kosomo kitap Janabi Isaya .
 44008029	Malaika nowacho ne Filipo ni , " Dhiyo mondo ichung’ machiegni gi gari cha . "
@@ -6651,7 +6651,7 @@
 44009041	Petro nomako bade mi okonye chung’ gi tiende . Bang’e noluongo jopuonjre kod mond liete mane ni oko mi ochiwe negi kongima .
 44009042	Wachni nolandore e Jopa duto mi ji mang’eny noyie kuom Ruoth .
 44009043	Petro nomedo dak Jopa e odjanyong’ piende moro miluongo ni Simon kuom kinde mogwarore .
-44010001	Ne nitie jatend jolweny moro e W dala mar Kaisaria mane nyinge Kornelio . Ng’atni norito oganda lweny moro mar jo Rumi miluongo ni , ' Oganda Italia ' .
+44010001	Ne nitie jatend jolweny moro e dala mar Kaisaria mane nyinge Kornelio . Ng’atni norito oganda lweny moro mar jo Rumi miluongo ni , ' Oganda Italia ' .
 44010002	En kaachiel gi joode duto negiluoro Nyasaye . Ne okonyo joma odhier kendo olamo Nyasaye pile .
 44010003	Chieng’ moro achiel noneno fweny kar saa ochiko odhiambo . E fwenyno nonenoe ayanga malaika mar Ruoth , mane obiro ire moluonge ni , " Kornelio ! "
 44010004	Kornelio norango malaikano ka luoro omake , eka noyiene ni , " Iwacho nang’o , Ruoth ? " Malaika nodwoke ni , " Nyasaye osepari nikech lemoni kod timbe ng’wono mikonyogo joma ochando osechopo e nyime .
@@ -6875,7 +6875,7 @@
 44015039	Wachni nokelo mbaka matek e kind Paulo gi Barnaba , mi ne gipogore . Barnaba nokawo Mariko mi gikwang’ gidhi Saipras ,
 44015040	to Paulo noyiero Sila gidhig o , ka owete oketogi e bwo ng’wono mar Nyasaye .
 44015041	Nowuotho e piny Siria gi Kilikia kojiwo jo Kristo .
-44016001	Paulo nowuotho mochopo Derbe D gi Listra , kama japuonjre moro nodakie miluongo ni Timotheo . Min Timotheo neja Yahudi moyie kuom Yesu , to wuon-gi neja Grik .
+44016001	Paulo nowuotho mochopo Derbe gi Listra , kama japuonjre moro nodakie miluongo ni Timotheo . Min Timotheo neja Yahudi moyie kuom Yesu , to wuon-gi neja Grik .
 44016002	Owete man Listra gi Ikonio ne wuoyo maber kuom Timotheo .
 44016003	Paulo ne dwa kawe dhi kode e wuodhe mar yalo Injili , omiyo ne otere nyangu , nikech jo Yahudi mane odak kanyo nong’eyo ni wuon-gi en ja Grik .
 44016004	Kane giwuotho e dala ka dala , ne ginyiso ji mondo olu gima buch joote gi jodongo nong’ado Jerusalem .
@@ -7637,7 +7637,7 @@
 45011034	" E en ng’a mosen-g’eyo pach Ruoth ? Kata en ng’a mosebedonejang’adne rieko ?
 45011035	" En ng’a mosemiyo Nyasaye gimoro ma dobandh Nyasaye mondo ochule ?
 45011036	Nimar gik moko duto oa kuome , kendo gintie nikech en , kendo gin mage duto . Duong’ obed mare nyaka chieng’ ! Amina .
-45012001	Emomiyo , jowetena , ajiwou kuom w ng’wono mar Nyasaye , mondo uchiw ringreu kaka misango mangima maler kendo ma Nyasaye morgo , nikech mano e yor lemo makare
+45012001	Emomiyo , jowetena , ajiwou kuom ng’wono mar Nyasaye , mondo uchiw ringreu kaka misango mangima maler kendo ma Nyasaye morgo , nikech mano e yor lemo makare
 45012002	Kik koro ulu kit ngima pinyni , to lokreuru ka parou doko manyien pile , eka unubed gi nyalo mar pimo kendo ng’eyo dwach Nyasaye-dwache maber , mowinjore kendo malong’o chuth .
 45012003	Nimar kuom ng’wono mosemiya , awacho ni ng’ato ka ng’ato kuomu ni : Kik ipar ni iduong’ moloyo kaka ichal to ket pachi kare eka ing’ad buchi kaluwore gi kar rom yie ma Nyasaye osepogoni .
 45012004	Nikech mana kaka ng’ato ka ng’ato kuomwa nigi ringruok achiel mangi fuonde mang’eny , to kendo fuondegi duto ok tim tich machalre ,
@@ -8414,7 +8414,7 @@
 47011031	Nyasaye ma Wuon Ruoth Yesu ma ipako nyaka chieng’ , ong’eyo ni ok ariambi .
 47011032	Ka an Damaski , jatelo manie bwo ruoth Areta noketo jorit e ranga dala mar jo-Damaski mondo omaka .
 47011033	To ne atony kane oketa ei okapu , mi olora piny kakadho e otuchi manie kor ohinga .
-47012001	Nyaka asungra kata obedo ni w sunga masungorago ok kony gimoro . To koro awuoyo kuom lek gi fweny mane Ruoth omiya .
+47012001	Nyaka asungra kata obedo ni sunga masungorago ok kony gimoro . To koro awuoyo kuom lek gi fweny mane Ruoth omiya .
 47012002	Ang’eyo ja Kristo moro mane oyudhi moter e polo mar adek , higni apar gang’wen mokalo ( Akia kata notere kuno e ringruok kata nodhi gi chunye-Nyasaye ema ong’eyo )
 47012003	Kendo ang’eyo ni ng’atni kata e ringruok kata ok e ringrouk nodhiyo kuro , ( ok ang’eyo-Nyasaye ema ong’eyo )
 47012004	motere nyaka e paradiso . Kuno nowinjoe weche malich ma ok oyiene dhano losoe .
@@ -9412,7 +9412,7 @@
 58004004	Nikech owuoyo kuom odiechieng’ mar abiriyo kamachielo kowacho ni , " To e odiechieng’ mar abiriyo Nyasaye noyweyo kuom tijene duto . "
 58004005	To waseneno bende e Ndiko motelo ka Nyasaye wacho ni , " Ok ginidonji e yweyona ngang’ . "
 58004006	Kata obedo ni joma noyalnegi Injili mokwongo ne ok odonjo e yweyo mar Nyasaye nikech tok teko , thuolo pod nitie mondo jomoko odonji e yweyono .
-58004007	Omiyo osechano thuolo machielo moluongo ni v Kawuono , ma en e odiechien-gono mane owuoyo kuome bang’e achien gi dho Daudi , mana kaka waseneno motelo , ni : " Kuwinjo dwonde kawuono to kik chunyu bed matek . "
+58004007	Omiyo osechano thuolo machielo moluongo ni Kawuono , ma en e odiechien-gono mane owuoyo kuome bang’e achien gi dho Daudi , mana kaka waseneno motelo , ni : " Kuwinjo dwonde kawuono to kik chunyu bed matek . "
 58004008	Nikech ka dinebed ni Joshua ne nyalo miyogi yweyo , to Nyasaye ok dine owuoyo bang’e kuom odiechieng’ machielo .
 58004009	Kuom mano , odiechieng ywero mar Sabato pod nitie ne jo Nyasaye ;
 58004010	nikech ng’ato ang’ata madonjo e yweyo mar Nyasaye nyaka ywe e tijene , mana kaka Nyasaye bende noyweyo e tijege .
@@ -9604,7 +9604,7 @@
 58011038	jogi ne joma beyo gilala mane ok giwinjore dak e pinyni , Ne gibayo abaya e thimbe gi gode ka gidak e bwo lwendni gi buche .
 58011039	Giduto Nyasaye noyie kodgi nikech yie mane gin-go . Kata kamano onge ng’ato kata achiel kuomgi ma noyudo gima Nyasaye nose singo negi .
 58011040	Nikech Nyasaye nochanonwa gima ber moloy ) ; mondo oketwa kare mana ka wan kaachiel kodgi .
-58012001	Nikech oganda maduong’ mar w joneno opie molworowa ka ng’iy-owa , wawituru gimoro amora mwating’o manyalo duodowae wuoth , kod richo mora amora e ngimawa manyalo gajowa , kendo waringuru matek maok waol e ng’wech moketwae .
+58012001	Nikech oganda maduong’ mar joneno opie molworowa ka ng’iy-owa , wawituru gimoro amora mwating’o manyalo duodowae wuoth , kod richo mora amora e ngimawa manyalo gajowa , kendo waringuru matek maok waol e ng’wech moketwae .
 58012002	Wachomuru wang’wa kuom Yesu , ma en jachak kendo jachop yie marwa . Nikech nogeno yudo mor mane oikne ni nonwang’ achien , nochayo tho malit mar msalaba ka ok odewo wichkuot ma tho ma kamano kelo , kendo koro obet piny e bat korachwich mar kom duong’ mar Nyasaye .
 58012003	Paruru kuome , en ma notimo kinda ka joricho kedo kode , mondo kik ujogi mi chunyu aa .
 58012004	E lweny mukedoe mondo ulo richo , pok ukedo mi rembu ool oko .
@@ -9678,7 +9678,7 @@
 59001018	En ema noyiero owuon mondo onyuolwa kokonyore gi wach mar adiera , mondo wabed kaka olemo mokuongo chiek e kind chwechne duto .
 59001019	Jowetena mageno , winjuru wachni malong’o ni : Ji duto onego bed mapiyo e winjo wach , kik urikni e wuoyo kendo kik ubed joma igi wang’ piyo ,
 59001020	nikech ich wang’ ok mi wabed joma kare kaka Nyasaye dwaro ni wabedi .
-59001021	Kuom mano , lonyuru oko kit kethruok gi richo duto , ma kindegi opong’o piny kendo bolreuru kurwako wach mopidhi e chunyu , manyalo konyo u .
+59001021	Kuom mano , lonyuru oko kit kethruok gi richo duto , ma kindegi opong’o piny kendo bolreuru kurwako wach mopidhi e chunyu , manyalo konyou .
 59001022	To kik uchik mana itu ni winjo wach , kende nono to uwuondoru kendu uwegi . Timuru gima Wach puonjo .
 59001023	Ng’ato ang’ata ma winjo awinja wach to ok tim gima wach owacho , chalo gi ng’ama ng’iyo lenda wang’e e rang’i ,
 59001024	to bang’ koseng’iyore maber to owuok odhi adhiya mi wiye wil gi kite sanosano .
@@ -9988,7 +9988,7 @@
 62003015	Ng’ama osin gi owadgi en janek , to ung’eyo ni janek onge gi ngima mochwere
 62003016	Ma e kaka wang’eyo gima hera en ; Kristo nochiwonwa ngimane . Wan bende onego wachiw ngimawa ni owetewa .
 62003017	Ka ng’ato jamoko to oneno owadgi kochando to ok okeche , ere kaka ng’ama kamano nyalo wacho ni en gi hera mar Nyasaye ?
-62003018	Nyithinda mageno kik wawach mana gi dhowa ni wahero j i , to waher ji gi tim kendo gi adiera .
+62003018	Nyithinda mageno kik wawach mana gi dhowa ni wahero ji , to waher ji gi tim kendo gi adiera .
 62003019	Mano e yo mwa ng’eyogo ni wachung’ e adiera , kendo mabiro miyo chunywa bed gi chir e nyim Nyasaye
 62003020	saa moro amor a ma chunywa ng’adonwa bura . Nimar Nyasaye duong’ moloyo chunywa , kendo ong’eyo gik moko duto .
 62003021	Omiyo , osiepega mageno , ka chunywa ok ng’adnwa bura to wan gi chir e nyim Nyasaye .

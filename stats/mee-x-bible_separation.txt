@@ -1,3 +1,0 @@
-,     39      3  True U+002c COMMA
-.      5      0  True U+002e FULL STOP
-—      3      0  True U+2014 EM DASH
