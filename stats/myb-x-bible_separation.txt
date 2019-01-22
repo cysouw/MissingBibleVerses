@@ -1,3 +1,0 @@
-'      0   1152 False U+0027 APOSTROPHE
-,      4      0  True U+002c COMMA
-:      1      0  True U+003a COLON
