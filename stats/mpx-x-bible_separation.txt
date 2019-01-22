@@ -1,4 +1,0 @@
-(      1      0  True U+0028 LEFT PARENTHESIS
-)      1      0  True U+0029 RIGHT PARENTHESIS
-.      2      0  True U+002e FULL STOP
-“      1      0  True U+201c LEFT DOUBLE QUOTATION MARK
