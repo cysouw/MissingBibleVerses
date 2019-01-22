@@ -1,5 +1,0 @@
-'    992  17784 False U+0027 APOSTROPHE
-,      4      2  True U+002c COMMA
-.      0      1 False U+002e FULL STOP
-‘      1      0  True U+2018 LEFT SINGLE QUOTATION MARK
-“      1      2  True U+201c LEFT DOUBLE QUOTATION MARK
