@@ -722,7 +722,7 @@
 40021028	Yesu i baha meme uyahihi i pa , ‘ Apo lawa natunatuna ololotohi luwaga , ma tutuwoga i paliweleya i pa , “ Natuwe , amalai apo una nae hoi tano una bagibagiyeya ” .
 40021029	Ma i luhinigigai , ma tamogi muliyei i nugobui po i nae i bagibagi .
 40021030	‘ Ma natuna habuluna i paliweleya i pa , “ Natuwe , una nae hoi tano una bagibagi ” , ma natuna habuluna i pa , “ Ee , i haki apo a nae ” , ma tamogi ega ita nae .
-40021031	‘ Hai luwagahi iyai amahi a nugotuhu i wiponawogogeya ? ’ Ma tauhi hi baha hi pa , ‘ Tutuwoga ’ . Ega yaka Yesu i baha nae uyahihi i pa , ‘ A baha duma uyahimi tauhi tu apapoe po tauhi t matamaga wiwinehi apo hina lui Yaubada anani taniwaga uyahina , ma taumi apega ona lui .
+40021031	‘ Hai luwagahi iyai amahi a nugotuhu i wiponawogogeya ? ’ Ma tauhi hi baha hi pa , ‘ Tutuwoga ’ . Ega yaka Yesu i baha nae uyahihi i pa , ‘ A baha duma uyahimi tauhi tu apapoe po tauhi tu matamaga wiwinehi apo hina lui Yaubada anani taniwaga uyahina , ma taumi apega ona lui .
 40021032	Yoni lolowa tahaya dumadumaluna i atatiyemi , ma ega ota witumaganeya , ma takisi tu tama po tu matamaga wiwinehi hi witumaganeya po hai witumagana o gagalehi ma taumi ega kikina ota witumagana po ota nugobui .
 40021033	‘ Paliluwaluwa gehouna tano taniwagana binei ona nonoli . Tano taniwagana gologolowa ugona uyahina wine he dewadewaya i lupehiyeya , ma gali i dewaya po i wiwila , ma wine pihagana i dewaya , ma gasi tanona u hinena ani luwiyau numana i wogoya , ma tu galena itete hai ututu i lawi ma i nehalehi po i nae bala daodaona .
 40021034	Ma wine i ugo po i magula , ma houga omlohina hougana a hewahewali i himilihi po hi nae ipa ugona tupona hina welehi .
@@ -1013,7 +1013,7 @@
 40027017	Ega yaka lawa boluhi hi'mboina mai Pilato uyahina ma Pilato i lubayadehi i pa , ‘ Lawa awai o luhogaleya apo a lupena haleya hoi , Balaba bo Yesu hi igowaya Besinana lawana ? ’
 40027018	Pilato hai matababana amaka i hanapugeya , Yesu hi'mgenagenaliliyeya yaka hi numa panipani po ipa hina lihilageni .
 40027019	Noka hougana Pilato yohola luhetala i noonoli , ma agona baha i himili uyahina i pa , ‘ Naka lawana uyahina ega awai una dewadewaya , tauna lawa dumadumaluna , babana uguwei a luboniyeya po a matouta duma ’ .
-40027020	Hi ibaabani ma tu witalaguyaba babadahi po mi Yudeya hai tanitaniwaga lawa hi lihunahi po Pilato uyahina hi bahabaha gawata , ipa Balaba ina hoe haleya m Yesu hina lihilageni .
+40027020	Hi ibaabani ma tu witalaguyaba babadahi po mi Yudeya hai tanitaniwaga lawa hi lihunahi po Pilato uyahina hi bahabaha gawata , ipa Balaba ina hoe haleya ma Yesu hina lihilageni .
 40027021	Ega yaka Pilota i lubayadehi i pa , ‘ Hai luwaga , ma iyai o luhogaleya apo a lupena haleya bimiyei ? ’ Ma hi baha hi pa , ‘ Balaba ’ .
 40027022	Ma Pilato i lubayadehi i pa , ‘ Yesu hi igowaya Besinana lawana iyowai apo a dewaya ? ’ Ma lawa atapuhi hi otu labatana hi pa , ‘ Una witakeya ! ’
 40027023	Ega yaka Pilato i lubayadena mehi i pa , ‘ Ma powa awai i dewaya ? ’ Ma hi otu labatana hi pa , ‘ Ona witakeya ! ’
