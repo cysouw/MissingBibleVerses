@@ -257,7 +257,7 @@
 01010011	Pwen itali Papilon pe iya Assiriya pe imangsani hu kol namandran iye kene : Niniweh , Rehopot-Ir , Kalah ,
 01010012	iyapolo Resen ara , ita mwalinga Niniweh pe mwalinga kol namandran Kalah .
 01010013	Hu noru Misrayim ara hu ndramat para Litiya , Anam , Lehap , Naptu ,
-01010014	pe iyapolo Patrus , Kasluh , pe hu para Kaptor . ( Hu ndramat para Pilistiya ara husarayah ndrayehu Kasluh.)
+01010014	pe iyapolo Patrus , Kasluh , pe hu para Kaptor . ( Hu ndramat para Pilistiya ara husarayah ndrayehu Kasluh . )
 01010015	Kanaan ara iyki norun ndrihou ngalan Siton . Pe Kanaan ara tumbuhu Hit ,
 01010016	hu Yepus , hu Amor , hu Kirkas ,
 01010017	iyapolo hu Hiwi , hu Ark , hu Sini ,
@@ -1405,17 +1405,17 @@
 01046007	Yiy iwiri norun hu kamai pe pihin , iyapolo tumbun hu kamai pe pihin masikene pe hu masih huyau .
 01046008	Iye ara ngala noru Yisrayel hu masikene mepo huyasura yiy pe huya Yisip ( Yakop iyasura norun hu ) : Ndrihou ta Yakop ara Rupen .
 01046009	Pe noru Rupen hu kamai , ngalahu ara iye : Hanok , Pallu , Hesron pe Karmi .
-01046010	Pe noru Simeyon hu kamai , ngalahu ara iye:Yemuwel , Yamin , Ohat , Yakin , Sohar , pe Sawul — yiy ara noru pihi Kanaan hamou .
+01046010	Pe noru Simeyon hu kamai , ngalahu ara iye : Yemuwel , Yamin , Ohat , Yakin , Sohar , pe Sawul — yiy ara noru pihi Kanaan hamou .
 01046011	Pe noru Lepi hu kamai , ngalahu ara iye : Kerson , Kohat , pe Merari .
 01046012	Pe noru Yutah hu kamai , ngalahu ara iye : Er , Onan , Selah , Peres pe Serah , ( hapeko Er pe Onan ara hilu kanmat irondron kol Kanaan . Pe ngala noru Peres hilu kamai , ngala hilu ara iye : Hesron pe Hamul .
 01046013	Pe noru Yissakar hu kamai , ngalahu ara iye : Tola , Puwah , Yasup , pe Simron .
 01046014	Pe noru Sepulun hu kamai , ngalahu ara iye : Seret , Elon pe Yahleel .
-01046015	Ariya kene ara ngala noru Yakop hu mwaniye husarayah iro kili Leyah mepo ikuni hu irondron kol Pattan Aram . Pe Leyah ara ikuni mbunah hamou pihin i , ngalan Tainah . Pwen pe noru Yakop hu pe tumbun hu masih husarayah kili Leyah ara , ndromweyahu masikene iyawule ara tingui pe timou ( 33).
+01046015	Ariya kene ara ngala noru Yakop hu mwaniye husarayah iro kili Leyah mepo ikuni hu irondron kol Pattan Aram . Pe Leyah ara ikuni mbunah hamou pihin i , ngalan Tainah . Pwen pe noru Yakop hu pe tumbun hu masih husarayah kili Leyah ara , ndromweyahu masikene iyawule ara tingui pe timou ( 33 ) .
 01046016	Pe noru Kat hu kamai ngalahu ara iye : Sepon , Hakki , Suni , Espon , Eri , Aroti pe Areli .
 01046017	Pe noru Aser hu kamai , ngalahu ara iye : Yimnah , Yispah , Yispi pe Periyah , pe pisuhu ara Serah . Pe noru Periyah hilu kamai , ngala hilu ara iye : Heper pe Malkiyel .
-01046018	Ariya kene ara ngala noru Yakop hu pe tumbun hu masih husarayah iro kili Silpah mepo Lepan iykiy iya kili norun Leyah . Ndromweyahu masih iyawule ara songui pe anomou ( 16).
+01046018	Ariya kene ara ngala noru Yakop hu pe tumbun hu masih husarayah iro kili Silpah mepo Lepan iykiy iya kili norun Leyah . Ndromweyahu masih iyawule ara songui pe anomou ( 16 ) .
 01046019	Pe noru Yakop hilu hilsarayah iro kili nambuyun Rahel ngala hilu ara iye : Yosep pe Penyamin .
-01046020	Yosep ara iro Yisip pe iwiri Asenat SuPotipera pe iyki Manasseh hilu Eparayim . ( Potipera ara yiy hamou pris para kol Heliyopolis.)
+01046020	Yosep ara iro Yisip pe iwiri Asenat SuPotipera pe iyki Manasseh hilu Eparayim . ( Potipera ara yiy hamou pris para kol Heliyopolis . )
 01046021	Pe noru Penyamin hu kamai , ngalahu ara iye : Pela , Peker , Aspel , Kera , Naaman , Ehi , Ros , Muppim , Huppim , pe Art .
 01046022	Ariya kene ara ngala noru Yakop hu pe tumbun hu masih husarayah iro kili Rahel . Ndromweyahu masih iyawule ara songui pe haamou ( 14 ) .
 01046023	Pe noru Tan kamai , ngalan ara iye : Husim .
