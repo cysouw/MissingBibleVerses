@@ -101,7 +101,7 @@
 40002021	Medush azhe onishkât , ototâpenán uhbenocheun giya ogene , medush azhe máchát ennuhkunkakummik Israel .
 40002022	Nuândágat dush Archelaus ogemáwit Judeaink nábishkowât andánit Herodun oasun , kotáje we-ezhát emá , gá enâbundunkdush gebowânnát Kitche Manitōn azhe gōshquatát shezhát Gallileeink .
 40002023	Be-ehát betunnukkeet otanonk ezhenekáta Nazareth me chetabwâwinnewunk gá ekettowât manitowâzojig , guhtuhezhenekâzo Nazarene .
-40003001	On o gezhigutōn tukoshin John Baptist beguggequat buggwuttuhkummigáng Judeaink ,
+40003001	Ono gezhigutōn tukoshin John Baptist beguggequat buggwuttuhkummigáng Judeaink ,
 40003002	Ekettōnk , ánwanindizōk : Kitche Manito otogemáwewin bazhew tuhgoo .
 40003003	Me ow gátepájemint odikitowin manìtowâzot Esaias ekettōnk , inwawin ázhequang buggwuttikummigáng quiuk omotoeuk Kitche Manito omikkunnuh .
 40003004	Mego uhow John okonâssun kitche áwase obewyun ōnje oshichegâtanewun giya pusquagunne kitchepezoon kachepezoot , májit uhtissáwiasheun amwâjin , giya ámo seenzebáquut .
@@ -726,15 +726,15 @@
 40020023	Jesusdush otinnân , keguhmenequâcheganâwâ manequâchegayán menequâchegun , keguh baptizemigōmdush ga ezhe baptizemigōyán , o-o edush , che námáttábeyag neengitchenikâng giya neennuhmunjenikâng , kâ neendá ezhe megewase , tuh menitimdush weenigo ánuhwe uhgew gázhetowâjig nōsun .
 40020024	Metachejig nondumowât onishkâtezetowwâwân uhnew názho wâkânisindenidjin .
 40020025	Jesusdush nōndunk , eketto , kekekandám ogemág miátáwizidjig ishpebugitinummowân weowewân .
-40020026	Kaween keenowâ tuh izzhewabusinōn , owwagwandush owushema ga apetandummogwan weow , keguh pemetágowâ , owwagwandush ga ogemakâzogwan tuh unnoketága.
+40020026	Kaween keenowâ tuh izzhewabusinōn , owwagwandush owushema ga apetandummogwan weow , keguh pemetágowâ , owwagwandush ga ogemakâzogwan tuh unnoketága .
 40020027	
-40020028	Mego eu aninne oguisun kâween bekitche ogemákâzose unishigo koshá be unnoketágat , che megewâtdush obemátizewin che we nojemoát nebená.
-40020029	Nagutumowât Jerichoink kitche nebená anishanâban onopenuhnigowân.
-40020030	Binnádush , neezh kagebeengwajig aninewug cheegekuhnuh námátábewug , nōndumowâtdush Jesus bamosanit , ázhequawug ekettowug , neendogemám David oguisun shâwanemeshinâng.
-40020031	Kokkinnádush anishanâbag ; onishkâzomigowân , pezán ábig otigowân , owushemadush anegōk ázhequawug Neendogemám David oguisun shâwanemeshinâng.
-40020032	Jesusdush nōgegâbowe oguhnonán otinân , wagonan gatotonuhgōk?
-40020033	Otináwân , Neendogemám , tōskâbenishenâng neenskezhigonanin.
-40020034	Jesusdush ogeshâwanemán , otângenumowân oskezhigowân , bâbegadush oskezhigowân gewâbewug , onopenuhnáwândush.
+40020028	Mego eu aninne oguisun kâween bekitche ogemákâzose unishigo koshá be unnoketágat , che megewâtdush obemátizewin che we nojemoát nebená .
+40020029	Nagutumowât Jerichoink kitche nebená anishanâban onopenuhnigowân .
+40020030	Binnádush , neezh kagebeengwajig aninewug cheegekuhnuh námátábewug , nōndumowâtdush Jesus bamosanit , ázhequawug ekettowug , neendogemám David oguisun shâwanemeshinâng .
+40020031	Kokkinnádush anishanâbag ; onishkâzomigowân , pezán ábig otigowân , owushemadush anegōk ázhequawug Neendogemám David oguisun shâwanemeshinâng .
+40020032	Jesusdush nōgegâbowe oguhnonán otinân , wagonan gatotonuhgōk ?
+40020033	Otináwân , Neendogemám , tōskâbenishenâng neenskezhigonanin .
+40020034	Jesusdush ogeshâwanemán , otângenumowân oskezhigowân , bâbegadush oskezhigowân gewâbewug , onopenuhnáwândush .
 40021001	Bowotittumowaut bazhew Jerusalemink , Bethphajink wudjewink Olivet , Jesus otezheuhnonán neezh otoskenegamun .
 40021002	Otinândush otanōng ezhág , quiuk anosumegâboweyaig , bâbegadush bazhekokshe keguh mikkowwâ , che tuhkobezōt , mánezheensundush mámowy , ábuhuh , betowweshin .
 40021003	Kishpin oweuh anine ningotono enik , ezhe , ogemá onundomán bâbegadush oguh be-ezhe názhowân .
@@ -861,7 +861,7 @@
 40023032	Mooshkenatōg kōsewâg otepiegunewâ .
 40023033	Kegenabekowim , kemutchegenabekotawizzim áneen ga ezhe getishkekumag mutche ishkota obánáje-ewawin ?
 40023034	Binná ketezhenázhuhmonim manitowâzojig , giya nebwâkâweninnewug giya oshebe-egaweninnewug , ánintdush keguh nesáwâg , keguh sussuhgáquowâgdush metigōnk , ánint keguh buhshunzhawâwâg uhnummeawegummigōnk giya áyagâmotanuh keguh ezhenázhowâwâg .
-40023035	Kokkinná misque keguhotissigonâwâ , manobemátizzidjig nasinjig , omisquemewân , manobemátizzi t Abel omisqueemōnje , nánazh Zacharias , Barachias oguisun omisqueem , ween gá nesag missowiuhe kitche uhnummeawegummik giya sáságewitchegun kozhuttag .
+40023035	Kokkinná misque keguhotissigonâwâ , manobemátizzidjig nasinjig , omisquemewân , manobemátizzit Abel omisqueemōnje , nánazh Zacharias , Barachias oguisun omisqueem , ween gá nesag missowiuhe kitche uhnummeawegummik giya sáságewitchegun kozhuttag .
 40023036	Ketenenimdush kokkinná ono tuhmokishkâwun nōngum bemátizzinik .
 40023037	Oh Jerusalem , Jerusalem ! gá nesájig manitowâzōnidjin kebemosináágdush azhenazhuhmágoyumbuneeg : nebená tussink neendánuhwemowōnjeág kenejânisng pekááquouh azhe mowōnjeát onejânisun anámeningwegun kâdush kege enanduhzeem .
 40023038	Binná kewegewam kenuhguttumágōm bezhishegwuttag .
@@ -903,7 +903,7 @@
 40024035	Gezhik giya áke tuhmájámuggut , neendikittowindush kâ tuh májámuggussinōn .
 40024036	Euedush gezhigut , euedush tepiegun kâ oweuh aninne okekanduhzeen ; mezhinowamundush gezhigōnk kâ ōkekanduhzeenâwâ ; meatuh nōs .
 40024037	Tibbishko gá izzhewabuk Noe ogezhigutomun , mego ga ezhewabuk ono gezhigutōn aninne oguisun tuhkoshink .
-40024038	Ono gezhigutōn uhbwâ mooshkuhunk áke , gewesenewug , geminnequawug , gewetegandewug gemenittewug wetegandewinnink , nánazh e e gezhigut Noe ogebōzit kitche nábequânink .
+40024038	Ono gezhigutōn uhbwâ mooshkuhunk áke , gewesenewug , geminnequawug , gewetegandewug gemenittewug wetegandewinnink , nánazh eke gezhigut Noe ogebōzit kitche nábequânink .
 40024039	Kâdush ogekekanduhzeenáwâ , pánemá kokkinná wiabábokowât ; mego galzzhewabuk aninne oguisun ope tuhkoshink .
 40024040	Neezh ketegânink ga iájig , bazhek tuh otâpená , bazhek tuh ishkonnâ .
 40024041	Neezh equawug che besebochegawát , bazhek tuh otâpená , bazhek tuh ishkooná .
@@ -2979,7 +2979,7 @@
 43001024	Wanoninjigdush ánint Phariseeug .
 43001025	Okuhquájemáwândush , otinnáwândush wagonan wanje baptizewayun kishpin Christ wiáwissewunnan , giya Elias , giya mamándáwizzit wiáwissewunan .
 43001026	Johndush oguhnonán , ekettōnk , nebe nebaptizewa , owe uhdush kewejegâbowittágowâ , kâ kekanemásewâ .
-43001027	Ween buhnopenuzzhit , owushema apetandágooze : k neenda apetandágoozisse kunága cheábuhumowugebun omuhkizzenun .
+43001027	Ween buhnopenuzzhit , owushema apetandágooze : kâ neenda apetandágoozisse kunága cheábuhumowugebun omuhkizzenun .
 43001028	Ono iuheen , Bethabaraink , getuzzhe izzhewabutōn , áwâs ewada Jordan ; John gá tuzzhe baptizewat .
 43001029	Wiábuninikdush , John owábundán Jesusun , obeotissigoot , ekettodush , binná Kitche Manito omanishtânishansemun , akoonunk mutche izzhewabizzewin ákeeng .
 43001030	Me wuhow , gá enug , aninne buhnopenuzzhit , kitche wâsâ owushema apetandágooze apetandágoozeyán , ōnje gâgineek owushema apetandágooze .
@@ -5229,7 +5229,7 @@
 45015015	Kâween nōndás , nekânissetōk , kege oshebeumonim nowatch kesheguhnoninuhgook , owwe ōmbwa-andumonuhgook kenáguttuhwandumowinewâ e-e shâwandágoozewin ōnje Kitche Manito gá mezhit .
 45015016	Onje neendá guhgequa che guhgekemugwâ miátáwizzidig Jesus Christ ōnje , unnoketowwint Kitche Manito omeenwâemowin ; konemá Kitche Manito otá otâpenán miátáwizzidjig sáságewitchegawinewâ , ge benechegâzowug Kitche Manito Ochichâgwun ōnje .
 45015017	Kago neendián ga ōnje , kitchetwâwanemoyámbán Jesus Christ ōnje magwa ono iuheen Kitche Manito tiabwa-andunin .
-45015018	Neenguh shâgwanim che tuhzhindumán ono iuheen Christ â neenge ōnje enuhnokese quiuk keche ōnje izzhewabizzeât miátáwizzidjig .
+45015018	Neenguh shâgwanim che tuhzhindumán ono iuheen Christ kâ neenge ōnje enuhnokese quiuk keche ōnje izzhewabizzeât miátáwizzidjig .
 45015019	Kitche uhnokewinun kitche mámuhkâtuhkumik ōnje Kitche Manito Ochichâgwun omushkâwizzewin ōnje , me eu Jerusalemink gewetáiuhedush nánázh Illyricumink , wawane membabáguhgequa Christ omeenwâjemowin .
 45015020	Kagat neenge wekoocheton che guhgequayán meenwâjemowin kâween emá Christ otuhnozowin uzzhuttanik ōnje kâween neendá ágweto-ozhegase bakânizzit aninne ozhegat .
 45015021	Azhebe-egâtagigo , uhgewedush gá nonduhzigook oguh nissetotumōg .
@@ -5735,7 +5735,7 @@
 47001024	Kâween eu ōnje , uhtebandumán , kemushkâwandumowinewâ , ōnjedush kenezhokumoneme , che mennowânegoozeyag : mushkâwandumowin ōnje , ketōnje nebowwim .
 47002001	Neengewuhwanandum , minowâ che beotisinonuhgook ope che kushkandumán .
 47002002	Kishpin kushkandumeinnuhgook , owwanan neen , ga mennowânegwandumeit ; meatuh uhgew kashkandumeinjig neen ōnje ?
-47002003	Mego o-o oshebeumonuhgook ope beotissinuhgook , kâ neenguh ōnje kushkanduhze uhgew ga ge ōnje mennowânegoozeyámbán , ōnje , me o o , ananeminuhgook nemennowânegoozewin , me giya keenowâ kemennowânegoozewinewâ .
+47002003	Mego o-o oshebeumonuhgook ope beotissinuhgook , kâ neenguh ōnje kushkanduhze uhgew ga ge ōnje mennowânegoozeyámbán , ōnje , me ono , ananeminuhgook nemennowânegoozewin , me giya keenowâ kemennowânegoozewinewâ .
 47002004	Magwouh kushkandumisink , neendáge oshebeumonim gegizzebeeng , kâween ween che onje osittáwandumag , che kekandumung koshá azhe sâgeinuhgook .
 47002005	Kishpin oweuh kushkandumeint , kâween neen neengekushkandumeiggoose , ánint atuh ōnje megooshkâcheisinonuhgook ozâm .
 47002006	Wuhow towuh aninne , enandágwuttinne keche ōnje kotuhgeint nebewá ōnje .
@@ -7405,7 +7405,7 @@
 61001015	Minowâdush neenguh wekoochetōn keche we kushketoeyag ope ge neboeyán , gâgineek che kunwandumag ono iuheen .
 61001016	Kâween neenge nopenuttunzemin kuhgianizze ádissokânug , ope kakandumoninág Kekitche Manitomenán Jesus Christ omushkâwizzewin otuhkoshinowin , kege wâbundámin tebinowa keskezhigonán ogitchetwáwizzewin .
 61001017	Oge otissigōn kitchetwáwizzewin bisshegandágoozewin Kitche Manitōng ōnje , ope watisigōt tinnouh gegetowin kitche kitchetwâwizzewinink , me uhow siágeug Neenguis , ween ápiche nemeenwandum .
-61001018	O-o ekettowin gezhigōnk wanjemuhguk nenōndámin , magwouh uhwejewungid emá e e Kitche Manito owudjewimink .
+61001018	O-o ekettowin gezhigōnk wanjemuhguk nenōndámin , magwouh uhwejewungid emá eke Kitche Manito owudjewimink .
 61001019	Ketiámindush owushema quiuk ekettowin ōnwâchegawin ; enandágwut keche ukkowâbundumunk tebishko wâsayá siágátagin kushkedibikutōnk nánázh gezhigut che máje wâsayág , giya wâbun uhnung mokuhunk ketaewâng .
 61001020	Kekandumōk o-o netam , kâ kago ōnwâchegawin azhebeegâtag mazaniegunink , gemōch ánekuhnotunzeeng .
 61001021	Onwâchegawin getuhkoshinomuhgut kiut kâween aninne otenandumowin ōnje ; manoizzhewabizzidjig Kitche Manito oteninnemun , Kitche Manito Ochichâgwun azhe guhgekimigowâtigo ge iekettowug .
@@ -7981,7 +7981,7 @@
 66021016	Newink ezhe usshowayá , eu otanuh , mego aquâg giya anegōk otayág , otebáán e-e otanuh e-e suhkáoon metoswa ussheneezh tusso metoswâk tuswa tebiegânsun aquág giya anegokotayág , giya anishpág , mego tebishko .
 66021017	Otebáán e-e owwâkiegunewung , ningōtwâk usshe nemetunná usshe newin tussotosquun tebishko aninne azhe tebiegat , me eu mezhinowa .
 66021018	Eu wâkiegun wanje ozhichegâtag jasper eu gá wâkiegunekang , bizzhisshik ozâwâ shoneá eu otanuh , tebishkogo bánuk wâsachegunábekōnk azhenágwut .
-66021019	Anámiuhe eu wâkiegun e e otanuh muhmuzzenitchegâta uhnōch azhenágwuk sanegukin uhsineen , netam eu gá ozhisitóng jasper ; wiánekasink , sapphire ; akonissink , chalcedony ; akonewmk , emerald ;
+66021019	Anámiuhe eu wâkiegun eke otanuh muhmuzzenitchegâta uhnōch azhenágwuk sanegukin uhsineen , netam eu gá ozhisitóng jasper ; wiánekasink , sapphire ; akonissink , chalcedony ; akonewmk , emerald ;
 66021020	Ako nánunne , sardonyx ; ako ningōtwâchink , sardius ; ako neezhwâchink , chrysolyte ; ako niswâchink , beryl ; ako shângutchink , topaz ; ako metáchink chrysoprasus ; ako usshe bazhekōnk , jacinth ; ako ussheneezhink , amethyst .
 66021021	Ussheneezh squândamun , ussheneezh megissug andusink squândamun babazhek megis iá , mikundush eu otanuh bizzhisshik ozáwâ shoneá tebishko bánuk wâsáchegunâbeek azhenágwuk .
 66021022	Kâ kago uhnumeawegumik newâbunduhzeen keche iág , ōnje ween Kitche Manito Kache Apetandágwut , giya Mánishtânishans me uhnumeawegumigowunk .

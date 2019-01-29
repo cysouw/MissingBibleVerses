@@ -1,5 +1,0 @@
-'     20    198 False U+0027 APOSTROPHE
-,     11      5  True U+002c COMMA
-.      1      6 False U+002e FULL STOP
-;      1      0  True U+003b SEMICOLON
-?      0      1 False U+003f QUESTION MARK
