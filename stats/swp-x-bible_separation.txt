@@ -1,3 +1,0 @@
-;     32      7  True U+003b SEMICOLON
-―      2      0  True U+2015 HORIZONTAL BAR
-’     94      5  True U+2019 RIGHT SINGLE QUOTATION MARK
