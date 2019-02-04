@@ -624,7 +624,7 @@
 40015004	Thangwi Mulungu adatonga mbati , ' Lemedza babako na mako , ' pontho ' Munthu anatemberera babache na mache athema kuphiwa . '
 40015005	Mbwenye imwe mumbafunzisa kuti ngakhala munthu ana chinthu anakwanisa kuphedzera nacho babache na mache , mbwenye iye ambalonga kuti , ' Penepi mphya Mulungu . '
 40015006	Tenepo iye nkhabe funika kulemedza babache . Pakuchita tenepo , mumbalulupisa mwambo wa Mulungu towera muteweze mitemo yanu . 
-40015007	Imwe mfakafaka ! Mprofeti Yesaya adalonga pyakuonadi pidalonga iye pya imwe kuti , " ' 15.6 babache : pyakulembwa pinango pyakale muna babache , penu mache . 
+40015007	Imwe mfakafaka ! Mprofeti Yesaya adalonga pyakuonadi pidalonga iye pya imwe kuti , "
 40015008	' Mulungu adalonga kuti : Anthuwa ambandilemedza na m'kanwa mwawo mwene basi , mbwenye mitimawo ili kutalidi na ine . 
 40015009	Kundipembedza kwawo nkhwapezipezi , thangwi iwo ambafunzisa matongero akusasanywa na anthu khala ninga asasanywa na Mulungu . ' "
 40015010	Tenepo Yesu adachemera mwinji kuna iye mbalonga nawo mbati , " Vesereni kuno , pontho muvese mwadidi , 
@@ -823,7 +823,7 @@
 40021012	Yesu adakapita m'Nyumba ya Mulungu mbakabulusa kunja onsene ale akhagula na kugulisa malonda mwenemo . Iye adagadabula matebulu a anyakuchinja kobiri na mipando ya ale akhagulisa nkhangaiwa , 
 40021013	mbalonga kuna iwo mbati , " Pyalembwa m'Malemba kuti Mulungu adalonga mbati , ' Nyumbanga inadzachemerwa nyumba yakupemphereramo . ' Mbwenye imwe mwaisanduza dzimba yakubisaliramo zimbava ! "
 40021014	Maboliboli na anyakulamala adadza kuna iye m'Nyumba ya Mulungu mule , tenepo iye adaawangisa . 
-40021015	Anyansembe akulu na afunzisi a mwambo adazhangali na pidaona iwo pinthu pyakudodomesa pikhachita iye , pontho kuti ana akhakhuwa m'Nyumba ya Mulungu mule mbati , " Lemedzwani Mwana Davite ! " »
+40021015	Anyansembe akulu na afunzisi a mwambo adazhangali na pidaona iwo pinthu pyakudodomesa pikhachita iye , pontho kuti ana akhakhuwa m'Nyumba ya Mulungu mule mbati , " Lemedzwani Mwana Davite ! "
 40021016	Natenepo iwo adavunza Yesu mbati , " Ayi iwe ukuva pinalonga anawa ? " Yesu adatawira mbati , " Ande , ndikupiva . Kani imwe chipo mudzati mwawerenga tayu malemba akulonga kuti , ' Imwe mwafunzisa ana na akachiya ene kukulemedzani mwadidi ? ' "
 40021017	Tenepo Yesu adaasiya mbaenda pyache kuluwani ya Betania , kudakhala iye mosiku wenewo kule . 
 40021018	Bzobzo mangwana mwache , pikhabwerera Yesu kumzinda kule , adava njala . 
@@ -973,7 +973,7 @@
 40024033	Ntchibodzibodzi , mungadzaona pinthu pyonsenepi , mudzapidziwe kuti Mwana Munthu ali chifupi kudza .
 40024034	Ndikukupangani pyakuonadi kuti pinthu pyonsenepi pinadzachitika anthu ali m'maso lerowa mbadzati kufa . 
 40024035	Thambo na pansi pano pinadzamala , mbwenye mafalanga anadzakhala na mphamvu kwenda na kwenda . 
-40024036	" Nkhabe mbodzi anadziwa kuti nsiku na ora zinafika lini — nee angelo a kudzulu , nee Mwana y ; mbwenye Baba ene basi ndiye ambapidziwa . 
+40024036	" Nkhabe mbodzi anadziwa kuti nsiku na ora zinafika lini — nee angelo a kudzulu , nee Mwana ; mbwenye Baba ene basi ndiye ambapidziwa . 
 40024037	Kudza kwa Mwana Munthu kunadzakhala ninga pidachitika pandzidzi wa Nowa . 
 40024038	Nsiku zenezo , mwenemo madzi makulu akutayikira mbadzati fika , anthu adadya na kumwa pyawo , amuna adasemba , akazimbo adasembwa kufikirana nsiku idapita Nowa m'chimwadiya :
 40024039	mbwenye iwo hadadzindikira tayu pikhachitika pile kufikirana madzi makulu adadza mbadzaakukuludza onsene . Tenepo pinadzakhalambo sasawa Mwana Munthu angadzabwera . 
@@ -1084,7 +1084,7 @@
 40026047	Yesu akhali m'kati kulonga , pidafika Yudasi , mbodzi wa anyakufunza khumi na awiri ale , pabodzi na chimwinji chakuphatira matalasada na pigomba . Iwo akhadatumwa na anyansembe akulu pontho na akuluakulu . 
 40026048	Nyakupereka Yesuyo akhadapangiza mwinji ule chidzindikiro chakuti , " Munthu anamwenyika ine mwakumpsompsonayo ndiye ene anafuna imwe ; mmangeni . "
 40026049	Penepo Yudasi adenderatu kuna Yesu mbakalonga mbati , " Mfunzisi , mtendere mbukhale kuna imwe . " Tenepo adampsompsona . 
-40026050	Yesu adatawira mbati , " Shamwali , chita pyadzera iwe . " b Tenepo iwo adadza mbamphata Yesu mbammanga . 
+40026050	Yesu adatawira mbati , " Shamwali , chita pyadzera iwe . " Tenepo iwo adadza mbamphata Yesu mbammanga . 
 40026051	Mbodzi wa ale akhali na Yesu ale adasolola talasadache mbakhamwadza bitchu wa Nyansembe Wamkulu mbagwandiratu khutu yache . 
 40026052	Yesu adalonga kuna iye mbati , " Bwezera talasadayo m'mbuto mwache , thangwi onsene anamenyana pakuphatisa basa talasada , anadzafambo na talasada . 
 40026053	Kani imwe mukupidziwa tayu kuti ine mbandidakwanisa kuchemera Babanga kuti adze dzandiphedza , iyembo mbadatumiza kabodzi kene gulu ya anyankhondo ya angelo pikwi kupiringana khumi na awiri ?
@@ -1218,7 +1218,7 @@
 41001020	Pidachita Yesu nawo oneni , nkhuachemereratu , iwombo adamsiya babawo Zebedeo pabodzi na anyabasache m'mwadiya mule mbamtewera Yesu . 
 41001021	Yesu na anyakufunzache adafika kuluwani ya Kafaranao . Tenepo pa Nsiku Yakupuma , Yesu adenda kunyumba yakupempherera mbatoma kufunzisa . 
 41001022	Anthu adamvawo adadodoma pyakwanga na miunzisiro wachewo , thangwi iye hakhakhala ninga afunzisi a mwambo wa Mose tayu , mbwenye iye adafunzisa ninga mwenechiro utongi . 
-41001023	Ponthoponthopo munthu wakuphatwa na mzimu wakuipa c adadza kunyumba yakupemphererayo mbakhuwa mbati , 
+41001023	Ponthoponthopo munthu wakuphatwa na mzimu wakuipa adadza kunyumba yakupemphererayo mbakhuwa mbati , 
 41001024	" Munafunanji na ife , Yesu wa ku Nazareti ? Ayi imwe mwadza kuno kutivunga ? Ndikukudziwani , ndimwedi Nyakuchena wa Mulungu . "
 41001025	Yesu adatonga mzimu wakuipa ule mbati , " Matama , pontho buluka muna munthuyu . "
 41001026	Mzimu wakuipawo udamgwisa mwamphamvu munthuyo , mbukhuwa pikulu , mbubulukiratu muna iye . 
@@ -1235,7 +1235,7 @@
 41001037	Pidamgumana iwo , adampanga mbati , " Anthu onsene akuyang'anira imwepo . "
 41001038	Mbwenye Yesu adaatawira mbati , " Tathema kwendambo kumidzi inango chifupi na pano nakuti ndikalalikembo kweneko , thangwi penepyo ndiye pidadzera ine . "
 41001039	Tenepo adafambafamba m'Galilea monsene , kulalika m'nyumba zakupemphereramo mbabulusa pontho mizimu yakuipa . 
-41001040	Nyamatanya adadza kuna Yesu mbagodama , mbampempha mbati , " Imwe mungapifuna , munakwanisa kundichenesa . " d i Yesu adava nyambalo e mbafuthula mkono wache mbamphata mtendayo mbalonga mbati , " Ndinapifuna , chena ! " « Kabodzi na kabodzi matanya adambuluka munthu ule , natenepo adacheneratu . 
+41001040	Nyamatanya adadza kuna Yesu mbagodama , mbampempha mbati , " Imwe mungapifuna , munakwanisa kundichenesa . " Yesu adava nyambalo mbafuthula mkono wache mbamphata mtendayo mbalonga mbati , " Ndinapifuna , chena ! " Kabodzi na kabodzi matanya adambuluka munthu ule , natenepo adacheneratu . 
 41001041	
 41001042	
 41001043	Tenepo Yesu adampanga mwakugogomeza mbati , " Ngava , leka kapanga munthu na mbodzi ene penepi . Mbwenye ndokoletu kuna nyansembe kuti akakuone ; nakuti onsene akapidziwe kuti wawangadi , kapereke nsembe zidatonga Mose zile . " Pidamala Yesu kulonga naye , adampanga kuti aendeletu pyache . 
@@ -1424,7 +1424,7 @@
 41006034	Pidatchitha Yesu m'mwadiya , adauona mwinji ukuluwo , tenepo adava nyambalo , thangwi iwo akhali ninga mabira akusowa makabuswa . Penepo adatoma kuafUnzisa pinthu pizinji . 
 41006035	Pikhadoka kunja , anyakufunzache adadza kuna iye mbalonga mbati , " Kunja kwadoka , pontho kuno nkhutsanga . 
 41006036	Agwinyeni anthuwa aende pyawo kumidzi na minda ili chifupiyi nakuti akapigulire okha ene phoso yakuti adye . "
-41006037	Mbwenye Yesu adaatawira mbati , " Imwe maka muapase chakuti adye ! " Iwo adalonga naye mbati , " Ayi munafuna kuti tiende kagula mikate na kobiri za siliva m zakukwana madzana mawiri kuti tidyese anthu onsene wa ? "
+41006037	Mbwenye Yesu adaatawira mbati , " Imwe maka muapase chakuti adye ! " Iwo adalonga naye mbati , " Ayi munafuna kuti tiende kagula mikate na kobiri za siliva zakukwana madzana mawiri kuti tidyese anthu onsene wa ? "
 41006038	Tenepo Yesu adaavunza mbati , " Muna mikate mingasi ? Ndokoni mukayang'ane . " Pidaigumana iwo , adamdziwisa Yesuyo mbati , " Pana mikate mishanu na nsomba ziwiri . "
 41006039	Kubuluka penepo Yesu adapanga anyakufunzache kuti akhazike anthu pansi patsanga iwisi m'magulu . 
 41006040	Natenepo anthu adakhala pansi m'magulumagulu a dzana , anangombo m'magulumagulu a makumashanu . 
@@ -1620,7 +1620,7 @@
 41010052	Yesu adampanga mbati , " Ndoko , chikhulupiro chako chakuwangisa . " Kabodzi kene adakwanisa kuona mbatewera Yesu paulendowo . 
 41011001	Pikhafika iwo chifupi na Yerusalemu , pamaluwani a Betifage na Betania , adafika paphiri ya Olivi . Tenepo Yesu adatuma awiri mwa anyakufunzache , 
 41011002	mbaapanga mbati , " Muende kumidzi ili kutsogolo kwanuyo . Si ndzidzi nkhufika mwenemo , munakagumana mwana bulu hadzati pakirwa na munthu na kalene tayu , amangirirwa na nkhambala . Mukamsudzule mudze naye kuno . 
-41011003	Ngakhala munthu unango anakakuvunzani kuti munachitiranji tenepo , kampangeni kuti Mbuya w anamfuna , mbwenye anati amtumize chinchino . "
+41011003	Ngakhala munthu unango anakakuvunzani kuti munachitiranji tenepo , kampangeni kuti Mbuya anamfuna , mbwenye anati amtumize chinchino . "
 41011004	Iwo adenda mbakagumanadi mwana bulu m'khundukhundu mwa njira , amangirirwa chifupi na msuwo wa nyumba . Pikhamsudzula iwo , 
 41011005	anthu anango penepo adavunza mbati , " Munamsudzuliranji mwana buluyi ? "
 41011006	Iwo adaatawira ninga mudaapangira Yesu mule , natenepo anthu ale adaatawirisa kuti aende pyawo . 
@@ -1650,7 +1650,7 @@
 41011031	Iwo adatoma kupokanyisana okhokha mbati , " Tinalonganji ? Tingalonga kuti udabulukira kuna Mulungu , anati alonge kuti : ' Mudakhonderanji , mphapo , kukhulupira pidalonga Yohani ? '
 41011032	Mbwenye tingalonga kuti , ' Udabulukira kuna munthu . . . ' " Penepa akhagopa anthu , thangwi onsene akhapidziwadi kuti Yohani akhali mprofeti . 
 41011033	Natenepo adamtawira Yesu mbati , " Ife nkhabe kupidziwa . " Yesu adalonga kuna iwo mbati , " Inembo sinakupangani tayu utongi una ine wakuchita nawo pinthu penepi . "
-41012001	Yesu adatoma kulonga nawo m'misangani mbati , " Pida1
+41012001	Yesu adatoma kulonga nawo m'misangani mbati , "
 41012002	Pidakwana ndzidzi wakutokota kwa nsapo , mwenechiro munda ule adatuma nyabasache kwenda kuna anyantchoche ale kuti akampasire nsapo . 
 41012003	Mbwenye iwo adamphata nyabasayo mbampamantha , na kumbweza chimanjamanja . 
 41012004	Kubuluka penepo mwenechiro munda ule adatuma nyabasa unango , mbwenye anyantchoche ale adamvanda mumsolo mbamchitira pyakudzedzeduka . 
@@ -1853,7 +1853,7 @@
 42001002	Iwo adalemba pya pinthu pidapangwa ife pile na ale adapiona na maso kutomera pakutoma , pontho na ale adalalika Mphangwa Zadidi . 
 42001003	Na thangwi yakuti ine ndidateweza mwadidi mwene pinthu pyonsenepi kutomera pakutoma , ndapinyerezera kuti mphyadidi kuti ndikulemberenimbo pinthu penepi munyandandanda mwache . 
 42001004	Ndachita tenepa towera mudziwe kuona konsene kwa pinthu pyafunziswa imwe . 
-42001005	Pandzidzi ukhali Herodi mfumu wa Yudea « , pakhali nyansembe dzinache Zakaria , wa m'gulu ya anyansembe ya Abia . Mkazache akhali Elizabeti , iyembo akhali chidzukulu cha Aroni , nyansembe . 
+42001005	Pandzidzi ukhali Herodi mfumu wa Yudea , pakhali nyansembe dzinache Zakaria , wa m'gulu ya anyansembe ya Abia . Mkazache akhali Elizabeti , iyembo akhali chidzukulu cha Aroni , nyansembe . 
 42001006	Uwiriawo akhali akulungama pamaso pa Mulungu mbavera miyambo na matongero a Mulungu mwadidi mwene . 
 42001007	Iwo akhali akusowa ana , thangwi Elizabeti akhali wakuuma nthumbo , pontho iye pabodzi na Zakaria ene akhali akukalamba . 
 42001008	Nsiku ibodzi Zakaria akhaphata basache ninga nyansembe m'Nyumba ya Mulungu , thangwi buswa ya gulu yache ikhadakwana . 
@@ -2226,7 +2226,7 @@
 42008023	Pikhaenda iwo na m'mwadiyawo , Yesu adagona chitulo . Vumbuvumbu chonzi chakugoswa chidagundika panyanzayo . Mwadiya udatoma kudzala madzi mwakuti anthuwo akhali panyatwa ikulu . 
 42008024	Anyakufunza adenda kuna Yesu kamulamusa mbati , " Mbuya , Mbuya ! Tili chifupi kufa ife ! " Yesu adalamuka mbamatamisa mphepo na mabimbiwo . Ipyombo pidalekadi , tenepo pakhali kumatama kukulu . 
 42008025	Kubuluka penepo Yesu adavunza anyakufunza ale mbati , " Chikhulupiro chanu chili kupi ? " Mbwenye iwo adadodoma mbagoswerwa , mbalonga unango na mwanzache mbati , " Weneyu mbani ? Anatonga mphepo na mabimbi ene , ipyombo mbapimveradi ! "
-42008026	Iwo adawambukira kunthemba ya ku Gerasa s ile idayang'anisana na Galilea . 
+42008026	Iwo adawambukira kunthemba ya ku Gerasa ile idayang'anisana na Galilea . 
 42008027	Pidafika Yesu pamtunda , adagumanikana na munthu wa kuluwani yonthoyo wakukhala na mzimu wakuipa . Ndzidzi ukulu iye akhakhala chipezipezi , pontho nkhabe khala m'nyumba tayu , mbwenye akhakhala kumadzimba a masiye . 
 42008028	Pidaona iye Yesu , adalira pikulu mbagwa pansi pamanyalo ache , mbakhuwa mwakugaluza fala mbati , " Imwe Yesu , mwana Mulungu Wakudzuludzulu , munafunanji na ine ? Ndikukupemphani kuti muleke kunditchunyusa ! "
 42008029	Adalonga tenepo thangwi Yesu akhadatonga mzimu wakuipawo kuti ubulukemo muna munthu ule . Kazinji kene ungamphata mzimu wakuipawo , anthu akhammanga na njema manja na miyendo ninga nyaperezo . Mbwenye akhathumula njema , pontho mzimu wakuipa ukhamyendesa kutsanga . 
@@ -2350,7 +2350,7 @@
 42010029	Mbwenye mfunzisi wa mwambo akhafuna apilungamise yekha ene , natenepo adavunza Yesu mbati , " Apo mwanzangacheyo mbani ? "
 42010030	Yesu adamtawira mbati , " Pidachitwa na munthu unango ule akhatchithira kwenda kuluwani ya Yeriko kubulukira ku Yerusalemu . Iye adaphatwa na mapanga panjira . Iwo adamdulisa nguwo , adammenya , mbamsiya akomoka . 
 42010031	Pidachitika kuti nyansembe akhagwanda na njira yonthoyo . Mbwenye pidaona iye munthu ule adachalira pyache . 
-42010032	Mlevi n unango , adachita chibodzibodzi . Pidafika iye pambutoyo mbaona munthu ule , adachalira pontho na khundu inango ya njirayo . 
+42010032	Mlevi unango , adachita chibodzibodzi . Pidafika iye pambutoyo mbaona munthu ule , adachalira pontho na khundu inango ya njirayo . 
 42010033	Mbwenye pikhali Msamaria unango paulendo wache , adafikambo pambuto yonthoyo . Pidaona iye munthu ule , adava naye nsisi pikulu . 
 42010034	Adadza mbamthira mafuta na vinyu pironda pyache , mbapimanga . Pidamala iye kuchita tenepo , adamkwizika pabulu wache , adenda naye kunyumba ya alendo , mbakamuyang'anira mwadidi . 
 42010035	Mangwana mwache adabulusa kobiri zakuphatira munthu basa nsiku ziwiri mbazipereka kuna mwenechiro nyumba ya alendo ile . Adapanga mwenechiro nyumbayo mbati , ' Mumuyang'anire mwadidi . Mungavunga kobiri zinango thangwi ya iye , ndinadzakubwezerani pakubwerera panga . ' "
@@ -2621,7 +2621,7 @@
 42017012	Pikhapita iye m'mudzi unango , adagumanikana na anyamatanya khumi . Iwo adaimira kutali
 42017013	mbachemera mwakugaluza fala mbati , " Yesu , Mbuya , tiverenimbo nsisi ! "
 42017014	Pidaaona Yesu , adaapanga mbati , " Ndokoni kuna anyansembe akakuoneni . " Iwo mbali kwenda , adachena . 
-42017015	w Pidaona mbodzi wa iwo kuti awanga , adabwerera mbakuza Mulungu mwakugaluza fala . 
+42017015	Pidaona mbodzi wa iwo kuti awanga , adabwerera mbakuza Mulungu mwakugaluza fala . 
 42017016	Iye adapiponya pamanyalo a Yesu mbapereka takhuta kuna iye . Munthu weneyu akhali Msamaria . 
 42017017	Yesu adalonga mbati , " Anthu akucheneswa akhalipo khumi ; anango afemba ale ali kupi ? , 
 42017018	Thangwi yache njanji abwerera dzapereka takhuta kuna Mulungu ndi mlendo eneyu basi ? "
@@ -2653,7 +2653,7 @@
 42018008	Ndikukupangani kuti anadzatonga mseru mwakuakomera mbapichita mwakuchimbiza . Apo Mwana Munthumbo angadzabwera , ayi anadzagumana anthu ana chikhulupiro muna iye padziko yapansi pano ? "
 42018009	Yesu adalonga pontho msangani unango kuna anthu akhapithemba kuti ngakulungama mbaipisa anzawo onsene ale . Iye adalonga mbati , 
 42018010	" Pidachitwa na amuna anango awiri ale adenda ku Nyumba ya Mulungu kapemphera . Mbodzi akhali Mfarisi , unangombo akhali nyamisonkho . 
-42018011	" Mfarisi adaimira pambuto ya yekha ene mbapemphera y mbati , ' Mulungu , ndinapereka takhuta , thangwi si ine nyamtima , nyakunama , penu puta ninga anango onsenewa tayu . Ndinapereka takhuta nakuti sidakhale ninga nyakukhomesa msonkho ali apo ule tayu . 
+42018011	" Mfarisi adaimira pambuto ya yekha ene mbapemphera mbati , ' Mulungu , ndinapereka takhuta , thangwi si ine nyamtima , nyakunama , penu puta ninga anango onsenewa tayu . Ndinapereka takhuta nakuti sidakhale ninga nyakukhomesa msonkho ali apo ule tayu . 
 42018012	Ndimbapimana kudya nsiku ziwiri padimingu mbandipereka chakhumi cha pinthu pimbatambira ine pyonsene . '
 42018013	" Mbwenye nyamisonkho adaimira kwachembo . Iye adakhonda na kuyenusa kwene msolo wache kudzulu , mbwenye adamenya pagangafuwa pache na kutsukwala mbalonga mbati , ' Mulungu , ndiverenimbo nsisi . Ndine nyakudawa . ' "
 42018014	Yesu adalonga mbati , " Ndikukupangani kuti nyakukhomesa msonkho ule adenda kumusa kwache wakulungama pamaso pa Mulungu , si Mfarisi ule tayu . Thangwi onsene anapikuza okha ene anadzachepeswa , pontho onsene anapichepesa okha ene anadzakuzwa . "
@@ -2706,7 +2706,7 @@
 42019018	Wachiwiri adadza mbalonga mbati , ' Mbuya , kobiri zidandipasa imwe zile ndaganyali nazo kashanu . '
 42019019	Weneyo adampanga mbati , ' Ndinadzakupasa utongi pamizinda mishanu . '
 42019020	" Nyabasa unango adadza mbalonga mbati , ' Mbuya , kobiri zidandipasa imwe zile nsizi . Ndidazikoya pamcheka pakubisika . 
-42019021	i Ndikhagopa , thangwi ndimwe munthu wakuuma mtima . Imwe mumbakwata pinthu pyakukhonda khala pyanu , pontho mumbavuna pidakhonda imwe bzala . '
+42019021	Ndikhagopa , thangwi ndimwe munthu wakuuma mtima . Imwe mumbakwata pinthu pyakukhonda khala pyanu , pontho mumbavuna pidakhonda imwe bzala . '
 42019022	Mwenechiro kobiri ule adalonga kuna iye mbati , ' Nyabasa wakuipawe , wakonwa na mafalako onthowo . Ukhapidziwa kuti ndine munthu wakuuma mtima wakukwata pinthu pyakukhonda khala pyanga mbandivuna pidakhonda bzala ine . 
 42019023	Udakhonderanji mphapo kazikoyesa kobiri zanga kuna anyakukoya kobiri ? Mbudachita tenepo mbandidazitambira na kobiri zinango zakuthimizirapo . '
 42019024	" Tenepo adalonga kuna anthu adaimira penepo ale mbati , ' Mpokosereni kobiri zina iye mupase nyabasa aganyali kakhumi ule . '
@@ -2716,11 +2716,11 @@
 42019028	Pikhadalonga Yesu penepi , adapita patsogolo pawo kwenda ku Yerusalemu . 
 42019029	Pidafika iye m'midzi ya Betifage na Betania chifupi na phiri ya Olivi , adatuma anyakufunzache awiri
 42019030	mbaapanga mbati , " Ndokoni kumudzi uli patsogolo panuwo . Mungapitamo munakagumana mwanabulu amangirirwa , ule hadapakirwe na munthu kutomera kubalwa kwache tayu . Mukamsudzule mubwere naye kuno . 
-42019031	Ngakhala munthu anakuvunzani kuti , ' Munamsudzuliranji ? ' Mukampange kuti , ' Mbuya z ali naye basa . ' "
+42019031	Ngakhala munthu anakuvunzani kuti , ' Munamsudzuliranji ? ' Mukampange kuti , ' Mbuya ali naye basa . ' "
 42019032	Anyakufunza awiri ale adenda mbakapigumanadi ninga mudaapangira Yesu . 
 42019033	Pikhasudzula iwo mwanabulu ule , enechiro adaavunza mbati , " Munasudzuliranji buluyu ? "
 42019034	Iwo adalonga mbati , " Mbuya ali naye basa . "
-42019035	Adamkwata mbaenda naye kuna Yesu , mbathasika nguwo zawo pamsana pa " 19.31 Mbuya : penu Mwenechiro wache . buluyo , mbapakizapo Yesu . 
+42019035	Adamkwata mbaenda naye kuna Yesu , mbathasika nguwo zawo pamsana pa buluyo , mbapakizapo Yesu . 
 42019036	Pikhaenda Yesu pabulu pale , anthu adathasika nguwo zawo m'njira . 
 42019037	Pikhafika iye chifiipi na Yerusalemu , panjira yakutchithira phiri ya Olivi , mwinji ukulu wa anyakufUnzache udagundika kukomerwa . Adagaluza fala kulemedza Mulungu , thangwi ya pyakudodomesa pikhadaona iwo mbati , 
 42019038	" Mulungu atsanzayise mfumu anadza na dzina ya Mbuya ! Mtendere mbukhale kudzulu , pontho kuna Mulungu kukhale demelero ! "
@@ -3017,8 +3017,8 @@
 43001017	Mulungu adapereka mwambo kudzera muna Mose , mbwenye adapereka kukoma mtima , pontho pyakuonadi kudzera muna Yesu Khristu . 
 43001018	Chipo nee mbodzi aona Mulungu tayu , mbwenye Mwana mbodzi yekha , ule ndi Mulungu , pontho wapamtima wa Baba , achitisa kuti iye adziwike . 
 43001019	Wenewu ngumboni wa Yohani Nyakubatiza kuna akadamu a Chiyuda a mu Yerusalemu , pidatuma iwo anyansembe na Alevib kuna Yohani , kamvunza mbati , " Iwe ndiwe ani ? "
-43001020	Iye hadakhonda tawira tayu , mbwenye adaatawira mwakuveka mbati , " Ine si ine Khristu c tayu . "
-43001021	Iwo adamvunza mbati , " Ndiwe ani , mphapo ? Ayi ndiwe Elia ? " Yohani adatawira mbati , " Tayu , si ine Elia tayu . " Iwo adamvunza pontho mbati , " Ayi ndiwe Mprofeti ? " d Yohani adatawira mbati , " Tayu . "
+43001020	Iye hadakhonda tawira tayu , mbwenye adaatawira mwakuveka mbati , " Ine si ine Khristu tayu . "
+43001021	Iwo adamvunza mbati , " Ndiwe ani , mphapo ? Ayi ndiwe Elia ? " Yohani adatawira mbati , " Tayu , si ine Elia tayu . " Iwo adamvunza pontho mbati , " Ayi ndiwe Mprofeti ? " Yohani adatawira mbati , " Tayu . "
 43001022	Iwo adalonga mbati , " Mphapo , ngatipangetu , ndiwe ani ? Tinafuna tikapange adatituma ale . Iwe umbapilonga kuti ndiwe ani ? "
 43001023	Yohani adaatawira pakulonga mafala adalembwa m'bukhu ya mprofeti Yesaya kuti , " Ndine fala ya munthu unango akulalika m'thando ule kuti , ' Ndendemezani njira towera Mbuya afambemo ! ' "
 43001024	Amuna akhadatumwa na Afarisi ale , 
@@ -3076,7 +3076,7 @@
 43002025	Nee kuti munthu achite kumpanga pya iwo tayu , thangwi iye ene adadziwa manyerezero awo . 
 43003001	Pakhali mkadamu wa Chiyuda dzinache Nikodemu , wa m'gulu ya Afarisi . 
 43003002	Nsiku inango iye adenda na mosiku kuna Yesu mbakalonga mbati , " Rabi , timbapidziwa kuti imwe ndimwe mfunzisi wakutumwa na Mulungu . Nee munthu pyache anakwanisa kuchita pidzindikiro ninga pinachita imwepi ngakhala Mulungu hali naye tayu . "
-43003003	Yesu adamtawira mbati , " Ndikukupanga pyakuonadi kuti nkhabe munthu anakwanisa kupita mu Ufiimu wa Mulungu , e iye angakhonda balwa pontho . "
+43003003	Yesu adamtawira mbati , " Ndikukupanga pyakuonadi kuti nkhabe munthu anakwanisa kupita mu Ufiimu wa Mulungu , iye angakhonda balwa pontho . "
 43003004	Nikodemu adavunza mbati , " Pinakwanisika tani kuti munthu wamkulu kale abalwe pontho ? Nkhabe kwanisika tayu kuti iye apite m'mimba mwa mache mbabalwa kachiwiri . "
 43003005	Yesu adatawira mbati , " Ndikukupanga pyakuonadi kuti munthu angakhonda balwa mwa madzi pontho mwa Mzimu Wakuchena , nkhabe kwanisa kupita mu Ufumu wa Mulungu tayu . 
 43003006	Munthu ambabalwa kumanungo na makolo ache , mbwenye ambabalwa mu uzimu na Mzimu Wakuchena . 
@@ -3223,7 +3223,7 @@
 43006011	Yesu adakwata mikate ile mbapereka takhuta kuna Mulungu mbaigawaniza anthu adakhala pansi ale . Iye adachita chibodzibodzi kuna nsomba zile , tenepo anthu onsene adadya ninga mudafunira iwo . 
 43006012	Pidamala khuta iwo onsene , Yesu adalonga kuna anyakufunzache mbati , " Gumanyani pyakusalirapi ; tileke kupivunga . "
 43006013	Tenepo iwo adagumanya pyakusalirapyo mbadzaza pitundu khumi na piwiri na pa mikate mishanu ya barele ikhadadya anthu ale . 
-43006014	Pidaona anthu chidzindikiro chidachita Yesuchi , iwo adalonga mbati , " Uyu ndi Mprofetidi n adalongwa kuti anadzabwera padziko yapansi pano ule ! "
+43006014	Pidaona anthu chidzindikiro chidachita Yesuchi , iwo adalonga mbati , " Uyu ndi Mprofetidi adalongwa kuti anadzabwera padziko yapansi pano ule ! "
 43006015	Yesu adapidziwa kuti iwo akhali chifupi dzamphata towera ampitise ufumu mwakumkakamiza , natenepo iye adabulukapo mbaenda pontho pyache paphiri kwa yekha ene . 
 43006016	Pikhadoka kunja , anyakufunza a Yesu adatchithira kunyanza , 
 43006017	mbapakira mwadiya mbawambuka nyanza kwenda ku Kafaranao . Mdima udagwa , Yesu hakhadadzati fika kuna iwo tayu . 
@@ -3449,7 +3449,7 @@
 43010013	Nyaganyo ule ambaathawa , thangwi iye ndi nyaganyo ene basi , tenepo iye hambaatsalakana tayu . 
 43010014	
 43010015	
-43010016	Ndili nawo mabira anango , ale hali a m'thanga mwangamu tayu . Ine ndathema kuti ndiakuse . Iwo anadzavera falanga , tenepo anadzakhalax pamkumbi ubodzi , makabuswache mbakhala mbodzi . 
+43010016	Ndili nawo mabira anango , ale hali a m'thanga mwangamu tayu . Ine ndathema kuti ndiakuse . Iwo anadzavera falanga , tenepo anadzakhala pamkumbi ubodzi , makabuswache mbakhala mbodzi . 
 43010017	" Babanga ambandifuna , thangwi ine ndasasanyika kupereka moyo wanga , towera ndidzautambire pontho . 
 43010018	Nkhabe munthu anakwanisa kundipokosera moyo wanga tayu . Ndinaupereka na kufuna kwanga . Ndili nawo utongi wakuutaya , pontho kuubwezera . Penepi ndiye pidanditonga Babanga kupichita . "
 43010019	Na thangwi ya mafala enewa Ayuda ale adagawikana pontho . 
@@ -3627,14 +3627,14 @@
 43014004	Kunaenda ineko njirache mukuidziwa kale . "
 43014005	Tomasi adalonga kuna iye mbati , " Mbuya , podi ife nkhabe dziwako kunaenda imweko , apo tinadziwa tani njirache ? "
 43014006	Yesu adamtawira mbati , " Ine ndine Njira , Pyakuonadi , pontho Moyo chadichadi . Nkhabe munthu anakwanisa kafika kuna Baba angakhonda dzera muna ine . "
-43014007	Iye adalonga kuna iwo mbati , " Mbamudadziwadi ine mbamudadziwambo s na Baba ene . Tenepo kutomera chinchino kwenda m'tsogolo mwamdziwa , pontho mwamuona . "
+43014007	Iye adalonga kuna iwo mbati , " Mbamudadziwadi ine mbamudadziwambo na Baba ene . Tenepo kutomera chinchino kwenda m'tsogolo mwamdziwa , pontho mwamuona . "
 43014008	Filipi adalonga kuna iye mbati , " Mbuya , chinafuna ife chene ntchakuti mutipangize Baba basi . "
 43014009	Yesu adatawira mbati , " Ine ndakhala namwe ndzidzi ukulu ene , apo Filipi , nkhabe kundidziwa tayu ? Munthu andionayo aonambo na Baba ene . Ninji mphapo mukulonga kuti , ' Tioneseni Baba ' ?
 43014010	Kani iwe , Filipi , na pano nkhabe khulupira kuti ine ndili muna Baba , pontho kuti Babayo ali muna ine ? " Yesu adalonga pontho kuna iwo mbati , " Mafala alonga ine kuna imwewa , nee ngakubulukira kuna ine tayu . Baba , ambakhala muna ine ule , ambaphata basache . 
 43014011	Ndikhulupireni pinalonga ine kuti ine ndili muna Baba , pontho Baba ali muna ine . Mungakhonda kupikhulupira , khulupirani kwene , thangwi ya pinthu pimbachita inepi . 
 43014012	Ndikukupangani pyakuonadi kuti munthu anandikhulupirayo anati achitembo pinachita inepi — ande , iye anati adzachite pikulu kupiringana pinachita inepi , thangwi ine ndikwenda kuna Baba . 
 43014013	Ndinati ndidzakuchitireni pyonsene pinadzandipempha imwe na dzinanga , towera demelero ya Baba idzaoneswe kudzera muna Mwanayo . 
-43014014	Pyonsene pinadzandipempha h imwe na dzinanga ndinati ndidzapichite . 
+43014014	Pyonsene pinadzandipempha imwe na dzinanga ndinati ndidzapichite . 
 43014015	" Ngakhala imwe mumbandifunadi , munati muvere matongero anga . 
 43014016	Ndinadzampempha Baba , tenepo iye anadzakupasani Nyakuphedzera unango , ule anadzakhala namwe ndzidzi onsene . 
 43014017	Weneyu ndi Mzimu Wakuchena , wakutitchululira pyakuonadi pya Mulungu ule . Anthu a padziko yapansi nkhabe kwanisa kutambira Mzimuyo tayu , thangwi iwo hanakwanisa kumdziwa penu kumuona tayu . Mbwenye imwe mumbamdziwa , thangwi iye ambakhala namwe , pontho iye anadzakhala muna imwepo . '
@@ -3738,7 +3738,7 @@
 43017024	" Baba , mudandipasa anthuwa ndimwe , tenepo pinafuna ine mphyakuti iwo akhale na ine pabodzi kunakakhala ine kule , towera aonembo demelero yanga , demelero idandipasa imwe ile , thangwi imwe mudandifuna dziko mbidzati lengwa . 
 43017025	Baba wakulungama , anthu a padziko yapansi nkhabe kukudziwani tayu , mbwenye ine ndimbakudziwani , tenepo awa ambapidziwa kuti ndimwe mudandituma . 
 43017026	Ine ndidachitisa kuti iwo akudziweni ; tenepo ndinati ndithimize kuchita chibodzibodzi , towera kundifima kwanu kukhale muna iwo , pontho kuti ine ndikhale muna iwo . "
-43018001	Pikhadamala Yesu kupemphera , iye na anyakufunzache O adabuluka mbawambukira kumtunda unango wa mkulo wa Kedroni . Kweneko kukhali munda , tenepo Yesu na anyakufunzache adapita m'mundamo . 
+43018001	Pikhadamala Yesu kupemphera , iye na anyakufunzache adabuluka mbawambukira kumtunda unango wa mkulo wa Kedroni . Kweneko kukhali munda , tenepo Yesu na anyakufunzache adapita m'mundamo . 
 43018002	Yudasi , nyakupereka Yesu kuna anyamalwache ule , akhaidziwa mbutoyo thangwi kazinji kene Yesu akhadagumanyikana na anyakufunzache kweneko . 
 43018003	Tenepo Yudasi ule adenda kumundako pabodzi na gulu ya anyankhondo a Chiroma pabodzi na anango mwa anyakulondali Nyumba ya Mulungu akutumwa na anyansembe akulu pontho na Afarisi . Iwo adathukula pida , nyale na ntsakali . 
 43018004	Yesu adadziwiratu pyonsene pikhafuna kumchitikira , tenepo adenda patsogolo mbaavunza mbati , " Anafuna imwe mbani ? "
@@ -3831,7 +3831,7 @@
 43020009	Iwo hadavesa tayu basi pidalonga Malemba pile kuti Yesu athema kulamuka kuimfa . 
 43020010	Tenepo anyakufunza ale adabwerera kwawo . 
 43020011	Maria adaimira kunja kwa masiye ale kulira . Pikhalira iye , adakotama mbasuzumira m'masiye mule , 
-43020012	tenepo adaona ange10
+43020012	tenepo adaona ange 
 43020013	Iwo adamvunza mbati , " Mkaziwe , unaliranji ? " Maria adatawira mbati , " Mbuyanga akwatwamo , penu aenda kaikhwa kupi penu ! "
 43020014	Tenepo iye adazungunuka mbaona Yesu aimira penepo ; mbwenye iye hadapidziwa kuti iye akhali Yesu tayu . 
 43020015	Yesu adamvunza mbati , " Mkaziwe , watani unalira ? Anasaka iwe mbani ? " Mkazi ule akhanyerezera kuti iye akhali nyakulima wa munda ule , natenepo adalonga kuna iye mbati , " Mbuya ngakhala ndimwe mwamkwata , ndipangeni kwamuikha imwe , tenepo ine ndinati ndiende kamkwata . "
@@ -3932,7 +3932,7 @@
 44002028	Mwandionesa njira zakundiendesa kumoyo , pontho munandidzaza na kusekera pamaso panu . '
 44002029	" Abale anga , ndinakwanisa kulonga namwe pakwecha pya kholo wathu wakudziwika Davite . Iye adafa mbafikhirwa , tenepo nthumbi yache ili kuno na lero . 
 44002030	Iye akhali mprofeti , tenepo adadziwa pidampanga Mulungu : Mulungu adadumbira kuti mbodzi mwa pidzukulu pyache ndiye anadzapita ufumu wache . 
-44002031	Davite adaona pile pikhafuna dzachitika kutsogolo , tenepo adalonga pya kulamuka kwa Khristu c kuimfa mbati , ' Iye hadasiyiwa kudziko ya any akufa tayu ; pontho manungo ache hadavunda m'masiye tayu . '
+44002031	Davite adaona pile pikhafuna dzachitika kutsogolo , tenepo adalonga pya kulamuka kwa Khristu kuimfa mbati , ' Iye hadasiyiwa kudziko ya any akufa tayu ; pontho manungo ache hadavunda m'masiye tayu . '
 44002032	Yesu onthoonthoyu adalamuswa na Mulungu kuimfa mbakhala na moyo . Tonsenembo ndife mboni za penepi . 
 44002033	Iye adakwizwa mbakakhala kudzanja yamadyo ya Mulungu mbatambira Mzimu Wakuchena ule akhadadumbira Babache kuti anadzampereka . Tenepo iye adatikhuthulira mtukwa unaona imwe na kuuva chinchino . 
 44002034	Si Davite adakwira kwenda kudzulu tayu , mbwenye iye adalonga mbati , ' Mbuya adalonga kuna Mbuyanga kuti : Khala kudzanja yanga yamadyo
@@ -3970,7 +3970,7 @@
 44003019	Natenepo lekani pyakudawa pyanu , mbamuzungunukire kuna Mulungu towera iye akufudzireni pyakudawa pyanu . Mungachita tenepo , 
 44003020	ndzidzi wakuwangiswa mtima unadzabwera kubulukira kuna Mbuya . Tenepo anadzakutumirani Yesu , akusankhulirani iye kale kuti akhale Khristu ule . 
 44003021	Yesu athema kukhala kudzulu kufikirana ndzidzi ukwane wakuti pinthu pyonsene pisasanywe mwachinchino ninga mudadumbira Mulungu kale kudzera muna maprofeti ache akukhulupirika . 
-44003022	Thangwi Mose adalonga mbati , ' Mbuya Mulungu wanu anadzakutumirani mprofeti ninga ine , d pontho anadzakhala mbodzi wa anthu anu onthowa . Tenepo imwe muvere pyonsene pinafuna dzakupangani iye kuti muphate . 
+44003022	Thangwi Mose adalonga mbati , ' Mbuya Mulungu wanu anadzakutumirani mprofeti ninga ine , pontho anadzakhala mbodzi wa anthu anu onthowa . Tenepo imwe muvere pyonsene pinafuna dzakupangani iye kuti muphate . 
 44003023	Mbwenye munthu anakhonda dzavera mprofetiyo anadzakhethwa kuna anthu a Mulungu , pontho anadzavungwa . '
 44003024	Andedi , maprofeti onsene akhali na mphangwa zakubulukira kuna Mulungu , kutomera Samuele kufikirana onsene adadza m'nduli mwache ale , adapilonga pontho pinachitika nsiku zinopi . 
 44003025	Pidadumbira Mulungu kudzera muna maprofeti ache pile , mphyanu . Imwe ndimwe anachiro a chiverano chidachita Mulungu na makolo anu ninga mudalongera iye kuna Abrahamu mbati , ' Kudzera muna pidzukulu pyako ndinadzatsanzayisa anthu onsene a padziko yapansi . '
@@ -4105,7 +4105,7 @@
 44007034	Ine ndaona nyatwa zinaona anthu anga ku Iguputo , pontho ndava kubulira kwawo , tenepo ndatchitha kuti ndiapulumuse panyatwa . Bwera , mphapo , ndikutume uende ku Iguputo . '
 44007035	" Mose ngontho ule anthu a ku Israele adamkhonda mbamvunza mbati , ' Mbani akuikha kukhala mkadamu pontho nyakutonga miseru pakati pathu ? ' Iye akhali mbodzi ule Mulungu adamtuma kuti akhale mkadamu pontho nyankhombo wa anthu na kuphedzwa kwa mngelo ule adamuonekera m'thenthere yakugaka ile . 
 44007036	Mose adatsogolera anthu kuabulusa mu Iguputo mbachita pyakudodomesa na pidzindikiro mu Iguputo , pa Bara Yakufira pontho m'thando pyaka makumanayi . 
-44007037	Iye akhali ontho ule adalonga kuna anthu a ku Israele kuti , ' Mulungu anadzakutumirani mprofeti ninga ine , s pontho anadzakhala mbodzi wa anthu anu onthowa . '
+44007037	Iye akhali ontho ule adalonga kuna anthu a ku Israele kuti , ' Mulungu anadzakutumirani mprofeti ninga ine , pontho anadzakhala mbodzi wa anthu anu onthowa . '
 44007038	Mose akhali ontho ule adagumanyikana pabodzi na anthu a ku Israele m'thando . Iye akhali kweneko na makolo athu , pontho na mngelo , ule adalonga naye paphiri ya Sinai mbatitambirira mphangwa zamoyo kubulukira kuna Mulungu . 
 44007039	" Mbwenye makolo athu adakhonda kumvera , mbamgwinyira kukhundu mbakhumba kubwerera pyawo ku Iguputo . 
 44007040	Tenepo iwo adalonga kuna Aroni mbati , ' Tisasanyire pyathu milungu kuti ititsogolere . Ife nkhabe dziwa pyachitikira munthu weneyu , Mose , ule adatidzesa kuno kubulukira ku Iguputo . '
@@ -4229,7 +4229,7 @@
 44010016	Penepi pidachitika katatu . Tenepo , kabodzinakabodzi chinguwocho chidakwatwa kubwerera kudzulu . 
 44010017	Peturo mbali kunyerezera kuti masomphenya enewa akulonganji , amuna adatumwa na Konelio ale akhadadziwa pakhali nyumba ya Simoni pale . Tenepo akhaimira pamsuwo wa mpanda . 
 44010018	Iwo adachemera mbavunza mbati , " Ayi kuna mlendombo kuno dzinache Simoni Peturo ? "
-44010019	Pikhali Peturo m'kati kuyesayesa kuvesa kuti masomphenya akulonganji , Mzimu Wakuchena adalonga mbati , " Ngava kuno ! Amuna atatu m ali kuno kusakasaka iwepo . 
+44010019	Pikhali Peturo m'kati kuyesayesa kuvesa kuti masomphenya akulonganji , Mzimu Wakuchena adalonga mbati , " Ngava kuno ! Amuna atatu ali kuno kusakasaka iwepo . 
 44010020	Natenepo lamuka tchitha , pontho leka chita chidodo kwenda nawo , thangwi ndine ndaatuma . "
 44010021	Natenepo Peturo adenda kuna amuna ale mbalonga mbati , " Munthu anasakasaka imwe ule , ndine pano . Apo , mwadzeranji ? "
 44010022	Tenepo iwo adatawira mbati , " Mkadamu Konelio atituma . Iye ndi munthu wadidi wakupembedza Mulungu pontho wakulemedzwa pikulu na Ayuda onsene . Mngelo wa Mulungu adampanga kuti akuchemerereni kumusa kwache , kuti iye akave pinafuna imwe kalonga . "
@@ -4289,7 +4289,7 @@
 44011028	Mbodzi wa iwo , dzinache Agabo adaimira , pontho Mzimu Wakuchena adamchitisa kulonga kuti njala ikulu ikhali chifupi kudza padziko yonsene yapansi . ( Njala idadzadi pandzidzi wa Mfumu Klaudio . )
 44011029	Natenepo anyakufunza adanyerezera kuphedza anyakukhulupira anzawo m'nthemba ya Yudea kutewezana na mudaonera munthu onsene . 
 44011030	Iwo adachitadi tenepo mbatuma Barnaba na Saulo kwenda na mitukwayo kuna akulu a mpingo . 
-44012001	Pandzidzi wenewu Mfumu Herodi i adatoma kuboneresa anthu anango a mumpingo . 
+44012001	Pandzidzi wenewu Mfumu Herodi adatoma kuboneresa anthu anango a mumpingo . 
 44012002	Iye adatonga kuti Yakobo , mbaleache Yohani , aphiwe na talasada . 
 44012003	Pidaona iye kuti Ayuda adakomerwa na penepi , iye adenda pontho kamanga Peturo . Penepi pidachitika pandzidzi wa Phwando ya Mikate yakusowa chakufufumisira . 
 44012004	Pidamangwa Peturo , adenda kaikhwa m'perezo . Kweneko adamuikhira magulu anayi a anyakuonera a anthu anayianayi towera amuonere . Herodi adafuna kuti atonge mseru wa Peturo pamaso pa anthu pakumala pa Phwando ya Paska . 
@@ -4358,9 +4358,9 @@
 44013042	Pikhabuluka Paulo na Barnaba m'nyumba yakupemphereramo mule , anthu adaachemera kubwera pontho pa Nsiku Yakupuma inangoyo towera adzaapange pizinji pya pinthu penepi . 
 44013043	Pidamala balalika anthu pamgumanopo , Ayuda azinji na anthu okhonda khala Ayuda akhadasanduka kukhala Ayuda ale , adatewera Barnaba na Paulo . Tenepo anyakutumwa adalonga kuna iwo mbaawangisa mtima kuti athimize kunyindira pinthu pyachita Mulungu kudzera muna kukoma mtima kwache . 
 44013044	Pa Nsiku Yakupuma inangoyo nenene anthu onsene muluwanimo adabwera dzavesera mafala a Mbuya . 
-44013045	Pidaona Ayuda " 13.40 kukuchitikirani : pyakulembwa pinango pyakale pyalonga chitika . chimwinji cha anthu chile , iwo adachita bivu mbapokanya pikhalonga Paulo pile mbamtikana . 
+44013045	Pidaona Ayuda chimwinji cha anthu chile , iwo adachita bivu mbapokanya pikhalonga Paulo pile mbamtikana . 
 44013046	Mbwenye Paulo na Barnaba adaatawira mwakuwanga mtima mbati , " Pikhafunika kuti mafala a Mulungu alalikwe kuna imwe chakutoma . Mbwenye imwe mwaakhonda mbamupinyerezera mwekha ene kuti ndimwe anthu okhonda thema kutambira moyo okhonda mala . Natenepo ife tinakusiyani mbatienda pyathu kuna anthu okhonda khala Ayuda . 
-44013047	Thangwi Mbuya adatitonga kuti : . ' Ndakuikha iwe kukhala cheza cha anthu okhonda khala Ayuda , towera anthu a padziko yonsene yapansi apulumuswe . ' "
+44013047	Thangwi Mbuya adatitonga kuti : ' Ndakuikha iwe kukhala cheza cha anthu okhonda khala Ayuda , towera anthu a padziko yonsene yapansi apulumuswe . ' "
 44013048	Pidava anthu okhonda khala Ayuda penepi , adakomerwa mbalonga kuti mafala a Mbuya ngadidiletu . Tenepo onsene adasankhulwa na Mulungu kuti atambire moyo okhonda mala ale , adakhulupira . 
 44013049	Mafala a Mbuya adafalikira kunthemba yonseneyo . 
 44013050	Mbwenye Ayuda adazhangalisa akadamu a mumzindamo na akazi okhonda khala Ayuda akuveka , akupembedza Mulungu ale . Iwo adatoma kuboneresa Paulo na Barnaba mbaathamangisa kunthemba kwawoko . 
@@ -4441,7 +4441,7 @@
 44016005	Natenepo mipingo idawanga m'chikhulupiro , tenepo nsiku na nsiku gulu ikhanjipiranjipira . 
 44016006	Paulo na anzache adagwanda na m'nthemba za Frigia na Galatia thangwi Mzimu Wakuchena hadaatawirisa tayu kuti alalike mafala a Mulungu kunthemba ya Asia . 
 44016007	Pidafika iwo m'madire a Misia , adayesayesa kuti apite m'nthemba ya Bitinia , mbwenye Mzimu wa Yesu hadaatawirisa tayu kuchita tenepo . 
-44016008	Natenepo iwo adagwanda na m'nthemba w ya Misia mbafika kumzinda wa Troa . 
+44016008	Natenepo iwo adagwanda na m'nthemba ya Misia mbafika kumzinda wa Troa . 
 44016009	Na mosiku mwache Paulo adaona m'masomphenya munthu wa kunthemba ya Makedonia aimira mbampempha mbati , " Bwerani kuno ku Makedonia , mudzatiphedzembo . "
 44016010	Si ndzidzi pikhadaona Paulo masomphenya enewa , ife tidasasanyika kwenda ku Makedonia , thangwi tidapidziwa kuti Mulungu akhadatichemera kuti tikalalike Mphangwa Zadidi kuna anthu kweneko . 
 44016011	Tidapakira mwadiya kubuluka ku Troa mbatienderatu kumzinda wa Samotrake . Tenepo mangwana mwache tidenda na mtunda kumzinda wa Neapoli . 
@@ -4556,7 +4556,7 @@
 44019018	Anyakukhulupira azinji adadza mbatawira pakwecha na kubweka pyakuipa pyonsene pikhadachita iwo . 
 44019019	Anyamatsenga azinji adagumanya mabukhu awo pabodzi mbaapitsa pakwecha . Pidalengesa iwo konta ya kobiri ya mabukhu ale , idakwana masilivab pikwi makumashanu . 
 44019020	Tenepo munjira yeneyi mafala a Mbuya adakula mwamphamvu mbavekeswa konsene kwene . 
-44019021	Pidamala chitika penepi , Paulo adanyerezera d pyakwenda ku Yerusalemu kudzera na m'nthemba ya Makedonia na Akaya . Iye adalonga mbati , " Ndingabuluka kweneko , mphyakuthema kuti ndikachedzembo kumzinda wa Roma . "
+44019021	Pidamala chitika penepi , Paulo adanyerezera pyakwenda ku Yerusalemu kudzera na m'nthemba ya Makedonia na Akaya . Iye adalonga mbati , " Ndingabuluka kweneko , mphyakuthema kuti ndikachedzembo kumzinda wa Roma . "
 44019022	Tenepo iye adatuma anyakumphedzache awiri , Timoti na Erasito , kwenda ku Makedonia . Mbwenye iye adasala mbakhala nsiku zizinji kunthemba ya Asia . 
 44019023	Ndzidzi wenewu mukhali nyatwa zikulu mu Efeso thangwi ya Njira ya Mbuya . 
 44019024	Munthu unango , dzinache Demetrio , nyakufula utale wa siliva , adasasanya mifanikizo yasiliva yakuoneka ninga nyumba yakupembedzeramo mulungu wawo wamkazi , Aritemi . Basa yeneyi ikhaganyalisa anyabasa pyakwanga . 
@@ -4583,7 +4583,7 @@
 44020004	Sopatro mwanache Piro , wa mumzinda wa Berea adenda naye pabodzi . Tenepo amunawa adachitambo chibodzibodzi : Aristariko na Sekundo a mumzinda wa Tesalonika ; Gayo wa mumzinda wa Deribe ; Tikiko na Troflmo a m'nthemba ya Asia ; pontho na Timoti . 
 44020005	Iwo adatsogola mbakatidikhira mumzinda wa Troa . 
 44020006	Pidamala ife kudya Phwando ya Mikate yakusowa chakufufumisira , tidabuluka kuluwani ya Filipi mbatienda na m'mwadiya ku Troa . Pidagwanda nsiku zishanu , tidaphatana nawo ku Troako . Kweneko tidamalako dimingu yamumphu . 
-44020007	Pa Sabudu e na mawulo tonsene tidagumanyikana pabodzi kumenya mkate kukumbuka Mbuya . Paulo adalonga kuna anthu ale kufikirana chitichiti thangwi akhali kwenda mangwana mwache . 
+44020007	Pa Sabudu na mawulo tonsene tidagumanyikana pabodzi kumenya mkate kukumbuka Mbuya . Paulo adalonga kuna anthu ale kufikirana chitichiti thangwi akhali kwenda mangwana mwache . 
 44020008	Nyale zizinji zikhadagaswa m'subi yapadzulu , mule mudagumanyikana ife . 
 44020009	Pikhali Paulo m'kati kulonga , mphale unango , dzinache Yutiko , adakhala pazanera ule , adatoma kuodzira . Tenepo adagona chitulo chikulu mbagwa pansi kubulukira m'nyumba yachitatu yapadzulu . Pidatchitha anthu pansi kumulokota , adamgumana afa . 
 44020010	Mbwenye Paulo adatchitha pansipo , adapiponya pana iye mbamkhumbatira . Tenepo adalonga mbati , " Lekani dungunya , ali m'maso ! "
@@ -4692,7 +4692,7 @@
 44023005	Paulo adatawira mbati , " Alsraele anzanga , ine nee ndikhapidziwabi kuti iye ndi Nyansembe Wamkulu . Malemba akulonga kuti , ' Muleke kulongera pinthu pyakuipa akadamu a anthu anu . ' "
 44023006	Pidaona Paulo kuti anango mwa anthu ale akhali Asaduki pontho kuti anango akhali Afarisi , iye adalonga mwakugaluza fala m'Thandomo mbati , " Alsraele anzanga , ine ndine Mfarisi , pontho mwana Mfarisi . Ndikutongwa lero , thangwi ya chidikhiro changa chakuti anthu akufa anadzalamuka mbakhala pontho na moyo . "
 44023007	Pidalonga iye penepi , Afarisi na Asaduki adatoma kupokanyisana , pontho guluyo idagawikana . 
-44023008	Thangwi Asaduki 723.3 fufu yakukhwazwa mtoto : ndi mafala akutikana kulonga kuti iye ndi mfakafaka . akhalonga kuti anthu nkhabe dzalamuka kuimfa pontho kuti nkhabe angelo na mizimu , mbwenye Afarisi akhakhulupira pyonsene pitatupi . 
+44023008	Thangwi Asaduki akhalonga kuti anthu nkhabe dzalamuka kuimfa pontho kuti nkhabe angelo na mizimu , mbwenye Afarisi akhakhulupira pyonsene pitatupi . 
 44023009	Kukhuwa kule kudakula pyakwanga , tenepo anango a afunzisi a mwambo a m'gulu ya Afarisi adaimira mbapokanya pikulu mbati , " Ife nee tikuona kudawa kwa munthuyubi ! Mwinango mzimu penu mngelo alongadi naye ! "
 44023010	Tenepo mphoka ile idakula pyakwanga mwakuti mkadamu wamkulu ule adachita mantha kuti Paulo ananyedzwanyedzwa . Tenepo iye adapanga anyankhondo ache kuti atchithe kambulusa Paulo m'gulumo mbaenda naye kumpanda . 
 44023011	Mosiku mwache Mbuya adaimira chifupi na Paulo mbalonga mbati , " Leka chita mantha ! Iwe wandichitira umboni mu Yerusalemu muno , tenepo wathema kuchita chibodzibodzi kumzinda wa Roma . "
@@ -4795,7 +4795,7 @@
 44026020	Mbwenye chakutoma ndidalalika mu Damasiko na mu Yerusalemu , kubuluka kweneko , mu Yudea monsene pontho na pakati pa anthu okhonda khala Ayuda . Ndidalalika kuti aleke pyakudawa pyawo mbazungunukire kuna Mulungu , pontho achite pinthu pyakuonesa kuti alekadi pyakudawa pyawo . 
 44026021	Ndi thangwi yache Ayuda adandiphata pikhali ine m'Nyumba ya Mulungu mbayesa kuti andiphe . 
 44026022	Mbwenye kufikirana lero Mulungu akundiphedza . Natenepo ndaimira pano kupereka umboni wanga kuna anthu onsene ang'ono na akulu ene . Pinalonga inepi ndi sasawa na pile pidalonga maprofeti pontho Mose kuti pinadzachitika :
-44026023	kuti Khristu athema kufa , pontho anadzakhala wakutoma kulamuka y 26.16 pya ine : pyakulembwa pinango pyakale nkhabe pya ine . kuimfa kuti adzalonge pya cheza cha chipulumuso kuna Ayuda na kuna anthu okhonda khala Ayuda . "
+44026023	kuti Khristu athema kufa , pontho anadzakhala wakutoma kulamuka kuimfa kuti adzalonge pya cheza cha chipulumuso kuna Ayuda na kuna anthu okhonda khala Ayuda . "
 44026024	Mukhapitchinjiriza Paulo yekha ene tenepo , Fesito adakhuwa mbati , " Iwe Paulo , una msala ! Kufunza kwako , kwakuyalusa ! "
 44026025	Paulo adatawira mbati , " Ine nkhabe msala tayu , Mfumu ! Pinalonga inepi mphyakuonadi pontho pya nzeru . 
 44026026	Mfumu Agripa ! Ndinakwanisa kulonga namwe mwakuwanga mtima thangwi imwe niukupidziwa pinthu pyonsenepi . Ndikupidziwa kuti nkhabe chinthu na chibodzi chene chinakhonda imwe dziwa , thangwi penepi hapidachitika mwakubisika tayu . 
@@ -4821,7 +4821,7 @@
 44027014	Si ndzidzi mphepo ikulu yakuchemerwa " Mbalu " , idagundika kubulukira pansuwapo . 
 44027015	Mphepoyo idamenya mwadiyawo mwakuti udachimwana kwenda kutsogolo mwakuyang'anisana na mphepoyo . Natenepo tidausiya pyathu mwadiyawo kuti tiende pyathu na mphepo . 
 44027016	Tidafika kukhundu kwakusowa mphepo ya nsuwa ing'ono ya Kauda . Kweneko mwanyatwa tidakwanisa kupulumusa mwadiya ung'ono , udamangirirwa m'nduli mwa mwadiya wathu ukulu ule . 
-44027017	Iwo adakweya mwadiya ung'ono mbaukwizika m'mwadiya ukulu ule . Tenepo adamanga mwadiya ukuluwo na nkhambala . Iwo akhagopa kuti anatcherera patchetcha pansi pa madzi chifupi na gombe ya dziko ya Libia , natenepo iwo adatchithisa mathanga , n mbasiya mwadiya kwenda pyawo na mphepo . 
+44027017	Iwo adakweya mwadiya ung'ono mbaukwizika m'mwadiya ukulu ule . Tenepo adamanga mwadiya ukuluwo na nkhambala . Iwo akhagopa kuti anatcherera patchetcha pansi pa madzi chifupi na gombe ya dziko ya Libia , natenepo iwo adatchithisa mathanga , mbasiya mwadiya kwenda pyawo na mphepo . 
 44027018	Chonzi chakugoswa chile chidathimiza kudza , natenepo mangwana mwache adatoma kutaya m'madzi mitolo inango ikhali m'mwadiya ile . 
 44027019	Mkuchono mwache adataya mapindi anango a mwadiyawo m'madzi . 
 44027020	Nsiku zizinji zene hatidakwanisa kuona dzuwa penu nyenyezi tayu , pontho chonzi chidathimiza kudza mwaukali . Pakumalisa tidataya mtima kuti tinapulumuka . 
@@ -4851,7 +4851,7 @@
 44027044	Mphapo anango aphate matabwa na pimanyenyetswa pya mwadiyawu mbaenda kumtunda . Mwenemo ndiye mudapulumukira ife tonsene mbatikafika kumtunda . 
 44028001	Pidapulumuka na kufika ife pamtunda , tidava kuti dzina ya nsuwayo ikhali Melita . 
 44028002	Anthu a penepo akhali adidi pyakwanga kuna ife mbatitambira mwadidi . Iwo adatigasira moto kuti tiothe thangwi tidatontholerwa thangwi kukhavumba mvula . 
-44028003	Paulo adagumanya mtolo wa nkhuni mbasesera nawo moto wo . Tenepo , na thangwi ya kupitsa kwa moto wo m ' nkhuni mule , mudabuluka nyoka mbiluma dzanja ya Paulo mbikakamira ponthopo . 
+44028003	Paulo adagumanya mtolo wa nkhuni mbasesera nawo moto wo . Tenepo , na thangwi ya kupitsa kwa moto wo m'nkhuni mule , mudabuluka nyoka mbiluma dzanja ya Paulo mbikakamira ponthopo . 
 44028004	Anthu a pansuwa ale adaona nyoka ili lemberere padzanja ya Paulo mbalonga mbati , " Munthuyu ndi phangadi . Kupulumuka kudachita iye pabara pale nkhupulumuka kwene pyache , mbwenye mulungu wakuchemerwa ' Chilungamo ' akhonda kuti iye akhale na moyo . "
 44028005	Mbwenye Paulo adakupusira nyoka ile pamoto okhonda kuwazika na pang'ono pene . 
 44028006	Iwo akhanyerezera kuti manungo ache anatupa penu kuti iye anagwa pansi kabodzinakabodzi mbafa . Mbwenye pidaona iwo kuti ndzidzi ukulu wagwanda nee chitika pinthu kuna iye tayu , iwo adasanduza manyerezero mbalonga mbati , " Munthuyu ndi mulungu ! "
@@ -4908,7 +4908,7 @@
 45001027	Amunambo ntchibodzibodzi , aleka makhaliro awo akubalwa nawo kuna akazi mbasirirana pyawo amuna okhokha . Amuna akuchita pinthu pyakuchitisa manyadzo kuna unango na mwanzache , natenepo iwo akupichemerera okha ene kutchunyuswa kwathema kudza thangwi ya kuchita pyakudawika . 
 45001028	Na thangwi yakuti anthu enewo akhonda kukoya m'mitima mwawo pinthu pyakuonadi pinadziwa iwo pya Mulungu , iye aaleka kuteweza pyawo manyerezero akuipa a m'mitima mwawo , towera achite pyawo pinthu pyokhonda thema kupichita . 
 45001029	Iwo adzala na pyakudawika pya rritundu onsene , pyakuipa , mtima na kuchitirana pyakuipa unango na mwanzache ; iwo adzala na bivu , kupha , nthonga , kunama na kuipirwa . Iwo ambalongana tsweda
-45001030	mbalongerana pyakuipa ; mbanyamalwa a Mulungu , akutikana , b akunyada , pontho akugaya ; pimbanyerezera iwo nkhusasanya njira zinango zakudawika basi ; iwo nkhabe vera makolo awo tayu ;
+45001030	mbalongerana pyakuipa ; mbanyamalwa a Mulungu , akutikana , akunyada , pontho akugaya ; pimbanyerezera iwo nkhusasanya njira zinango zakudawika basi ; iwo nkhabe vera makolo awo tayu ;
 45001031	iwo ngakupupwa , ngokhonda khulupirika , pontho iwo nkhabe komera mtima penu kuvera nsisi anthu anango tayu . 
 45001032	Iwo ambadziwadi kuti mwambo wa Mulungu umbalonga kuti anthu akuchita pinthu ninga penepi athema kufa , kwache iwo ambathimiza kuchita basi pyonthopyo mbakomerwa na anthu anango ambachita penepi ale . 
 45002001	Kadi mwanzangawe , umbatongambo mseru anthu anango ? Podi ukhale ani pyako , iwe nkhabe chakuti ulonge . Thangwi ungatonga anthu anango , iwe mbuchita pyonthopyo ninga pinachita iwo , ukupitonga wekha ene . 
@@ -5066,7 +5066,7 @@
 45007024	Chinchino ine nkhabe komerwa na pang'ono pene tayu ! Mbani anandiombola kuna manungo anafuna kundiendesa kuimfawa ?
 45007025	Takhuta kuna Mulungu ule ambachita penepi kudzera muna Yesu Khristu Mbuyathu ! Apo , chinchino mwenemu ndiye muna ine : pandekha na manyerezero anga okha ndinakwanisa kuphatira basa mwambo wa Mulungu , mwenemo makhaliro anga akudawika akubalwa nawo akuphatira basa mwambo wa pyakudawa . 
 45008001	Natenepo anthu aphatanizana na Khristu Yesu ale chinchino nkhabeve konwa tayu . 
-45008002	Thangwi mwambo wa Mzimu Wakuchena ule umbatidzesera moyo mukuphatanizana kwathu na Khristu Yesu , wandisudzula s pamwambo wa pyakudawa na imfa . 
+45008002	Thangwi mwambo wa Mzimu Wakuchena ule umbatidzesera moyo mukuphatanizana kwathu na Khristu Yesu , wandisudzula pamwambo wa pyakudawa na imfa . 
 45008003	Pinthu pidachimwana mwambo wa Mose kupichita , thangwi makhaliro akudawika a anthu akubalwa nawo akhasowa mphamvu , penepi Mulungu adapichita . Iye adachitisa kuti kudawa kukonwe muna makhaliro akudawika a anthu akubalwa nawo pakutumiza Mwanache . Iyeyo adadza na umunthu sasawa ninga wa munthu ule makhaliro ache akubalwa nawo ngakudawika , towera akunde pyakudawa . 
 45008004	Mulungu adachita tenepo kuti pyakulungama pimbafuna mwambo pichitwe na ife monsene mwene , ife ale timbateweza pimbafuna Mzimu Wakuchena , nee pimbafuna makhaliro athu akudawika akubalwa nawo tayu . 
 45008005	Anthu ale ambateweza pimbalonga makhaliro awo akudawika akubalwa nawo , nzeru zawo zonsene zimbatongwa na pimbafuna makhaliro awo akudawika akubalwa nawo . Alembo ambachita pimbalonga Mzimu Wakuchena , nzeru zawo zonsene zimbatongwa na Mzimu Wakuchena . 
@@ -5074,7 +5074,7 @@
 45008007	Tenepo munthu ambasanduka nyamalwa wa Mulungu ngakhala ambatongwa na makhaliro ache akudawika akubalwa nawo ; thangwi iye nkhabe vera mwambo wa Mulungu tayu , ndimomwene kuti iye nkhabe kwanisa kuvera mwambowo tayu . 
 45008008	Ale ambavera makhaliro awo akudawika akubalwa nawo nkhabe kwanisa kuchitisa Mulungu kukomerwa tayu . 
 45008009	Imwe nkhabe teweza pimbakupangani makhaliro anu akudawika akubalwa nawo tayu , mbwenye mumbateweza pimbakupangani Mzimu Wakuchena — ngakhaladi Mzimu wa Mulungu ambakhala muna imwe . Munthu anakhonda khala na Mzimu wa Khristu , iye si wa Khristu tayu . 
-45008010	Mbwenye Khristu angakhala muna imwe , ndiye kuti mzimu wanu una moyo , h thangwi Mulungu akuchitisani kukhala anthu akulungama pamaso pache , podi kwene kuti manungo anu anadzafa thangwi ya kudawa . 
+45008010	Mbwenye Khristu angakhala muna imwe , ndiye kuti mzimu wanu una moyo , thangwi Mulungu akuchitisani kukhala anthu akulungama pamaso pache , podi kwene kuti manungo anu anadzafa thangwi ya kudawa . 
 45008011	Ngakhala Mzimu wa Mulungu adalamusa Yesu kuimfa ule ambakhala muna imwe , penepo ule adalamusa Khristu kuimfa anadzaperekambo moyo kuna manungo anu ambafa ale kudzera muna Mzimu wache ambakhala muna imwe ule . 
 45008012	Tenepo , abale anga , ife tathema kuteweza pinthu pimbatipanga Mzimu wa Mulungu nee kuteweza pinthu pimbafuna makhaliro athu akudawika akubalwa nawo ale tayu . 
 45008013	Ngakhala munateweza pinthu pimbafuna makhaliro anu akudawika akubalwa nawo , munati mudzafe . Mbwenye ngakhala Mzimu Wakuchena ambakuphedzani kupha mabasanu akudawikawo , munati mudzakhale na moyo . 
@@ -5107,12 +5107,12 @@
 45009001	Ndikulonga pyakuonadi : ine ndine wache wa Khristu , pontho nkhabe longa pyakunama tayu . Chikumbu mtima changa chimbatongwa na Mzimu Wakuchena chile , chimbatsikimizira kuti ine nkhabe nama tayu , 
 45009002	ndingalonga kuti ndina nsisi zikulu , pontho ndikuva kupha kokhonda mala mumtima mwanga
 45009003	thangwi ya abale anga , ale mbanthu a dzinzanga . Na thangwi ya kufuna kuaphedza ine ndikhapifuna kuti ndikhale pyanga wakutembererwa na Mulungu , pontho wakulekaniswa kuna Khristu . 
-45009004	Iwo mbanthu a Israele , Mulungumbo adaasankhula kukhala anache mbaaonesa demelero yache ; iye adachita nawo piverano k mbaapasa mwambo ; iwo akupembedza mwakuonadi pontho atambira pinthu pidadumbira Mulungu kuna iwo pile . 
+45009004	Iwo mbanthu a Israele , Mulungumbo adaasankhula kukhala anache mbaaonesa demelero yache ; iye adachita nawo piverano mbaapasa mwambo ; iwo akupembedza mwakuonadi pontho atambira pinthu pidadumbira Mulungu kuna iwo pile . 
 45009005	Iwo mphidzukulu pya makolo athu akuveka a Chiheberi , pontho kulonga pya umunthu wa Khristu , iye ngwadzinzawo . Mulungu ule ana utongi papinthu pyonsene mbalemedzwe kwenda na kwenda ! Ameni . 
 45009006	Kadi ndikulonga kuti pidadumbira Mulungu pyachimwanika ? Nkhabe tayu , thangwi si onsene anthu a ku Israele mbanthu a Mulungu tayu . 
 45009007	Si pidzukulu py onsene pya Abrahamu mbana a Mulungu tayu . Mulungu adalonga kuna Abrahamu mbati , " Kudzera muna Isake iwe unadzakhala na pidzukulu ninga mudadumbira ine kuna iwe . "
 45009008	Penepi pikulonga kuti si ana onsene adabalwa na Abrahamu mbana a Mulungu tayu . Pidzukulu pyache chadichadi mphyokha pile pidadumbira Mulungu kuti anadzampasa . 
-45009009	Thangwi pinthu pidadumbira Mulungu pidalongwa tenepa : " Ndinati ndidze pontho pandzidzi wache wakuthema , n tenepo Sara anadzakhala na mwana wamamuna . "
+45009009	Thangwi pinthu pidadumbira Mulungu pidalongwa tenepa : " Ndinati ndidze pontho pandzidzi wache wakuthema , tenepo Sara anadzakhala na mwana wamamuna . "
 45009010	Apo si pokhapo tayu , ana awiri amuna a Rebeka akhali na baba mbodzi , ule ndi kholo wathu Isake . 
 45009011	
 45009012	
@@ -5320,7 +5320,7 @@
 46001007	mwakuti imwe nee mwachimwana tayu kutambira mtsanzayiso wa mtundu onsene ndzidzi unadikhira imwe kuti Mbuyathu Yesu Khristu adzatchululwe . 
 46001008	Iye anadzakuchitisani kuimira dzololo kufikirana kumamalisiro , towera mudzakhale akusowa chinthu chakukupokanyisani pansiku ya Mbuyathu Yesu Khristu . 
 46001009	Mulungu nyakukuchemerani kuti mudzakhale akuphatanizana na mwanache Yesu Khristu Mbuyathu , ngwakunyindirika . 
-46001010	Abale anga , ndikukupemphani imwe monsene na utongi wa Mbuyathu Yesu Khristu kuti mutawirizane pa pinalonga imwe , towera paleke khala magawikano pakati panu . Khalani abodzi monsene mwene m ' manyerezero anu , pontho na chakufuna chibodzi . 
+46001010	Abale anga , ndikukupemphani imwe monsene na utongi wa Mbuyathu Yesu Khristu kuti mutawirizane pa pinalonga imwe , towera paleke khala magawikano pakati panu . Khalani abodzi monsene mwene m'manyerezero anu , pontho na chakufuna chibodzi . 
 46001011	Abale anga , anango a pabanja ya Koloe andipanga mwakuveka kuti pakati panu pana nthonga . 
 46001012	Chinalonga ine ntchakuti munthu onsene pakati panu akulonga pyakusiyana na mwanzache . Unango akulonga mbati , " Ine ndimbatewera Paulo " ; unangombo ati , " Ine ndimbatewera Apolo " ; unango ati , " Ine ndimbatewera Kefa " ; unangombo ati , " Ine ndimbatewera Khristu . "
 46001013	Kani Khristuyu agawika ? a Kani ndi Paulo ule adakuferani pamtanda ? Kani mudabatizwa na dzina ya Paulo ?
@@ -5342,7 +5342,7 @@
 46001029	Mulungu adachita penepi towera paleke khala munthu na mbodzi ene wakunyada pamaso pache . 
 46001030	Mbwenye Mulungu ndiye akuphatanizani na Khristu Yesu , pontho iye achitisa Khristu kukhala nzeru yathu . Kudzera muna iye ife tayeswa akulungama pamaso pa Mulungu ; ife tasanduka kukhala anthu akupambulika a Mulungu , pontho tasudzulwa kubuluka pansi pautongi wa pyakudawa . 
 46001031	Natenepo , ninga munalongera Malemba kuti , " Nyakufuna kunyada , athema nyadira pinthu pyachita Mbuya . "
-46002001	Abale anga , pidadza ine kwanu dzalalika pyakuonadi pyakubisika pya Mulungu , b nee sidaphatisa basa mafala akimensa kuavesa , pontho na kufunza kukulu tayu . 
+46002001	Abale anga , pidadza ine kwanu dzalalika pyakuonadi pyakubisika pya Mulungu , nee sidaphatisa basa mafala akimensa kuavesa , pontho na kufunza kukulu tayu . 
 46002002	Thangwi ndzidzi ukhali ine namwe ndidanyerezera kuduwalira pinthu pyonsene kupambula Yesu Khristu ene basi , makamaka imfache ya pamtanda . 
 46002003	Tenepo pidafika ine kwanu ndikhali wakusowa mphamvu , pontho wakutetemera pyakwanga na mantha . 
 46002004	Mphangwa na chifunziso changa nee ndikhapilonga na mafala aluso a nzeru za anthu tayu , mbwenye na chitsikimiziro cha mphamvu za Mzimu wa Mulungu , 
@@ -5351,7 +5351,7 @@
 46002007	Nzeru zimbalonga ine ndi nzeru zakubisika za Mulungu , zabisika kuna anthu zile . Mulungu akhadasankhuliratu nzeru yeneyi dziko yapansi mbidzati lengwa , towera atipase demelero . 
 46002008	Nkhabe mtongi na mbodzi ene wa dziko yapansi pano adadziwa nzeru yeneyi tayu . Thangwi iwo mbadapidziwa , nee mbadakhomera pamtanda Mbuya wa demelero tayu . 
 46002009	Kwache ninga munalongera Malemba kuti , " Chinthu chidakhonda ona penu kuva munthu , chinthu chidakhonda nyerezera munthu kuti chinachitika , ntchonthocho chidasasanyira Mulungu anthu ambamfuna ale . "
-46002010	Mbwenye c Mulungu atchulula penepi kuna ife kudzera muna Mzimu wache . Mzimu Wakuchena ambasakasaka chinthu chonsene podi na pinthu pene pyakubisika pyakuzika pya Mulungu . 
+46002010	Mbwenye Mulungu atchulula penepi kuna ife kudzera muna Mzimu wache . Mzimu Wakuchena ambasakasaka chinthu chonsene podi na pinthu pene pyakubisika pyakuzika pya Mulungu . 
 46002011	Ndi mzimu wa munthu okha umbadziwa pyonsene pya munthuyo . Ntchibodzibodzi Mzimu wa Mulungu okha umbadziwa pyonsene pya Mulunguyo . 
 46002012	Ife hatidatambire mzimu wa dziko yapansi pano tayu , m'mbuto mwache tidatambira Mzimu Wakuchena wakubulukira kuna Mulungu , towera tidziwe pyonsene pyatipasa Mulungu . 
 46002013	Timbalonga penepi na mafala ambatifunzisa Mzimu Wakuchena , nee na mafala akufunziswa na nzeru za anthu tayu , ndzidzi unafunzisa ife pyakuonadi pyauzimu kuna anthu akukhala na Mzimu Wakuchenayo .
@@ -5504,7 +5504,7 @@
 46009014	Ntchibodzibodzi , Mbuya adatonga kuti anyakulalika Mphangwa Zadidi atambire pyakuakoya kubulukira pakulalika kwawo mphangwazo . 
 46009015	Mbwenye ine sidaphatise basa kuthema kweneku na pang'ono pene tayu , penu ine ndikulemba kalata yeneyi nee na thangwi yakuti mundichitire pinthu penepi tayu . Mbandidakomerwa kufa pyanga kusiyana nakuti munthu unango andibulusire chinthu chimbanyadira inechi . 
 46009016	Ine nkhabe kwanisa kunyada thangwi yakuti ndimbalalika Mphangwa Zadidi tayu , thangwi adandipanga kuchita tenepo ndi Mbuya . Tenepo mbandidakhonda kulalika Mphangwa Zadidi mbandidakhala wadzedze pikulu . 
-46009017	Mbandidasankhula ndekha kuphata basa yeneyi , ine mbandidadikhira kupagalwi , mbwenye ndikuiphata kwene pyanga na thangv i yakuti basayi adandipasa ndi Mulungu . 
+46009017	Mbandidasankhula ndekha kuphata basa yeneyi , ine mbandidadikhira kupagalwi , mbwenye ndikuiphata kwene pyanga na thangvi yakuti basayi adandipasa ndi Mulungu . 
 46009018	Apo penepa chinapagalwi ine ninji ? Wenewu ndi mwayi wakuti ndingalalika Mphangwa Zadidi , ndizilalike mwakukhonda pagalwi , okhonda phatisa basa kuthema kwanga kulalika Mphangwa Zadidi kuti ndipagalwi nako . 
 46009019	Ine ndine mtumbe nee bitchu wa munthu na mbodzi ene tayu , kwache ndidapisanduza bitchu wa munthu onsene , towera ndinyengerere anthu azinji ene kuti akhale anyakukhulupira . 
 46009020	Kuna Ayuda , ndidakhala ninga Myuda , towera ndianyengerere kuti akhale anyakukhulupira . Kuna anyakuteweza mwambo wa Mose , ndidakhalambo ninga nyakuteweza mwambo wa Mose , podi kwene kuti ine nee ndili pansi pa utongi wa mwambo wa Mose tayu , towera ndianyengerere kuti akhale anyakukhulupira . 
@@ -5523,7 +5523,7 @@
 46010006	Chinchino pyonsene pidachitika pile mphyakuticheuza kuti tileke kusirira pinthu pyakuipa ninga pikhachita iwo . 
 46010007	Tileke kupembedza mifanikizo ninga pikhachita anango a iwo . Ninga munalongera Malemba kuti , " Anthu adakhala pansi kuti adye na kumwa , mbipisanduka kuchita pyakuzuda . "
 46010008	Tileke kuchita pyakuzuda ninga pidachita anango a iwo — anthu pikwi makumawiri na pitatu mbafa nsiku ibodzi . 
-46010009	Tileke kuyesa Mbuya m ninga kumuyesa kudachita anango a iwo , tenepo adaphiwa na nyoka . 
+46010009	Tileke kuyesa Mbuya ninga kumuyesa kudachita anango a iwo , tenepo adaphiwa na nyoka . 
 46010010	Tileke dungunya ninga kudungunya kudachita anango a iwo — tenepo iwo adavungwa na Mngelo wakudzesa imfa . 
 46010011	Pyonsenepyo pidachitika kuna makolo athu , towera pikhale upangizi kuna ife . Pidalembwa , towera pikhale pyakuticheuza . Thangwi tikukhala pandzidzi , ule mamalisiro ali chifupi . 
 46010012	Natenepo munthu ananyerezera kuti aimira dzololoyo , achite mpholemphole kuti aleke kugwa . 
@@ -5759,7 +5759,7 @@
 47001009	Tikhaona ninga tathema kufa . Mbwenye penepi pidachitika , towera tileke kupinyindira tekha ene , mbwenye tinyindire Mulungu ene basi , nyakulamusa anthu kuimfa ule . 
 47001010	Iye adatipulumusa kuna pyakugoswa pya imfafl ninga penepi , pontho anati adzatipulumuse ; tenepo ife taikha chidikhiro chathu pana iye towera iye athimize kutipulumusa , 
 47001011	ndzidzi unatiphedza imwe pakutipempherera . Tenepo kutipempherera kwanu kukulu kunadzaveka kuna Mulungu , iyembo anadzatitsanzayisa , natenepo anthu azinji anadzamkuza , kupereka takhuta kuna iye thangwi ya ife pano . 
-47001012	Chinthu chimbanyadira ife ntchakuti chikumbu mtima chathu chimbachitira umboni pyonsene pyachita ife padziko yapansi pano , maka ubale wa pakati pa imwe na ife tapichita na mtima wakuchena b pontho na mtima onsene , pile pikhali pyakubulukira kuna Mulungu kudzera muna kukoma kwache mtima , nee na thangwi ya nzeru za anthu tayu . 
+47001012	Chinthu chimbanyadira ife ntchakuti chikumbu mtima chathu chimbachitira umboni pyonsene pyachita ife padziko yapansi pano , maka ubale wa pakati pa imwe na ife tapichita na mtima wakuchena pontho na mtima onsene , pile pikhali pyakubulukira kuna Mulungu kudzera muna kukoma kwache mtima , nee na thangwi ya nzeru za anthu tayu . 
 47001013	
 47001014	
 47001015	Podi ndidakhulupiradi penepi , ndidanyerezera kuti nditome fambira imwepo , towera mutsanzayiswe na kundiona kwanu kachiwiri . 
@@ -5991,7 +5991,7 @@
 47012019	Penu mukunyerezera kuti ndzidzi onsene tikhayesa kupitchinjiriza tekha ene pamaso panu ? Nkhabe ! Timbalonga ninga mumbafunira Khristu kuti ife tilonge pamaso pa Mulungu , pontho ashamwali athu apamtima , pyonsene pimbachita ife timbapichita kuti tiphedze napyo imwepo . 
 47012020	Ndikuchita mantha kuti ndingabwera kweneko , ndinadzakugumanani muna makhaliro akusiyana na munafuna ine kuti mukhale nawo , pontho kuti imwe mungadzandione na makhaliro anga asiyana na mukhafunira imwe mule . Ndikuchita mantha kuti ndingadzagumane kukangana , bivu , kuzhangali , kupithemba , kutikana , tsweda , kudungudza na kuvunganyika . 
 47012021	Ndikuchita mantha kuti ndingadzabwera pontho Mulungu wanga anadzandichepesa pamaso panu , pontho kuti ndinadzasintiliri anthu ale adadawa kale ene , mbwenye hadaleka makhaliro akuipa tayu — pyakusirira na pyakuzuda pidachita iwo . 
-47013001	Keneka nkhachitatu kuti ndidze dzakufambirani . Ninga 13
+47013001	Keneka nkhachitatu kuti ndidze dzakufambirani .
 47013002	Ndinafuna ndilonge kuna imwe ale mudadawa kalene , pontho kuna anango onsene ; ine ndidaacheuza kale pandzidzi udakufambirani ine kachiwiri ule , kwache ndinati ndiacheuze pontho ndzidzi una ine kutali namwe : ndzidzi unafuna ine dzabwera pontho nkhabe munthu na mbodzi ene wa iwo anafuna ine dzasiya kukhonda kumtchunyusa tayu . 
 47013003	Penepo munadzaona chitsikimizo chinafuna imwe chakuti Khristu ndiye ambalonga kudzera muna ine . Iye nkhabe sowa mphamvu tayu pa mabasa ambaphata iye muna imwe ; mbwenye ambaonesa mphamvu yache pakati panu . 
 47013004	Ndimomwene kuti akhali wakusowa mphamvu pandzidzi udakhomerwa iye pamtanda , kwache chinchino ana moyo thangwi ya mphamvu ya Mulungu . Ifembo ndife akusowa mphamvu mukuphatanizana kwathu naye , kwache tinadzakhala na moyo pabodzi naye kudzera muna mphamvu ya Mulungu kuti tiphate basa pakati panu . 
@@ -6023,7 +6023,7 @@
 48001016	kutchulula Mwanache kuna ine , towera ndilalike Mphangwa Zadidi zakulonga pya Yesu kuna anthu okhonda khala Ayuda , ine sidenda kuna munthu na mbodzi ene kavunza nzeru tayu , 
 48001017	nee ndidenda ku Yerusalemu kaonana na ale akhali anyakutumwa ine ndidzati sanduka kukhala nyakutumwa . Mbwenye ndidenderatu kudziko ya Arabia ; kubuluka penepo ndidabwerera ku Damasiko . 
 48001018	Pidagwanda pyaka pitatu ndidenda ku Yerusalemu kaonana na Peturo mbandikhala naye madimingu mawiri . 
-48001019	Kweneko sidaonana na nyakutumwa unango tayu kupambula Yakobo , b mbaleache Mbuya . 
+48001019	Kweneko sidaonana na nyakutumwa unango tayu kupambula Yakobo , mbaleache Mbuya . 
 48001020	Pinalemba inepi mphyakuonadi . Mulungu akupidziwa kuti nee ndikunamabi . 
 48001021	Kubuluka penepo ndidenda kunthemba za Siria na Kilikia . 
 48001022	Pandzidzi wenewu mipingo ya mu Yudea nkhuti hidzati kundidziwa na pankhope tayu . 
@@ -6103,7 +6103,7 @@
 48004022	Ninga munalongera Malemba kuti Abrahamu akhali na ana achimuna awiri , mbodzi mache akhali bitchu , unangoyi mache akhali mtumbe . 
 48004023	Mwanache adabalwa na bitchuyi adabalwa kwene ninga mumbabalirwa anthu onsene , mbwenye mwanache unango ule adabalwa na mtumbeyi adabalwa kudzera muna kudumbira kudachita Mulungu kule . 
 48004024	Penepi pinakwanisa kuveka ninga msangani , thangwi amama awiri ale akuimirira piverano piwiri . Mama , ule anache adabalwa mabitchu ale , ndi Hagara , tenepo akuimirira chiverano chidasasanywa paphiri ya Sinai . 
-48004025	Hagara , ule akuimirira phiri ya Sinai m'dziko ya Arabia , ntchithunzithunzi s cha mzinda wa Yerusalemu walero , thangwi iye na anache ndi mabitchu . 
+48004025	Hagara , ule akuimirira phiri ya Sinai m'dziko ya Arabia , ntchithunzithunzi cha mzinda wa Yerusalemu walero , thangwi iye na anache ndi mabitchu . 
 48004026	Mbwenye Yerusalemu wakudzulu ndi mtumbe — pontho iye ndiye mathu . 
 48004027	Thangwi Malemba akulonga kuti , " Tsanzaya iwe mkazi wokhonda bala ! Khuwa , pontho lira na kusekera , ule chipo hudave mtswotswo wakubala tayu . Thangwi mkazi , ule adakhondwa na mamunache anadzakhala na ana azinji kupiringana mkazi , ule anakhala na mamunache . "
 48004028	Chinchino imwe abale anga , ndimwe ana a Mulungu akubalwa thangwi ya kudumbira kudachita iye , ninga mudachitira Isake . 
@@ -6150,7 +6150,7 @@
 48006012	Anthu , ale akuyesayesa kukukakamizani kuti mugwandwe nsonga yakumaso , ngontho ale ambafuna kuoneka akukoma pamaso pa anthu pakunyadira pinthu pikhachita iwo pamanungo awo . Iwo ambachita tenepo gopesera kubonereswa thangwi ya mtanda wa Khristu . 
 48006013	Podi na anyakugwandwa nsonga yakumaso ene hambavera mwambo tayu ; iwo akufuna kuti imwe mugwandwe towera iwo akwanise kunyada kuti imwe mudavera pakugwandwa kwanu nsonga yakumaso . 
 48006014	Mbwenye kulonga pya ine , ndinati ndinyadire mtanda wa Mbuyathu Yesu Khristu basi , thangwi kudzera muna mtandache , kupiona kwa pinthu kwa anthu a padziko yapansi kuna ine , nkhwapezi — ine ndakhala ninga wakufa kuna kupiona kwawo kwa pinthu . 
-48006015	Kugwandwa nsonga yakumaso penu h6.2 munati muvere : pyakulembwa pinango pyakale pyalonga mwavera . kukhonda gwandwa nkhabe basa na pang'ono pene tayu . Chinthu chakufunika chadichadi nkhukhala munthu wakusasanywa mwachinchino . 
+48006015	Kugwandwa nsonga yakumaso penu kukhonda gwandwa nkhabe basa na pang'ono pene tayu . Chinthu chakufunika chadichadi nkhukhala munthu wakusasanywa mwachinchino . 
 48006016	Kuna onsene akuteweza chirunziso chenechi m'moyo mwawo , ndikupempha kuti mtendere na nsisi za Mulungu pikhale kuna iwo na kuna anthu onsene a Mulungu .
 48006017	Pakumalisira : munthu na mbodzi ene mbaleke kundithimizira nyatwa zinango tayu , thangwi madazwi ana ine m'manungo mwangawa akuonesa kuti ndine bitchu wa Yesu . 
 48006018	Kukoma mtima kwa Mbuya Yesu Khristu kukhale namwe monsene , abale anga . Ameni . 
@@ -6285,7 +6285,7 @@
 49005031	Ninga mudalongera Malemba kuti , " Thangwi ya penepi mamuna anadzasiya babache na mache mbakaphatikana na mkazache , tenepo uwiriawo anadzakhala mbodzi . "
 49005032	Pana chakubisika chakuzika chakuonadi chile chatchululwa m'Malemba chinaona ine kuti chikulonga pya Khristu na pya mpingo . 
 49005033	Mbwenye chikulonga pontho kuna imwepo : Mamuna onsene athema kufuna mkazache ninga mumbapifunira iye yekha ene , mkazimbo athema kulemedza mamunache . 
-49006001	Anamwe verani makolo anu , thangwi , ninga ana a Mulungu , h mphyakuthema kuchita tenepo . 
+49006001	Anamwe verani makolo anu , thangwi , ninga ana a Mulungu , mphyakuthema kuchita tenepo . 
 49006002	" Lemedzani babanu na manu " , enewa ndi matongero akutoma ale padzulu pache pana kudumbira ;
 49006003	" towera pinthu pyonsene pifambe mwadidi kuna imwe , pontho kuti nsiku zakukhala kwanu na moyo pansi pano ziinjipe . "
 49006004	Imwembo , ababa lekani kusosa ananu , mbwenye mualere na kuapasa mwambo pontho kuafunzisa m'njira yachikhristu . 
@@ -6348,7 +6348,7 @@
 50002007	M'mbuto mwache iye adapereka na kufuna kwache pyonsene pikhali na iye , pontho iye adasanduka kukhala ninga bitchu mbakhala munthu ninga anthu onsene . 
 50002008	Pidakhala iye ninga munthu tenepo , iye adapichepesa pontho adavera , podi na kufa kwene — kufa kwache kwa pamtanda kule . 
 50002009	Na thangwi yeneyi Mulungu adamkuza monsene mwene mbampasa dzina yakupiringana madzina onsene , 
-50002010	mwakuti pyonsene pya kudzulu , pya pansi pano , na pya dziko ya pansi pamataka , d pinadzagodama kulemedza dzina ya Yesu , 
+50002010	mwakuti pyonsene pya kudzulu , pya pansi pano , na pya dziko ya pansi pamataka , pinadzagodama kulemedza dzina ya Yesu , 
 50002011	pontho munthu onsene anadzatawira na mulomo wache kuti Yesu Khristu ndi Mbuya , kudzesa demelero kuna Mulungu Baba . 
 50002012	Natenepo , abale anga apamtima , mphyakufunika pyakwanga pene chinchino ndzidzi una ine kutali na imwe kuti munyanye kundivera ninga kundivera kukhachita imwe ndzidzi onsene ukhali ine na imwe . Thimizani kuchita pinthu pyakuthemerana na chipulumuso chanu mwamantha pontho mwakutetemera kufikirana mamalisiro ache . 
 50002013	Thangwi Mulungu ndiye ambaphata basa muna imwe kukuchitisani kufuna , pontho kukwanisa kuvera kufuna kwache . 
@@ -6456,7 +6456,7 @@
 51002012	Thangwi pandzidzi udabatizwa imwe , mudaikhwa pabodzi na Khristu m'masiye , pontho muubatizo monthpmo imwe mudalamuswambo pabodzi naye kudzera muna chikhulupiro chanu pana mphamvu ya Mulungu , adalamusa Khristu kuimfa ule . 
 51002013	Imwe kale mukhadafa muuzimu thangwi ya pyakudawa pyanu , pontho thangwi yakuti imwe mukhali anthu okhonda khala Ayuda okhonda dziwa mwambo . Mbwenye chinchino Mulungu akupasani moyo pabodzi na Khristu . Mulungu adalekerera pyakudawa pyathu pyonsene ;
 51002014	iye adafudza mangawathu akhali na ife na matongero ache ene akhapokanyana na ife ale , pontho iye adaafudziratu pakuakhomera pamtanda . 
-51002015	Pamtandapo Khristu adamalisa mphamvu za mizimu yakukhala na mphamvu pontho utongi , d pontho iye adaatsogolera pakwecha ninga anyaperezo pamlikiti kuonesa kuakunda kwache . 
+51002015	Pamtandapo Khristu adamalisa mphamvu za mizimu yakukhala na mphamvu pontho utongi , pontho iye adaatsogolera pakwecha ninga anyaperezo pamlikiti kuonesa kuakunda kwache . 
 51002016	Tenepo paleke khala munthu wakukupokanyani papinthu pinadya imwe penu kupimwa , penu pya nsiku zakupambulika , maphwando akusekera kubalwa kwa mwezi , penu pya Nsiku Yakupuma . 
 51002017	Pinthu ninga penepi ntchithunzithunzi chene cha pinthu pya m'tsogolo , mbwenye chadichadi ndi Khristu . 
 51002018	Lekani tawirisa munthu na mbodzi ene kukuchitisani kukhondeswa kutambira mfupo , ule ambapiyesa ninga wakufunika pyakwanga thangwi ya masomphenya akupambulika , pontho ule ambapikakamiza kuoneka ninga ngwakupichepesa , pontho kuti angelo apembedzwe . Munthu ninga weneyu ambapithemba na manyerezero ache a umunthu okhonda na mathangwi ene , 
@@ -6621,7 +6621,7 @@
 53002010	pontho anadzaphatisa basa unthawatawa onsene kunyengeza nawo anthu anafuna dzatayika ale . Iwo anadzatayika thangwi hadatambire pontho kufuna pyakuonadi tayu kuti apulumuke napyo . 
 53002011	Natenepo Mulungu anadzatumiza mphamvu yakuanyengeza , towera iwo adzakhulupire pinthu pyakunama . 
 53002012	Na thangwi yeneyi anthu , ale adakhonda kukhulupira pyakuonadi mbakomerwa pyawo na kuchita pyakudawika , anadzakonwa . 
-53002013	Ife tathema kupereka takhuta kuna Mulungu ndzidzi onsene thangwi ya imwepo , abale , ale ambafunwa na Mbuya . Thangwi Mulungu adakusankhulani kukhala akutoma b kupulumuswa kudzera muna mphamvu ya Mzimu Wakuchena kukuchitisani kukhala anthu akuchena kudzera muna chikhulupiro chanu pana pyakuonadi . 
+53002013	Ife tathema kupereka takhuta kuna Mulungu ndzidzi onsene thangwi ya imwepo , abale , ale ambafunwa na Mbuya . Thangwi Mulungu adakusankhulani kukhala akutoma kupulumuswa kudzera muna mphamvu ya Mzimu Wakuchena kukuchitisani kukhala anthu akuchena kudzera muna chikhulupiro chanu pana pyakuonadi . 
 53002014	Mulungu adakuchemererani penepi kudzera muna Mphangwa Zadidi zidakulalikirani ife ; towera mutambirembo khundu yanu pa demelero ya Mbuyathu Yesu Khristu . 
 53002015	Natenepo , abale athu , imirani dzololo , pontho phatisani pyakuonadi pidakufunzisani ife , pakulalika na kupilemba kwene m'kalata pile . 
 53002016	Mbuyathu Yesu Khristu mwenechiro , pontho Mulungu Babathu ule adatifuna , pontho ule na kukoma mtima kwache adatipasa kuwanga mtima kokhonda mala , pontho na chidikhiro chakukhazikika , 
@@ -6678,9 +6678,9 @@
 54002012	Ine nkhabe tawirisa kuti akazi afunzise penu kukhala na utongi pana amuna tayu , mbwenye athema kumatama . 
 54002013	Thangwi Adamu ndiye adatoma kusasanywa , kubuluka penepo Hava . 
 54002014	Si Adamu tayu adanyengezwa ule , mbwenye ndi mkazi adanyengezwa mbaswa mwambo wa Mulungu . 
-54002015	Mbwenye mkazi anadzapulumuka thangwi ya kubala , a ngakhala iye anapirira b m'chikhulupiro , mukufunana , na m'mtima wakuchena , pontho na mwakupilemedza . 
+54002015	Mbwenye mkazi anadzapulumuka thangwi ya kubala , a ngakhala iye anapirira m'chikhulupiro , mukufunana , na m'mtima wakuchena , pontho na mwakupilemedza . 
 54003001	Kulonga uku nkhwakuonadi : Ngakhala munthu ana chipapo kukhala mkadamu wa mpingo , iye akhumba basa yadidi pyakwanga . 
-54003002	Mkadamu wa mpingo athema kukhala munthu wakusowa chinthu chakumpokanyisa . Akhale mamuna wa mkazi mbodzi , c okhonda ledzera , wakuuphata mtima , wakupilemedza , wakutambira alendo mwadidi kumusa kwache , wakukwanisa kufunzisa ;
+54003002	Mkadamu wa mpingo athema kukhala munthu wakusowa chinthu chakumpokanyisa . Akhale mamuna wa mkazi mbodzi , okhonda ledzera , wakuuphata mtima , wakupilemedza , wakutambira alendo mwadidi kumusa kwache , wakukwanisa kufunzisa ;
 54003003	aleke khala dombe penu wanthonga ; mbwenye akhale wakufulika pontho wakufuna mtendere ; aleke khala wakukhumba mfuma ;
 54003004	iye athema kukwanisa kufambisa mwadidi banjache , pontho aone kuti anache akumvera na chilemedzo chikulu . 
 54003005	Thangwi ngakhala munthu hanadziwa kufambisa banjache mwadidi tayu , anakwanisa tani kuyang'anira inpingo wa Mulungu ?
@@ -6690,7 +6690,7 @@
 54003009	Iwo athimize kuphatisa chikhulupiro chakuzika chakuonadi na chikumbu mtima chadidi . 
 54003010	Chakutoma iwo ayeswe , tenepo ngakhala anapikwanisa , penepo iwo athema kuphata basa . 
 54003011	Akazawombo athema kukhala na makhaliro adidi , pontho aleke khala atsweda , penu akuledzera , mbwenye akukhulupirika papyonsene . 
-54003012	Nyakuphedzera mumpingo athema kukhala na mkazi mbodzi basi , « pontho akhale wakukwanisa kuyang'anira mwadidi anache na banjache ene . 
+54003012	Nyakuphedzera mumpingo athema kukhala na mkazi mbodzi basi , pontho akhale wakukwanisa kuyang'anira mwadidi anache na banjache ene . 
 54003013	Anyakuphedzera ale ambaphata basa mwadidi ambapichemerera okha ene mbiri yadidi . Pontho ambawanga mtima pakulonga pya chikhulupiro chawo pana Khristu Yesu . 
 54003014	Pinalemba ine kalatayi kuna iwe , ndikudikhira kubwera chinchino pano kuti ndidzakuone . 
 54003015	Mbwenye ngakhala ndinanonokwa , kalatayi inakudziwisa makhaliro athema ife kukhala nawo m'banja ya Mulungu , ile ndi mpingo wa Mulungu wamoyo , pontho mzati wakuphatisa nawo pyakuonadi . 
@@ -6704,7 +6704,7 @@
 54004007	Mbwenye ukhonde pithankano pyakusowa basa , pile mphyakukhonda thema kupilonga , m'mbuto mwache thimiza masenzeka akulemedza nawo Mulungu . 
 54004008	Masenzeka akuwangisa manungo ngakuganyalisa , mbwenye moyo wakulemedza Mulungu ngwakuganyalisa pyakwanga monsene mwene , thangwi ambachitisa kudumbira kukwanekwane kuna moyo uno , pontho na kuna moyo unafuna kudzawo . 
 54004009	Kulonga uku nkhwakuonadi , kule kwathema kutambirwa monsene mwene , pontho kukhulupirwa . 
-54004010	Ife timbaphata basa mwakuwangisa s thangwi taikha chidikhiro pana Mulungu wamoyo , ule ndi Nyankhombo wa onsene makamaka wa anthu akukhulupira . 
+54004010	Ife timbaphata basa mwakuwangisa thangwi taikha chidikhiro pana Mulungu wamoyo , ule ndi Nyankhombo wa onsene makamaka wa anthu akukhulupira . 
 54004011	Pereka kuna iwo matongero na pifunziso penepi . 
 54004012	Leka tawirisa munthu unango kuti akululupise thangwi ya kukhala mphale . Mbwenye ukhale upangizi kuna anyakukhulupira kudzera muna malongero ako , makhaliro ako , kufunana kwako , chikhulupiro chako pontho na ungwiro wako . 
 54004013	Upipereke pa kuwerengera anthu mafala a Mulungu pakwecha , kualalikira , pontho na kuafunzisa , mpakana ndibwere kweneko . 
@@ -6731,7 +6731,7 @@
 54005018	Thangwi Malemba akulonga kuti , " Leka manga mulomo wa ng'ombe uku ikububuda mapira " pontho " Nyabasa athema kupagalwi pyakumthemera . "
 54005019	Leka vera mafala akulongwa mwakupokanyisana na mkulu wa mpingo pangakhonda khala mboni ziwiri panu zitatu . 
 54005020	Anthu anachita pyakudawawo asumulire pakwecha , towera anangowo achite mantha . 
-54005021	Pamaso pa Mulungu na Khristu Yesu , pontho na pa angelo ndikukupanga mwakugogomeza kuti uvere matongero onsenewa mwachilungamo pontho uchite pinthu A5.9 adasembwa kwene kabodzi basi : penu wakukhulupirika kuna mamunache . mwakukhonda yang'ana nkhope . 
+54005021	Pamaso pa Mulungu na Khristu Yesu , pontho na pa angelo ndikukupanga mwakugogomeza kuti uvere matongero onsenewa mwachilungamo pontho uchite pinthu mwakukhonda yang'ana nkhope . 
 54005022	Leka chimbiza na kusanjika manja pana munthu kumpambula kuti aphate basa ya Mbuya . Leka kwata khundu pa pyakudawa pya munthu unango ; pikoye wekha ene mwakuchena mtima . 
 54005023	Leka kumwa madzi okha , mbwenye umwe pontho vinyu pang'ono kunyungulusa kudya m'mimba mwako podi umbadwaladwala . 
 54005024	Kudawa kwa anthu anango kwaoneka kale pakwecha , pontho kudawa kwawo kwatsogola kale katongwa mseru . Mbwenye kudawa kwa anthu anango kumbachita kuatewera m'nduli . 
@@ -6771,7 +6771,7 @@
 55001012	tenepo ndi thangwi yache ine ndikubonera ninga munachitira inemu . Kwache ine nkhabe chita manyadzo tayu , thangwi ananyindira ineyo ndimbadziwa , pontho ndina chikhulupiro kuti iye anakwanisa kukoya mwadidi pinthu pidamkoyesa ine pile " mpakana nsiku yakubwera kwache pontho . 
 55001013	Phatisa chifunziso chakuonadi chidava iwe kuna ine chile , towera chikhale upangizi wathema iwe kuutsanzira . Thimiza kukhala m'chikhulupiro pontho mukufunana , pile mphyathu mukuphatanizana na Khristu Yesu . 
 55001014	Na kuphedzwa na Mzimu Wakuchena ambakhala muna ife ule , koya pinthu pyadidi pidapaswa iwe kuti upikoye pile . 
-55001015	Iwe ukupidziwa kuti munthu onsene m'nthemba ya Asia , kuthimiza Figelo na Heremogene adandisiya ndekha ene . " 1.12 pidamkoyesa ine pile : penu pidandikoyesa iye pile . 
+55001015	Iwe ukupidziwa kuti munthu onsene m'nthemba ya Asia , kuthimiza Figelo na Heremogene adandisiya ndekha ene . "
 55001016	Mbuya achitire nsisi banja ya Onesiforo thangwi kazinji kene adanditsitsimusa ndiye . Iye hadachite manyadzo tayu kuti ndili m'perezo , 
 55001017	mbwenye si ndzidzi pidafika iye mu Roma , adatoma kundisakasaka mpakana adandigumana . 
 55001018	Mbuya adzamchitire nsisi pansiku yakubwera kwache pontho . Iwe ukupidziwa mwadidi mwene mule mudandiphedzera iye mu Efeso . 
@@ -6816,7 +6816,7 @@
 55003013	mwenemo anthu akuipa na akunyengeza anango anadzanyanyiratu kuipa , kunyengeza anthu anango , pontho na iwo enembo kunyengezwa . 
 55003014	Mbwenye iwe thimiza kuphatisa pyakuonadi pidafunziswa iwe pile mbupikhulupira na chipapo . Thangwi iwe ukuadziwa adakufunzisa penepi ale , 
 55003015	pontho ukukumbuka kuti kutomera uwanako ukudziwa Malemba akuchena , ale anakwanisa kukupasa nzeru zakuti upulumuke nazo kudzera muna chikhulupiro muna Khristu Yesu . 
-55003016	Malemba onsene ngakupepeserwa na Mulungu , tenepo iwo ngakufunika b kufunzisa nawo chakuonadi , kusumulula chakuipa , kusasanya chakudawika na kupereka matongero a makhaliro akulungama , 
+55003016	Malemba onsene ngakupepeserwa na Mulungu , tenepo iwo ngakufunika kufunzisa nawo chakuonadi , kusumulula chakuipa , kusasanya chakudawika na kupereka matongero a makhaliro akulungama , 
 55003017	towera munthu wakuphatira basa Mulungu akhale wakukwanakwana pontho wakuthema kuphata basa yadidi yamtundu onsene . 
 55004001	Pamaso pa Mulungu na pa Khristu Yesu , ule anadzatonga mseru anthu onsene amoyo na akufa ene , pontho na thangwi yakuti akubwera pontho dzatonga ninga mfumu , ndikukudembetera pikulu pene kuti
 55004002	ulalike Mphangwa Zadidi . Sasanyika kulalika mphangwazo pandzidzi unafuna anthu na pandzidzi unakhonda funa anthu , cheuza , sumulula , wangisa mtima — mwakupirira kukulu pontho mwakuchita mpholemphole . 
@@ -7176,7 +7176,7 @@
 58012014	Yesani kukhala mwamtendere na anthu onsene , pontho kukhala na moyo wakuchena , thangwi nkhabe munthu anadzaona Mbuya okhonda khala na moyo wenewu tayu . 
 58012015	Khalani m'maso kuti paleke khala unango wakubauka kubuluka kuna kukoma mtima kwa Mulungu . Paleke khala munthu na mbodzi ene wakukhala ninga mmera wakuwawa , ule ungakula umbanensa anthu na kuwawa kwacheko . 
 58012016	Khalani m'maso kuti paleke khala munthu na mbodzi ene wakuzuda , penu munthu wakukhonda lemedza Mulungu ninga Esau , ule adagulisa chidzo cha utombo wache na kudya kubodzi basi . 
-58012017	Kubuluka penepo mukupidziwa kuti iye akhafuna kutsanzayiswa na babache , kwache iye adakhonderwa , thangwi hadakwanise kusanduza pikhadachita iye pile tayu ; podi kwene kuti iye adapipempha h na misozi . 
+58012017	Kubuluka penepo mukupidziwa kuti iye akhafuna kutsanzayiswa na babache , kwache iye adakhonderwa , thangwi hadakwanise kusanduza pikhadachita iye pile tayu ; podi kwene kuti iye adapipempha na misozi . 
 58012018	Imwe hamudadza ninga mule mudadzera Alsraele kuna pinthu pyakuphatika tayu , kuphiri ya Sinai yakugaka moto na mdima wakugoswa , pontho na chonzi ile , 
 58012019	kulira kwa ngoma , pontho na kuveka kwa fala mwakuti pidava anthu falayi , iwo adapempha kuti fala ileke longa pontho , 
 58012020	thangwi iwo hadakwanise kupirira tayu matongero akuti , " Ngakhala nyama ene yakukhuya phiriyo , yathema kuponyerwa miyala . "
@@ -7321,7 +7321,7 @@
 59005017	Mprofeti Elia akhali munthu sasawa na ife . Iye adapemphera pyakwanga pene kuti kukhonde khala mvula , tenepo mvula hidadze tayu pyaka pitatu na theka . 
 59005018	Iye adapemphera pontho , penepo mvula idavumba , dzikombo mbibala mbewu . 
 59005019	Abale anga , ngakhala mbodzi pakati panu abauka kubuluka kuna pyakuonadi , tenepo unango angambweza , 
-59005020	kumbukani ipi : munthu anabweza munthu wakudawa kubulukira kuna makhaliro ache akudawikayo anati adzapulumuse moyo wa munthu wakudawayo d kuimfa mbachitisa pyakudawa pizinji kulekererwa . 
+59005020	kumbukani ipi : munthu anabweza munthu wakudawa kubulukira kuna makhaliro ache akudawikayo anati adzapulumuse moyo wa munthu wakudawayo kuimfa mbachitisa pyakudawa pizinji kulekererwa . 
 60001001	Kubulukira kuna ine , Peturo , nyakutumwa wa Yesu Khristu — Kwenda kuna anthu akusankhulika a Mulungu , ale adathawa kwawo kubalalikira kunthemba za Ponto , Galatia , Kapadokia , Asia na Bitinia . 
 60001002	Imwe mudasankhulwa malingana na kupidziwiratu kwa Mulungu Baba . Iye adakusanduzani kukhala anthu akuchena kudzera muna Mzimu Wakuchena , towera muvere Yesu Khristu , pontho mucheneswe kudzera muna chiropa chache . Kukoma mtima na mtendere pikhale kuna imwe mwakuinjipa . 
 60001003	Tendeni tipereke takhuta kuna Mulungu , pontho Baba wa Mbuyathu Yesu Khristu ! Na thangwi ya nsisi zache zikulu , iye adatipasa moyo utswa pakulamusa Yesu Khristu kuimfa . Penepi pimbatichitisa kuti tikhale na chidikhiro chadichadi , 
@@ -7359,7 +7359,7 @@
 61001010	Tenepo abale anga , chitani phinga pyakwanga pene kuti muchitise kukuchemerani , pontho kukusankhulani kudachita Mulungu kukhala kwakukhazikika ; mungachita tenepo , imwe nkhabe dzagwa m'pyakudawa tayu . 
 61001011	Tenepo munadzatambirwa na manja mawiri pamsuwo wakupitira mu Ufumu okhonda mala wa Mbuyathu , pontho Nyankhombo wathu Yesu Khristu . 
 61001012	Tenepo ndzidzi onsene ndinadzakukumbusani pya pinthu penepi , podi kwene kuti mukupidziwa kale , pontho kuti mwakhazikika kale pa pyakuonadi pidatambira imwe pile . 
-61001013	Ndapinyerezera kuti mphyakuthema , ndzidzi unakhala ine m ' manungo a pansi pano , kukutsitsimusani pakukukumbusani pya pinthu penepi . 
+61001013	Ndapinyerezera kuti mphyakuthema , ndzidzi unakhala ine m'manungo a pansi pano , kukutsitsimusani pakukukumbusani pya pinthu penepi . 
 61001014	Ndikupidziwa kuti chinchino pano ndinati ndisiye manungo anga ninga mudapilongera Mbuyathu Yesu Khristu mwakuveka kuna ine . 
 61001015	Tenepo ndinachita phinga kuti pikhale pyakukwanisika kuti mukumbuke penepi ndzidzi onsene ine ndingadzafa . 
 61001016	Ife nee tidateweza pithankano pyakupekwa mwakuchenjera na anthu pidakudziwisani ife pya mphamvu zache , pontho na kubwera pontho kwa Mbuyathu Yesu Khristu tayu . Mbwenye tidaona ukulu wache na maso athu ene . 
@@ -7427,7 +7427,7 @@
 62002007	Ashamwali apamtima , matongero anakulemberani ine si achinchino tayu , mbwenye ngontho akale , ale akhala na imwe kutomera pakutomaletu . Matongero akale ndi mphangwa zava imwe kale zile , 
 62002008	kwache matongero anakulemberani inewa ngachinchino ; pyakuonadi pyache pikuoneka muna Yesu , pontho muna imwe . Thangwi mdima ukugwanda , cheza chadichadi chatoma kale kumwinikira . 
 62002009	Ule analonga kuti ali m'cheza mbazonda mbaleache , penepo iye ali mumdima na lero . 
-62002010	Ule anamfuna mbaleache ambakhala m'cheza , natenepo muna iye nkhabemo chinango chakufuna kumdawisa b tayu . 
+62002010	Ule anamfuna mbaleache ambakhala m'cheza , natenepo muna iye nkhabemo chinango chakufuna kumdawisa tayu . 
 62002011	Mbwenye nyakuzonda mbaleache ambakhala mumdima . Ambafamba mumdima mbakhonda dziwa kunaenda iye , thangwi mdima wampasa uboliboli . 
 62002012	Ndikulembera imwe , ananga , thangwi pyakudawa pyanu pyalekererwa thangwi ya pidachita Khristu . 
 62002013	Ndikulembera imwe , ababa , thangwi imwe mumbamdziwa ule akhalipo kutomera pakutomaletu . Ndikulembera imwe , aphale , thangwi mwamkunda Nyakuipa ule . 
@@ -7520,7 +7520,7 @@
 63001005	Natenepo ndikupempha imwe , mkazi wakusankhulwa na Mulungu , kuti tifunane unango na mwanzache . Matongero anakulemberani inewa si achinchino tayu . Enewa ndi matongero akhali na ife kubulukira pakutoma . 
 63001006	Kufunana kunalonga ineku nkhwakuti tikhale akuvera matongero a Mulungu . Matongero ache ninga mwavera imwe kubulukira pakutoma ngakuti monsene mukhale akufunana . 
 63001007	Anyakunyengeza anthu azinji , pontho anyakukhonda tawira kuti Yesu Khristu adadza ninga munthu chadichadi , afalikira padziko yonsene yapansi . Munthu wakuchita tenepo ngwakunama , pontho ndi nyamalwa wa Khristu . 
-63001008	Onesesani kuti muleke dzataya pidaphatira ife b basa pile , mbwenye kuti mudzatambire mfupo wanu wamumphu . 
+63001008	Onesesani kuti muleke dzataya pidaphatira ife basa pile , mbwenye kuti mudzatambire mfupo wanu wamumphu . 
 63001009	Munthu anakhonda thimiza kukhala na chifunziso cha Khristu , mbwenye mbathimizirapo pyachembo , weneyo nkhabe Mulungu tayu . Munthu anathimiza kukhala nacho chifunziso chenechi ana Baba na Mwana ene . 
 63001010	Tenepo , ngakhala munthu unango anadza kuna imwe mbakhonda funzisa chifunziso chenechi , lekani kumtambira kumusa kwanu , pontho lekani na kumpasa kwene mwenyikiro . 
 63001011	Thangwi nyakumtambira mwadidiyo anadzasanduka mwanzache wakuchita naye pinthu pyakuipa pimbachita iye pile . 
@@ -7533,7 +7533,7 @@
 64001005	Shamwali wapamtima ndiwe wakukhulupirika pyakwanga pabasa imbaphatira iwe akhristu anzako podi kwene kuti iwo mbalendo kuna iwe . 
 64001006	Iwo adapanga mpingo kuno pya kuafuna kudachita iwe . Uaphedze mwakukomera Mulungu , towera athimize ulendo wawo . 
 64001007	Thangwi adalamuka ulendo wawo kuphatira basa Khristu mbakhonda chiphedzo chakubulukira kuna anyakukhonda khala akhristu . 
-64001008	Ifembo akhristu tathema kuaphedza 3 Yohani 559 anthu enewa , towera tikwate khundu pabasawo inaphatira iwo kuvekesa pyakuonadi . Pya Diotrefe na Demetrio
+64001008	Ifembo akhristu tathema kuaphedza anthu enewa , towera tikwate khundu pabasawo inaphatira iwo kuvekesa pyakuonadi . Pya Diotrefe na Demetrio
 64001009	Ndidalemba kalata yachigwandira kuna mpingo , mbwenye Diotrefe , nyakuthanda kukhala mkadamu pakati pawo , nkhabe dzavesera pinalonga inepi tayu . 
 64001010	Tenepo ndingadza ndinadzakumbusa mabasa onsene ambaphata iye , pinthu pyakuipa pontho tsweda pimbatilongera iye pile . Kwache pimbachita iye si pyokhapyo tayu ; iye ambakhonda kutambira abale achikhristu , pontho podi na anthu ene ambafuna kuatambira ale , iye ambayesa kuabulusa mumpingo . 
 64001011	Shamwalianga wapamtima , leka tsanzira pinthu pyakuipa , mbwenye utsanzire pinthu pyadidi . Munthu ambachita pinthu pyadidi , weneyo ngwache wa Mulungu , mbwenye nyakuchita pyakuipa , weneyo hadaone Mulungu tayu . 
@@ -7547,7 +7547,7 @@
 65001004	Thangwi anthu anango okhonda tsalakana pya Mulungu adapita pakati pathupa mwakukhonda dziwika , anthu ale ambapotoza mphangwa za kukoma mtima kwa Mulungu wathu ninga chinthu chakuapasa utumbe wakuchitira pyakuzuda , pontho ngale ambakhonda Yesu Khristu , Mbuyathu pontho Mfumu yekha ene ule . Kalene Malemba adalongeratu pya kutchunyuswa kwatambira iwo . 
 65001005	Podi kwene kuti imwe mukupidziwa pyonsenepi , chinchino ndikufuna kukukumbusani mule mudapichita Mbuya a nyampheraphera kupulumusa anthu a ku Israele kabodzi kene basi kubulukira m'dziko ya Iguputo , mbwenye pidamala penepo , iye adavunga anthu adakhonda khulupira ale . 
 65001006	Kumbukani angelo ale hadakhutira na utongi ukhadaperekwa kuna iwo ule , mbwenye iwo adasiya mbuto zawo zikhakhala iwo zile : iwo adamangwa na njema kumdima kwenda na kwenda , kule kunaakoya Mulungu kudikhira Nsiku ikulu inafuna iwo dzatchunyuswa . 
-65001007	Kumbukani Sodomu na Gomora na maluwani a chifupi ale . Ninga angelo , anthu a m ' maluwani enewa akhachita pyakuzuda mbateweza pikhumbo pyakupokanyisana na makhaliro aumunthu ; kutchunyuswa kwawo na moto okhonda mala mphyakucheuza anthu anango onsene . 
+65001007	Kumbukani Sodomu na Gomora na maluwani a chifupi ale . Ninga angelo , anthu a m'maluwani enewa akhachita pyakuzuda mbateweza pikhumbo pyakupokanyisana na makhaliro aumunthu ; kutchunyuswa kwawo na moto okhonda mala mphyakucheuza anthu anango onsene . 
 65001008	Mbwenye anthu enewa akuchita chibodzibodzi kuteweza ndoto zawo , zile zimbaachitisa kuti adawire manungo awo ; iwo ambalulupisa utongi wa Mulungu mbatikana pyakulengwa pyamoyo pyademelero pya kudzulu . 
 65001009	Nee Mikaeli ene , mkadamu wa angelo onsene , adachita penepi tayu . Ndzidzi ukhapokanyana iye na Satana kukanganirana mtembo wa Mose , iye hadawange mtima tayu kulonga na mafala akumtikana nawo kuti akonwa , mbwenye adalonga mbati , " Mbuya mbakusumulule ! " Mbwenye anthu enewa ambalongera pyakuipa pinthu pyonsene pimbakhonda iwo kuvesa ; tenepo pinthu pimbadziwa iwo na nzeru zawo zakubalwa nazo pile , ninga mumbachitira pirombo pyantsanga , mphyonthopyonthopyo pimbaavunga . 
 65001010	
@@ -7650,7 +7650,7 @@
 66004011	" Mbuya Mulungu wathu ! Ndimwe wakuthema kutambira demelero , chilemedzo na mphamvu . Thangwi ndimwe mudalenga pinthu pyonsene , pontho na kufuna kwanu pyonsene pidalengwa mbapikhalapo . "
 66005001	Ndidaona mpukutu kudzanja yamadyo ya nyakukhala pampando wachifumu ule . Mpukutu ule ukhali na pyakulembwa khundu zonsene ziwiri mbumyatirirwa na pyakumyatira pinomwe . 
 66005002	Ndidaona mngelo wamphamvu akuvunza mwakugaluza fala mbati , " Mbani athema kukanandula pyakumyatira kufungula mpukutuwu ? "
-66005003	Mbwenye kudzulu , penu padziko yapansi na dziko ya pansi pamataka b pakhali nkhabe munthu na mbodzi ene wakukwanisa kufungula mpukutu ule mbayang'ana m'bwalo mwache tayu . 
+66005003	Mbwenye kudzulu , penu padziko yapansi na dziko ya pansi pamataka pakhali nkhabe munthu na mbodzi ene wakukwanisa kufungula mpukutu ule mbayang'ana m'bwalo mwache tayu . 
 66005004	Ndidalira pikulu pene thangwi pakhali nkhabe munthu na mbodzi ene wakuthema kufungula mpukutu ule mbayang'ana m'bwalo mwache . 
 66005005	Natenepo mbodzi wa akuluakulu ale adalonga kuna ine mbati , " Leka kulira . Yang'ana ! Nkhalamu yakubulukira kudzinza ya Yuda , Chidzukulu cha Davite , nyakukunda ule , ndiye anakwanisa kukanandula pyakumyatira pinomwepi mbafungula mpukutuwo . "
 66005006	Penepo ndidaona Mwanabira aimira pakati na pakati pampando wachifumu wakuzungulirwa na pyakulengwa pyamoyo pinayi pontho na akuluakulu . Mwanabira adaoneka ninga akhadaphiwa . Akhali na nyanga zinomwe , pontho maso manomwe , yeneyi ndi mizimu minomwe ya Mulungu yakutumizwa padziko yonsene yapansi . 
@@ -7677,7 +7677,7 @@
 66006013	Nyenyezi zonsene zakuthambo zidatchodoka mbazigwa pansi ninga kutchodoka kumbachita nkhuyu ziwisi muti ungatekenyeka na mphepo ikulu . 
 66006014	Thambo idakununduka ninga kufunywa kwa mpukutu . Mapiri na ntchuwa pidabuluka m'mbuto mwapyo . 
 66006015	Kubuluka penepo mafumu a padziko yapansi , atongi na akadamu ankhondo , anyakufuma , anyamphamvu na anthu anango onsene , mabitchu na atumbe , adabisala m'madzimba na m'miyala ya m'mapiri . 
-66006016	Iwo adakhuwa kuna mapiri na kuna miyala mbati , " Tigwereni mutibise kuti tileke kuoniwa na nyakukhala pampando wachifumu , pontho kuti tibisike gopa ukali wa Mwanabira ! f6.8 Hade : dziko ya anthu akufa ( yang'anani 1.18 ) . 
+66006016	Iwo adakhuwa kuna mapiri na kuna miyala mbati , " Tigwereni mutibise kuti tileke kuoniwa na nyakukhala pampando wachifumu , pontho kuti tibisike gopa ukali wa Mwanabira !
 66006017	Thangwi nsiku ya kugoswa ya kutchunyuswa kwawo ili pano , mbani , mphapo , anakwanisa kuwangisira ? "
 66007001	Kubuluka penepo ndidaona angelo anayi aimira kunkhomo zinayi za dziko yapansi . Adaphata mphepo zonsene zinayi kuti zileke kumenya dziko yapansi , bara penu pamiti . 
 66007002	Ndidaona mngelo unango akudza kubulukira kumabulukiro dzuwa na chidindo cha Mulungu wamoyo . Iye adachemera mwakugaluza fala angelo anayi ale akhadapasa Mulungu mphamvu zakuvunga nazo dziko yapansi na bara . 
@@ -7777,7 +7777,7 @@
 66012015	Tenepo nthonga ile idapaira madzi makulu m'nduli mwa mkazi ule , towera akukulule mkazi ule . 
 66012016	Mbwenye dziko yapansi idaphedza mkazi ule , idayashamula kukanwa kwache mbakhudyula madzi makulu adapaira nthonga ile . 
 66012017	Nthonga ile idazhangali nave mkazi ule mbienda kamenyana na pidzukulu pyache pikhadasala pile . Enewa akhali ale ambavera matongero a Mulungu mbakhala akukhulupirika kuna pyakuonadi pidatchulula Yesu pile . 
-66013001	Nthonga ile idenda kaimira e m'khundu mwa bara . Kubuluka penepo ndidaona chirombo chikuluthuka kubulukira m'bara . Chikhali na nyanga khumi na misolo minomwe . Nyanga zonsene zidavala chipewu chachifumu chachechache . Pamisolo yonsene pakhali madzina akushola Mulungu . 
+66013001	Nthonga ile idenda kaimira m'khundu mwa bara . Kubuluka penepo ndidaona chirombo chikuluthuka kubulukira m'bara . Chikhali na nyanga khumi na misolo minomwe . Nyanga zonsene zidavala chipewu chachifumu chachechache . Pamisolo yonsene pakhali madzina akushola Mulungu . 
 66013002	Chirombo chenechi chikhaoneka ninga nyalugwe . Manyalo ache akhali ninga a thika . Kanwa yache ikhali ninga ya nkhalamu . Nthonga ile idapereka kuna chirombo mphamvu zache , mpando wache wachifumu na utongi wache ukulu . 
 66013003	Msolo ubodzi wa chirombo ukhaoneka ninga ukhali na njinda , kwache njindacheyo ikhali yakupola kale . Anthu onsene a dziko yonsene yapansi adadodoma mbatewera chirombocho . 
 66013004	Munthu onsene adapembedza nthonga , ile ikhapereka utongi wache kuna chirombo . Iwo adapembedza pontho chirombocho mbati , " Mbani akhala sasawa na chirombochi ? Mbani angamenyane nacho chirombochi ? "
@@ -7817,7 +7817,7 @@
 66014020	Mphesa zidafinywa muchakutswinyira vinyu chile kunja kwa mzinda , pontho chiropa chidatayikira kufikirana matanyo pikwi madzana matatu mbachikwira na makhono mawiri . 
 66015001	Kubuluka penepo ndidaona chidziwiso chinango chikulu pontho chakudodomesa kuthambo . Ndidaona angelo ana miliri minomwe . Yeneyi ikhali yakumalisa thangwi kweneku kukhali kumalisa kwakuonesa ukali wa Mulungu . 
 66015002	Tenepo ndidaona bara yakuoneka ninga gilazi yakuvungazika na moto . Ndidaona pontho ale adakunda chirombo na mfanikizo wache pontho na konta yakuimirira dzinache . Iwo akhaimira m'khundu mwa bara uku aphatira anyakatangale adaapasa Mulungu ale , 
-66015003	mbaimba nyimbo ya Mose nyabasa wa Mulungu , pontho na nyimbo ya Mwanabira mbati , " Mbuya Mulungu Wamphamvu zonsene , mabasanu ngakulu , pontho ngakudodomesa ! Imwe mfumu ya madzinza , s njira zanu nsakulungama pontho zakuonadi !
+66015003	mbaimba nyimbo ya Mose nyabasa wa Mulungu , pontho na nyimbo ya Mwanabira mbati , " Mbuya Mulungu Wamphamvu zonsene , mabasanu ngakulu , pontho ngakudodomesa ! Imwe mfumu ya madzinza , njira zanu nsakulungama pontho zakuonadi !
 66015004	Mbuya , mbani anadzakhonda kukugopani , mbakhonda kukuza ukulu wanu ? Wakuchena ndimwe ene basi . Madzinza onsene anadzabwera mbadzapembedza pamaso panu , thangwi pyakuchita pyanu pyakulungama pyaoneka na onsene ! "
 66015005	Kubuluka penepo ndidaona Nyumba ya Mulungu yafunguka kudzulu . M'bwalo mwache mukhali Chikhumbi cha umboni wa Mulungu . 
 66015006	Angelo anomwe akukhala na miliri minomwe ale adabuluka m'Nyumba ya Mulungu . Adavala nguwo zakuchena zayetiyeti , pontho adamanga mabande a golidi pagangafiiwa pawo . 
@@ -7938,7 +7938,7 @@
 66021014	Mafufu a mzinda wenewu adamangwa pamiyala ya maziko khumi na miwiri yakuikhwa pansi . Pamiyala yeneyi padalembwa madzina khumi na awiri a anyakutumwa a Mwanabira . 
 66021015	Mngelo adalonga na ine ule akhali na mdida wa nthondodzo wa golidi kuyesa nawo mzinda ule , mafufu na misuwo yache . 
 66021016	Mzinda ukhali sasawa makhundu onsene ; umimba na ulaphi wache pikhali sasawa . Mngelo adauyesa mzindawu na mdida wache wa nthondodzo : ulaphi na umimbache na chengo chene pikhali makhono chikwi cha pikwi piwiri na madzana manayi . 
-66021017	Mngelo ule adayesa pontho fufu . Chengo h chache chikhali makhono makumi matanthatu , malingana na mdida ukhaphatisa iye basa . 
+66021017	Mngelo ule adayesa pontho fufu . Chengo chache chikhali makhono makumi matanthatu , malingana na mdida ukhaphatisa iye basa . 
 66021018	Mafufu adasasanywa na miyala yakuchemerwa yasipi . Mzinda udasasanywa na golidi chadichadi wakuonekera ninga gilazi . 
 66021019	Miyala ya maziko a mafufu a mpanda pikhali pyakusasanywa na miyala yamtundu na mtundu yakudula . Mwala wa maziko akutoma ukhali yasipi , wachiwiri ukhali safira , wachitatu ukhali kalikedoni , wachinayi ukhali samarada , 
 66021020	wachishanu ukhali saridoni , wachitanthatu ukhali kaneliani , wachinomwe ukhali kirisolito , wachisere ukhali berilo , wachifemba ukhali topasa , wachikhumi ukhali kirisoparasa , wachikhumi na chibodzi ukhali yakinthu , pontho wachikhumi na chiwiri ukhali amatisita . 
