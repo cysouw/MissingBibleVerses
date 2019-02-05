@@ -1,9 +1,0 @@
-!      2      0  True U+0021 EXCLAMATION MARK
-,    137     46  True U+002c COMMA
-.     72     95  True U+002e FULL STOP
-:      5      1  True U+003a COLON
-?      2      0  True U+003f QUESTION MARK
-«      3      3  True U+00ab LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
-»      5      2  True U+00bb RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
-”      1      0  True U+201d RIGHT DOUBLE QUOTATION MARK
-„      1      0  True U+201e DOUBLE LOW-9 QUOTATION MARK
